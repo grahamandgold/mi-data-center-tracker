@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <!--
-  MICHIGAN DATA CENTER TRACKER — v44
-  michigandatacentertracker.comndatacentertracker.com
+  MICHIGAN DATA CENTER TRACKER — v45
+  michigandatacentertracker.com
   Brand: black / white / red primary · slate-blue (#1E3A5F) secondary utility accent
 
   ╔══════════════════════════════════════════════════════════════════════╗
@@ -386,8 +386,6 @@ h1.wm-inner,
   gap:0;
 }
 .hn-bar-item+.hn-bar-item{
-  padding:10px 20px; border-left:1px solid rgba(255,255,255,.20); }
-.hn-bar-item{
   display:flex;align-items:flex-start;gap:8px;
   padding:5px 0;
   border-bottom:1px solid rgba(255,255,255,.05);
@@ -703,7 +701,7 @@ h2.ev-hdr-title{
 .ev-list{ list-style:none; }
 .ev-item{
   display:grid;
-  grid-template-columns:116px 1fr auto;
+  grid-template-columns:140px 1fr auto;
   gap:18px;
   align-items:start;
   padding:18px 22px;
@@ -717,7 +715,7 @@ h2.ev-hdr-title{
 .ev-date{ display:flex;flex-direction:column;gap:4px;flex-shrink:0; }
 .ev-day{
   font-family:var(--disp);
-  font-size:18px;line-height:1;
+  font-size:16px;line-height:1;
   text-transform:uppercase;letter-spacing:.04em;
   color:var(--blk);
 }
@@ -734,7 +732,7 @@ h2.ev-hdr-title{
 }
 /* Bullseye — Big Story */
 .lead-section{ position:relative;overflow:hidden; }
-.lead-bullseye{ position:absolute;right:-60px;top:50%;transform:translateY(-50%);width:420px;height:420px;pointer-events:none;opacity:.028; }
+.lead-bullseye{ position:absolute;left:-60px;top:-30px;width:600px;height:600px;pointer-events:none;opacity:.09;z-index:0; }
 @media(max-width:680px){ .lead-bullseye{ display:none; } }
 /* THE BIG STORY label shimmer */
 .lead-lbl{
@@ -1534,12 +1532,12 @@ h2.ml-title{
     <!-- ════════════════════════════════════
          ✏️ BIG STORY — update daily
     ════════════════════════════════════ -->
-    <svg class="lead-bullseye" viewBox="0 0 420 420" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-      <circle cx="210" cy="210" r="200" fill="none" stroke="#C8102E" stroke-width="2"/>
-      <circle cx="210" cy="210" r="155" fill="none" stroke="#C8102E" stroke-width="2"/>
-      <circle cx="210" cy="210" r="110" fill="none" stroke="#C8102E" stroke-width="2"/>
-      <circle cx="210" cy="210" r="65" fill="none" stroke="#C8102E" stroke-width="2"/>
-      <circle cx="210" cy="210" r="22" fill="none" stroke="#C8102E" stroke-width="2"/>
+    <svg class="lead-bullseye" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+      <circle cx="300" cy="300" r="285" fill="none" stroke="#C8102E" stroke-width="4"/>
+      <circle cx="300" cy="300" r="220" fill="none" stroke="#C8102E" stroke-width="3.5"/>
+      <circle cx="300" cy="300" r="158" fill="none" stroke="#C8102E" stroke-width="3"/>
+      <circle cx="300" cy="300" r="95" fill="none" stroke="#C8102E" stroke-width="3"/>
+      <circle cx="300" cy="300" r="35" fill="none" stroke="#C8102E" stroke-width="3"/>
     </svg>
     <article class="lead">
       <div class="lead-lbl">The Big Story</div>
