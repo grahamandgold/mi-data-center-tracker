@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <!--
-  MICHIGAN DATA CENTER TRACKER — v35
+  MICHIGAN DATA CENTER TRACKER — v36
   michigandatacentertracker.com
   Brand: black / white / red primary · slate-blue (#1E3A5F) secondary utility accent
 
@@ -963,7 +963,10 @@ h2.rec-hdr-title{
   display:grid;
   grid-template-columns:repeat(2,1fr);
   gap:0;
+  list-style:none;
 }
+.rec-list li{ list-style:none; }
+.rec-list li::marker{ font-size:0; }
 .rec-item{
   display:flex;gap:10px;align-items:flex-start;
   padding:16px 18px;border-bottom:1px solid var(--bdr);
