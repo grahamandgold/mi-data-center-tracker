@@ -805,6 +805,9 @@ h2.ev-hdr-title{
 .ev-toggle-icon{ font-size:11px;transition:transform .2s; }
 .ev-extra-list{ display:none;list-style:none; }
 .ev-extra-list.open{ display:block; }
+.ev-toggle-wrap{ display:flex;flex-direction:column; }
+.ev-toggle-wrap .ev-toggle-btn{ order:1; }
+.ev-toggle-wrap .ev-extra-list{ order:2; }
 
 /* ══════════════════════════════════════════════════════════
    REGIONAL COVERAGE GRID
@@ -1056,15 +1059,15 @@ h2.chat-hdr-title{
 .chat-extra-list{ display:none; }
 .chat-extra-list.open{ display:block; }
 .chat-toggle-btn{
-  display:flex;align-items:center;justify-content:space-between;
-  width:100%;background:#fff;border:none;
-  border-top:2px solid var(--red);
-  font-family:var(--disp);font-size:12px;font-weight:900;
-  letter-spacing:.12em;text-transform:uppercase;
-  color:var(--red);padding:14px 20px;cursor:pointer;
-  transition:background .12s,color .12s;
+  display:flex;align-items:center;justify-content:center;gap:14px;
+  width:100%;background:var(--char);border:none;
+  border-top:3px solid var(--blk);
+  font-family:var(--disp);font-size:13px;font-weight:900;
+  letter-spacing:.22em;text-transform:uppercase;
+  color:#fff;padding:16px 20px;cursor:pointer;
+  transition:background .15s;
 }
-.chat-toggle-btn:hover{ background:var(--red);color:#fff; }
+.chat-toggle-btn:hover{ background:var(--blu); }
 
 /* ══════════════════════════════════════════════════════════
    SPONSOR BOARD
@@ -2098,7 +2101,7 @@ h2.ml-title{
     </li>
   </ul>
   <div>
-    <button class="chat-toggle-btn" id="chat-toggle-btn" aria-expanded="false"> id="chat-toggle-btn" aria-expanded="false">
+    <button class="chat-toggle-btn" id="chat-toggle-btn" aria-expanded="false">
       <span>More Chatter</span>
       <span id="chat-toggle-icon" style="font-size:18px;font-weight:900;line-height:1;">+</span>
     </button>
