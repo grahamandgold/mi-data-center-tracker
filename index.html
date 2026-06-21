@@ -22,8 +22,8 @@
   ╚══════════════════════════════════════════════════════════════════════╝
 
   REQUIRED ASSETS — deploy these files alongside the HTML:
-    assets/header-final7.mp4   → masthead video (powerline / Michigan infrastructure)
-    assets/meetings-bg.jpg     → civic hearing room photo for Meetings banner
+    header.mp4   → masthead video (powerline / Michigan infrastructure)
+    meetings-bg.jpg     → civic hearing room photo for Meetings banner
     social-card.jpg     → 1200×630px OG/Twitter share image (TODO: create before launch)
 -->
 <head>
@@ -644,7 +644,7 @@ h1.wm-inner,
 }
 .ev-hdr-bg{
   position:absolute;inset:0;
-  background-image:url('assets/meetings-bg.jpg');
+  background-image:url('meetings-bg.jpg');
   background-size:cover;
   background-position:center 25%;
   opacity:0.92;
@@ -1369,7 +1369,7 @@ h2.ml-title{
     <div id="hdr-visual">
       <!-- ✏️ ASSET: header video -->
       <video id="hdr-video"
-        src="assets/header-final7.mp4"
+        src="header.mp4"
         autoplay muted loop playsinline
         preload="auto" aria-hidden="true" tabindex="-1">
       </video>
