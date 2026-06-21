@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <!--
-  MICHIGAN DATA CENTER TRACKER — v34
+  MICHIGAN DATA CENTER TRACKER — v35
   michigandatacentertracker.com
   Brand: black / white / red primary · slate-blue (#1E3A5F) secondary utility accent
 
@@ -885,6 +885,8 @@ h3.reg-name{
 }
 
 .reg-cell ul{ list-style:none;padding:0;margin:0; }
+.reg-cell ul li{ list-style:none; }
+.reg-cell ul li::marker{ font-size:0; }
 .reg-item{
   display:flex;gap:10px;align-items:flex-start;
   padding:12px 14px;border-bottom:1px solid var(--bdr);
@@ -1386,7 +1388,7 @@ h2.ml-title{
   <ul class="nav-links">
     <li><a href="#hn">Top Stories</a></li>
     <li><a href="#events">Meetings &amp; Hearings</a></li>
-    <li><a href="#regions">Regional Coverage</a></li>
+    <li><a href="#regions">Your Area</a></li>
     <li><a href="/map">Live Map</a></li>
     <li><a href="#chatter">Live Chatter</a></li>
     <li><a href="#nl">Newsletter</a></li>
@@ -1430,7 +1432,7 @@ h2.ml-title{
   <nav id="rnav" aria-label="Regional sections">
     <a href="#events">Meetings</a>
     <a href="/map"><span class="rnav-short">Map</span><span class="rnav-full">Live Map</span></a>
-    <a href="#regions"><span class="rnav-short">Regions</span><span class="rnav-full">Regional Coverage</span></a>
+    <a href="#regions"><span class="rnav-short">Your Area</span><span class="rnav-full">Your Area</span></a>
     <a href="#chatter">Chatter</a>
     <a href="#rec">Learn</a>
   </nav>
@@ -1649,6 +1651,10 @@ h2.ml-title{
           </div>
       </li>
     </ul>
+    <button class="ev-toggle-btn ev-collapse-btn" id="ev-collapse-btn" style="display:none;" aria-expanded="false">
+      <span>Show Less</span>
+      <span style="font-size:18px;font-weight:900;line-height:1;">−</span>
+    </button>
   </div>
 </section>
 
@@ -2170,14 +2176,23 @@ if(chatBtn&&chatExtra){
 }
 
 // ── MEETINGS TOGGLE ──────────────────────────────────────
-const evBtn=document.querySelector('.ev-toggle-btn');
+const evBtn=document.querySelector('.ev-toggle-btn:not(.ev-collapse-btn)');
 const evList=document.querySelector('.ev-extra-list');
+const evIcon=document.querySelector('.ev-toggle-icon');
+const evColBtn=document.getElementById('ev-collapse-btn');
 if(evBtn&&evList){
-  evBtn.addEventListener('click',()=>{
+  evBtn.addEventListener('click',function(){
     const open=evList.classList.toggle('open');
     evBtn.setAttribute('aria-expanded',open);
-    evList.setAttribute('aria-hidden',!open);
-    document.querySelector('.ev-toggle-icon').textContent=open?'−':'+';
+    if(evIcon) evIcon.textContent=open?'−':'+';
+    if(open){evBtn.style.display='none';if(evColBtn)evColBtn.style.display='flex';}
+  });
+}
+if(evColBtn&&evList){
+  evColBtn.addEventListener('click',function(){
+    evList.classList.remove('open');
+    evColBtn.style.display='none';
+    if(evBtn){evBtn.style.display='flex';evBtn.setAttribute('aria-expanded','false');if(evIcon)evIcon.textContent='+';}
   });
 }
 
