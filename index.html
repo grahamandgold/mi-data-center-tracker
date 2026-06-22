@@ -134,7 +134,7 @@ body{
   overflow-x:hidden;
   line-height:1.5;
 }
-.lead,.story-rows,.story-row{ background:#fff; }
+.lead{ background:#fff; }
 .reg-item,.rec-item,.ev-item{ background:#fff; }
 #nl{ background:rgba(245,247,249,0.96); }
 a{color:inherit;text-decoration:none;}
@@ -548,20 +548,20 @@ h1.wm-inner,
 
 /* Stories 2–4 */
 .story-rows{
-  display:flex;flex-direction:column;background:var(--bg);
+  display:flex;flex-direction:column;background:var(--blk);
   min-width:0;overflow:hidden;
   justify-content:space-between;
 }
 .story-row{
   display:flex;gap:12px;align-items:flex-start;
-  padding:14px 18px;border-bottom:1px solid var(--bdr);
-  text-decoration:none;color:var(--blk);
+  padding:14px 18px;border-bottom:1px solid rgba(255,255,255,.07);
+  text-decoration:none;color:rgba(255,255,255,.88);
   transition:background .12s;
   flex:1;
 }
 .story-row:last-child{ border-bottom:none; }
-.story-row:hover{ background:var(--off); }
-.story-row:hover .s-hed{ color:var(--blu); }
+.story-row:hover{ background:rgba(255,255,255,.04); }
+.story-row:hover .s-hed{ color:rgba(255,255,255,1); }
 .s-source{
   display:inline-block;
   font-family:var(--sans);font-size:9px;font-weight:800;
@@ -579,16 +579,16 @@ h1.wm-inner,
 
 .s-num{
   font-family:var(--disp);font-size:22px;font-weight:900;
-  color:#AAACB4;line-height:1;flex-shrink:0;
+  color:rgba(255,255,255,.18);line-height:1;flex-shrink:0;
   width:22px;text-align:right;padding-top:3px;
 }
 .s-body{ flex:1;min-width:0; }
 .s-hed{
   font-size:14px;font-weight:700;
-  line-height:1.42;color:var(--blk);margin-bottom:4px;
+  line-height:1.42;color:rgba(255,255,255,.92);margin-bottom:4px;
   transition:color .12s;
 }
-.s-date{ font-size:11px;color:var(--mid);font-weight:700; }
+.s-date{ font-size:11px;color:rgba(255,255,255,.38);font-weight:700; }
 
 /* More Stories */
 @keyframes more-pulse{
@@ -597,7 +597,7 @@ h1.wm-inner,
 }
 .hn-more,.ev-toggle-btn,.chat-toggle-btn{
   display:flex;align-items:center;justify-content:space-between;
-  width:100%;padding:11px 18px;background:var(--off);border:none;cursor:pointer;
+  width:100%;padding:11px 18px;background:rgba(255,255,255,.04);border:none;cursor:pointer;
   font-family:var(--body);font-size:11px;font-weight:800;
   letter-spacing:.12em;text-transform:uppercase;
   color:var(--red);text-decoration:none;
