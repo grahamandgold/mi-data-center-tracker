@@ -134,7 +134,7 @@ body{
   overflow-x:hidden;
   line-height:1.5;
 }
-.lead{ background:#fff; }
+.lead{ background:var(--blk); }
 .reg-item,.rec-item,.ev-item{ background:#fff; }
 #nl{ background:rgba(245,247,249,0.96); }
 a{color:inherit;text-decoration:none;}
@@ -521,7 +521,7 @@ h1.wm-inner,
   font-family:'Arial Narrow',Arial,Helvetica,sans-serif;
   font-size:clamp(28px,4.4vw,48px);
   font-weight:900;line-height:1.08;letter-spacing:-.015em;
-  text-transform:uppercase;color:var(--blk);
+  text-transform:uppercase;color:rgba(255,255,255,.95);
   margin-bottom:14px;
   max-width:22ch;
 }
@@ -536,7 +536,7 @@ h1.wm-inner,
 .lead-meta{
   display:block;
   font-size:11px;font-weight:700;letter-spacing:.04em;
-  color:var(--mid);margin-bottom:6px;
+  color:rgba(255,255,255,.38);margin-bottom:6px;
 }
 .s-date{
   display:block;
@@ -632,7 +632,7 @@ h1.wm-inner,
   .lead-num{
     display:block;
     font-family:var(--disp);font-size:20px;font-weight:900;
-    color:#AAACB4;line-height:1;flex-shrink:0;
+    color:rgba(255,255,255,.18);line-height:1;flex-shrink:0;
     width:18px;text-align:right;padding-top:3px;
   }
   .lead-body{ flex:1;min-width:0; }
@@ -1730,9 +1730,12 @@ h2.ml-title{
   font-weight:600;
   letter-spacing:.04em;
   text-transform:none;
-  color:rgba(255,255,255,.40);
+  color:rgba(255,255,255,.35);
   font-size:11.5px;
 }
+.ts-inner:has(.ts-slogan.ts-active) .ts-dot,
+.ts-inner:has(.ts-slogan.ts-active) .ts-label,
+.ts-inner:has(.ts-slogan.ts-active) .ts-divider{ opacity:0; transition:opacity .5s ease; }
 .ts-flip-item.ts-active{
   opacity:1;
   pointer-events:auto;
@@ -1905,7 +1908,7 @@ h2.ml-title{
     <!-- ════════════════════════════════════
          ✏️ STORIES 2–4 — update daily
     ════════════════════════════════════ -->
-    <div class="media-reports-lbl">Media Reports</div>
+    <div class="media-reports-lbl">Big Stories — Media Reports</div>
     <div class="story-rows">
 
       <a class="story-row" href="#" target="_blank" rel="noopener">
@@ -2298,6 +2301,7 @@ h2.ml-title{
      REGIONAL COVERAGE
 ════════════════════════════════════════════════════════ -->
 <section id="regions" aria-labelledby="regions-hed">
+  <div class="media-reports-lbl">More Media Reports</div>
   <div class="reg-hdr">
     <h2 class="reg-hdr-title" id="regions-hed">Regional Coverage</h2>
   </div>
