@@ -562,19 +562,12 @@ h1.wm-inner,
 .story-row:last-child{ border-bottom:none; }
 .story-row:hover{ background:rgba(255,255,255,.04); }
 .story-row:hover .s-hed{ color:rgba(255,255,255,1); }
-.s-source{
-  display:inline-block;
+.media-reports-lbl{
   font-family:var(--sans);font-size:9px;font-weight:800;
-  letter-spacing:.11em;text-transform:uppercase;
-  color:rgba(255,255,255,.55);background:rgba(255,255,255,.07);
-  padding:2px 6px;border-radius:2px;margin-bottom:4px;
-}
-.lead-source{
-  display:inline-block;
-  font-family:var(--sans);font-size:9px;font-weight:800;
-  letter-spacing:.11em;text-transform:uppercase;
-  color:var(--red);background:rgba(200,16,46,.12);
-  padding:2px 7px;border-radius:2px;margin-bottom:8px;
+  letter-spacing:.13em;text-transform:uppercase;
+  color:rgba(255,255,255,.30);
+  padding:10px 18px 6px;
+  border-bottom:1px solid rgba(255,255,255,.07);
 }
 
 .s-num{
@@ -1732,6 +1725,14 @@ h2.ml-title{
   transition:opacity .5s ease;
   pointer-events:none;
 }
+.ts-flip-item.ts-slogan{
+  font-style:italic;
+  font-weight:600;
+  letter-spacing:.04em;
+  text-transform:none;
+  color:rgba(255,255,255,.40);
+  font-size:11.5px;
+}
 .ts-flip-item.ts-active{
   opacity:1;
   pointer-events:auto;
@@ -1825,7 +1826,7 @@ h2.ml-title{
     <span class="ts-label">Tracker Status</span>
     <span class="ts-divider" aria-hidden="true"></span>
     <div class="ts-flip-wrap" aria-live="off">
-      <span class="ts-flip-item ts-active">Independent · Aggregated · Nonpartisan</span>
+      <span class="ts-flip-item ts-slogan ts-active">Independent · Aggregated · Nonpartisan</span>
       <span class="ts-flip-item">14 planned projects tracked statewide</span>
       <span class="ts-flip-item">Nearly 3 GW of proposed capacity</span>
       <span class="ts-flip-item">At least 25 active local moratoria</span>
@@ -1891,7 +1892,6 @@ h2.ml-title{
       <div class="lead-mobile-row">
         <span class="lead-num" aria-hidden="true">1</span>
         <div class="lead-body">
-          <span class="lead-source">Lansing State Journal</span>
         <h2 class="lead-hed">
             <a href="#" target="_blank" rel="noopener"
               >Lansing: Michigan data center fight hits Capitol as Senate Democrats roll out new rules</a>
@@ -1905,12 +1905,12 @@ h2.ml-title{
     <!-- ════════════════════════════════════
          ✏️ STORIES 2–4 — update daily
     ════════════════════════════════════ -->
+    <div class="media-reports-lbl">Media Reports</div>
     <div class="story-rows">
 
       <a class="story-row" href="#" target="_blank" rel="noopener">
         <span class="s-num" aria-hidden="true">2</span>
         <div class="s-body">
-          <span class="s-source">MLive</span>
           <div class="s-hed">Gaines Twp. planning commission OKs moratorium on new data center zoning</div>
           <div class="s-date" data-ts="2026-06-19T18:00:00">Jun. 19</div>
         </div>
@@ -1919,7 +1919,6 @@ h2.ml-title{
       <a class="story-row" href="#" target="_blank" rel="noopener">
         <span class="s-num" aria-hidden="true">3</span>
         <div class="s-body">
-          <span class="s-source">Bridge Michigan</span>
           <div class="s-hed">Advocates push mandatory water-use reporting for data centers in state legislation</div>
           <div class="s-date" data-ts="2026-06-18T11:00:00">Jun. 18</div>
         </div>
@@ -1928,7 +1927,6 @@ h2.ml-title{
       <a class="story-row" href="#" target="_blank" rel="noopener">
         <span class="s-num" aria-hidden="true">4</span>
         <div class="s-body">
-          <span class="s-source">Energy News Network</span>
           <div class="s-hed">Consumers Energy IRP revision includes 1.4 GW data center demand scenario</div>
           <div class="s-date" data-ts="2026-06-17T14:00:00">Jun. 17</div>
         </div>
