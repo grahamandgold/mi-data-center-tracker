@@ -317,29 +317,6 @@ h1.wm-inner,
   font-weight:400;letter-spacing:.28em;;text-transform:uppercase;
   color:rgba(255,255,255,1);text-shadow:0 1px 4px rgba(0,0,0,.6);line-height:1.2;display:block;
 }
-.wm-slogan{
-  font-family:var(--sans);
-  font-size:clamp(8px,1vw,10px);
-  font-weight:700;
-  letter-spacing:.2em;
-  text-transform:uppercase;
-  color:rgba(255,255,255,.5);
-  margin-top:5px;
-  display:block;
-  line-height:1;
-  text-shadow:none;
-}
-.wm-slogan{
-  font-family:var(--sans);
-  font-size:clamp(8px,1.1vw,11px);
-  font-weight:600;
-  letter-spacing:.22em;
-  text-transform:uppercase;
-  color:rgba(255,255,255,.55);
-  margin-top:6px;
-  display:block;
-  line-height:1;
-}
 
 /* Region nav */
 #rnav{
@@ -1705,8 +1682,10 @@ h2.ml-title{
   border-radius:50%;
   background:var(--red);
   flex-shrink:0;
-  opacity:.9;
+  opacity:1;
+  animation:dotpulse 2.4s ease-in-out infinite;
 }
+@keyframes dotpulse{ 0%,100%{opacity:1;transform:scale(1)} 50%{opacity:.4;transform:scale(.75)} }
 .ts-label{
   font-family:var(--sans);
   font-size:12px;
@@ -1808,7 +1787,6 @@ h2.ml-title{
         <span class="wm-state">Michigan</span>
         <span class="wm-rule"></span>
         <span class="wm-sub">Data Center Tracker</span>
-        <span class="wm-slogan">Independent· Aggregated · Nonpartisan</span>
       </h1>
     </a>
     <!-- Subscribe CTA -->
@@ -1840,7 +1818,8 @@ h2.ml-title{
     <span class="ts-label">Tracker Status</span>
     <span class="ts-divider" aria-hidden="true"></span>
     <div class="ts-flip-wrap" aria-live="off">
-      <span class="ts-flip-item ts-active">14 planned projects tracked statewide</span>
+      <span class="ts-flip-item ts-active">Independent · Aggregated · Nonpartisan</span>
+      <span class="ts-flip-item">14 planned projects tracked statewide</span>
       <span class="ts-flip-item">Nearly 3 GW of proposed capacity</span>
       <span class="ts-flip-item">At least 25 active local moratoria</span>
     </div>
