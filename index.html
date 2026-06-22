@@ -616,6 +616,10 @@ h1.wm-inner,
 .lead-num{ display:none; }
 
 @media(max-width:679px){
+  /* THE LATEST: slim on mobile, show only 1 item */
+  .hn-bar{ padding:0 14px; }
+  .hn-bar-item:nth-child(n+2){ display:none; }
+  .hn-bar-top{ padding:6px 0 5px; }
   /* Lead story: match story-row look on mobile */
   .lead{ padding:11px 18px 13px;border-left:3px solid var(--red); }
   .lead-lbl{ display:none; }
@@ -721,6 +725,7 @@ h1.wm-inner,
   color:#fff;flex-shrink:0;white-space:nowrap;
 }
 @media(max-width:540px){
+  .ts-slogan, .ts-inner .ts-divider:nth-child(4){ display:none; }
   .map-cta-text{ display:none; }
 }
 
@@ -1718,17 +1723,16 @@ h2.ml-title{
   transition:opacity .5s ease;
   pointer-events:none;
 }
-.ts-flip-item.ts-slogan{
-  font-style:italic;
-  font-weight:600;
-  letter-spacing:.04em;
-  text-transform:none;
-  color:rgba(255,255,255,.35);
-  font-size:11.5px;
+.ts-slogan{
+  font-family:var(--sans);
+  font-size:11px;
+  font-weight:700;
+  letter-spacing:.08em;
+  text-transform:uppercase;
+  color:rgba(255,255,255,.55);
+  white-space:nowrap;
+  flex-shrink:0;
 }
-.ts-inner:has(.ts-slogan.ts-active) .ts-dot,
-.ts-inner:has(.ts-slogan.ts-active) .ts-label,
-.ts-inner:has(.ts-slogan.ts-active) .ts-divider{ opacity:0; transition:opacity .5s ease; }
 .ts-flip-item.ts-active{
   opacity:1;
   pointer-events:auto;
@@ -1821,9 +1825,10 @@ h2.ml-title{
     <span class="ts-dot" aria-hidden="true"></span>
     <span class="ts-label">Tracker Status</span>
     <span class="ts-divider" aria-hidden="true"></span>
+    <span class="ts-slogan">Independent · Aggregated · Nonpartisan</span>
+    <span class="ts-divider" aria-hidden="true"></span>
     <div class="ts-flip-wrap" aria-live="off">
-      <span class="ts-flip-item ts-slogan ts-active">Independent · Aggregated · Nonpartisan</span>
-      <span class="ts-flip-item">14 planned projects tracked statewide</span>
+      <span class="ts-flip-item ts-active">14 planned projects tracked statewide</span>
       <span class="ts-flip-item">Nearly 3 GW of proposed capacity</span>
       <span class="ts-flip-item">At least 25 active local moratoria</span>
     </div>
