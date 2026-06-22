@@ -371,6 +371,28 @@ h1.wm-inner,
 
 .hdr-rule{ height:3px;background:var(--red);position:relative;z-index:2; }
 
+/* ── WHAT WE'RE WATCHING — mobile upgrade ───────────────────────────────── */
+@media(max-width:679px){
+  .hn-bar{
+    border-left:3px solid var(--red);
+  }
+  .hn-bar-label{
+    font-size:11px;
+    letter-spacing:.12em;
+  }
+  .hn-bar-text{
+    font-size:13px;
+    font-weight:600;
+    color:rgba(255,255,255,.88);
+  }
+  .hn-bar-tag{
+    font-size:9px;
+  }
+  .hn-bar-item{
+    padding:7px 0;
+  }
+}
+
 /* ══════════════════════════════════════════════════════════
    WHAT WE'RE WATCHING BAR
 ══════════════════════════════════════════════════════════ */
@@ -1619,16 +1641,16 @@ h2.ml-title{
   }
 }
 
-/* 4. Fixed nav on mobile — always visible at top */
+/* 4. Nav on mobile — scrolls naturally with page, masthead leads */
 @media(max-width:680px){
   #rnav{
-    position:fixed;
-    top:0;
-    left:0;
+    position:relative;
+    top:auto;
+    left:auto;
     width:100%;
-    z-index:200;
+    z-index:3;
   }
-  header{ padding-top:40px; }
+  header{ padding-top:0; }
 }
 
 /* 5. Footer — remove the stray gap entity spacing */
@@ -1706,9 +1728,9 @@ h2.ml-title{
   pointer-events:auto;
 }
 @media(max-width:539px){
-  .ts-inner{ padding:8px 12px; gap:8px; }
-  .ts-label{ font-size:10px; letter-spacing:.10em; }
-  .ts-flip-item{ font-size:10.5px; letter-spacing:.04em; }
+  .ts-label,.ts-divider{ display:none; }
+  .ts-inner{ padding:7px 12px; gap:8px; }
+  .ts-flip-item{ font-size:11px; letter-spacing:.05em; }
 }
 </style>
 </head>
