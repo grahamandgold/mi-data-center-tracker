@@ -158,8 +158,8 @@ button{font-family:inherit;cursor:pointer;}
 .nl-ribbon{
   box-shadow:0 4px 18px rgba(200,16,46,.35);
   position:relative;z-index:1;
-  border-top:3px solid var(--red);
-  border-bottom:3px solid var(--red);
+  border-top:2px solid var(--red);
+  border-bottom:2px solid var(--red);
 }
 #events .ev-hdr{
   box-shadow:0 3px 10px rgba(0,0,0,.12);
@@ -581,7 +581,7 @@ h1.wm-inner,
   0%,100%{ opacity:1;transform:translateX(0); }
   50%{ opacity:.6;transform:translateX(3px); }
 }
-.hn-more,.ev-toggle-btn{
+.hn-more,.ev-toggle-btn,.chat-toggle-btn{
   display:flex;align-items:center;justify-content:space-between;
   width:100%;padding:11px 18px;background:var(--off);border:none;cursor:pointer;
   font-family:var(--body);font-size:11px;font-weight:800;
@@ -942,7 +942,7 @@ h2.ev-hdr-title{
   .ev-pill{ padding:7px 10px;font-size:10px; }
 }
 
-.ev-extra-wrap{ border-top:1px solid var(--bdr); }
+.ev-extra-wrap{ border-top:none !important; border-top:1px solid var(--bdr); }
 .
 .ev-toggle-btn:hover{ background:#fff0f0;color:#a00; }ppercase;
   color:#fff;padding:16px 20px;cursor:pointer;
@@ -1683,9 +1683,7 @@ h2.ml-title{
   background:var(--red);
   flex-shrink:0;
   opacity:1;
-  animation:dotpulse 2.4s ease-in-out infinite;
 }
-@keyframes dotpulse{ 0%,100%{opacity:1;transform:scale(1)} 50%{opacity:.4;transform:scale(.75)} }
 .ts-label{
   font-family:var(--sans);
   font-size:12px;
