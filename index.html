@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <!--
-  MICHIGAN DATA CENTER TRACKER — v56
+  MICHIGAN DATA CENTER TRACKER — v57
   michigandatacentertracker.comndatacentertracker.com
   Brand: black / white / red primary · slate-blue (#1E3A5F) secondary utility accent
 
@@ -161,9 +161,7 @@ button{font-family:inherit;cursor:pointer;}
 #events .ev-hdr{
   box-shadow:0 3px 10px rgba(0,0,0,.12);
 }
-.sponsor-board{
-  box-shadow:0 -4px 14px rgba(0,0,0,.10), 0 4px 14px rgba(0,0,0,.10);
-}
+/* sponsor-board shadow handled inline */
 
 /* ══════════════════════════════════════════════════════════
    MASTHEAD
@@ -406,7 +404,7 @@ h1.wm-inner,
   animation:sat-ping 3.5s ease-in-out infinite;
 }
 .hn-bar-date{
-  font-family:var(--mono,'Courier New',monospace);font-size:9px;font-weight:400;
+  font-family:var(--mono,'Courier New',monospace);font-size:15px;font-weight:700;
   color:rgba(255,255,255,.75);letter-spacing:.05em;text-transform:uppercase;
   margin-left:auto;white-space:nowrap;
   border:1px solid rgba(255,255,255,.12);
@@ -430,6 +428,13 @@ h1.wm-inner,
   font-family:var(--body);font-size:12px;font-weight:500;
   color:rgba(255,255,255,.75);line-height:1.4;flex:1;min-width:0;
 }
+@keyframes hn-glow{
+  0%,100%{ color:rgba(255,255,255,.50); }
+  50%{ color:#fff; text-shadow:0 0 10px rgba(255,255,255,.55); }
+}
+.hn-bar-item:nth-child(1) .hn-bar-text a{ animation:hn-glow 3s ease-in-out 0s infinite; }
+.hn-bar-item:nth-child(2) .hn-bar-text a{ animation:hn-glow 3s ease-in-out 1s infinite; }
+.hn-bar-item:nth-child(3) .hn-bar-text a{ animation:hn-glow 3s ease-in-out 2s infinite; }
 .hn-bar-text a{
   color:inherit;text-decoration:none;
   transition:color .12s;
@@ -512,7 +517,7 @@ h1.wm-inner,
   font-size:10px;font-weight:600;letter-spacing:.03em;
   color:var(--mid);margin-top:3px;
 }
-.ts-fresh{ color:var(--red) !important; }
+.ts-fresh{ color:var(--red) !important; font-weight:800 !important; }
 .lead-meta{ font-size:11px;color:var(--mid);font-weight:700; }
 
 /* Stories 2–4 */
@@ -1216,75 +1221,61 @@ h2.chat-hdr-title{
    SPONSOR BOARD
 ══════════════════════════════════════════════════════════ */
 .sponsor-board{
-  position:relative;
-  overflow:hidden;
-  background:#0a0a0c;
-  border-top:3px solid var(--red);
-  border-bottom:3px solid var(--red);
-  margin:28px 0;
-  padding:48px 32px;
-  text-align:left;
+  background:#f8f9fc;
+  border:2px solid var(--bdr2);
+  border-left:5px solid var(--red);
+  border-radius:2px;
+  margin:28px 22px;
+  padding:28px 28px 24px;
+  text-align:center;
+  box-shadow:0 2px 12px rgba(0,0,0,.07);
 }
-.sponsor-board::before{
-  content:'';
-  position:absolute;
-  inset:0;
-  background-image:url("michigan%20night%20view.jpg");
-  background-size:cover;
-  background-position:right 40%;
-  opacity:.26;
-  z-index:0;
-  pointer-events:none;
-}
-.sponsor-board::after{
-  content:'';
-  position:absolute;
-  inset:0;
-  background:linear-gradient(to right,rgba(10,10,12,.97) 0%,rgba(10,10,12,.85) 55%,rgba(10,10,12,.45) 100%);
-  z-index:1;
-  pointer-events:none;
-}
+.sponsor-board::before{ display:none; content:''; }
+.sponsor-board::after{ display:none; content:''; }
 .sponsor-inner{
   position:relative;
   z-index:2;
-  max-width:640px;
+  max-width:560px;
+  margin:0 auto;
 }
 .sponsor-eyebrow{
   display:block;
   font-family:var(--body);font-size:9px;font-weight:800;
   letter-spacing:.2em;text-transform:uppercase;
-  color:var(--red);margin-bottom:14px;
+  color:var(--lite);margin-bottom:10px;
 }
 .sponsor-hed{
-  font-family:var(--disp);font-size:clamp(20px,2.6vw,30px);font-weight:900;
-  letter-spacing:-.01em;line-height:1.1;text-transform:uppercase;
-  color:#fff;margin-bottom:14px;
+  font-family:var(--disp);font-size:clamp(17px,2.2vw,24px);font-weight:900;
+  letter-spacing:-.01em;line-height:1.15;text-transform:uppercase;
+  color:var(--blk);margin-bottom:10px;
 }
 .sponsor-body{
-  font-family:var(--body);font-size:13.5px;line-height:1.6;
-  color:rgba(255,255,255,.60);margin-bottom:14px;max-width:52ch;
+  font-family:var(--body);font-size:13px;line-height:1.6;
+  color:var(--mid);margin-bottom:12px;max-width:52ch;
+  margin-left:auto;margin-right:auto;
 }
 .sponsor-tags{
   font-family:var(--body);font-size:9px;font-weight:700;
   letter-spacing:.15em;text-transform:uppercase;
-  color:rgba(255,255,255,.30);margin-bottom:22px;
+  color:var(--lite);margin-bottom:18px;
 }
 .sponsor-cta-btn{
   display:inline-block;
   font-family:var(--body);font-size:11px;font-weight:800;
   letter-spacing:.14em;text-transform:uppercase;
   color:#fff;
+  background:var(--red);
   border:2px solid var(--red);
-  padding:9px 22px;
+  padding:10px 26px;
   text-decoration:none;
   transition:background .15s,color .15s;
 }
-.sponsor-cta-btn:hover{ background:var(--red);color:#fff; }
+.sponsor-cta-btn:hover{ background:var(--rdk);border-color:var(--rdk); }
 .sponsor-disclaimer{
-  display:block;margin-top:16px;
+  display:block;margin-top:14px;
   font-family:var(--body);font-size:10px;
-  color:rgba(255,255,255,.22);font-style:italic;
-  max-width:52ch;
+  color:var(--lite);font-style:italic;
+  max-width:52ch;margin-left:auto;margin-right:auto;
 }
 
 
