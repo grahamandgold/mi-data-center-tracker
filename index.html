@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <!--
-  MICHIGAN DATA CENTER TRACKER — v60
+  MICHIGAN DATA CENTER TRACKER — v61
   michigandatacentertracker.comndatacentertracker.com
   Brand: black / white / red primary · slate-blue (#1E3A5F) secondary utility accent
 
@@ -205,7 +205,7 @@ button{font-family:inherit;cursor:pointer;}
   object-fit:cover;
   object-position:75% 43%;
   opacity:1.0;
-  filter:brightness(1.15) contrast(1.05) saturate(1.1);
+  filter:brightness(1.30) contrast(1.02) saturate(1.1);
   z-index:0;
 }
 @media(min-width:540px){ #hdr-video{ object-position:60% 43%; } }
@@ -214,13 +214,13 @@ button{font-family:inherit;cursor:pointer;}
 #hdr-visual::before{ content:''; display:none; }
 #hdr-overlay{
   position:absolute;inset:0;
-  /* Mobile: enough dark left-side for readability, open right for image */
+  /* Mobile: dark left for logo readability, open right for image to breathe */
   background:linear-gradient(to right,
-    rgba(13,13,15,.82)  0%,
-    rgba(13,13,15,.72) 30%,
-    rgba(13,13,15,.40) 50%,
-    rgba(13,13,15,.10) 68%,
-    rgba(13,13,15,.01) 100%
+    rgba(13,13,15,.68)  0%,
+    rgba(13,13,15,.56) 30%,
+    rgba(13,13,15,.28) 50%,
+    rgba(13,13,15,.08) 68%,
+    rgba(13,13,15,.00) 100%
   );
   z-index:2;
   pointer-events:none;
@@ -312,9 +312,9 @@ h1.wm-inner,
   background:var(--red);margin:7px 0 6px;
   max-width:100%;
 }
-/* On mobile cap the red rule to the MICHIGAN text natural width */
+/* Mobile: red rule stays full width of MICHIGAN wordmark (which is display:block) */
 @media(max-width:539px){
-  .wm-rule{ width:min(100%,var(--wm-rule-w,100%)); max-width:fit-content; }
+  .wm-rule{ width:100%; max-width:none; }
   .wm-inner{ align-items:flex-start; }
 }
 .wm-sub{
