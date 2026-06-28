@@ -81,38 +81,6 @@
       margin-top: 3px;
     }
 
-    /* 5. Share buttons on story cards */
-    .share-row {
-      display: flex;
-      gap: 8px;
-      margin-top: auto;
-      padding-top: 12px;
-      flex-shrink: 0;
-      align-self: flex-start;
-      width: 100%;
-    }
-    .share-btn {
-      display: inline-flex;
-      align-items: center;
-      justify-content: center;
-      gap: 5px;
-      padding: 6px 10px;
-      border: 1px solid #dfe2e8;
-      background: #fff;
-      color: #555965;
-      font-size: .62rem;
-      font-weight: 900;
-      letter-spacing: .08em;
-      text-transform: uppercase;
-      cursor: pointer;
-      text-decoration: none;
-      transition: background .15s;
-      height: 32px;
-      flex: 0 0 auto;
-    }
-    .share-btn:hover { background: #f0f2f5; }
-    .share-btn svg { width: 12px; height: 12px; fill: currentColor; flex-shrink: 0; }
-
     /* 6. Sticky mobile CTA */
     .sticky-cta {
       display: none;
@@ -405,9 +373,6 @@
       /* Section padding tighter */
       .section { padding: 32px 16px !important; }
 
-      /* Share buttons visible but compact */
-      .share-row { gap: 6px; padding-top: 12px; }
-      .share-btn { padding: 5px 8px; font-size: .58rem; }
 
       /* Sticky CTA visible on mobile */
       .sticky-cta { display: block; }
@@ -725,38 +690,6 @@
   <script src="content-data.js"></script>
   <script src="app.js"></script>
   <script>
-    // Share buttons injected into story cards after app.js renders them
-    function injectShareButtons() {
-      const cards = document.querySelectorAll('.story-card a');
-      cards.forEach(cardLink => {
-        if (cardLink.querySelector('.share-row')) return;
-        const url = cardLink.href;
-        const title = cardLink.querySelector('h3')?.textContent || 'Michigan Data Center Tracker';
-        const row = document.createElement('div');
-        row.className = 'share-row';
-        row.innerHTML = `
-          <a class="share-btn" href="https://twitter.com/intent/tweet?url=${encodeURIComponent(url)}&text=${encodeURIComponent(title)}" target="_blank" rel="noopener" onclick="event.stopPropagation()">
-            <svg viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.744l7.73-8.835L1.254 2.25H8.08l4.261 5.634 5.903-5.634zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
-            Share
-          </a>
-          <a class="share-btn" href="https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(url)}" target="_blank" rel="noopener" onclick="event.stopPropagation()">
-            <svg viewBox="0 0 24 24"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
-            Share
-          </a>
-          <a class="share-btn" href="mailto:?subject=${encodeURIComponent(title)}&body=${encodeURIComponent(url)}" onclick="event.stopPropagation()">
-            <svg viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg>
-            Email
-          </a>`;
-        const footer = cardLink.querySelector('footer');
-        if (footer) {
-          cardLink.insertBefore(row, footer);
-        } else {
-          cardLink.appendChild(row);
-        }
-      });
-    }
-    // Run after app.js populates cards
-    window.addEventListener('load', () => setTimeout(injectShareButtons, 300));
 
     // ── Utility strip + timestamp ────────────────────────────────────────
     function populateUtilityStrip() {
