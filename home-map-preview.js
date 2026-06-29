@@ -5,9 +5,10 @@
   const SVG_SIZE = { w: 1200, h: 720 };
   const GEO = { north: 45.48, south: 41.7, west: -87.02, east: -82.38 };
   const PAD = { left: 92, right: 88, top: 36, bottom: 44 };
-  const MAP_BG = ["#dfe8f2", "#c8d6e6"];
-  const COUNTY_FILL = "#e8eef4";
-  const COUNTY_STROKE = "#8fa3b8";
+  const MAP_BG = ["#161d28", "#0b0f16"];
+  const COUNTY_FILL = "#1a2433";
+  const COUNTY_STROKE = "#2e3d52";
+  const GRID_STEP = 48;
   const LAYER_COLORS = {
     projects: "#cf102d",
     moratoria: "#c97d10",
@@ -73,13 +74,29 @@
     }));
   }
 
-  function renderDot(point, layers, index = 0) {
+  function renderGrid(view, id) {
+    const lines = [];
+    for (let x = view.x; x <= view.x + view.w; x += GRID_STEP) {
+      lines.push(`<line x1="${x}" y1="${view.y}" x2="${x}" y2="${view.y + view.h}" stroke="rgba(255,255,255,0.045)" stroke-width="1"/>`);
+    }
+    for (let y = view.y; y <= view.y + view.h; y += GRID_STEP) {
+      lines.push(`<line x1="${view.x}" y1="${y}" x2="${view.x + view.w}" y2="${y}" stroke="rgba(255,255,255,0.045)" stroke-width="1"/>`);
+    }
+    return `<g class="home-map-svg-grid" opacity="0.55">${lines.join("")}</g>`;
+  }
+
+  function renderDot(point, layers, index = 0, slideId = "state") {
     if (!layers.has(point.layer || "projects")) return "";
     const [x, y] = project(point.latitude, point.longitude);
     const color = LAYER_COLORS[point.layer] || LAYER_COLORS.projects;
-    const r = point.layer === "moratoria" ? 5 : 4;
+    const r = point.layer === "moratoria" ? 5.5 : 4.5;
     const delay = ((index * 0.38) % 2.4).toFixed(2);
-    return `<circle class="home-map-preview-pulse" style="animation-delay:${delay}s" cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${r}" fill="${color}" stroke="#fff" stroke-width="1.4" opacity=".92"/>`;
+    const cx = x.toFixed(1);
+    const cy = y.toFixed(1);
+    return `<g class="home-map-dot" style="animation-delay:${delay}s">
+      <circle class="home-map-dot-glow" cx="${cx}" cy="${cy}" r="${r + 5}" fill="${color}" opacity=".22"/>
+      <circle class="home-map-preview-pulse" style="animation-delay:${delay}s" cx="${cx}" cy="${cy}" r="${r}" fill="${color}" stroke="rgba(255,255,255,.85)" stroke-width="1.2" opacity=".96" filter="url(#dot-glow-${slideId})"/>
+    </g>`;
   }
 
   function renderSlideSvg(slide, data) {
@@ -88,10 +105,10 @@
     const points = (data.map_points || []).filter(
       p => Number.isFinite(p.latitude) && Number.isFinite(p.longitude)
     );
-    const pointMarkup = points.map((p, i) => renderDot(p, layers, i)).join("");
+    const pointMarkup = points.map((p, i) => renderDot(p, layers, i, id)).join("");
     const vb = `${view.x} ${view.y} ${view.w} ${view.h}`;
     const countyLayer = countyMarkup
-      ? `<g fill="${COUNTY_FILL}" stroke="${COUNTY_STROKE}" stroke-width="1" stroke-linejoin="round">${countyMarkup}</g>`
+      ? `<g fill="${COUNTY_FILL}" stroke="${COUNTY_STROKE}" stroke-width="0.9" stroke-linejoin="round" opacity="0.95">${countyMarkup}</g>`
       : "";
 
     return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="${vb}" preserveAspectRatio="xMidYMid meet" aria-hidden="true">
@@ -100,8 +117,18 @@
 <stop offset="0%" stop-color="${MAP_BG[0]}"/>
 <stop offset="100%" stop-color="${MAP_BG[1]}"/>
 </linearGradient>
+<radialGradient id="bg-glow-${id}" cx="50%" cy="42%" r="68%">
+<stop offset="0%" stop-color="rgba(35,75,110,0.18)"/>
+<stop offset="100%" stop-color="rgba(11,15,22,0)"/>
+</radialGradient>
+<filter id="dot-glow-${id}" x="-80%" y="-80%" width="260%" height="260%">
+<feGaussianBlur stdDeviation="2.8" result="blur"/>
+<feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
 </defs>
 <rect x="${view.x}" y="${view.y}" width="${view.w}" height="${view.h}" fill="url(#bg-${id})"/>
+<rect x="${view.x}" y="${view.y}" width="${view.w}" height="${view.h}" fill="url(#bg-glow-${id})"/>
+${renderGrid(view, id)}
 ${countyLayer}
 <g>${pointMarkup}</g>
 </svg>`;
