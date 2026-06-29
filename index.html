@@ -20,7 +20,7 @@
   <link rel="icon" href="favicon.png" type="image/png">
   <link rel="apple-touch-icon" href="apple-touch-icon.png">
   <link rel="stylesheet" href="styles.css?v=20260704b">
-  <link rel="stylesheet" href="tracker-site.css?v=20260704b">
+  <link rel="stylesheet" href="tracker-site.css?v=20260704e">
   <style>
     /* ── IMPROVEMENTS v21 — map-first homepage ───────────────────────── */
 
@@ -540,28 +540,99 @@
     }
     .tip-cta-link:hover { background: #a80d24; }
 
+    /* ── Homepage body — sections below hero ───────────────────────── */
+    .page-body--home .page-section {
+      padding: 48px 0 56px;
+    }
+    .page-body--home .page-wrap {
+      max-width: 1180px;
+      padding-left: 32px;
+      padding-right: 32px;
+    }
+    .page-body--home .commercial-strip {
+      background: #0b0b0d;
+      border-top: 3px solid var(--red);
+    }
+    .page-body--home .commercial-strip .briefing-card {
+      max-width: 1180px;
+      margin: 0 auto;
+      padding: 48px 32px 52px;
+      border-left: 0;
+      position: relative;
+    }
+    .page-body--home .commercial-strip .briefing-card::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background:
+        radial-gradient(ellipse 70% 50% at 0% 0%, rgba(207,16,45,.1), transparent 55%),
+        radial-gradient(ellipse 50% 40% at 100% 100%, rgba(23,59,98,.14), transparent 50%);
+      pointer-events: none;
+    }
+    .page-body--home .commercial-strip .briefing-card > * {
+      position: relative;
+      z-index: 1;
+    }
+    .page-body--home .commercial-strip .briefing-card h2 {
+      font-family: var(--display);
+      text-transform: uppercase;
+      letter-spacing: .02em;
+      line-height: .95;
+    }
+    .page-body--home .signup-form input {
+      background: rgba(255,255,255,.06);
+      border-color: rgba(255,255,255,.14);
+      color: #fff;
+    }
+    .page-body--home .signup-form input::placeholder {
+      color: rgba(255,255,255,.38);
+    }
+    .page-body--home .signup-form input:focus {
+      border-color: rgba(207,16,45,.55);
+      background: rgba(255,255,255,.08);
+    }
+    .page-body--home .signup-form .button-light {
+      background: #fff;
+      color: var(--ink);
+      font-weight: 900;
+    }
+
     /* 11. What can we help explain? */
     .explain-ask {
-      background: #f0f1f4;
-      border-top: 1px solid #dfe2e8;
-      border-bottom: 1px solid #dfe2e8;
+      background: linear-gradient(180deg, #f6f7f9 0%, #fff 100%);
+      border-top: 1px solid var(--line);
     }
     .explain-ask-inner {
-      max-width: var(--max);
+      max-width: 1180px;
       margin: 0 auto;
-      padding: 44px 28px 48px;
+      padding: 48px 32px 56px;
     }
     .explain-ask-header {
       max-width: 640px;
-      margin-bottom: 22px;
+      margin-bottom: 24px;
     }
-    .explain-ask-header .eyebrow { color: #cf102d; }
+    .explain-ask-header .eyebrow {
+      color: #cf102d;
+      font-size: .6rem;
+      letter-spacing: .18em;
+    }
     .explain-ask-header h2 {
-      margin: 0 0 10px;
-      font-size: clamp(1.35rem, 2.6vw, 1.85rem);
-      font-weight: 700;
+      margin: 8px 0 0;
+      font-family: var(--display);
+      font-size: clamp(1.35rem, 2.6vw, 1.75rem);
+      font-weight: 400;
       color: #0b0b0d;
-      line-height: 1.15;
+      line-height: .95;
+      letter-spacing: .02em;
+      text-transform: uppercase;
+    }
+    .explain-ask-header h2::after {
+      content: "";
+      display: block;
+      width: 40px;
+      height: 3px;
+      margin-top: 12px;
+      background: linear-gradient(90deg, var(--red), rgba(207,16,45,.2));
     }
     .explain-ask-lead {
       margin: 0;
@@ -573,14 +644,15 @@
       display: flex;
       align-items: flex-start;
       gap: 10px;
-      margin: 0 0 22px;
-      padding: 12px 14px;
+      margin: 0 0 24px;
+      padding: 16px 18px;
       background: #fff;
-      border: 1px solid #dfe2e8;
+      border: 1px solid var(--line);
       border-left: 3px solid #cf102d;
-      font-size: .78rem;
+      box-shadow: 0 2px 12px rgba(11,11,13,.04);
+      font-size: .8rem;
       color: #555965;
-      line-height: 1.5;
+      line-height: 1.52;
     }
     .explain-ask-fair strong {
       display: block;
@@ -607,15 +679,16 @@
       margin-bottom: 2px;
     }
     .explain-topic {
-      padding: 7px 12px;
-      border: 1px solid #c8ccd6;
+      padding: 8px 14px;
+      border: 1px solid var(--line);
       background: #fff;
       color: #333742;
       font-size: .72rem;
       font-weight: 700;
       letter-spacing: .02em;
       cursor: pointer;
-      transition: border-color .15s, background .15s, color .15s;
+      box-shadow: 0 1px 4px rgba(11,11,13,.03);
+      transition: border-color .15s, background .15s, color .15s, box-shadow .15s;
     }
     .explain-topic:hover,
     .explain-topic:focus-visible {
@@ -644,13 +717,14 @@
       width: 100%;
       min-height: 108px;
       padding: 14px 16px;
-      border: 1px solid #c8ccd6;
+      border: 1px solid var(--line);
       background: #fff;
       color: #0b0b0d;
       font: inherit;
       font-size: .88rem;
       line-height: 1.5;
       resize: vertical;
+      box-shadow: 0 2px 10px rgba(11,11,13,.03);
     }
     .explain-ask-form textarea:focus {
       outline: 2px solid rgba(207,16,45,.35);
@@ -914,7 +988,10 @@
       .tip-cta-link { width: 100%; text-align: center; }
 
       /* Explain ask */
-      .explain-ask-inner { padding: 32px 16px 36px; }
+      .explain-ask-inner { padding: 36px 16px 40px; }
+      .page-body--home .page-wrap,
+      .page-body--home .commercial-strip .briefing-card { padding-left: 16px; padding-right: 16px; }
+      .page-body--home .page-section { padding: 36px 0 40px; }
       .explain-ask-actions { flex-direction: column; align-items: stretch; }
       .explain-ask-submit { width: 100%; }
       .explain-ask-note { max-width: none; }
@@ -1853,16 +1930,16 @@
       <div class="home-intro-meta">
         <div class="utility-strip" id="utility-strip" aria-label="Map statistics">
           <div class="utility-strip-inner">
-            <div class="utility-stat" id="utility-stat-0" aria-live="polite">
-              <span class="utility-stat-num" id="stat-on-map">—</span>
+            <div class="utility-stat" id="utility-stat-0" data-stat="on-map" aria-live="polite">
+              <span class="utility-stat-num" id="stat-on-map" data-stat-value>—</span>
               <span class="utility-stat-label" id="stat-on-map-label">On map now</span>
             </div>
-            <div class="utility-stat" id="utility-stat-1" aria-live="polite">
-              <span class="utility-stat-num" id="stat-sites">—</span>
+            <div class="utility-stat" id="utility-stat-1" data-stat="sites" aria-live="polite">
+              <span class="utility-stat-num" id="stat-sites" data-stat-value>—</span>
               <span class="utility-stat-label" id="stat-sites-label">Data center sites</span>
             </div>
-            <div class="utility-stat" id="utility-stat-2" aria-live="polite">
-              <span class="utility-stat-num" id="stat-moratoria">—</span>
+            <div class="utility-stat" id="utility-stat-2" data-stat="moratoria" aria-live="polite">
+              <span class="utility-stat-num" id="stat-moratoria" data-stat-value>—</span>
               <span class="utility-stat-label" id="stat-moratoria-label">Moratoria</span>
             </div>
             <div class="utility-edition" aria-label="Today's date">
@@ -1902,7 +1979,7 @@
     </div>
   </section>
 
-  <main id="main" class="page-body">
+  <main id="main" class="page-body page-body--home">
     <section class="home-hub" aria-labelledby="home-hub-heading">
       <div class="home-hub-inner">
         <header class="home-hub-head">
@@ -1911,29 +1988,36 @@
         </header>
         <div class="home-hub-grid">
           <a class="hub-card" href="stories.html">
+            <span class="hub-card-index" aria-hidden="true">01</span>
             <span class="hub-card-kicker">Across Michigan</span>
             <strong>Regional stories &amp; verified headlines</strong>
-            <span>View stories</span>
+            <p class="hub-card-desc">Coverage by region — every item linked to the original reporting or official record.</p>
+            <span class="hub-card-cta">View stories</span>
           </a>
           <a class="hub-card" href="meetings.html">
+            <span class="hub-card-index" aria-hidden="true">02</span>
             <span class="hub-card-kicker">Public calendar</span>
             <strong>Meetings, hearings &amp; agendas</strong>
-            <span>View calendar</span>
+            <p class="hub-card-desc">Planning commissions and state hearings with agendas and watch links when officials publish them.</p>
+            <span class="hub-card-cta">View calendar</span>
           </a>
           <a class="hub-card" href="learn.html">
+            <span class="hub-card-index" aria-hidden="true">03</span>
             <span class="hub-card-kicker">Learning library</span>
             <strong>Power, water, incentives &amp; records</strong>
-            <span>Start learning</span>
+            <p class="hub-card-desc">Plain-language context on siting stakes, with links to primary sources and public records.</p>
+            <span class="hub-card-cta">Start learning</span>
           </a>
         </div>
       </div>
     </section>
 
-    <section class="page-section" id="regions">
+    <section class="page-section home-headlines" id="regions">
       <div class="page-wrap">
         <div class="page-section-head">
           <span class="eyebrow">Latest verified</span>
           <h2>Headlines we're tracking</h2>
+          <p>Every item links to the original reporting or official record.</p>
         </div>
         <div class="teaser-list" id="home-latest-teaser"></div>
         <p class="section-cta-row"><a class="text-link" href="stories.html">All stories →</a></p>
