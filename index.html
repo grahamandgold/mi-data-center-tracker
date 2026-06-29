@@ -486,9 +486,27 @@
       .home-map-preview-chip {
         top: 8px;
         left: 8px;
-        max-width: calc(100% - 20px);
-        padding: 5px 8px 5px 6px;
+        max-width: calc(48% - 10px);
+        padding: 5px 7px 5px 6px;
       }
+      .home-map-preview-filters {
+        top: 8px;
+        right: 8px;
+        max-width: calc(52% - 10px);
+        gap: 3px;
+      }
+      .home-map-preview-filter-pill {
+        padding: 3px 5px;
+        font-size: .36rem;
+      }
+      .home-map-preview-legend {
+        bottom: 48px;
+        right: 8px;
+        max-width: min(44%, 150px);
+        padding: 5px 6px;
+      }
+      .home-map-preview-legend-title { font-size: .34rem; margin-bottom: 3px; }
+      .home-map-preview-legend-row { font-size: .34rem; gap: 4px; padding: 1px 0; }
       .home-map-preview-dots { bottom: 52px; }
       .home-map-preview-overlay {
         background: linear-gradient(180deg, rgba(255,255,255,.02) 35%, rgba(17,20,26,.42));
@@ -801,11 +819,11 @@
       position: absolute;
       top: 10px;
       left: 10px;
-      z-index: 2;
+      z-index: 3;
       display: inline-flex;
       align-items: center;
       gap: 7px;
-      max-width: calc(100% - 88px);
+      max-width: calc(50% - 14px);
       padding: 6px 9px 6px 7px;
       background: rgba(11,11,13,.78);
       color: #fff;
@@ -813,6 +831,108 @@
       backdrop-filter: blur(8px);
       pointer-events: none;
       transition: opacity .3s ease, transform .3s ease;
+    }
+    .home-map-preview-filters {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      z-index: 3;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+      gap: 4px;
+      max-width: calc(50% - 14px);
+      pointer-events: none;
+    }
+    .home-map-preview-filter-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      padding: 4px 7px;
+      background: rgba(11,11,13,.82);
+      color: #fff;
+      border: 1px solid rgba(255,255,255,.14);
+      backdrop-filter: blur(8px);
+      font-size: .42rem;
+      font-weight: 800;
+      letter-spacing: .07em;
+      text-transform: uppercase;
+      line-height: 1;
+      white-space: nowrap;
+    }
+    .home-map-preview-filter-pill i {
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      flex-shrink: 0;
+      box-shadow: 0 0 0 1px rgba(255,255,255,.2);
+    }
+    .home-map-preview-legend {
+      position: absolute;
+      bottom: 58px;
+      right: 10px;
+      z-index: 3;
+      padding: 6px 8px 7px;
+      background: rgba(11,11,13,.86);
+      color: #fff;
+      border: 1px solid rgba(255,255,255,.12);
+      border-top: 2px solid var(--red, #cf102d);
+      backdrop-filter: blur(8px);
+      max-width: min(46%, 200px);
+      pointer-events: none;
+    }
+    .home-map-preview-legend-title {
+      font-size: .4rem;
+      font-weight: 900;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+      color: var(--red, #cf102d);
+      margin-bottom: 5px;
+    }
+    .home-map-preview-legend-row {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      padding: 2px 0;
+      font-size: .4rem;
+      font-weight: 700;
+      letter-spacing: .03em;
+      color: rgba(255,255,255,.86);
+      line-height: 1.15;
+    }
+    .home-map-preview-legend-swatch {
+      width: 7px;
+      height: 7px;
+      border-radius: 50%;
+      flex-shrink: 0;
+      box-shadow: 0 0 0 1px rgba(255,255,255,.18);
+    }
+    .home-map-preview-legend-swatch--square {
+      border-radius: 1px;
+    }
+    .home-map-preview-legend-swatch--pin,
+    .home-map-preview-legend-swatch--bolt {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 11px;
+      height: 11px;
+      background: transparent;
+      box-shadow: none;
+    }
+    .home-map-preview-legend-swatch--pin svg,
+    .home-map-preview-legend-swatch--bolt svg {
+      display: block;
+      width: 11px;
+      height: 11px;
+    }
+    .home-map-preview-legend-line {
+      width: 14px;
+      height: 3px;
+      border-radius: 2px;
+      background: linear-gradient(90deg, #9c5fc9, #c4b5fd);
+      flex-shrink: 0;
+      box-shadow: 0 0 0 1px rgba(255,255,255,.12);
     }
     .home-map-preview-swatch {
       width: 8px;
@@ -964,8 +1084,28 @@
       .home-map-preview-chip {
         top: 8px;
         left: 8px;
-        max-width: calc(100% - 20px);
+        max-width: calc(48% - 10px);
+        padding: 5px 7px 5px 6px;
       }
+      .home-map-preview-filters {
+        top: 8px;
+        right: 8px;
+        max-width: calc(52% - 10px);
+        gap: 3px;
+      }
+      .home-map-preview-filter-pill {
+        padding: 3px 5px;
+        font-size: .36rem;
+      }
+      .home-map-preview-legend {
+        bottom: 48px;
+        right: 8px;
+        left: auto;
+        max-width: min(44%, 150px);
+        padding: 5px 6px;
+      }
+      .home-map-preview-legend-title { font-size: .34rem; margin-bottom: 3px; }
+      .home-map-preview-legend-row { font-size: .34rem; gap: 4px; padding: 1px 0; }
       .home-map-preview-dots { bottom: 52px; }
       .home-map-preview-action {
         justify-content: flex-end;
@@ -1170,6 +1310,8 @@
           <a class="home-map-preview" href="map.html" id="home-map-preview-link" aria-label="Open the live Michigan data center map">
             <div class="home-map-preview-slides" id="home-map-preview-slides" aria-hidden="true"></div>
             <span class="home-map-preview-chip" id="home-map-preview-chip" aria-live="polite"></span>
+            <span class="home-map-preview-filters" id="home-map-preview-filters" aria-hidden="true"></span>
+            <span class="home-map-preview-legend" id="home-map-preview-legend" aria-hidden="true"></span>
             <span class="home-map-preview-dots" id="home-map-preview-dots" aria-hidden="true"></span>
             <span class="home-map-preview-overlay" aria-hidden="true"></span>
             <span class="home-map-preview-action">
@@ -1432,7 +1574,7 @@
   </footer>
 
   <script src="home-stats.js?v=20260702s"></script>
-  <script src="home-map-preview.js?v=20260702v"></script>
+  <script src="home-map-preview.js?v=20260703d"></script>
   <script src="content-data.js?v=20260701x"></script>
   <script src="app.js?v=20260703a"></script>
   <script>

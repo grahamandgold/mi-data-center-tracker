@@ -1,5 +1,5 @@
 /**
- * Homepage live-map thumbnail — rotates through zoomed views and layer filters.
+ * Homepage live-map thumbnail — rotates through layer-focused views with filters + legend.
  */
 (function (global) {
   const SVG_SIZE = { w: 1200, h: 720 };
@@ -9,95 +9,127 @@
   const PREVIEW_ASPECT = 2.2;
   const LAYER_COLORS = {
     projects: "#cf102d",
-    moratoria: "#d4a017",
-    meetings: "#4a8fe7",
-    transmission: "#8b5cf6",
+    moratoria: "#e09820",
+    meetings: "#5b9cf5",
+    transmission: "#9c5fc9",
     policy: "#22a86a",
-    generation: "#5c6b7a"
+    generation: "#14b8a6"
+  };
+  const LAYER_META = {
+    projects: { label: "Data center sites", short: "Sites" },
+    moratoria: { label: "Moratoria & pauses", short: "Moratoria" },
+    meetings: { label: "Public meetings", short: "Meetings" },
+    transmission: { label: "Grid proposals", short: "Grid" },
+    policy: { label: "Capitol & policy", short: "Policy" },
+    generation: { label: "Power generation", short: "Power" }
   };
 
   const SLIDE_DEFS = [
     {
-      id: "metro",
-      label: "Metro Detroit",
-      kicker: "Sites + moratoria layered",
-      layers: ["projects", "moratoria"],
-      fit: p => p.longitude > -84.15 && p.latitude > 42.0 && p.latitude < 42.85,
-      maxView: { w: 520, h: 360 },
-      href: "map.html?lat=42.35&lng=-83.55&zoom=9&layers=projects,moratoria"
+      id: "full-tracker",
+      label: "Full tracker",
+      kickerFn: c => `Sites · moratoria · hearings · ${c.projects + c.moratoria + c.meetings} records`,
+      layers: ["projects", "moratoria", "meetings"],
+      zoom: "state",
+      wide: true,
+      href: "map.html?layers=projects,moratoria,meetings"
     },
     {
-      id: "moratoria-se",
-      label: "Moratoria wave",
-      kicker: "Pauses beside active proposals",
+      id: "sites",
+      label: "Data center sites",
+      kickerFn: c => `${c.projects} proposed & operating facilities`,
+      layers: ["projects"],
+      swatchLayer: "projects",
+      fit: p => p.layer === "projects",
+      wide: true,
+      maxView: { w: 1080, h: 540 },
+      href: "map.html?layers=projects"
+    },
+    {
+      id: "moratoria",
+      label: "Moratoria & pauses",
+      kickerFn: c => `${c.moratoria} local bans & zoning pauses`,
       layers: ["moratoria", "projects"],
       swatchLayer: "moratoria",
-      fit: p => p.longitude > -84.05 && p.latitude > 42.05 && p.latitude < 42.78,
-      maxView: { w: 440, h: 330 },
-      href: "map.html?lat=42.32&lng=-83.52&zoom=10&layers=moratoria,projects"
+      fit: p => p.layer === "moratoria" || p.layer === "projects",
+      wide: true,
+      maxView: { w: 820, h: 460 },
+      href: "map.html?layers=moratoria,projects"
     },
     {
-      id: "west-mi",
-      label: "West Michigan",
-      kicker: "Grand Rapids-area pauses",
+      id: "moratoria-focus",
+      label: "Pause clusters",
+      kicker: "Moratoria beside active proposals",
       layers: ["moratoria", "projects"],
-      fit: p => p.longitude < -85.0 && p.latitude > 42.8,
-      maxView: { w: 480, h: 380 },
-      href: "map.html?lat=44.2&lng=-85.8&zoom=8&layers=moratoria,projects"
+      swatchLayer: "moratoria",
+      fit: p => p.layer === "moratoria",
+      maxView: { w: 620, h: 400 },
+      href: "map.html?layers=moratoria,projects"
     },
     {
       id: "hearings",
-      label: "Public hearings",
-      kicker: "Sessions + nearby sites",
+      label: "Public meetings",
+      kickerFn: c => `${c.meetings} upcoming hearings & sessions`,
       layers: ["meetings", "projects"],
       swatchLayer: "meetings",
-      fit: p => p.layer === "meetings" || (p.layer === "projects" && p.longitude > -84.2 && p.latitude < 42.85),
-      maxView: { w: 560, h: 340 },
-      href: "map.html?lat=42.4&lng=-83.7&zoom=9&layers=meetings,projects"
+      fit: p => p.layer === "meetings" || p.layer === "projects",
+      wide: true,
+      maxView: { w: 860, h: 460 },
+      href: "map.html?layers=meetings,projects"
     },
     {
-      id: "capitol",
-      label: "Capitol watch",
-      kicker: "Policy · hearings · power",
-      layers: ["policy", "meetings", "generation"],
-      swatchLayer: "policy",
-      fit: p => p.layer === "policy" || p.layer === "meetings"
-        || (p.layer === "generation" && p.longitude > -85.0 && p.latitude > 42.55 && p.latitude < 42.95),
-      minView: { w: 360, h: 220 },
-      maxView: { w: 520, h: 360 },
-      href: "map.html?lat=42.73&lng=-84.55&zoom=10&layers=policy,meetings,generation"
+      id: "generation",
+      label: "Power generation",
+      kickerFn: c => `${c.generation} nuclear · gas · wind · solar plants`,
+      layers: ["generation"],
+      swatchLayer: "generation",
+      fit: p => p.layer === "generation",
+      zoom: "state",
+      wide: true,
+      href: "map.html?layers=generation"
     },
     {
-      id: "energy",
-      label: "Energy & grid",
-      kicker: "Lines · plants · nearby sites",
+      id: "grid",
+      label: "Grid proposals",
+      kicker: "Corridors · plants · nearby sites",
       layers: ["transmission", "generation", "projects"],
       swatchLayer: "transmission",
       lines: true,
-      fit: p => p.layer === "transmission"
-        || (p.layer === "generation" && p.longitude > -86.5 && p.latitude > 42.45 && p.latitude < 43.25)
-        || (p.layer === "projects" && p.longitude > -84.8 && p.longitude < -83.4 && p.latitude > 42.45 && p.latitude < 43.05),
-      minView: { w: 380, h: 220 },
-      maxView: { w: 500, h: 300 },
-      href: "map.html?lat=42.68&lng=-84.2&zoom=9&layers=transmission,generation,projects"
+      fit: p => ["transmission", "generation", "projects"].includes(p.layer),
+      wide: true,
+      maxView: { w: 960, h: 520 },
+      href: "map.html?layers=transmission,generation,projects"
     },
     {
-      id: "baseload",
-      label: "Baseload power",
-      kicker: "Nuclear · coal · gas plants",
-      layers: ["generation"],
-      fit: p => p.layer === "generation" && p.longitude < -83.6 && p.latitude < 43.3,
-      maxView: { w: 560, h: 320 },
-      href: "map.html?lat=42.2&lng=-85.2&zoom=8&layers=generation"
+      id: "policy",
+      label: "Capitol & policy",
+      kicker: "Legislation · rallies · sessions",
+      layers: ["policy", "meetings", "generation"],
+      swatchLayer: "policy",
+      fit: p => ["policy", "meetings", "generation"].includes(p.layer),
+      wide: true,
+      maxView: { w: 720, h: 440 },
+      href: "map.html?layers=policy,meetings,generation"
     },
     {
-      id: "tracker",
-      label: "Lower Peninsula",
-      kicker: "Projects · moratoria · hearings",
-      layers: ["projects", "moratoria", "meetings"],
-      fit: p => p.latitude < 44.5,
-      maxView: { w: 760, h: 420 },
-      href: "map.html?layers=projects,moratoria,meetings"
+      id: "layered",
+      label: "Layered view",
+      kicker: "Stack filters on the live map",
+      layers: ["projects", "moratoria", "policy"],
+      fit: p => ["projects", "moratoria", "policy"].includes(p.layer),
+      wide: true,
+      maxView: { w: 900, h: 500 },
+      href: "map.html?layers=projects,moratoria,policy"
+    },
+    {
+      id: "all-layers",
+      label: "Six map layers",
+      kickerFn: (_, total) => `Toggle anything · ${total} records`,
+      layers: ["projects", "moratoria", "meetings", "transmission", "policy", "generation"],
+      lines: true,
+      zoom: "state",
+      wide: true,
+      href: "map.html"
     }
   ];
 
@@ -130,6 +162,15 @@
     return `<path d="M12 2.2c-3.2 0-5.8 2.4-5.8 5.4 0 4 5.8 11.8 5.8 11.8s5.8-7.8 5.8-11.8c0-3-2.6-5.4-5.8-5.4z" fill="${color}" stroke="#fff" stroke-width="1.5"/><circle cx="12" cy="7.5" r="2" fill="#fff" fill-opacity=".92"/>`;
   }
 
+  function layerCounts(mapData) {
+    const counts = { projects: 0, moratoria: 0, meetings: 0, transmission: 0, policy: 0, generation: 0 };
+    (mapData.map_points || []).forEach(p => {
+      const layer = p.layer || "projects";
+      if (layer in counts) counts[layer] += 1;
+    });
+    return counts;
+  }
+
   function loadCountyMarkup() {
     if (countyMarkup) return Promise.resolve(countyMarkup);
     if (countyPromise) return countyPromise;
@@ -158,6 +199,10 @@
     return { x, y, w, h };
   }
 
+  function stateView(count = 0) {
+    return { x: 36, y: 18, w: SVG_SIZE.w - 72, h: SVG_SIZE.h - 42, count };
+  }
+
   function normalizeViewAspect(view, aspect = PREVIEW_ASPECT) {
     let { x, y, w, h, count } = view;
     const ratio = w / h;
@@ -180,7 +225,8 @@
       return slide.fit ? slide.fit(p) : true;
     });
 
-    if (!filtered.length) return { x: 0, y: 0, w: SVG_SIZE.w, h: SVG_SIZE.h, count: 0 };
+    if (slide.zoom === "state") return stateView(filtered.length);
+    if (!filtered.length) return stateView(0);
 
     const coords = filtered.map(p => project(p.latitude, p.longitude));
     const xs = coords.map(c => c[0]);
@@ -193,8 +239,9 @@
 
     const spanX = Math.max(maxX - minX, 1);
     const spanY = Math.max(maxY - minY, 1);
-    const padX = Math.max(spanX * 0.12, 28);
-    const padY = Math.max(spanY * 0.12, 24);
+    const padFactor = slide.wide ? 0.09 : 0.12;
+    const padX = Math.max(spanX * padFactor, slide.wide ? 36 : 28);
+    const padY = Math.max(spanY * padFactor, slide.wide ? 30 : 24);
 
     let w = spanX + padX * 2;
     let h = spanY + padY * 2;
@@ -225,8 +272,8 @@
     const maxY = Math.max(...ys, view.y + view.h);
     const spanX = Math.max(maxX - minX, 1);
     const spanY = Math.max(maxY - minY, 1);
-    const padX = Math.max(spanX * 0.1, 24);
-    const padY = Math.max(spanY * 0.1, 20);
+    const padX = Math.max(spanX * (slide.wide ? 0.08 : 0.1), 24);
+    const padY = Math.max(spanY * (slide.wide ? 0.08 : 0.1), 20);
     let w = spanX + padX * 2;
     let h = spanY + padY * 2;
     if (slide?.minView) {
@@ -246,18 +293,21 @@
     const points = (data.map_points || []).filter(
       p => Number.isFinite(p.latitude) && Number.isFinite(p.longitude)
     );
+    const counts = layerCounts(data);
+    const total = points.length;
 
     return SLIDE_DEFS.map(def => {
+      const kicker = def.kickerFn ? def.kickerFn(counts, total) : def.kicker;
       let view = computeView(points, def);
       if (def.lines) view = expandViewForLines(view, data.transmission_lines, def);
       view = normalizeViewAspect(view, def.aspect || PREVIEW_ASPECT);
-      return { ...def, view };
+      return { ...def, kicker, view };
     }).filter(slide => slide.view.count > 0 || slide.lines);
   }
 
   function markerSize(view) {
     const scale = SVG_SIZE.w / Math.max(view.w, 200);
-    return Math.min(22, Math.max(13, Math.round(13 * Math.pow(scale, 0.35))));
+    return Math.min(22, Math.max(11, Math.round(11 * Math.pow(scale, 0.38))));
   }
 
   function renderMarker(point, layers, focus, view) {
@@ -312,15 +362,15 @@
     const lineMarkup = slide.lines ? renderLines(data.transmission_lines, view) : "";
     const vb = `${view.x} ${view.y} ${view.w} ${view.h}`;
     const tint = slide.layers.includes("moratoria") && !slide.layers.includes("projects")
-      ? `<rect x="${view.x}" y="${view.y}" width="${view.w}" height="${view.h}" fill="rgba(212,160,23,.06)"/>`
+      ? `<rect x="${view.x}" y="${view.y}" width="${view.w}" height="${view.h}" fill="rgba(224,152,32,.06)"/>`
       : slide.layers.includes("moratoria") && slide.layers.includes("projects")
         ? `<rect x="${view.x}" y="${view.y}" width="${view.w}" height="${view.h}" fill="rgba(207,16,45,.03)"/>`
         : "";
 
-    const tightZoom = view.w < 820;
-    const countyLayer = tightZoom
-      ? ""
-      : `<g fill="#e8eef4" stroke="#8fa3b8" stroke-width="1.1" stroke-linejoin="round">${countyMarkup}</g>`;
+    const showCounties = slide.wide || view.w >= 720;
+    const countyLayer = showCounties
+      ? `<g fill="#e8eef4" stroke="#8fa3b8" stroke-width="1.1" stroke-linejoin="round">${countyMarkup}</g>`
+      : "";
 
     return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="${vb}" preserveAspectRatio="xMidYMid meet" aria-hidden="true">
 <defs>
@@ -330,8 +380,8 @@
 </linearGradient>
 </defs>
 <rect x="${view.x}" y="${view.y}" width="${view.w}" height="${view.h}" fill="url(#bg-${id})"/>
-${tightZoom ? "" : `<path d="M0,0 L220,0 L180,720 L0,720 Z" fill="#b8cfe0" opacity=".4"/>
-<path d="M1020,0 L1200,0 L1200,720 L980,720 Z" fill="#b8cfe0" opacity=".4"/>`}
+${showCounties ? `<path d="M0,0 L220,0 L180,720 L0,720 Z" fill="#b8cfe0" opacity=".4"/>
+<path d="M1020,0 L1200,0 L1200,720 L980,720 Z" fill="#b8cfe0" opacity=".4"/>` : ""}
 ${countyLayer}
 ${tint}
 <g>${lineMarkup}${pointMarkup}</g>
@@ -345,10 +395,45 @@ ${tint}
     return `<span class="home-map-preview-swatch home-map-preview-swatch--icon" style="color:${color}"><svg viewBox="0 0 24 24" aria-hidden="true">${inner}</svg></span>`;
   }
 
+  function renderFiltersHtml(slide) {
+    return slide.layers.map(id => {
+      const meta = LAYER_META[id] || { short: id };
+      const color = LAYER_COLORS[id] || LAYER_COLORS.projects;
+      return `<span class="home-map-preview-filter-pill"><i style="background:${color}"></i>${meta.short}</span>`;
+    }).join("");
+  }
+
+  function legendSwatch(layer) {
+    const color = LAYER_COLORS[layer] || LAYER_COLORS.projects;
+    if (layer === "moratoria") {
+      return `<span class="home-map-preview-legend-swatch home-map-preview-legend-swatch--square" style="background:${color}"></span>`;
+    }
+    if (layer === "transmission") {
+      return `<span class="home-map-preview-legend-swatch home-map-preview-legend-swatch--bolt" style="color:${color}"><svg viewBox="0 0 24 24" aria-hidden="true">${iconInner("transmission", color)}</svg></span>`;
+    }
+    if (layer === "projects") {
+      return `<span class="home-map-preview-legend-swatch home-map-preview-legend-swatch--pin" style="color:${color}"><svg viewBox="0 0 24 24" aria-hidden="true">${iconInner("projects", color)}</svg></span>`;
+    }
+    return `<span class="home-map-preview-legend-swatch" style="background:${color}"></span>`;
+  }
+
+  function renderLegendHtml(slide) {
+    const rows = slide.layers.map(id => {
+      const meta = LAYER_META[id] || { label: id };
+      return `<div class="home-map-preview-legend-row">${legendSwatch(id)}<span>${meta.label}</span></div>`;
+    }).join("");
+    const txRow = slide.lines
+      ? `<div class="home-map-preview-legend-row"><span class="home-map-preview-legend-line"></span><span>Transmission corridors</span></div>`
+      : "";
+    return `<div class="home-map-preview-legend-title">Legend</div>${rows}${txRow}`;
+  }
+
   async function init(options = {}) {
     const root = document.getElementById(options.slidesId || "home-map-preview-slides");
     const link = document.getElementById(options.linkId || "home-map-preview-link");
     const chip = document.getElementById(options.chipId || "home-map-preview-chip");
+    const filters = document.getElementById(options.filtersId || "home-map-preview-filters");
+    const legend = document.getElementById(options.legendId || "home-map-preview-legend");
     const dotsRoot = document.getElementById(options.dotsId || "home-map-preview-dots");
     if (!root || !link) return;
 
@@ -399,6 +484,8 @@ ${tint}
       if (chip) {
         chip.innerHTML = `${layerSwatch(slide)}<span class="home-map-preview-chip-text"><strong>${slide.label}</strong><span>${slide.kicker}</span></span>`;
       }
+      if (filters) filters.innerHTML = renderFiltersHtml(slide);
+      if (legend) legend.innerHTML = renderLegendHtml(slide);
       return index;
     };
 
@@ -489,5 +576,5 @@ ${tint}
     start();
   }
 
-  global.HomeMapPreview = { init, SLIDE_DEFS };
+  global.HomeMapPreview = { init, SLIDE_DEFS, LAYER_META };
 })(window);
