@@ -1097,7 +1097,7 @@
 
   <header class="masthead">
     <h1 class="sr-only">Michigan Data Center Tracker</h1>
-    <video class="masthead-video" src="header.mp4" autoplay muted loop playsinline preload="auto" aria-hidden="true"></video>
+    <video class="masthead-video" src="header.mp4" autoplay muted loop playsinline preload="metadata" aria-hidden="true"></video>
     <div class="masthead-scrim"></div>
     <div class="masthead-inner">
       <div class="wordmark">
@@ -1414,7 +1414,7 @@
   </footer>
 
   <script src="home-stats.js?v=20260702s"></script>
-  <script src="home-map-preview.js?v=20260702r"></script>
+  <script src="home-map-preview.js?v=20260702t"></script>
   <script src="content-data.js?v=20260701x"></script>
   <script src="app.js?v=20260702p"></script>
   <script>
@@ -1443,7 +1443,11 @@
         }
       }
 
-      window.addEventListener("load", boot);
+      if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", boot);
+      } else {
+        boot();
+      }
     })();
   </script>
 </body>

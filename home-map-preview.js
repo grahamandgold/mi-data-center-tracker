@@ -309,8 +309,12 @@ ${tint}
 
     const slideEls = [...root.querySelectorAll(".home-map-preview-slide")];
     const dots = dotsRoot ? [...dotsRoot.querySelectorAll(".home-map-preview-dot")] : [];
+    const canHover = window.matchMedia("(hover: hover) and (pointer: fine)");
     let index = 0;
     let timer = null;
+    let paused = false;
+    let tabVisible = !document.hidden;
+    let inView = true;
 
     const applySlide = next => {
       index = ((next % slideEls.length) + slideEls.length) % slideEls.length;
@@ -326,15 +330,30 @@ ${tint}
 
     const stop = () => {
       if (timer) {
-        clearInterval(timer);
+        clearTimeout(timer);
         timer = null;
       }
     };
 
-    const start = () => {
+    const canRotate = () => !paused && tabVisible && inView && !reducedMotion.matches && slideEls.length >= 2;
+
+    const schedule = () => {
       stop();
-      if (reducedMotion.matches || slideEls.length < 2) return;
-      timer = setInterval(() => applySlide(index + 1), 3800);
+      if (!canRotate()) return;
+      timer = setTimeout(() => {
+        applySlide(index + 1);
+        schedule();
+      }, 3800);
+    };
+
+    const start = () => {
+      paused = false;
+      schedule();
+    };
+
+    const pause = () => {
+      paused = true;
+      stop();
     };
 
     dots.forEach((dot, i) => {
@@ -346,14 +365,50 @@ ${tint}
       });
     });
 
-    link.addEventListener("mouseenter", stop);
-    link.addEventListener("mouseleave", start);
-    link.addEventListener("focusin", stop);
-    link.addEventListener("focusout", start);
+    const onMouseEnter = () => pause();
+    const onMouseLeave = () => start();
+    const bindHover = () => {
+      link.removeEventListener("mouseenter", onMouseEnter);
+      link.removeEventListener("mouseleave", onMouseLeave);
+      if (canHover.matches) {
+        link.addEventListener("mouseenter", onMouseEnter);
+        link.addEventListener("mouseleave", onMouseLeave);
+      }
+    };
+    bindHover();
+    canHover.addEventListener("change", bindHover);
+
+    link.addEventListener("focusin", event => {
+      if (event.target !== link) return;
+      pause();
+    });
+    link.addEventListener("focusout", event => {
+      if (event.target !== link) return;
+      start();
+    });
+
+    document.addEventListener("visibilitychange", () => {
+      tabVisible = !document.hidden;
+      if (canRotate()) schedule();
+      else stop();
+    });
+
+    window.addEventListener("pageshow", event => {
+      if (event.persisted) schedule();
+    });
+
+    if ("IntersectionObserver" in window) {
+      const observer = new IntersectionObserver(entries => {
+        inView = Boolean(entries[0]?.isIntersecting);
+        if (canRotate()) schedule();
+        else stop();
+      }, { threshold: 0.2 });
+      observer.observe(link);
+    }
 
     reducedMotion.addEventListener("change", () => {
       if (reducedMotion.matches) stop();
-      else start();
+      else schedule();
     });
 
     applySlide(0);
