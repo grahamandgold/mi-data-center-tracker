@@ -766,7 +766,7 @@ main, .site-footer { max-width: var(--max); margin: 0 auto; background: var(--pa
 }
 
 @media (max-width: 620px) {
-  .masthead { border-top-width: 2px; }
+  .masthead { border-top-width: 2px; min-height: 132px; }
   .masthead-video {
     inset: 0;
     width: 100%;
