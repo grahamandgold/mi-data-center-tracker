@@ -10,7 +10,7 @@
 
   async function loadMapData() {
     try {
-      const res = await fetch("map-data.json?v=20260629p", { cache: "no-store" });
+      const res = await fetch("map-data.json?v=20260629q", { cache: "no-store" });
       if (!res.ok) throw new Error(`map-data.json HTTP ${res.status}`);
       const json = await res.json();
       if (!json.map_points?.length) throw new Error("map-data.json has no map_points");
@@ -332,7 +332,10 @@
       const c = meta.color || "#38bdf8";
       const title = props.name || props.label || meta.label;
       const rows = [];
-      if (props.category) rows.push(`<div class="pop-row"><span class="pop-label">Aquifer class</span><span class="pop-val">${esc(props.category)}</span></div>`);
+      if (props.category) {
+        const catLbl = meta.category_labels?.[props.category];
+        rows.push(`<div class="pop-row"><span class="pop-label">EGLE class</span><span class="pop-val">${esc(props.category)}${catLbl ? ` — ${esc(catLbl)}` : ""}</span></div>`);
+      }
       if (props.type) rows.push(`<div class="pop-row"><span class="pop-label">Type</span><span class="pop-val">${esc(props.type)}</span></div>`);
       if (props.operator) rows.push(`<div class="pop-row"><span class="pop-label">Operator</span><span class="pop-val">${esc(props.operator)}</span></div>`);
       if (props.voltage_class) rows.push(`<div class="pop-row"><span class="pop-label">Voltage</span><span class="pop-val">${esc(props.voltage_class)} kV class</span></div>`);
@@ -389,7 +392,10 @@
               layer.bindPopup(makeOverlayPopup(props, meta), { maxWidth: 300, className: "tracker-popup" });
             } else if (meta.geometry_type === "polygon") {
               layer.bindPopup(makeOverlayPopup(props, meta), { maxWidth: 340, className: "tracker-popup" });
-              layer.bindTooltip(props.label || props.category || "Aquifer", { className: "boundary-tip", sticky: true });
+              const tip = meta.category_labels?.[props.category]
+                ? `Class ${props.category}: ${meta.category_labels[props.category]}`
+                : (props.label || props.category || "Aquifer");
+              layer.bindTooltip(tip, { className: "boundary-tip", sticky: true });
             } else if (meta.geometry_type === "point") {
               layer.bindPopup(makeOverlayPopup(props, meta), { maxWidth: 320, className: "tracker-popup" });
             }
@@ -583,12 +589,17 @@
       const overlayRows = overlayLayersMeta.map(o =>
         `<div class="legend-row"><span class="legend-line" style="background:${o.color}"></span>${esc(o.label)}</div>`
       ).join("");
-      const aquiferRows = overlayLayersMeta.find(o => o.id === "aquifers")?.style_map
-        ? Object.entries(overlayLayersMeta.find(o => o.id === "aquifers").style_map).map(([k, s]) =>
-          `<div class="legend-row"><span class="legend-swatch" style="background:${s.fillColor || s.color}"></span>Aquifer ${esc(k)}</div>`
-        ).join("")
+      const aqMeta = overlayLayersMeta.find(o => o.id === "aquifers");
+      const aquiferRows = aqMeta?.style_map
+        ? Object.entries(aqMeta.style_map).map(([k, s]) => {
+          const lbl = aqMeta.category_labels?.[k] || "";
+          return `<div class="legend-row legend-row--stack"><span class="legend-swatch" style="background:${s.fillColor || s.color}"></span><span><strong>Class ${esc(k)}</strong>${lbl ? `<br><span class="legend-sub">${esc(lbl)}</span>` : ""}</span></div>`;
+        }).join("")
         : "";
-      el.innerHTML = `<div class="map-legend-title">Layers</div>${rows}${txRow}${boundaryRows ? `<div class="map-legend-title" style="margin-top:10px">Boundaries</div>${boundaryRows}` : ""}${overlayRows ? `<div class="map-legend-title" style="margin-top:10px">Water & grid</div>${overlayRows}` : ""}${aquiferRows ? `<div class="map-legend-title" style="margin-top:8px">Aquifer classes</div>${aquiferRows}` : ""}<div class="map-legend-title" style="margin-top:10px">Generation types</div>${genRows}`;
+      const aquiferNote = aquiferRows
+        ? `<p class="legend-note">Glacial aquifer colors show EGLE <em>geology</em> — how soil may hold groundwater. Not water quality or safety.</p>`
+        : "";
+      el.innerHTML = `<div class="map-legend-title">Layers</div>${rows}${txRow}${boundaryRows ? `<div class="map-legend-title" style="margin-top:10px">Boundaries</div>${boundaryRows}` : ""}${overlayRows ? `<div class="map-legend-title" style="margin-top:10px">Water & grid</div>${overlayRows}` : ""}${aquiferRows ? `<div class="map-legend-title" style="margin-top:8px">Glacial aquifer classes</div>${aquiferNote}${aquiferRows}` : ""}<div class="map-legend-title" style="margin-top:10px">Generation types</div>${genRows}`;
     }
 
     renderSponsors();

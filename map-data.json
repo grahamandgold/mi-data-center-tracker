@@ -1558,13 +1558,20 @@
     {
       "id": "aquifers",
       "label": "Glacial aquifers",
-      "description": "EGLE aquifer zones — where groundwater sits under your township",
+      "description": "EGLE geology classes — how likely glacial soil holds groundwater (not water quality)",
       "geometry_type": "polygon",
       "color": "#38bdf8",
       "url": "geo/mi-aquifers.geojson",
       "default_on": false,
       "min_zoom": 8,
       "style_by": "category",
+      "category_labels": {
+        "I": "Thin drift over bedrock (0–30 ft)",
+        "II": "Usually not groundwater-bearing",
+        "IIIa": "Often unconfined water near surface",
+        "IIIb": "Mixed — may or may not hold water",
+        "IV": "May be aquifer down to bedrock"
+      },
       "style_map": {
         "I": { "fillColor": "#f87171", "fillOpacity": 0.16, "color": "#fca5a5" },
         "II": { "fillColor": "#60a5fa", "fillOpacity": 0.16, "color": "#93c5fd" },
