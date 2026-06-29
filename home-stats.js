@@ -1,0 +1,77 @@
+/**
+ * Homepage stats — reads the same map-data.json as map.js.
+ * Keep stat logic here so index.html and future pages stay in sync with the map.
+ */
+(function (global) {
+  const DEFAULT_FOCUS = ["projects", "moratoria"];
+
+  function getDefaultLayers(mapLayers) {
+    const fromMeta = (mapLayers || []).filter(l => l.default_on !== false).map(l => l.id);
+    return fromMeta.length ? fromMeta : DEFAULT_FOCUS.slice();
+  }
+
+  function computeStats(data) {
+    const points = (data.map_points || []).filter(
+      p => Number.isFinite(p.latitude) && Number.isFinite(p.longitude)
+    );
+    const focus = new Set(getDefaultLayers(data.map_layers));
+    const focused = points.filter(p => focus.has(p.layer || "projects"));
+
+    const byLayer = layer => points.filter(p => p.layer === layer).length;
+    const focusedByLayer = layer => focused.filter(p => p.layer === layer).length;
+
+    return {
+      total: focused.length,
+      projects: focusedByLayer("projects"),
+      moratoria: focusedByLayer("moratoria"),
+      all_records: points.length,
+      all_projects: byLayer("projects"),
+      all_moratoria: byLayer("moratoria"),
+      meetings: byLayer("meetings"),
+      transmission: byLayer("transmission"),
+      policy: byLayer("policy"),
+      generation: byLayer("generation")
+    };
+  }
+
+  function formatUpdated(iso) {
+    if (!iso) return null;
+    try {
+      return new Intl.DateTimeFormat("en-US", {
+        month: "short",
+        day: "numeric",
+        year: "numeric",
+        timeZone: "America/Detroit"
+      }).format(new Date(iso));
+    } catch {
+      return null;
+    }
+  }
+
+  function ribbonStats(data, counts) {
+    const defs = data.stats_ribbon || [];
+    return defs.map((d, i) => ({
+      label: d.label,
+      value: counts[d.value_key] ?? 0,
+      suffix: d.suffix || "",
+      accent: i === 0
+    }));
+  }
+
+  async function loadMapData(url) {
+    const res = await fetch(url || "map-data.json", { cache: "no-store" });
+    if (!res.ok) throw new Error(`map-data.json HTTP ${res.status}`);
+    const json = await res.json();
+    if (!json.map_points?.length) throw new Error("map-data.json has no map_points");
+    return json;
+  }
+
+  global.HomeStats = {
+    DEFAULT_FOCUS,
+    getDefaultLayers,
+    computeStats,
+    formatUpdated,
+    ribbonStats,
+    loadMapData
+  };
+})(window);

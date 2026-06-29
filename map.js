@@ -1,5 +1,9 @@
 /* Michigan Data Center Tracker — map bootstrap */
 (function () {
+  if (new URLSearchParams(location.search).has("embed")) {
+    document.documentElement.classList.add("map-embed");
+  }
+
   const escAttr = v => String(v || "").replace(/\\/g, "\\\\").replace(/"/g, '\\"');
 
   function showBootError(msg) {

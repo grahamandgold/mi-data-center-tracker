@@ -88,6 +88,18 @@
     .map-vignette,
     .map-grain { display: none; }
 
+    html.map-embed .topbar-breadcrumb,
+    html.map-embed .map-topbar-actions .nav-link--desktop,
+    html.map-embed .map-topbar-actions .topbar-icon-btn,
+    html.map-embed .map-topbar-actions .nav-cta,
+    html.map-embed .map-support-line { display: none !important; }
+    html.map-embed .map-topbar { gap: 12px; padding: 0 16px; }
+    html.map-embed .map-topbar-brand img { height: 44px; }
+    html.map-embed .map-topbar-actions { margin-left: auto; }
+    html.map-embed .map-chrome-bar,
+    html.map-embed .map-lake-strip { padding-left: 16px; }
+    html.map-embed .map-panel { left: 12px; width: min(300px, calc(100vw - 24px)); }
+
     .map-chrome-stack {
       position: absolute;
       z-index: 690;
