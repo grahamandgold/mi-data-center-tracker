@@ -34,13 +34,6 @@
     const d = new Date(value.includes("T") ? value : `${value}T12:00:00`);
     return (Date.now() - d.getTime()) < 72 * 3600000; // within 3 days
   };
-  const updatedLabel = value => {
-    if (!value) return "Update time unavailable";
-    return new Intl.DateTimeFormat("en-US", {
-      month: "long", day: "numeric", year: "numeric", hour: "numeric", minute: "2-digit",
-      timeZone: "America/Detroit", timeZoneName: "short"
-    }).format(new Date(value));
-  };
   const external = `<span class="external" aria-hidden="true">↗</span>`;
   const labelExternalLinks = () => {
     $$('a[target="_blank"]').forEach(link => {
