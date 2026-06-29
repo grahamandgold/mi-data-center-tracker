@@ -14,7 +14,7 @@
 
   async function loadMapData() {
     try {
-      const res = await fetch("map-data.json?v=20260701h", { cache: "no-store" });
+      const res = await fetch("map-data.json?v=20260701i", { cache: "no-store" });
       if (!res.ok) throw new Error(`map-data.json HTTP ${res.status}`);
       const json = await res.json();
       if (!json.map_points?.length) throw new Error("map-data.json has no map_points");
@@ -788,7 +788,7 @@
     const LOWER_PENINSULA_BOUNDS = L.latLngBounds([41.72, -87.38], [45.68, -82.12]);
 
     function fitLowerPeninsula({ duration } = {}) {
-      const chromePad = lakeLevelsMeta.length ? 28 : 0;
+      const chromePad = 0;
       const opts = isMobile()
         ? { paddingTopLeft: [118, 24 + chromePad], paddingBottomRight: [100, 24], maxZoom: 7 }
         : { paddingTopLeft: [112, 340 + chromePad], paddingBottomRight: [64, 64], maxZoom: 7 };

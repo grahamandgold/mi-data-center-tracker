@@ -32,9 +32,9 @@
       --display: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
       --sans: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
       --topbar-h: 68px;
-      --chrome-stats-h: 42px;
-      --chrome-lakes-h: 28px;
-      --chrome-h: calc(var(--chrome-stats-h) + var(--chrome-lakes-h));
+      --chrome-stats-h: 54px;
+      --chrome-h: var(--chrome-stats-h);
+      --chrome-panel-w: min(320px, calc(100vw - 32px));
       --map-inset-top: calc(var(--topbar-h) + var(--chrome-h));
     }
 
@@ -102,8 +102,7 @@
     html.map-embed .map-topbar { gap: 12px; padding: 0 16px; }
     html.map-embed .map-topbar-brand img { height: 44px; }
     html.map-embed .map-topbar-actions { margin-left: auto; }
-    html.map-embed .map-chrome-bar,
-    html.map-embed .map-lake-strip { padding-left: 16px; }
+    html.map-embed .chrome-panel-spacer { display: none; }
     html.map-embed .map-panel { left: 12px; width: min(300px, calc(100vw - 24px)); }
 
     .map-chrome-stack {
@@ -119,57 +118,35 @@
     .map-chrome-bar {
       position: relative;
       height: var(--chrome-stats-h);
-      display: flex;
+      display: grid;
+      grid-template-columns: var(--chrome-panel-w) 1fr auto;
       align-items: center;
       gap: 12px;
-      padding: 0 16px 0 336px;
+      padding: 0 16px 0 0;
       pointer-events: none;
     }
-    .map-lake-strip {
-      height: var(--chrome-lakes-h);
+    .chrome-panel-spacer { min-width: 0; }
+    .map-chrome-center {
       display: flex;
+      justify-content: center;
       align-items: center;
-      gap: 0;
-      padding: 0 16px 0 336px;
-      overflow-x: auto;
-      white-space: nowrap;
-      scrollbar-width: none;
-      border-top: 1px solid var(--line);
+      min-width: 0;
       pointer-events: auto;
     }
-    .map-lake-strip::-webkit-scrollbar { display: none; }
-    .lake-chip {
-      font-size: 9px;
-      font-weight: 700;
-      letter-spacing: 0.06em;
-      text-transform: uppercase;
-      color: var(--ink-muted);
-      padding: 0 10px;
-    }
-    .lake-chip strong {
-      font-family: var(--display);
-      font-size: 0.92rem;
-      letter-spacing: 0.02em;
-      color: #22d3ee;
-      margin-right: 4px;
-    }
-    .lake-sep {
-      color: var(--line-strong);
-      font-weight: 400;
-      padding: 0 2px;
-      user-select: none;
+    .chrome-bar-end {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-shrink: 0;
+      pointer-events: auto;
     }
     .map-support-line {
       flex-shrink: 0;
-      pointer-events: auto;
       display: inline-flex;
       align-items: center;
       gap: 4px;
-      max-width: min(220px, 28vw);
-      padding: 0 12px;
-      margin-left: 2px;
-      border-left: 1px solid var(--line);
-      font-size: 10px;
+      max-width: min(200px, 22vw);
+      font-size: 9px;
       font-weight: 600;
       letter-spacing: 0.04em;
       color: var(--ink-muted);
@@ -188,51 +165,54 @@
     .map-support-line:hover strong { color: var(--red); }
 
     .map-stats-inline {
-      flex: 1;
-      min-width: 0;
       display: flex;
       align-items: center;
-      overflow-x: auto;
+      justify-content: center;
+      gap: 0;
+      padding: 8px 24px;
+      background: rgba(255,255,255,0.035);
+      border: 1px solid var(--line);
       white-space: nowrap;
+      overflow-x: auto;
       scrollbar-width: none;
-      pointer-events: auto;
+      max-width: 100%;
     }
     .map-stats-inline::-webkit-scrollbar { display: none; }
     .stat-inline {
-      font-size: 10px;
-      font-weight: 700;
-      letter-spacing: 0.06em;
+      font-size: 11px;
+      font-weight: 800;
+      letter-spacing: 0.08em;
       text-transform: uppercase;
       color: var(--ink-muted);
-      padding: 0 10px;
+      padding: 0 22px;
     }
     .stat-inline strong {
       font-family: var(--display);
-      font-size: 1.05rem;
+      font-size: 1.5rem;
       letter-spacing: 0.02em;
       color: var(--ink);
-      margin-right: 4px;
+      margin-right: 6px;
     }
     .stat-inline--accent strong { color: var(--red); }
     .stat-sep {
       color: var(--line-strong);
       font-weight: 400;
-      padding: 0 2px;
+      padding: 0 4px;
       user-select: none;
+      opacity: 0.7;
     }
     .map-reset-btn {
       flex-shrink: 0;
-      pointer-events: auto;
       font-family: var(--sans);
-      font-size: 12px;
+      font-size: 11px;
       font-weight: 800;
       letter-spacing: 0.08em;
       text-transform: uppercase;
       color: #fff;
       background: var(--red);
       border: 0;
-      padding: 0 20px;
-      height: 34px;
+      padding: 0 16px;
+      height: 36px;
       cursor: pointer;
     }
     .map-reset-btn:hover { background: var(--red-dark); }
@@ -1609,10 +1589,9 @@
     .nav-link--desktop { display: inline-flex; }
 
     @media (max-width: 1100px) {
-      .map-chrome-bar,
-      .map-lake-strip { padding-left: 16px; }
-      .stat-inline { padding: 0 8px; font-size: 9px; }
-      .stat-inline strong { font-size: 0.95rem; }
+      .stat-inline { padding: 0 14px; font-size: 10px; }
+      .stat-inline strong { font-size: 1.25rem; }
+      .map-stats-inline { padding: 6px 16px; }
     }
     @media (max-width: 900px) {
       .tile-toggle { display: none; }
@@ -1746,16 +1725,20 @@
         bottom: calc(68px + env(safe-area-inset-bottom, 0px)) !important;
         right: 10px !important;
       }
-      .map-chrome-bar,
-      .map-lake-strip {
+      .map-chrome-bar {
+        grid-template-columns: 1fr auto;
         padding: 0 12px;
+        gap: 8px;
       }
-      .map-chrome-bar { gap: 8px; }
-      .lake-chip { padding: 0 8px; font-size: 8px; }
-      .lake-chip strong { font-size: 0.85rem; }
+      .chrome-panel-spacer { display: none; }
+      .map-chrome-center { justify-content: center; }
+      .map-stats-inline { padding: 6px 10px; }
+      .stat-inline { padding: 0 10px; font-size: 9px; }
+      .stat-inline strong { font-size: 1.15rem; }
+      .chrome-bar-end .map-support-line { display: none; }
       .map-reset-btn {
-        font-size: 11px;
-        padding: 0 14px;
+        font-size: 10px;
+        padding: 0 12px;
         height: 32px;
       }
 
@@ -1894,11 +1877,15 @@
 
     <div class="map-chrome-stack" aria-label="Map summary">
       <div class="map-chrome-bar">
-        <div class="map-stats-inline" id="map-stats-ribbon" aria-label="Map statistics"></div>
-        <a class="map-support-line" id="map-support-line" href="mailto:info@michigandatacentertracker.com?subject=Sponsorship%20Inquiry%20%E2%80%93%20Michigan%20Data%20Center%20Map">Supported by <strong>Partner placement available</strong></a>
-        <button class="map-reset-btn" id="map-reset-top" type="button" title="Reset filters and zoom to lower peninsula (R)">Reset map</button>
+        <div class="chrome-panel-spacer" aria-hidden="true"></div>
+        <div class="map-chrome-center">
+          <div class="map-stats-inline" id="map-stats-ribbon" aria-label="Map statistics"></div>
+        </div>
+        <div class="chrome-bar-end">
+          <a class="map-support-line" id="map-support-line" href="mailto:info@michigandatacentertracker.com?subject=Sponsorship%20Inquiry%20%E2%80%93%20Michigan%20Data%20Center%20Map">Supported by <strong>Partner placement available</strong></a>
+          <button class="map-reset-btn" id="map-reset-top" type="button" title="Reset filters and zoom to lower peninsula (R)">Reset map</button>
+        </div>
       </div>
-      <div class="map-lake-strip" id="map-lake-levels" aria-label="Great Lakes water levels"></div>
     </div>
 
     <div class="map-hud" role="toolbar" aria-label="Map controls">
@@ -1918,7 +1905,7 @@
   <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js" crossorigin=""></script>
   <!-- Optional: set data-plausible-domain on <body> and uncomment for Plausible -->
   <!-- <script defer data-domain="midatacentertracker.com" src="https://plausible.io/js/script.js"></script> -->
-  <script src="map-analytics.js?v=20260701h"></script>
-  <script src="map.js?v=20260701h" defer></script>
+  <script src="map-analytics.js?v=20260701i"></script>
+  <script src="map.js?v=20260701i" defer></script>
 </body>
 </html>
