@@ -559,3 +559,16 @@
   <div class="hud-legend" id="hud-legend" aria-hidden="true"></div>
 
   <main id="map" aria-label="Interactive map of Michigan data center records"></main>
+
+  <div class="scroll-hint" aria-hidden="true">Scroll to zoom · Click markers to explore</div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV/XN/WLs=" crossorigin=""></script>
+  <script>
+    fetch("data.json?v=20260628")
+      .then(r => r.json())
+      .then(d => { window.TRACKER_DATA = d; })
+      .catch(() => { window.TRACKER_DATA = {}; });
+  </script>
+  <script src="map.js?v=20260628"></script>
+</body>
+</html>
