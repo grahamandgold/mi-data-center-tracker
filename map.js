@@ -22,7 +22,8 @@
   const col = s => colors[s] || fallback;
 
   // ── Tile layers ──
-  const darkTile = L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+  // One OSM layer used for both Dark and Daylight modes (CSS class controls the filter)
+  const osmTile = L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
     maxZoom: 18,
     attribution: '© <a href="https://openstreetmap.org/copyright" style="color:#4e5468">OpenStreetMap</a>'
   });
@@ -36,24 +37,24 @@
   const initLat = parseFloat(params.get("lat")) || 44.55;
   const initLng = parseFloat(params.get("lng")) || -85.45;
   const initZoom = parseInt(params.get("z")) || 6;
-  const initSat = params.get("sat") === "1";
+  const initMode = params.get("mode") || (params.get("sat") === "1" ? "sat" : "dark");
   const initFilters = params.get("f") ? new Set(params.get("f").split(",")) : null;
 
   // ── Map init ──
   const map = L.map("map", {
     zoomControl: false,
-    scrollWheelZoom: false,
+    scrollWheelZoom: true,
     attributionControl: true
   }).setView([initLat, initLng], initZoom);
 
-  (initSat ? satTile : darkTile).addTo(map);
-  let currentTile = initSat ? satTile : darkTile;
-  let isSat = initSat;
+  osmTile.addTo(map);
 
   L.control.zoom({ position: "bottomright" }).addTo(map);
 
-  // Dark tile filter via CSS class
-  if (!initSat) document.getElementById("map").classList.add("dark-tiles");
+  // Dark tile filter via CSS class (dark is default)
+  let currentMode = initMode;
+  const mapEl = document.getElementById("map");
+  if (currentMode === "dark") mapEl.classList.add("dark-tiles");
 
   // ── Update permalink ──
   function updatePermalink() {
@@ -94,7 +95,7 @@
         ? new Intl.DateTimeFormat("en-US",{month:"short",day:"numeric",year:"numeric"}).format(new Date(p.verified_date+"T12:00:00"))
         : "");
     return `<div class="map-popup">
-      <div class="pop-header" style="--c:${c}">
+      <div class="pop-header" style="--status-color:${c}">
         <span class="pop-status">${esc(p.status)}${p.confidence?` · ${esc(p.confidence)}`:""}</span>
         <div class="pop-name">${esc(p.name)}</div>
         <div class="pop-location">${esc(p.municipality)}, ${esc(p.county)} County</div>
@@ -110,7 +111,7 @@
       </div>
       <div class="pop-footer">
         <a class="pop-source" href="${safeUrl(p.source_url)}" target="_blank" rel="noopener">${esc(p.source_name||"Source")}</a>
-        <button class="pop-share" onclick="navigator.share&&navigator.share({title:'${esc(p.name)}',url:location.href});return false;">Share ↗</button>
+        <button class="pop-share" data-share-name="${esc(p.name)}">Share ↗</button>
       </div>
     </div>`;
   }
@@ -119,15 +120,22 @@
   const layers = new Map();
   const markerMap = new Map();
   const statuses = [...new Set(points.map(p => p.status))];
+  // Add each layer group to map once (not inside the points loop)
   statuses.forEach(s => layers.set(s, L.layerGroup().addTo(map)));
 
   points.forEach(p => {
     const marker = L.marker([p.latitude, p.longitude], {
       icon: makeIcon(col(p.status)), title: p.name
     }).bindPopup(makePopup(p), { maxWidth:320, className:"intel-popup" });
-    layers.get(p.status).addTo(map);
     marker.addTo(layers.get(p.status));
     markerMap.set(p.name, marker);
+  });
+
+  // Event delegation for Share button (avoids inline onclick)
+  document.addEventListener("click", e => {
+    const btn = e.target.closest(".pop-share[data-share-name]");
+    if (!btn) return;
+    if (navigator.share) navigator.share({ title: btn.dataset.shareName, url: location.href });
   });
 
   // ── Filters ──
@@ -199,6 +207,8 @@
     });
   }
 
+  // ── flyToPoint with timeout cancel to prevent double-popup ──
+  let flyTimer = null;
   function flyToPoint(name) {
     const marker = markerMap.get(name);
     if (!marker) return;
@@ -208,7 +218,8 @@
       if (inp && !inp.checked) { inp.checked = true; inp.closest("label").classList.remove("off"); layers.get(p.status).addTo(map); }
     }
     map.flyTo(marker.getLatLng(), 11, { animate:true, duration:0.8 });
-    setTimeout(() => marker.openPopup(), 900);
+    clearTimeout(flyTimer);
+    flyTimer = setTimeout(() => marker.openPopup(), 900);
     const sidebar = document.querySelector("#map-sidebar");
     if (sidebar && window.innerWidth <= 768) sidebar.classList.remove("open");
     updatePermalink();
@@ -229,22 +240,19 @@
   });
 
   // ── 3-mode tile toggle (Dark / Daylight / Satellite) ──
-  const dayTile = L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-    maxZoom: 18,
-    attribution: '© <a href="https://openstreetmap.org/copyright" style="color:#4e5468">OpenStreetMap</a>'
-  });
-
-  let currentMode = isSat ? "sat" : "dark";
-
   function setTileMode(mode) {
-    [darkTile, dayTile, satTile].forEach(t => { try { map.removeLayer(t); } catch(e){} });
-    const mapEl = document.getElementById("map");
+    // Remove satellite if active; osmTile stays loaded, CSS class controls dark vs day
+    if (currentMode === "sat") map.removeLayer(satTile);
     if (mode === "dark") {
-      darkTile.addTo(map); mapEl.classList.add("dark-tiles");
+      if (currentMode === "sat") osmTile.addTo(map);
+      mapEl.classList.add("dark-tiles");
     } else if (mode === "day") {
-      dayTile.addTo(map); mapEl.classList.remove("dark-tiles");
-    } else {
-      satTile.addTo(map); mapEl.classList.remove("dark-tiles");
+      if (currentMode === "sat") osmTile.addTo(map);
+      mapEl.classList.remove("dark-tiles");
+    } else { // sat
+      map.removeLayer(osmTile);
+      satTile.addTo(map);
+      mapEl.classList.remove("dark-tiles");
     }
     currentMode = mode;
     document.querySelectorAll(".tile-btn").forEach(b => {
@@ -258,6 +266,12 @@
     b.classList.toggle("active", b.dataset.mode === currentMode);
     b.addEventListener("click", () => setTileMode(b.dataset.mode));
   });
+
+  // If starting in sat mode, swap to sat tile
+  if (initMode === "sat") {
+    map.removeLayer(osmTile);
+    satTile.addTo(map);
+  }
 
   // ── Copy link button ──
   const linkBtn = document.querySelector("#copy-link");
