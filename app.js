@@ -411,7 +411,24 @@
       ? [newsletter.bot_field]
       : [];
 
-  const ensureMailchimpFields = (form, emailInput) => {
+  const mergeFields = newsletter.merge_fields || {};
+  const legacyEmailField = newsletter.email_field || mergeFields.email || "MERGE0";
+
+  const applyMergeFieldNames = form => {
+    if (!form) return;
+    const map = [
+      ["[data-merge='email']", mergeFields.email || legacyEmailField],
+      ["[data-merge='name']", mergeFields.name],
+      ["[data-merge='zip']", mergeFields.zip]
+    ];
+    map.forEach(([selector, fieldName]) => {
+      if (!fieldName) return;
+      const input = form.querySelector(selector);
+      if (input) input.name = fieldName;
+    });
+  };
+
+  const ensureMailchimpFields = form => {
     if (!form || !mailchimpAction) return;
     const addHidden = (name, value) => {
       if (!name || form.querySelector(`input[name="${name}"]`)) return;
@@ -423,7 +440,7 @@
     };
     addHidden("u", newsletter.form_u || "");
     addHidden("id", newsletter.form_id || "");
-    if (newsletter.email_field && emailInput) emailInput.name = newsletter.email_field;
+    applyMergeFieldNames(form);
     if (!mailchimpBotFields.length || form.querySelector(".mc-bot-trap")) return;
     const trap = document.createElement("div");
     trap.className = "mc-bot-trap";
@@ -438,17 +455,36 @@
   const bindNewsletterForm = (form, emailId, messageId, onSuccess) => {
     if (!form) return;
     const message = messageId ? $(messageId) : null;
-    const emailInput = $(emailId);
     if (mailchimpAction) {
       form.action = mailchimpAction;
-      ensureMailchimpFields(form, emailInput);
+      ensureMailchimpFields(form);
     }
     form.addEventListener("submit", event => {
       const email = $(emailId);
+      const name = form.querySelector("[data-merge='name']");
+      const zip = form.querySelector("[data-merge='zip']");
       if (!email?.checkValidity()) {
         event.preventDefault();
         if (message) message.textContent = "Please enter a valid email address.";
         email?.focus();
+        return;
+      }
+      if (name?.required && !name.value.trim()) {
+        event.preventDefault();
+        if (message) message.textContent = "Please enter your name.";
+        name.focus();
+        return;
+      }
+      if (zip?.required && !zip.value.trim()) {
+        event.preventDefault();
+        if (message) message.textContent = "Please enter your ZIP code.";
+        zip.focus();
+        return;
+      }
+      if (zip?.value.trim() && !/^\d{5}(-\d{4})?$/.test(zip.value.trim())) {
+        event.preventDefault();
+        if (message) message.textContent = "Please enter a valid 5-digit ZIP code.";
+        zip.focus();
         return;
       }
       if (!mailchimpAction) {

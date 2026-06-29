@@ -4,7 +4,11 @@ window.TRACKER_DATA = {
     form_action: "https://fortlauderdalesignal.us2.list-manage.com/subscribe/post",
     form_u: "224e87bfc7d2cd51e4b2f70a4",
     form_id: "9f42bf570e",
-    email_field: "MERGE0",
+    merge_fields: {
+      email: "MERGE0",
+      name: "MERGE1",
+      zip: "MERGE5"
+    },
     bot_fields: ["b_name", "b_email"]
   },
   feeds: {
