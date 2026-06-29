@@ -7,7 +7,7 @@
 
   const navMap = {
     home: ["index.html", "", "/", "/index.html"],
-    map: ["map.html"],
+    map: ["map.html", "map/", "map/index.html"],
     stories: ["stories.html"],
     meetings: ["meetings.html"],
     learn: ["learn.html", "methodology.html", "privacy.html"],
@@ -63,6 +63,6 @@
   });
 
   if (page === "map") {
-    document.querySelectorAll('.live-map-link[href*="map.html"]').forEach((el) => el.classList.add("is-active"));
+    document.querySelectorAll('.live-map-link[href*="map"]').forEach((el) => el.classList.add("is-active"));
   }
 })();
