@@ -14,7 +14,7 @@
 
   async function loadMapData() {
     try {
-      const res = await fetch("map-data.json?v=20260701l", { cache: "no-store" });
+      const res = await fetch("map-data.json?v=20260701n", { cache: "no-store" });
       if (!res.ok) throw new Error(`map-data.json HTTP ${res.status}`);
       const json = await res.json();
       if (!json.map_points?.length) throw new Error("map-data.json has no map_points");
@@ -794,7 +794,7 @@
       const opts = isMobile()
         ? { paddingTopLeft: [108, 20], paddingBottomRight: [88, 20], maxZoom: 8.5 }
         : embed
-          ? { paddingTopLeft: [88, 20], paddingBottomRight: [52, 20], maxZoom: 8.5 }
+          ? { padding: [28, 36], maxZoom: 9 }
           : { paddingTopLeft: [100, 300], paddingBottomRight: [56, 48], maxZoom: 8.5 };
       if (duration != null) map.flyToBounds(LOWER_PENINSULA_BOUNDS, { ...opts, duration });
       else map.fitBounds(LOWER_PENINSULA_BOUNDS, opts);
@@ -1487,6 +1487,14 @@
     setTimeout(applyInitialView, 200);
     if (document.documentElement.classList.contains("map-embed")) {
       setTimeout(applyInitialView, 700);
+      let resizeTimer;
+      window.addEventListener("resize", () => {
+        clearTimeout(resizeTimer);
+        resizeTimer = setTimeout(() => {
+          map.invalidateSize();
+          if (!initStory && !initPoint && !activePointName) fitLowerPeninsula();
+        }, 120);
+      });
     }
     if (initStory) openStory(initStory);
     else if (initPoint && markerMap.has(initPoint)) selectPoint(initPoint);
