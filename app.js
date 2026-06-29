@@ -152,7 +152,7 @@
     const items = indexes.map(index => latest[index]).filter(Boolean);
     const visual = regionVisuals[key];
     const visualCard = `<div class="region-visual" style="--region-image:url('${escapeHtml(visual.image)}')">
-      <span>${escapeHtml(visual.label)}</span><strong>${escapeHtml(visual.caption)}</strong>
+      <strong>${escapeHtml(visual.caption)}</strong>
     </div>`;
     $("#region-panel").innerHTML = visualCard + (items.length
       ? items.map(item => `<a href="${safeUrl(item.source_url)}" target="_blank" rel="noopener">
