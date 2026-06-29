@@ -53,9 +53,8 @@
       cursor: grab;
     }
     #map.leaflet-dragging, #map.leaflet-dragging .leaflet-grab { cursor: grabbing; }
-    .leaflet-tile-pane {
-      filter: brightness(0.38) contrast(1.1) saturate(0.5) hue-rotate(180deg);
-    }
+    /* Tile filter applied only in dark mode via #map.dark-tiles */
+    .leaflet-tile-pane { filter: none; }
     .leaflet-container { background: var(--bg); outline: none; }
     .leaflet-attribution-flag { display: none !important; }
     .leaflet-control-attribution {
@@ -509,7 +508,7 @@
     @media (max-width: 560px) { .hud-btn { display: none; } }
 
     #map.dark-tiles .leaflet-tile-pane {
-      filter: brightness(0.35) contrast(1.1) saturate(0.4) hue-rotate(180deg);
+      filter: brightness(0.35) contrast(1.15) saturate(0.4) hue-rotate(180deg);
     }
 
     .scroll-hint {
