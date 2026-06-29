@@ -522,5 +522,34 @@
 
   initFlyinBriefing();
 
+  const initStickyCta = () => {
+    const cta = $(".sticky-cta");
+    const liveMap = $("#live-map");
+    if (!cta || !liveMap) return;
+
+    const mobile = window.matchMedia("(max-width: 620px)");
+    let observer = null;
+
+    const bind = () => {
+      if (observer) {
+        observer.disconnect();
+        observer = null;
+      }
+      cta.classList.remove("is-hidden");
+      if (!mobile.matches) return;
+
+      observer = new IntersectionObserver(([entry]) => {
+        const show = !entry.isIntersecting || entry.intersectionRatio < 0.28;
+        cta.classList.toggle("is-hidden", !show);
+      }, { threshold: [0, 0.15, 0.28, 0.5] });
+      observer.observe(liveMap);
+    };
+
+    bind();
+    mobile.addEventListener("change", bind);
+  };
+
+  initStickyCta();
+
   labelExternalLinks();
 })();

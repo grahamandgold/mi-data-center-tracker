@@ -90,6 +90,13 @@
       text-transform: uppercase;
       text-decoration: none;
       box-shadow: 0 -4px 20px rgba(0,0,0,.3);
+      transition: transform .28s ease, opacity .28s ease;
+      will-change: transform, opacity;
+    }
+    .sticky-cta.is-hidden {
+      transform: translateY(110%);
+      opacity: 0;
+      pointer-events: none;
     }
 
     /* 7. Footer built-by line */
@@ -183,32 +190,32 @@
     }
     .utility-edition {
       display: flex;
-      flex-direction: column;
-      align-items: flex-end;
-      justify-content: center;
+      flex-direction: row;
+      align-items: center;
+      justify-content: flex-end;
       padding: 0 0 0 18px;
       margin-left: auto;
       border-left: 1px solid #2a2d34;
       flex-shrink: 0;
-      text-align: right;
-      gap: 2px;
+      gap: 7px;
     }
-    .utility-edition-weekday {
-      font-size: .46rem;
-      font-weight: 700;
-      letter-spacing: .22em;
+    .utility-edition-live {
+      width: 5px;
+      height: 5px;
+      border-radius: 50%;
+      background: #cf102d;
+      box-shadow: 0 0 0 2px rgba(207,16,45,.22);
+      flex-shrink: 0;
+    }
+    .utility-edition-date {
+      font-size: .58rem;
+      font-weight: 800;
+      font-style: normal;
+      letter-spacing: .06em;
       text-transform: uppercase;
       color: #8b919e;
       white-space: nowrap;
-    }
-    .utility-edition-date {
-      font-family: Georgia, "Times New Roman", Times, serif;
-      font-size: .78rem;
-      font-weight: 400;
-      font-style: italic;
-      letter-spacing: .02em;
-      color: #d8dbe2;
-      white-space: nowrap;
+      font-variant-numeric: tabular-nums;
     }
     .edition-date {
       margin: 0 0 14px;
@@ -432,15 +439,14 @@
       .utility-stat-label { font-size: .48rem; letter-spacing: .08em; }
       .utility-edition {
         grid-column: 1 / -1;
-        align-items: center;
-        text-align: center;
-        padding: 10px 0 4px;
-        margin-top: 4px;
+        justify-content: center;
+        padding: 7px 0 2px;
+        margin-top: 2px;
         margin-left: 0;
         border-left: 0;
-        border-top: 1px solid #222429;
+        border-top: 0;
       }
-      .utility-edition-date { font-size: .82rem; }
+      .utility-edition-date { font-size: .52rem; letter-spacing: .08em; }
 
       /* Intro — copy then compact map card */
       .home-intro {
@@ -459,7 +465,7 @@
         display: flex;
         flex-direction: column;
         gap: 12px;
-        padding: 16px 16px 0;
+        padding: 16px 16px 8px;
       }
       .home-intro-copy h2 {
         margin: 2px 0 0;
@@ -481,7 +487,7 @@
       .home-map-live { display: none; }
       .home-map-preview {
         aspect-ratio: 2.2 / 1;
-        max-height: 210px;
+        max-height: 228px;
       }
       .home-map-preview-chip {
         top: 8px;
@@ -519,8 +525,16 @@
       }
       .home-map-preview-action .button {
         width: 100%;
-        min-height: 44px;
-        font-size: .62rem;
+        min-height: 42px;
+        font-size: .6rem;
+        background: rgba(11,11,13,.78) !important;
+        color: #fff !important;
+        border: 1px solid rgba(255,255,255,.34) !important;
+        box-shadow: 0 6px 18px rgba(0,0,0,.32) !important;
+      }
+      .home-whats-next {
+        border-top-width: 1px;
+        border-top-color: #1e2128;
       }
 
       /* What's next — one urgent row */
@@ -1066,7 +1080,7 @@
         display: flex;
         flex-direction: column;
         gap: 12px;
-        padding: 16px 16px 0;
+        padding: 16px 16px 8px;
       }
       .home-intro-copy h2 {
         margin: 2px 0 0;
@@ -1079,7 +1093,7 @@
       .home-map-live { display: none; }
       .home-map-preview {
         aspect-ratio: 2.2 / 1;
-        max-height: 210px;
+        max-height: 228px;
       }
       .home-map-preview-chip {
         top: 8px;
@@ -1114,7 +1128,16 @@
       }
       .home-map-preview-action .button {
         width: 100%;
-        min-height: 44px;
+        min-height: 42px;
+        font-size: .6rem;
+        background: rgba(11,11,13,.78) !important;
+        color: #fff !important;
+        border: 1px solid rgba(255,255,255,.34) !important;
+        box-shadow: 0 6px 18px rgba(0,0,0,.32) !important;
+      }
+      .home-whats-next {
+        border-top-width: 1px;
+        border-top-color: #1e2128;
       }
       .home-whats-next .key-meetings-inner {
         flex-direction: row;
@@ -1280,8 +1303,8 @@
         <span class="utility-stat-num" id="stat-moratoria">—</span>
         <span class="utility-stat-label" id="stat-moratoria-label">Moratoria</span>
       </div>
-      <div class="utility-edition" aria-label="Today's edition">
-        <span class="utility-edition-weekday" id="utility-weekday"></span>
+      <div class="utility-edition" aria-label="Today's date">
+        <span class="utility-edition-live" aria-hidden="true"></span>
         <time class="utility-edition-date" id="utility-timestamp"></time>
       </div>
     </div>
@@ -1573,10 +1596,10 @@
     </div>
   </footer>
 
-  <script src="home-stats.js?v=20260702s"></script>
+  <script src="home-stats.js?v=20260703e"></script>
   <script src="home-map-preview.js?v=20260703d"></script>
   <script src="content-data.js?v=20260701x"></script>
-  <script src="app.js?v=20260703a"></script>
+  <script src="app.js?v=20260703e"></script>
   <script>
     (function () {
       const MAP_VERSION = "20260701w";

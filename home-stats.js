@@ -179,7 +179,8 @@
       iso: new Intl.DateTimeFormat("en-CA", { year: "numeric", month: "2-digit", day: "2-digit", ...detroit }).format(d),
       weekday: fmt({ weekday: "long" }),
       short: fmt({ month: "long", day: "numeric", year: "numeric" }),
-      compact: fmt({ month: "short", day: "numeric", year: "numeric" })
+      compact: fmt({ month: "short", day: "numeric", year: "numeric" }),
+      stripLine: fmt({ weekday: "short", month: "short", day: "numeric", year: "numeric" })
     };
   }
 
@@ -191,8 +192,7 @@
       el.textContent = text;
       if (attr) el.setAttribute("datetime", attr);
     };
-    set("utility-weekday", edition.weekday);
-    set("utility-timestamp", edition.short, edition.iso);
+    set("utility-timestamp", edition.stripLine, edition.iso);
     set("footer-updated", edition.short, edition.iso);
     set("public-updated-time", edition.short, edition.iso);
     return edition;
