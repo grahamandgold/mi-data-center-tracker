@@ -10,7 +10,7 @@
 
   async function loadMapData() {
     try {
-      const res = await fetch("map-data.json?v=20260629n", { cache: "no-store" });
+      const res = await fetch("map-data.json?v=20260629o", { cache: "no-store" });
       if (!res.ok) throw new Error(`map-data.json HTTP ${res.status}`);
       const json = await res.json();
       if (!json.map_points?.length) throw new Error("map-data.json has no map_points");
@@ -294,11 +294,7 @@
             const label = f.properties?.label;
             if (!center || !label) return;
             labelGroup.addLayer(L.marker(center, {
-              icon: L.divIcon({
-                className: "cd-label-wrap",
-                html: `<span class="cd-label">${esc(label)}</span>`,
-                iconSize: [0, 0]
-              }),
+              icon: makeLabelDivIcon("cd-label-wrap", `<span class="cd-label">${esc(label)}</span>`),
               interactive: false
             }));
           });
@@ -464,9 +460,43 @@
       return `<div class="map-popup"><div class="pop-header" style="--status:#9c5fc9"><span class="pop-status">Power & grid · ${esc(line.status)}</span><div class="pop-name">${esc(line.name)}</div><div class="pop-location">${esc((line.counties||[]).join(", "))}</div></div><div class="pop-body"><div class="pop-row"><span class="pop-label">Operator</span><span class="pop-val">${esc(line.operator)}</span></div>${line.note ? `<p class="pop-note">${esc(line.note)}</p>` : ""}</div><div class="pop-footer"><a class="pop-source" href="${safeUrl(line.source_url)}" target="_blank" rel="noopener">${esc(line.source_name)} ↗</a></div></div>`;
     }
 
-    const markerLayer = L.layerGroup().addTo(map);
+    function shortLineLabel(name) {
+      const raw = String(name || "").split("(")[0].trim();
+      if (/bwl/i.test(raw)) return "BWL South Line";
+      if (/oneida/i.test(raw)) return "ITC Oneida–Sabine";
+      if (raw.length <= 20) return raw;
+      return `${raw.slice(0, 18)}…`;
+    }
+
+    function makeLabelDivIcon(className, innerHtml) {
+      return L.divIcon({
+        className,
+        html: innerHtml,
+        iconSize: [1, 1],
+        iconAnchor: [0, 0]
+      });
+    }
+
+    const markerLayer = typeof L.markerClusterGroup === "function"
+      ? L.markerClusterGroup({
+          showCoverageOnHover: false,
+          maxClusterRadius: 46,
+          spiderfyOnMaxZoom: true,
+          disableClusteringAtZoom: 12,
+          iconCreateFunction: group => {
+            const count = group.getChildCount();
+            const size = count > 9 ? 40 : 34;
+            return L.divIcon({
+              html: `<div class="cluster-bubble" style="width:${size}px;height:${size}px"><span>${count}</span></div>`,
+              className: "",
+              iconSize: [size, size],
+              iconAnchor: [size / 2, size / 2]
+            });
+          }
+        })
+      : L.layerGroup();
+    markerLayer.addTo(map);
     const transmissionGroup = L.layerGroup().addTo(map);
-    const lineLabelGroup = L.layerGroup().addTo(map);
     const markerMap = new Map();
     const pointByName = new Map(points.map(p => [p.name, p]));
     let activeMarker = null, activePointName = null, activeRegion = initRegion;
@@ -582,15 +612,15 @@
         className: isAlt ? "" : "tx-glow"
       });
       poly.bindPopup(makeLinePopup(line), { maxWidth: 340 });
-      transmissionGroup.addLayer(poly);
-      if (!isAlt && line.name) {
-        const mid = line.coordinates[Math.floor(line.coordinates.length / 2)];
-        const label = L.marker(mid, {
-          icon: L.divIcon({ className: "line-label-wrap", html: `<span class="line-label">${esc(line.name.split("(")[0].trim())}</span>`, iconSize: [0, 0] }),
-          interactive: false
+      if (line.name) {
+        poly.bindTooltip(shortLineLabel(line.name), {
+          className: "tx-line-tip",
+          sticky: true,
+          opacity: 0.94,
+          direction: "top"
         });
-        lineLabelGroup.addLayer(label);
       }
+      transmissionGroup.addLayer(poly);
     });
 
     function pointVisible(p) {
@@ -631,13 +661,8 @@
           ).join("")
           : `<div class="dir-empty">No records match your filters.</div>`;
       }
-      if (activeLayers.has("transmission")) {
-        map.addLayer(transmissionGroup);
-        map.addLayer(lineLabelGroup);
-      } else {
-        map.removeLayer(transmissionGroup);
-        map.removeLayer(lineLabelGroup);
-      }
+      if (activeLayers.has("transmission")) map.addLayer(transmissionGroup);
+      else map.removeLayer(transmissionGroup);
       renderStatsRibbon();
       syncUrl();
     }
