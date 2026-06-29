@@ -1500,28 +1500,28 @@
       "label": "Public meetings",
       "description": "Upcoming hearings and government sessions",
       "color": "#5b9cf5",
-      "default_on": true
+      "default_on": false
     },
     {
       "id": "transmission",
       "label": "Power & grid",
       "description": "Transmission corridors and grid infrastructure",
       "color": "#9c5fc9",
-      "default_on": true
+      "default_on": false
     },
     {
       "id": "policy",
       "label": "Capitol & policy",
       "description": "State-level rallies, legislation and regulatory actions",
       "color": "#22a86a",
-      "default_on": true
+      "default_on": false
     },
     {
       "id": "generation",
       "label": "Power generation",
       "description": "Nuclear, coal, gas, wind, solar and hydro plants",
       "color": "#14b8a6",
-      "default_on": true
+      "default_on": false
     }
   ],
   "boundary_layers": [
@@ -1818,28 +1818,18 @@
   ],
   "stats_ribbon": [
     {
-      "label": "Tracked records",
+      "label": "On map now",
       "value_key": "total",
       "suffix": ""
     },
     {
-      "label": "Local moratoria",
-      "value_key": "moratoria",
-      "suffix": ""
-    },
-    {
-      "label": "Active projects",
+      "label": "Projects",
       "value_key": "projects",
       "suffix": ""
     },
     {
-      "label": "Grid corridors",
-      "value_key": "transmission",
-      "suffix": ""
-    },
-    {
-      "label": "Power plants",
-      "value_key": "generation",
+      "label": "Moratoria",
+      "value_key": "moratoria",
       "suffix": ""
     }
   ],

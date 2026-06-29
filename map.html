@@ -604,7 +604,7 @@
 
     .panel-head {
       flex-shrink: 0;
-      padding: 14px 14px 12px;
+      padding: 12px 14px 10px;
       border-bottom: 1px solid var(--line);
     }
     .panel-grab {
@@ -686,23 +686,23 @@
       display: grid;
       grid-template-columns: repeat(4, 1fr);
       gap: 0;
-      padding: 0;
-      border-bottom: 2px solid var(--line);
-      background: transparent;
+      padding: 0 4px;
+      border-bottom: 1px solid var(--line);
+      background: rgba(255,255,255,0.015);
     }
     .panel-tab {
       font-family: var(--sans);
       font-size: 10px;
       font-weight: 700;
-      letter-spacing: 0.08em;
+      letter-spacing: 0.07em;
       text-transform: uppercase;
       color: var(--ink-muted);
       background: transparent;
       border: 0;
       border-radius: 0;
       border-bottom: 2px solid transparent;
-      margin-bottom: -2px;
-      padding: 10px 6px;
+      margin-bottom: -1px;
+      padding: 11px 4px 9px;
       cursor: pointer;
     }
     .panel-tab:hover { color: var(--ink-dim); }
@@ -764,10 +764,25 @@
     .pane-fold[open] > summary.pane-label::after { content: "−"; }
     .pane-fold[open] > summary.pane-label { color: var(--ink-dim); }
     .pane-hint {
-      padding: 8px 12px 10px;
-      font-size: 11px;
-      line-height: 1.45;
+      padding: 8px 12px 9px;
+      font-size: 10px;
+      line-height: 1.4;
       color: var(--ink-muted);
+      border-bottom: 1px solid var(--line);
+    }
+    .layer-group-caption {
+      padding: 8px 12px 4px;
+      font-size: 9px;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--ink-muted);
+    }
+    .layer-group-caption + .map-layers .layer-row:first-child {
+      border-top: 1px solid var(--line);
+    }
+    .list-search-wrap {
+      padding: 10px 12px 8px;
       border-bottom: 1px solid var(--line);
     }
 
@@ -920,12 +935,12 @@
     .record-phase { color: var(--ink-dim); }
     .record-status {
       display: inline-block;
-      font-size: 10px;
+      font-size: 11px;
       font-weight: 800;
       letter-spacing: 0.08em;
       text-transform: uppercase;
       color: var(--status, var(--red));
-      margin-bottom: 6px;
+      margin-bottom: 4px;
     }
     .record-name {
       font-size: 17px;
@@ -1513,8 +1528,8 @@
         -webkit-tap-highlight-color: transparent;
       }
       .panel-head-top { margin-bottom: 0; }
-      .map-panel:not(.open) .panel-search-wrap { display: none; }
-      .map-panel.open .panel-search-wrap { display: block; margin-top: 10px; }
+      .map-panel:not(.open) .list-search-wrap { display: none; }
+      .map-panel.open .list-search-wrap { display: block; }
       .map-panel.open .panel-head-top { margin-bottom: 0; }
       .panel-search-wrap input { min-height: 44px; }
       .panel-tabs,
@@ -1642,17 +1657,13 @@
         <div class="panel-head-top">
           <div>
             <h1 class="panel-title">Intelligence map</h1>
-            <span class="panel-subtitle">Records · grid · water</span>
+            <span class="panel-subtitle">Projects &amp; moratoria focus</span>
           </div>
           <span class="panel-count" id="panel-record-count">Loading…</span>
           <span class="panel-chevron" id="panel-chevron" aria-hidden="true">⌃</span>
         </div>
         <p class="panel-tagline" id="panel-tagline" hidden></p>
         <div class="panel-badge" id="panel-badge" hidden></div>
-        <div class="panel-search-wrap">
-          <input type="search" id="map-search" placeholder="Search records…" autocomplete="off" spellcheck="false" aria-label="Search records">
-          <div id="search-results" class="search-results" hidden></div>
-        </div>
         <span id="map-updated" hidden></span>
       </div>
 
@@ -1666,10 +1677,14 @@
       <div class="panel-body">
         <div class="panel-pane" id="pane-layers" role="tabpanel" aria-labelledby="tab-btn-layers">
           <div id="story-detail" hidden></div>
-          <p class="pane-hint">Toggle what appears on the map. Records are on by default; grid and boundary layers are optional context.</p>
           <details class="pane-fold" open>
             <summary class="pane-label">Records</summary>
-            <div class="map-layers" id="map-layers"></div>
+            <div id="map-layers-stack">
+              <div class="layer-group-caption">Default view</div>
+              <div class="map-layers" id="map-layers-core"></div>
+              <div class="layer-group-caption">Add context</div>
+              <div class="map-layers" id="map-layers-more"></div>
+            </div>
           </details>
           <details class="pane-fold">
             <summary class="pane-label">Grid &amp; water</summary>
@@ -1682,7 +1697,7 @@
         </div>
 
         <div class="panel-pane" id="pane-filter" role="tabpanel" aria-labelledby="tab-btn-filter" hidden>
-          <p class="pane-hint">Narrow the directory and markers. Filters apply to record layers only.</p>
+          <p class="pane-hint">Status filters match the record layers you have turned on.</p>
           <div class="panel-section">
             <div class="panel-section-head">
               <span class="panel-section-title">Region</span>
@@ -1705,7 +1720,10 @@
         </div>
 
         <div class="panel-pane" id="pane-list" role="tabpanel" aria-labelledby="tab-btn-list" hidden>
-          <p class="pane-hint">Click a record for status, phase, and what to watch next.</p>
+          <div class="list-search-wrap panel-search-wrap">
+            <input type="search" id="map-search" placeholder="Search projects &amp; moratoria…" autocomplete="off" spellcheck="false" aria-label="Search records">
+            <div id="search-results" class="search-results" hidden></div>
+          </div>
           <div id="selected-record" hidden></div>
           <div class="map-directory" id="map-directory"></div>
         </div>
@@ -1766,7 +1784,7 @@
   <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js" crossorigin=""></script>
   <!-- Optional: set data-plausible-domain on <body> and uncomment for Plausible -->
   <!-- <script defer data-domain="midatacentertracker.com" src="https://plausible.io/js/script.js"></script> -->
-  <script src="map-analytics.js?v=20260630b"></script>
-  <script src="map.js?v=20260630b" defer></script>
+  <script src="map-analytics.js?v=20260630c"></script>
+  <script src="map.js?v=20260630c" defer></script>
 </body>
 </html>

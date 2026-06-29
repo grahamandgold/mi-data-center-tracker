@@ -10,7 +10,7 @@
 
   async function loadMapData() {
     try {
-      const res = await fetch("map-data.json?v=20260630b", { cache: "no-store" });
+      const res = await fetch("map-data.json?v=20260630c", { cache: "no-store" });
       if (!res.ok) throw new Error(`map-data.json HTTP ${res.status}`);
       const json = await res.json();
       if (!json.map_points?.length) throw new Error("map-data.json has no map_points");
@@ -194,8 +194,12 @@
     const initOverlaysRaw = params.get("overlays");
     const initOverlays = initOverlaysRaw ? new Set(initOverlaysRaw.split(",").map(s => s.trim()).filter(Boolean)) : null;
 
-    const defaultLayers = new Set(layersMeta.filter(l => l.default_on !== false).map(l => l.id));
-    if (!defaultLayers.size) ["projects","moratoria","meetings","transmission","policy","generation"].forEach(id => defaultLayers.add(id));
+    const FOCUSED_LAYER_IDS = ["projects", "moratoria"];
+    const OPTIONAL_LAYER_IDS = ["meetings", "transmission", "policy", "generation"];
+    const defaultLayers = new Set(
+      layersMeta.filter(l => l.default_on !== false).map(l => l.id)
+    );
+    if (!defaultLayers.size) FOCUSED_LAYER_IDS.forEach(id => defaultLayers.add(id));
     let activeLayers = initLayers?.size ? initLayers : new Set(defaultLayers);
 
     const defaultBoundaries = new Set(boundaryLayersMeta.filter(b => b.default_on).map(b => b.id));
@@ -623,8 +627,10 @@
     const markerMap = new Map();
     const pointByName = new Map(points.map(p => [p.name, p]));
     let activeMarker = null, activePointName = null, activeRegion = initRegion;
-    const filtersEl = $("#map-filters"), layersEl = $("#map-layers"), boundariesEl = $("#map-boundaries"), overlaysEl = $("#map-overlays"), dirEl = $("#map-directory"), storiesEl = $("#map-stories");
-    const statuses = [...new Set(points.map(p => p.status))].sort();
+    const filtersEl = $("#map-filters"), layersStackEl = $("#map-layers-stack"), layersCoreEl = $("#map-layers-core"), layersMoreEl = $("#map-layers-more"), boundariesEl = $("#map-boundaries"), overlaysEl = $("#map-overlays"), dirEl = $("#map-directory"), storiesEl = $("#map-stories");
+    function statusesForActiveLayers() {
+      return [...new Set(points.filter(p => activeLayers.has(p.layer || "projects")).map(p => p.status))].sort();
+    }
     const LOWER_PENINSULA_BOUNDS = L.latLngBounds([41.72, -87.38], [45.68, -82.12]);
 
     function fitLowerPeninsula({ duration } = {}) {
@@ -848,8 +854,9 @@
       const p = new URLSearchParams();
       if (currentMode !== "dark") p.set("mode", currentMode);
       if (activeRegion !== "all") p.set("region", activeRegion);
-      const onStatuses = statuses.filter(s => filtersEl?.querySelector(`input[value="${escAttr(s)}"]`)?.checked);
-      if (onStatuses.length && onStatuses.length < statuses.length) p.set("f", onStatuses.join(","));
+      const onStatuses = statusesForActiveLayers().filter(s => filtersEl?.querySelector(`input[value="${escAttr(s)}"]`)?.checked);
+      const statusPool = statusesForActiveLayers();
+      if (onStatuses.length && onStatuses.length < statusPool.length) p.set("f", onStatuses.join(","));
       const onLayers = [...activeLayers];
       if (onLayers.length && onLayers.length < layersMeta.length) p.set("layers", onLayers.join(","));
       const onBoundaries = [...activeBoundaries];
@@ -887,16 +894,50 @@
       if (latlngs.length) map.fitBounds(latlngs, { padding: [50, 50], maxZoom: 8 });
     }
 
-    if (layersEl && layersMeta.length) {
-      layersEl.innerHTML = layersMeta.map(l => {
+    function renderRecordLayerGroup(el, ids) {
+      if (!el) return;
+      el.innerHTML = ids.map(id => {
+        const l = layersMeta.find(row => row.id === id);
+        if (!l) return "";
         const n = points.filter(p => p.layer === l.id).length;
         const on = activeLayers.has(l.id);
         return layerRow({ id: l.id, label: l.label, desc: l.description, color: l.color, count: n, on });
       }).join("");
-      bindLayerList(layersEl, (id, on) => {
+    }
+
+    function renderRecordLayers() {
+      renderRecordLayerGroup(layersCoreEl, FOCUSED_LAYER_IDS);
+      renderRecordLayerGroup(layersMoreEl, OPTIONAL_LAYER_IDS.filter(id => layersMeta.some(l => l.id === id)));
+    }
+
+    function syncRecordLayerRows() {
+      layersStackEl?.querySelectorAll(".layer-row").forEach(btn => {
+        setLayerRow(btn, activeLayers.has(btn.dataset.layer));
+      });
+    }
+
+    function renderStatusFilters() {
+      if (!filtersEl) return;
+      const statuses = statusesForActiveLayers();
+      const isFirst = !filtersEl.querySelector("input");
+      const prevInputs = [...filtersEl.querySelectorAll("input")];
+      const prevChecked = new Set(prevInputs.filter(i => i.checked).map(i => i.value));
+      const prevStatuses = new Set(prevInputs.map(i => i.value));
+      filtersEl.innerHTML = statuses.map(s => {
+        const checkedOn = isFirst
+          ? (!initFilters || initFilters.has(s))
+          : (prevStatuses.has(s) ? prevChecked.has(s) : true);
+        return `<label class="${checkedOn ? "" : "off"}"><input type="checkbox" value="${esc(s)}" ${checkedOn ? "checked" : ""}><span class="filter-dot" style="background:${STATUS_COLORS[s]||"#cf102d"}"></span><span class="filter-name">${esc(s)}</span><span class="filter-count">${points.filter(p => p.status === s && activeLayers.has(p.layer || "projects")).length}</span></label>`;
+      }).join("");
+    }
+
+    if (layersStackEl && layersMeta.length) {
+      renderRecordLayers();
+      bindLayerList(layersStackEl, (id, on) => {
         if (isMobile()) openMobilePanel("layers");
         if (on) activeLayers.add(id); else activeLayers.delete(id);
         analytics.track("layer_toggle", { group: "records", layer: id, on });
+        renderStatusFilters();
         refreshMarkers();
       });
     }
@@ -963,10 +1004,7 @@
     }
 
     if (filtersEl) {
-      filtersEl.innerHTML = statuses.map(s => {
-        const checked = !initFilters || initFilters.has(s);
-        return `<label class="${checked ? "" : "off"}"><input type="checkbox" value="${esc(s)}" ${checked ? "checked" : ""}><span class="filter-dot" style="background:${STATUS_COLORS[s]||"#cf102d"}"></span><span class="filter-name">${esc(s)}</span><span class="filter-count">${points.filter(p=>p.status===s).length}</span></label>`;
-      }).join("");
+      renderStatusFilters();
       filtersEl.addEventListener("change", e => {
         const input = e.target.closest("input");
         if (input) analytics.track("filter_change", { type: "status", value: input.value, on: input.checked });
@@ -1019,7 +1057,7 @@
       const actionHtml = actions.length
         ? `<div class="record-actions"><div class="record-actions-title">What to watch</div><ul>${actions.map(a => `<li>${esc(a)}</li>`).join("")}</ul></div>`
         : "";
-      panel.innerHTML = `<div class="record-card" style="--status:${c}"><div class="record-card-top"><span class="record-type">${esc(layerLabel(p))}</span><span class="record-phase">${esc(phase)}</span></div><div class="record-status">${esc(p.status)}</div><h2 class="record-name">${esc(p.name)}</h2><div class="record-meta">${esc(p.municipality)}, ${esc(p.county)} County</div>${facts ? `<div class="record-facts">${facts}</div>` : ""}${p.note ? `<p class="record-note">${esc(p.note)}</p>` : ""}${actionHtml}<div class="record-card-foot"><a class="selected-link" href="${safeUrl(p.source_url)}" target="_blank" rel="noopener">${esc(p.source_name || "Source")} ↗</a></div></div>`;
+      panel.innerHTML = `<div class="record-card" style="--status:${c}"><div class="record-status">${esc(p.status)}</div><div class="record-phase">${esc(phase)} · ${esc(layerLabel(p))}</div><h2 class="record-name">${esc(p.name)}</h2><div class="record-meta">${esc(p.municipality)}, ${esc(p.county)} County</div>${facts ? `<div class="record-facts">${facts}</div>` : ""}${p.note ? `<p class="record-note">${esc(p.note)}</p>` : ""}${actionHtml}<div class="record-card-foot"><a class="selected-link" href="${safeUrl(p.source_url)}" target="_blank" rel="noopener">${esc(p.source_name || "Source")} ↗</a></div></div>`;
     }
 
     function clearSelection() {
@@ -1051,9 +1089,10 @@
     function resetMapView({ fit = true } = {}) {
       activeRegion = "all";
       activeLayers = new Set(layersMeta.filter(l => l.default_on !== false).map(l => l.id));
-      if (!activeLayers.size) ["projects", "moratoria", "meetings", "transmission", "policy", "generation"].forEach(id => activeLayers.add(id));
+      if (!activeLayers.size) FOCUSED_LAYER_IDS.forEach(id => activeLayers.add(id));
       $$("#map-filters input").forEach(i => { i.checked = true; i.closest("label")?.classList.remove("off"); });
-      layersEl?.querySelectorAll(".layer-row").forEach(btn => setLayerRow(btn, activeLayers.has(btn.dataset.layer)));
+      syncRecordLayerRows();
+      renderStatusFilters();
       activeBoundaries = new Set(boundaryLayersMeta.filter(b => b.default_on).map(b => b.id));
       boundariesEl?.querySelectorAll(".layer-row").forEach(btn => setLayerRow(btn, activeBoundaries.has(btn.dataset.layer)));
       refreshBoundaries();
