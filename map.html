@@ -1788,9 +1788,13 @@
       text-underline-offset: 2px;
     }
 
+    .panel-mini-grab { display: none; }
     .sidebar-toggle { display: none; }
     .nav-link--desktop { display: inline-flex; }
     .map-mob-actions { display: none; }
+    .map-mob-toolbar,
+    .map-mob-menu,
+    .map-mob-scrim { display: none; }
 
     @media (max-width: 1280px) {
       .stat-inline--industry,
@@ -1812,15 +1816,11 @@
 
     @media (max-width: 768px) {
       :root {
-        --topbar-safe: env(safe-area-inset-top, 0px);
-        --topbar-pad: 8px;
-        --topbar-logo-h: 30px;
-        --topbar-tools-h: 32px;
-        --topbar-h: calc(var(--topbar-safe) + var(--topbar-pad) + var(--topbar-logo-h) + 6px + var(--topbar-tools-h) + var(--topbar-pad));
+        --topbar-h: calc(env(safe-area-inset-top, 0px) + 50px);
         --chrome-stats-h: 0px;
         --chrome-h: 0px;
         --map-inset-top: var(--topbar-h);
-        --mobile-dock-h: 48px;
+        --mobile-dock-h: 44px;
       }
       #map {
         position: absolute;
@@ -1830,60 +1830,30 @@
         left: 0;
       }
       .map-hud { display: none !important; }
-      .map-mob-actions {
-        display: flex;
-        align-items: center;
-        gap: 4px;
-        flex: 1 1 auto;
-        min-width: 0;
-        justify-content: flex-end;
-      }
-      .map-mob-btn {
-        font-family: var(--sans);
-        font-size: 8px;
-        font-weight: 700;
-        letter-spacing: 0.05em;
-        text-transform: uppercase;
-        color: var(--ink-dim);
-        background: rgba(255,255,255,0.05);
-        border: 1px solid var(--line-strong);
-        border-radius: 6px;
-        padding: 6px 8px;
-        min-height: var(--topbar-tools-h);
-        cursor: pointer;
-        white-space: nowrap;
-      }
-      .map-mob-btn--red {
-        color: #fff;
-        background: var(--red);
-        border-color: var(--red);
-      }
-      .map-mob-btn:active { opacity: 0.85; }
       .map-topbar {
         height: var(--topbar-h);
         min-height: var(--topbar-h);
-        gap: 6px;
-        padding: var(--topbar-pad);
-        padding-top: calc(var(--topbar-pad) + var(--topbar-safe));
-        flex-wrap: wrap;
+        gap: 8px;
+        padding: calc(6px + env(safe-area-inset-top, 0px)) 10px 6px;
+        flex-wrap: nowrap;
         align-items: center;
-        align-content: flex-start;
       }
+      .map-topbar::after { left: 10px; right: 10px; }
       .map-topbar-brand {
-        flex: 1 1 100%;
+        flex: 1 1 auto;
         min-width: 0;
-        max-width: none;
+        max-width: 62%;
         gap: 0;
       }
       .map-topbar-kicker { display: none; }
       .map-topbar-logo-wrap {
-        height: var(--topbar-logo-h);
+        height: 26px;
         overflow: hidden;
         line-height: 0;
       }
       .map-topbar-logo-wrap img {
         display: block;
-        height: 36px;
+        height: 30px;
         width: auto;
         max-width: none;
         object-fit: cover;
@@ -1891,23 +1861,113 @@
       }
       .chrome-map-actions { display: none; }
       .map-topbar-actions {
-        flex: 1 1 100%;
+        flex: 0 0 auto;
         min-width: 0;
-        justify-content: space-between;
-        gap: 6px;
+        justify-content: flex-end;
+        gap: 0;
         flex-wrap: nowrap;
       }
-      .tile-toggle {
-        padding: 2px;
-        border-radius: 6px;
-        flex-shrink: 1;
-        min-width: 0;
+      .tile-toggle,
+      .map-mob-actions { display: none !important; }
+      .map-mob-toolbar {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+        flex-shrink: 0;
       }
-      .tile-btn {
-        padding: 6px 5px;
-        font-size: 8px;
-        letter-spacing: 0.04em;
-        min-height: 30px;
+      .mob-icon-btn {
+        width: 36px;
+        height: 36px;
+        display: grid;
+        place-items: center;
+        border-radius: 9px;
+        border: 1px solid rgba(255,255,255,0.1);
+        background: rgba(255,255,255,0.04);
+        color: var(--ink-dim);
+        padding: 0;
+        cursor: pointer;
+        -webkit-tap-highlight-color: transparent;
+        transition: background .15s, color .15s, border-color .15s;
+      }
+      .mob-icon-btn svg { display: block; width: 17px; height: 17px; }
+      .mob-icon-btn:active { opacity: 0.88; }
+      .mob-icon-btn[aria-expanded="true"] {
+        color: var(--ink);
+        background: rgba(255,255,255,0.08);
+        border-color: rgba(255,255,255,0.16);
+      }
+      .mob-icon-btn--accent {
+        color: #fff;
+        background: var(--red);
+        border-color: var(--red);
+      }
+      .map-mob-scrim {
+        display: block;
+        position: fixed;
+        inset: 0;
+        z-index: 760;
+        background: rgba(0,0,0,0.42);
+        border: 0;
+        padding: 0;
+        cursor: default;
+      }
+      .map-mob-scrim[hidden] { display: none !important; }
+      .map-mob-menu {
+        display: flex;
+        flex-direction: column;
+        gap: 2px;
+        position: fixed;
+        top: calc(var(--topbar-h) + 6px);
+        right: 10px;
+        z-index: 770;
+        min-width: 168px;
+        padding: 6px;
+        border-radius: 10px;
+        border: 1px solid rgba(255,255,255,0.1);
+        background: rgba(14,16,22,0.98);
+        box-shadow: 0 16px 40px rgba(0,0,0,0.45);
+      }
+      .map-mob-menu[hidden] { display: none !important; }
+      .map-mob-menu button {
+        font-family: var(--sans);
+        font-size: 12px;
+        font-weight: 600;
+        letter-spacing: 0.02em;
+        color: var(--ink);
+        background: transparent;
+        border: 0;
+        border-radius: 7px;
+        padding: 11px 12px;
+        text-align: left;
+        cursor: pointer;
+      }
+      .map-mob-menu button:active { background: rgba(255,255,255,0.06); }
+      .map-mob-menu-divider {
+        height: 1px;
+        margin: 4px 2px;
+        background: var(--line);
+      }
+      .map-mob-basemap {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 4px;
+        padding: 2px;
+      }
+      .mob-basemap-opt {
+        font-size: 9px !important;
+        font-weight: 700 !important;
+        letter-spacing: 0.06em !important;
+        text-transform: uppercase !important;
+        text-align: center !important;
+        padding: 9px 4px !important;
+        color: var(--ink-muted) !important;
+        background: rgba(255,255,255,0.04) !important;
+        border: 1px solid var(--line) !important;
+      }
+      .mob-basemap-opt.active {
+        color: #fff !important;
+        background: rgba(207,16,45,0.32) !important;
+        border-color: rgba(207,16,45,0.45) !important;
       }
       .nav-link--desktop { display: none !important; }
       .nav-cta { display: none !important; }
@@ -1982,9 +2042,25 @@
         gap: 8px;
       }
       .map-panel:not(.open) .panel-subtitle { display: none; }
+      .map-panel:not(.open) .panel-mini-grab {
+        display: block;
+        width: 34px;
+        height: 3px;
+        border-radius: 999px;
+        background: rgba(255,255,255,0.22);
+        margin: 0 auto 6px;
+        flex-shrink: 0;
+      }
+      .map-panel.open .panel-mini-grab { display: none; }
+      .map-panel:not(.open) .panel-head {
+        flex-direction: column;
+        justify-content: center;
+        padding-top: 4px;
+      }
       .map-panel:not(.open) .panel-title {
-        font-size: 0.78rem;
-        letter-spacing: 0.05em;
+        font-size: 10px;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
         white-space: nowrap;
         overflow: hidden;
         text-overflow: ellipsis;
@@ -2086,9 +2162,24 @@
         z-index: 710;
       }
 
+      .leaflet-control-zoom {
+        border-radius: 8px !important;
+        overflow: hidden;
+        box-shadow: 0 6px 18px rgba(0,0,0,0.35) !important;
+      }
+      .leaflet-control-zoom a {
+        width: 32px !important;
+        height: 32px !important;
+        line-height: 32px !important;
+        font-size: 16px !important;
+      }
       .leaflet-bottom.leaflet-right {
-        bottom: calc(var(--mobile-dock-h) + env(safe-area-inset-bottom, 0px) + 8px) !important;
-        right: 8px !important;
+        bottom: calc(var(--mobile-dock-h) + env(safe-area-inset-bottom, 0px) + 6px) !important;
+        right: 6px !important;
+      }
+      .leaflet-control-attribution {
+        max-width: calc(100vw - 120px);
+        font-size: 8px !important;
       }
       .map-shell:has(.map-panel.open) .leaflet-bottom.leaflet-right {
         bottom: calc(12px + env(safe-area-inset-bottom, 0px)) !important;
@@ -2119,11 +2210,16 @@
           <button class="tile-btn" data-mode="day" type="button">Day</button>
           <button class="tile-btn" data-mode="sat" type="button">Sat</button>
         </div>
-        <div class="map-mob-actions" role="toolbar" aria-label="Map actions">
-          <button type="button" class="map-mob-btn map-mob-btn--red" id="map-reset-mob" aria-label="Reset map">Reset</button>
-          <button type="button" class="map-mob-btn" id="map-locate-mob" aria-label="Find records near you">Near</button>
-          <button type="button" class="map-mob-btn" id="map-share-mob" aria-label="Share this map">Share</button>
-          <button type="button" class="map-mob-btn" id="map-legend-mob" aria-label="Toggle legend" aria-expanded="false" aria-controls="map-legend">Key</button>
+        <div class="map-mob-toolbar" role="toolbar" aria-label="Map tools">
+          <button type="button" class="mob-icon-btn" id="map-open-panel" aria-label="Open map controls">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h10"/></svg>
+          </button>
+          <button type="button" class="mob-icon-btn" id="map-more-mob" aria-label="More actions" aria-expanded="false" aria-controls="map-mob-menu">
+            <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><circle cx="5" cy="12" r="1.8"/><circle cx="12" cy="12" r="1.8"/><circle cx="19" cy="12" r="1.8"/></svg>
+          </button>
+          <button type="button" class="mob-icon-btn mob-icon-btn--accent" id="map-reset-mob" aria-label="Reset map">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M3 12a9 9 0 0115.5-6.5L21 3v6h-6"/><path d="M21 12a9 9 0 01-15.5 6.5L3 21v-6h6"/></svg>
+          </button>
         </div>
         <a class="topbar-icon-btn nav-link--desktop" href="index.html" aria-label="Back to tracker" title="Back to tracker">
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg>
@@ -2136,9 +2232,23 @@
       </div>
     </header>
 
+    <button type="button" class="map-mob-scrim" id="map-mob-scrim" hidden aria-label="Close menu"></button>
+    <div class="map-mob-menu" id="map-mob-menu" hidden role="menu" aria-label="Map actions">
+      <button type="button" id="map-locate-mob" role="menuitem">Near me</button>
+      <button type="button" id="map-share-mob" role="menuitem">Share</button>
+      <button type="button" id="map-legend-mob" role="menuitem" aria-expanded="false" aria-controls="map-legend">Legend</button>
+      <div class="map-mob-menu-divider" role="separator"></div>
+      <div class="map-mob-basemap" role="group" aria-label="Map style">
+        <button type="button" class="mob-basemap-opt active" data-mode="dark">Dark</button>
+        <button type="button" class="mob-basemap-opt" data-mode="day">Day</button>
+        <button type="button" class="mob-basemap-opt" data-mode="sat">Sat</button>
+      </div>
+    </div>
+
     <aside class="map-panel" id="map-sidebar" aria-label="Map controls" aria-expanded="false">
       <div class="panel-grab" aria-hidden="true"></div>
       <div class="panel-head" id="sidebar-header">
+        <div class="panel-mini-grab" aria-hidden="true"></div>
         <div class="panel-head-top">
           <div>
             <h1 class="panel-title">Intelligence map</h1>
@@ -2273,6 +2383,6 @@
   <!-- Optional: set data-plausible-domain on <body> and uncomment for Plausible -->
   <!-- <script defer data-domain="midatacentertracker.com" src="https://plausible.io/js/script.js"></script> -->
   <script src="map-analytics.js?v=20260701t"></script>
-  <script src="map.js?v=20260704r" defer></script>
+  <script src="map.js?v=20260704s" defer></script>
 </body>
 </html>

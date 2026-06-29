@@ -128,6 +128,7 @@
 
     function openMobilePanel(tabId) {
       if (!isMobile()) return;
+      closeMobMenu();
       const sidebar = $("#map-sidebar");
       sidebar?.classList.add("open");
       if (tabId) switchPanelTab(tabId);
@@ -141,6 +142,12 @@
       const shouldOpen = typeof forceOpen === "boolean" ? forceOpen : !sidebar.classList.contains("open");
       sidebar.classList.toggle("open", shouldOpen);
       updateMobilePanelUi();
+    }
+
+    function closeMobMenu() {
+      $("#map-mob-menu")?.setAttribute("hidden", "");
+      $("#map-mob-scrim")?.setAttribute("hidden", "");
+      $("#map-more-mob")?.setAttribute("aria-expanded", "false");
     }
 
     const LAYER_COLORS = Object.fromEntries(layersMeta.map(l => [l.id, l.color]));
@@ -278,6 +285,9 @@
     }
 
     let currentMode = ["dark", "day", "sat"].includes(initMode) ? initMode : "dark";
+    const syncBasemapUi = mode => {
+      $$(".tile-btn, .mob-basemap-opt").forEach(b => b.classList.toggle("active", b.dataset.mode === mode));
+    };
     const setTileMode = mode => {
       allBasemapLayers.forEach(t => { try { map.removeLayer(t); } catch (_) {} });
       (basemapSets[mode] || basemapSets.day).forEach(t => t.addTo(map));
@@ -287,7 +297,7 @@
         mapEl.classList.toggle("map-basemap-dark", mode === "dark");
         mapEl.classList.toggle("map-basemap-sat", mode === "sat");
       }
-      $$(".tile-btn").forEach(b => b.classList.toggle("active", b.dataset.mode === mode));
+      syncBasemapUi(mode);
       applyBasemapLabelOpacity();
     };
     setTileMode(currentMode);
@@ -295,6 +305,11 @@
     $$(".tile-btn").forEach(b => b.addEventListener("click", () => {
       setTileMode(b.dataset.mode);
       analytics.track("basemap_change", { mode: b.dataset.mode });
+    }));
+    $$(".mob-basemap-opt").forEach(b => b.addEventListener("click", () => {
+      setTileMode(b.dataset.mode);
+      analytics.track("basemap_change", { mode: b.dataset.mode });
+      closeMobMenu();
     }));
 
     function miBoundaryStyle() {
@@ -809,7 +824,7 @@
     function fitLowerPeninsula({ duration } = {}) {
       const embed = document.documentElement.classList.contains("map-embed");
       const opts = isMobile()
-        ? { paddingTopLeft: [48, 14], paddingBottomRight: [128, 14], maxZoom: 8.5 }
+        ? { paddingTopLeft: [36, 10], paddingBottomRight: [58, 10], maxZoom: 8 }
         : embed
           ? { padding: [28, 36], maxZoom: 9 }
           : { paddingTopLeft: [108, 312], paddingBottomRight: [64, 52], maxZoom: 8 };
@@ -1386,7 +1401,7 @@
       clearSelection();
       clearClusterPeek();
       map.closePopup();
-      setTileMode("day");
+      setTileMode("dark");
       refreshMarkers();
       if (!isMobile()) switchPanelTab("layers");
       else toggleMobilePanel(false);
@@ -1509,6 +1524,32 @@
     $$("#map-legend-toggle, #map-legend-mob, #map-legend-chrome").forEach(btn => btn.addEventListener("click", toggleLegend));
 
     $("#copy-link")?.addEventListener("click", shareMapView);
+
+    const mobMenu = $("#map-mob-menu");
+    const mobMoreBtn = $("#map-more-mob");
+
+    $("#map-more-mob")?.addEventListener("click", e => {
+      e.stopPropagation();
+      if (!isMobile()) return;
+      if (mobMenu?.hasAttribute("hidden")) {
+        syncBasemapUi(currentMode);
+        mobMenu.removeAttribute("hidden");
+        $("#map-mob-scrim")?.removeAttribute("hidden");
+        mobMoreBtn?.setAttribute("aria-expanded", "true");
+      } else {
+        closeMobMenu();
+      }
+    });
+    $("#map-mob-scrim")?.addEventListener("click", closeMobMenu);
+
+    $("#map-open-panel")?.addEventListener("click", () => {
+      closeMobMenu();
+      openMobilePanel("layers");
+    });
+
+    $$("#map-locate-mob, #map-share-mob, #map-legend-mob").forEach(btn => {
+      btn.addEventListener("click", closeMobMenu);
+    });
 
     const sidebar = $("#map-sidebar");
     $("#sidebar-header")?.addEventListener("click", e => {
