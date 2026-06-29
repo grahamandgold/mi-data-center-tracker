@@ -156,7 +156,7 @@
     </div>`;
     $("#region-panel").innerHTML = visualCard + (items.length
       ? items.map(item => `<a href="${safeUrl(item.source_url)}" target="_blank" rel="noopener">
-          <span class="region-topic">${escapeHtml(item.topic)}</span>
+          <span class="region-topic">${escapeHtml(item.region)}</span>
           <strong>${escapeHtml(item.headline)}</strong>
           <small>${escapeHtml(item.source_name)} · ${dateLabel(item.published_date)} ${external}</small>
         </a>`).join("")
