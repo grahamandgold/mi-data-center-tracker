@@ -759,7 +759,8 @@
     const SPONSOR_INQUIRE_SUBJECT = "Sponsorship Inquiry – Michigan Data Center Map";
 
     function sponsorInquireUrl() {
-      const custom = data.sponsors?.inquire_url;
+      const custom = String(data.sponsors?.inquire_url || "").trim();
+      if (custom.startsWith("mailto:")) return esc(custom);
       if (custom) return safeUrl(custom);
       return `mailto:info@michigandatacentertracker.com?subject=${encodeURIComponent(SPONSOR_INQUIRE_SUBJECT)}`;
     }
