@@ -6,6 +6,7 @@
   const GEO = { north: 45.48, south: 41.7, west: -87.02, east: -82.38 };
   const PAD = { left: 92, right: 88, top: 36, bottom: 44 };
   const MAP_BG = ["#dfe8f2", "#c8d6e6"];
+  const PREVIEW_ASPECT = 2.2;
   const LAYER_COLORS = {
     projects: "#cf102d",
     moratoria: "#d4a017",
@@ -67,17 +68,18 @@
       href: "map.html?lat=42.73&lng=-84.55&zoom=10&layers=policy,meetings,generation"
     },
     {
-      id: "grid",
-      label: "Grid corridor",
-      kicker: "Transmission + power plants",
-      layers: ["transmission", "generation"],
+      id: "energy",
+      label: "Energy & grid",
+      kicker: "Lines · plants · nearby sites",
+      layers: ["transmission", "generation", "projects"],
       swatchLayer: "transmission",
       lines: true,
       fit: p => p.layer === "transmission"
-        || (p.layer === "generation" && p.longitude > -86.5 && p.latitude > 42.45 && p.latitude < 43.25),
-      minView: { w: 400, h: 240 },
-      maxView: { w: 580, h: 380 },
-      href: "map.html?lat=42.72&lng=-84.4&zoom=9&layers=transmission,generation"
+        || (p.layer === "generation" && p.longitude > -86.5 && p.latitude > 42.45 && p.latitude < 43.25)
+        || (p.layer === "projects" && p.longitude > -84.8 && p.longitude < -83.4 && p.latitude > 42.45 && p.latitude < 43.05),
+      minView: { w: 380, h: 220 },
+      maxView: { w: 500, h: 300 },
+      href: "map.html?lat=42.68&lng=-84.2&zoom=9&layers=transmission,generation,projects"
     },
     {
       id: "baseload",
@@ -85,7 +87,7 @@
       kicker: "Nuclear · coal · gas plants",
       layers: ["generation"],
       fit: p => p.layer === "generation" && p.longitude < -83.6 && p.latitude < 43.3,
-      maxView: { w: 620, h: 400 },
+      maxView: { w: 560, h: 320 },
       href: "map.html?lat=42.2&lng=-85.2&zoom=8&layers=generation"
     },
     {
@@ -94,7 +96,7 @@
       kicker: "Projects · moratoria · hearings",
       layers: ["projects", "moratoria", "meetings"],
       fit: p => p.latitude < 44.5,
-      maxView: { w: 820, h: 580 },
+      maxView: { w: 760, h: 420 },
       href: "map.html?layers=projects,moratoria,meetings"
     }
   ];
@@ -154,6 +156,21 @@
     x = Math.max(0, Math.min(x, SVG_SIZE.w - w));
     y = Math.max(0, Math.min(y, SVG_SIZE.h - h));
     return { x, y, w, h };
+  }
+
+  function normalizeViewAspect(view, aspect = PREVIEW_ASPECT) {
+    let { x, y, w, h, count } = view;
+    const ratio = w / h;
+    if (ratio > aspect * 1.05) {
+      const newH = w / aspect;
+      y -= (newH - h) / 2;
+      h = newH;
+    } else if (ratio < aspect * 0.78) {
+      const newW = h * aspect;
+      x -= (newW - w) / 2;
+      w = newW;
+    }
+    return { ...clampViewBox(x, y, w, h), count };
   }
 
   function computeView(points, slide) {
@@ -233,6 +250,7 @@
     return SLIDE_DEFS.map(def => {
       let view = computeView(points, def);
       if (def.lines) view = expandViewForLines(view, data.transmission_lines, def);
+      view = normalizeViewAspect(view, def.aspect || PREVIEW_ASPECT);
       return { ...def, view };
     }).filter(slide => slide.view.count > 0 || slide.lines);
   }
@@ -260,16 +278,27 @@
 </g>`;
   }
 
+  function lineInView(coords, view) {
+    const pad = 24;
+    const left = view.x - pad;
+    const right = view.x + view.w + pad;
+    const top = view.y - pad;
+    const bottom = view.y + view.h + pad;
+    return coords.some(([x, y]) => x >= left && x <= right && y >= top && y <= bottom);
+  }
+
   function renderLines(lines, view) {
     if (!lines?.length) return "";
+    const scale = Math.max(1.1, Math.min(2.8, SVG_SIZE.w / Math.max(view.w, 220)));
+    const stroke = (3.8 * scale).toFixed(1);
+    const halo = (1.4 * scale).toFixed(1);
     return lines.map(line => {
-      const coords = (line.coordinates || [])
-        .map(([lat, lng]) => project(lat, lng))
-        .map(([x, y]) => `${x.toFixed(1)},${y.toFixed(1)}`)
-        .join(" ");
+      const projected = (line.coordinates || []).map(([lat, lng]) => project(lat, lng));
+      if (!lineInView(projected, view)) return "";
+      const coords = projected.map(([x, y]) => `${x.toFixed(1)},${y.toFixed(1)}`).join(" ");
       if (!coords) return "";
-      return `<polyline points="${coords}" fill="none" stroke="${LAYER_COLORS.transmission}" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" opacity=".9"/>
-<polyline points="${coords}" fill="none" stroke="#fff" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" opacity=".35"/>`;
+      return `<polyline points="${coords}" fill="none" stroke="${LAYER_COLORS.transmission}" stroke-width="${stroke}" stroke-linecap="round" stroke-linejoin="round" opacity=".95"/>
+<polyline points="${coords}" fill="none" stroke="#fff" stroke-width="${halo}" stroke-linecap="round" stroke-linejoin="round" opacity=".38"/>`;
     }).join("");
   }
 
@@ -288,7 +317,12 @@
         ? `<rect x="${view.x}" y="${view.y}" width="${view.w}" height="${view.h}" fill="rgba(207,16,45,.03)"/>`
         : "";
 
-    return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="${vb}" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+    const tightZoom = view.w < 820;
+    const countyLayer = tightZoom
+      ? ""
+      : `<g fill="#e8eef4" stroke="#8fa3b8" stroke-width="1.1" stroke-linejoin="round">${countyMarkup}</g>`;
+
+    return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="${vb}" preserveAspectRatio="xMidYMid meet" aria-hidden="true">
 <defs>
 <linearGradient id="bg-${id}" x1="0" y1="0" x2="0" y2="1">
 <stop offset="0%" stop-color="${MAP_BG[0]}"/>
@@ -296,9 +330,9 @@
 </linearGradient>
 </defs>
 <rect x="${view.x}" y="${view.y}" width="${view.w}" height="${view.h}" fill="url(#bg-${id})"/>
-<path d="M0,0 L220,0 L180,720 L0,720 Z" fill="#b8cfe0" opacity=".4"/>
-<path d="M1020,0 L1200,0 L1200,720 L980,720 Z" fill="#b8cfe0" opacity=".4"/>
-<g fill="#e8eef4" stroke="#8fa3b8" stroke-width="1.1" stroke-linejoin="round">${countyMarkup}</g>
+${tightZoom ? "" : `<path d="M0,0 L220,0 L180,720 L0,720 Z" fill="#b8cfe0" opacity=".4"/>
+<path d="M1020,0 L1200,0 L1200,720 L980,720 Z" fill="#b8cfe0" opacity=".4"/>`}
+${countyLayer}
 ${tint}
 <g>${lineMarkup}${pointMarkup}</g>
 </svg>`;
