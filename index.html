@@ -19,7 +19,7 @@
   <meta name="twitter:image" content="social-card.png">
   <link rel="icon" href="favicon.png" type="image/png">
   <link rel="apple-touch-icon" href="apple-touch-icon.png">
-  <link rel="stylesheet" href="styles.css?v=20260702w">
+  <link rel="stylesheet" href="styles.css?v=20260703a">
   <style>
     /* ── IMPROVEMENTS v20 ─────────────────────────────────────────────── */
 
@@ -1052,6 +1052,24 @@
   <!-- Sticky mobile CTA -->
   <a class="sticky-cta" href="#briefing">✉ Get the free weekly briefing</a>
 
+  <div class="flyin-briefing" id="flyin-briefing" role="dialog" aria-modal="true" aria-labelledby="flyin-briefing-title" aria-hidden="true" hidden>
+    <button class="flyin-briefing-shade" type="button" data-flyin-close aria-label="Close signup"></button>
+    <div class="flyin-briefing-panel">
+      <button class="flyin-briefing-close" type="button" data-flyin-close aria-label="Close signup">×</button>
+      <span class="eyebrow eyebrow-light">Free weekly briefing</span>
+      <h2 id="flyin-briefing-title">Stay ahead of Michigan's data center build-out.</h2>
+      <p class="flyin-briefing-lead">Filings, hearings, moratoria and policy moves — one concise email. Independent. No noise.</p>
+      <form class="signup-form flyin-briefing-form" id="flyin-briefing-form" method="post" target="_blank" novalidate>
+        <label class="sr-only" for="flyin-briefing-email">Email address</label>
+        <input id="flyin-briefing-email" name="EMAIL" type="email" autocomplete="email" inputmode="email" placeholder="you@example.com" required>
+        <button class="button button-red" type="submit">Join free</button>
+        <p class="form-note">No spam. Unsubscribe anytime. By subscribing, you agree to our <a href="privacy.html">privacy notice</a>.</p>
+        <p class="form-message" id="flyin-briefing-message" role="status" aria-live="polite"></p>
+      </form>
+      <button class="flyin-briefing-skip" type="button" data-flyin-close>No thanks</button>
+    </div>
+  </div>
+
   <div class="drawer-shade" data-drawer-close></div>
   <aside class="drawer" id="site-drawer" role="dialog" aria-modal="true" aria-label="Site menu" aria-hidden="true">
     <button class="drawer-close" type="button" data-drawer-close aria-label="Close menu">×</button>
@@ -1416,7 +1434,7 @@
   <script src="home-stats.js?v=20260702s"></script>
   <script src="home-map-preview.js?v=20260702v"></script>
   <script src="content-data.js?v=20260701x"></script>
-  <script src="app.js?v=20260702w"></script>
+  <script src="app.js?v=20260703a"></script>
   <script>
     (function () {
       const MAP_VERSION = "20260701w";

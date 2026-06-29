@@ -403,27 +403,124 @@
   const video = $(".masthead-video");
   if (video && window.matchMedia("(prefers-reduced-motion: reduce)").matches) video.pause();
 
-  const briefingForm = $("#briefing-form");
-  if (briefingForm) {
-    const action = data.newsletter?.form_action || "";
-    const message = $("#briefing-message");
-    if (action) briefingForm.action = action;
-    briefingForm.addEventListener("submit", event => {
-      const email = $("#briefing-email");
-      if (!email.checkValidity()) {
+  const mailchimpAction = data.newsletter?.form_action || "";
+  const bindNewsletterForm = (form, emailId, messageId, onSuccess) => {
+    if (!form) return;
+    const message = messageId ? $(messageId) : null;
+    if (mailchimpAction) form.action = mailchimpAction;
+    form.addEventListener("submit", event => {
+      const email = $(emailId);
+      if (!email?.checkValidity()) {
         event.preventDefault();
-        message.textContent = "Please enter a valid email address.";
-        email.focus();
+        if (message) message.textContent = "Please enter a valid email address.";
+        email?.focus();
         return;
       }
-      if (!action) {
+      if (!mailchimpAction) {
         event.preventDefault();
-        message.textContent = "Mailchimp connection is being finalized. Your address was not submitted yet.";
+        if (message) message.textContent = "Mailchimp connection is being finalized. Your address was not submitted yet.";
         return;
       }
-      message.textContent = "Opening the secure signup confirmation…";
+      if (message) message.textContent = "Opening the secure signup confirmation…";
+      onSuccess?.();
     });
-  }
+  };
+
+  bindNewsletterForm($("#briefing-form"), "#briefing-email", "#briefing-message");
+  bindNewsletterForm(
+    $("#flyin-briefing-form"),
+    "#flyin-briefing-email",
+    "#flyin-briefing-message",
+    () => {
+      try {
+        localStorage.setItem("mi-dc-flyin-submitted", String(Date.now()));
+      } catch {}
+    }
+  );
+
+  const initFlyinBriefing = () => {
+    const root = $("#flyin-briefing");
+    if (!root) return;
+
+    const DISMISS_KEY = "mi-dc-flyin-dismissed";
+    const SUBMIT_KEY = "mi-dc-flyin-submitted";
+    const DISMISS_DAYS = 7;
+    const DELAY_MS = 10000;
+    let timer = null;
+    let lastFocused = null;
+
+    const isSuppressed = () => {
+      try {
+        const submitted = Number(localStorage.getItem(SUBMIT_KEY) || 0);
+        if (submitted > 0) return true;
+        const dismissed = Number(localStorage.getItem(DISMISS_KEY) || 0);
+        if (!dismissed) return false;
+        return Date.now() - dismissed < DISMISS_DAYS * 86400000;
+      } catch {
+        return false;
+      }
+    };
+
+    const dismiss = () => {
+      try {
+        localStorage.setItem(DISMISS_KEY, String(Date.now()));
+      } catch {}
+      close();
+    };
+
+    const open = () => {
+      if (root.classList.contains("is-open") || isSuppressed()) return;
+      if (document.body.classList.contains("drawer-open")) return;
+      lastFocused = document.activeElement;
+      root.hidden = false;
+      root.setAttribute("aria-hidden", "false");
+      requestAnimationFrame(() => root.classList.add("is-open"));
+      document.body.classList.add("flyin-open");
+      const email = $("#flyin-briefing-email");
+      window.setTimeout(() => email?.focus(), 320);
+    };
+
+    const close = () => {
+      root.classList.remove("is-open");
+      root.setAttribute("aria-hidden", "true");
+      document.body.classList.remove("flyin-open");
+      window.setTimeout(() => {
+        if (!root.classList.contains("is-open")) root.hidden = true;
+      }, 280);
+      if (lastFocused instanceof HTMLElement) lastFocused.focus();
+    };
+
+    const schedule = () => {
+      if (isSuppressed()) return;
+      timer = window.setTimeout(() => {
+        if (!document.hidden) open();
+      }, DELAY_MS);
+    };
+
+    $$("[data-flyin-close]", root).forEach(el => {
+      el.addEventListener("click", event => {
+        event.preventDefault();
+        dismiss();
+      });
+    });
+
+    document.addEventListener("keydown", event => {
+      if (event.key === "Escape" && root.classList.contains("is-open")) dismiss();
+    });
+
+    document.addEventListener("visibilitychange", () => {
+      if (document.hidden && timer) {
+        window.clearTimeout(timer);
+        timer = null;
+      } else if (!timer && !root.classList.contains("is-open") && !isSuppressed()) {
+        schedule();
+      }
+    });
+
+    schedule();
+  };
+
+  initFlyinBriefing();
 
   labelExternalLinks();
 })();

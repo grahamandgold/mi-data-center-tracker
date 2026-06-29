@@ -24,7 +24,8 @@ body {
   line-height: 1.5;
   padding-bottom: 44px;
 }
-body.drawer-open { overflow: hidden; }
+body.drawer-open,
+body.flyin-open { overflow: hidden; }
 a { color: inherit; text-decoration: none; }
 button, input { font: inherit; }
 button { cursor: pointer; }
@@ -1137,6 +1138,113 @@ main, .site-footer { max-width: var(--max); margin: 0 auto; background: var(--pa
 .empty-state { grid-column: 1 / -1; display: flex; gap: 15px; padding: 28px; border: 1px solid var(--line); background: #fff; }
 .empty-state p { margin: 4px 0 0; color: var(--muted); }
 .empty-mark { width: 10px; height: 10px; margin-top: 7px; border-radius: 50%; background: var(--red); }
+.flyin-briefing {
+  position: fixed;
+  inset: 0;
+  z-index: 300;
+  display: grid;
+  place-items: center;
+  padding: 20px;
+  padding-top: calc(20px + env(safe-area-inset-top, 0px));
+  padding-bottom: calc(20px + env(safe-area-inset-bottom, 0px));
+  pointer-events: none;
+  visibility: hidden;
+}
+.flyin-briefing.is-open {
+  pointer-events: auto;
+  visibility: visible;
+}
+.flyin-briefing-shade {
+  position: absolute;
+  inset: 0;
+  border: 0;
+  background: rgba(6, 7, 10, .78);
+  opacity: 0;
+  transition: opacity .28s ease;
+  cursor: pointer;
+}
+.flyin-briefing.is-open .flyin-briefing-shade { opacity: 1; }
+.flyin-briefing-panel {
+  position: relative;
+  z-index: 1;
+  width: min(560px, 100%);
+  max-height: calc(100vh - 40px);
+  overflow: auto;
+  padding: 34px 30px 28px;
+  color: #fff;
+  background: #0b0b0d;
+  border: 1px solid #2a2c33;
+  border-top: 4px solid var(--red);
+  box-shadow: 0 28px 80px rgba(0, 0, 0, .55);
+  opacity: 0;
+  transform: translateY(28px) scale(.97);
+  transition: transform .34s cubic-bezier(.22, 1, .36, 1), opacity .28s ease;
+}
+.flyin-briefing.is-open .flyin-briefing-panel {
+  opacity: 1;
+  transform: translateY(0) scale(1);
+}
+.flyin-briefing-panel::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(ellipse at 82% 18%, rgba(207, 16, 45, .2), transparent 58%);
+  pointer-events: none;
+}
+.flyin-briefing-panel > * { position: relative; z-index: 1; }
+.flyin-briefing-close {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  z-index: 2;
+  width: 44px;
+  height: 44px;
+  border: 0;
+  color: #fff;
+  background: transparent;
+  font-size: 2rem;
+  line-height: 1;
+  cursor: pointer;
+}
+.flyin-briefing-panel .eyebrow { color: var(--red); }
+.flyin-briefing-panel h2 {
+  margin: 10px 0 0;
+  font-size: clamp(1.45rem, 4.8vw, 2.15rem);
+  line-height: 1.02;
+  color: #fff;
+}
+.flyin-briefing-lead {
+  margin: 12px 0 0;
+  max-width: 46ch;
+  color: #b5b8c0;
+  font-size: .92rem;
+  line-height: 1.45;
+}
+.flyin-briefing-form {
+  margin-top: 22px;
+  max-width: none;
+}
+.flyin-briefing-skip {
+  display: block;
+  margin: 14px auto 0;
+  padding: 8px 10px;
+  border: 0;
+  background: transparent;
+  color: #7f8796;
+  font-size: .68rem;
+  font-weight: 800;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+.flyin-briefing-skip:hover,
+.flyin-briefing-skip:focus-visible { color: #c9cdd6; }
+@media (prefers-reduced-motion: reduce) {
+  .flyin-briefing-shade,
+  .flyin-briefing-panel { transition: none; }
+  .flyin-briefing-panel { transform: none; }
+}
+
 .drawer-shade {
   position: fixed;
   inset: 0;
