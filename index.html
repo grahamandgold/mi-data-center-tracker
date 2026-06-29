@@ -19,7 +19,7 @@
   <meta name="twitter:image" content="social-card.png">
   <link rel="icon" href="favicon.png" type="image/png">
   <link rel="apple-touch-icon" href="apple-touch-icon.png">
-  <link rel="stylesheet" href="styles.css?v=20260702p">
+  <link rel="stylesheet" href="styles.css?v=20260702q">
   <style>
     /* ── IMPROVEMENTS v20 ─────────────────────────────────────────────── */
 
@@ -457,8 +457,7 @@
       .home-map-shell {
         box-shadow: 0 4px 14px rgba(23,27,35,.05);
       }
-      .home-map-live,
-      .home-map-preview-meta { display: none; }
+      .home-map-live { display: none; }
       .home-map-preview {
         aspect-ratio: 2.2 / 1;
         max-height: 210px;
@@ -882,16 +881,7 @@
       min-height: 0;
       letter-spacing: .1em;
     }
-    .home-map-preview-meta {
-      max-width: 24ch;
-      font-size: .54rem;
-      font-weight: 800;
-      letter-spacing: .09em;
-      text-transform: uppercase;
-      color: rgba(255,255,255,.92);
-      text-shadow: 0 1px 12px rgba(0,0,0,.55);
-      line-height: 1.35;
-    }
+
     @media (max-width: 900px) {
       .masthead-inner { display: none !important; }
       .home-intro-inner {
@@ -908,8 +898,7 @@
       .home-intro-lead { display: none; }
       .home-intro-verify { margin-top: 8px; font-size: .56rem; }
       .home-intro-map { max-width: none; }
-      .home-map-live,
-      .home-map-preview-meta { display: none; }
+      .home-map-live { display: none; }
       .home-map-preview {
         aspect-ratio: 2.2 / 1;
         max-height: 210px;
@@ -1116,7 +1105,6 @@
             <span class="home-map-preview-overlay" aria-hidden="true"></span>
             <span class="home-map-preview-action">
               <span class="button button-red">Explore live map <span aria-hidden="true">→</span></span>
-              <span class="home-map-preview-meta" id="home-map-preview-meta">Tap to open</span>
             </span>
           </a>
         </div>
@@ -1400,7 +1388,6 @@
           setText("stat-on-map", counts.total);
           setText("stat-sites", counts.projects);
           setText("stat-moratoria", counts.moratoria);
-          setText("home-map-preview-meta", "Tap to open");
           HomeMapPreview.init({ mapData, mapVersion: MAP_VERSION });
         } else {
           HomeMapPreview.init({ mapVersion: MAP_VERSION });
