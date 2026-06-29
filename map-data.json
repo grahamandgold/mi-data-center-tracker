@@ -1531,7 +1531,7 @@
       "description": "County boundaries for orientation",
       "color": "#64748b",
       "url": "geo/mi-counties.geojson",
-      "default_on": true
+      "default_on": false
     },
     {
       "id": "congressional",

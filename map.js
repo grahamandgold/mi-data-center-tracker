@@ -14,7 +14,7 @@
 
   async function loadMapData() {
     try {
-      const res = await fetch("map-data.json?v=20260703h", { cache: "no-store" });
+      const res = await fetch("map-data.json?v=20260704r", { cache: "no-store" });
       if (!res.ok) throw new Error(`map-data.json HTTP ${res.status}`);
       const json = await res.json();
       if (!json.map_points?.length) throw new Error("map-data.json has no map_points");
@@ -186,7 +186,7 @@
     };
 
     const params = new URLSearchParams(location.search);
-    const initMode = params.get("mode") || "day";
+    const initMode = params.get("mode") || "dark";
     const initRegion = params.get("region") || "all";
     const initFilters = params.get("f") ? new Set(params.get("f").split(",")) : null;
     const initLayersRaw = params.get("layers");
@@ -277,7 +277,7 @@
       }
     }
 
-    let currentMode = ["dark", "day", "sat"].includes(initMode) ? initMode : "day";
+    let currentMode = ["dark", "day", "sat"].includes(initMode) ? initMode : "dark";
     const setTileMode = mode => {
       allBasemapLayers.forEach(t => { try { map.removeLayer(t); } catch (_) {} });
       (basemapSets[mode] || basemapSets.day).forEach(t => t.addTo(map));
@@ -297,11 +297,28 @@
       analytics.track("basemap_change", { mode: b.dataset.mode });
     }));
 
-    const boundaryLayer = L.geoJSON(null, { style: { color: "#cf102d", weight: 2, opacity: 0.55, fillColor: "#cf102d", fillOpacity: 0.04 }, interactive: false }).addTo(map);
+    function miBoundaryStyle() {
+      const z = map.getZoom();
+      const stroke = z <= 7 ? 0.34 : z <= 9 ? 0.24 : 0.14;
+      return {
+        color: `rgba(255, 120, 135, ${stroke})`,
+        weight: z <= 7 ? 1.15 : 0.9,
+        opacity: 0.9,
+        fillColor: "#cf102d",
+        fillOpacity: z <= 7 ? 0.018 : 0,
+        lineJoin: "round",
+        lineCap: "round"
+      };
+    }
+    const boundaryLayer = L.geoJSON(null, { style: miBoundaryStyle, interactive: false }).addTo(map);
     fetch("https://raw.githubusercontent.com/PublicaMundi/MappingAPI/master/data/geojson/us-states.json")
       .then(r => r.json())
-      .then(geo => { const mi = geo.features.find(f => f.properties?.name === "Michigan"); if (mi) boundaryLayer.addData(mi); })
+      .then(geo => {
+        const mi = geo.features.find(f => f.properties?.name === "Michigan");
+        if (mi) boundaryLayer.addData(mi);
+      })
       .catch(() => {});
+    map.on("zoomend", () => boundaryLayer.setStyle(miBoundaryStyle));
 
     const boundaryGroups = {}, boundaryLabelGroups = {}, boundaryCache = {}, boundaryLoading = {};
     const overlayGroups = {}, overlayCache = {}, overlayLoading = {};
@@ -340,11 +357,11 @@
     function boundaryStyle(meta) {
       return () => ({
         color: meta.color,
-        weight: meta.id === "townships" ? 0.9 : meta.id === "counties" ? 1.6 : 2.2,
-        opacity: meta.id === "townships" ? 0.42 : meta.id === "counties" ? 0.72 : 0.78,
+        weight: meta.id === "townships" ? 0.8 : meta.id === "counties" ? 0.9 : 2.2,
+        opacity: meta.id === "townships" ? 0.34 : meta.id === "counties" ? 0.38 : 0.78,
         fillColor: meta.color,
         fillOpacity: meta.id === "congressional" ? 0.07 : 0,
-        dashArray: meta.id === "townships" ? "3 4" : null
+        dashArray: meta.id === "townships" ? "3 4" : meta.id === "counties" ? "4 6" : null
       });
     }
 
@@ -795,7 +812,7 @@
         ? { paddingTopLeft: [48, 14], paddingBottomRight: [128, 14], maxZoom: 8.5 }
         : embed
           ? { padding: [28, 36], maxZoom: 9 }
-          : { paddingTopLeft: [100, 300], paddingBottomRight: [56, 48], maxZoom: 8.5 };
+          : { paddingTopLeft: [108, 312], paddingBottomRight: [64, 52], maxZoom: 8 };
       if (duration != null) map.flyToBounds(LOWER_PENINSULA_BOUNDS, { ...opts, duration });
       else map.fitBounds(LOWER_PENINSULA_BOUNDS, opts);
     }
@@ -1459,7 +1476,7 @@
       }, { enableHighAccuracy: false, timeout: 12000 });
     }
 
-    $$("#map-locate, #map-locate-mob").forEach(btn => btn.addEventListener("click", () => { analytics.track("locate_near_me"); locateNearMe(); }));
+    $$("#map-locate, #map-locate-mob, #map-locate-chrome").forEach(btn => btn.addEventListener("click", () => { analytics.track("locate_near_me"); locateNearMe(); }));
 
     async function shareMapView() {
       const url = location.href;
@@ -1479,7 +1496,7 @@
       }
     }
 
-    $$("#map-share, #map-share-mob").forEach(btn => btn.addEventListener("click", () => { analytics.track("share"); shareMapView(); }));
+    $$("#map-share, #map-share-mob, #map-share-chrome").forEach(btn => btn.addEventListener("click", () => { analytics.track("share"); shareMapView(); }));
 
     const legendEl = $("#map-legend");
     function toggleLegend() {
@@ -1487,9 +1504,9 @@
       const expanded = hidden ? "true" : "false";
       if (hidden) legendEl?.removeAttribute("hidden");
       else legendEl?.setAttribute("hidden", "");
-      $$("#map-legend-toggle, #map-legend-mob").forEach(btn => btn?.setAttribute("aria-expanded", expanded));
+      $$("#map-legend-toggle, #map-legend-mob, #map-legend-chrome").forEach(btn => btn?.setAttribute("aria-expanded", expanded));
     }
-    $$("#map-legend-toggle, #map-legend-mob").forEach(btn => btn.addEventListener("click", toggleLegend));
+    $$("#map-legend-toggle, #map-legend-mob, #map-legend-chrome").forEach(btn => btn.addEventListener("click", toggleLegend));
 
     $("#copy-link")?.addEventListener("click", shareMapView);
 
