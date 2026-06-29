@@ -198,7 +198,7 @@ main, .site-footer { max-width: var(--max); margin: 0 auto; background: var(--pa
 .section-heading h2, .meeting-banner h2, .map-promo h2, .learn-heading h2, .commercial-strip h2 {
   margin: 4px 0 0;
   font-family: var(--display);
-  font-size: clamp(2.5rem, 5vw, 4.8rem);
+  font-size: clamp(1.8rem, 3vw, 2.8rem);
   line-height: .94;
   letter-spacing: .015em;
   text-transform: uppercase;
@@ -212,7 +212,7 @@ main, .site-footer { max-width: var(--max); margin: 0 auto; background: var(--pa
 .story-card-lead a { min-height: 510px; justify-content: end; background: linear-gradient(145deg, rgba(255,255,255,.7), rgba(218,222,229,.84)), url("michigan night view.jpg") center/cover; }
 .story-meta { display: flex; justify-content: space-between; gap: 10px; color: var(--red); font-size: .68rem; font-weight: 900; letter-spacing: .1em; text-transform: uppercase; }
 .story-card h3 { margin: 16px 0 12px; font-size: clamp(1.25rem, 2.2vw, 2rem); line-height: 1.08; }
-.story-card-lead h3 { font-family: var(--display); font-size: clamp(2.8rem, 5vw, 4.8rem); text-transform: uppercase; }
+.story-card-lead h3 { font-family: var(--display); font-size: clamp(1.8rem, 3vw, 2.6rem); text-transform: uppercase; }
 .story-card p { color: #555965; font-size: .94rem; }
 .story-card footer { display: flex; justify-content: space-between; margin-top: auto; padding-top: 24px; color: #676a73; font-size: .68rem; font-weight: 800; text-transform: uppercase; }
 .section-meetings { padding: 0; }
@@ -378,7 +378,7 @@ main, .site-footer { max-width: var(--max); margin: 0 auto; background: var(--pa
   opacity: .92;
 }
 .briefing-card { color: #fff; background: var(--red); }
-.commercial-strip h2 { font-size: clamp(2.4rem, 4vw, 4rem); }
+.commercial-strip h2 { font-size: clamp(1.6rem, 2.8vw, 2.6rem); }
 .commercial-strip p { max-width: 520px; }
 .signup-form { display: grid; grid-template-columns: 1fr auto; gap: 10px; margin-top: 24px; }
 .signup-form input { min-width: 0; min-height: 50px; border: 0; padding: 0 16px; }
@@ -449,12 +449,12 @@ main, .site-footer { max-width: var(--max); margin: 0 auto; background: var(--pa
   .status-card strong { font-size: 1.8rem; }
   .section { padding: 40px 18px; }
   .section-heading { align-items: start; }
-  .section-heading h2, .meeting-banner h2, .map-promo h2, .learn-heading h2, .commercial-strip h2 { font-size: clamp(2.2rem, 10vw, 3.05rem); line-height: .96; }
+  .section-heading h2, .meeting-banner h2, .map-promo h2, .learn-heading h2, .commercial-strip h2 { font-size: clamp(1.6rem, 7vw, 2.2rem); line-height: 1; }
   .text-link { display: none; }
   .lead-grid, .public-grid, .region-panel, .learn-grid { grid-template-columns: 1fr; }
   .story-card-lead { grid-column: auto; }
   .story-card-lead a { min-height: 365px; }
-  .story-card-lead h3 { font-size: 2.25rem; }
+  .story-card-lead h3 { font-size: 1.6rem; }
   .story-card a { min-height: 0; padding: 22px; }
   .story-card:not(.story-card-lead) a { min-height: 255px; }
   .meeting-banner { min-height: 220px; display: block; padding: 34px 18px; }
