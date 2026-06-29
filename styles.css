@@ -128,7 +128,6 @@ a:focus-visible, button:focus-visible, input:focus-visible, [tabindex]:focus-vis
   top: auto;
   width: 44px;
   height: 44px;
-  display: grid;
   align-content: center;
   gap: 6px;
   border: 0;
