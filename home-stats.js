@@ -19,6 +19,10 @@
 
     const byLayer = layer => points.filter(p => p.layer === layer).length;
     const focusedByLayer = layer => focused.filter(p => p.layer === layer).length;
+    const projects = points.filter(p => p.layer === "projects");
+    const countyCount = layer => new Set(
+      points.filter(p => p.layer === layer && p.county).map(p => p.county)
+    ).size;
 
     return {
       total: focused.length,
@@ -30,8 +34,124 @@
       meetings: byLayer("meetings"),
       transmission: byLayer("transmission"),
       policy: byLayer("policy"),
-      generation: byLayer("generation")
+      generation: byLayer("generation"),
+      proposed: projects.filter(p => p.status === "Proposed").length,
+      under_construction: projects.filter(p => p.status === "Under construction").length,
+      approved: projects.filter(p => /approved/i.test(p.status || "")).length,
+      project_counties: countyCount("projects"),
+      moratoria_counties: countyCount("moratoria"),
+      transmission_lines: (data.transmission_lines || []).length
     };
+  }
+
+  function buildUtilityRotations(counts) {
+    const dedupe = items => {
+      const seen = new Set();
+      return items.filter(item => {
+        if (!item || item.value <= 0) return false;
+        const key = `${item.value}|${item.label}`;
+        if (seen.has(key)) return false;
+        seen.add(key);
+        return true;
+      });
+    };
+
+    return [
+      dedupe([
+        { value: counts.total, label: "On map now" },
+        { value: counts.all_records, label: "Sourced records" },
+        { value: counts.generation, label: "Generation nodes" },
+        { value: counts.meetings, label: "Public hearings" },
+        { value: counts.transmission, label: "Grid proposals" },
+        { value: counts.policy, label: "Policy signals" }
+      ]),
+      dedupe([
+        { value: counts.projects, label: "Data center sites" },
+        { value: counts.proposed, label: "Proposed" },
+        { value: counts.under_construction, label: "Under construction" },
+        { value: counts.approved, label: "Approved" },
+        { value: counts.project_counties, label: "Counties tracked" }
+      ]),
+      dedupe([
+        { value: counts.moratoria, label: "Moratoria" },
+        { value: counts.moratoria_counties, label: "Communities paused" },
+        { value: counts.transmission_lines, label: "Grid corridors" },
+        { value: counts.policy, label: "Capitol watch" }
+      ])
+    ].filter(column => column.length > 0);
+  }
+
+  function startUtilityStatRotator(columns, options = {}) {
+    const interval = options.interval || 3400;
+    const stagger = options.stagger || 420;
+    const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
+    const timers = [];
+
+    const apply = (column, item) => {
+      if (!column || !item) return;
+      const num = column.querySelector(".utility-stat-num");
+      const label = column.querySelector(".utility-stat-label");
+      if (!num || !label) return;
+      column.classList.add("utility-stat--flip");
+      window.setTimeout(() => {
+        num.textContent = String(item.value);
+        label.textContent = item.label;
+        column.classList.remove("utility-stat--flip");
+      }, 180);
+    };
+
+    const stop = () => {
+      timers.forEach(id => {
+        window.clearInterval(id);
+        window.clearTimeout(id);
+      });
+      timers.length = 0;
+    };
+
+    columns.forEach((column, columnIndex) => {
+      const rotation = column.rotation || [];
+      if (rotation.length < 2) {
+        if (rotation[0]) apply(column.el, rotation[0]);
+        return;
+      }
+
+      let index = 0;
+      apply(column.el, rotation[0]);
+
+      if (reducedMotion.matches) return;
+
+      const tick = () => {
+        index = (index + 1) % rotation.length;
+        apply(column.el, rotation[index]);
+      };
+      const startDelay = columnIndex * stagger;
+      const starter = window.setTimeout(() => {
+        timers.push(window.setInterval(tick, interval));
+      }, startDelay);
+      timers.push(starter);
+    });
+
+    reducedMotion.addEventListener("change", () => {
+      stop();
+      if (!reducedMotion.matches) startUtilityStatRotator(columns, options);
+    });
+
+    return { stop };
+  }
+
+  function mountUtilityStats(counts, root = document) {
+    const rotations = buildUtilityRotations(counts);
+    const slots = [
+      root.getElementById("utility-stat-0"),
+      root.getElementById("utility-stat-1"),
+      root.getElementById("utility-stat-2")
+    ];
+
+    const columns = slots
+      .map((el, i) => (el && rotations[i] ? { el, rotation: rotations[i] } : null))
+      .filter(Boolean);
+
+    return startUtilityStatRotator(columns);
   }
 
   function formatUpdated(iso) {
@@ -100,6 +220,9 @@
     DEFAULT_FOCUS,
     getDefaultLayers,
     computeStats,
+    buildUtilityRotations,
+    mountUtilityStats,
+    startUtilityStatRotator,
     formatUpdated,
     formatEditionDate,
     applyEditionDate,
