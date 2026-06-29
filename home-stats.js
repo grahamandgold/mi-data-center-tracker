@@ -67,6 +67,21 @@
     return /^[\d,]+$/.test(String(value).replace(/\+/g, ""));
   }
 
+  const MOBILE_MQ = "(max-width: 620px)";
+
+  function isMobileViewport(root = document) {
+    return root.defaultView?.matchMedia(MOBILE_MQ).matches ?? false;
+  }
+
+  /** Three fixed numbers on small screens — no rotation, short labels. */
+  function buildMobileUtilityStats(counts) {
+    return [
+      [{ value: counts.all_records, label: "Records" }],
+      [{ value: counts.projects, label: "Sites" }],
+      [{ value: counts.moratoria, label: "Pauses" }]
+    ];
+  }
+
   function buildUtilityRotations(counts, industryStats = []) {
     const industryByColumn = [[], [], []];
     industryStats.forEach(stat => {
@@ -237,7 +252,7 @@
     const strip = root.getElementById("context-strip");
     const factEl = root.getElementById("context-strip-fact");
     if (!strip || !factEl) return null;
-    if (!facts.length) {
+    if (!facts.length || (options.mobile !== false && isMobileViewport(root))) {
       strip.hidden = true;
       return null;
     }
@@ -297,7 +312,9 @@
 
   function mountUtilityStats(counts, options = {}, root = document) {
     const industryStats = options.industryStats || [];
-    const rotations = buildUtilityRotations(counts, industryStats);
+    const rotations = isMobileViewport(root)
+      ? buildMobileUtilityStats(counts)
+      : buildUtilityRotations(counts, industryStats);
     const slots = [
       root.getElementById("utility-stat-0"),
       root.getElementById("utility-stat-1"),
@@ -378,6 +395,8 @@
     getDefaultLayers,
     computeStats,
     buildUtilityRotations,
+    buildMobileUtilityStats,
+    isMobileViewport,
     mountContextFacts,
     mountUtilityStats,
     startUtilityStatRotator,

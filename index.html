@@ -657,6 +657,7 @@
     /* Mobile nav alerts + intro signup (desktop hidden) */
     .nav-alerts-mobile,
     .home-intro-alerts { display: none; }
+    .home-map-heading-short { display: none; }
 
     /* ── DESKTOP: restore full hero height, shift video right to show lighthouse ── */
     @media (min-width: 621px) {
@@ -786,24 +787,10 @@
       }
       .utility-edition-date { font-size: .52rem; letter-spacing: .08em; }
       .utility-stat-num--compact { font-size: .82rem; }
-      /* Fold context into utility strip — one dark band, not two */
-      .context-strip {
-        background: #111214;
-        border-bottom: 1px solid #1e2128;
-      }
-      .context-strip-inner {
-        grid-template-columns: 1fr;
-        gap: 0;
-        padding: 0 16px 9px;
-        margin-top: -2px;
-      }
-      .context-strip-label { display: none; }
-      .context-strip-fact {
-        font-size: .58rem;
-        line-height: 1.38;
-        color: #8b909c;
-      }
-      .context-strip-fact cite { display: inline; margin: 0 0 0 .3em; }
+      /* Context facts — desktop only; too wordy above the map on phones */
+      .context-strip { display: none !important; }
+
+      .utility-edition { display: none; }
 
       /* Homepage sponsor strip — too noisy above the map on small screens */
       .sponsor-avail--strip { display: none; }
@@ -824,37 +811,21 @@
       .home-intro-inner {
         display: flex;
         flex-direction: column;
-        gap: 12px;
-        padding: 16px 16px 8px;
+        gap: 8px;
+        padding: 12px 16px 6px;
       }
+      .home-intro-copy .eyebrow-live { display: none; }
       .home-intro-copy h2 {
-        margin: 2px 0 0;
-        font-size: clamp(1.1rem, 5.8vw, 1.4rem) !important;
-        line-height: 1.04 !important;
+        margin: 0;
+        font-size: clamp(1rem, 5.2vw, 1.25rem) !important;
+        line-height: 1.05 !important;
         color: #fff !important;
       }
-      .home-intro-lead { display: none; }
-      .home-intro-verify {
-        margin-top: 6px;
-        font-size: .56rem;
-        line-height: 1.45;
-        color: rgba(255, 255, 255, .62) !important;
-      }
-      .home-intro-alerts {
-        display: inline-flex;
-        align-items: center;
-        gap: 6px;
-        margin-top: 10px;
-        padding: 8px 14px;
-        background: #cf102d;
-        color: #fff;
-        font-size: .58rem;
-        font-weight: 900;
-        letter-spacing: .1em;
-        text-transform: uppercase;
-        text-decoration: none;
-      }
-      .home-intro-alerts:hover { background: #a80d24; }
+      .home-map-heading-long { display: none; }
+      .home-map-heading-short { display: inline; }
+      .home-intro-lead,
+      .home-intro-verify,
+      .home-intro-alerts { display: none !important; }
       .home-intro-map { max-width: none; }
       .home-map-shell {
         border-color: rgba(255,255,255,.1);
@@ -867,7 +838,7 @@
       }
       .home-map-preview-chip { padding: 8px 10px 10px; }
       .home-map-preview-chip-text strong { font-size: .5rem; }
-      .home-map-preview-chip-text span { font-size: .38rem; }
+      .home-map-preview-chip-text span { display: none; }
       .home-map-preview-dock {
         gap: 8px;
         padding: 7px 8px 8px;
@@ -1651,7 +1622,7 @@
     <div class="home-intro-inner">
       <div class="home-intro-copy">
         <span class="eyebrow eyebrow-live"><span class="live-pip" aria-hidden="true"></span>Live intelligence map</span>
-        <h2 id="home-map-heading">Michigan's build-out, mapped in real time.</h2>
+        <h2 id="home-map-heading"><span class="home-map-heading-long">Michigan's build-out, mapped in real time.</span><span class="home-map-heading-short">Michigan, mapped live.</span></h2>
         <p class="home-intro-lead">Public-source sites and moratoria across the lower peninsula — updated as filings and meeting records publish.</p>
         <p class="home-intro-verify">Independent · Aggregated · Nonpartisan · <a href="methodology.html">Methodology →</a></p>
         <a class="home-intro-alerts" href="#briefing">Stay alerted — sign up free</a>
@@ -1963,7 +1934,7 @@
     </div>
   </footer>
 
-  <script src="home-stats.js?v=20260703h"></script>
+  <script src="home-stats.js?v=20260703l"></script>
   <script src="home-map-preview.js?v=20260703i"></script>
   <script src="content-data.js?v=20260701x"></script>
   <script src="app.js?v=20260703k"></script>
