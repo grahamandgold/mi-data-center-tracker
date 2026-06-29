@@ -474,6 +474,43 @@ main, .site-footer { max-width: var(--max); margin: 0 auto; background: var(--pa
 .region-tabs button[aria-selected="true"] { color: #0b0b0d; background: transparent; border-color: var(--red); }
 .region-panel { display: grid; grid-template-columns: repeat(3, 1fr); border-left: 1px solid var(--line); margin-bottom: 0; }
 .region-panel > a { min-height: 155px; padding: 22px; border-right: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+.region-visual-video {
+  position: relative;
+  min-height: 240px;
+  grid-row: span 2;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  padding: 24px;
+  color: #fff;
+  border-right: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  background: #0b0b0d;
+}
+.region-visual-video video {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 0;
+}
+.region-visual-video::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(0deg, rgba(7,8,10,.76), rgba(7,8,10,.02) 72%);
+  z-index: 1;
+}
+.region-visual-video strong {
+  position: relative;
+  z-index: 2;
+  font-family: var(--display);
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: .08em;
+}
 .region-visual {
   position: relative;
   min-height: 240px;
