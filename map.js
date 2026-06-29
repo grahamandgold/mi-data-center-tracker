@@ -10,7 +10,7 @@
 
   async function loadMapData() {
     try {
-      const res = await fetch("map-data.json?v=20260629h", { cache: "no-store" });
+      const res = await fetch("map-data.json?v=20260629i", { cache: "no-store" });
       if (!res.ok) throw new Error(`map-data.json HTTP ${res.status}`);
       const json = await res.json();
       if (!json.map_points?.length) throw new Error("map-data.json has no map_points");
@@ -40,6 +40,7 @@
     const points = (data.map_points || []).filter(p => Number.isFinite(p.latitude) && Number.isFinite(p.longitude));
     const layersMeta = data.map_layers || [];
     const boundaryLayersMeta = data.boundary_layers || [];
+    const overlayLayersMeta = data.overlay_layers || [];
     const stories = data.map_stories || [];
     const transmissionLines = data.transmission_lines || [];
     const $ = (sel, root = document) => root.querySelector(sel);
@@ -108,6 +109,8 @@
     const initStory = params.get("story") || "";
     const initBoundariesRaw = params.get("boundaries");
     const initBoundaries = initBoundariesRaw ? new Set(initBoundariesRaw.split(",").map(s => s.trim()).filter(Boolean)) : null;
+    const initOverlaysRaw = params.get("overlays");
+    const initOverlays = initOverlaysRaw ? new Set(initOverlaysRaw.split(",").map(s => s.trim()).filter(Boolean)) : null;
 
     const defaultLayers = new Set(layersMeta.filter(l => l.default_on !== false).map(l => l.id));
     if (!defaultLayers.size) ["projects","moratoria","meetings","transmission","policy","generation"].forEach(id => defaultLayers.add(id));
@@ -115,6 +118,8 @@
 
     const defaultBoundaries = new Set(boundaryLayersMeta.filter(b => b.default_on).map(b => b.id));
     let activeBoundaries = initBoundaries?.size ? initBoundaries : new Set(defaultBoundaries);
+    const defaultOverlays = new Set(overlayLayersMeta.filter(o => o.default_on).map(o => o.id));
+    let activeOverlays = initOverlays?.size ? initOverlays : new Set(defaultOverlays);
 
     const darkTile = L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png", { maxZoom: 19, attribution: '&copy; OSM &copy; CARTO' });
     const dayTile = L.tileLayer("https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png", { maxZoom: 19, attribution: '&copy; OSM &copy; CARTO' });
@@ -142,7 +147,8 @@
       .catch(() => {});
 
     const boundaryGroups = {}, boundaryLabelGroups = {}, boundaryCache = {}, boundaryLoading = {};
-    const BOUNDARY_VERSION = "20260629h";
+    const overlayGroups = {}, overlayCache = {}, overlayLoading = {};
+    const GEO_VERSION = "20260629i";
 
     function outerRing(geom) {
       if (!geom) return [];
@@ -179,7 +185,7 @@
 
     async function loadBoundaryGeo(meta) {
       if (boundaryCache[meta.id]) return boundaryCache[meta.id];
-      const res = await fetch(`${meta.url}?v=${BOUNDARY_VERSION}`, { cache: "force-cache" });
+      const res = await fetch(`${meta.url}?v=${GEO_VERSION}`, { cache: "force-cache" });
       if (!res.ok) throw new Error(`${meta.url} HTTP ${res.status}`);
       const geo = await res.json();
       boundaryCache[meta.id] = geo;
@@ -252,6 +258,102 @@
       syncUrl();
     }
 
+    function makeOverlayPopup(props, meta) {
+      const c = meta.color || "#38bdf8";
+      const title = props.name || props.label || meta.label;
+      const rows = [];
+      if (props.category) rows.push(`<div class="pop-row"><span class="pop-label">Aquifer class</span><span class="pop-val">${esc(props.category)}</span></div>`);
+      if (props.type) rows.push(`<div class="pop-row"><span class="pop-label">Type</span><span class="pop-val">${esc(props.type)}</span></div>`);
+      if (props.operator) rows.push(`<div class="pop-row"><span class="pop-label">Operator</span><span class="pop-val">${esc(props.operator)}</span></div>`);
+      if (props.voltage_class) rows.push(`<div class="pop-row"><span class="pop-label">Voltage</span><span class="pop-val">${esc(props.voltage_class)} kV class</span></div>`);
+      if (props.owner) rows.push(`<div class="pop-row"><span class="pop-label">Owner</span><span class="pop-val">${esc(props.owner)}</span></div>`);
+      if (props.county) rows.push(`<div class="pop-row"><span class="pop-label">County</span><span class="pop-val">${esc(props.county)}</span></div>`);
+      const note = props.note || props.label;
+      return `<div class="map-popup"><div class="pop-header" style="--status:${c}"><span class="pop-status">${esc(meta.label)}</span><div class="pop-name">${esc(title)}</div></div><div class="pop-body">${rows.join("")}${note && note !== title ? `<p class="pop-note">${esc(note)}</p>` : ""}</div>${meta.source_url ? `<div class="pop-footer"><a class="pop-source" href="${safeUrl(meta.source_url)}" target="_blank" rel="noopener">${esc(meta.source_name || "Source")} ↗</a></div>` : ""}</div>`;
+    }
+
+    function overlayFeatureStyle(meta, props = {}) {
+      const base = {
+        color: meta.color,
+        weight: meta.geometry_type === "line" ? 2 : 1,
+        opacity: meta.geometry_type === "polygon" ? 0.55 : 0.75,
+        fillColor: meta.color,
+        fillOpacity: meta.geometry_type === "polygon" ? 0.12 : 0
+      };
+      if (meta.style_by && meta.style_map) {
+        const key = props[meta.style_by];
+        const s = meta.style_map[key] || {};
+        return { ...base, ...s };
+      }
+      return base;
+    }
+
+    async function loadOverlayGeo(meta) {
+      if (overlayCache[meta.id]) return overlayCache[meta.id];
+      const res = await fetch(`${meta.url}?v=${GEO_VERSION}`, { cache: "force-cache" });
+      if (!res.ok) throw new Error(`${meta.url} HTTP ${res.status}`);
+      const geo = await res.json();
+      overlayCache[meta.id] = geo;
+      return geo;
+    }
+
+    function waterIcon(color) {
+      return L.divIcon({
+        html: `<svg class="water-pin" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24"><path d="M12 2c-3 4-7 7.5-7 12a7 7 0 1014 0C19 9.5 15 6 12 2z" fill="${color}" stroke="#fff" stroke-width="1.4"/></svg>`,
+        className: "map-pin",
+        iconSize: [22, 22],
+        iconAnchor: [11, 11],
+        popupAnchor: [0, -11]
+      });
+    }
+
+    async function ensureOverlayLayer(meta) {
+      if (overlayGroups[meta.id] || overlayLoading[meta.id]) return overlayLoading[meta.id];
+      overlayLoading[meta.id] = loadOverlayGeo(meta).then(geo => {
+        const opts = {
+          style: feature => overlayFeatureStyle(meta, feature.properties || {}),
+          interactive: true,
+          onEachFeature: (feature, layer) => {
+            const props = feature.properties || {};
+            if (meta.geometry_type === "line") {
+              layer.bindPopup(makeOverlayPopup(props, meta), { maxWidth: 300, className: "tracker-popup" });
+            } else if (meta.geometry_type === "polygon") {
+              layer.bindPopup(makeOverlayPopup(props, meta), { maxWidth: 340, className: "tracker-popup" });
+              layer.bindTooltip(props.label || props.category || "Aquifer", { className: "boundary-tip", sticky: true });
+            } else if (meta.geometry_type === "point") {
+              layer.bindPopup(makeOverlayPopup(props, meta), { maxWidth: 320, className: "tracker-popup" });
+            }
+          }
+        };
+        if (meta.geometry_type === "line") {
+          opts.className = "tx-grid-glow";
+        }
+        if (meta.geometry_type === "point") {
+          opts.pointToLayer = (feature, latlng) => L.marker(latlng, { icon: waterIcon(meta.color), interactive: true });
+        }
+        overlayGroups[meta.id] = L.geoJSON(geo, opts);
+        refreshOverlays();
+      }).catch(err => {
+        console.warn("[map] overlay load failed", meta.id, err);
+        activeOverlays.delete(meta.id);
+        const inp = document.querySelector(`#map-overlays input[value="${escAttr(meta.id)}"]`);
+        if (inp) { inp.checked = false; inp.closest("label")?.classList.add("off"); }
+      }).finally(() => { delete overlayLoading[meta.id]; });
+      return overlayLoading[meta.id];
+    }
+
+    function refreshOverlays() {
+      overlayLayersMeta.forEach(meta => {
+        const on = activeOverlays.has(meta.id);
+        const minZoom = meta.min_zoom || 0;
+        const zoomOk = map.getZoom() >= minZoom;
+        const group = overlayGroups[meta.id];
+        if (on && zoomOk && group) map.addLayer(group);
+        else if (group) map.removeLayer(group);
+      });
+      syncUrl();
+    }
+
     function makeIcon(color, active = false, layer = "projects", status = "") {
       const size = active ? 28 : 22;
       const shapes = {
@@ -295,7 +397,7 @@
     const markerMap = new Map();
     const pointByName = new Map(points.map(p => [p.name, p]));
     let activeMarker = null, activePointName = null, activeRegion = initRegion;
-    const filtersEl = $("#map-filters"), layersEl = $("#map-layers"), boundariesEl = $("#map-boundaries"), dirEl = $("#map-directory"), storiesEl = $("#map-stories");
+    const filtersEl = $("#map-filters"), layersEl = $("#map-layers"), boundariesEl = $("#map-boundaries"), overlaysEl = $("#map-overlays"), dirEl = $("#map-directory"), storiesEl = $("#map-stories");
     const statuses = [...new Set(points.map(p => p.status))].sort();
     const INITIAL_VIEW = { center: [44.3, -85.2], zoom: 6 };
 
@@ -366,7 +468,15 @@
       const boundaryRows = boundaryLayersMeta.map(b =>
         `<div class="legend-row"><span class="legend-line" style="background:${b.color}"></span>${esc(b.label)}</div>`
       ).join("");
-      el.innerHTML = `<div class="map-legend-title">Layers</div>${rows}${txRow}${boundaryRows ? `<div class="map-legend-title" style="margin-top:10px">Boundaries</div>${boundaryRows}` : ""}<div class="map-legend-title" style="margin-top:10px">Generation types</div>${genRows}`;
+      const overlayRows = overlayLayersMeta.map(o =>
+        `<div class="legend-row"><span class="legend-line" style="background:${o.color}"></span>${esc(o.label)}</div>`
+      ).join("");
+      const aquiferRows = overlayLayersMeta.find(o => o.id === "aquifers")?.style_map
+        ? Object.entries(overlayLayersMeta.find(o => o.id === "aquifers").style_map).map(([k, s]) =>
+          `<div class="legend-row"><span class="legend-swatch" style="background:${s.fillColor || s.color}"></span>Aquifer ${esc(k)}</div>`
+        ).join("")
+        : "";
+      el.innerHTML = `<div class="map-legend-title">Layers</div>${rows}${txRow}${boundaryRows ? `<div class="map-legend-title" style="margin-top:10px">Boundaries</div>${boundaryRows}` : ""}${overlayRows ? `<div class="map-legend-title" style="margin-top:10px">Water & grid</div>${overlayRows}` : ""}${aquiferRows ? `<div class="map-legend-title" style="margin-top:8px">Aquifer classes</div>${aquiferRows}` : ""}<div class="map-legend-title" style="margin-top:10px">Generation types</div>${genRows}`;
     }
 
     renderSponsors();
@@ -420,6 +530,8 @@
       if (onLayers.length && onLayers.length < layersMeta.length) p.set("layers", onLayers.join(","));
       const onBoundaries = [...activeBoundaries];
       if (onBoundaries.length) p.set("boundaries", onBoundaries.join(","));
+      const onOverlays = [...activeOverlays];
+      if (onOverlays.length) p.set("overlays", onOverlays.join(","));
       if (activePointName) p.set("point", activePointName);
       const qs = p.toString();
       history.replaceState(null, "", qs ? `?${qs}` : location.pathname);
@@ -497,6 +609,33 @@
       map.on("zoomend", refreshBoundaries);
     }
 
+    if (overlaysEl && overlayLayersMeta.length) {
+      const overlayCounts = { transmission_grid: "1,737", aquifers: "1,388", water_wells: "21" };
+      overlaysEl.innerHTML = overlayLayersMeta.map(o => {
+        const on = activeOverlays.has(o.id);
+        const count = overlayCounts[o.id] || "";
+        return `<label class="layer-toggle ${on ? "" : "off"}"><input type="checkbox" value="${esc(o.id)}" ${on ? "checked" : ""}><span class="layer-swatch layer-swatch--line" style="color:${o.color}"></span><span class="layer-copy"><span class="layer-name">${esc(o.label)}</span><span class="layer-desc">${esc(o.description)}</span></span><span class="layer-count">${count}</span></label>`;
+      }).join("") + `<p class="overlay-hint">Michigan has 500,000+ private wells in EGLE's Wellogic registry — this map shows major public supplies & aquifer zones.</p>`;
+      overlaysEl.addEventListener("change", e => {
+        if (!e.target.matches("input")) return;
+        const meta = overlayLayersMeta.find(o => o.id === e.target.value);
+        if (!meta) return;
+        if (e.target.checked) {
+          activeOverlays.add(meta.id);
+          ensureOverlayLayer(meta);
+          if (meta.min_zoom && map.getZoom() < meta.min_zoom) {
+            map.flyTo(map.getCenter(), meta.min_zoom, { duration: 0.6 });
+          }
+        } else {
+          activeOverlays.delete(meta.id);
+        }
+        e.target.closest("label")?.classList.toggle("off", !e.target.checked);
+        refreshOverlays();
+      });
+      overlayLayersMeta.filter(o => activeOverlays.has(o.id)).forEach(o => ensureOverlayLayer(o));
+      map.on("zoomend", refreshOverlays);
+    }
+
     if (filtersEl) {
       filtersEl.innerHTML = statuses.map(s => {
         const checked = !initFilters || initFilters.has(s);
@@ -515,6 +654,17 @@
       if (!story) return;
       const panel = $("#story-detail");
       if (panel) { panel.hidden = false; panel.innerHTML = `<div class="story-detail-kicker">${esc(story.kicker)}</div><h3>${esc(story.title)}</h3><p>${esc(story.summary)}</p><div class="story-detail-actions"><a href="${safeUrl(story.source_url)}" target="_blank" rel="noopener">${esc(story.source_name)} ↗</a></div>`; }
+      if (story.id === "power-water-nexus") {
+        ["transmission_grid", "aquifers"].forEach(oid => {
+          const meta = overlayLayersMeta.find(o => o.id === oid);
+          if (!meta) return;
+          activeOverlays.add(oid);
+          ensureOverlayLayer(meta);
+          const inp = overlaysEl?.querySelector(`input[value="${oid}"]`);
+          if (inp) { inp.checked = true; inp.closest("label")?.classList.remove("off"); }
+        });
+        setTimeout(refreshOverlays, 400);
+      }
       if (story.fly_to) map.flyTo([story.fly_to.lat, story.fly_to.lng], story.fly_to.zoom || 8, { duration: 0.8 });
     }
 
@@ -570,6 +720,13 @@
         i.closest("label")?.classList.toggle("off", !on);
       });
       refreshBoundaries();
+      activeOverlays = new Set(overlayLayersMeta.filter(o => o.default_on).map(o => o.id));
+      $$("#map-overlays input").forEach(i => {
+        const on = activeOverlays.has(i.value);
+        i.checked = on;
+        i.closest("label")?.classList.toggle("off", !on);
+      });
+      refreshOverlays();
       $$(".region-chip").forEach(c => c.classList.toggle("active", c.dataset.region === "all"));
       const storyPanel = $("#story-detail");
       if (storyPanel) { storyPanel.hidden = true; storyPanel.innerHTML = ""; }

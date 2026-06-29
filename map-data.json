@@ -1447,6 +1447,21 @@
         "lng": -85.0,
         "zoom": 6
       }
+    },
+    {
+      "id": "power-water-nexus",
+      "title": "Power lines and groundwater often overlap",
+      "kicker": "Water & grid",
+      "summary": "Transmission corridors cross the same aquifers and townships debating data centers. Toggle aquifers + transmission lines to see the overlap.",
+      "region": "Statewide",
+      "source_name": "Michigan EGLE",
+      "source_url": "https://gis-egle.hub.arcgis.com/datasets/egle::aquifer-characteristics-of-glacial-drift",
+      "layer": "transmission",
+      "fly_to": {
+        "lat": 42.7,
+        "lng": -84.4,
+        "zoom": 8
+      }
     }
   ],
   "map_layers": [
@@ -1511,6 +1526,58 @@
       "url": "geo/mi-townships.geojson",
       "default_on": false,
       "min_zoom": 8
+    }
+  ],
+  "overlay_layers": [
+    {
+      "id": "transmission_grid",
+      "label": "Major transmission lines",
+      "description": "1,700+ lines at 100kV+ across Michigan (HIFLD)",
+      "geometry_type": "line",
+      "color": "#7c3aed",
+      "url": "geo/mi-transmission-grid.geojson",
+      "default_on": false,
+      "min_zoom": 7,
+      "style_by": "voltage_class",
+      "style_map": {
+        "345": { "color": "#f0abfc", "weight": 3.2, "opacity": 0.9 },
+        "220-287": { "color": "#c084fc", "weight": 2.6, "opacity": 0.85 },
+        "100-161": { "color": "#7c3aed", "weight": 1.6, "opacity": 0.65 }
+      },
+      "source_name": "Homeland Infrastructure Foundation-Level Data",
+      "source_url": "https://hifld-geoplatform.opendata.arcgis.com/datasets/geoplatform::electric-power-transmission-lines"
+    },
+    {
+      "id": "aquifers",
+      "label": "Glacial aquifers",
+      "description": "EGLE aquifer zones — where groundwater sits under your township",
+      "geometry_type": "polygon",
+      "color": "#38bdf8",
+      "url": "geo/mi-aquifers.geojson",
+      "default_on": false,
+      "min_zoom": 8,
+      "style_by": "category",
+      "style_map": {
+        "I": { "fillColor": "#f87171", "fillOpacity": 0.16, "color": "#fca5a5" },
+        "II": { "fillColor": "#60a5fa", "fillOpacity": 0.16, "color": "#93c5fd" },
+        "IIIa": { "fillColor": "#34d399", "fillOpacity": 0.16, "color": "#6ee7b7" },
+        "IIIb": { "fillColor": "#2dd4bf", "fillOpacity": 0.16, "color": "#5eead4" },
+        "IV": { "fillColor": "#a78bfa", "fillOpacity": 0.14, "color": "#c4b5fd" }
+      },
+      "source_name": "Michigan EGLE",
+      "source_url": "https://gis-egle.hub.arcgis.com/datasets/egle::aquifer-characteristics-of-glacial-drift"
+    },
+    {
+      "id": "water_wells",
+      "label": "Public water sources",
+      "description": "Major municipal wells, wellfields & Great Lakes intakes",
+      "geometry_type": "point",
+      "color": "#0ea5e9",
+      "url": "geo/mi-water-sources.geojson",
+      "default_on": false,
+      "min_zoom": 7,
+      "source_name": "Michigan utilities / EGLE",
+      "source_url": "https://www.michigan.gov/egle/about/organization/geologic-resources-management/resources-and-data"
     }
   ],
   "transmission_lines": [

@@ -377,6 +377,20 @@
       filter: drop-shadow(0 0 6px rgba(156,95,201,0.65));
       animation: tx-pulse 3s ease-in-out infinite;
     }
+    .leaflet-interactive.tx-grid-glow {
+      filter: drop-shadow(0 0 4px rgba(124,58,237,0.45));
+    }
+
+    .water-pin svg { display: block; filter: drop-shadow(0 2px 6px rgba(14,165,233,0.45)); }
+
+    .overlay-hint {
+      font-size: 10px;
+      color: var(--ink-muted);
+      line-height: 1.4;
+      margin-top: 8px;
+      padding-top: 8px;
+      border-top: 1px solid var(--line);
+    }
     @keyframes tx-pulse {
       0%, 100% { filter: drop-shadow(0 0 4px rgba(156,95,201,0.45)); }
       50% { filter: drop-shadow(0 0 12px rgba(192,132,252,0.85)); }
@@ -1125,6 +1139,7 @@
       .map-panel.open .map-stories,
       .map-panel.open .map-layers,
       .map-panel.open #map-boundaries,
+      .map-panel.open #map-overlays,
       .map-panel.open .panel-foot,
       .map-panel.open .panel-sponsor,
       .map-panel.open .panel-site-nav { display: block; }
@@ -1220,6 +1235,13 @@
 
       <div class="panel-section">
         <div class="panel-section-head">
+          <span class="panel-section-title">Water & grid overlays</span>
+        </div>
+        <div class="map-layers" id="map-overlays"></div>
+      </div>
+
+      <div class="panel-section">
+        <div class="panel-section-head">
           <span class="panel-section-title">Region</span>
         </div>
         <div class="region-chips">
@@ -1257,7 +1279,7 @@
 
     <button class="sidebar-toggle" id="sidebar-toggle" aria-controls="map-sidebar" aria-expanded="false" type="button">Open panel</button>
 
-    <div class="map-diff-badge" aria-hidden="true">Only statewide map with <em>DCs + moratoria + grid + plants + political lines</em> in one view</div>
+    <div class="map-diff-badge" aria-hidden="true">Only statewide map with <em>DCs + transmission + aquifers + political lines</em> in one view</div>
 
     <div class="map-stats-ribbon" id="map-stats-ribbon" aria-label="Map statistics"></div>
 
@@ -1277,6 +1299,6 @@
   </div>
 
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
-  <script src="map.js?v=20260629h" defer></script>
+  <script src="map.js?v=20260629i" defer></script>
 </body>
 </html>
