@@ -124,6 +124,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, [tabindex]:focus-vis
 .menu-button {
   display: none;
   position: relative;
+  z-index: 3;
   left: auto;
   top: auto;
   width: 44px;
@@ -132,6 +133,10 @@ a:focus-visible, button:focus-visible, input:focus-visible, [tabindex]:focus-vis
   gap: 6px;
   border: 0;
   background: transparent;
+  cursor: pointer;
+  flex-shrink: 0;
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
 }
 .menu-button span { width: 26px; height: 2.5px; background: #fff; border-radius: 2px; }
 .wordmark { display: block; width: min(340px, 32vw); }
@@ -1132,11 +1137,20 @@ main, .site-footer { max-width: var(--max); margin: 0 auto; background: var(--pa
 .empty-state { grid-column: 1 / -1; display: flex; gap: 15px; padding: 28px; border: 1px solid var(--line); background: #fff; }
 .empty-state p { margin: 4px 0 0; color: var(--muted); }
 .empty-mark { width: 10px; height: 10px; margin-top: 7px; border-radius: 50%; background: var(--red); }
-.drawer-shade { position: fixed; inset: 0; z-index: 99; visibility: hidden; opacity: 0; background: rgba(0,0,0,.65); transition: .2s; }
+.drawer-shade {
+  position: fixed;
+  inset: 0;
+  z-index: 210;
+  visibility: hidden;
+  opacity: 0;
+  background: rgba(0,0,0,.65);
+  transition: .2s;
+  pointer-events: none;
+}
 .drawer {
   position: fixed;
   inset: 0 auto 0 0;
-  z-index: 100;
+  z-index: 220;
   width: min(390px, 88vw);
   padding: 34px;
   color: #fff;
@@ -1147,7 +1161,7 @@ main, .site-footer { max-width: var(--max); margin: 0 auto; background: var(--pa
   transition: transform .25s ease;
 }
 .drawer.open { transform: translateX(0); visibility: visible; pointer-events: auto; }
-.drawer-shade.open { visibility: visible; opacity: 1; }
+.drawer-shade.open { visibility: visible; opacity: 1; pointer-events: auto; }
 .drawer-close { position: absolute; top: 18px; right: 20px; width: 44px; height: 44px; border: 0; color: #fff; background: transparent; font-size: 2rem; }
 .drawer-brand { display: block; width: 100%; margin: 45px 0 30px; }
 .drawer-brand img { display: block; width: 100%; height: auto; }
@@ -1280,7 +1294,10 @@ main, .site-footer { max-width: var(--max); margin: 0 auto; background: var(--pa
     margin: 0;
     width: min(176px, 54vw);
     height: 44px;
+    z-index: 1;
+    pointer-events: auto;
   }
+  .menu-button { z-index: 3; }
   .masthead { border-top-width: 2px; min-height: 140px; }
   .masthead-video {
     inset: 0;

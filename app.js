@@ -50,6 +50,61 @@
       <div><strong>${escapeHtml(title)}</strong><p>${escapeHtml(body)}</p></div>
     </div>`;
 
+  const initSiteDrawer = () => {
+    const drawer = $("#site-drawer");
+    const shade = $(".drawer-shade");
+    const menu = $(".menu-button");
+    if (!drawer || !shade) return;
+
+    let lastFocused = null;
+    const setDrawer = open => {
+      if (open) lastFocused = document.activeElement;
+      drawer.classList.toggle("open", open);
+      shade.classList.toggle("open", open);
+      drawer.setAttribute("aria-hidden", String(!open));
+      if (menu) menu.setAttribute("aria-expanded", String(open));
+      document.body.classList.toggle("drawer-open", open);
+      if (open) {
+        const closeBtn = $(".drawer-close", drawer);
+        if (closeBtn) closeBtn.focus();
+      } else if (lastFocused instanceof HTMLElement) {
+        lastFocused.focus();
+      }
+    };
+
+    $$("[data-drawer-open]").forEach(el => {
+      el.addEventListener("click", event => {
+        event.preventDefault();
+        setDrawer(true);
+      });
+    });
+    $$("[data-drawer-close]").forEach(el => {
+      el.addEventListener("click", event => {
+        event.preventDefault();
+        setDrawer(false);
+      });
+    });
+    $$(".drawer a").forEach(el => el.addEventListener("click", () => setDrawer(false)));
+
+    document.addEventListener("keydown", event => {
+      if (event.key === "Escape" && drawer.classList.contains("open")) setDrawer(false);
+      if (event.key !== "Tab" || !drawer.classList.contains("open")) return;
+      const focusable = $$('a[href], button:not([disabled])', drawer).filter(el => el.offsetParent !== null);
+      if (!focusable.length) return;
+      const first = focusable[0];
+      const last = focusable[focusable.length - 1];
+      if (event.shiftKey && document.activeElement === first) {
+        event.preventDefault();
+        last.focus();
+      } else if (!event.shiftKey && document.activeElement === last) {
+        event.preventDefault();
+        first.focus();
+      }
+    });
+  };
+
+  initSiteDrawer();
+
   const edition = window.HomeStats?.formatEditionDate?.() || null;
   if (edition) {
     const updatedAtEl = $("#updated-at");
@@ -61,13 +116,16 @@
     }
   }
 
-  $("#status-grid").innerHTML = (data.status || []).map(item => `
-    <a class="status-card" href="${safeUrl(item.source_url)}" target="_blank" rel="noopener">
-      <span>${escapeHtml(item.label)}</span>
-      <strong>${escapeHtml(item.value)}</strong>
-      <small>${escapeHtml(item.detail)}</small>
-      <em>${escapeHtml(item.source_name)} ${external}</em>
-    </a>`).join("");
+  const statusGrid = $("#status-grid");
+  if (statusGrid) {
+    statusGrid.innerHTML = (data.status || []).map(item => `
+      <a class="status-card" href="${safeUrl(item.source_url)}" target="_blank" rel="noopener">
+        <span>${escapeHtml(item.label)}</span>
+        <strong>${escapeHtml(item.value)}</strong>
+        <small>${escapeHtml(item.detail)}</small>
+        <em>${escapeHtml(item.source_name)} ${external}</em>
+      </a>`).join("");
+  }
 
   const latest = data.latest_developments || [];
   if ($("#latest-grid")) {
@@ -89,7 +147,8 @@
 
   const meetings = data.meetings || [];
   const meetingNote = `<p class="meeting-section-note">Agendas and livestreams are added as local governments publish them. Not all meetings have data center items on the agenda.</p>`;
-  $("#meeting-list").innerHTML = meetings.length
+  const meetingList = $("#meeting-list");
+  if (meetingList) meetingList.innerHTML = meetings.length
     ? meetingNote + meetings.map(item => {
       const dt = new Date(item.start);
       const day = new Intl.DateTimeFormat("en-US", { weekday: "short", timeZone: "America/Detroit" }).format(dt);
@@ -110,11 +169,13 @@
 
   const platformClass = t => ({ social: "tag-social", official: "tag-official", news: "tag-news" }[t] || "tag-social");
   const renderPublicSources = posts => {
+    const publicGrid = $("#public-grid");
+    if (!publicGrid) return;
     if (!posts.length) {
-      $("#public-grid").innerHTML = emptyState("No verified public posts loaded", "Exact post links will appear here when verified.");
+      publicGrid.innerHTML = emptyState("No verified public posts loaded", "Exact post links will appear here when verified.");
       return;
     }
-    $("#public-grid").innerHTML = `
+    publicGrid.innerHTML = `
       <p class="public-disclaimer">Summaries are written by the tracker based on public posts and statements. Not verbatim quotes.</p>
       ${posts.slice(0, 6).map(post => `<a class="public-card" href="${safeUrl(post.post_url)}" target="_blank" rel="noopener">
         ${isNew(post.posted_at) ? `<span class="new-badge">New</span>` : ""}
@@ -151,7 +212,7 @@
         const notice = document.createElement("p");
         notice.className = "feed-notice";
         notice.textContent = "Live social feed is temporarily unavailable; showing the latest editorial snapshot.";
-        $("#public-grid").before(notice);
+        publicGrid.before(notice);
       });
   }
 
@@ -219,11 +280,15 @@
   };
   const regional = data.regional_watch || {};
   const tabs = Object.keys(regionNames);
-  $("#region-tabs").innerHTML = tabs.map((key, i) => {
-    const label = regionTabLabels[key];
-    const full = regionNames[key];
-    return `<button id="region-tab-${key}" type="button" role="tab" data-region="${key}" aria-controls="region-panel" aria-selected="${i === 0}" tabindex="${i === 0 ? "0" : "-1"}" title="${escapeHtml(full)}" aria-label="${escapeHtml(full)}">${escapeHtml(label)}</button>`;
-  }).join("");
+  const regionTabs = $("#region-tabs");
+  const regionPanel = $("#region-panel");
+  if (regionTabs) {
+    regionTabs.innerHTML = tabs.map((key, i) => {
+      const label = regionTabLabels[key];
+      const full = regionNames[key];
+      return `<button id="region-tab-${key}" type="button" role="tab" data-region="${key}" aria-controls="region-panel" aria-selected="${i === 0}" tabindex="${i === 0 ? "0" : "-1"}" title="${escapeHtml(full)}" aria-label="${escapeHtml(full)}">${escapeHtml(label)}</button>`;
+    }).join("");
+  }
 
   let regionSlideshowTimer = null;
   const stopRegionSlideshow = () => {
@@ -280,85 +345,58 @@
   };
 
   function renderRegion(key) {
+    if (!regionPanel) return;
     $$("#region-tabs button").forEach(btn => {
       const selected = btn.dataset.region === key;
       btn.setAttribute("aria-selected", selected ? "true" : "false");
       btn.setAttribute("tabindex", selected ? "0" : "-1");
     });
-    $("#region-panel").setAttribute("aria-labelledby", `region-tab-${key}`);
+    regionPanel.setAttribute("aria-labelledby", `region-tab-${key}`);
     const indexes = regional[key] || [];
     const items = indexes.map(index => latest[index]).filter(Boolean);
     const visual = regionVisuals[key];
     stopRegionSlideshow();
-    $("#region-panel").innerHTML = renderRegionVisual(key, visual) + (items.length
+    regionPanel.innerHTML = renderRegionVisual(key, visual) + (items.length
       ? items.map(item => `<a href="${safeUrl(item.source_url)}" target="_blank" rel="noopener">
           <span class="region-topic">${escapeHtml(item.region)}</span>
           <strong>${escapeHtml(item.headline)}</strong>
           <small>${escapeHtml(item.source_name)} · ${dateLabel(item.published_date)} ${external}</small>
         </a>`).join("")
       : emptyState(`No verified ${regionNames[key]} item loaded`, "This region remains visible so a future verified update drops into the same layout."));
-    startRegionSlideshow($(".region-visual--slideshow", $("#region-panel")));
+    startRegionSlideshow($(".region-visual--slideshow", regionPanel));
   }
-  $("#region-tabs").addEventListener("click", event => {
-    const button = event.target.closest("button[data-region]");
-    if (button) renderRegion(button.dataset.region);
-  });
-  $("#region-tabs").addEventListener("keydown", event => {
-    if (!["ArrowLeft", "ArrowRight", "Home", "End"].includes(event.key)) return;
-    const buttons = $$("#region-tabs button");
-    const current = buttons.indexOf(document.activeElement);
-    if (current < 0) return;
-    event.preventDefault();
-    const next = event.key === "Home" ? 0
-      : event.key === "End" ? buttons.length - 1
-      : (current + (event.key === "ArrowRight" ? 1 : -1) + buttons.length) % buttons.length;
-    buttons[next].focus();
-    renderRegion(buttons[next].dataset.region);
-  });
-  renderRegion("statewide");
-
-  const mapPoints = data.map_points || [];
-  const counts = mapPoints.reduce((acc, point) => {
-    acc[point.status] = (acc[point.status] || 0) + 1;
-    return acc;
-  }, {});
-  $("#map-promo-stats").innerHTML = `
-    <div><strong>${mapPoints.length}</strong><span>Verified map records loaded</span></div>
-    <div><strong>${counts.Moratorium || 0}</strong><span>Moratoria in current map feed</span></div>
-    <div><strong>${mapPoints.filter(p => p.confidence === "Confirmed").length}</strong><span>Confirmed by official or direct source</span></div>`;
-
-  const drawer = $("#site-drawer");
-  const shade = $(".drawer-shade");
-  const menu = $(".menu-button");
-  let lastFocused = null;
-  const setDrawer = open => {
-    if (open) lastFocused = document.activeElement;
-    drawer.classList.toggle("open", open);
-    shade.classList.toggle("open", open);
-    drawer.setAttribute("aria-hidden", String(!open));
-    menu.setAttribute("aria-expanded", String(open));
-    document.body.classList.toggle("drawer-open", open);
-    if (open) $(".drawer-close").focus();
-    else if (lastFocused instanceof HTMLElement) lastFocused.focus();
-  };
-  $$("[data-drawer-open]").forEach(el => el.addEventListener("click", () => setDrawer(true)));
-  $$("[data-drawer-close]").forEach(el => el.addEventListener("click", () => setDrawer(false)));
-  $$(".drawer a").forEach(el => el.addEventListener("click", () => setDrawer(false)));
-  document.addEventListener("keydown", event => {
-    if (event.key === "Escape" && drawer.classList.contains("open")) setDrawer(false);
-    if (event.key !== "Tab" || !drawer.classList.contains("open")) return;
-    const focusable = $$('a[href], button:not([disabled])', drawer).filter(el => el.offsetParent !== null);
-    if (!focusable.length) return;
-    const first = focusable[0];
-    const last = focusable[focusable.length - 1];
-    if (event.shiftKey && document.activeElement === first) {
+  if (regionTabs) {
+    regionTabs.addEventListener("click", event => {
+      const button = event.target.closest("button[data-region]");
+      if (button) renderRegion(button.dataset.region);
+    });
+    regionTabs.addEventListener("keydown", event => {
+      if (!["ArrowLeft", "ArrowRight", "Home", "End"].includes(event.key)) return;
+      const buttons = $$("#region-tabs button");
+      const current = buttons.indexOf(document.activeElement);
+      if (current < 0) return;
       event.preventDefault();
-      last.focus();
-    } else if (!event.shiftKey && document.activeElement === last) {
-      event.preventDefault();
-      first.focus();
-    }
-  });
+      const next = event.key === "Home" ? 0
+        : event.key === "End" ? buttons.length - 1
+        : (current + (event.key === "ArrowRight" ? 1 : -1) + buttons.length) % buttons.length;
+      buttons[next].focus();
+      renderRegion(buttons[next].dataset.region);
+    });
+    renderRegion("statewide");
+  }
+
+  const mapPromoStats = $("#map-promo-stats");
+  if (mapPromoStats) {
+    const mapPoints = data.map_points || [];
+    const counts = mapPoints.reduce((acc, point) => {
+      acc[point.status] = (acc[point.status] || 0) + 1;
+      return acc;
+    }, {});
+    mapPromoStats.innerHTML = `
+      <div><strong>${mapPoints.length}</strong><span>Verified map records loaded</span></div>
+      <div><strong>${counts.Moratorium || 0}</strong><span>Moratoria in current map feed</span></div>
+      <div><strong>${mapPoints.filter(p => p.confidence === "Confirmed").length}</strong><span>Confirmed by official or direct source</span></div>`;
+  }
 
   const video = $(".masthead-video");
   if (video && window.matchMedia("(prefers-reduced-motion: reduce)").matches) video.pause();
