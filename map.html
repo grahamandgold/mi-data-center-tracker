@@ -4,12 +4,12 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="theme-color" content="#080a10">
-  <title>Michigan Data Center Map | Michigan Data Center Tracker</title>
-  <meta name="description" content="A sourced map of Michigan data center projects, local moratoria and related public actions.">
+  <title>Michigan Data Center Tracker | Internal Intelligence Platform</title>
+  <meta name="description" content="Internal market intelligence map tracking Michigan data center projects, infrastructure capacity, local moratoria, and municipal actions.">
   <link rel="canonical" href="https://midatacentertracker.github.io/mi-data-center-tracker/map.html">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="Michigan Data Center Map">
-  <meta property="og:description" content="A sourced map of Michigan data center projects, local moratoria and related public actions.">
+  <meta property="og:title" content="Michigan Data Center Map - Internal Tracker">
+  <meta property="og:description" content="Internal market intelligence map tracking Michigan data center projects, infrastructure capacity, local moratoria, and municipal actions.">
   <meta property="og:url" content="https://midatacentertracker.github.io/mi-data-center-tracker/map.html">
   <meta property="og:image" content="https://midatacentertracker.github.io/mi-data-center-tracker/social-card.png">
   <meta name="twitter:card" content="summary_large_image">
@@ -19,6 +19,7 @@
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
   <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
   <style>
+    /* ── SYSTEM DESIGN VARIABLES ── */
     :root {
       --red: #cf102d;
       --red-glow: rgba(207,16,45,0.45);
@@ -32,6 +33,8 @@
       --mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, monospace;
       --sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
     }
+
+    /* ── BASE RESET ── */
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     html, body {
       height: 100%; width: 100%;
@@ -42,7 +45,7 @@
       -webkit-font-smoothing: antialiased;
     }
 
-    /* ── MAP ── */
+    /* ── MAP VIEWPORT ── */
     #map {
       position: absolute; inset: 0;
       width: 100vw; height: 100vh;
@@ -62,7 +65,7 @@
       border-radius: 4px 0 0 0 !important;
     }
 
-    /* ── ATMOSPHERE ── */
+    /* ── HUD BACKGROUND EFFECTS ── */
     .atmos { position: absolute; inset: 0; pointer-events: none; z-index: 400; }
     .atmos .grid {
       position: absolute; inset: 0;
@@ -87,7 +90,7 @@
       animation: scan 16s linear infinite;
     }
 
-    /* ── TOP BAR (brand nav) ── */
+    /* ── BRANDING TOP BAR ── */
     .map-topbar {
       position: absolute; top: 0; left: 0; right: 0; z-index: 600;
       height: 52px;
@@ -123,7 +126,7 @@
     }
     .map-topbar-nav .nav-back:hover { background: var(--red); color: #fff; }
 
-    /* ── HUD STATUS (top-left below topbar) ── */
+    /* ── LIVE HUD STATUS BAR ── */
     .hud-status {
       position: absolute; z-index: 550;
       top: 68px; left: 16px;
@@ -163,12 +166,12 @@
     }
     @media (max-width: 560px) { .hud-live-sub, .hud-updated { display: none; } }
 
-    /* ── SIDEBAR PANEL (left) ── */
+    /* ── INTELLIGENCE SIDEBAR PANEL ── */
     .map-sidebar {
       position: absolute; z-index: 550;
-      top: 68px; left: 16px;
+      top: 124px; left: 16px; /* Shifted down to prevent overlapping the status HUD */
       width: 300px;
-      max-height: calc(100vh - 136px);
+      max-height: calc(100vh - 142px);
       background: var(--panel);
       border: 1px solid var(--line-strong);
       border-radius: 10px;
@@ -203,6 +206,8 @@
       transition: background .15s, color .15s;
     }
     #show-all:hover { background: var(--red); color: #fff; }
+    
+    /* Dynamic Filters Layout */
     .map-filters { display: flex; flex-direction: column; gap: 4px; }
     .map-filters label {
       display: flex; align-items: center; gap: 8px;
@@ -220,11 +225,51 @@
     }
     .map-filters label.off .filter-dot { opacity: 0.25; box-shadow: none; }
     .map-filters label.off { opacity: 0.45; }
-    .filter-name { flex: 1; }
+    .filter-name { flex: 1; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; }
     .filter-count {
       font-family: var(--mono); font-size: 9px; font-weight: 700;
       color: var(--ink-muted); letter-spacing: .5px;
     }
+
+    /* Unified Search Layout */
+    .sidebar-search {
+      padding: 10px 14px 12px;
+      border-top: 1px solid rgba(255,255,255,0.05);
+      flex-shrink: 0;
+      position: relative;
+    }
+    #map-search {
+      width: 100%; padding: 7px 10px;
+      background: rgba(255,255,255,0.05);
+      border: 1px solid var(--line-strong);
+      border-radius: 5px;
+      color: var(--ink); font-family: var(--mono); font-size: 10px;
+      letter-spacing: .5px; outline: none;
+      transition: border-color .15s, background .15s;
+    }
+    #map-search::placeholder { color: var(--ink-muted); }
+    #map-search:focus { border-color: rgba(207,16,45,0.5); background: rgba(255,255,255,0.07); }
+    
+    .search-results {
+      position: absolute; left: 14px; right: 14px; top: 100%;
+      background: rgba(8,10,16,0.98);
+      border: 1px solid rgba(207,16,45,0.3); border-radius: 6px;
+      z-index: 610; overflow: hidden;
+      box-shadow: 0 12px 36px rgba(0,0,0,0.85);
+    }
+    .search-results button {
+      display: flex; align-items: center; gap: 10px;
+      padding: 10px 12px; width: 100%;
+      border: 0; border-bottom: 1px solid rgba(255,255,255,0.04);
+      background: transparent; color: var(--ink-dim); cursor: pointer;
+      text-align: left; transition: background .1s, color .1s;
+    }
+    .search-results button:last-child { border-bottom: none; }
+    .search-results button:hover { background: rgba(207,16,45,0.1); color: var(--ink); }
+    .search-results strong { font-size: 11px; font-weight: 600; display: block; }
+    .search-results small { font-family: var(--mono); font-size: 9px; color: var(--ink-muted); display: block; margin-top: 2px; }
+
+    /* Directory Index Container */
     .sidebar-dir-head {
       font-family: var(--mono); font-size: 8px; letter-spacing: 2px;
       text-transform: uppercase; color: var(--ink-muted); font-weight: 700;
@@ -262,7 +307,7 @@
     .map-directory strong { font-size: 11px; font-weight: 600; display: block; }
     .map-directory small { font-family: var(--mono); font-size: 9px; color: var(--ink-muted); display: block; margin-top: 1px; }
 
-    /* Mobile: sidebar collapses to bottom strip */
+    /* Responsive Mobile Layout Overrides */
     @media (max-width: 768px) {
       .map-sidebar {
         top: auto; bottom: 60px; left: 0; right: 0; width: 100%;
@@ -274,7 +319,7 @@
       .hud-status { top: auto; bottom: 16px; left: 50%; transform: translateX(-50%); white-space: nowrap; }
     }
 
-    /* ── LEGEND (bottom-right) ── */
+    /* ── MAP DATA SPECIFIC LEGEND ── */
     .hud-legend {
       position: absolute; z-index: 500; pointer-events: none;
       bottom: 16px; right: 16px;
@@ -303,7 +348,7 @@
     }
     @media (max-width: 768px) { .hud-legend { display: none; } }
 
-    /* ── ZOOM CONTROLS ── */
+    /* ── ZOOM MAP OVERRIDES ── */
     .leaflet-control-zoom {
       border: 1px solid var(--line-strong) !important;
       border-radius: 8px !important; overflow: hidden;
@@ -326,7 +371,7 @@
     .leaflet-bottom.leaflet-right { right: 16px !important; bottom: 52px !important; }
     @media (max-width: 768px) { .leaflet-bottom.leaflet-right { right: 16px !important; bottom: 16px !important; } }
 
-    /* ── POPUP ── */
+    /* ── HIGH FIDELITY POPUP WINDOWS (INTELLIGENCE LAYOUT) ── */
     .leaflet-popup-content-wrapper {
       background: linear-gradient(160deg, rgba(20,10,14,0.97) 0%, rgba(8,10,16,0.97) 100%);
       color: var(--ink);
@@ -347,9 +392,9 @@
       z-index: 10; transition: color .15s;
     }
     .leaflet-popup-close-button:hover { color: #fff !important; }
-    .leaflet-popup-content { margin: 0; width: 300px !important; }
+    .leaflet-popup-content { margin: 0; width: 330px !important; }
 
-    .map-popup { }
+    .map-popup { display: flex; flex-direction: column; }
     .pop-header {
       position: relative; padding: 16px 18px 13px;
       border-bottom: 1px solid rgba(255,255,255,0.06);
@@ -366,81 +411,60 @@
       color: var(--red); margin-bottom: 6px; display: block;
     }
     .pop-name {
-      font-size: 15px; font-weight: 800; line-height: 1.2;
+      font-size: 16px; font-weight: 800; line-height: 1.25;
       color: var(--ink); margin-bottom: 4px;
     }
     .pop-location {
       font-family: var(--mono); font-size: 10px; color: var(--ink-muted);
       letter-spacing: .5px;
     }
-    .pop-body { padding: 12px 18px 14px; display: flex; flex-direction: column; gap: 7px; }
+    
+    /* Dynamic Metric Grid Alignments */
+    .pop-body { padding: 14px 18px; display: flex; flex-direction: column; gap: 8px; }
     .pop-row {
-      display: flex; align-items: baseline; gap: 8px;
-      font-size: 11px;
+      display: flex; align-items: flex-start; justify-content: flex-start;
+      font-size: 11px; line-height: 1.4;
     }
     .pop-label {
       font-family: var(--mono); font-size: 8.5px; letter-spacing: 1.2px;
       text-transform: uppercase; font-weight: 700; color: var(--ink-muted);
-      flex-shrink: 0; min-width: 72px;
+      flex-shrink: 0; width: 95px; padding-top: 1px;
     }
-    .pop-val { color: var(--ink-dim); }
+    .pop-val { color: var(--ink-dim); flex: 1; word-break: break-word; }
+    
+    /* Internal Context / Meeting Tracking Zone */
     .pop-note {
       font-size: 11px; color: var(--ink-muted); line-height: 1.5;
-      padding-top: 7px; border-top: 1px solid rgba(255,255,255,0.05);
-    }
-    .pop-footer {
-      padding: 10px 18px 14px;
+      padding-top: 10px; margin-top: 4px;
       border-top: 1px solid rgba(255,255,255,0.05);
     }
-    .pop-source {
-      display: inline-flex; align-items: center; gap: 6px;
+    .pop-meeting-badge {
+      display: inline-block; margin-top: 6px; padding: 4px 8px;
+      background: rgba(207,16,45,0.1); border: 1px solid rgba(207,16,45,0.25);
+      border-radius: 4px; font-family: var(--mono); font-size: 9px;
+      color: var(--ink); font-weight: 500;
+    }
+
+    /* Operational Action Controls */
+    .pop-footer {
+      padding: 12px 18px 16px;
+      border-top: 1px solid rgba(255,255,255,0.05);
+      display: flex; align-items: center; gap: 8px;
+    }
+    .pop-source, .pop-share {
       font-family: var(--mono); font-size: 9px; font-weight: 700;
       letter-spacing: 1.2px; text-transform: uppercase;
-      color: var(--red); text-decoration: none;
-      border: 1px solid var(--line-strong); padding: 6px 10px; border-radius: 5px;
-      transition: background .15s, color .15s;
+      text-decoration: none; border: 1px solid var(--line-strong); 
+      padding: 6px 12px; border-radius: 5px; cursor: pointer;
+      background: transparent; text-align: center;
+      transition: background .15s, color .15s, border-color .15s;
     }
-    .pop-source:hover { background: var(--red); color: #fff; }
-    .pop-source::after { content: "↗"; font-size: 10px; }
+    .pop-source { color: var(--red); flex: 1; }
+    .pop-source:hover { background: var(--red); color: #fff; border-color: var(--red); }
+    .pop-share { color: var(--ink-dim); }
+    .pop-share:hover { background: rgba(255,255,255,0.05); color: var(--ink); }
 
-    /* ── SEARCH ── */
-    .sidebar-search {
-      padding: 10px 14px 12px;
-      border-top: 1px solid rgba(255,255,255,0.05);
-      flex-shrink: 0;
-      position: relative;
-    }
-    #map-search {
-      width: 100%; padding: 7px 10px;
-      background: rgba(255,255,255,0.05);
-      border: 1px solid var(--line-strong);
-      border-radius: 5px;
-      color: var(--ink); font-family: var(--mono); font-size: 10px;
-      letter-spacing: .5px; outline: none;
-      transition: border-color .15s, background .15s;
-    }
-    #map-search::placeholder { color: var(--ink-muted); }
-    #map-search:focus { border-color: rgba(207,16,45,0.5); background: rgba(255,255,255,0.07); }
-    .search-results {
-      position: absolute; left: 14px; right: 14px; top: 100%;
-      background: rgba(8,10,16,0.98);
-      border: 1px solid var(--line-strong); border-radius: 6px;
-      z-index: 600; overflow: hidden;
-      box-shadow: 0 8px 30px rgba(0,0,0,0.7);
-    }
-    .search-results button {
-      display: flex; align-items: center; gap: 8px;
-      padding: 9px 12px; width: 100%;
-      border: 0; border-bottom: 1px solid rgba(255,255,255,0.04);
-      background: transparent; color: var(--ink-dim); cursor: pointer;
-      text-align: left; transition: background .1s;
-    }
-    .search-results button:last-child { border-bottom: none; }
-    .search-results button:hover { background: rgba(255,255,255,0.05); color: var(--ink); }
-    .search-results strong { font-size: 11px; font-weight: 600; display: block; }
-    .search-results small { font-family: var(--mono); font-size: 9px; color: var(--ink-muted); display: block; }
-
-    /* ── HUD BUTTONS ── */
+    /* ── INTERFACE UTILITIES ── */
     .hud-btn {
       font-family: var(--mono); font-size: 8px; letter-spacing: 1.2px;
       text-transform: uppercase; font-weight: 700;
@@ -453,12 +477,10 @@
     .hud-btn:hover { background: rgba(207,16,45,0.15); color: var(--red); border-color: var(--red); }
     @media (max-width: 560px) { .hud-btn { display: none; } }
 
-    /* ── Dark tile CSS filter ── */
     #map.dark-tiles .leaflet-tile-pane {
       filter: brightness(0.35) contrast(1.1) saturate(0.4) hue-rotate(180deg);
     }
 
-    /* ── SCROLL HINT ── */
     .scroll-hint {
       position: absolute; z-index: 450;
       bottom: 16px; left: 50%; transform: translateX(-50%);
@@ -470,7 +492,6 @@
     }
     @media (max-width: 768px) { .scroll-hint { display: none; } }
 
-    /* ── MOBILE TOGGLE ── */
     .sidebar-toggle {
       display: none;
       position: absolute; z-index: 560;
@@ -488,11 +509,10 @@
 <body>
   <a class="skip-link" href="#map" style="position:absolute;left:-9999px;z-index:9999;background:var(--red);color:#fff;padding:8px 14px;font-size:13px;font-weight:700;">Skip to map</a>
 
-  <!-- Top nav bar -->
   <header class="map-topbar">
     <a class="map-topbar-brand" href="index.html">
       <img src="brand-logo-light.png" alt="Michigan Data Center Tracker">
-      <span class="map-topbar-title">Intelligence Map</span>
+      <span class="map-topbar-title">Internal Tracker</span>
     </a>
     <nav class="map-topbar-nav">
       <a href="methodology.html">Methodology</a>
@@ -500,55 +520,42 @@
     </nav>
   </header>
 
-  <!-- Atmosphere overlay -->
   <div class="atmos" aria-hidden="true">
     <div class="grid"></div>
     <div class="scan"></div>
   </div>
 
-  <!-- Live status HUD -->
-  <div class="hud-status">
+  <section class="hud-status" aria-label="System status">
     <span class="hud-live-dot" aria-hidden="true"></span>
     <span class="hud-live-txt">Live</span>
     <span class="hud-live-sub" id="hud-record-count">Loading…</span>
     <span class="hud-updated" id="map-updated">—</span>
-    <button id="sat-toggle" class="hud-btn">Satellite</button>
-    <button id="copy-link" class="hud-btn">Copy link</button>
-  </div>
+    <button id="sat-toggle" class="hud-btn" type="button">Satellite</button>
+    <button id="copy-link" class="hud-btn" type="button">Copy link</button>
+  </section>
 
-  <!-- Filter + directory sidebar -->
   <aside class="map-sidebar" id="map-sidebar" aria-label="Map filters and directory">
-    <div class="sidebar-header" id="sidebar-header">
+    <header class="sidebar-header" id="sidebar-header">
       <div class="sidebar-header-top">
         <span class="sidebar-title">Filter records</span>
         <button type="button" id="show-all">Show all</button>
       </div>
       <div class="map-filters" id="map-filters"></div>
-    </div>
+    </header>
+    
     <div class="sidebar-search">
-      <input type="search" id="map-search" placeholder="Search name, city, developer…" autocomplete="off" spellcheck="false">
+      <input type="search" id="map-search" placeholder="Search name, city, developer…" autocomplete="off" spellcheck="false" aria-label="Search records">
       <div id="search-results" class="search-results" hidden></div>
     </div>
+    
     <div class="sidebar-dir-head">Directory</div>
-    <div class="map-directory" id="map-directory"></div>
+    <main class="map-directory" id="map-directory"></main>
   </aside>
 
-  <!-- Mobile sidebar toggle -->
-  <button class="sidebar-toggle" id="sidebar-toggle" aria-controls="map-sidebar" aria-expanded="false">
+  <button class="sidebar-toggle" id="sidebar-toggle" aria-controls="map-sidebar" aria-expanded="false" type="button">
     Filter &amp; Directory ↑
   </button>
 
-  <!-- Legend -->
   <div class="hud-legend" id="hud-legend" aria-hidden="true"></div>
 
-  <!-- Map -->
-  <div id="map" aria-label="Interactive map of Michigan data center records"></div>
-
-  <!-- Scroll hint -->
-  <p class="scroll-hint">Hold <kbd>Shift</kbd> + scroll to zoom</p>
-
-  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
-  <script src="content-data.js"></script>
-  <script src="map.js"></script>
-</body>
-</html>
+  <main id="map" aria-label="Interactive map of Michigan data center records"></main>
