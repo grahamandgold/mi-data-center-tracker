@@ -209,10 +209,12 @@
         ));
       })
       .catch(() => {
+        const grid = $("#public-grid");
+        if (!grid) return;
         const notice = document.createElement("p");
         notice.className = "feed-notice";
         notice.textContent = "Live social feed is temporarily unavailable; showing the latest editorial snapshot.";
-        publicGrid.before(notice);
+        grid.before(notice);
       });
   }
 
