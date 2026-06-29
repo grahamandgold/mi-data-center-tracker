@@ -10,7 +10,7 @@
 
   async function loadMapData() {
     try {
-      const res = await fetch("map-data.json?v=20260629q", { cache: "no-store" });
+      const res = await fetch("map-data.json?v=20260630a", { cache: "no-store" });
       if (!res.ok) throw new Error(`map-data.json HTTP ${res.status}`);
       const json = await res.json();
       if (!json.map_points?.length) throw new Error("map-data.json has no map_points");
@@ -218,7 +218,15 @@
 
     const boundaryGroups = {}, boundaryLabelGroups = {}, boundaryCache = {}, boundaryLoading = {};
     const overlayGroups = {}, overlayCache = {}, overlayLoading = {};
-    const GEO_VERSION = "20260629m";
+    const GEO_VERSION = "20260630a";
+    const WATER_VERSION = "20260630a";
+    const lakeLevelsMeta = data.lake_levels || [];
+    const liveMapLinks = data.live_map_links || [];
+    const liveWater = {
+      lakeLevels: new Map(),
+      buoys: new Map(),
+      updatedAt: null
+    };
 
     function outerRing(geom) {
       if (!geom) return [];
@@ -328,10 +336,24 @@
       syncUrl();
     }
 
+    function buoyLive(station) {
+      return liveWater.buoys.get(String(station || ""));
+    }
+
+    function buoyTempDisplay(station) {
+      const live = buoyLive(station);
+      return live?.display || "—";
+    }
+
     function makeOverlayPopup(props, meta) {
       const c = meta.color || "#38bdf8";
       const title = props.name || props.label || meta.label;
       const rows = [];
+      if (props.code) rows.push(`<div class="pop-row"><span class="pop-label">Code</span><span class="pop-val">${esc(props.code)}</span></div>`);
+      if (props.station && meta.live_data === "buoys") {
+        rows.push(`<div class="pop-row"><span class="pop-label">Station</span><span class="pop-val">${esc(props.station)}</span></div>`);
+        rows.push(`<div class="pop-row"><span class="pop-label">Surface temp</span><span class="pop-val">${esc(buoyTempDisplay(props.station))}</span></div>`);
+      }
       if (props.category) {
         const catLbl = meta.category_labels?.[props.category];
         rows.push(`<div class="pop-row"><span class="pop-label">EGLE class</span><span class="pop-val">${esc(props.category)}${catLbl ? ` — ${esc(catLbl)}` : ""}</span></div>`);
@@ -341,8 +363,8 @@
       if (props.voltage_class) rows.push(`<div class="pop-row"><span class="pop-label">Voltage</span><span class="pop-val">${esc(props.voltage_class)} kV class</span></div>`);
       if (props.owner) rows.push(`<div class="pop-row"><span class="pop-label">Owner</span><span class="pop-val">${esc(props.owner)}</span></div>`);
       if (props.county) rows.push(`<div class="pop-row"><span class="pop-label">County</span><span class="pop-val">${esc(props.county)}</span></div>`);
-      const note = props.note || props.label;
-      return `<div class="map-popup"><div class="pop-header" style="--status:${c}"><span class="pop-status">${esc(meta.label)}</span><div class="pop-name">${esc(title)}</div></div><div class="pop-body">${rows.join("")}${note && note !== title ? `<p class="pop-note">${esc(note)}</p>` : ""}</div>${meta.source_url ? `<div class="pop-footer"><a class="pop-source" href="${safeUrl(meta.source_url)}" target="_blank" rel="noopener">${esc(meta.source_name || "Source")} ↗</a></div>` : ""}</div>`;
+      const note = props.note || (props.label && props.label !== title ? props.label : "");
+      return `<div class="map-popup"><div class="pop-header" style="--status:${c}"><span class="pop-status">${esc(meta.label)}</span><div class="pop-name">${esc(title)}</div></div><div class="pop-body">${rows.join("")}${note ? `<p class="pop-note">${esc(note)}</p>` : ""}</div>${meta.source_url ? `<div class="pop-footer"><a class="pop-source" href="${safeUrl(meta.source_url)}" target="_blank" rel="noopener">${esc(meta.source_name || "Source")} ↗</a></div>` : ""}</div>`;
     }
 
     function overlayFeatureStyle(meta, props = {}) {
@@ -370,13 +392,41 @@
       return geo;
     }
 
-    function waterIcon(color) {
+    function overlayIcon(meta) {
+      const color = meta.color || "#38bdf8";
+      const type = meta.icon_type || "water";
+      const svg = {
+        water: `<svg class="water-pin" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24"><path d="M12 2c-3 4-7 7.5-7 12a7 7 0 1014 0C19 9.5 15 6 12 2z" fill="${color}" stroke="#fff" stroke-width="1.4"/></svg>`,
+        buoy: `<svg class="buoy-pin" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8" fill="${color}" stroke="#fff" stroke-width="1.4"/><circle cx="12" cy="12" r="3" fill="#0b0b0d" stroke="#fff" stroke-width="1"/><path d="M12 4v3M12 17v3M4 12h3M17 12h3" stroke="#fff" stroke-width="1.2" stroke-linecap="round"/></svg>`,
+        airport: `<svg class="airport-pin" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24"><path d="M10.5 13.5L3 10l1.5-1.2 6 1.8V4.5L8.5 3v2.2L3 5.5 1.5 4.3 12 2l10.5 2.3L21 5.5l-5.5 1V3L13.5 4.5v7.1l6-1.8L21 10l-7.5 3.5L14 20h-4l-1.5-6.5z" fill="${color}" stroke="#fff" stroke-width="0.8"/></svg>`,
+        substation: `<svg class="substation-pin" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24"><rect x="4" y="5" width="16" height="14" rx="1.5" fill="${color}" stroke="#fff" stroke-width="1.3"/><path d="M13 8l-4 7h3l-1 5 6-9h-3l2-3z" fill="#0b0b0d" stroke="#fff" stroke-width="0.6"/></svg>`
+      };
       return L.divIcon({
-        html: `<svg class="water-pin" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24"><path d="M12 2c-3 4-7 7.5-7 12a7 7 0 1014 0C19 9.5 15 6 12 2z" fill="${color}" stroke="#fff" stroke-width="1.4"/></svg>`,
+        html: svg[type] || svg.water,
         className: "map-pin",
         iconSize: [22, 22],
         iconAnchor: [11, 11],
         popupAnchor: [0, -11]
+      });
+    }
+
+    function bindBuoyLive(layer, props, meta) {
+      const label = props.name || props.label || "NOAA buoy";
+      const tip = () => `${label} · ${buoyTempDisplay(props.station)} surface`;
+      layer.bindTooltip(tip(), { className: "boundary-tip", sticky: true, opacity: 0.95 });
+      layer.on("popupopen", () => layer.setPopupContent(makeOverlayPopup(props, meta)));
+    }
+
+    function refreshBuoyLiveLayers() {
+      const group = overlayGroups.noaa_buoys;
+      const meta = overlayLayersMeta.find(o => o.id === "noaa_buoys");
+      if (!group || !meta) return;
+      group.eachLayer(layer => {
+        const props = layer.feature?.properties;
+        if (!props?.station) return;
+        const label = props.name || props.label || "NOAA buoy";
+        layer.setTooltipContent(`${label} · ${buoyTempDisplay(props.station)} surface`);
+        if (layer.isPopupOpen?.()) layer.setPopupContent(makeOverlayPopup(props, meta));
       });
     }
 
@@ -398,6 +448,10 @@
               layer.bindTooltip(tip, { className: "boundary-tip", sticky: true });
             } else if (meta.geometry_type === "point") {
               layer.bindPopup(makeOverlayPopup(props, meta), { maxWidth: 320, className: "tracker-popup" });
+              if (meta.live_data === "buoys" && props.station) bindBuoyLive(layer, props, meta);
+              else if (props.name || props.label) {
+                layer.bindTooltip(props.name || props.label, { className: "boundary-tip", sticky: true, opacity: 0.95 });
+              }
             }
           }
         };
@@ -405,7 +459,7 @@
           opts.className = "tx-grid-glow";
         }
         if (meta.geometry_type === "point") {
-          opts.pointToLayer = (feature, latlng) => L.marker(latlng, { icon: waterIcon(meta.color), interactive: true });
+          opts.pointToLayer = (feature, latlng) => L.marker(latlng, { icon: overlayIcon(meta), interactive: true });
         }
         overlayGroups[meta.id] = L.geoJSON(geo, opts);
         refreshOverlays();
@@ -511,9 +565,10 @@
     const LOWER_PENINSULA_BOUNDS = L.latLngBounds([41.72, -87.38], [45.68, -82.12]);
 
     function fitLowerPeninsula({ duration } = {}) {
+      const chromePad = lakeLevelsMeta.length ? 28 : 0;
       const opts = isMobile()
-        ? { paddingTopLeft: [118, 24], paddingBottomRight: [100, 24], maxZoom: 7 }
-        : { paddingTopLeft: [112, 340], paddingBottomRight: [64, 64], maxZoom: 7 };
+        ? { paddingTopLeft: [118, 24 + chromePad], paddingBottomRight: [100, 24], maxZoom: 7 }
+        : { paddingTopLeft: [112, 340 + chromePad], paddingBottomRight: [64, 64], maxZoom: 7 };
       if (duration != null) map.flyToBounds(LOWER_PENINSULA_BOUNDS, { ...opts, duration });
       else map.fitBounds(LOWER_PENINSULA_BOUNDS, opts);
     }
@@ -573,6 +628,79 @@
       ).join("");
     }
 
+    function formatLakeLevel(val) {
+      if (val == null || !Number.isFinite(val)) return "—";
+      return `${val.toFixed(2)} ft`;
+    }
+
+    function renderLakeStrip() {
+      const el = $("#map-lake-levels");
+      if (!el || !lakeLevelsMeta.length) return;
+      el.innerHTML = lakeLevelsMeta.map((lake, i) => {
+        const live = liveWater.lakeLevels.get(lake.id);
+        const display = live?.display || formatLakeLevel(live?.value);
+        const sep = i < lakeLevelsMeta.length - 1 ? `<span class="lake-sep" aria-hidden="true">|</span>` : "";
+        return `<span class="lake-chip" title="${esc(lake.lake)} — ${esc(lake.name)} gauge"><strong>${esc(display)}</strong>${esc(lake.label)}</span>${sep}`;
+      }).join("");
+    }
+
+    function renderLiveMapLinks() {
+      const el = $("#live-map-links");
+      if (!el || !liveMapLinks.length) return;
+      el.innerHTML = liveMapLinks.map(l =>
+        `<a class="site-nav-link live-map-link" href="${safeUrl(l.href)}" target="_blank" rel="noopener"><strong>${esc(l.label)} ↗</strong><small>${esc(l.desc)}</small></a>`
+      ).join("");
+    }
+
+    function ingestWaterSnapshot(snapshot) {
+      if (!snapshot) return;
+      (snapshot.lake_levels || []).forEach(row => {
+        if (!row?.id) return;
+        liveWater.lakeLevels.set(row.id, row);
+      });
+      (snapshot.buoys || []).forEach(row => {
+        if (!row?.station) return;
+        liveWater.buoys.set(String(row.station), row);
+      });
+      if (snapshot.updated_at) liveWater.updatedAt = snapshot.updated_at;
+    }
+
+    async function fetchNoaaLakeLevel(station) {
+      const url = `https://api.tidesandcurrents.noaa.gov/api/prod/datagetter?product=water_level&datum=IGLD&station=${encodeURIComponent(station)}&time_zone=gmt&units=english&format=json&range=1`;
+      const res = await fetch(url);
+      if (!res.ok) return null;
+      const json = await res.json();
+      const raw = json?.data?.[0]?.v;
+      const val = raw != null ? parseFloat(raw) : null;
+      return Number.isFinite(val) ? val : null;
+    }
+
+    async function refreshLiveWater({ snapshot = true } = {}) {
+      if (snapshot) {
+        try {
+          const res = await fetch(`water-live.json?v=${WATER_VERSION}`, { cache: "no-store" });
+          if (res.ok) ingestWaterSnapshot(await res.json());
+        } catch (err) {
+          console.warn("[map] water-live.json fetch failed", err);
+        }
+      }
+      await Promise.all(lakeLevelsMeta.map(async lake => {
+        if (!lake.station) return;
+        try {
+          const val = await fetchNoaaLakeLevel(lake.station);
+          if (val == null) return;
+          liveWater.lakeLevels.set(lake.id, {
+            ...lake,
+            value: val,
+            unit: "ft IGLD",
+            display: formatLakeLevel(val)
+          });
+        } catch (_) {}
+      }));
+      renderLakeStrip();
+      refreshBuoyLiveLayers();
+    }
+
     function renderLegend() {
       const el = $("#map-legend");
       if (!el) return;
@@ -586,9 +714,15 @@
       const boundaryRows = boundaryLayersMeta.map(b =>
         `<div class="legend-row"><span class="legend-line" style="background:${b.color}"></span>${esc(b.label)}</div>`
       ).join("");
-      const overlayRows = overlayLayersMeta.map(o =>
-        `<div class="legend-row"><span class="legend-line" style="background:${o.color}"></span>${esc(o.label)}</div>`
-      ).join("");
+      const overlayRows = overlayLayersMeta.map(o => {
+        if (o.geometry_type === "point") {
+          return `<div class="legend-row"><span class="legend-swatch" style="background:${o.color}"></span>${esc(o.label)}</div>`;
+        }
+        if (o.geometry_type === "polygon") {
+          return `<div class="legend-row"><span class="legend-swatch" style="background:${o.color}"></span>${esc(o.label)}</div>`;
+        }
+        return `<div class="legend-row"><span class="legend-line" style="background:${o.color}"></span>${esc(o.label)}</div>`;
+      }).join("");
       const aqMeta = overlayLayersMeta.find(o => o.id === "aquifers");
       const aquiferRows = aqMeta?.style_map
         ? Object.entries(aqMeta.style_map).map(([k, s]) => {
@@ -604,7 +738,11 @@
 
     renderSponsors();
     renderSiteLinks();
+    renderLiveMapLinks();
     renderLegend();
+    renderLakeStrip();
+    refreshLiveWater();
+    setInterval(() => refreshLiveWater({ snapshot: true }), 15 * 60 * 1000);
 
     points.forEach(p => {
       const marker = L.marker([p.latitude, p.longitude], { icon: makeIcon(pointColor(p), false, p.layer, p.status), title: p.name });
@@ -725,11 +863,19 @@
     }
 
     if (overlaysEl && overlayLayersMeta.length) {
-      const overlayCounts = { transmission_grid: "1,737", aquifers: "1,388", water_wells: "21" };
+      const overlayCounts = {
+        transmission_grid: "1,737",
+        aquifers: "1,388",
+        water_wells: "21",
+        noaa_buoys: "9",
+        airports: "14",
+        substations: "15"
+      };
       overlaysEl.innerHTML = overlayLayersMeta.map(o => {
         const on = activeOverlays.has(o.id);
         const count = overlayCounts[o.id] || "";
-        return layerRow({ id: o.id, label: o.label, desc: o.description, color: o.color, count, on, line: true });
+        const line = o.geometry_type === "line";
+        return layerRow({ id: o.id, label: o.label, desc: o.description, color: o.color, count, on, line });
       }).join("");
       bindLayerList(overlaysEl, (id, on) => {
         if (isMobile()) openMobilePanel("layers");

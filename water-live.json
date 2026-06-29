@@ -1,0 +1,92 @@
+{
+  "updated_at": "2026-06-30T04:00:00.000000+00:00",
+  "lake_levels": [
+    {
+      "id": "superior",
+      "label": "Superior",
+      "lake": "Lake Superior",
+      "station": "9099018",
+      "name": "Marquette",
+      "value": 601.864,
+      "unit": "ft IGLD",
+      "display": "601.86 ft"
+    },
+    {
+      "id": "michigan",
+      "label": "Michigan",
+      "lake": "Lake Michigan",
+      "station": "9087031",
+      "name": "Holland",
+      "value": 579.59,
+      "unit": "ft IGLD",
+      "display": "579.59 ft"
+    },
+    {
+      "id": "huron",
+      "label": "Huron",
+      "lake": "Lake Huron",
+      "station": "9075014",
+      "name": "Harbor Beach",
+      "value": 579.495,
+      "unit": "ft IGLD",
+      "display": "579.50 ft"
+    },
+    {
+      "id": "erie",
+      "label": "Erie",
+      "lake": "Lake Erie",
+      "station": "9063038",
+      "name": "Erie",
+      "value": 572.336,
+      "unit": "ft IGLD",
+      "display": "572.34 ft"
+    }
+  ],
+  "buoys": [
+    {
+      "station": "45001",
+      "water_temp_f": 6.3,
+      "display": "6.3\u00b0F"
+    },
+    {
+      "station": "45004",
+      "water_temp_f": 6.1,
+      "display": "6.1\u00b0F"
+    },
+    {
+      "station": "45006",
+      "water_temp_f": 8.1,
+      "display": "8.1\u00b0F"
+    },
+    {
+      "station": "45147",
+      "water_temp_f": 20.6,
+      "display": "20.6\u00b0F"
+    },
+    {
+      "station": "45149",
+      "water_temp_f": 19.4,
+      "display": "19.4\u00b0F"
+    },
+    {
+      "station": "45005",
+      "water_temp_f": null,
+      "display": "\u2014"
+    },
+    {
+      "station": "45008",
+      "water_temp_f": null,
+      "display": "\u2014"
+    },
+    {
+      "station": "45002",
+      "water_temp_f": 18.4,
+      "display": "18.4\u00b0F"
+    },
+    {
+      "station": "45007",
+      "water_temp_f": null,
+      "display": "\u2014"
+    }
+  ]
+}

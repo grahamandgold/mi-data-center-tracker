@@ -1154,6 +1154,22 @@
       "note": "Northern Michigan combined-cycle plant serving co-op members."
     },
     {
+      "name": "Presque Isle Power Plant",
+      "municipality": "Marquette",
+      "county": "Marquette",
+      "status": "Coal",
+      "layer": "generation",
+      "developer": "Wolverine Power Cooperative",
+      "power_mw": "431",
+      "latitude": 46.568,
+      "longitude": -87.395,
+      "source_url": "https://www.michiganpublic.org/environment-climate-change/2025-12-17/palisades-nuclear-plant-restart-plans-pushed-back-to-early-2026",
+      "source_name": "Michigan Public",
+      "verified_date": "2026-06-01",
+      "confidence": "Confirmed",
+      "note": "UP coal plant on Lake Superior. Only generation site in Upper Peninsula on this map."
+    },
+    {
       "name": "Zeeland Generating Station",
       "municipality": "Zeeland",
       "county": "Ottawa",
@@ -1591,9 +1607,62 @@
       "url": "geo/mi-water-sources.geojson",
       "default_on": false,
       "min_zoom": 7,
+      "icon_type": "water",
       "source_name": "Michigan utilities / EGLE",
       "source_url": "https://www.michigan.gov/egle/about/organization/geologic-resources-management/resources-and-data"
+    },
+    {
+      "id": "noaa_buoys",
+      "label": "NOAA buoys",
+      "description": "Great Lakes observing buoys — hover for surface water temp (°F)",
+      "geometry_type": "point",
+      "color": "#22d3ee",
+      "url": "geo/mi-noaa-buoys.geojson",
+      "default_on": false,
+      "min_zoom": 6,
+      "icon_type": "buoy",
+      "live_data": "buoys",
+      "source_name": "NOAA NDBC",
+      "source_url": "https://www.ndbc.noaa.gov/"
+    },
+    {
+      "id": "airports",
+      "label": "Commercial airports",
+      "description": "14 public-use commercial airports — orientation anchors",
+      "geometry_type": "point",
+      "color": "#94a3b8",
+      "url": "geo/mi-airports.geojson",
+      "default_on": false,
+      "min_zoom": 6,
+      "icon_type": "airport",
+      "source_name": "FAA / public data",
+      "source_url": "https://www.faa.gov/"
+    },
+    {
+      "id": "substations",
+      "label": "Major substations",
+      "description": "15 curated grid nodes at plants & corridors",
+      "geometry_type": "point",
+      "color": "#fbbf24",
+      "url": "geo/mi-substations.geojson",
+      "default_on": false,
+      "min_zoom": 7,
+      "icon_type": "substation",
+      "source_name": "Curated from utility filings",
+      "source_url": "https://hifld-geoplatform.opendata.arcgis.com/"
     }
+  ],
+  "lake_levels": [
+    { "id": "superior", "label": "Superior", "lake": "Lake Superior", "station": "9099018", "name": "Marquette" },
+    { "id": "michigan", "label": "Michigan", "lake": "Lake Michigan", "station": "9087031", "name": "Holland" },
+    { "id": "huron", "label": "Huron", "lake": "Lake Huron", "station": "9075014", "name": "Harbor Beach" },
+    { "id": "erie", "label": "Erie", "lake": "Lake Erie", "station": "9063038", "name": "Erie" }
+  ],
+  "live_map_links": [
+    { "label": "Live ship traffic", "href": "https://ais.boatnerd.com/", "desc": "BoatNerd AIS — Great Lakes vessels" },
+    { "label": "GLOS Seagull", "href": "https://glos.org/seagull/", "desc": "Buoys, temps & lake obs" },
+    { "label": "NOAA lake levels", "href": "https://www.glerl.noaa.gov/data/now/wlevels/dbd/", "desc": "Official Great Lakes levels" },
+    { "label": "ITC corridor map", "href": "https://www.mifuturegrid.com/oneida-sabine-lake/", "desc": "Oneida–Sabine transmission" }
   ],
   "transmission_lines": [
     {
