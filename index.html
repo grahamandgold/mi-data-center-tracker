@@ -575,30 +575,47 @@
   </section>
     <!-- Tracker Status removed -->
 
-  <!-- What's New This Week -->
-  <div class="whats-new-bar">
-    <div class="whats-new-inner">
-      <span class="whats-new-label">This week</span>
-      <div class="whats-new-items">
-        <span>⚡ Wixom public hearing on data center zoning — Jun 29</span>
-        <span class="wnb-dot">·</span>
-        <span>🏛 MPSC open meeting on power contracts — Jul 10</span>
-        <span class="wnb-dot">·</span>
-        <span>📍 19+ Michigan communities now under moratorium</span>
+  <!-- Key Meetings Strip -->
+  <div class="key-meetings-bar">
+    <div class="key-meetings-inner">
+      <span class="km-label">Key meetings</span>
+      <div class="km-items">
+        <a class="km-item" href="#meetings">
+          <span class="km-date">Jun 29</span>
+          <span class="km-title">Wixom Planning Commission — Data Center Zoning Hearing</span>
+          <span class="km-county">Oakland Co.</span>
+        </a>
+        <span class="km-divider"></span>
+        <a class="km-item" href="#meetings">
+          <span class="km-date">Jul 10</span>
+          <span class="km-title">Michigan Public Service Commission — Open Meeting</span>
+          <span class="km-county">Ingham Co.</span>
+        </a>
+        <span class="km-divider"></span>
+        <a class="km-item" href="#meetings">
+          <span class="km-date">Jul 7–9</span>
+          <span class="km-title">Lyon · Pittsfield · Saline · Lenox township boards</span>
+          <span class="km-county">4 counties</span>
+        </a>
       </div>
+      <a class="km-all" href="#meetings">All meetings →</a>
     </div>
   </div>
 
-    <section class="section section-meetings" id="meetings" aria-labelledby="meetings-heading">
-      <div class="meeting-banner">
-        <div class="meeting-video-scrim" aria-hidden="true"></div>
+    <section class="section public-monitor" id="public-monitor" aria-labelledby="public-heading">
+      <div class="section-heading">
         <div>
-          <span class="eyebrow eyebrow-light">Public calendar</span>
-          <h2 id="meetings-heading">Meetings &amp; hearings</h2>
+          <span class="eyebrow">Public-source monitor</span>
+          <h2 id="public-heading">What officials, utilities and communities are posting</h2>
         </div>
       </div>
-      <div class="meeting-list" id="meeting-list"></div>
+      <div class="editorial-note">
+        <strong>Context, not endorsement.</strong>
+        <span>Posts below are selected because they document the public debate. Views belong to their authors. We link to the original post whenever available.</span>
+      </div>
+      <div class="public-grid" id="public-grid"></div>
     </section>
+
 
     <section class="section regions-section" id="regions" aria-labelledby="regions-heading">
       <div class="section-heading">
@@ -613,18 +630,15 @@
     </section>
 
 
-    <section class="section public-monitor" id="public-monitor" aria-labelledby="public-heading">
-      <div class="section-heading">
+    <section class="section section-meetings" id="meetings" aria-labelledby="meetings-heading">
+      <div class="meeting-banner">
+        <div class="meeting-video-scrim" aria-hidden="true"></div>
         <div>
-          <span class="eyebrow">Public-source monitor</span>
-          <h2 id="public-heading">What officials, utilities and communities are posting</h2>
+          <span class="eyebrow eyebrow-light">Public calendar</span>
+          <h2 id="meetings-heading">Meetings &amp; hearings</h2>
         </div>
       </div>
-      <div class="editorial-note">
-        <strong>Context, not endorsement.</strong>
-        <span>Posts below are selected because they document the public debate. Views belong to their authors. We link to the original post whenever available.</span>
-      </div>
-      <div class="public-grid" id="public-grid"></div>
+      <div class="meeting-list" id="meeting-list"></div>
     </section>
 
     <!-- Tip submission in-page CTA -->
