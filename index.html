@@ -434,15 +434,12 @@
       padding: 0 32px;
       height: 100%;
       position: relative;
-      display: flex;
-      align-items: center;
     }
     .ticker-live-dot {
       width: 7px; height: 7px;
       border-radius: 50%;
       background: var(--red);
       flex-shrink: 0;
-      margin-right: 14px;
       animation: km-pulse 1.8s ease-in-out infinite;
     }
     .ticker-msg {
@@ -565,9 +562,8 @@
   <!-- How-we-verify methodology strip -->
   <div class="ticker-bar">
     <div class="ticker-inner">
-      <span class="ticker-live-dot" aria-hidden="true"></span>
-      <span class="ticker-msg ticker-msg-active">Independent &middot; Aggregated &middot; Nonpartisan</span>
-      <span class="ticker-msg"><strong>How we verify</strong> Public records, meeting agendas, official statements and linked reporting. <a href="methodology.html">Full methodology →</a></span>
+      <span class="ticker-msg ticker-msg-active"><span class="ticker-live-dot" aria-hidden="true"></span>Independent &middot; Aggregated &middot; Nonpartisan</span>
+      <span class="ticker-msg"><span class="ticker-live-dot" aria-hidden="true"></span><strong>How we verify</strong> Public records, meeting agendas, official statements and linked reporting. <a href="methodology.html">Full methodology →</a></span>
     </div>
   </div>
   <script>
