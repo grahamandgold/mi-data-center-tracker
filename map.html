@@ -567,8 +567,7 @@
       // Step 1: Load Leaflet
       var lfScript = document.createElement("script");
       lfScript.src = "https://unpkg.com/leaflet@1.9.4/dist/leaflet.js";
-      lfScript.integrity = "sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV/XN/WLs=";
-      lfScript.crossOrigin = "";
+      // No integrity attr on dynamic scripts — SRI blocks execution silently
       lfScript.onload = function() {
         // Step 2: Fetch data
         fetch("data.json?v=20260628b")
