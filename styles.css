@@ -134,7 +134,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, [tabindex]:focus-vis
   border: 0;
   background: transparent;
 }
-.menu-button span { width: 30px; height: 3px; background: #fff; }
+.menu-button span { width: 26px; height: 2.5px; background: #fff; border-radius: 2px; }
 .wordmark { display: block; width: min(340px, 32vw); }
 .wordmark img {
   display: block;
@@ -176,6 +176,15 @@ a:focus-visible, button:focus-visible, input:focus-visible, [tabindex]:focus-vis
   height: 48px;
   padding: 0 20px;
   gap: 0;
+}
+.nav-site-name {
+  display: none;
+  color: #fff;
+  font-size: .62rem;
+  font-weight: 900;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  white-space: nowrap;
 }
 .nav-wordmark {
   display: block;
@@ -532,12 +541,12 @@ main, .site-footer { max-width: var(--max); margin: 0 auto; background: var(--pa
   .map-promo-stats { display: grid; grid-template-columns: repeat(3, 1fr); }
   .map-promo-stats div { padding-right: 15px; }
   .commercial-strip { grid-template-columns: 1fr; }
-  /* Nav: collapse to hamburger + logo bar */
+  /* Nav: collapse to hamburger bar */
   .primary-nav { position: sticky; top: 0; z-index: 100; background: #0b0b0d; }
-  .primary-nav-inner { height: 48px; padding: 0 14px; display: flex; align-items: center; justify-content: space-between; }
-  .menu-button { display: grid; }
-  .nav-wordmark { display: flex; }
-  .nav-wordmark img { width: 110px; }
+  .primary-nav-inner { height: 52px; padding: 0 16px; display: flex; align-items: center; gap: 12px; }
+  .menu-button { display: grid; width: 48px; height: 48px; gap: 5px; }
+  .nav-wordmark { display: none; }
+  .nav-site-name { display: block; }
   .nav-links { display: none; }
   .nav-briefing { display: none; }
   .primary-nav .live-map-link { display: none; }
