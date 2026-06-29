@@ -267,7 +267,7 @@ main, .site-footer { max-width: var(--max); margin: 0 auto; background: var(--pa
   display: flex;
   align-items: stretch;
   gap: 0;
-  min-height: 52px;
+  min-height: 48px;
 }
 .km-label {
   font-size: .58rem;
