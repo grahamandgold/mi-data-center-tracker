@@ -1,4 +1,4 @@
-/* Michigan Data Center Tracker — shared premium site chrome (v22) */
+/* Michigan Data Center Tracker — shared premium site chrome (v23) */
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap");
 
 :root {
@@ -474,13 +474,266 @@
   color: #fff;
 }
 
+/* Layout overrides — full-bleed chrome on multi-page site */
+.site-page {
+  background: var(--paper);
+  padding-bottom: 0;
+}
+
+.site-page main,
+.site-page .site-footer {
+  max-width: none;
+  width: 100%;
+  margin: 0;
+}
+
+.site-page .commercial-strip {
+  display: block;
+  max-width: none;
+}
+
+.site-page .commercial-strip--solo {
+  border-top: 3px solid var(--red);
+}
+
+.site-page .commercial-strip .briefing-card {
+  max-width: var(--max);
+  margin: 0 auto;
+}
+
+/* Nav — live map is the right-rail CTA, not duplicated in link row */
+.site-page .live-map-link {
+  margin-left: auto;
+  padding: 8px 14px;
+  border: 1px solid rgba(255, 255, 255, .14);
+  background: rgba(255, 255, 255, .04);
+  border-radius: var(--radius);
+  transition: border-color .2s, background .2s, color .2s;
+}
+
+.site-page .live-map-link:hover,
+.site-page .live-map-link:focus-visible {
+  border-color: rgba(207, 16, 45, .45);
+  background: rgba(207, 16, 45, .12);
+  color: #fff;
+}
+
+.site-page .live-map-link.is-active {
+  border-color: rgba(207, 16, 45, .55);
+  background: rgba(207, 16, 45, .18);
+  color: #fff;
+  box-shadow: inset 0 -2px 0 var(--red);
+}
+
+.site-page .nav-briefing {
+  margin-left: 10px;
+}
+
+/* Tip / callout cards */
+.tip-card {
+  margin-top: 28px;
+  padding: 22px 24px;
+  background: var(--wash);
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--red);
+}
+
+.tip-card-kicker {
+  display: block;
+  margin-bottom: 6px;
+  font-size: .62rem;
+  font-weight: 900;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--red);
+}
+
+.tip-card p {
+  margin: 0 0 12px;
+  font-size: .88rem;
+  line-height: 1.5;
+  color: var(--text);
+}
+
+.method-note {
+  margin-top: 28px;
+  font-size: .88rem;
+  line-height: 1.55;
+  color: var(--muted);
+}
+
+/* Sponsor strip (homepage) */
+.sponsor-strip {
+  padding: 32px 0 40px;
+  background: var(--wash);
+  border-top: 1px solid var(--line);
+  text-align: center;
+}
+
+.sponsor-strip p {
+  margin: 0 0 12px;
+  font-size: .88rem;
+  color: var(--muted);
+}
+
+/* Privacy */
+.privacy-narrow {
+  max-width: 720px;
+}
+
+.privacy-stack {
+  display: grid;
+  gap: 14px;
+}
+
+/* Learn — two-column library */
+.learn-grid-premium {
+  grid-template-columns: repeat(2, 1fr);
+  gap: 14px;
+}
+
+.learn-card {
+  transition: border-color .2s, box-shadow .2s;
+}
+
+.learn-card:hover {
+  border-color: rgba(207, 16, 45, .28);
+  box-shadow: 0 6px 24px rgba(11, 11, 13, .06);
+}
+
+/* Placement cards */
+.placement-card {
+  transition: border-color .2s, box-shadow .2s, transform .2s;
+}
+
+.placement-card:hover {
+  border-color: rgba(207, 16, 45, .3);
+  box-shadow: 0 8px 28px rgba(11, 11, 13, .07);
+  transform: translateY(-1px);
+}
+
+.placement-card strong {
+  font-size: .86rem;
+  font-weight: 800;
+}
+
+.sponsor-cta-band .sponsor-disc {
+  color: rgba(255, 255, 255, .48);
+}
+
+.sponsor-cta-band .button-red {
+  min-width: 200px;
+}
+
+/* Stories — regions panel */
+.regions-stage-premium {
+  border: 1px solid var(--line);
+  overflow: hidden;
+  background: #fff;
+  box-shadow: 0 12px 40px rgba(11, 11, 13, .04);
+}
+
+.site-page .regions-stage .region-tabs {
+  background: var(--wash);
+}
+
+.site-page .regions-stage .region-panel {
+  background: #fff;
+}
+
+/* Meetings on subpages */
+.site-page .meeting-card {
+  padding-left: 28px;
+  padding-right: 28px;
+}
+
+.site-page .meeting-section-note {
+  padding-left: 28px;
+  padding-right: 28px;
+}
+
+/* Empty states */
+.site-page .empty-state {
+  padding: 28px 24px;
+  background: var(--wash);
+  border: 1px dashed var(--line);
+  border-left: 3px solid var(--red);
+}
+
+.site-page .empty-state strong {
+  font-size: .78rem;
+  font-weight: 800;
+  color: var(--ink);
+}
+
+.site-page .empty-state p {
+  font-size: .86rem;
+  line-height: 1.5;
+}
+
+/* Footer — full width, consistent padding */
+.site-page .site-footer {
+  padding: 40px 28px 28px;
+}
+
+.site-page .footer-top {
+  max-width: var(--max);
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 32px;
+}
+
+.site-page .footer-bottom {
+  max-width: var(--max);
+  margin: 28px auto 0;
+  padding-top: 20px;
+  border-top: 1px solid #25262a;
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  font-size: .68rem;
+  color: #8b919e;
+}
+
+.site-page .footer-top nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 10px 18px;
+  font-size: .68rem;
+  font-weight: 800;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+}
+
+/* Page section eyebrow alignment */
+.page-section-head .eyebrow {
+  font-size: .62rem;
+  letter-spacing: .18em;
+}
+
 @media (max-width: 900px) {
   .page-hero-inner,
   .page-wrap,
   .home-hub-inner { padding-left: 16px; padding-right: 16px; }
   .home-hub-grid,
   .method-grid,
-  .placement-grid-premium { grid-template-columns: 1fr; }
+  .placement-grid-premium,
+  .learn-grid-premium { grid-template-columns: 1fr; }
   .page-hero-inner { padding-top: 28px; padding-bottom: 24px; }
   .page-section { padding: 28px 0 32px; }
+  .site-page .meeting-card,
+  .site-page .meeting-section-note { padding-left: 16px; padding-right: 16px; }
+  .site-page .site-footer { padding: 32px 16px 24px; }
+  .site-page .footer-top,
+  .site-page .footer-bottom { display: block; }
+  .site-page .footer-top nav {
+    justify-content: flex-start;
+    margin-top: 20px;
+    gap: 8px 14px;
+  }
+  .site-page .footer-bottom p + time,
+  .site-page .footer-bottom time + p { margin-top: 12px; display: block; }
 }

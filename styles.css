@@ -254,6 +254,8 @@ a:focus-visible, button:focus-visible, input:focus-visible, [tabindex]:focus-vis
 }
 
 main, .site-footer { max-width: var(--max); margin: 0 auto; background: var(--paper); }
+.site-page main,
+.site-page .site-footer { max-width: none; width: 100%; margin: 0; }
 .status-rail {
   display: grid;
   grid-template-columns: 200px 1fr;

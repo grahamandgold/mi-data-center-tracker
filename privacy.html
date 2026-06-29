@@ -7,21 +7,49 @@
   <title>Privacy | Michigan Data Center Tracker</title>
   <meta name="description" content="Privacy notice for Michigan Data Center Tracker email alerts.">
   <link rel="icon" href="favicon.png" type="image/png">
-  <link rel="stylesheet" href="styles.css?v=20260704a">
-  <link rel="stylesheet" href="tracker-site.css?v=20260704a">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+  <link rel="stylesheet" href="styles.css?v=20260704b">
+  <link rel="stylesheet" href="tracker-site.css?v=20260704b">
 </head>
 <body class="site-page" data-page="learn">
   <a class="skip-link" href="#main">Skip to content</a>
 
+  <div class="drawer-shade" data-drawer-close></div>
+  <aside class="drawer" id="site-drawer" role="dialog" aria-modal="true" aria-label="Site menu" aria-hidden="true">
+    <button class="drawer-close" type="button" data-drawer-close aria-label="Close menu">×</button>
+    <a class="drawer-brand" href="index.html" aria-label="Michigan Data Center Tracker home">
+      <img src="brand-logo-light.png" alt="">
+    </a>
+    <nav aria-label="Mobile navigation">
+      <a href="index.html">Home</a>
+      <a href="map.html">Live map</a>
+      <a href="stories.html">Stories</a>
+      <a href="meetings.html">Meetings</a>
+      <a href="learn.html">Learn</a>
+      <a href="sponsorship.html">Sponsorship</a>
+      <a href="index.html#briefing">Email alerts</a>
+    </nav>
+    <a class="button button-red drawer-briefing" href="index.html#briefing">Sign up now</a>
+  </aside>
+
   <nav class="primary-nav" aria-label="Primary navigation">
     <div class="primary-nav-inner">
-      <a class="nav-wordmark" href="index.html"><img src="brand-logo-light.png" alt="" width="1934" height="604"></a>
+      <button class="menu-button" type="button" data-drawer-open aria-controls="site-drawer" aria-expanded="false" aria-label="Open menu">
+        <span></span><span></span><span></span>
+      </button>
+      <a class="nav-wordmark" href="index.html" aria-label="Michigan Data Center Tracker home">
+        <img src="brand-logo-light.png" alt="" width="1934" height="604">
+      </a>
       <div class="nav-links">
         <a href="index.html">Home</a>
-        <a href="map.html">Live map</a>
+        <a href="stories.html">Stories</a>
+        <a href="meetings.html">Meetings</a>
         <a href="learn.html">Learn</a>
+        <a href="sponsorship.html">Sponsor</a>
       </div>
       <a class="live-map-link" href="map.html"><span class="live-dot"></span>Live map</a>
+      <a class="nav-alerts-mobile" href="index.html#briefing">Alerts</a>
+      <a class="button button-red nav-briefing" href="index.html#briefing">Sign up</a>
     </div>
   </nav>
 
@@ -35,27 +63,50 @@
 
   <main class="page-body" id="main">
     <section class="page-section">
-      <div class="page-wrap" style="max-width:720px;">
-        <div class="learn-card" style="margin-bottom:14px;">
-          <h3>What we collect</h3>
-          <p>When you subscribe, we collect your email address, name and ZIP code to send Michigan data center briefings and improve regional relevance.</p>
-        </div>
-        <div class="learn-card" style="margin-bottom:14px;">
-          <h3>How we use it</h3>
-          <p>Your information is used only to deliver tracker emails and related service messages. We do not sell subscriber data.</p>
-        </div>
-        <div class="learn-card">
-          <h3>Unsubscribe</h3>
-          <p>Every email includes an unsubscribe link. You may also contact <a href="mailto:michigandatacentertracker@gmail.com">michigandatacentertracker@gmail.com</a>.</p>
+      <div class="page-wrap privacy-narrow">
+        <div class="privacy-stack">
+          <article class="learn-card">
+            <h3>What we collect</h3>
+            <p>When you subscribe, we collect your email address, name and ZIP code to send Michigan data center briefings and improve regional relevance.</p>
+          </article>
+          <article class="learn-card">
+            <h3>How we use it</h3>
+            <p>Your information is used only to deliver tracker emails and related service messages. We do not sell subscriber data.</p>
+          </article>
+          <article class="learn-card">
+            <h3>Unsubscribe</h3>
+            <p>Every email includes an unsubscribe link. You may also contact <a href="mailto:michigandatacentertracker@gmail.com">michigandatacentertracker@gmail.com</a>.</p>
+          </article>
         </div>
       </div>
     </section>
   </main>
 
   <footer class="site-footer">
-    <div class="footer-bottom" style="margin-top:0;padding-top:24px;border-top:0;">
+    <div class="footer-top">
+      <div class="footer-brand-block">
+        <a class="footer-brand" href="index.html">Michigan Data Center Tracker</a>
+        <p class="footer-tag">Independent public-source tracking</p>
+      </div>
+      <nav aria-label="Footer navigation">
+        <a href="index.html">Home</a>
+        <a href="map.html">Live map</a>
+        <a href="stories.html">Stories</a>
+        <a href="meetings.html">Meetings</a>
+        <a href="learn.html">Learn</a>
+        <a href="methodology.html">Methodology</a>
+        <a href="sponsorship.html">Sponsor</a>
+        <a href="privacy.html">Privacy</a>
+      </nav>
+    </div>
+    <div class="footer-bottom">
       <p class="footer-copy">© 2026 Michigan Data Center Tracker</p>
+      <time class="footer-updated" id="footer-updated"></time>
     </div>
   </footer>
+
+  <script src="content-data.js?v=20260704b"></script>
+  <script src="app.js?v=20260704b"></script>
+  <script src="site-chrome.js?v=20260704b"></script>
 </body>
 </html>
