@@ -878,28 +878,9 @@
     <main id="map" aria-label="Interactive map of Michigan data center records"></main>
   </div>
 
-  <script>
-    (function() {
-      function load(src) {
-        return new Promise((resolve, reject) => {
-          const s = document.createElement("script");
-          s.src = src;
-          s.onload = resolve;
-          s.onerror = reject;
-          document.body.appendChild(s);
-        });
-      }
-      load("https://unpkg.com/leaflet@1.9.4/dist/leaflet.js")
-        .then(() => load("https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"))
-        .then(() => load("content-data.js?v=20260629c"))
-        .then(() => load("map-points-data.js?v=20260629c"))
-        .then(() => load("map-layers-data.js?v=20260629c"))
-        .then(() => load("map.js?v=20260629c"))
-        .catch(() => {
-          window.TRACKER_DATA = window.TRACKER_DATA || { map_points: [], updated_at: null };
-          return load("map.js?v=20260629c");
-        });
-    })();
-  </script>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+  <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js" crossorigin=""></script>
+  <script src="content-data.js?v=20260629d"></script>
+  <script src="map.js?v=20260629d"></script>
 </body>
 </html>

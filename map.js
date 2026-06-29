@@ -75,7 +75,10 @@
   const initMode = params.get("mode") || "dark";
   const initRegion = params.get("region") || "all";
   const initFilters = params.get("f") ? new Set(params.get("f").split(",")) : null;
-  const initLayers = params.get("layers") ? new Set(params.get("layers").split(",")) : null;
+  const initLayersRaw = params.get("layers");
+  const initLayers = initLayersRaw
+    ? new Set(initLayersRaw.split(",").map(s => s.trim()).filter(Boolean))
+    : null;
   const initPoint = params.get("point") || "";
   const initStory = params.get("story") || "";
 
@@ -83,7 +86,10 @@
     layersMeta.filter(l => l.default_on !== false).map(l => l.id)
   );
   if (!defaultLayers.size) ["projects", "moratoria", "meetings", "transmission"].forEach(id => defaultLayers.add(id));
-  let activeLayers = initLayers && initLayers.size ? initLayers : new Set(defaultLayers);
+  let activeLayers = initLayers?.size ? initLayers : new Set(defaultLayers);
+  if (!activeLayers.size) {
+    ["projects", "moratoria", "meetings", "transmission", "policy"].forEach(id => activeLayers.add(id));
+  }
 
   const darkTile = L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png", {
     maxZoom: 19,
@@ -97,6 +103,12 @@
     maxZoom: 19,
     attribution: '&copy; <a href="https://www.esri.com/">Esri</a>'
   });
+
+  if (!points.length) {
+    const panel = $("#panel-record-count");
+    if (panel) panel.textContent = "Data failed to load";
+    console.error("TRACKER_DATA.map_points is empty — check content-data.js");
+  }
 
   const map = L.map("map", { zoomControl: false, scrollWheelZoom: true, attributionControl: true })
     .setView([initLat, initLng], initZoom);
@@ -411,7 +423,10 @@
     $$("#map-filters input").forEach(inp => { inp.checked = true; inp.closest("label")?.classList.remove("off"); });
     $$(".region-chip").forEach(chip => chip.classList.toggle("active", chip.dataset.region === "all"));
     activeRegion = "all";
-    activeLayers = new Set(layersMeta.map(l => l.id));
+    const allLayerIds = layersMeta.length
+      ? layersMeta.map(l => l.id)
+      : ["projects", "moratoria", "meetings", "transmission", "policy"];
+    activeLayers = new Set(allLayerIds);
     $$("#map-layers input").forEach(inp => { inp.checked = true; inp.closest("label")?.classList.remove("off"); });
     refreshMarkers();
   });
@@ -548,7 +563,22 @@
     });
   }
 
+  function fitToVisibleData() {
+    const latlngs = [];
+    points.filter(pointVisible).forEach(p => latlngs.push([p.latitude, p.longitude]));
+    if (activeLayers.has("transmission")) {
+      transmissionLines.forEach(line => {
+        (line.coordinates || []).forEach(c => latlngs.push(c));
+      });
+    }
+    if (!latlngs.length) return;
+    if (!initStory && !initPoint && !params.has("lat")) {
+      map.fitBounds(latlngs, { padding: [48, 48], maxZoom: 8, animate: false });
+    }
+  }
+
   refreshMarkers();
+  fitToVisibleData();
   if (initStory) openStory(initStory);
   else if (initPoint && markerMap.has(initPoint)) selectPoint(initPoint, true);
 })();
