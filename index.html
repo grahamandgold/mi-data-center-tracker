@@ -19,7 +19,7 @@
   <meta name="twitter:image" content="social-card.png">
   <link rel="icon" href="favicon.png" type="image/png">
   <link rel="apple-touch-icon" href="apple-touch-icon.png">
-  <link rel="stylesheet" href="styles.css?v=20260701r">
+  <link rel="stylesheet" href="styles.css?v=20260701s">
   <style>
     /* ── IMPROVEMENTS v20 ─────────────────────────────────────────────── */
 
@@ -490,11 +490,12 @@
     .home-intro {
       background: #fff;
       border-bottom: 1px solid var(--line);
+      overflow: hidden;
     }
     .home-intro-inner {
       max-width: var(--max);
       margin: 0 auto;
-      padding: 20px 42px 24px;
+      padding: 20px 42px 22px;
       display: grid;
       grid-template-columns: minmax(0, 1fr) minmax(260px, 36%);
       gap: 20px 40px;
@@ -660,6 +661,42 @@
     }
 
     .regions-section { padding-top: 40px !important; }
+
+    .home-whats-next {
+      border-top: 3px solid var(--red);
+      background: linear-gradient(180deg, #121318, #0a0a0c);
+      box-shadow: inset 0 1px 0 rgba(255,255,255,.04);
+    }
+    .home-whats-next .key-meetings-inner {
+      min-height: 50px;
+      padding: 0 42px;
+    }
+    .home-whats-next .km-label {
+      color: #fff;
+      font-size: .62rem;
+      letter-spacing: .16em;
+      padding-right: 18px;
+    }
+    .home-whats-next .km-pulse {
+      animation: km-pulse 1.15s ease-in-out infinite;
+    }
+    .home-whats-next .km-item--next {
+      background: rgba(207,16,45,.14);
+      box-shadow: inset 3px 0 0 var(--red);
+    }
+    .home-whats-next .km-item--next .km-title {
+      color: #f0f1f4;
+      font-weight: 700;
+    }
+    .home-whats-next .km-item--next .km-date {
+      color: #ff5c73;
+    }
+    .home-whats-next .km-all {
+      color: #8b909c;
+    }
+    @media (max-width: 900px) {
+      .home-whats-next .key-meetings-inner { padding: 0 18px; }
+    }
   </style>
 </head>
 <body>
@@ -759,6 +796,28 @@
         </div>
       </div>
     </div>
+    <div class="key-meetings-bar home-whats-next" aria-label="Upcoming public meetings">
+      <div class="key-meetings-inner">
+        <span class="km-label"><span class="km-pulse" aria-hidden="true"></span>What's next</span>
+        <div class="km-items">
+          <a class="km-item km-item--next" href="#meetings">
+            <span class="km-date">Jun 29</span>
+            <span class="km-title">Wixom Planning Commission</span>
+          </a>
+          <span class="km-divider"></span>
+          <a class="km-item" href="#meetings">
+            <span class="km-date">Jul 7–9</span>
+            <span class="km-title">Lyon · Pittsfield · Saline · Lenox</span>
+          </a>
+          <span class="km-divider"></span>
+          <a class="km-item" href="#meetings">
+            <span class="km-date">Jul 10</span>
+            <span class="km-title">MI Public Service Commission</span>
+          </a>
+        </div>
+        <a class="km-all" href="#meetings">All meetings →</a>
+      </div>
+    </div>
   </section>
 
   <main id="main">
@@ -771,29 +830,7 @@
   </section>
     <!-- Tracker Status removed -->
 
-  <!-- Key Meetings Strip -->
-  <div class="key-meetings-bar">
-    <div class="key-meetings-inner">
-      <span class="km-label"><span class="km-pulse" aria-hidden="true"></span>Key meetings</span>
-      <div class="km-items">
-        <a class="km-item" href="#meetings">
-          <span class="km-date">Jun 29</span>
-          <span class="km-title">Wixom Planning Commission</span>
-        </a>
-        <span class="km-divider"></span>
-        <a class="km-item" href="#meetings">
-          <span class="km-date">Jul 7–9</span>
-          <span class="km-title">Lyon · Pittsfield · Saline · Lenox</span>
-        </a>
-        <span class="km-divider"></span>
-        <a class="km-item" href="#meetings">
-          <span class="km-date">Jul 10</span>
-          <span class="km-title">MI Public Service Commission</span>
-        </a>
-      </div>
-      <a class="km-all" href="#meetings">All meetings →</a>
-    </div>
-  </div>    <section class="section regions-section" id="regions" aria-labelledby="regions-heading">
+    <section class="section regions-section" id="regions" aria-labelledby="regions-heading">
       <div class="section-heading">
         <div>
           <span class="eyebrow">Across Michigan</span>
@@ -943,12 +980,12 @@
     </div>
   </footer>
 
-  <script src="home-stats.js?v=20260701r"></script>
+  <script src="home-stats.js?v=20260701s"></script>
   <script src="content-data.js?v=202606282355"></script>
   <script src="app.js?v=202606282355"></script>
   <script>
     (function () {
-      const MAP_VERSION = "20260701r";
+      const MAP_VERSION = "20260701s";
 
       function setText(id, value) {
         const el = document.getElementById(id);

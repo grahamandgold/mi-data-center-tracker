@@ -260,6 +260,9 @@ main, .site-footer { max-width: var(--max); margin: 0 auto; background: var(--pa
   background: #0d0e11;
   border-bottom: 1px solid #1e2028;
 }
+.home-intro .key-meetings-bar {
+  border-bottom: 0;
+}
 .key-meetings-inner {
   max-width: var(--max);
   margin: 0 auto;
@@ -324,12 +327,16 @@ main, .site-footer { max-width: var(--max); margin: 0 auto; background: var(--pa
   text-transform: uppercase;
 }
 .km-title {
-  font-size: .68rem;
-  font-weight: 500;
-  color: #a8aab4;
+  font-size: .7rem;
+  font-weight: 600;
+  color: #b4b8c4;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+}
+.km-item--next .km-title {
+  color: #eceef2;
+  font-weight: 700;
 }
 .km-divider {
   width: 1px;
