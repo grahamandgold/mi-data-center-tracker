@@ -763,6 +763,72 @@
     }
     .pane-fold[open] > summary.pane-label::after { content: "−"; }
     .pane-fold[open] > summary.pane-label { color: var(--ink-dim); }
+    .pane-fold--inner {
+      border-bottom: 0;
+    }
+    .pane-fold--inner > summary.pane-label {
+      padding: 8px 12px 8px;
+      font-size: 8px;
+      background: transparent;
+      border-bottom: 0;
+    }
+    .layers-shown {
+      padding-bottom: 4px;
+    }
+    .layers-shown > .layer-group-caption {
+      padding-top: 4px;
+    }
+
+    #cluster-peek {
+      padding: 12px 14px;
+      border-bottom: 1px solid var(--line);
+      background: rgba(207,16,45,0.06);
+    }
+    #cluster-peek[hidden] { display: none !important; }
+    .cluster-peek-title {
+      font-size: 10px;
+      font-weight: 800;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--red);
+      margin-bottom: 4px;
+    }
+    .cluster-peek-sub {
+      font-size: 11px;
+      color: var(--ink-muted);
+      margin-bottom: 10px;
+      line-height: 1.4;
+    }
+    .cluster-peek-list {
+      display: flex;
+      flex-direction: column;
+      gap: 0;
+    }
+    .cluster-peek-list button {
+      display: grid;
+      grid-template-columns: auto 1fr;
+      gap: 2px 10px;
+      width: 100%;
+      padding: 9px 0;
+      border: 0;
+      border-top: 1px solid var(--line);
+      background: transparent;
+      color: var(--ink-dim);
+      text-align: left;
+      cursor: pointer;
+    }
+    .cluster-peek-list button:first-child { border-top: 0; padding-top: 0; }
+    .cluster-peek-list button:hover { color: var(--ink); }
+    .cluster-peek-list strong { font-size: 12px; font-weight: 600; }
+    .cluster-peek-list small { font-size: 10px; color: var(--ink-muted); }
+    .cluster-peek-more {
+      margin-top: 8px;
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--ink-muted);
+    }
     .pane-hint {
       padding: 8px 12px 9px;
       font-size: 10px;
@@ -1682,15 +1748,14 @@
       <div class="panel-body">
         <div class="panel-pane" id="pane-layers" role="tabpanel" aria-labelledby="tab-btn-layers">
           <div id="story-detail" hidden></div>
-          <details class="pane-fold" open>
-            <summary class="pane-label">Records</summary>
-            <div id="map-layers-stack">
-              <div class="layer-group-caption">Default view</div>
-              <div class="map-layers" id="map-layers-core"></div>
-              <div class="layer-group-caption">Add context</div>
+          <div class="layers-shown" id="map-layers-stack">
+            <div class="layer-group-caption">Shown now</div>
+            <div class="map-layers" id="map-layers-core"></div>
+            <details class="pane-fold pane-fold--inner">
+              <summary class="pane-label">Add context</summary>
               <div class="map-layers" id="map-layers-more"></div>
-            </div>
-          </details>
+            </details>
+          </div>
           <details class="pane-fold">
             <summary class="pane-label">Grid &amp; water</summary>
             <div class="map-layers" id="map-overlays"></div>
@@ -1725,6 +1790,7 @@
         </div>
 
         <div class="panel-pane" id="pane-list" role="tabpanel" aria-labelledby="tab-btn-list" hidden>
+          <div id="cluster-peek" hidden></div>
           <div class="list-search-wrap panel-search-wrap">
             <input type="search" id="map-search" placeholder="Search projects &amp; moratoria…" autocomplete="off" spellcheck="false" aria-label="Search records">
             <div id="search-results" class="search-results" hidden></div>
@@ -1789,7 +1855,7 @@
   <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js" crossorigin=""></script>
   <!-- Optional: set data-plausible-domain on <body> and uncomment for Plausible -->
   <!-- <script defer data-domain="midatacentertracker.com" src="https://plausible.io/js/script.js"></script> -->
-  <script src="map-analytics.js?v=20260630f"></script>
-  <script src="map.js?v=20260630f" defer></script>
+  <script src="map-analytics.js?v=20260701a"></script>
+  <script src="map.js?v=20260701a" defer></script>
 </body>
 </html>

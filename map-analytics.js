@@ -106,6 +106,7 @@
       if (name === "search") stats.searches = (stats.searches || 0) + 1;
       if (name === "filter_change") stats.filter_changes = (stats.filter_changes || 0) + 1;
       if (name === "layer_toggle") stats.layer_toggles = (stats.layer_toggles || 0) + 1;
+      if (name === "cluster_click") stats.cluster_clicks = (stats.cluster_clicks || 0) + 1;
       if (name === "tab_view" && props.tab) {
         stats.tab_views = stats.tab_views || {};
         stats.tab_views[props.tab] = (stats.tab_views[props.tab] || 0) + 1;
@@ -232,6 +233,7 @@
       searches: stats.searches || 0,
       filter_changes: stats.filter_changes || 0,
       layer_toggles: stats.layer_toggles || 0,
+      cluster_clicks: stats.cluster_clicks || 0,
       total_active_minutes: Math.round((stats.total_active_seconds || 0) / 60),
       tab_views: stats.tab_views || {},
       top_records: getTopRecords(12)

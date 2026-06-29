@@ -10,7 +10,7 @@
 
   async function loadMapData() {
     try {
-      const res = await fetch("map-data.json?v=20260630f", { cache: "no-store" });
+      const res = await fetch("map-data.json?v=20260701a", { cache: "no-store" });
       if (!res.ok) throw new Error(`map-data.json HTTP ${res.status}`);
       const json = await res.json();
       if (!json.map_points?.length) throw new Error("map-data.json has no map_points");
@@ -609,6 +609,7 @@
           showCoverageOnHover: false,
           maxClusterRadius: 46,
           spiderfyOnMaxZoom: true,
+          zoomToBoundsOnClick: false,
           disableClusteringAtZoom: 12,
           iconCreateFunction: group => {
             const count = group.getChildCount();
@@ -623,6 +624,59 @@
         })
       : L.layerGroup();
     markerLayer.addTo(map);
+
+    function clusterPoints(cluster) {
+      return cluster.getAllChildMarkers()
+        .map(m => pointByName.get(m._trackerName))
+        .filter(p => p && pointVisible(p))
+        .sort((a, b) => a.municipality.localeCompare(b.municipality) || a.name.localeCompare(b.name));
+    }
+
+    function clearClusterPeek() {
+      const panel = $("#cluster-peek");
+      if (!panel) return;
+      panel.hidden = true;
+      panel.innerHTML = "";
+    }
+
+    function renderClusterPeek(clusterPts) {
+      const panel = $("#cluster-peek");
+      if (!panel || !clusterPts.length) return;
+      const preview = clusterPts.slice(0, 6);
+      const more = clusterPts.length - preview.length;
+      panel.hidden = false;
+      panel.innerHTML = `<div class="cluster-peek-title">${clusterPts.length} records here</div><p class="cluster-peek-sub">Zoomed to this area. Pick a record below or tap a pin on the map.</p><div class="cluster-peek-list">${preview.map(p =>
+        `<button type="button" data-point="${esc(p.name)}"><span class="dir-dot" style="background:${pointColor(p)}"></span><span><strong>${esc(p.name)}</strong><small>${esc(p.municipality)} · ${esc(p.status)}</small></span></button>`
+      ).join("")}</div>${more > 0 ? `<div class="cluster-peek-more">+ ${more} more in list below</div>` : ""}`;
+    }
+
+    function handleClusterClick(cluster) {
+      const clusterPts = clusterPoints(cluster);
+      if (!clusterPts.length) return;
+      analytics.track("cluster_click", { count: clusterPts.length, zoom: map.getZoom() });
+      clearSelection();
+      map.closePopup();
+      if (map.getZoom() >= 11 && clusterPts.length <= 10) {
+        cluster.spiderfy();
+      } else {
+        map.fitBounds(cluster.getBounds(), {
+          padding: isMobile() ? [72, 24] : [80, 340],
+          maxZoom: 12,
+          animate: true,
+          duration: 0.55
+        });
+      }
+      renderClusterPeek(clusterPts);
+      if (isMobile()) openMobilePanel("list");
+      else switchPanelTab("list");
+    }
+
+    if (markerLayer.on) {
+      markerLayer.on("clusterclick", e => {
+        L.DomEvent.stopPropagation(e);
+        handleClusterClick(e.layer);
+      });
+    }
     const transmissionGroup = L.layerGroup().addTo(map);
     const markerMap = new Map();
     const pointByName = new Map(points.map(p => [p.name, p]));
@@ -815,6 +869,7 @@
 
     points.forEach(p => {
       const marker = L.marker([p.latitude, p.longitude], { icon: makeIcon(pointColor(p), false, p.layer, p.status), title: p.name });
+      marker._trackerName = p.name;
       marker.bindPopup(makePopup(p), { maxWidth: 320, className: "tracker-popup" });
       marker.on("click", () => selectPoint(p.name, false));
       markerMap.set(p.name, marker);
@@ -1070,12 +1125,14 @@
       activeMarker = null;
       activePointName = null;
       renderSelectedRecord(null);
+      clearClusterPeek();
       $$(".map-directory button.active").forEach(b => b.classList.remove("active"));
     }
 
     function selectPoint(name, fly = true) {
       const marker = markerMap.get(name), p = pointByName.get(name);
       if (!marker || !p) return;
+      clearClusterPeek();
       if (activeMarker && activePointName) { const prev = pointByName.get(activePointName); if (prev) activeMarker.setIcon(makeIcon(pointColor(prev), false, prev.layer, prev.status)); }
       activeMarker = marker; activePointName = name;
       marker.setIcon(makeIcon(pointColor(p), true, p.layer, p.status));
@@ -1105,6 +1162,7 @@
       const storyPanel = $("#story-detail");
       if (storyPanel) { storyPanel.hidden = true; storyPanel.innerHTML = ""; }
       clearSelection();
+      clearClusterPeek();
       map.closePopup();
       refreshMarkers();
       if (!isMobile()) switchPanelTab("layers");
@@ -1151,6 +1209,10 @@
     });
 
     dirEl?.addEventListener("click", e => { const btn = e.target.closest("button[data-point]"); if (btn) selectPoint(btn.dataset.point); });
+    $("#cluster-peek")?.addEventListener("click", e => {
+      const btn = e.target.closest("button[data-point]");
+      if (btn) selectPoint(btn.dataset.point);
+    });
 
     const searchEl = $("#map-search"), searchResults = $("#search-results");
     if (searchEl && searchResults) {
