@@ -297,9 +297,7 @@
 
     /* ── DESKTOP: restore full hero height, shift video right to show lighthouse ── */
     @media (min-width: 621px) {
-      .masthead-inner { min-height: 220px !important; padding: 18px 32px 22px 80px !important; display: block !important; }
       .masthead-video { object-position: 60% 42% !important; }
-      .wordmark { width: min(320px, 28vw) !important; }
     }
 
     /* ── MOBILE OVERRIDES (≤ 620px) ──────────────────────────────────── */
@@ -465,27 +463,34 @@
     <a class="button button-red drawer-briefing" href="#briefing">Get the briefing</a>
   </aside>
 
+  <nav class="primary-nav" aria-label="Primary navigation">
+    <div class="primary-nav-inner">
+      <button class="menu-button" type="button" data-drawer-open aria-controls="site-drawer" aria-expanded="false" aria-label="Open menu">
+        <span></span><span></span><span></span>
+      </button>
+      <a class="nav-wordmark" href="index.html" aria-label="Michigan Data Center Tracker home">
+        <img src="brand-logo-light.png" alt="Michigan Data Center Tracker">
+      </a>
+      <div class="nav-links">
+        <a href="#meetings">Meetings</a>
+        <a href="#regions">Top Stories</a>
+        <a href="#public-monitor">Sources</a>
+        <a href="#learn">Learn</a>
+      </div>
+      <a class="live-map-link" href="map.html"><span class="live-dot"></span>Live map</a>
+      <a class="button button-red nav-briefing" href="#briefing">Get briefing</a>
+    </div>
+  </nav>
+
   <header class="masthead">
     <h1 class="sr-only">Michigan Data Center Tracker</h1>
     <video class="masthead-video" src="header.mp4" autoplay muted loop playsinline preload="auto" aria-hidden="true"></video>
     <div class="masthead-scrim"></div>
     <div class="masthead-inner">
-      <button class="menu-button" type="button" data-drawer-open aria-controls="site-drawer" aria-expanded="false" aria-label="Open menu">
-        <span></span><span></span><span></span>
-        <span class="menu-label">Menu</span>
-      </button>
       <a class="wordmark" href="index.html" aria-label="Michigan Data Center Tracker home">
         <img src="brand-logo-light.png" alt="">
       </a>
-      <a class="button button-red masthead-briefing" href="#briefing">Get briefing <span aria-hidden="true">›</span></a>
     </div>
-    <nav class="primary-nav" aria-label="Primary navigation">
-      <a href="#meetings">Meetings</a>
-      <a href="#regions">Top Stories</a>
-      <a href="#public-monitor">Sources</a>
-      <a href="#learn">Learn</a>
-      <a class="live-map-link" href="map.html"><span class="live-dot"></span>Live map</a>
-    </nav>
   </header>
 
 
