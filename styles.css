@@ -486,14 +486,43 @@ main, .site-footer { max-width: var(--max); margin: 0 auto; background: var(--pa
   margin: 0 0 32px;
   opacity: .92;
 }
-.briefing-card { color: #fff; background: var(--red); }
+.briefing-card { 
+  color: #fff; 
+  background: #0b0b0d;
+  border-left: 5px solid var(--red);
+  position: relative;
+  overflow: hidden;
+}
+.briefing-card::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(ellipse at 80% 50%, rgba(207,16,45,.18), transparent 70%);
+  pointer-events: none;
+}
+.briefing-card .eyebrow { color: var(--red); }
+.briefing-card h2 { color: #fff; }
+.briefing-card p { color: #b5b8c0; }
 .commercial-strip h2 { font-size: clamp(1.6rem, 2.8vw, 2.6rem); }
 .commercial-strip p { max-width: 520px; }
-.signup-form { display: grid; grid-template-columns: 1fr auto; gap: 10px; margin-top: 24px; }
-.signup-form input { min-width: 0; min-height: 50px; border: 0; padding: 0 16px; }
-.signup-form .form-note, .signup-form .form-message { grid-column: 1 / -1; margin: 0; font-size: .72rem; }
-.signup-form .form-note a { text-decoration: underline; font-weight: 800; }
-.signup-form .form-message { min-height: 1.2em; font-weight: 800; }
+.signup-form { display: grid; grid-template-columns: 1fr auto; gap: 10px; margin-top: 28px; max-width: 520px; }
+.signup-form input { 
+  min-width: 0; 
+  min-height: 52px; 
+  border: 1px solid #2e3038; 
+  background: #17171b;
+  color: #fff;
+  padding: 0 16px; 
+  font-size: .9rem;
+  border-radius: 2px;
+}
+.signup-form input::placeholder { color: #555965; }
+.signup-form input:focus { outline: none; border-color: var(--red); }
+.signup-form .button { min-height: 52px; background: var(--red); color: #fff; border-radius: 2px; white-space: nowrap; }
+.signup-form .button:hover { background: var(--red-dark); }
+.signup-form .form-note, .signup-form .form-message { grid-column: 1 / -1; margin: 0; font-size: .7rem; color: #666975; }
+.signup-form .form-note a { text-decoration: underline; font-weight: 800; color: #9aa0ae; }
+.signup-form .form-message { min-height: 1.2em; font-weight: 800; color: var(--red); }
 .site-footer { padding: 38px 42px 26px; color: #c0c3ca; background: #09090b; border-top: 4px solid var(--red); }
 .footer-top { display: flex; justify-content: space-between; gap: 25px; }
 .footer-wordmark { display: block; width: min(310px, 42vw); }
