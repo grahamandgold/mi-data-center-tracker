@@ -814,30 +814,21 @@
       };
     }
 
-    function renderStatsRibbon() {
-      const ribbon = $("#map-stats-ribbon");
-      const defs = data.stats_ribbon || [];
-      if (!ribbon || !defs.length) return;
-      const counts = statCounts(true);
-      ribbon.innerHTML = defs.map((d, i) => {
-        const val = counts[d.value_key] ?? 0;
-        const suffix = d.suffix || "";
-        const accent = i === 0 ? " stat-inline--accent" : "";
-        const sep = i < defs.length - 1 ? `<span class="stat-sep" aria-hidden="true">|</span>` : "";
-        return `<span class="stat-inline${accent}"><strong>${val}${suffix}</strong>${esc(d.label)}</span>${sep}`;
-      }).join("");
-      mountMapIndustryRotator(data.industry_stats || []);
-    }
-
     let mapIndustryTimer = null;
+    const MAP_INDUSTRY_MQ = window.matchMedia("(max-width: 1280px)");
 
-    function mountMapIndustryRotator(stats) {
-      const ribbon = $("#map-stats-ribbon");
-      if (!ribbon || !stats.length) return;
+    function clearMapIndustryStat() {
       if (mapIndustryTimer) {
         window.clearInterval(mapIndustryTimer);
         mapIndustryTimer = null;
       }
+      $("#map-industry-stat")?.remove();
+      $(".stat-sep--industry")?.remove();
+    }
+
+    function mountMapIndustryRotator(stats) {
+      const ribbon = $("#map-stats-ribbon");
+      if (!ribbon || !stats.length || MAP_INDUSTRY_MQ.matches) return;
       ribbon.insertAdjacentHTML("beforeend", `<span class="stat-sep stat-sep--industry" aria-hidden="true">|</span><span class="stat-inline stat-inline--industry" id="map-industry-stat" aria-live="polite"></span>`);
       const slot = $("#map-industry-stat");
       if (!slot) return;
@@ -857,6 +848,24 @@
         paint();
       }, 7000);
     }
+
+    function renderStatsRibbon() {
+      const ribbon = $("#map-stats-ribbon");
+      const defs = data.stats_ribbon || [];
+      if (!ribbon || !defs.length) return;
+      clearMapIndustryStat();
+      const counts = statCounts(true);
+      ribbon.innerHTML = defs.map((d, i) => {
+        const val = counts[d.value_key] ?? 0;
+        const suffix = d.suffix || "";
+        const accent = i === 0 ? " stat-inline--accent" : "";
+        const sep = i < defs.length - 1 ? `<span class="stat-sep" aria-hidden="true">|</span>` : "";
+        return `<span class="stat-inline${accent}"><strong>${val}${suffix}</strong>${esc(d.label)}</span>${sep}`;
+      }).join("");
+      mountMapIndustryRotator(data.industry_stats || []);
+    }
+
+    MAP_INDUSTRY_MQ.addEventListener("change", () => renderStatsRibbon());
 
     const SPONSOR_INQUIRE_SUBJECT = "Sponsorship Inquiry – Michigan Data Center Map";
 
