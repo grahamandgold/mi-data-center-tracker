@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
   <meta name="theme-color" content="#0b0b0d">
   <title>Michigan Data Center Tracker | Live Map</title>
   <meta name="description" content="Interactive map of Michigan data center proposals, moratoria, utility pauses and public-source project records.">
@@ -12,6 +12,7 @@
   <meta property="og:description" content="Interactive map of Michigan data center proposals, moratoria, utility pauses and public-source project records.">
   <meta property="og:url" content="https://midatacentertracker.github.io/mi-data-center-tracker/map.html">
   <link rel="icon" href="favicon.png" type="image/png">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
 
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -427,21 +428,31 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      gap: 16px;
+      gap: 12px;
       padding: 0 18px;
-      background: rgba(11,11,13,0.92);
-      border-bottom: 1px solid var(--line-strong);
-      backdrop-filter: blur(14px) saturate(140%);
+      padding-top: env(safe-area-inset-top, 0px);
+      background: #0b0b0d;
+      border-bottom: 3px solid var(--red);
+      box-shadow: 0 8px 28px rgba(0,0,0,0.35);
     }
     .map-topbar-brand {
       display: flex;
       align-items: center;
-      gap: 14px;
+      gap: 12px;
       text-decoration: none;
       color: inherit;
       min-width: 0;
+      flex: 1;
     }
-    .map-topbar-brand img { height: 34px; width: auto; flex-shrink: 0; }
+    .map-topbar-brand img {
+      display: block;
+      height: 36px;
+      width: auto;
+      max-width: min(168px, 42vw);
+      object-fit: contain;
+      object-position: left center;
+      flex-shrink: 0;
+    }
     .map-topbar-kicker {
       font-size: 11px;
       font-weight: 800;
@@ -478,6 +489,25 @@
       padding: 7px 12px;
     }
     .nav-cta:hover { background: var(--red-dark); border-color: var(--red-dark); }
+    .topbar-icon-btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 40px;
+      min-height: 40px;
+      padding: 0 10px;
+      color: var(--ink-dim);
+      border: 1px solid var(--line-strong);
+      border-radius: 8px;
+      background: rgba(255,255,255,0.03);
+      text-decoration: none;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+    }
+    .topbar-icon-btn:hover { color: var(--ink); background: rgba(255,255,255,0.06); }
+    .topbar-icon-btn svg { display: block; }
 
     .tile-toggle {
       display: flex;
@@ -525,12 +555,28 @@
       padding: 14px 14px 10px;
       border-bottom: 1px solid var(--line);
     }
+    .panel-grab {
+      display: none;
+      width: 40px;
+      height: 4px;
+      border-radius: 999px;
+      background: rgba(255,255,255,0.22);
+      margin: 0 auto 8px;
+      flex-shrink: 0;
+    }
     .panel-head-top {
       display: flex;
       align-items: center;
       justify-content: space-between;
       gap: 10px;
       margin-bottom: 10px;
+    }
+    .panel-chevron {
+      display: none;
+      font-size: 12px;
+      color: var(--ink-muted);
+      line-height: 1;
+      flex-shrink: 0;
     }
     .panel-title {
       font-family: var(--display);
@@ -1182,6 +1228,7 @@
     .pop-source:hover { text-decoration: underline; }
 
     .sidebar-toggle { display: none; }
+    .nav-link--desktop { display: inline-flex; }
 
     @media (max-width: 1100px) {
       .map-stats-ribbon { display: none; }
@@ -1195,46 +1242,135 @@
     }
 
     @media (max-width: 768px) {
+      .map-topbar {
+        height: auto;
+        min-height: 52px;
+        padding: 8px 12px;
+        padding-top: calc(8px + env(safe-area-inset-top, 0px));
+      }
+      .map-topbar-brand img {
+        height: 32px;
+        max-width: min(150px, 48vw);
+      }
+      .map-topbar-kicker { display: none; }
+      .nav-link--desktop { display: none !important; }
+      .nav-cta {
+        min-height: 40px;
+        padding: 8px 12px;
+        font-size: 10px;
+      }
+
       .map-panel {
         top: auto;
         bottom: 0;
         left: 0;
         right: 0;
         width: 100%;
-        max-height: 52px;
-        border-radius: 16px 16px 0 0;
-        transition: max-height .28s ease;
+        max-height: calc(58px + env(safe-area-inset-bottom, 0px));
+        border-radius: 18px 18px 0 0;
+        border-bottom: 0;
+        transition: max-height .32s ease;
+        padding-bottom: env(safe-area-inset-bottom, 0px);
+        box-shadow: 0 -12px 40px rgba(0,0,0,0.45);
       }
-      .map-panel.open { max-height: min(85vh, 720px); }
-      .panel-head { cursor: pointer; }
+      .map-panel.open {
+        max-height: min(88dvh, 780px);
+      }
+      .panel-grab,
+      .panel-chevron { display: block; }
+      .panel-head {
+        cursor: pointer;
+        padding-top: 6px;
+        -webkit-tap-highlight-color: transparent;
+      }
+      .panel-head-top { margin-bottom: 0; }
+      .map-panel:not(.open) .panel-search-wrap { display: none; }
+      .map-panel.open .panel-search-wrap { display: block; margin-top: 10px; }
+      .map-panel.open .panel-head-top { margin-bottom: 0; }
+      .panel-search-wrap input { min-height: 44px; }
       .panel-tabs,
       .panel-body,
       #selected-record,
-      #story-detail { display: none; }
-      .map-panel.open .panel-tabs,
-      .map-panel.open .panel-body,
-      .map-panel.open #selected-record,
-      .map-panel.open #story-detail { display: block; }
-      .map-panel.open .panel-body { display: block; overflow-y: auto; }
-      .sidebar-toggle {
-        display: block;
-        position: absolute;
-        z-index: 680;
-        bottom: 72px;
-        left: 50%;
-        transform: translateX(-50%);
-        font-size: 11px;
-        font-weight: 700;
-        letter-spacing: 0.08em;
-        text-transform: uppercase;
-        color: var(--ink);
-        background: var(--panel);
-        border: 1px solid var(--line-strong);
-        border-radius: 999px;
-        padding: 8px 14px;
-        cursor: pointer;
-        box-shadow: 0 8px 24px rgba(0,0,0,0.35);
+      #story-detail { display: none !important; }
+      .map-panel.open .panel-tabs {
+        display: grid !important;
+        flex-shrink: 0;
       }
+      .map-panel.open .panel-body {
+        display: block !important;
+        flex: 1;
+        min-height: 0;
+        overflow-y: auto;
+        -webkit-overflow-scrolling: touch;
+        touch-action: pan-y;
+        overscroll-behavior: contain;
+      }
+      .map-panel.open #selected-record,
+      .map-panel.open #story-detail {
+        display: block !important;
+        flex-shrink: 0;
+      }
+      .panel-tab {
+        min-height: 44px;
+        padding: 10px 4px;
+        font-size: 9px;
+      }
+      .layer-row {
+        min-height: 48px;
+        padding: 10px 12px;
+      }
+      .layer-switch {
+        width: 40px;
+        height: 22px;
+      }
+      .layer-row:has(input:checked) .layer-switch::after { transform: translateX(18px); }
+      .region-chip {
+        min-height: 40px;
+        padding: 8px 12px;
+      }
+      .map-directory button {
+        min-height: 48px;
+        padding: 12px 16px;
+      }
+      .map-filters label { min-height: 44px; }
+
+      .map-hud {
+        top: calc(58px + env(safe-area-inset-top, 0px) + 8px);
+        bottom: auto;
+        left: 12px;
+        right: 12px;
+        transform: none;
+        width: auto;
+        max-width: none;
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        scrollbar-width: none;
+        padding: 5px;
+      }
+      .map-hud::-webkit-scrollbar { display: none; }
+      .map-hud button {
+        flex: 0 0 auto;
+        min-height: 40px;
+        padding: 10px 12px;
+      }
+
+      .map-legend {
+        left: 12px;
+        right: 12px;
+        width: auto;
+        max-height: 40vh;
+        overflow-y: auto;
+      }
+
+      .leaflet-bottom.leaflet-right {
+        bottom: calc(68px + env(safe-area-inset-bottom, 0px)) !important;
+        right: 10px !important;
+      }
+      .map-panel.open ~ .map-stats-ribbon { display: none; }
+
+      .leaflet-popup-content { width: min(300px, calc(100vw - 48px)) !important; }
+      .leaflet-container { font-size: 14px; }
     }
   </style>
 </head>
@@ -1243,9 +1379,9 @@
 
   <div class="map-shell">
     <header class="map-topbar">
-      <a class="map-topbar-brand" href="index.html">
-        <img src="brand-logo-light.png" alt="Michigan Data Center Tracker">
-        <span class="map-topbar-kicker">Live intelligence map</span>
+      <a class="map-topbar-brand" href="index.html" aria-label="Michigan Data Center Tracker home">
+        <img src="brand-logo-light.png" alt="Michigan Data Center Tracker" width="168" height="36">
+        <span class="map-topbar-kicker">Live map</span>
       </a>
       <nav class="topbar-breadcrumb" aria-label="Breadcrumb">
         <a href="index.html">Tracker</a>
@@ -1258,17 +1394,22 @@
           <button class="tile-btn" data-mode="day" type="button">Daylight</button>
           <button class="tile-btn" data-mode="sat" type="button">Satellite</button>
         </div>
-        <a class="nav-link" href="index.html">← Back to tracker</a>
-        <a class="nav-link" href="methodology.html">Methodology</a>
-        <a class="nav-cta" href="index.html#briefing">Subscribe</a>
+        <a class="topbar-icon-btn nav-link--desktop" href="index.html" aria-label="Back to tracker" title="Back to tracker">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg>
+        </a>
+        <a class="nav-link nav-link--desktop" href="index.html">Tracker</a>
+        <a class="nav-link nav-link--desktop" href="methodology.html">Methodology</a>
+        <a class="nav-cta" href="index.html#briefing">Briefing</a>
       </div>
     </header>
 
-    <aside class="map-panel" id="map-sidebar" aria-label="Map controls">
+    <aside class="map-panel" id="map-sidebar" aria-label="Map controls" aria-expanded="false">
+      <div class="panel-grab" aria-hidden="true"></div>
       <div class="panel-head" id="sidebar-header">
         <div class="panel-head-top">
           <h1 class="panel-title">Intelligence map</h1>
           <span class="panel-count-pill" id="panel-record-count">Loading…</span>
+          <span class="panel-chevron" id="panel-chevron" aria-hidden="true">⌃</span>
         </div>
         <p class="panel-tagline" id="panel-tagline" hidden></p>
         <div class="panel-badge" id="panel-badge" hidden></div>
@@ -1351,8 +1492,6 @@
       </div>
     </aside>
 
-    <button class="sidebar-toggle" id="sidebar-toggle" aria-controls="map-sidebar" aria-expanded="false" type="button">Open panel</button>
-
     <div class="map-diff-badge" aria-hidden="true">Only statewide map with <em>DCs + transmission + aquifers + political lines</em> in one view</div>
 
     <div class="map-stats-ribbon" id="map-stats-ribbon" aria-label="Map statistics"></div>
@@ -1373,6 +1512,6 @@
   </div>
 
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
-  <script src="map.js?v=20260629j" defer></script>
+  <script src="map.js?v=20260629k" defer></script>
 </body>
 </html>

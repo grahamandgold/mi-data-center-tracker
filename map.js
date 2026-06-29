@@ -10,7 +10,7 @@
 
   async function loadMapData() {
     try {
-      const res = await fetch("map-data.json?v=20260629j", { cache: "no-store" });
+      const res = await fetch("map-data.json?v=20260629k", { cache: "no-store" });
       if (!res.ok) throw new Error(`map-data.json HTTP ${res.status}`);
       const json = await res.json();
       if (!json.map_points?.length) throw new Error("map-data.json has no map_points");
@@ -64,6 +64,10 @@
       return `<label class="layer-row ${on ? "" : "off"}" title="${esc(desc || label)}"><span ${swatch}></span><span class="layer-name">${esc(label)}</span><span class="layer-count">${count || ""}</span><span class="layer-switch" aria-hidden="true"></span><input type="checkbox" value="${escAttr(id)}" ${on ? "checked" : ""}></label>`;
     }
 
+    function isMobile() {
+      return window.matchMedia("(max-width: 768px)").matches;
+    }
+
     function switchPanelTab(tabId) {
       $$(".panel-tab").forEach(t => {
         const on = t.dataset.tab === tabId;
@@ -71,6 +75,31 @@
         t.setAttribute("aria-selected", on ? "true" : "false");
       });
       $$(".panel-pane").forEach(p => { p.hidden = p.id !== `pane-${tabId}`; });
+    }
+
+    function updateMobilePanelUi() {
+      const sidebar = $("#map-sidebar");
+      const chevron = $("#panel-chevron");
+      const open = sidebar?.classList.contains("open");
+      if (chevron) chevron.textContent = open ? "⌄" : "⌃";
+      if (sidebar) sidebar.setAttribute("aria-expanded", open ? "true" : "false");
+    }
+
+    function openMobilePanel(tabId) {
+      if (!isMobile()) return;
+      const sidebar = $("#map-sidebar");
+      sidebar?.classList.add("open");
+      if (tabId) switchPanelTab(tabId);
+      updateMobilePanelUi();
+    }
+
+    function toggleMobilePanel(forceOpen) {
+      if (!isMobile()) return;
+      const sidebar = $("#map-sidebar");
+      if (!sidebar) return;
+      const shouldOpen = typeof forceOpen === "boolean" ? forceOpen : !sidebar.classList.contains("open");
+      sidebar.classList.toggle("open", shouldOpen);
+      updateMobilePanelUi();
     }
 
     const LAYER_COLORS = Object.fromEntries(layersMeta.map(l => [l.id, l.color]));
@@ -592,10 +621,11 @@
       }).join("");
       layersEl.addEventListener("change", e => {
         if (!e.target.matches("input")) return;
+        if (isMobile()) openMobilePanel("layers");
         if (e.target.checked) activeLayers.add(e.target.value); else activeLayers.delete(e.target.value);
         e.target.closest("label")?.classList.toggle("off", !e.target.checked);
         refreshMarkers();
-        fitAll();
+        if (!isMobile()) fitAll();
       });
     }
 
@@ -607,6 +637,7 @@
       }).join("");
       boundariesEl.addEventListener("change", e => {
         if (!e.target.matches("input")) return;
+        if (isMobile()) openMobilePanel("layers");
         const meta = boundaryLayersMeta.find(b => b.id === e.target.value);
         if (!meta) return;
         if (e.target.checked) {
@@ -634,6 +665,7 @@
       }).join("");
       overlaysEl.addEventListener("change", e => {
         if (!e.target.matches("input")) return;
+        if (isMobile()) openMobilePanel("layers");
         const meta = overlayLayersMeta.find(o => o.id === e.target.value);
         if (!meta) return;
         if (e.target.checked) {
@@ -670,7 +702,8 @@
       if (!story) return;
       const panel = $("#story-detail");
       if (panel) { panel.hidden = false; panel.innerHTML = `<div class="story-detail-kicker">${esc(story.kicker)}</div><h3>${esc(story.title)}</h3><p>${esc(story.summary)}</p><div class="story-detail-actions"><a href="${safeUrl(story.source_url)}" target="_blank" rel="noopener">${esc(story.source_name)} ↗</a></div>`; }
-      switchPanelTab("layers");
+      if (isMobile()) openMobilePanel("layers");
+      else switchPanelTab("layers");
       if (story.id === "power-water-nexus") {
         ["transmission_grid", "aquifers"].forEach(oid => {
           const meta = overlayLayersMeta.find(o => o.id === oid);
@@ -717,7 +750,8 @@
       renderSelectedRecord(p);
       $$(".map-directory button").forEach(b => b.classList.toggle("active", b.dataset.point === name));
       if (fly) { map.flyTo(marker.getLatLng(), Math.max(map.getZoom(), 10), { duration: 0.6 }); setTimeout(() => marker.openPopup(), 500); }
-      switchPanelTab("list");
+      if (isMobile()) openMobilePanel("list");
+      else switchPanelTab("list");
       syncUrl();
     }
 
@@ -771,7 +805,13 @@
       chip.addEventListener("click", () => { activeRegion = chip.dataset.region; $$(".region-chip").forEach(c => c.classList.toggle("active", c.dataset.region === activeRegion)); refreshMarkers(); fitAll(); });
     });
 
-    $$(".panel-tab").forEach(tab => tab.addEventListener("click", () => switchPanelTab(tab.dataset.tab)));
+    $$(".panel-tab").forEach(tab => {
+      tab.addEventListener("click", e => {
+        e.stopPropagation();
+        if (isMobile()) openMobilePanel(tab.dataset.tab);
+        else switchPanelTab(tab.dataset.tab);
+      });
+    });
 
     dirEl?.addEventListener("click", e => { const btn = e.target.closest("button[data-point]"); if (btn) selectPoint(btn.dataset.point); });
 
@@ -784,7 +824,7 @@
         searchResults.hidden = !matches.length;
         searchResults.innerHTML = matches.map(p => `<button type="button" data-point="${esc(p.name)}"><span class="dir-dot" style="background:${pointColor(p)}"></span><span><strong>${esc(p.name)}</strong><small>${esc(p.municipality)}</small></span></button>`).join("");
       });
-      searchResults.addEventListener("click", e => { const btn = e.target.closest("button[data-point]"); if (btn) { selectPoint(btn.dataset.point); searchEl.value = ""; searchResults.hidden = true; switchPanelTab("list"); } });
+        searchResults.addEventListener("click", e => { const btn = e.target.closest("button[data-point]"); if (btn) { selectPoint(btn.dataset.point); searchEl.value = ""; searchResults.hidden = true; } });
     }
 
     function haversineMi(lat1, lng1, lat2, lng2) {
@@ -844,19 +884,27 @@
 
     $("#copy-link")?.addEventListener("click", shareMapView);
 
-    const sidebar = $("#map-sidebar"), sidebarToggle = $("#sidebar-toggle");
-    $("#sidebar-header")?.addEventListener("click", () => {
-      if (window.innerWidth > 768) return;
-      sidebar?.classList.toggle("open");
-      const open = sidebar?.classList.contains("open");
-      if (sidebarToggle) { sidebarToggle.textContent = open ? "Close panel" : "Open panel"; sidebarToggle.setAttribute("aria-expanded", String(open)); }
+    const sidebar = $("#map-sidebar");
+    $("#sidebar-header")?.addEventListener("click", e => {
+      if (!isMobile()) return;
+      if (e.target.closest("#map-search, .search-results, .panel-search-wrap, .panel-tab")) return;
+      toggleMobilePanel();
     });
-    sidebarToggle?.addEventListener("click", () => {
-      sidebar?.classList.toggle("open");
-      const open = sidebar?.classList.contains("open");
-      sidebarToggle.textContent = open ? "Close panel" : "Open panel";
-      sidebarToggle.setAttribute("aria-expanded", String(open));
+    $(".panel-grab")?.addEventListener("click", e => {
+      e.stopPropagation();
+      if (isMobile()) toggleMobilePanel();
     });
+    $("#map-search")?.addEventListener("click", e => {
+      if (isMobile() && !sidebar?.classList.contains("open")) {
+        e.stopPropagation();
+        openMobilePanel("list");
+      }
+    });
+    $$(".panel-pane, .panel-tabs, .panel-body").forEach(el => {
+      el.addEventListener("click", e => e.stopPropagation());
+    });
+    window.addEventListener("resize", updateMobilePanelUi);
+    updateMobilePanelUi();
 
     const updEl = $("#map-updated");
     if (updEl && data.updated_at) updEl.textContent = "Updated " + new Intl.DateTimeFormat("en-US", { month: "short", day: "numeric", year: "numeric", timeZone: "America/Detroit" }).format(new Date(data.updated_at));
