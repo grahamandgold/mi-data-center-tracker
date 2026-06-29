@@ -23,7 +23,7 @@
       id: "state-overview",
       layers: ["projects", "moratoria", "meetings"],
       zoom: "state",
-      href: "map/?v=20260705a&layers=projects,moratoria,meetings"
+      href: "map/?v=20260705b&layers=projects,moratoria,meetings"
     }
   ];
 
