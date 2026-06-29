@@ -1407,7 +1407,7 @@
     {
       "id": "itc-oneida-sabine",
       "title": "50 miles of new power lines through Mid-Michigan",
-      "kicker": "Power & grid",
+      "kicker": "Grid proposals",
       "summary": "ITC Michigan is proposing a high-voltage line from Oneida Township to Sabine Lake near Fowlerville - crossing 15 townships.",
       "region": "Mid-Michigan",
       "source_name": "WKAR Public Media",
@@ -1483,8 +1483,8 @@
   "map_layers": [
     {
       "id": "projects",
-      "label": "Projects",
-      "description": "Proposed, approved, under construction and operational sites",
+      "label": "Data center sites",
+      "description": "Proposed, approved, under construction and operational data center facilities",
       "color": "#cf102d",
       "default_on": true
     },
@@ -1504,8 +1504,8 @@
     },
     {
       "id": "transmission",
-      "label": "Power & grid",
-      "description": "Transmission corridors and grid infrastructure",
+      "label": "Grid proposals",
+      "description": "Transmission corridors and grid build-out proposals",
       "color": "#9c5fc9",
       "default_on": false
     },
@@ -1823,7 +1823,7 @@
       "suffix": ""
     },
     {
-      "label": "Projects",
+      "label": "Sites",
       "value_key": "projects",
       "suffix": ""
     },

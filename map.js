@@ -10,7 +10,7 @@
 
   async function loadMapData() {
     try {
-      const res = await fetch("map-data.json?v=20260701c", { cache: "no-store" });
+      const res = await fetch("map-data.json?v=20260701f", { cache: "no-store" });
       if (!res.ok) throw new Error(`map-data.json HTTP ${res.status}`);
       const json = await res.json();
       if (!json.map_points?.length) throw new Error("map-data.json has no map_points");
@@ -536,7 +536,7 @@
       if (layer === "meetings") return "Public process";
       if (layer === "moratoria") return "Local restriction";
       if (layer === "policy") return "Policy signal";
-      if (layer === "transmission") return "Grid corridor";
+      if (layer === "transmission") return "Grid proposal";
       if (layer === "generation") return "Power generation";
       const map = {
         "Under construction": "Building",
@@ -616,7 +616,7 @@
       const srcHtml = src
         ? `<details class="pop-source-fold"><summary>Public record</summary><a class="pop-source-link" href="${src.href}" target="_blank" rel="noopener">${esc(src.label)}</a></details>`
         : "";
-      return `<div class="map-popup"><div class="pop-header" style="--status:#9c5fc9"><span class="pop-status">Power & grid · ${esc(line.status)}</span><div class="pop-name">${esc(line.name)}</div><div class="pop-location">${esc((line.counties||[]).join(", "))}</div></div><div class="pop-body"><div class="pop-row"><span class="pop-label">Operator</span><span class="pop-val">${esc(line.operator)}</span></div>${line.note ? `<p class="pop-note">${esc(line.note)}</p>` : ""}${srcHtml}</div></div>`;
+      return `<div class="map-popup"><div class="pop-header" style="--status:#9c5fc9"><span class="pop-status">Grid proposals · ${esc(line.status)}</span><div class="pop-name">${esc(line.name)}</div><div class="pop-location">${esc((line.counties||[]).join(", "))}</div></div><div class="pop-body"><div class="pop-row"><span class="pop-label">Operator</span><span class="pop-val">${esc(line.operator)}</span></div>${line.note ? `<p class="pop-note">${esc(line.note)}</p>` : ""}${srcHtml}</div></div>`;
     }
 
     function shortLineLabel(name) {
