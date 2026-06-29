@@ -19,7 +19,7 @@
   <meta name="twitter:image" content="social-card.png">
   <link rel="icon" href="favicon.png" type="image/png">
   <link rel="apple-touch-icon" href="apple-touch-icon.png">
-  <link rel="stylesheet" href="styles.css?v=20260701p">
+  <link rel="stylesheet" href="styles.css?v=20260701q">
   <style>
     /* ── IMPROVEMENTS v20 ─────────────────────────────────────────────── */
 
@@ -477,34 +477,63 @@
       pointer-events: auto;
     }
 
-    /* ── Homepage live map (bright) ─────────────────────────────────── */
-    .home-map-section {
+    /* ── Homepage intro + compact map (bright) ──────────────────────── */
+    .home-intro {
       background: #fff;
       border-bottom: 1px solid var(--line);
     }
-    .home-map-inner {
+    .home-intro-inner {
       max-width: var(--max);
       margin: 0 auto;
-      padding: 32px 42px 44px;
+      padding: 22px 42px 26px;
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) minmax(260px, 38%);
+      gap: 24px 36px;
+      align-items: center;
     }
-    .home-map-head {
-      display: flex;
-      align-items: flex-end;
-      justify-content: space-between;
-      gap: 20px;
-      margin-bottom: 18px;
-    }
-    .home-map-head h2 {
-      margin: 4px 0 0;
+    .home-intro-copy h2 {
+      margin: 4px 0 10px;
       font-family: var(--display);
-      font-size: clamp(1.5rem, 2.6vw, 2.2rem);
+      font-size: clamp(1.35rem, 2.2vw, 1.95rem);
       line-height: .96;
       letter-spacing: .015em;
       text-transform: uppercase;
     }
+    .home-intro-lead {
+      margin: 0 0 14px;
+      max-width: 46ch;
+      font-size: .92rem;
+      line-height: 1.5;
+      color: #4a4f5c;
+    }
+    .home-intro-verify {
+      margin: 0 0 16px;
+      font-size: .68rem;
+      font-weight: 800;
+      letter-spacing: .06em;
+      text-transform: uppercase;
+      color: #666b78;
+    }
+    .home-intro-verify a {
+      color: var(--red);
+      text-decoration: none;
+      border-bottom: 1px solid rgba(207,16,45,.35);
+    }
+    .home-intro-verify a:hover { border-bottom-color: var(--red); }
+    .home-intro-actions {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 14px 18px;
+    }
+    .home-intro-map {
+      justify-self: end;
+      width: 100%;
+      max-width: 400px;
+    }
     .home-map-shell {
       border: 1px solid var(--line);
-      box-shadow: 0 14px 40px rgba(23,27,35,.08);
+      box-shadow: 0 10px 28px rgba(23,27,35,.07);
       background: #fff;
       overflow: hidden;
     }
@@ -550,28 +579,42 @@
       flex-direction: column;
       align-items: center;
       justify-content: center;
-      gap: 10px;
-      padding: 24px;
+      gap: 8px;
+      padding: 16px;
       text-align: center;
     }
     .home-map-preview-action .button {
-      box-shadow: 0 10px 28px rgba(163,11,34,.35);
+      box-shadow: 0 8px 22px rgba(163,11,34,.32);
       pointer-events: none;
+      font-size: .6rem;
+      padding: 10px 14px;
+      min-height: 0;
     }
     .home-map-preview-meta {
-      max-width: 32ch;
-      font-size: .68rem;
+      max-width: 28ch;
+      font-size: .56rem;
       font-weight: 800;
-      letter-spacing: .08em;
+      letter-spacing: .07em;
       text-transform: uppercase;
       color: #fff;
       text-shadow: 0 1px 10px rgba(0,0,0,.5);
+      line-height: 1.35;
+    }
+    @media (max-width: 900px) {
+      .home-intro-inner {
+        grid-template-columns: 1fr;
+        padding: 20px 24px 24px;
+      }
+      .home-intro-map {
+        justify-self: stretch;
+        max-width: none;
+      }
     }
     @media (max-width: 620px) {
-      .home-map-inner { padding: 22px 16px 28px; }
-      .home-map-head { flex-direction: column; align-items: stretch; }
-      .home-map-head .button { width: 100%; }
-      .home-map-preview-action .button { width: min(100%, 280px); }
+      .home-intro-inner { padding: 18px 16px 22px; }
+      .home-intro-actions { flex-direction: column; align-items: stretch; }
+      .home-intro-actions .button { width: 100%; }
+      .home-map-preview-action .button { width: min(100%, 240px); }
     }
   </style>
 </head>
@@ -650,45 +693,29 @@
     </div>
   </div>
 
-  <!-- How-we-verify methodology strip -->
-  <div class="ticker-bar">
-    <div class="ticker-inner">
-      <span class="ticker-msg ticker-msg-active"><span class="ticker-live-dot" aria-hidden="true"></span>Independent · Aggregated · Nonpartisan</span>
-      <span class="ticker-msg"><span class="ticker-live-dot" aria-hidden="true"></span><strong>How we verify:</strong> Public records &amp; official sources. <a href="methodology.html">Methodology →</a></span>
-    </div>
-  </div>
-  <script>
-    (function(){
-      var msgs = document.querySelectorAll('.ticker-msg');
-      if (!msgs.length) return;
-      var i = 0;
-      function rotate() {
-        msgs[i].classList.remove('ticker-msg-active');
-        i = (i + 1) % msgs.length;
-        msgs[i].classList.add('ticker-msg-active');
-      }
-      setInterval(rotate, 4000);
-    })();
-  </script>
-
-  <section class="home-map-section" id="live-map" aria-labelledby="home-map-heading">
-    <div class="home-map-inner">
-      <div class="home-map-head">
-        <div>
-          <span class="eyebrow">Live intelligence map</span>
-          <h2 id="home-map-heading">Michigan's build-out, mapped in real time.</h2>
+  <section class="home-intro" id="live-map" aria-labelledby="home-map-heading">
+    <div class="home-intro-inner">
+      <div class="home-intro-copy">
+        <span class="eyebrow">Live intelligence map</span>
+        <h2 id="home-map-heading">Michigan's build-out, mapped in real time.</h2>
+        <p class="home-intro-lead">Sites, moratoria, and grid context across the lower peninsula — sourced from public records and official filings.</p>
+        <p class="home-intro-verify">Independent · Aggregated · Nonpartisan · <a href="methodology.html">How we verify →</a></p>
+        <div class="home-intro-actions">
+          <a class="button button-red" href="map.html">Open full map <span aria-hidden="true">→</span></a>
+          <a class="text-link" href="methodology.html">How we source <span aria-hidden="true">→</span></a>
         </div>
-        <a class="button button-red" href="map.html">Open full map <span aria-hidden="true">→</span></a>
       </div>
-      <div class="home-map-shell">
-        <a class="home-map-preview" href="map.html" aria-label="Open the live Michigan data center map">
-          <img src="home-map-preview.svg?v=20260701p" width="1200" height="720" alt="" loading="lazy" decoding="async">
-          <span class="home-map-preview-overlay" aria-hidden="true"></span>
-          <span class="home-map-preview-action">
-            <span class="button button-red">Open live map <span aria-hidden="true">→</span></span>
-            <span class="home-map-preview-meta" id="home-map-preview-meta">Sites &amp; moratoria focus</span>
-          </span>
-        </a>
+      <div class="home-intro-map">
+        <div class="home-map-shell">
+          <a class="home-map-preview" href="map.html" aria-label="Open the live Michigan data center map">
+            <img src="home-map-preview.svg?v=20260701p" width="1200" height="720" alt="" loading="lazy" decoding="async">
+            <span class="home-map-preview-overlay" aria-hidden="true"></span>
+            <span class="home-map-preview-action">
+              <span class="button button-red">Open live map <span aria-hidden="true">→</span></span>
+              <span class="home-map-preview-meta" id="home-map-preview-meta">Sites &amp; moratoria focus</span>
+            </span>
+          </a>
+        </div>
       </div>
     </div>
   </section>
@@ -875,12 +902,12 @@
     </div>
   </footer>
 
-  <script src="home-stats.js?v=20260701p"></script>
+  <script src="home-stats.js?v=20260701q"></script>
   <script src="content-data.js?v=202606282355"></script>
   <script src="app.js?v=202606282355"></script>
   <script>
     (function () {
-      const MAP_VERSION = "20260701p";
+      const MAP_VERSION = "20260701q";
 
       function setText(id, value) {
         const el = document.getElementById(id);
