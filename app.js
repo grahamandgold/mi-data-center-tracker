@@ -80,7 +80,7 @@
       const time = new Intl.DateTimeFormat("en-US", { hour: "numeric", minute: "2-digit", timeZone: "America/Detroit" }).format(dt);
       return `<article class="meeting-card">
         <div class="meeting-date"><strong>${day}</strong><span>${date}</span><em>${time}</em></div>
-        <div class="meeting-copy"><span>${escapeHtml(item.county)} · ${escapeHtml(item.government_body)}</span><h3>${escapeHtml(item.title)}</h3><p>${escapeHtml(item.location || "Location listed in source")}</p></div>
+        <div class="meeting-copy"><span>${escapeHtml(item.county)}</span><h3>${escapeHtml(item.title)}</h3><p>${escapeHtml(item.location || "Location listed in source")}</p></div>
         <div class="meeting-actions">
           ${item.agenda_url ? `<a href="${safeUrl(item.agenda_url)}" target="_blank" rel="noopener">Agenda ${external}</a>` : ""}
           ${item.watch_url ? `<a class="watch" href="${safeUrl(item.watch_url)}" target="_blank" rel="noopener">Watch ${external}</a>` : ""}
