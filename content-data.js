@@ -115,7 +115,7 @@ window.TRACKER_DATA = {
     },
     {
       title: "Big Rapids Township Regular Board Meeting",
-      body: "Regular board meeting. Big Rapids Township enacted a one-year moratorium on data centers in early 2026. Monitor for ordinance development or developer inquiries.",
+      body: "Regular board meeting. Big Rapids Township enacted a one-year data center moratorium in early 2026. Monitor for ordinance development or developer inquiries.",
       government_body: "Big Rapids Township Board",
       county: "Mecosta",
       start: "2026-07-07T18:00:00-04:00",
@@ -126,18 +126,18 @@ window.TRACKER_DATA = {
     },
     {
       title: "Lyon Township Regular Board Meeting",
-      body: "Regular board meeting. Lyon Township sits in a high-growth Oakland County corridor with active land development pressure. Monitor for zoning or data center items.",
+      body: "Regular board meeting. Lyon Township is in a high-growth Oakland County corridor. The township has a YouTube channel and streams some meetings — check closer to the date.",
       government_body: "Lyon Township Board",
       county: "Oakland",
       start: "2026-07-07T19:00:00-04:00",
       location: "Lyon Township Hall · 58800 Grand River Ave, New Hudson MI 48165",
       agenda_url: "",
       watch_url: "",
-      source_url: "https://lyontownship.org/government/board-of-trustees/"
+      source_url: "https://www.youtube.com/channel/UC5JDLDMzIKAwR2YfY42miFw"
     },
     {
       title: "Pittsfield Charter Township Planning Commission",
-      body: "Regular planning commission meeting. Pittsfield has been actively drafting a data center zoning ordinance. Check the agenda center as the date approaches.",
+      body: "Regular planning commission meeting. Pittsfield has been drafting a data center zoning ordinance. Agenda posted to their Agenda Center a few days before the meeting.",
       government_body: "Pittsfield Charter Township Planning Commission",
       county: "Washtenaw",
       start: "2026-07-07T19:00:00-04:00",
@@ -148,7 +148,7 @@ window.TRACKER_DATA = {
     },
     {
       title: "Saline Township Regular Board Meeting",
-      body: "Regular board meeting for the township hosting The Barn — Michigan's highest-profile active data center project. Construction updates, permits, and advisory committee reports may surface here.",
+      body: "Regular board meeting for the township hosting The Barn — Michigan's highest-profile active data center project. Construction updates and advisory committee reports may surface here.",
       government_body: "Saline Township Board",
       county: "Washtenaw",
       start: "2026-07-08T19:00:00-04:00",
@@ -159,7 +159,7 @@ window.TRACKER_DATA = {
     },
     {
       title: "Stronach Township Regular Board Meeting",
-      body: "Regular board meeting. Stronach Township approved a six-month data center moratorium through December 2026. Monitor for ordinance progress or developer activity.",
+      body: "Regular board meeting. Stronach Township approved a six-month data center moratorium through December 2026. Monitor for ordinance drafting progress.",
       government_body: "Stronach Township Board",
       county: "Manistee",
       start: "2026-07-08T18:00:00-04:00",
@@ -170,7 +170,7 @@ window.TRACKER_DATA = {
     },
     {
       title: "Lenox Township Regular Board Meeting",
-      body: "Regular board meeting. Lenox Township (Macomb County) enacted an early moratorium on data centers. Monitor for ordinance development or permit activity.",
+      body: "Regular board meeting. Lenox Township enacted an early moratorium on data centers. Check their Agenda Center closer to the date for posted items.",
       government_body: "Lenox Township Board",
       county: "Macomb",
       start: "2026-07-09T19:00:00-04:00",
@@ -181,7 +181,7 @@ window.TRACKER_DATA = {
     },
     {
       title: "Michigan Public Service Commission — Open Meeting",
-      body: "Regular MPSC open meeting. The commission oversees large-load electric service agreements governing data center power contracts. Monitor for large-load filings, rate cases, or transmission items.",
+      body: "Regular MPSC open meeting. The commission oversees large-load electric service agreements governing data center power contracts. Agenda and stream link typically posted 1–2 days before.",
       government_body: "Michigan Public Service Commission",
       county: "Ingham",
       start: "2026-07-10T09:30:00-04:00",
