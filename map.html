@@ -1746,6 +1746,7 @@
 
     .sidebar-toggle { display: none; }
     .nav-link--desktop { display: inline-flex; }
+    .map-mob-actions { display: none; }
 
     @media (max-width: 1280px) {
       .stat-inline--industry,
@@ -1767,33 +1768,68 @@
 
     @media (max-width: 768px) {
       :root {
-        --topbar-h: 56px;
+        --topbar-safe: env(safe-area-inset-top, 0px);
+        --topbar-pad: 8px;
+        --topbar-logo-h: 30px;
+        --topbar-tools-h: 32px;
+        --topbar-h: calc(var(--topbar-safe) + var(--topbar-pad) + var(--topbar-logo-h) + 6px + var(--topbar-tools-h) + var(--topbar-pad));
         --chrome-stats-h: 0px;
         --chrome-h: 0px;
         --map-inset-top: var(--topbar-h);
-        --mobile-dock-h: 52px;
-        --mobile-hud-h: 44px;
-        --mobile-hud-gap: 10px;
-        --mobile-map-bottom: calc(var(--mobile-dock-h) + var(--mobile-hud-h) + var(--mobile-hud-gap));
+        --mobile-dock-h: 48px;
       }
       #map {
+        position: absolute;
         top: var(--topbar-h);
         right: 0;
-        bottom: calc(var(--mobile-map-bottom) + env(safe-area-inset-bottom, 0px));
+        bottom: calc(var(--mobile-dock-h) + env(safe-area-inset-bottom, 0px));
         left: 0;
       }
+      .map-hud { display: none !important; }
+      .map-mob-actions {
+        display: flex;
+        align-items: center;
+        gap: 4px;
+        flex: 1 1 auto;
+        min-width: 0;
+        justify-content: flex-end;
+      }
+      .map-mob-btn {
+        font-family: var(--sans);
+        font-size: 8px;
+        font-weight: 700;
+        letter-spacing: 0.05em;
+        text-transform: uppercase;
+        color: var(--ink-dim);
+        background: rgba(255,255,255,0.05);
+        border: 1px solid var(--line-strong);
+        border-radius: 6px;
+        padding: 6px 8px;
+        min-height: var(--topbar-tools-h);
+        cursor: pointer;
+        white-space: nowrap;
+      }
+      .map-mob-btn--red {
+        color: #fff;
+        background: var(--red);
+        border-color: var(--red);
+      }
+      .map-mob-btn:active { opacity: 0.85; }
       .map-topbar {
         height: var(--topbar-h);
         min-height: var(--topbar-h);
         gap: 6px;
-        padding: 6px 10px;
-        padding-top: calc(6px + env(safe-area-inset-top, 0px));
+        padding: var(--topbar-pad);
+        padding-top: calc(var(--topbar-pad) + var(--topbar-safe));
+        flex-wrap: wrap;
+        align-items: center;
+        align-content: flex-start;
       }
       .map-topbar-brand {
-        flex: 1;
+        flex: 1 1 100%;
         min-width: 0;
-        max-width: 44vw;
-        height: 30px;
+        max-width: none;
+        height: var(--topbar-logo-h);
         overflow: hidden;
         line-height: 0;
       }
@@ -1806,18 +1842,23 @@
         object-position: left top;
       }
       .map-topbar-actions {
-        flex-shrink: 0;
-        gap: 0;
+        flex: 1 1 100%;
+        min-width: 0;
+        justify-content: space-between;
+        gap: 6px;
+        flex-wrap: nowrap;
       }
       .tile-toggle {
         padding: 2px;
         border-radius: 6px;
+        flex-shrink: 1;
+        min-width: 0;
       }
       .tile-btn {
-        padding: 6px 7px;
-        font-size: 9px;
-        letter-spacing: 0.05em;
-        min-height: 32px;
+        padding: 6px 5px;
+        font-size: 8px;
+        letter-spacing: 0.04em;
+        min-height: 30px;
       }
       .nav-link--desktop { display: none !important; }
       .nav-cta { display: none !important; }
@@ -1825,6 +1866,7 @@
 
       .map-shell::after { display: none; }
       .map-panel {
+        position: fixed;
         top: auto !important;
         bottom: 0;
         left: 0 !important;
@@ -1833,16 +1875,18 @@
         max-width: none;
         height: calc(var(--mobile-dock-h) + env(safe-area-inset-bottom, 0px));
         max-height: calc(var(--mobile-dock-h) + env(safe-area-inset-bottom, 0px));
-        border-radius: 14px 14px 0 0;
+        border-radius: 12px 12px 0 0;
         border-bottom: 0;
         border-top: 0;
         transition: height .28s ease, max-height .28s ease;
         padding-bottom: env(safe-area-inset-bottom, 0px);
-        box-shadow: 0 -12px 36px rgba(0,0,0,0.5);
+        box-shadow: 0 -8px 28px rgba(0,0,0,0.45);
         overflow: hidden;
-        background: rgba(12, 14, 18, 0.98);
-        backdrop-filter: blur(18px);
+        background: #0e1014;
+        backdrop-filter: none;
+        z-index: 720;
       }
+      .map-panel:not(.open) .panel-grab { display: none; }
       .map-panel::before {
         height: 3px;
         border-radius: 12px 12px 0 0;
@@ -1852,28 +1896,32 @@
         max-height: min(82dvh, 720px);
         z-index: 700;
       }
-      .map-shell:has(.map-panel.open) .map-hud {
-        visibility: hidden;
-        pointer-events: none;
-      }
-      .map-shell:has(.map-panel.open) #map {
-        bottom: 0;
-      }
-      .panel-grab {
+      .map-panel.open .panel-grab {
         display: block;
         width: 36px;
         height: 4px;
         border-radius: 999px;
-        margin: 5px auto 3px;
+        margin: 6px auto 4px;
         background: rgba(255,255,255,0.28);
       }
-      .panel-chevron { display: block; font-size: 10px; color: var(--ink-dim); }
+      .map-shell:has(.map-panel.open) #map {
+        bottom: 0;
+      }
+      .panel-chevron { display: block; font-size: 11px; color: var(--red-soft); }
       .panel-head {
         cursor: pointer;
-        padding: 0 16px 8px;
+        padding: 0 14px;
+        height: var(--mobile-dock-h);
+        display: flex;
+        align-items: center;
         border-bottom: 0;
         background: transparent;
         -webkit-tap-highlight-color: transparent;
+      }
+      .map-panel.open .panel-head {
+        height: auto;
+        padding: 0 14px 8px;
+        display: block;
       }
       .map-panel.open .panel-head {
         padding-bottom: 8px;
@@ -1979,47 +2027,18 @@
       }
       .map-filters label { min-height: 44px; }
 
-      .map-hud {
-        top: auto;
-        bottom: calc(var(--mobile-dock-h) + env(safe-area-inset-bottom, 0px) + var(--mobile-hud-gap));
-        left: 8px;
-        right: 8px;
-        transform: none;
-        width: auto;
-        max-width: none;
-        display: flex;
-        align-items: stretch;
-        gap: 2px;
-        overflow: hidden;
-        padding: 3px;
-        border-radius: 10px;
-        box-shadow: 0 8px 24px rgba(0,0,0,.4);
-      }
-      .map-hud .hud-divider { display: none; }
-      .map-hud button {
-        flex: 1 1 0;
-        min-height: 40px;
-        min-width: 0;
-        padding: 8px 4px;
-        font-size: 8px;
-        letter-spacing: 0.04em;
-      }
-      .map-hud button.primary {
-        flex: 1.15 1 0;
-        padding: 8px 8px;
-      }
-
       .map-legend {
         left: 8px;
         right: 8px;
-        bottom: calc(var(--mobile-map-bottom) + env(safe-area-inset-bottom, 0px) + 8px);
+        bottom: calc(var(--mobile-dock-h) + env(safe-area-inset-bottom, 0px) + 10px);
         width: auto;
-        max-height: 34vh;
+        max-height: 38vh;
         overflow-y: auto;
+        z-index: 710;
       }
 
       .leaflet-bottom.leaflet-right {
-        bottom: calc(var(--mobile-map-bottom) + env(safe-area-inset-bottom, 0px) + 6px) !important;
+        bottom: calc(var(--mobile-dock-h) + env(safe-area-inset-bottom, 0px) + 8px) !important;
         right: 8px !important;
       }
       .map-shell:has(.map-panel.open) .leaflet-bottom.leaflet-right {
@@ -2047,8 +2066,14 @@
       <div class="map-topbar-actions">
         <div class="tile-toggle" role="group" aria-label="Map style">
           <button class="tile-btn" data-mode="dark" type="button">Dark</button>
-          <button class="tile-btn active" data-mode="day" type="button">Daylight</button>
-          <button class="tile-btn" data-mode="sat" type="button">Satellite</button>
+          <button class="tile-btn active" data-mode="day" type="button">Day</button>
+          <button class="tile-btn" data-mode="sat" type="button">Sat</button>
+        </div>
+        <div class="map-mob-actions" role="toolbar" aria-label="Map actions">
+          <button type="button" class="map-mob-btn map-mob-btn--red" id="map-reset-mob" aria-label="Reset map">Reset</button>
+          <button type="button" class="map-mob-btn" id="map-locate-mob" aria-label="Find records near you">Near</button>
+          <button type="button" class="map-mob-btn" id="map-share-mob" aria-label="Share this map">Share</button>
+          <button type="button" class="map-mob-btn" id="map-legend-mob" aria-label="Toggle legend" aria-expanded="false" aria-controls="map-legend">Key</button>
         </div>
         <a class="topbar-icon-btn nav-link--desktop" href="index.html" aria-label="Back to tracker" title="Back to tracker">
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg>
@@ -2193,6 +2218,6 @@
   <!-- Optional: set data-plausible-domain on <body> and uncomment for Plausible -->
   <!-- <script defer data-domain="midatacentertracker.com" src="https://plausible.io/js/script.js"></script> -->
   <script src="map-analytics.js?v=20260701t"></script>
-  <script src="map.js?v=20260704n" defer></script>
+  <script src="map.js?v=20260704q" defer></script>
 </body>
 </html>

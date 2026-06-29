@@ -1383,7 +1383,7 @@
 
     $("#show-all")?.addEventListener("click", () => resetMapView());
 
-    $$("#map-reset, #map-reset-top").forEach(btn => btn.addEventListener("click", () => resetMapView()));
+    $$("#map-reset, #map-reset-top, #map-reset-mob").forEach(btn => btn.addEventListener("click", () => resetMapView()));
 
     document.addEventListener("keydown", e => {
       if (e.target.matches("input, textarea, select")) return;
@@ -1459,7 +1459,7 @@
       }, { enableHighAccuracy: false, timeout: 12000 });
     }
 
-    $("#map-locate")?.addEventListener("click", () => { analytics.track("locate_near_me"); locateNearMe(); });
+    $$("#map-locate, #map-locate-mob").forEach(btn => btn.addEventListener("click", () => { analytics.track("locate_near_me"); locateNearMe(); }));
 
     async function shareMapView() {
       const url = location.href;
@@ -1479,14 +1479,17 @@
       }
     }
 
-    $("#map-share")?.addEventListener("click", () => { analytics.track("share"); shareMapView(); });
+    $$("#map-share, #map-share-mob").forEach(btn => btn.addEventListener("click", () => { analytics.track("share"); shareMapView(); }));
 
-    const legendEl = $("#map-legend"), legendToggle = $("#map-legend-toggle");
-    legendToggle?.addEventListener("click", () => {
+    const legendEl = $("#map-legend");
+    function toggleLegend() {
       const hidden = legendEl?.hasAttribute("hidden");
-      if (hidden) { legendEl.removeAttribute("hidden"); legendToggle.setAttribute("aria-expanded", "true"); }
-      else { legendEl?.setAttribute("hidden", ""); legendToggle.setAttribute("aria-expanded", "false"); }
-    });
+      const expanded = hidden ? "true" : "false";
+      if (hidden) legendEl?.removeAttribute("hidden");
+      else legendEl?.setAttribute("hidden", "");
+      $$("#map-legend-toggle, #map-legend-mob").forEach(btn => btn?.setAttribute("aria-expanded", expanded));
+    }
+    $$("#map-legend-toggle, #map-legend-mob").forEach(btn => btn.addEventListener("click", toggleLegend));
 
     $("#copy-link")?.addEventListener("click", shareMapView);
 
