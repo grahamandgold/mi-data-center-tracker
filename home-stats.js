@@ -82,6 +82,14 @@
     ];
   }
 
+  function buildPrimaryUtilityStats(counts) {
+    return [
+      [{ value: counts.total, label: "On map now" }],
+      [{ value: counts.projects, label: "Data center sites" }],
+      [{ value: counts.moratoria, label: "Moratoria" }]
+    ];
+  }
+
   function buildUtilityRotations(counts, industryStats = []) {
     const industryByColumn = [[], [], []];
     industryStats.forEach(stat => {
@@ -312,9 +320,14 @@
 
   function mountUtilityStats(counts, options = {}, root = document) {
     const industryStats = options.industryStats || [];
+    const primaryMode = Boolean(
+      options.primaryOnly || root.querySelector("[data-stats-mode='primary']")
+    );
     const rotations = isCompactFold(root)
       ? buildMobileUtilityStats(counts)
-      : buildUtilityRotations(counts, industryStats);
+      : primaryMode
+        ? buildPrimaryUtilityStats(counts)
+        : buildUtilityRotations(counts, industryStats);
     const slots = [
       root.getElementById("utility-stat-0"),
       root.getElementById("utility-stat-1"),
@@ -417,6 +430,7 @@
     DEFAULT_FOCUS,
     getDefaultLayers,
     computeStats,
+    buildPrimaryUtilityStats,
     buildUtilityRotations,
     buildMobileUtilityStats,
     isCompactFold,
