@@ -126,18 +126,18 @@ window.TRACKER_DATA = {
     },
     {
       title: "Lyon Township Regular Board Meeting",
-      body: "Regular board meeting. Lyon Township is in a high-growth Oakland County corridor. The township has a YouTube channel and streams some meetings — check closer to the date.",
+      body: "Regular board meeting. Lyon Township is in a high-growth Oakland County corridor. Stream link usually posted to their YouTube channel before the meeting.",
       government_body: "Lyon Township Board",
       county: "Oakland",
       start: "2026-07-07T19:00:00-04:00",
       location: "Lyon Township Hall · 58800 Grand River Ave, New Hudson MI 48165",
       agenda_url: "",
-      watch_url: "",
-      source_url: "https://www.youtube.com/channel/UC5JDLDMzIKAwR2YfY42miFw"
+      watch_url: "https://www.youtube.com/channel/UC5JDLDMzIKAwR2YfY42miFw",
+      source_url: "https://lyontownship.org/government/board-of-trustees/"
     },
     {
       title: "Pittsfield Charter Township Planning Commission",
-      body: "Regular planning commission meeting. Pittsfield has been drafting a data center zoning ordinance. Agenda posted to their Agenda Center a few days before the meeting.",
+      body: "Regular planning commission meeting. Pittsfield has been drafting a data center zoning ordinance. Agenda posted to their Agenda Center a few days before. No livestream available.",
       government_body: "Pittsfield Charter Township Planning Commission",
       county: "Washtenaw",
       start: "2026-07-07T19:00:00-04:00",
@@ -148,7 +148,7 @@ window.TRACKER_DATA = {
     },
     {
       title: "Saline Township Regular Board Meeting",
-      body: "Regular board meeting for the township hosting The Barn — Michigan's highest-profile active data center project. Construction updates and advisory committee reports may surface here.",
+      body: "Regular board meeting for the township hosting The Barn — Michigan's highest-profile active data center project. Construction updates may surface here. No livestream available.",
       government_body: "Saline Township Board",
       county: "Washtenaw",
       start: "2026-07-08T19:00:00-04:00",
@@ -181,13 +181,13 @@ window.TRACKER_DATA = {
     },
     {
       title: "Michigan Public Service Commission — Open Meeting",
-      body: "Regular MPSC open meeting. The commission oversees large-load electric service agreements governing data center power contracts. Agenda and stream link typically posted 1–2 days before.",
+      body: "Regular MPSC open meeting. Oversees large-load electric service agreements governing data center power contracts. Agenda and YouTube stream link typically posted 1–2 days before.",
       government_body: "Michigan Public Service Commission",
       county: "Ingham",
       start: "2026-07-10T09:30:00-04:00",
       location: "MPSC Offices · 7109 W. Saginaw Hwy, Lansing MI 48917",
       agenda_url: "https://www.michigan.gov/mpsc/commission",
-      watch_url: "https://www.michigan.gov/mpsc/commission",
+      watch_url: "https://www.youtube.com/@MichiganPSC",
       source_url: "https://www.michigan.gov/mpsc/commission"
     }
   ],
