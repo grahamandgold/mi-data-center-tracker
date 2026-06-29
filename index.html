@@ -872,7 +872,7 @@
   <script src="app.js?v=202606282355"></script>
   <script>
     (function () {
-      const MAP_VERSION = "20260701i";
+      const MAP_VERSION = "20260701j";
 
       function setText(id, value) {
         const el = document.getElementById(id);
@@ -882,7 +882,7 @@
       function initHomeMapEmbed() {
         const iframe = document.getElementById("home-map-embed");
         if (!iframe) return;
-        const src = `map.html?embed=1&mode=day&v=${MAP_VERSION}`;
+        const src = `map.html?embed=1&v=${MAP_VERSION}`;
         const mount = () => { iframe.src = src; };
         if ("IntersectionObserver" in window) {
           const obs = new IntersectionObserver(entries => {

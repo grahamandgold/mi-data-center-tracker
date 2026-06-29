@@ -14,7 +14,7 @@
 
   async function loadMapData() {
     try {
-      const res = await fetch("map-data.json?v=20260701i", { cache: "no-store" });
+      const res = await fetch("map-data.json?v=20260701j", { cache: "no-store" });
       if (!res.ok) throw new Error(`map-data.json HTTP ${res.status}`);
       const json = await res.json();
       if (!json.map_points?.length) throw new Error("map-data.json has no map_points");
@@ -186,7 +186,7 @@
     };
 
     const params = new URLSearchParams(location.search);
-    const initMode = params.get("mode") || "dark";
+    const initMode = params.get("mode") || "day";
     const initRegion = params.get("region") || "all";
     const initFilters = params.get("f") ? new Set(params.get("f").split(",")) : null;
     const initLayersRaw = params.get("layers");
@@ -277,10 +277,10 @@
       }
     }
 
-    let currentMode = ["dark", "day", "sat"].includes(initMode) ? initMode : "dark";
+    let currentMode = ["dark", "day", "sat"].includes(initMode) ? initMode : "day";
     const setTileMode = mode => {
       allBasemapLayers.forEach(t => { try { map.removeLayer(t); } catch (_) {} });
-      (basemapSets[mode] || basemapSets.dark).forEach(t => t.addTo(map));
+      (basemapSets[mode] || basemapSets.day).forEach(t => t.addTo(map));
       currentMode = mode;
       const mapEl = document.getElementById("map");
       if (mapEl) {
@@ -1067,7 +1067,7 @@
 
     function syncUrl() {
       const p = new URLSearchParams();
-      if (currentMode !== "dark") p.set("mode", currentMode);
+      if (currentMode !== "day") p.set("mode", currentMode);
       if (activeRegion !== "all") p.set("region", activeRegion);
       const onStatuses = statusesForActiveLayers().filter(s => filtersEl?.querySelector(`input[value="${escAttr(s)}"]`)?.checked);
       const statusPool = statusesForActiveLayers();
