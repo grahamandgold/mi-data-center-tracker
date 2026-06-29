@@ -192,9 +192,12 @@ a:focus-visible, button:focus-visible, input:focus-visible, [tabindex]:focus-vis
 }
 .nav-wordmark img {
   display: block;
-  height: 42px;
+  height: 44px;
   width: auto;
-  max-width: min(196px, 48vw);
+  max-width: min(220px, 56vw);
+  border-radius: 2px;
+  object-fit: contain;
+  object-position: left center;
 }
 .nav-links {
   display: flex;
@@ -1142,8 +1145,8 @@ main, .site-footer { max-width: var(--max); margin: 0 auto; background: var(--pa
     min-width: 0;
   }
   .nav-wordmark img {
-    height: 40px;
-    max-width: min(180px, 46vw);
+    height: 42px;
+    max-width: min(200px, 54vw);
   }
   .nav-site-name { display: none; }
   .nav-links { display: none; }
