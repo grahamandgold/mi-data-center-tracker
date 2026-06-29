@@ -62,7 +62,7 @@
     p.set("lat", c.lat.toFixed(4));
     p.set("lng", c.lng.toFixed(4));
     p.set("z", map.getZoom());
-    if (isSat) p.set("sat", "1");
+    if (currentMode !== "dark") p.set("mode", currentMode);
     const activeFilters = [...filtersEl.querySelectorAll("input:checked")].map(i => i.value);
     if (activeFilters.length !== statuses.length) p.set("f", activeFilters.join(","));
     history.replaceState(null, "", "?" + p.toString());
@@ -228,24 +228,36 @@
     if (btn) flyToPoint(btn.dataset.point);
   });
 
-  // ── Satellite toggle ──
-  const satBtn = document.querySelector("#sat-toggle");
-  if (satBtn) {
-    satBtn.textContent = isSat ? "Dark map" : "Satellite";
-    satBtn.addEventListener("click", () => {
-      if (isSat) {
-        map.removeLayer(satTile); darkTile.addTo(map); currentTile = darkTile;
-        document.getElementById("map").classList.add("dark-tiles");
-        satBtn.textContent = "Satellite";
-      } else {
-        map.removeLayer(darkTile); satTile.addTo(map); currentTile = satTile;
-        document.getElementById("map").classList.remove("dark-tiles");
-        satBtn.textContent = "Dark map";
-      }
-      isSat = !isSat;
-      updatePermalink();
+  // ── 3-mode tile toggle (Dark / Daylight / Satellite) ──
+  const dayTile = L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    maxZoom: 18,
+    attribution: '© <a href="https://openstreetmap.org/copyright" style="color:#4e5468">OpenStreetMap</a>'
+  });
+
+  let currentMode = isSat ? "sat" : "dark";
+
+  function setTileMode(mode) {
+    [darkTile, dayTile, satTile].forEach(t => { try { map.removeLayer(t); } catch(e){} });
+    const mapEl = document.getElementById("map");
+    if (mode === "dark") {
+      darkTile.addTo(map); mapEl.classList.add("dark-tiles");
+    } else if (mode === "day") {
+      dayTile.addTo(map); mapEl.classList.remove("dark-tiles");
+    } else {
+      satTile.addTo(map); mapEl.classList.remove("dark-tiles");
+    }
+    currentMode = mode;
+    document.querySelectorAll(".tile-btn").forEach(b => {
+      b.classList.toggle("active", b.dataset.mode === mode);
     });
+    updatePermalink();
   }
+
+  // Wire up the 3-mode tile toggle buttons
+  document.querySelectorAll(".tile-btn").forEach(b => {
+    b.classList.toggle("active", b.dataset.mode === currentMode);
+    b.addEventListener("click", () => setTileMode(b.dataset.mode));
+  });
 
   // ── Copy link button ──
   const linkBtn = document.querySelector("#copy-link");
