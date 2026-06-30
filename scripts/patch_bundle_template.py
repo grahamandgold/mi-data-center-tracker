@@ -49,13 +49,26 @@ def encode_like_bundler(template: str) -> str:
 
 
 def load_homepage_template() -> str:
+    import re as _re
+
     from productionize_homepage import productionize_homepage
-    from theme_assets import inject_theme_template, template_from_dc
+    from theme_assets import inject_theme_template
 
     dc = (HANDOFF / "Homepage.dc.html").read_text(encoding="utf-8")
-    tpl = template_from_dc(dc)
-    tpl = productionize_homepage("<x-dc>" + tpl + "</x-dc>")
-    tpl = tpl[len("<x-dc>") : -len("</x-dc>")]
+    inner_m = _re.search(r"<x-dc>(.*)</x-dc>", dc, _re.DOTALL)
+    if not inner_m:
+        raise ValueError("x-dc block not found in Homepage.dc.html")
+    inner = inner_m.group(1).strip()
+    script_m = _re.search(
+        r"<script[^>]*data-dc-script[^>]*>.*?</script>",
+        dc,
+        _re.DOTALL,
+    )
+    inner = productionize_homepage("<x-dc>" + inner + "</x-dc>")
+    inner = inner[len("<x-dc>") : -len("</x-dc>")]
+    tpl = inner
+    if script_m:
+        tpl += "\n" + productionize_homepage(script_m.group(0))
     for old, new in LINK_REPLACEMENTS:
         tpl = tpl.replace(old, new)
     return inject_theme_template(tpl)

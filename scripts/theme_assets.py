@@ -50,7 +50,16 @@ def inject_theme_shell(html: str) -> str:
 
 
 def template_from_dc(dc_html: str) -> str:
+    """Return bundler template markup + logic script from a .dc.html source file."""
     m = re.search(r"<x-dc>(.*)</x-dc>", dc_html, re.DOTALL)
     if not m:
         raise ValueError("x-dc block not found in .dc.html")
-    return m.group(1).strip()
+    tpl = m.group(1).strip()
+    script_m = re.search(
+        r"<script[^>]*data-dc-script[^>]*>.*?</script>",
+        dc_html,
+        re.DOTALL,
+    )
+    if script_m:
+        tpl += "\n" + script_m.group(0)
+    return tpl
