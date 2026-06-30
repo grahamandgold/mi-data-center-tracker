@@ -285,14 +285,6 @@ def productionize_homepage(html: str) -> str:
         "loadCMS() {\n    const base = this.cmsBase();\n    if (!base) return;",
     )
 
-    # Base href must live inside the unpacked template (survives replaceWith)
-    if '<base href=' not in html:
-        html = html.replace(
-            '<meta name="viewport" content="width=device-width, initial-scale=1">',
-            '<meta name="viewport" content="width=device-width, initial-scale=1">\n<base href="/mi-data-center-tracker/">',
-            1,
-        )
-
     return html
 
 
