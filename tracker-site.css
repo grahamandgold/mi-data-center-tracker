@@ -141,7 +141,7 @@
 
 @media (min-width: 901px) {
   :root {
-    --logo-display-h: 102px;
+    --logo-display-h: 112px;
   }
   .site-page .nav-brand-logo-wrap {
     max-width: min(520px, 38vw);
@@ -170,7 +170,7 @@
     min-height: 96px;
   }
   :root {
-    --logo-display-h: 68px;
+    --logo-display-h: 76px;
   }
   .site-page .nav-brand {
     margin-right: 8px;
@@ -178,7 +178,7 @@
     min-width: 0;
   }
   .site-page .nav-brand-logo-wrap {
-    max-width: min(320px, 64vw);
+    max-width: min(360px, 72vw);
   }
   .site-page .nav-brand-tag {
     font-size: .6rem;
@@ -195,17 +195,16 @@
 
 @media (max-width: 620px) {
   .site-page .nav-brand-tag {
-    font-size: .52rem;
+    font-size: .58rem;
     letter-spacing: .1em;
     max-width: 100%;
-    overflow: hidden;
-    text-overflow: ellipsis;
+    white-space: normal;
   }
   .site-page .nav-brand-logo-wrap {
-    max-width: min(260px, 56vw);
+    max-width: min(300px, 68vw);
   }
   :root {
-    --logo-display-h: 56px;
+    --logo-display-h: 64px;
   }
 }
 
