@@ -94,11 +94,23 @@ MAP_PATCHES: list[tuple[str, str]] = [
 
 def patch_map_template(tpl: str) -> str:
     for old, new in MAP_PATCHES:
-        if old not in tpl:
-            raise ValueError(f"Map patch block not found: {old[:60]!r}…")
-        tpl = tpl.replace(old, new, 1)
+        if old in tpl:
+            tpl = tpl.replace(old, new, 1)
     for old, new in LINK_REPLACEMENTS:
         tpl = tpl.replace(old, new)
+    if '<base href="/mi-data-center-tracker/">' not in tpl:
+        tpl = tpl.replace(
+            '<meta charset="utf-8">',
+            '<meta charset="utf-8">\n<base href="/mi-data-center-tracker/">',
+            1,
+        )
+    tpl = tpl.replace('href="#map"', 'href="map/"')
+    tpl = tpl.replace('href="Homepage.dc.html"', 'href="index.html"')
+    tpl = tpl.replace('href="Stories.dc.html"', 'href="stories.html"')
+    tpl = tpl.replace('href="Meetings.dc.html"', 'href="meetings.html"')
+    tpl = tpl.replace('href="Learn.dc.html"', 'href="learn.html"')
+    tpl = tpl.replace('href="Sponsor.dc.html"', 'href="sponsor.html"')
+    tpl = tpl.replace('href="Live Map.dc.html"', 'href="map/"')
     return tpl
 
 
