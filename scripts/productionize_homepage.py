@@ -289,8 +289,19 @@ def extract_template_from_bundle(bundle_html: str) -> str:
     return json.loads('"' + m.group(1) + '"')
 
 
+def encode_bundle_template(template: str) -> str:
+    """JSON-encode template for embedding in HTML <script> tag.
+
+    Must escape ``</script>`` as ``<\\u002Fscript>`` — a literal closing tag
+    inside the JSON string terminates the HTML script element early and
+    breaks JSON.parse in the browser.
+    """
+    encoded = json.dumps(template)
+    return encoded.replace("</script>", r"<\u002Fscript>")
+
+
 def inject_template_into_bundle(bundle_html: str, template: str) -> str:
-    encoded = json.dumps(template)  # full JSON string with quotes
+    encoded = encode_bundle_template(template)
     m = re.search(
         r'<script type="__bundler/template">\s*\n"(?:\\.|[^"\\])*"\s*\n',
         bundle_html,
