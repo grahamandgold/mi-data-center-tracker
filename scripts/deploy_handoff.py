@@ -9,7 +9,9 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from productionize_homepage import productionize_bundle_file, productionize_dc_source
+from productionize_homepage import productionize_dc_source
+from patch_bundle_template import patch_index_html
+import subprocess
 
 ROOT = Path(__file__).resolve().parents[1]
 HANDOFF = Path("/Users/gillfillan/Downloads/handoff")
@@ -81,8 +83,14 @@ def main() -> None:
         if not src.exists():
             raise SystemExit(f"Missing {src}")
         if name == "homepage.html":
-            productionize_bundle_file(src)
-        content = patch_html(src.read_text(encoding="utf-8"))
+            # Patch template inside the known-good bundle shell (preserves unpack JS/manifest)
+            shell = subprocess.check_output(
+                ["git", "-C", str(ROOT), "show", "c61b724:index.html"],
+                text=True,
+            )
+            content = patch_index_html(shell)
+        else:
+            content = patch_html(src.read_text(encoding="utf-8"))
         dest.write_text(content, encoding="utf-8")
         print(f"  wrote {dest.relative_to(ROOT)}")
 

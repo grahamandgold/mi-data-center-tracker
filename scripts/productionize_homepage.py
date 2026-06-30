@@ -302,12 +302,15 @@ def extract_template_from_bundle(bundle_html: str) -> str:
 def encode_bundle_template(template: str) -> str:
     """JSON-encode template for embedding in HTML <script> tag.
 
-    Must escape closing tags as ``<\\u002F…>`` — literals inside the JSON
-    string can terminate the HTML script element early and break unpacking.
+    The bundler escapes every ``</tag>`` as ``<\\u002Ftag>`` inside the JSON
+    string. Re-encoding with only ``</script>`` / ``</style>`` breaks DC render.
     """
     encoded = json.dumps(template, ensure_ascii=True)
-    encoded = encoded.replace("</script>", r"<\u002Fscript>")
-    encoded = encoded.replace("</style>", r"<\u002Fstyle>")
+    encoded = re.sub(
+        r"</([^>]+)>",
+        lambda m: "<\\u002F" + m.group(1) + ">",
+        encoded,
+    )
     return encoded
 
 
