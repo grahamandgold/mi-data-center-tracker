@@ -6,19 +6,20 @@ import json
 import re
 from pathlib import Path
 
-THEME_CSS_LINK = '<link rel="stylesheet" href="theme.css">'
+SITE_BASE = "/mi-data-center-tracker/"
+THEME_CSS_LINK = f'<link rel="stylesheet" href="{SITE_BASE}theme.css">'
 
 THEME_TOGGLE = (
-    '<button type="button" class="mdct-theme-btn" aria-label="Switch to daylight mode" '
-    'aria-pressed="false" title="Switch to daylight mode">'
+    '<button type="button" class="mdct-theme-btn" aria-label="Switch to light mode" '
+    'aria-pressed="false" title="Switch to light mode">'
     '<span class="mdct-theme-icon" aria-hidden="true">☀</span>'
-    '<span class="mdct-theme-label">Day</span></button>'
+    '<span class="mdct-theme-label">Light</span></button>'
 )
 
-THEME_SHELL_INLINE = """<script>
-(function(){try{var t=localStorage.getItem('mdct-theme');if(t==='light'||t==='dark')document.documentElement.dataset.theme=t;}catch(e){}})();
+THEME_HEAD_SCRIPTS = f"""<script>
+(function(){{try{{var t=localStorage.getItem('mdct-theme');if(t==='light'||t==='dark')document.documentElement.dataset.theme=t;}}catch(e){{}}}})();
 </script>
-<script src="theme.js"></script>"""
+<script src="{SITE_BASE}theme.js"></script>"""
 
 # support.js manifest UUIDs from the original Claude bundler output (c61b724).
 SUPPORT_UUIDS: dict[str, str] = {
@@ -68,15 +69,15 @@ def wrap_bundle_document(
     script: str | None,
     support_uuid: str,
     *,
-    base_href: str | None = None,
+    base_href: str = SITE_BASE,
 ) -> str:
     """Wrap x-dc inner markup in the full HTML document the bundler expects."""
-    base_line = f'<base href="{base_href}">\n' if base_href else ""
     tpl = (
         "<!DOCTYPE html>\n<html><head>\n"
         '<meta charset="utf-8">\n'
-        f"{base_line}"
+        f'<base href="{base_href}">\n'
         '<meta name="viewport" content="width=device-width, initial-scale=1">\n'
+        f"{THEME_HEAD_SCRIPTS}\n"
         f'<script src="{support_uuid}"></script>\n'
         "</head>\n<body>\n<x-dc>\n"
         f"{inner}\n"
@@ -97,25 +98,42 @@ def inject_theme_template(tpl: str) -> str:
             1,
         )
 
-    if "mdct-theme-btn" not in tpl:
+    if "mdct-theme-btn" not in tpl and 'aria-label="Basemap"' not in tpl:
         tpl = tpl.replace(
             '<button class="hamburger"',
             THEME_TOGGLE + "\n      " + '<button class="hamburger"',
-        )
-        tpl = tpl.replace(
-            '<div class="seg" role="group" aria-label="Basemap">',
-            THEME_TOGGLE + "\n      " + '<div class="seg" role="group" aria-label="Basemap">',
-            1,
         )
 
     return tpl
 
 
 def inject_theme_shell(html: str) -> str:
-    """Add early theme scripts to bundle shell <head>."""
-    if "theme.js" in html:
+    """Add early theme scripts to pre-unpack bundle shell (flash prevention)."""
+    if "mdct-theme" in html and "theme.js" in html:
+        html = harden_error_sink(html)
         return html
-    return html.replace("</head>", "  " + THEME_SHELL_INLINE + "\n</head>", 1)
+    html = html.replace("</head>", "  " + THEME_HEAD_SCRIPTS + "\n</head>", 1)
+    return harden_error_sink(html)
+
+
+def harden_error_sink(html: str) -> str:
+    """Suppress noisy resource-load errors in the dev error overlay."""
+    old = (
+        "    d.textContent = (d.textContent ? d.textContent + String.fromCharCode(10) : '') +\n"
+        "      '[bundle] ' + (e.message || e.type) +\n"
+        "      (e.filename ? ' (' + e.filename.slice(0, 60) + ':' + e.lineno + ')' : '');"
+    )
+    new = (
+        "    var msg = e.message || '';\n"
+        "    if (!msg && e.target && /^(SCRIPT|LINK|IMG|VIDEO)$/.test(e.target.tagName || '')) return;\n"
+        "    if (!msg && e.type === 'error') return;\n"
+        "    d.textContent = (d.textContent ? d.textContent + String.fromCharCode(10) : '') +\n"
+        "      '[bundle] ' + (msg || e.type) +\n"
+        "      (e.filename ? ' (' + e.filename.slice(0, 60) + ':' + e.lineno + ')' : '');"
+    )
+    if old in html:
+        html = html.replace(old, new, 1)
+    return html
 
 
 def template_from_dc(dc_html: str) -> str:

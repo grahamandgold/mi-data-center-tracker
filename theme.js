@@ -24,12 +24,12 @@
     var light = theme === "light";
     document.querySelectorAll(".mdct-theme-btn").forEach(function (btn) {
       btn.setAttribute("aria-pressed", light ? "true" : "false");
-      btn.title = light ? "Switch to dark mode" : "Switch to daylight mode";
-      btn.setAttribute("aria-label", light ? "Switch to dark mode" : "Switch to daylight mode");
+      btn.title = light ? "Switch to dark mode" : "Switch to light mode";
+      btn.setAttribute("aria-label", light ? "Switch to dark mode" : "Switch to light mode");
       var icon = btn.querySelector(".mdct-theme-icon");
       var label = btn.querySelector(".mdct-theme-label");
       if (icon) icon.textContent = light ? "☾" : "☀";
-      if (label) label.textContent = light ? "Dark" : "Day";
+      if (label) label.textContent = light ? "Dark" : "Light";
     });
   }
 

@@ -37,9 +37,9 @@
   .mdct { height: 100vh; min-height: 620px; display: flex; flex-direction: column; background: #100f0e; color: #f4f1ee; overflow: hidden; }
 
   /* top bar */
-  .mdct-top { display: flex; align-items: center; justify-content: space-between; gap: 16px; height: 78px; flex-shrink: 0; padding: 0 26px; background: #16140f; border-bottom: 1px solid #221f1b; position: relative; z-index: 1300; }
+  .mdct-top { display: flex; align-items: center; justify-content: space-between; gap: 12px; min-height: 72px; flex-shrink: 0; padding: 8px 20px; background: #16140f; border-bottom: 1px solid #221f1b; position: relative; z-index: 1300; }
   .brand-img { height: 46px; width: auto; display: block; }
-  .lockup { display: inline-flex; align-items: center; font-size: 36px; line-height: 1; }
+  .lockup { display: inline-flex; align-items: center; font-size: 28px; line-height: 1; }
   .lockup .mark { height: 1.3em; width: auto; display: block; }
   .lockup .divider { width: 2px; align-self: stretch; background: #E03131; margin: .12em .5em .12em .28em; border-radius:0; }
   .lockup .words { display: flex; flex-direction: column; justify-content: center; }
@@ -49,7 +49,8 @@
   .mdct-brand { display: inline-flex; flex-direction: column; align-items: flex-start; text-decoration: none; }
   .mdct-brand .wm { font-family: 'Saira Condensed', sans-serif; font-weight: 700; font-size: 23px; line-height: 1; letter-spacing: .004em; color: #f4f1ee; white-space: nowrap; }
   .mdct-brand .rule { display: block; width: 100%; height: 2.5px; background: #E03131; margin-top: 6px; }
-  .mdct-nav { display: flex; align-items: center; gap: 22px; }
+  .mdct-nav { display: flex; align-items: center; gap: 14px; flex-shrink: 1; min-width: 0; }
+  .mdct-nav .nav-pmt { opacity: .85; }
   .navlink { position: relative; color: #9b9794; text-decoration: none; font-size: 13px; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; transition: color .18s; }
   .navlink:hover { color: #f4f1ee; }
   .navlink.on { color: #f4f1ee; }
@@ -217,6 +218,8 @@
   .panel-mob-bar { display: none; }
   @media (max-width: 1180px) {
     .mdct-ribbon { max-width: calc(100% - 32px); }
+    .mdct-nav .nav-pmt { display: none; }
+    .lockup { font-size: 24px; }
   }
   @media (max-width: 860px) {
     .mdct-nav .navlink, .mdct-nav .seg { display: none; }
@@ -308,7 +311,7 @@
       <a class="navlink on" href="map/">Live Map</a>
       <a class="navlink" href="stories.html">Stories</a>
       <a class="navlink" href="meetings.html">Meetings</a>
-      <a class="navlink" href="https://publicmeetingtracker.com" target="_blank" rel="noopener">PublicMeetingTracker ↗</a>
+      <a class="navlink nav-pmt" href="https://publicmeetingtracker.com" target="_blank" rel="noopener">PMT ↗</a>
       <div class="seg" role="group" aria-label="Basemap">
         <button type="button" class="seg-btn {{ bmDark }}" onClick="{{ setDark }}">Dark</button>
         <button type="button" class="seg-btn {{ bmDay }}" onClick="{{ setDay }}">Day</button>
@@ -621,17 +624,10 @@ class Component extends DCLogic {
     }, 60);
     const siteTheme = document.documentElement.dataset.theme;
     if (siteTheme === 'light') this.setState({ basemap: 'day' });
-    this._onTheme = (e) => {
-      const t = e.detail && e.detail.theme;
-      if (!t) return;
-      if (t === 'light' && this.state.basemap === 'dark') this.setState({ basemap: 'day' });
-      else if (t === 'dark' && this.state.basemap === 'day') this.setState({ basemap: 'dark' });
-    };
-    window.addEventListener('mdct-theme-change', this._onTheme);
+    else if (siteTheme === 'dark' && this.state.basemap === 'day') this.setState({ basemap: 'dark' });
   }
   componentWillUnmount() {
     clearInterval(this._wait);
-    if (this._onTheme) window.removeEventListener('mdct-theme-change', this._onTheme);
     if (this._map) this._map.remove();
   }
 
@@ -877,7 +873,9 @@ class Component extends DCLogic {
     return {
       stats, moratoriaCount,
       bmDark: seg('dark'), bmDay: seg('day'), bmSat: seg('sat'),
-      setDark: () => this.setState({ basemap: 'dark' }), setDay: () => this.setState({ basemap: 'day' }), setSat: () => this.setState({ basemap: 'sat' }),
+      setDark: () => { try { window.MDCTTheme?.set('dark'); } catch (e) {} this.setState({ basemap: 'dark' }); },
+      setDay: () => { try { window.MDCTTheme?.set('light'); } catch (e) {} this.setState({ basemap: 'day' }); },
+      setSat: () => this.setState({ basemap: 'sat' }),
       tabList: s.tab === 'list' ? 'on' : '', tabFilter: s.tab === 'filter' ? 'on' : '', tabLayers: s.tab === 'layers' ? 'on' : '', tabMore: s.tab === 'more' ? 'on' : '',
       goList: () => this.setState({ tab: 'list' }), goFilter: () => this.setState({ tab: 'filter' }), goLayers: () => this.setState({ tab: 'layers' }), goMore: () => this.setState({ tab: 'more' }),
       isList: s.tab === 'list', isFilter: s.tab === 'filter', isLayers: s.tab === 'layers', isMore: s.tab === 'more',

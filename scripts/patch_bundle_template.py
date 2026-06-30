@@ -147,9 +147,10 @@ def patch_index_html(html: str) -> str:
     html = html[: m.start()] + m.group(1) + encoded + m.group(3) + html[m.end() :]
     html = decompress_manifest(html)
     html = harden_bundle_shell(html)
-    from theme_assets import inject_theme_shell
+    from theme_assets import harden_error_sink, inject_theme_shell
 
-    return inject_theme_shell(html)
+    html = inject_theme_shell(html)
+    return harden_error_sink(html)
 
 
 def main() -> None:

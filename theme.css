@@ -236,6 +236,14 @@
   background: rgba(250, 249, 245, 0.97) !important;
 }
 
+[data-theme="light"] .mdct-ribbon .stat {
+  color: #1a1813 !important;
+}
+
+[data-theme="light"] .mdct-ribbon .stat strong {
+  color: #1a1813 !important;
+}
+
 [data-theme="light"] .mdct-panel,
 [data-theme="light"] .mdct-ribbon,
 [data-theme="light"] .welcome-card,
