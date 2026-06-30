@@ -4,15 +4,16 @@ Independent public-source tracking of Michigan data center projects, public meet
 
 **Live site:** https://midatacentertracker.github.io/mi-data-center-tracker/
 
-## Pages (design handoff build)
+## Pages
 
-- `index.html` — homepage (Live Wire, On Deck, hero map teaser, stats)
+- `index.html` — responsive homepage (Live Wire, On Deck, hero map teaser, stats)
 - `map/` — interactive live map
 - `stories.html` — The Wire / published stories
 - `meetings.html` — hearings and public meetings
 - `learn.html` — methodology and sources
 - `sponsor.html` — partnership / support
-- `handoff/` — Claude design source + `HANDOFF.md` for future CMS wiring
+- `handoff/` — design source (`.dc.html`) + `HANDOFF.md` for CMS wiring
+- `scripts/productionize_homepage.py` — strips prototype chrome from homepage bundle
 
 ## Data layers (preserved from prior build)
 

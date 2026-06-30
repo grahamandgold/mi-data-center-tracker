@@ -5,7 +5,11 @@ from __future__ import annotations
 
 import re
 import shutil
+import sys
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from productionize_homepage import productionize_bundle_file, productionize_dc_source
 
 ROOT = Path(__file__).resolve().parents[1]
 HANDOFF = Path("/Users/gillfillan/Downloads/handoff")
@@ -76,6 +80,8 @@ def main() -> None:
         src = DIST / name
         if not src.exists():
             raise SystemExit(f"Missing {src}")
+        if name == "homepage.html":
+            productionize_bundle_file(src)
         content = patch_html(src.read_text(encoding="utf-8"))
         dest.write_text(content, encoding="utf-8")
         print(f"  wrote {dest.relative_to(ROOT)}")
@@ -91,7 +97,12 @@ def main() -> None:
             shutil.copy2(p, ROOT / "handoff" / item)
 
     for dc in HANDOFF.glob("*.dc.html"):
-        shutil.copy2(dc, ROOT / "handoff" / dc.name)
+        dest_dc = ROOT / "handoff" / dc.name
+        text = dc.read_text(encoding="utf-8")
+        if dc.name == "Homepage.dc.html":
+            text = productionize_dc_source(text)
+        dest_dc.write_text(text, encoding="utf-8")
+        print(f"  wrote handoff/{dc.name}")
 
     for rel in REMOVE:
         p = ROOT / rel
@@ -99,22 +110,26 @@ def main() -> None:
             p.unlink()
             print(f"  removed {rel}")
 
-    # Redirect legacy map.html → map/
-    (ROOT / "map.html").write_text(
-        """<!DOCTYPE html>
+    def write_redirect(name: str, target: str, title: str) -> None:
+        (ROOT / name).write_text(
+            f"""<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta http-equiv="refresh" content="0;url=map/">
-  <script>location.replace("map/");</script>
-  <link rel="canonical" href="https://midatacentertracker.github.io/mi-data-center-tracker/map/">
-  <title>Redirecting to Live Map…</title>
+  <meta http-equiv="refresh" content="0;url={target}">
+  <script>location.replace("{target}");</script>
+  <link rel="canonical" href="https://midatacentertracker.github.io/mi-data-center-tracker/{target}">
+  <title>Redirecting…</title>
 </head>
-<body><p><a href="map/">Continue to Live Map</a></p></body>
+<body><p><a href="{target}">{title}</a></p></body>
 </html>
 """,
-        encoding="utf-8",
-    )
+            encoding="utf-8",
+        )
+
+    write_redirect("map.html", "map/", "Continue to Live Map")
+    write_redirect("sponsorship.html", "sponsor.html", "Continue to Sponsor")
+    write_redirect("methodology.html", "learn.html", "Continue to Learn")
 
     # Site config stub — wire CMS in next phase
     (ROOT / "site-config.js").write_text(
