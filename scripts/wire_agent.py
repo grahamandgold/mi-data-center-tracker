@@ -35,6 +35,10 @@ PROMPT = """You are the wire editor for the Michigan Data Center Tracker \
 (https://grahamandgold.github.io/mi-data-center-tracker/). Current UTC time: {now}.
 
 MISSION: fill the homepage wire with what is happening RIGHT NOW.
+Aim for a LIVELY mix: each refresh should include 2-4 X or Reddit items when real
+conversations exist — posts from officials, candidates, reporters, utilities, and
+high-engagement community threads. Social items make the wire feel urgent; include
+them whenever they document something real.
 START by running x_search for "Michigan data center", "Michigan Senate debate",
 and "Grand Rapids debate" over the last 15 hours — live political events (a Senate
 debate where data centers came up, for example) are exactly the lead we want.
@@ -59,6 +63,14 @@ coverage link the specific post (https://x.com/...) from a newsroom, reporter, \
 official, or candidate account, and set "source": "X". For Reddit link the specific thread and set "source": "Reddit" — posts document the public conversation; inclusion is not endorsement.
 - Never invent a story, meeting, quote, URL, or statistic. Unverified means omitted.
 - Deks under 55 words, factual. Note when something is a live/developing event.
+- POLITICAL BALANCE: when covering candidates or a debate, cover ALL major \
+candidates' data center positions — not just one. If you ran an item on one \
+candidate, search for and include the rivals' statements from the same event. \
+If a rival said nothing on the topic, reflect the range of positions in one \
+combined debate story instead of a single-candidate item.
+- Prefer the outlet's OWN website link over its Facebook/YouTube post when both \
+exist. If only a social/video link exists, keep "source" as the outlet name — the \
+site labels the destination automatically.
 
 3. Respond with ONLY a JSON object (no markdown fences, no commentary):
 {{"updated_at": "<current ISO-8601 UTC>", "generator": "grok-wire-agent",
@@ -205,6 +217,19 @@ def main() -> int:
     for s in checked:
         s["lead"] = False
     (leads[0] if leads else checked[0])["lead"] = True
+
+    # Accumulate: keep previously published stories that are still fresh (<24h)
+    try:
+        prev = json.loads(LIVE.read_text(encoding="utf-8")).get("stories", [])
+        have = {x["url"] for x in checked}
+        for old_story in prev:
+            if old_story.get("url") not in have and fresh_enough(old_story.get("iso", ""), hours=24.0):
+                old_story["lead"] = False
+                checked.append(old_story)
+        checked.sort(key=lambda x: str(x.get("iso", "")), reverse=True)
+        checked = checked[:12]
+    except Exception as e:  # noqa: BLE001
+        print(f"::warning::accumulate skipped: {e}")
 
     payload = {
         "updated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
