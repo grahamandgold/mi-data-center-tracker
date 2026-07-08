@@ -1,6 +1,25 @@
 {
- "updated_at": "2026-07-08T22:08:27Z",
+ "updated_at": "2026-07-08T22:18:38+00:00",
  "generator": "grok-wire-agent",
- "items": [],
- "accuracy_checked_at": "2026-07-08T22:08:20+00:00"
+ "items": [
+  {
+   "iso": "2026-07-07T04:00:00+00:00",
+   "region": "metro",
+   "cat": "Washtenaw Co.",
+   "tag": "Power & Grid",
+   "title": "Lima Township Residents Block Proposed Gas Plant Tied to Regional Energy Demands",
+   "dek": "A rural Washtenaw County community halted plans for a 1.4-gigawatt power plant after organizers highlighted similarities to the massive Saline Township data center project serving Oracle and OpenAI.",
+   "source": "Michigan Advance",
+   "url": "https://michiganadvance.com/2026/07/07/how-a-rural-michigan-community-stopped-a-proposed-1-4-gigawatt-power-plant/",
+   "breaking": false,
+   "lead": true,
+   "id": "a90e2e9bd65d",
+   "kind": "story",
+   "filed_at": "2026-07-08T22:18:26+00:00",
+   "accuracy": "unverified-judge-error",
+   "judge_score": 7,
+   "judge_note": "Concrete development: residents successfully blocked a specific power plant proposal with clear data-center connection to Oracle/OpenAI Saline project."
+  }
+ ],
+ "accuracy_checked_at": "2026-07-08T22:18:33+00:00"
 }

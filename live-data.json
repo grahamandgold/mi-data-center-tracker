@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-08T22:08:27Z",
+ "updated_at": "2026-07-08T22:18:26+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -141,14 +141,14 @@
   {
    "iso": "2026-07-08",
    "body": "Saline Township Board",
-   "topic": "Vote on 12-year tax abatement application for Related Digital Oracle data center project; ongoing construction updates and public input expected",
+   "topic": "Review of IFEC application tied to Related Digital data center project, including potential tax incentives and construction impacts on local roads and infrastructure",
    "region": "SE Michigan",
    "regionKey": "metro",
    "county": "Washtenaw",
    "time": "7:00 PM",
    "status": "Board meeting",
    "urgent": true,
-   "link": "https://salinetownship.org/meeting-agendas.php",
+   "link": "https://salinetownship.org/",
    "linkLabel": "Agenda",
    "stream": ""
   },
