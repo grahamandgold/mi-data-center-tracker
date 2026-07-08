@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-08T21:40:57Z",
+ "updated_at": "2026-07-08T21:54:25+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -85,7 +85,7 @@
   {
    "iso": "2026-07-08",
    "body": "Saline Township Board of Trustees",
-   "topic": "Public hearing on Oracle America's application for an Industrial Facilities Tax Exemption Certificate tied to the $43 billion hyperscale data center project",
+   "topic": "Public hearing on Oracle America Cloud Services LLC application for 12-year Industrial Facilities Tax Exemption Certificate (50% abatement) on $43B+ AI data center project",
    "region": "SE Michigan",
    "regionKey": "metro",
    "county": "Washtenaw",
