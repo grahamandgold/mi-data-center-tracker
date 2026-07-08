@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-08T11:17:55+00:00",
+ "updated_at": "2026-07-08T16:25:47+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -144,6 +144,20 @@
   "accuracy": "checked"
  },
  "meetings": [
+  {
+   "iso": "2026-07-08",
+   "body": "Saline Township Board of Trustees",
+   "topic": "Public hearing on Oracle America's application for an Industrial Facilities Tax Exemption Certificate for the $43 billion data center project; the exemption would reduce property taxes on the massive facility amid concerns over local revenue and infrastructure impacts.",
+   "region": "SE Michigan",
+   "regionKey": "metro",
+   "county": "Washtenaw",
+   "time": "7:00 PM",
+   "status": "Board meeting",
+   "urgent": true,
+   "link": "https://salinetownship.org/meeting-agendas.php",
+   "linkLabel": "Agenda",
+   "stream": ""
+  },
   {
    "iso": "2026-07-08",
    "body": "Hayes Township Data Center Advisory Group",
