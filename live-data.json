@@ -26,7 +26,7 @@
    "url": "https://x.com/Grimillionaire/status/2074500251629547570",
    "breaking": false,
    "lead": false,
-   "accuracy": "unverified-judge-error"
+   "accuracy": "checked"
   },
   {
    "iso": "2026-07-07T12:00:00+00:00",
@@ -43,5 +43,5 @@
   }
  ],
  "meetings": [],
- "accuracy_checked_at": "2026-07-08T07:38:01+00:00"
+ "accuracy_checked_at": "2026-07-08T07:56:02+00:00"
 }
