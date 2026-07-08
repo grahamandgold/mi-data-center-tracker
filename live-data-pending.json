@@ -1,24 +1,6 @@
 {
- "updated_at": "2026-07-08T21:58:46Z",
+ "updated_at": "2026-07-08T21:59:22Z",
  "generator": "grok-wire-agent",
- "items": [
-  {
-   "title": "Girard Township OKs data center rules as Coldwater starts drafting its own",
-   "dek": "Two southwest Michigan townships move forward on zoning and permitting standards for data centers. The actions signal how local governments are responding to rapid industry interest. Residents will see clearer rules on where and how these projects can proceed.",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSUw3bEFEVGZQMTA2MUt4ZkY2TTdwNVhzVzlja2FXNTF1YndUYU5hWjVuUmtmd2VjOEVQYjA5WUdRZ0g1cHRQbDRCZUV3VXpMR2NPLW45Z2h6VEV3bU9jQTlPalUyVmlZTWowbFJ4MzNRaG9WX291a3hlOXBtXzFaVDRUM0R2Y2ZSTVpvZjk3M29FbGYtMUY5ZC1JR1F0MUZaY0VsbGh1M2V1RE1zbkZVdE5LTnJ3VURUZGQxRjJtSjRrUENVRjdIZDhSTGpYWU1CVGxNOERibUVRSjNvV2huRnZNak5xdUxx?oc=5",
-   "source": "Coldwater Daily Reporter",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "tag": "Policy",
-   "iso": "2026-07-08T21:53:37Z",
-   "kind": "story",
-   "id": "092f17237db4",
-   "filed_at": "2026-07-08T21:53:37Z",
-   "origin": "google-news",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7,
-   "judge_note": "Two townships advancing specific zoning rules represents concrete regulatory development, though incremental."
-  }
- ],
+ "items": [],
  "accuracy_checked_at": "2026-07-08T21:57:06+00:00"
 }
