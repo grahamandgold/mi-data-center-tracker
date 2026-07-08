@@ -229,10 +229,10 @@
       <div style="position:relative;flex:1;overflow:hidden;display:flex;align-items:center;">
         <div class="ticker-track" style="display:flex;align-items:center;white-space:nowrap;animation:ticker 64s linear infinite;will-change:transform;">
           <sc-for list="{{ tickerItems }}" as="t" hint-placeholder-count="6">
-            <a href="Stories.dc.html" style="display:inline-flex;align-items:center;gap:11px;padding:0 24px;text-decoration:none;border-right:1px solid #221f1b;"><span style="font-family:'Space Mono',monospace;font-size:11px;letter-spacing:.04em;color:{{ t.timeColor }};">{{ t.timeAgo }}</span><span style="font-family:'Saira Condensed',sans-serif;font-weight:600;font-size:15px;letter-spacing:.01em;color:#dad6d1;">{{ t.title }}</span></a>
+            <a href="{{ t.url }}" target="_blank" rel="noopener noreferrer" style="display:inline-flex;align-items:center;gap:11px;padding:0 24px;text-decoration:none;border-right:1px solid #221f1b;"><span style="font-family:'Space Mono',monospace;font-size:11px;letter-spacing:.04em;color:{{ t.timeColor }};">{{ t.timeAgo }}</span><span style="font-family:'Saira Condensed',sans-serif;font-weight:600;font-size:15px;letter-spacing:.01em;color:#dad6d1;">{{ t.title }}</span></a>
           </sc-for>
           <sc-for list="{{ tickerItems }}" as="t" hint-placeholder-count="6">
-            <a href="Stories.dc.html" style="display:inline-flex;align-items:center;gap:11px;padding:0 24px;text-decoration:none;border-right:1px solid #221f1b;"><span style="font-family:'Space Mono',monospace;font-size:11px;letter-spacing:.04em;color:{{ t.timeColor }};">{{ t.timeAgo }}</span><span style="font-family:'Saira Condensed',sans-serif;font-weight:600;font-size:15px;letter-spacing:.01em;color:#dad6d1;">{{ t.title }}</span></a>
+            <a href="{{ t.url }}" target="_blank" rel="noopener noreferrer" style="display:inline-flex;align-items:center;gap:11px;padding:0 24px;text-decoration:none;border-right:1px solid #221f1b;"><span style="font-family:'Space Mono',monospace;font-size:11px;letter-spacing:.04em;color:{{ t.timeColor }};">{{ t.timeAgo }}</span><span style="font-family:'Saira Condensed',sans-serif;font-weight:600;font-size:15px;letter-spacing:.01em;color:#dad6d1;">{{ t.title }}</span></a>
           </sc-for>
         </div>
       </div>
@@ -330,18 +330,19 @@
         <a class="flink" href="Stories.dc.html" style="font-size:13px;letter-spacing:.06em;text-transform:uppercase;font-weight:700;color:#E03131;">All stories →</a>
       </div>
       <div class="wire-grid" style="display:grid;grid-template-columns:1.05fr 1fr;border:1px solid #262320;">
-        <a class="wire-row" href="Stories.dc.html" style="display:flex;flex-direction:column;justify-content:center;border-right:1px solid #262320;border-left:3px solid #E03131;background:#16140f;padding:32px 30px;text-decoration:none;">
+        <a class="wire-row" href="{{ lead.url }}" target="_blank" rel="noopener noreferrer" style="display:flex;flex-direction:column;justify-content:center;border-right:1px solid #262320;border-left:3px solid #E03131;background:#16140f;padding:32px 30px;text-decoration:none;">
           <div style="display:flex;align-items:center;gap:10px;margin-bottom:18px;flex-wrap:wrap;">
             <sc-if value="{{ lead.breaking }}" hint-placeholder-val="{{ true }}"><span style="font-family:'Space Mono',monospace;font-size:10px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:#100f0e;background:#E03131;padding:4px 9px;">Breaking</span></sc-if>
             <span style="font-family:'Space Mono',monospace;font-size:10px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:{{ lead.catColor }};border:1px solid {{ lead.catColor }};padding:3px 9px;">{{ lead.cat }}</span>
             <span style="font-family:'Space Mono',monospace;font-size:11px;color:{{ lead.timeColor }};">{{ lead.timeAgo }}</span>
           </div>
-          <div class="wire-hl" style="font-family:'Saira Condensed',sans-serif;font-weight:700;font-size:32px;line-height:1.03;color:#f4f1ee;letter-spacing:.005em;margin-bottom:18px;">{{ lead.title }}</div>
-          <div style="font-family:'Space Mono',monospace;font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:#8c8884;">{{ lead.source }}</div>
+          <div class="wire-hl" style="font-family:'Saira Condensed',sans-serif;font-weight:700;font-size:32px;line-height:1.03;color:#f4f1ee;letter-spacing:.005em;margin-bottom:12px;">{{ lead.title }}</div>
+          <div style="font-size:14px;line-height:1.45;color:#a39e99;margin-bottom:14px;">{{ lead.framing }}</div>
+          <div style="font-family:'Space Mono',monospace;font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:#8c8884;">{{ lead.source }} ↗</div>
         </a>
         <div style="display:flex;flex-direction:column;background:#13110d;">
           <sc-for list="{{ wireList }}" as="w" hint-placeholder-count="5">
-            <a class="wire-row" href="Stories.dc.html" style="display:flex;align-items:center;gap:16px;padding:0 18px;height:20%;min-height:74px;border-bottom:1px solid #1f1c18;border-left:2px solid {{ w.rowAccent }};text-decoration:none;">
+            <a class="wire-row" href="{{ w.url }}" target="_blank" rel="noopener noreferrer" style="display:flex;align-items:center;gap:16px;padding:0 18px;height:20%;min-height:74px;border-bottom:1px solid #1f1c18;border-left:2px solid {{ w.rowAccent }};text-decoration:none;">
               <span style="font-family:'Space Mono',monospace;font-size:10.5px;letter-spacing:.02em;color:{{ w.timeColor }};width:62px;flex-shrink:0;">{{ w.timeAgo }}</span>
               <span class="wire-hl" style="flex:1;min-width:0;font-family:'Saira Condensed',sans-serif;font-weight:600;font-size:18px;line-height:1.08;color:#dad6d1;letter-spacing:.01em;">{{ w.title }}</span>
               <span style="font-family:'Space Mono',monospace;font-size:9px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:{{ w.catColor }};border:1px solid {{ w.catColor }};padding:3px 7px;flex-shrink:0;">{{ w.cat }}</span>
@@ -693,19 +694,23 @@ class Component extends DCLogic {
 
   renderVals() {
     const go = (key) => () => this.setState({ [key]: true });
-    const NOW = new Date('2026-06-30T12:00:00');
+    const NOW = new Date('2026-07-07T12:00:00');
 
     // ---- CMS feed: wire stories (newest first) ----
     const CAT = {
       Grid: '#E03131', Local: '#7fb0e0', Policy: '#c9a24b', Water: '#5bb3a6', Community: '#b07fd0', Development: '#dd8048',
     };
-    const rawWire = this.state.cmsWire || [
-      { iso: '2026-06-30T09:40', title: 'DTE files for 1,383 MW special-rate contract — largest in state history', source: 'MPSC docket', cat: 'STATEWIDE', breaking: true, lead: true },
-      { iso: '2026-06-30T06:10', title: 'Mundy Township sets July 14 rezoning vote on 600 MW campus', source: 'MLive', cat: 'Genesee Co.' },
-      { iso: '2026-06-29T16:30', title: 'Saline Township extends data center moratorium six months', source: 'Bridge Michigan', cat: 'Washtenaw Co.' },
-      { iso: '2026-06-28T11:00', title: 'Holland water-withdrawal deal draws EGLE scrutiny', source: "Crain's Detroit", cat: 'Ottawa Co.' },
-      { iso: '2026-06-26T14:20', title: "Howell's $1B Meta-backed proposal withdrawn after packed hearing", source: 'Detroit Free Press', cat: 'Livingston Co.' },
-      { iso: '2026-06-24T10:00', title: 'Nine Michigan townships now hold active data center moratoria', source: 'Tracker analysis', cat: 'STATEWIDE' },
+    const rawWire = this.state.cmsWire || (typeof window !== 'undefined' && window.MDCT_HEADLINES) || [
+      { iso: '2026-07-06T10:00', title: 'Michigan lawmakers and residents renew push for statewide data center moratorium', source: 'Michigan Advance', url: 'https://michiganadvance.com/2026/06/24/michigan-lawmakers-residents-renew-push-for-statewide-data-center-moratorium/', framing: 'Bipartisan rally at the Capitol calls for pausing new builds until water, grid, and local-control rules catch up.', cat: 'Policy', breaking: true, lead: true },
+      { iso: '2026-07-05T14:30', title: 'Senate Democrats pitch tighter water and cost rules for data centers', source: 'Michigan Advance', url: 'https://michiganadvance.com/2026/06/18/senate-democrats-propose-tighter-regulations-on-data-centers-amid-statewide-backlash/', framing: 'Eight-bill package would cap water use and bar utilities from passing hyperscale power costs to ratepayers.', cat: 'Policy' },
+      { iso: '2026-07-04T09:15', title: 'House Democrats push transparency and community-benefit requirements', source: 'Michigan Advance', url: 'https://michiganadvance.com/2026/06/26/michigan-house-democrats-pitch-transparency-community-benefit-requirements-for-data-centers/', framing: 'Proposals would require public notice, NDAs limits, and local benefit agreements before rezoning votes.', cat: 'Policy' },
+      { iso: '2026-07-03T11:40', title: 'DTE advances new data center agreements as communities set ground rules', source: 'WKAR', url: 'https://www.wkar.org/wkar-news/2026-02-20/dte-advances-new-data-center-agreements-as-michigan-communities-set-ground-rules', framing: 'Utility reports ~3 GW in late-stage talks while townships draft moratoria and zoning standards.', cat: 'Grid' },
+      { iso: '2026-07-02T08:20', title: 'Tracker: moratoria, legislation, and grid impact across Michigan', source: 'WKAR', url: 'https://www.wkar.org/wkar-news/2026-02-27/michigan-data-center-tracker-moratoria-legislation-and-grid-impact', framing: 'WKAR\'s running tally maps local pauses against pending state bills and utility load filings.', cat: 'STATEWIDE' },
+      { iso: '2026-07-01T16:00', title: 'Mundy Township megasite won\'t house a data center; demolitions continue', source: 'Bridge Michigan', url: 'https://www.bridgemi.com/business-watch/mundy-township-megasite-wont-house-data-center-demolitions-continue/', framing: 'Genesee County\'s flagship megasite shifts away from hyperscale after months of rezoning fights.', cat: 'Genesee Co.' },
+      { iso: '2026-06-30T13:10', title: 'No data centers will be built at Mundy Township megasite', source: 'WNEM', url: 'https://www.wnem.com/2026/02/12/no-data-centers-will-be-built-mundy-twp-megasite/', framing: 'Local officials confirm the industrial park will not host the 600 MW campus residents opposed.', cat: 'Genesee Co.' },
+      { iso: '2026-06-29T10:45', title: 'Mundy board debates timing of data center moratorium', source: 'Genesee County View', url: 'https://geneseecountyview.com/articles/news/mundy-board-debates-timing-of-data-center-moratorium/', framing: 'Trustees weigh an interim pause while attorneys draft permanent zoning language.', cat: 'Local' },
+      { iso: '2026-06-28T12:30', title: 'Lawmakers propose Michigan data center moratorium', source: 'Planet Detroit', url: 'https://planetdetroit.org/2026/03/lawmakers-propose-michigan-data-center-moratorium/', framing: 'Bills would freeze new approvals through 2027 while EGLE and MPSC study water and power impacts.', cat: 'Policy' },
+      { iso: '2026-06-27T15:00', title: 'At least 19 Michigan towns pause data centers — will it hold?', source: 'Bridge Michigan', url: 'https://bridgemi.com/michigan-environment-watch/at-least-19-michigan-towns-pause-data-centers-no-one-knows-if-itll-work/', framing: 'Interim moratoria spread faster than permanent ordinances; lawyers warn pauses can be challenged.', cat: 'STATEWIDE' },
     ];
     const ago = (iso) => {
       const h = Math.round((NOW - new Date(iso)) / 36e5);
@@ -722,7 +727,8 @@ class Component extends DCLogic {
         timeAgo: ago(w.iso),
         dateLabel: mon[d.getMonth()] + ' ' + String(d.getDate()).padStart(2, '0'),
         isNew: hrs < 36,
-        catColor: '#9b9794',
+        catColor: CAT[w.cat] || '#9b9794',
+        url: w.url || 'stories.html',
         timeColor: hrs < 36 ? '#E03131' : '#7d7975',
         rowAccent: hrs < 36 ? '#E03131' : 'transparent',
       });
