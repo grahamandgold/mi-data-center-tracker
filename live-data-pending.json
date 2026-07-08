@@ -1,6 +1,31 @@
 {
- "updated_at": "2026-07-08T21:24:40+00:00",
+ "updated_at": "2026-07-08T21:35:58+00:00",
  "generator": "grok-wire-agent",
- "items": [],
+ "items": [
+  {
+   "title": "Saline Board Meets on Data-Center Tax Abatement",
+   "dek": "The Saline Township Board of Trustees meets tonight at 7 p.m., but the agenda packet is not yet public and could not be extracted from the township site. Residents 30 minutes away should monitor whether any tax-abatement or development votes appear, given the township's history with data-center proposals.",
+   "url": "https://salinetownship.org/meeting-agendas.php",
+   "source": "Saline Township Board of Trustees agenda",
+   "region": "Southeast Michigan",
+   "cat": "Meetings",
+   "tag": "Agenda watch",
+   "iso": "2026-07-08T21:35:58+00:00",
+   "kind": "agenda",
+   "id": "0719d37e5cc3",
+   "filed_at": "2026-07-08T21:35:58+00:00",
+   "accuracy": "thin — needs human background",
+   "findings": "The agenda packet for the meeting is not yet public and could not be extracted from the township site. | No specific items, votes, or applications can be confirmed for tonight's meeting.",
+   "perspective": "Without access to the agenda, no claims about specific applications, project details, tax abatement requests, or votes can be verified for tonight's meeting. Any coverage must await release of the official packet.",
+   "documents": [
+    {
+     "label": "Agenda page",
+     "url": "https://salinetownship.org/meeting-agendas.php"
+    }
+   ],
+   "depth_score": 0,
+   "extraction_method": "vision-screenshot"
+  }
+ ],
  "accuracy_checked_at": "2026-07-08T21:24:37+00:00"
 }
