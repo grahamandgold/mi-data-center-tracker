@@ -40,5 +40,85 @@
    "text": "Story killed ('Lawmakers in 20+ States Propose Rules on Data Centers Amid Local Pushb'): this story is from yesterday. i am only looking for stories from the past 8-12 hours. remember that.",
    "at": "2026-07-08T19:28:21Z"
   }
- ]
+ ],
+ "rules": [
+  {
+   "id": "L001",
+   "trigger": "story-selection",
+   "rule": "Only select Michigan-focused stories with clear local impact; ignore hyperlocal national news.",
+   "applies_to": "all",
+   "weight": 1.0,
+   "examples": [
+    "Greenwood County Holds Public Hearing on Data Center Regulations"
+   ],
+   "retired": false
+  },
+  {
+   "id": "L002",
+   "trigger": "story-selection",
+   "rule": "Only use stories from the past 8-12 hours; discard older items.",
+   "applies_to": "all",
+   "weight": 1.0,
+   "examples": [
+    "Lawmakers in 20+ States Propose Rules on Data Centers"
+   ],
+   "retired": false
+  },
+  {
+   "id": "L003",
+   "trigger": "story-selection",
+   "rule": "Require original reporting or direct sourcing; reject links to other outlets without added value.",
+   "applies_to": "wire",
+   "weight": 1.5,
+   "examples": [
+    "Dowagiac Residents Report Persistent Noise From Nearby Data Center"
+   ],
+   "retired": false
+  },
+  {
+   "id": "L004",
+   "trigger": "headline",
+   "rule": "Headlines must include context, stakes, and impact; never use the word 'update'.",
+   "applies_to": "all",
+   "weight": 2.0,
+   "examples": [
+    "Saline Twp Board Agenda Includes Data Center Update"
+   ],
+   "retired": false
+  },
+  {
+   "id": "L005",
+   "trigger": "social-posts",
+   "rule": "Limit to a few posts per day; source only from notable political leaders with balanced D/R mix.",
+   "applies_to": "all",
+   "weight": 1.5,
+   "examples": [
+    "Democratic Senate candidates clash over AI data center regulation"
+   ],
+   "retired": false
+  },
+  {
+   "id": "L006",
+   "trigger": "sourcing",
+   "rule": "Verify all links and sources before use; reject non-functional or fabricated references.",
+   "applies_to": "all",
+   "weight": 1.5,
+   "examples": [
+    "U.S. Data Center Power Demand Surges as Tech Giants Accelerate AI Infr"
+   ],
+   "retired": false
+  },
+  {
+   "id": "L007",
+   "trigger": "social-posts",
+   "rule": "Ignore random or non-notable social media rants; only quote established voices.",
+   "applies_to": "all",
+   "weight": 1.0,
+   "examples": [
+    "John James criticized for data center builder donations amid attacks"
+   ],
+   "retired": false
+  }
+ ],
+ "rules_compiled_at": "2026-07-08T20:29:13+00:00"
 }
