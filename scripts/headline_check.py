@@ -26,6 +26,8 @@ import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
 ROOT = Path(__file__).resolve().parents[1]
 LIVE = ROOT / "live-data.json"
 API_URL = "https://api.x.ai/v1/chat/completions"
@@ -64,17 +66,18 @@ def judge(story: dict, article: str) -> dict | None:
         '"fixed_title": "<corrected original-language headline if fixable, else empty>", '
         '"fixed_dek": "<corrected dek if fixable, else empty>"}'
     )
+    import xai_client
     body = {"model": MODEL, "messages": [{"role": "user", "content": prompt}],
             "search_parameters": {"mode": "off"}, "temperature": 0}
-    req = urllib.request.Request(API_URL, data=json.dumps(body).encode(),
-                                 headers={"Authorization": f"Bearer {KEY}", "Content-Type": "application/json"})
+    data = xai_client.chat(KEY, body, timeout=180)
+    if not data:
+        return None
     try:
-        with urllib.request.urlopen(req, timeout=180) as r:
-            text = json.loads(r.read())["choices"][0]["message"]["content"]
+        text = data["choices"][0]["message"]["content"]
         m = re.search(r"\{.*\}", text, re.S)
         return json.loads(m.group(0)) if m else None
     except Exception as e:  # noqa: BLE001
-        print(f"::warning::judge call failed: {e}")
+        print(f"::warning::judge parse failed: {e}")
         return None
 
 

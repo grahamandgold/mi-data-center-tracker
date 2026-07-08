@@ -26,6 +26,8 @@ import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "map-data.json"
 API_URL = "https://api.x.ai/v1/chat/completions"
@@ -84,15 +86,16 @@ def call_grok(index: str) -> dict | None:
         "search_parameters": {"mode": "on", "return_citations": True},
         "temperature": 0.1,
     }
-    req = urllib.request.Request(API_URL, data=json.dumps(body).encode(),
-                                 headers={"Authorization": f"Bearer {KEY}", "Content-Type": "application/json"})
+    import xai_client
+    data = xai_client.chat(KEY, body)
+    if not data:
+        return None
     try:
-        with urllib.request.urlopen(req, timeout=420) as r:
-            text = json.loads(r.read())["choices"][0]["message"]["content"]
+        text = data["choices"][0]["message"]["content"]
         m = re.search(r"\{.*\}", text, re.S)
         return json.loads(m.group(0)) if m else None
     except Exception as e:  # noqa: BLE001
-        print(f"::warning::map scout API failure: {e}")
+        print(f"::warning::map scout parse failure: {e}")
         return None
 
 

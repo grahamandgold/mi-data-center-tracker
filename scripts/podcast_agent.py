@@ -4,7 +4,7 @@ verified headlines with context.
 
 Pipeline (runs in GitHub Actions daily):
   1. Grok writes a two-host dialogue from live-data.json + upcoming meetings.
-     Hosts: "Ada" (anchor, reads the news) and "Mack" (analyst, adds context).
+     Hosts: "Graham" (anchor, reads the news) and "Emmy" (analyst, adds context).
      Script cites outlets by name and sticks to the verified deks — the agent
      may add CONTEXT (what it means, who decides next) but never new facts.
   2. Each line is synthesized with ElevenLabs (two distinct voices), falling
@@ -27,6 +27,8 @@ import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
 ROOT = Path(__file__).resolve().parents[1]
 POD = ROOT / "pod"
 XAI_KEY = os.environ.get("XAI_API_KEY", "")
@@ -35,10 +37,10 @@ ELEVEN_KEY = os.environ.get("ELEVENLABS_API_KEY", "")
 OPENAI_KEY = os.environ.get("OPENAI_API_KEY", "")
 
 # Two distinct default voices per provider (override with repo variables)
-ELEVEN_VOICES = {"Ada": os.environ.get("VOICE_ADA", "EXAVITQu4vr4xnSDxMaL"),
-                 "Mack": os.environ.get("VOICE_MACK", "TxGEqnHWrfWFTfGW9XjX")}
-OPENAI_VOICES = {"Ada": os.environ.get("VOICE_ADA", "nova"),
-                 "Mack": os.environ.get("VOICE_MACK", "onyx")}
+ELEVEN_VOICES = {"Graham": os.environ.get("VOICE_GRAHAM", "TxGEqnHWrfWFTfGW9XjX"),
+                 "Emmy": os.environ.get("VOICE_EMMY", "EXAVITQu4vr4xnSDxMaL")}
+OPENAI_VOICES = {"Graham": os.environ.get("VOICE_GRAHAM", "onyx"),
+                 "Emmy": os.environ.get("VOICE_EMMY", "nova")}
 
 
 def post_json(url: str, body: dict, headers: dict, timeout: int = 420) -> dict:
@@ -58,7 +60,7 @@ def write_script() -> dict | None:
     prompt = f"""Write today's episode of "Michigan Data Wire" — a tight 6-8 minute two-host
 news audio show for {datetime.now(timezone.utc).strftime('%A, %B %d, %Y')}.
 
-HOSTS: Ada (anchor — crisp, reads the headline facts) and Mack (analyst — adds
+HOSTS: Graham (anchor — crisp, reads the headline facts) and Emmy (analyst — adds
 context: why it matters, who decides next, what to watch). Conversational but
 newsroom-professional. No banter padding, no opinions on whether data centers
 are good or bad — evenhanded public-interest journalism.
@@ -77,18 +79,19 @@ Data Center Tracker."
 
 Respond ONLY with JSON:
 {{"title": "<episode title>", "teaser": "<one-line teaser for the player, under 90 chars>",
- "lines": [{{"host": "Ada|Mack", "text": "<one spoken line, 1-3 sentences>"}}]}}
+ "lines": [{{"host": "Graham|Emmy", "text": "<one spoken line, 1-3 sentences>"}}]}}
 Aim for 40-60 lines total."""
+    import xai_client
+    out = xai_client.chat(XAI_KEY, {"model": XAI_MODEL, "messages": [{"role": "user", "content": prompt}],
+                                    "search_parameters": {"mode": "off"}, "temperature": 0.4})
+    if not out:
+        return None
     try:
-        out = post_json("https://api.x.ai/v1/chat/completions",
-                        {"model": XAI_MODEL, "messages": [{"role": "user", "content": prompt}],
-                         "search_parameters": {"mode": "off"}, "temperature": 0.4},
-                        {"Authorization": f"Bearer {XAI_KEY}"})
         text = out["choices"][0]["message"]["content"]
         m = re.search(r"\{.*\}", text, re.S)
         script = json.loads(m.group(0))
         lines = [l for l in script.get("lines", [])
-                 if l.get("host") in ("Ada", "Mack") and isinstance(l.get("text"), str) and l["text"].strip()]
+                 if l.get("host") in ("Graham", "Emmy") and isinstance(l.get("text"), str) and l["text"].strip()]
         if len(lines) < 10:
             print("::warning::script too short")
             return None
@@ -175,7 +178,7 @@ def main() -> int:
     (POD / "latest.json").write_text(json.dumps({
         "date": today, "title": script.get("title", "Michigan Data Wire"),
         "teaser": script.get("teaser", ""), "minutes": minutes,
-        "audio": "pod/latest.mp3", "hosts": ["Ada", "Mack"],
+        "audio": "pod/latest.mp3", "hosts": ["Graham", "Emmy"],
     }, indent=1, ensure_ascii=False), encoding="utf-8")
     # keep the repo lean: archive only the last 7 dated episodes
     dated = sorted(POD.glob("2*.mp3"))

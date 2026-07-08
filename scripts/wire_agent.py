@@ -19,6 +19,8 @@ import urllib.request
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
 ROOT = Path(__file__).resolve().parents[1]
 LIVE = ROOT / "live-data.json"
 API_URL = "https://api.x.ai/v1/chat/completions"
@@ -74,14 +76,9 @@ def call_grok() -> dict | None:
                               "from_date": (datetime.now(timezone.utc) - timedelta(days=8)).strftime("%Y-%m-%d")},
         "temperature": 0.2,
     }
-    req = urllib.request.Request(
-        API_URL, data=json.dumps(body).encode(),
-        headers={"Authorization": f"Bearer {KEY}", "Content-Type": "application/json"})
-    try:
-        with urllib.request.urlopen(req, timeout=420) as r:
-            data = json.loads(r.read())
-    except Exception as e:  # noqa: BLE001
-        print(f"::warning::xAI API call failed: {e}")
+    import xai_client
+    data = xai_client.chat(KEY, body)
+    if not data:
         return None
     try:
         text = data["choices"][0]["message"]["content"]
