@@ -328,8 +328,7 @@
     <section class="section-pad" style="padding:18px 44px 2px;">
       <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:13px;border-bottom:2px solid #E03131;padding-bottom:9px;">
         <div style="display:flex;align-items:center;gap:16px;">
-          <h3 style="font-family:'Saira Condensed',sans-serif;font-weight:800;font-size:20px;letter-spacing:.02em;color:#f4f1ee;margin:0;text-transform:uppercase;">Top Urgent Stories</h3>
-          <span style="font-family:'Space Mono',monospace;font-size:10px;letter-spacing:.08em;text-transform:uppercase;color:#9b9794;">People are talking about today</span>
+          <h3 style="font-family:'Saira Condensed',sans-serif;font-weight:800;font-size:20px;letter-spacing:.02em;color:#f4f1ee;margin:0;text-transform:uppercase;">The Wire</h3>
           <span style="display:inline-flex;align-items:center;gap:7px;font-family:'Space Mono',monospace;font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:#8fae8f;"><span style="width:7px;height:7px;border-radius:50%;background:#7fbf7f;animation:drift 1.4s ease-in-out infinite;"></span>Live from CMS · updated {{ wireUpdated }}</span>
           <span style="font-family:'Space Mono',monospace;font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:#7d7975;border:1px solid #2b2824;padding:3px 9px;">AI-drafted · Journalist-reviewed</span>
         </div>
@@ -709,12 +708,12 @@ class Component extends DCLogic {
       Grid: '#E03131', Local: '#7fb0e0', Policy: '#c9a24b', Water: '#5bb3a6', Community: '#b07fd0', Development: '#dd8048',
     };
     const wireSrc = this.state.cmsWire || (typeof window !== 'undefined' && window.MDCT_HEADLINES) || [
-      { iso: '2026-06-18T17:35', title: 'Michigan Senate Democrats just rolled out a multi-bill package to cap data-center water use, shield residents from added utility costs, and force new public disclosure — drawing sharp pushback from industry.', source: 'Michigan Advance', url: 'https://michiganadvance.com/2026/06/18/senate-democrats-propose-tighter-regulations-on-data-centers-amid-statewide-backlash/', cat: 'STATEWIDE', breaking: true, lead: true },
-      { iso: '2026-07-07T10:23', title: 'John James is attacking data centers on the campaign trail while taking major contributions from Rakolta and Walbridge — the construction giants building Michigan\'s hyperscale sites.', source: 'Metro Times', url: 'https://www.metrotimes.com/news/john-james-attacks-data-centers-while-taking-money-from-their-builders/', cat: 'STATEWIDE', breaking: true },
-      { iso: '2026-07-06T14:31', title: 'Saline Township\'s $43 billion Oracle-OpenAI project is exploding again — residents furious over tax incentives while DTE pursues massive load deals to feed the campus.', source: 'MLive', url: 'https://www.mlive.com/news/ann-arbor/2026/07/oracle-applies-for-tax-break-as-data-center-project-cost-reaches-43b-near-ann-arbor.html', cat: 'Washtenaw Co.', breaking: true },
-      { iso: '2026-06-18T06:50', title: 'Noise lawsuits and resident rage are spreading across Dowagiac, Mundy, and Texas Township as neighbors compare round-the-clock data-center hum to living in a prison in their own yard.', source: 'MLive', url: 'https://www.mlive.com/news/kalamazoo/2026/06/a-prison-in-our-own-yard-life-next-to-a-data-center-and-its-never-ending-noise.html', cat: 'SW Michigan' },
-      { iso: '2026-07-06T16:56', title: 'DTE power outages and hyperscale data centers are fueling a fierce public fight over whether Michigan\'s grid can keep homes lit while AI facilities pull ever-larger loads.', source: 'Planet Detroit', url: 'https://planetdetroit.org/2026/07/dte-power-outages-reliability-2026/', cat: 'Grid' },
-      { iso: '2026-07-02T00:02', title: 'Mundy Township\'s board is split on a short-term data-center moratorium — with fresh vote drama and a supervisor pushing a 180-day pause this week.', source: 'Genesee County View', url: 'https://geneseecountyview.com/articles/news/mundy-board-debates-timing-of-data-center-moratorium/', cat: 'Genesee Co.' },
+      { iso: '2026-07-06T14:31', title: 'Oracle just applied for massive tax breaks on its $43 billion Saline OpenAI-linked data center project while residents prepare for a public hearing tomorrow.', source: 'MLive', url: 'https://www.mlive.com/news/ann-arbor/2026/07/oracle-applies-for-tax-break-as-data-center-project-cost-reaches-43b-near-ann-arbor.html', cat: 'Washtenaw Co.', breaking: true, lead: true },
+      { iso: '2026-06-18T17:35', title: 'Michigan Senate Democrats just rolled out a multi-bill package capping water use and protecting residents from higher bills on new data centers — sparking sharp industry pushback.', source: 'Michigan Advance', url: 'https://michiganadvance.com/2026/06/18/senate-democrats-propose-tighter-regulations-on-data-centers-amid-statewide-backlash/', cat: 'STATEWIDE', breaking: true },
+      { iso: '2026-06-18T06:50', title: 'Noise lawsuits and resident rage are exploding across Michigan towns with people comparing data-center hum to living in a prison.', source: 'MLive', url: 'https://www.mlive.com/news/kalamazoo/2026/06/a-prison-in-our-own-yard-life-next-to-a-data-center-and-its-never-ending-noise.html', cat: 'SW Michigan' },
+      { iso: '2026-07-06T16:56', title: 'DTE power outages are fueling huge backlash with residents directly blaming hyperscale AI facilities for grid strain.', source: 'Planet Detroit', url: 'https://planetdetroit.org/2026/07/dte-power-outages-reliability-2026/', cat: 'Grid', breaking: true },
+      { iso: '2026-07-02T00:02', title: 'Mundy Township board is split and fighting over a rushed short-term data center moratorium vote.', source: 'Genesee County View', url: 'https://geneseecountyview.com/articles/news/mundy-board-debates-timing-of-data-center-moratorium/', cat: 'Genesee Co.' },
+      { iso: '2026-07-06T05:00', title: 'Detroit officials began drafting city-level data center regulations after repeated resident demands for local control.', source: 'BridgeDetroit', url: 'https://www.bridgedetroit.com/detroit-begins-drafting-data-center-regulations/', cat: 'Wayne Co.' },
     ];
     const rawWire = wireSrc.filter(w => w.iso);
     const ago = (iso) => {
@@ -731,11 +730,11 @@ class Component extends DCLogic {
       return Object.assign({}, w, {
         timeAgo: ago(w.iso),
         dateLabel: mon[d.getMonth()] + ' ' + String(d.getDate()).padStart(2, '0'),
-        isNew: hrs < 36,
+        isNew: hrs <= 12,
         catColor: CAT[w.cat] || '#9b9794',
         url: w.url || 'stories.html',
-        timeColor: hrs < 36 ? '#E03131' : '#7d7975',
-        rowAccent: hrs < 36 ? '#E03131' : 'transparent',
+        timeColor: hrs <= 12 ? '#E03131' : '#7d7975',
+        rowAccent: hrs <= 12 ? '#E03131' : 'transparent',
       });
     });
     const lead = wire.find(w => w.lead) || wire[0];
