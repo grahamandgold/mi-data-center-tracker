@@ -44,8 +44,22 @@ def is_portal(url: str) -> bool:
 
 
 # ---------------------------------------------------------------- rung 1: plain fetch
+def _sanitize_url(url: str) -> str:
+    """Township sites publish PDFs with spaces/unicode in filenames
+    ('July Agenda 2026.pdf') — percent-encode so urllib accepts them."""
+    from urllib.parse import quote, urlsplit, urlunsplit
+    try:
+        p = urlsplit(url)
+        return urlunsplit((p.scheme, p.netloc,
+                           quote(p.path, safe="/%:@"),
+                           quote(p.query, safe="=&%?/:@+,"),
+                           quote(p.fragment, safe="%")))
+    except Exception:  # noqa: BLE001
+        return url
+
+
 def fetch(url: str, limit: int = 8_000_000, timeout: int = 30) -> bytes:
-    req = urllib.request.Request(url, headers=UA)
+    req = urllib.request.Request(_sanitize_url(url), headers=UA)
     with urllib.request.urlopen(req, timeout=timeout) as r:
         return r.read(limit)
 
