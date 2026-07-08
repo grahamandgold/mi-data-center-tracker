@@ -54,8 +54,24 @@ def write_script() -> dict | None:
     live = json.loads((ROOT / "live-data.json").read_text(encoding="utf-8"))
     stories = live.get("stories", [])[:10]
     meetings = live.get("meetings", [])[:5]
+    def when(iso):
+        try:
+            t = datetime.fromisoformat(str(iso).replace("Z", "+00:00"))
+            if t.tzinfo is None:
+                t = t.replace(tzinfo=timezone.utc)
+            h = (datetime.now(timezone.utc) - t).total_seconds() / 3600
+            if h <= 15:
+                return "today"
+            if h <= 36:
+                return "yesterday"
+            if h <= 24 * 7:
+                return t.strftime("on %A")
+            return "earlier " + ("this month" if h <= 24 * 31 else "this year")
+        except Exception:  # noqa: BLE001
+            return "recently"
+
     digest = "\n".join(
-        f"- {'[LEAD] ' if s.get('lead') else ''}[{s.get('cat')}] {s.get('title')} — {s.get('dek')} (Source: {s.get('source')})"
+        f"- {'[LEAD] ' if s.get('lead') else ''}[{s.get('cat')}] (happened {when(s.get('iso'))}) {s.get('title')} — {s.get('dek')} (Source: {s.get('source')})"
         for s in stories)
     mdigest = "\n".join(f"- {m.get('iso')} {m.get('body')}: {m.get('topic')}" for m in meetings)
     prompt = f"""Write today's episode of "Michigan Data Wire" for {datetime.now(timezone.utc).strftime('%A, %B %d, %Y')}.
@@ -87,6 +103,11 @@ TODAY'S VERIFIED STORIES (the lead is marked; these are your news facts):
 
 UPCOMING MEETINGS:
 {mdigest}
+
+TEMPORAL ACCURACY: each story above is labeled with WHEN it happened. Only say
+"today" for stories labeled today. Say "yesterday", the weekday, or "this week"
+exactly as labeled — never present older news as breaking. If researching
+background, note when those events happened too.
 
 RESEARCH RULES: For the big-story segment you may search for BACKGROUND context
 (history, prior votes, how many townships have paused, what a gigawatt powers) —

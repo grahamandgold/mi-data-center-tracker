@@ -52,6 +52,11 @@ Free Press, Lansing State Journal, City Pulse, WOOD TV, WWMT, WXYZ, WKAR, WILX, 
 IPR, Traverse Ticker, UP outlets.
    c. Official postings: township/city agendas, legislature.mi.gov (SB 1018-1020, \
 SB 1046-1051, HB 6135-6142), MPSC filings.
+For EVERY meeting you report: "link" must be the official agenda page — or the
+page where that body posts agendas (AgendaCenter, clerk page). Also check whether
+the body streams meetings (YouTube channel, Granicus/Zoom, public-access cable
+page) and put that page in "stream". Meetings without an agenda-location link
+are not publishable.
 
 2. HARD RULES:
 - Target the LAST 15 HOURS. If you cannot fill 6 items, you may stretch to 24 \
@@ -230,6 +235,18 @@ def main() -> int:
         checked = checked[:12]
     except Exception as e:  # noqa: BLE001
         print(f"::warning::accumulate skipped: {e}")
+
+    # Meetings accumulate too: keep previously listed future meetings
+    try:
+        prev_m = json.loads(LIVE.read_text(encoding="utf-8")).get("meetings", [])
+        have_m = {(m.get("iso"), str(m.get("body", "")).lower()) for m in meetings}
+        for om in prev_m:
+            k = (om.get("iso"), str(om.get("body", "")).lower())
+            if k not in have_m and valid_meeting(om):
+                meetings.append(om)
+        meetings.sort(key=lambda m: str(m.get("iso", "")))
+    except Exception as e:  # noqa: BLE001
+        print(f"::warning::meeting accumulate skipped: {e}")
 
     payload = {
         "updated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
