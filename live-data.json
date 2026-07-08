@@ -1,63 +1,7 @@
 {
- "updated_at": "2026-07-08T21:24:34+00:00",
+ "updated_at": "2026-07-08T21:40:57Z",
  "generator": "grok-wire-agent",
  "stories": [
-  {
-   "iso": "2026-07-07T10:00:00+00:00",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "tag": "Policy",
-   "title": "Gubernatorial Candidate John James Received Over $100,000 From Data Center Builders While Criticizing Projects",
-   "dek": "Campaign finance records show Republican John James accepted at least $107,300 from Walbridge executives and family members tied to major Michigan data center projects, including the Saline Township campus, even as he attacks rivals on the issue.",
-   "source": "Metro Times",
-   "url": "https://www.metrotimes.com/news/john-james-attacks-data-centers-while-taking-money-from-their-builders/",
-   "breaking": false,
-   "lead": false,
-   "id": "25cb64a38c6a",
-   "accuracy": "checked"
-  },
-  {
-   "iso": "2026-07-07T13:00:00+00:00",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "tag": "Explainers",
-   "title": "University expert highlights community resistance to data centers",
-   "dek": "Debates over water, power and local control continue as AI demand drives new proposals across the state.",
-   "source": "X",
-   "url": "https://x.com/UMichiganNews/status/2074492659469607388",
-   "breaking": false,
-   "lead": false,
-   "id": "be5d80cefe75",
-   "accuracy": "social-post"
-  },
-  {
-   "iso": "2026-07-07T23:00:00+00:00",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "tag": "Policy",
-   "title": "Citizens Research Council evaluates data center economic impact",
-   "dek": "A new report examines how large data centers affect Michigan's tax base and local economies amid growing development.",
-   "source": "X",
-   "url": "https://x.com/dbusiness/status/2074463592078885132",
-   "breaking": false,
-   "lead": false,
-   "id": "8a342fa23399",
-   "accuracy": "social-post"
-  },
-  {
-   "iso": "2026-07-08T00:00:00+00:00",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "tag": "Policy",
-   "title": "Democratic Senate candidates clash over data centers in latest debate",
-   "dek": "U.S. Rep. Haley Stevens and Abdul El-Sayed offered contrasting views on data center development during the Michigan U.S. Senate debate, with clips highlighting affordability concerns and corporate influence.",
-   "source": "X",
-   "url": "https://x.com/WOODTV/status/2074654637559333333",
-   "breaking": true,
-   "lead": true,
-   "id": "54965300adb6",
-   "accuracy": "social-post"
-  },
   {
    "iso": "2026-07-08T05:00:00+00:00",
    "region": "statewide",
@@ -84,6 +28,20 @@
   },
   {
    "iso": "2026-07-08T00:00:00+00:00",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "tag": "Policy",
+   "title": "Democratic Senate candidates clash over data centers in latest debate",
+   "dek": "U.S. Rep. Haley Stevens and Abdul El-Sayed offered contrasting views on data center development during the Michigan U.S. Senate debate, with clips highlighting affordability concerns and corporate influence.",
+   "source": "X",
+   "url": "https://x.com/WOODTV/status/2074654637559333333",
+   "breaking": true,
+   "lead": true,
+   "id": "54965300adb6",
+   "accuracy": "social-post"
+  },
+  {
+   "iso": "2026-07-08T00:00:00+00:00",
    "region": "west",
    "cat": "Cass Co.",
    "tag": "Money",
@@ -95,52 +53,18 @@
    "accuracy": "checked"
   },
   {
-   "iso": "2026-07-07T20:00:00+00:00",
-   "region": "metro",
-   "cat": "Washtenaw Co.",
-   "tag": "Local Government",
-   "title": "Saline Township to hold public hearing on Oracle data center tax exemption",
-   "dek": "The board will consider an Industrial Facilities Tax Exemption Certificate for Oracle America's $43 billion project near Ann Arbor on July 8.",
-   "source": "MLive",
-   "url": "https://www.mlive.com/news/ann-arbor/2026/07/oracle-applies-for-tax-break-as-data-center-project-cost-reaches-43b-near-ann-arbor.html",
-   "breaking": false,
-   "accuracy": "unverified-source-unfetchable"
-  },
-  {
-   "iso": "2026-07-07T14:26:00+00:00",
+   "iso": "2026-07-07T23:00:00+00:00",
    "region": "statewide",
    "cat": "STATEWIDE",
-   "tag": "Money",
-   "title": "John James faces scrutiny over data center builder donations",
-   "dek": "The Republican U.S. Senate candidate criticized data centers while having accepted over $100,000 from executives and relatives tied to a major Michigan data center builder, according to a Detroit Metro Times report shared on X.",
+   "tag": "Policy",
+   "title": "Citizens Research Council evaluates data center economic impact",
+   "dek": "A new report examines how large data centers affect Michigan's tax base and local economies amid growing development.",
    "source": "X",
-   "url": "https://x.com/Grimillionaire/status/2074500251629547570",
+   "url": "https://x.com/dbusiness/status/2074463592078885132",
    "breaking": false,
-   "accuracy": "checked"
-  },
-  {
-   "iso": "2026-07-07T12:00:00+00:00",
-   "region": "north",
-   "cat": "Charlevoix Co.",
-   "tag": "Local Government",
-   "title": "Hayes Township Data Center Advisory Group meets to review report draft",
-   "dek": "The group convenes July 8 to assess proposed report structure and plan next steps on local data center issues.",
-   "source": "Hayes Township",
-   "url": "https://www.hayestownshipmi.gov/data-center-advisory-group-meeting-2/",
-   "breaking": false,
-   "accuracy": "unverified-source-unfetchable"
-  },
-  {
-   "iso": "2026-07-07T12:00:00+00:00",
-   "region": "metro",
-   "cat": "Wayne Co.",
-   "tag": "Power & Grid",
-   "title": "Michigan grid strains raise questions about data center power costs",
-   "dek": "Recent heat and storms exposed limited slack in the state's electricity system as large data centers approach, prompting discussion on who will pay for upgrades.",
-   "source": "WDET",
-   "url": "https://wdet.org/2026/07/07/the-metro-after-a-week-of-outages-a-bigger-question-about-michigans-grid/2/",
-   "breaking": false,
-   "accuracy": "checked"
+   "lead": false,
+   "id": "8a342fa23399",
+   "accuracy": "social-post"
   }
  ],
  "national": {
@@ -161,7 +85,7 @@
   {
    "iso": "2026-07-08",
    "body": "Saline Township Board of Trustees",
-   "topic": "Public hearing on Oracle America IFEC application for $43B data center tax exemption; potential impact on local taxes, jobs and infrastructure",
+   "topic": "Public hearing on Oracle America's application for an Industrial Facilities Tax Exemption Certificate tied to the $43 billion hyperscale data center project",
    "region": "SE Michigan",
    "regionKey": "metro",
    "county": "Washtenaw",
@@ -170,7 +94,7 @@
    "urgent": true,
    "link": "https://salinetownship.org/meeting-agendas.php",
    "linkLabel": "Agenda",
-   "stream": ""
+   "stream": null
   },
   {
    "iso": "2026-07-08",
