@@ -342,7 +342,7 @@
             <span style="font-family:'Space Mono',monospace;font-size:11px;color:{{ lead.timeColor }};">{{ lead.timeAgo }}</span>
           </div>
           <div class="wire-hl" style="font-family:'Saira Condensed',sans-serif;font-weight:700;font-size:32px;line-height:1.03;color:#f4f1ee;letter-spacing:.005em;margin-bottom:14px;">{{ lead.title }}</div>
-          <div style="font-family:'Space Mono',monospace;font-size:11px;letter-spacing:.02em;color:#8c8884;line-height:1.5;">Source: {{ lead.source }} → <a href="{{ lead.url }}" target="_blank" rel="noopener noreferrer" style="color:#c9a24b;text-decoration:underline;word-break:break-all;">{{ lead.url }}</a></div>
+          <div style="font-family:'Space Mono',monospace;font-size:11px;letter-spacing:.02em;color:#8c8884;line-height:1.5;">Source: <a href="{{ lead.url }}" target="_blank" rel="noopener noreferrer" style="color:#c9a24b;text-decoration:underline;">{{ lead.source }}</a> →</div>
         </div>
         <div style="display:flex;flex-direction:column;background:#13110d;">
           <sc-for list="{{ wireList }}" as="w" hint-placeholder-count="5">
@@ -352,7 +352,7 @@
                 <span class="wire-hl" style="flex:1;min-width:0;font-family:'Saira Condensed',sans-serif;font-weight:600;font-size:17px;line-height:1.12;color:#dad6d1;letter-spacing:.01em;">{{ w.title }}</span>
                 <span style="font-family:'Space Mono',monospace;font-size:9px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:{{ w.catColor }};border:1px solid {{ w.catColor }};padding:3px 7px;flex-shrink:0;">{{ w.cat }}</span>
               </div>
-              <div style="font-family:'Space Mono',monospace;font-size:9.5px;letter-spacing:.02em;color:#7d7975;padding-left:78px;line-height:1.45;">Source: {{ w.source }} → <a href="{{ w.url }}" target="_blank" rel="noopener noreferrer" style="color:#c9a24b;text-decoration:underline;word-break:break-all;">{{ w.url }}</a></div>
+              <div style="font-family:'Space Mono',monospace;font-size:9.5px;letter-spacing:.02em;color:#7d7975;padding-left:78px;line-height:1.45;">Source: <a href="{{ w.url }}" target="_blank" rel="noopener noreferrer" style="color:#c9a24b;text-decoration:underline;">{{ w.source }}</a> →</div>
             </div>
           </sc-for>
         </div>
@@ -708,12 +708,12 @@ class Component extends DCLogic {
       Grid: '#E03131', Local: '#7fb0e0', Policy: '#c9a24b', Water: '#5bb3a6', Community: '#b07fd0', Development: '#dd8048',
     };
     const rawWire = this.state.cmsWire || (typeof window !== 'undefined' && window.MDCT_HEADLINES) || [
-      { iso: '2026-07-07T09:00', title: 'Oracle requested state tax relief on a $43 billion server campus planned near Saline with OpenAI-linked tenants.', source: 'MLive', url: 'https://www.mlive.com/news/ann-arbor/2026/07/oracle-applies-for-tax-break-as-data-center-project-cost-reaches-43b-near-ann-arbor.html', cat: 'Washtenaw Co.', breaking: true, lead: true },
-      { iso: '2026-07-06T14:00', title: 'Detroit planning staff opened work on formal city rules for where and how data centers may be built after sustained neighborhood pressure.', source: 'BridgeDetroit', url: 'https://www.bridgedetroit.com/detroit-begins-drafting-data-center-regulations/', cat: 'Wayne Co.' },
-      { iso: '2026-07-06T10:00', title: 'Michigan Advance published a fresh weekly digest covering moratorium votes, Lowell recall activity, and active Lansing bills.', source: 'Michigan Advance', url: 'https://michiganadvance.com/2026/07/06/michigan-data-centers-the-weekly-download-3-2-2/', cat: 'STATEWIDE' },
-      { iso: '2026-07-05T11:30', title: 'A Milwood developer pivoted a site from cannabis to AI computing, reopening zoning and neighbor-impact questions in Kalamazoo County.', source: 'Second Wave Media', url: 'https://secondwavemedia.com/from-cannabis-to-ai-proposed-kalamazoo-data-center-sparks-questions-about-the-future-in-milwood/', cat: 'Kalamazoo Co.' },
-      { iso: '2026-07-04T12:00', title: 'Hyperscale Data closed on about 48 additional acres for its southwest Michigan AI campus as nearby residents keep citing noise complaints.', source: 'PR Newswire', url: 'https://www.prnewswire.com/news-releases/hyperscale-data-completes-acquisition-of-48-5-acres-to-expand-michigan-ai-data-center-campus-302812174.html', cat: 'Development' },
-      { iso: '2026-07-03T08:00', title: 'Texas Township enacted a one-year ban on new data-center permits, effective July 5, to review farmland, water, and infrastructure strain.', source: 'WWMT', url: 'https://wwmt.com/news/local/texas-township-moratorium-data-center-centers-stop-pause-prevent-development-michigan-kalamazoo-county-board-vote-ai-wwmt', cat: 'Kalamazoo Co.' },
+      { iso: '2026-07-07T09:00', title: 'Oracle filed for state incentives on a $43 billion Saline-area server campus reportedly tied to OpenAI and large cloud tenants.', source: 'MLive', url: 'https://www.mlive.com/news/ann-arbor/2026/07/oracle-applies-for-tax-break-as-data-center-project-cost-reaches-43b-near-ann-arbor.html', cat: 'Washtenaw Co.', breaking: true, lead: true },
+      { iso: '2026-07-06T14:00', title: 'Detroit officials began writing city-level standards for data-center siting after repeated calls from residents for tighter local control.', source: 'BridgeDetroit', url: 'https://www.bridgedetroit.com/detroit-begins-drafting-data-center-regulations/', cat: 'Wayne Co.' },
+      { iso: '2026-07-06T10:00', title: 'Michigan Advance\'s July weekly brief tracks new moratoriums, recall efforts in Lowell, and legislation still moving in Lansing.', source: 'Michigan Advance', url: 'https://michiganadvance.com/2026/07/06/michigan-data-centers-the-weekly-download-3-2-2/', cat: 'STATEWIDE' },
+      { iso: '2026-07-05T11:30', title: 'A Kalamazoo County project that moved from cannabis to AI infrastructure is renewing debate over zoning, noise, and neighborhood fit.', source: 'Second Wave Media', url: 'https://secondwavemedia.com/from-cannabis-to-ai-proposed-kalamazoo-data-center-sparks-questions-about-the-future-in-milwood/', cat: 'Kalamazoo Co.' },
+      { iso: '2026-07-04T15:00', title: 'Oakland University trustees advanced a campus data-center concept to due diligence, including an environmental review near Lot 37.', source: 'WXYZ', url: 'https://www.wxyz.com/news/data-centers/oakland-university-board-votes-to-advance-campus-data-center-project-to-due-diligence-phase', cat: 'Oakland Co.' },
+      { iso: '2026-07-03T08:00', title: 'Texas Township approved a 12-month pause on new data-center applications, set to take effect July 5, while planners study local impacts.', source: 'WWMT', url: 'https://wwmt.com/news/local/texas-township-moratorium-data-center-centers-stop-pause-prevent-development-michigan-kalamazoo-county-board-vote-ai-wwmt', cat: 'Kalamazoo Co.' },
     ];
     const ago = (iso) => {
       const h = Math.round((NOW - new Date(iso)) / 36e5);
