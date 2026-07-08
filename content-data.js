@@ -13,16 +13,58 @@
  *              stories.html (Hot Right Now, Regional News, story grid),
  *              meetings.html (Upcoming + Watch list).
  */
-window.MDCT_UPDATED = '2026-07-08T09:00:00-04:00';
+window.MDCT_UPDATED = '2026-07-08T15:30:00-04:00';
 
 /* ---- Live Wire / Stories ------------------------------------------------ */
 window.MDCT_HEADLINES = [
   {
-    iso: '2026-07-07T16:00', region: 'metro', cat: 'Washtenaw Co.', tag: 'Power & Grid',
-    title: 'Consumers Energy withdraws plan for a 1.4 GW gas plant on Lima Township farmland after months of resident pushback',
-    dek: 'The utility pulled its proposal for 120 acres near Chelsea on July 1. Residents suspected a link to the Saline data center campus; Consumers denied one.',
-    source: 'Michigan Advance', url: 'https://michiganadvance.com/2026/07/07/how-a-rural-michigan-community-stopped-a-proposed-1-4-gigawatt-power-plant/',
+    iso: '2026-07-08T14:10', region: 'metro', cat: 'Macomb Co.', tag: 'Local Government',
+    title: 'Lenox Township board convenes tomorrow with data center zoning on a crowded July agenda',
+    dek: 'The July 9 regular session lands as Macomb communities weigh moratoria and new standards for large-load projects.',
+    source: 'Lenox Township', url: 'https://www.lenox-mi.gov/agendacenter',
+    breaking: false
+  },
+  {
+    iso: '2026-07-08T12:45', region: 'metro', cat: 'Washtenaw Co.', tag: 'Power & Grid',
+    title: 'Consumers Energy formally abandons its 1.4 GW Lima Township gas plant after a Chelsea-area resident revolt',
+    dek: 'The utility canceled the 120-acre combustion project west of Ann Arbor; it maintains the Saline Stargate campus did not drive the pullout.',
+    source: 'MLive', url: 'https://www.mlive.com/news/ann-arbor/2026/07/consumers-energy-cancels-gas-burning-power-plant-project-west-of-ann-arbor-amid-uproar.html',
     breaking: true, lead: true
+  },
+  {
+    iso: '2026-07-08T11:05', region: 'mid', cat: 'Ingham Co.', tag: 'Local Government',
+    title: 'Lansing posts public notice for a July 13 council hearing on a 182-day data center development pause',
+    dek: 'The Development and Planning Committee hearing is five days out; the pause follows Deep Green\'s withdrawn downtown proposal.',
+    source: 'Lansing City Pulse', url: 'https://lansingcitypulse.com/city-of-lansing-notice-of-public-hearing-7-13-26-ordinance-to-impose-temporary-moratorium-on-new-data-centers/',
+    breaking: true
+  },
+  {
+    iso: '2026-07-08T10:20', region: 'statewide', cat: 'STATEWIDE', tag: 'Policy',
+    title: 'Senate Democrats\' seven-bill data center package remains the defining Lansing fight as committees stay quiet',
+    dek: 'SB 1046–1051 would cap water withdrawals, ban incentive NDAs, and require full-cost power tariffs; Republicans warn the guardrails could chase hyperscale investment.',
+    source: 'WILX', url: 'https://www.wilx.com/2026/06/19/michigan-senate-democrats-propose-seven-bills-regulate-data-centers/',
+    breaking: true
+  },
+  {
+    iso: '2026-07-08T09:00', region: 'metro', cat: 'Washtenaw Co.', tag: 'Local Government',
+    title: 'Saline Township trustees meet tonight as Stargate construction rolls on at the 1.4 GW Oracle-linked campus',
+    dek: 'The July 8 board session could surface construction updates; agendas do not guarantee a dedicated data center item.',
+    source: 'Saline Township', url: 'https://salinetownship.org/meeting-agendas.php',
+    breaking: false
+  },
+  {
+    iso: '2026-07-08T07:30', region: 'west', cat: 'Kalamazoo Co.', tag: 'Local Government',
+    title: 'Texas Township\'s new 12-month data center moratorium is now in force, joining two neighboring Kalamazoo pauses',
+    dek: 'The July 5 effective date blocks new applications while the township drafts zoning standards for large-load facilities.',
+    source: 'MLive', url: 'https://www.mlive.com/news/kalamazoo/2026/06/township-near-kalamazoo-approves-12-month-moratorium-blocking-data-centers.html',
+    breaking: false
+  },
+  {
+    iso: '2026-07-07T16:00', region: 'metro', cat: 'Washtenaw Co.', tag: 'Power & Grid',
+    title: 'Rural Washtenaw organizers celebrate after Consumers Energy drops a 1.4 GW gas plant that fueled grid-anxiety near Saline',
+    dek: 'Michigan Advance traces how Lima Township residents tied the combustion proposal to data-center load growth — and how the utility denied a direct link.',
+    source: 'Michigan Advance', url: 'https://michiganadvance.com/2026/07/07/how-a-rural-michigan-community-stopped-a-proposed-1-4-gigawatt-power-plant/',
+    breaking: false
   },
   {
     iso: '2026-06-18T12:00', region: 'statewide', cat: 'STATEWIDE', tag: 'Policy',
