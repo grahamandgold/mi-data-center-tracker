@@ -1,5 +1,71 @@
 {
- "updated_at": "2026-07-08T10:30:00+00:00",
- "generator": "seed",
- "items": []
+ "updated_at": "2026-07-08T10:35:33+00:00",
+ "generator": "grok-wire-agent",
+ "items": [
+  {
+   "iso": "2026-07-08T00:00:00+00:00",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "tag": "Policy",
+   "title": "Democratic Senate candidates clash over data centers in latest debate",
+   "dek": "U.S. Rep. Haley Stevens and Abdul El-Sayed offered contrasting views on data center development during the Michigan U.S. Senate debate, with clips highlighting affordability concerns and corporate influence.",
+   "source": "X",
+   "url": "https://x.com/WOODTV/status/2074654637559333333",
+   "breaking": true,
+   "lead": true,
+   "id": "54965300adb6",
+   "kind": "story",
+   "filed_at": "2026-07-08T10:35:33+00:00",
+   "accuracy": "social-post"
+  },
+  {
+   "iso": "2026-07-07T23:00:00+00:00",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "tag": "Policy",
+   "title": "Citizens Research Council evaluates data center economic impact",
+   "dek": "A new report examines how large data centers affect Michigan's tax base and local economies amid growing development.",
+   "source": "X",
+   "url": "https://x.com/dbusiness/status/2074463592078885132",
+   "breaking": false,
+   "lead": false,
+   "id": "8a342fa23399",
+   "kind": "story",
+   "filed_at": "2026-07-08T10:35:33+00:00",
+   "accuracy": "social-post"
+  },
+  {
+   "iso": "2026-07-07T13:00:00+00:00",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "tag": "Explainers",
+   "title": "University expert highlights community resistance to data centers",
+   "dek": "Debates over water, power and local control continue as AI demand drives new proposals across the state.",
+   "source": "X",
+   "url": "https://x.com/UMichiganNews/status/2074492659469607388",
+   "breaking": false,
+   "lead": false,
+   "id": "be5d80cefe75",
+   "kind": "story",
+   "filed_at": "2026-07-08T10:35:33+00:00",
+   "accuracy": "social-post"
+  },
+  {
+   "iso": "2026-07-07T14:00:00+00:00",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "tag": "Policy",
+   "title": "Data centers advance rapidly as regulators scramble for rules",
+   "dek": "Across the U.S., officials race to impose guardrails on power-hungry facilities while communities push back on incentives and impacts.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/07/07/nx-s1-5861911/data-centers-on-the-fast-track-have-officials-racing-to-catch-up-and-offer-regulations",
+   "breaking": false,
+   "lead": false,
+   "id": "02d7912fe03d",
+   "kind": "national",
+   "filed_at": "2026-07-08T10:35:33+00:00",
+   "accuracy": "checked"
+  }
+ ],
+ "accuracy_checked_at": "2026-07-08T10:35:40+00:00"
 }
