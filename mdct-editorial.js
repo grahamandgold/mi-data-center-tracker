@@ -110,9 +110,15 @@
 
   g.MDCT.sourceMeta = function (w) {
     var u = (w.url || '').toLowerCase();
-    if (/x\.com|twitter\.com/.test(u)) return { source: 'X', sourceKind: 'src-x' };
-    if (/reddit\.com/.test(u)) return { source: 'Reddit', sourceKind: 'src-reddit' };
-    return { source: w.source, sourceKind: 'src-news' };
+    var isVideo = /youtube\.com|youtu\.be|fb\.watch|facebook\.com\/(watch|reel|share\/v|[^\/]+\/videos)|\/videos?\//.test(u);
+    var meta;
+    if (/x\.com|twitter\.com/.test(u)) meta = { source: 'X', sourceKind: 'src-x' };
+    else if (/reddit\.com/.test(u)) meta = { source: 'Reddit', sourceKind: 'src-reddit' };
+    else if (/facebook\.com|fb\.watch/.test(u)) meta = { source: (w.source && !/facebook/i.test(w.source)) ? w.source + ' · via Facebook' : 'Facebook', sourceKind: 'src-news' };
+    else if (/youtube\.com|youtu\.be/.test(u)) meta = { source: (w.source && !/youtube/i.test(w.source)) ? w.source + ' · via YouTube' : 'YouTube', sourceKind: 'src-news' };
+    else meta = { source: w.source, sourceKind: 'src-news' };
+    meta.isVideo = isVideo;
+    return meta;
   };
 
   g.MDCT.headlines = function () {
