@@ -63,6 +63,34 @@
   .ticker-track:hover { animation-play-state: paused; }
   .wire-row:hover { background:#1a1813 !important; }
   .wire-row:hover .wire-hl { color:#fff !important; }
+  .wire-head { display:flex; align-items:center; justify-content:space-between; gap:12px; margin-bottom:13px; border-bottom:2px solid #E03131; padding-bottom:9px; flex-wrap:wrap; }
+  .wire-head-meta { display:flex; align-items:center; gap:10px; flex-wrap:wrap; min-width:0; }
+  .wire-head-title { font-family:'Saira Condensed',sans-serif; font-weight:800; font-size:20px; letter-spacing:.02em; color:#f4f1ee; margin:0; text-transform:uppercase; }
+  .wire-head-updated { font-family:'Space Mono',monospace; font-size:10px; letter-spacing:.08em; text-transform:uppercase; color:#7d7975; }
+  .wire-lead { display:flex; flex-direction:column; justify-content:center; border-right:1px solid #262320; border-left:3px solid #E03131; background:#16140f; padding:28px 26px; min-height:100%; }
+  .wire-lead-meta { display:flex; align-items:center; gap:8px; margin-bottom:14px; flex-wrap:wrap; }
+  .wire-lead-hl { font-family:'Saira Condensed',sans-serif; font-weight:700; font-size:clamp(22px,2.4vw,30px); line-height:1.06; color:#f4f1ee; letter-spacing:.005em; margin:0 0 12px; }
+  .wire-list { display:flex; flex-direction:column; background:#13110d; }
+  .wire-list-item { padding:11px 14px 11px 12px; border-bottom:1px solid #1f1c18; border-left:2px solid transparent; }
+  .wire-list-item:last-child { border-bottom:none; }
+  .wire-list-item.is-hot { border-left-color:#E03131; }
+  .wire-list-top { display:grid; grid-template-columns:54px minmax(0,1fr); gap:10px 12px; align-items:start; }
+  .wire-list-time { font-family:'Space Mono',monospace; font-size:10px; letter-spacing:.02em; color:#7d7975; padding-top:3px; white-space:nowrap; }
+  .wire-list-item.is-hot .wire-list-time { color:#E03131; }
+  .wire-list-title { font-family:'Saira Condensed',sans-serif; font-weight:600; font-size:15.5px; line-height:1.18; color:#dad6d1; letter-spacing:.01em; margin:0 0 6px; }
+  .wire-src-line { font-family:'Space Mono',monospace; font-size:9.5px; letter-spacing:.03em; color:#6f6b67; line-height:1.5; display:flex; align-items:center; flex-wrap:wrap; gap:4px 6px; }
+  .wire-src-label { color:#6f6b67; }
+  .wire-src-link { color:#c9a24b; text-decoration:none; border-bottom:1px solid rgba(201,162,75,.35); transition:border-color .15s ease,color .15s ease; }
+  .wire-src-link:hover { color:#e0c989; border-bottom-color:#e0c989; }
+  .wire-src-link.src-x { color:#f4f1ee; font-weight:800; font-size:10px; letter-spacing:.1em; padding:1px 7px 0; border:1px solid #3a3733; background:#100f0e; border-bottom:1px solid #3a3733; border-radius:0; line-height:1.45; }
+  .wire-src-link.src-x:hover { border-color:#6f6b67; color:#fff; }
+  .wire-src-link.src-reddit { color:#ff8b6a; border-bottom-color:rgba(255,139,106,.4); }
+  .wire-src-link.src-reddit:hover { color:#ffb199; }
+  .wire-src-arrow { color:#5f5b57; }
+  .wire-src-dot { color:#3a3733; }
+  .wire-src-cat { color:#5f5b57; font-size:9px; letter-spacing:.06em; text-transform:uppercase; }
+  .wire-tag { font-family:'Space Mono',monospace; font-size:9px; font-weight:700; letter-spacing:.08em; text-transform:uppercase; padding:2px 7px; border:1px solid; white-space:nowrap; }
+  .wire-tag-breaking { color:#100f0e; background:#E03131; border-color:#E03131; }
   .deck-card:hover { border-color:#45403a !important; transform:translateY(-2px); }
   .deck-card { transition:border-color .18s ease, transform .18s ease; }
   .deck-row:hover { background:#1a1813; }
@@ -326,33 +354,41 @@
 
     <!-- THE WIRE -->
     <section class="section-pad" style="padding:18px 44px 2px;">
-      <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:13px;border-bottom:2px solid #E03131;padding-bottom:9px;">
-        <div style="display:flex;align-items:center;gap:16px;">
-          <h3 style="font-family:'Saira Condensed',sans-serif;font-weight:800;font-size:20px;letter-spacing:.02em;color:#f4f1ee;margin:0;text-transform:uppercase;">The Wire</h3>
-          <span style="display:inline-flex;align-items:center;gap:7px;font-family:'Space Mono',monospace;font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:#8fae8f;"><span style="width:7px;height:7px;border-radius:50%;background:#7fbf7f;animation:drift 1.4s ease-in-out infinite;"></span>Live from CMS · updated {{ wireUpdated }}</span>
-          <span style="font-family:'Space Mono',monospace;font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:#7d7975;border:1px solid #2b2824;padding:3px 9px;">AI-drafted · Journalist-reviewed</span>
+      <div class="wire-head">
+        <div class="wire-head-meta">
+          <h3 class="wire-head-title">The Wire</h3>
+          <span class="wire-head-updated">Updated {{ wireUpdated }}</span>
         </div>
-        <a class="flink" href="Stories.dc.html" style="font-size:13px;letter-spacing:.06em;text-transform:uppercase;font-weight:700;color:#E03131;">All stories →</a>
+        <a class="flink" href="Stories.dc.html" style="font-size:13px;letter-spacing:.06em;text-transform:uppercase;font-weight:700;color:#E03131;white-space:nowrap;">All stories →</a>
       </div>
-      <div class="wire-grid" style="display:grid;grid-template-columns:1.05fr 1fr;border:1px solid #262320;">
-        <div class="wire-row" style="display:flex;flex-direction:column;justify-content:center;border-right:1px solid #262320;border-left:3px solid #E03131;background:#16140f;padding:32px 30px;">
-          <div style="display:flex;align-items:center;gap:10px;margin-bottom:18px;flex-wrap:wrap;">
-            <sc-if value="{{ lead.breaking }}" hint-placeholder-val="{{ true }}"><span style="font-family:'Space Mono',monospace;font-size:10px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:#100f0e;background:#E03131;padding:4px 9px;">Breaking</span></sc-if>
-            <span style="font-family:'Space Mono',monospace;font-size:10px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:{{ lead.catColor }};border:1px solid {{ lead.catColor }};padding:3px 9px;">{{ lead.cat }}</span>
-            <span style="font-family:'Space Mono',monospace;font-size:11px;color:{{ lead.timeColor }};">{{ lead.timeAgo }}</span>
+      <div class="wire-grid" style="border:1px solid #262320;">
+        <div class="wire-row wire-lead">
+          <div class="wire-lead-meta">
+            <sc-if value="{{ lead.breaking }}" hint-placeholder-val="{{ true }}"><span class="wire-tag wire-tag-breaking">Breaking</span></sc-if>
+            <span class="wire-tag" style="color:{{ lead.catColor }};border-color:{{ lead.catColor }};">{{ lead.cat }}</span>
+            <span class="wire-list-time" style="color:{{ lead.timeColor }};padding-top:0;">{{ lead.timeAgo }}</span>
           </div>
-          <div class="wire-hl" style="font-family:'Saira Condensed',sans-serif;font-weight:700;font-size:32px;line-height:1.03;color:#f4f1ee;letter-spacing:.005em;margin-bottom:14px;">{{ lead.title }}</div>
-          <div style="font-family:'Space Mono',monospace;font-size:11px;letter-spacing:.02em;color:#8c8884;line-height:1.5;">Source: <a href="{{ lead.url }}" target="_blank" rel="noopener noreferrer" style="color:#c9a24b;text-decoration:underline;">{{ lead.source }}</a> →</div>
+          <h4 class="wire-hl wire-lead-hl">{{ lead.title }}</h4>
+          <div class="wire-src-line">
+            <span class="wire-src-label">Source:</span>
+            <a class="wire-src-link {{ lead.sourceKind }}" href="{{ lead.url }}" target="_blank" rel="noopener noreferrer">{{ lead.source }}</a><span class="wire-src-arrow"> →</span>
+          </div>
         </div>
-        <div style="display:flex;flex-direction:column;background:#13110d;">
+        <div class="wire-list">
           <sc-for list="{{ wireList }}" as="w" hint-placeholder-count="5">
-            <div class="wire-row" style="display:flex;flex-direction:column;justify-content:center;gap:6px;padding:14px 18px;min-height:74px;border-bottom:1px solid #1f1c18;border-left:2px solid {{ w.rowAccent }};">
-              <div style="display:flex;align-items:flex-start;gap:16px;width:100%;">
-                <span style="font-family:'Space Mono',monospace;font-size:10.5px;letter-spacing:.02em;color:{{ w.timeColor }};width:62px;flex-shrink:0;padding-top:2px;">{{ w.timeAgo }}</span>
-                <span class="wire-hl" style="flex:1;min-width:0;font-family:'Saira Condensed',sans-serif;font-weight:600;font-size:17px;line-height:1.12;color:#dad6d1;letter-spacing:.01em;">{{ w.title }}</span>
-                <span style="font-family:'Space Mono',monospace;font-size:9px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:{{ w.catColor }};border:1px solid {{ w.catColor }};padding:3px 7px;flex-shrink:0;">{{ w.cat }}</span>
+            <div class="wire-row wire-list-item {{ w.hotCls }}">
+              <div class="wire-list-top">
+                <span class="wire-list-time">{{ w.timeAgo }}</span>
+                <div>
+                  <p class="wire-hl wire-list-title">{{ w.title }}</p>
+                  <div class="wire-src-line">
+                    <span class="wire-src-label">Source:</span>
+                    <a class="wire-src-link {{ w.sourceKind }}" href="{{ w.url }}" target="_blank" rel="noopener noreferrer">{{ w.source }}</a><span class="wire-src-arrow"> →</span>
+                    <span class="wire-src-dot">·</span>
+                    <span class="wire-src-cat">{{ w.cat }}</span>
+                  </div>
+                </div>
               </div>
-              <div style="font-family:'Space Mono',monospace;font-size:9.5px;letter-spacing:.02em;color:#7d7975;padding-left:78px;line-height:1.45;">Source: <a href="{{ w.url }}" target="_blank" rel="noopener noreferrer" style="color:#c9a24b;text-decoration:underline;">{{ w.source }}</a> →</div>
             </div>
           </sc-for>
         </div>
@@ -709,7 +745,7 @@ class Component extends DCLogic {
     };
     const wireSrc = this.state.cmsWire || (typeof window !== 'undefined' && window.MDCT_HEADLINES) || [
       { iso: '2026-07-06T14:31', title: 'Oracle just applied for massive tax breaks on its $43 billion Saline OpenAI-linked data center project while residents prepare for a public hearing tomorrow.', source: 'MLive', url: 'https://www.mlive.com/news/ann-arbor/2026/07/oracle-applies-for-tax-break-as-data-center-project-cost-reaches-43b-near-ann-arbor.html', cat: 'Washtenaw Co.', breaking: true, lead: true },
-      { iso: '2026-07-08T00:39', title: 'Haley Stevens faced pointed questions on data centers flooding Michigan as U.S. Senate debate clips surged across social media.', source: 'WOOD TV8', url: 'https://x.com/WOODTV/status/2074654637559333333', cat: 'STATEWIDE', breaking: true },
+      { iso: '2026-07-08T00:39', title: 'Haley Stevens faced pointed questions on data centers flooding Michigan as U.S. Senate debate clips surged across social media.', source: 'X', url: 'https://x.com/WOODTV/status/2074654637559333333', cat: 'STATEWIDE', breaking: true },
       { iso: '2026-06-18T06:50', title: 'Noise lawsuits and resident rage are exploding across Michigan towns with people comparing data-center hum to living in a prison.', source: 'MLive', url: 'https://www.mlive.com/news/kalamazoo/2026/06/a-prison-in-our-own-yard-life-next-to-a-data-center-and-its-never-ending-noise.html', cat: 'SW Michigan' },
       { iso: '2026-07-07T07:00', title: 'DTE power outages are fueling huge backlash with residents directly blaming hyperscale AI facilities for grid strain.', source: 'Reddit', url: 'https://www.reddit.com/r/Detroit/comments/1upiitw/megathread_dte_energy_and_power_outages_week_of/', cat: 'Grid', breaking: true },
       { iso: '2026-07-02T00:02', title: 'Mundy Township board is split and fighting over a rushed short-term data center moratorium vote.', source: 'Genesee County View', url: 'https://geneseecountyview.com/articles/news/mundy-board-debates-timing-of-data-center-moratorium/', cat: 'Genesee Co.' },
@@ -724,17 +760,25 @@ class Component extends DCLogic {
       return d === 1 ? 'Yesterday' : d + 'd ago';
     };
     const mon = ['JAN','FEB','MAR','APR','MAY','JUN','JUL','AUG','SEP','OCT','NOV','DEC'];
+    const sourceMeta = (w) => {
+      const u = (w.url || '').toLowerCase();
+      if (/x\.com|twitter\.com/.test(u)) return { source: 'X', sourceKind: 'src-x' };
+      if (/reddit\.com/.test(u)) return { source: 'Reddit', sourceKind: 'src-reddit' };
+      return { source: w.source, sourceKind: 'src-news' };
+    };
     const wire = rawWire.map((w, i) => {
       const d = new Date(w.iso);
       const hrs = (NOW - d) / 36e5;
-      return Object.assign({}, w, {
+      const sm = sourceMeta(w);
+      const isHot = hrs <= 12;
+      return Object.assign({}, w, sm, {
         timeAgo: ago(w.iso),
         dateLabel: mon[d.getMonth()] + ' ' + String(d.getDate()).padStart(2, '0'),
-        isNew: hrs <= 12,
+        isNew: isHot,
         catColor: CAT[w.cat] || '#9b9794',
         url: w.url || 'stories.html',
-        timeColor: hrs <= 12 ? '#E03131' : '#7d7975',
-        rowAccent: hrs <= 12 ? '#E03131' : 'transparent',
+        timeColor: isHot ? '#E03131' : '#7d7975',
+        hotCls: isHot ? 'is-hot' : '',
       });
     });
     const lead = wire.find(w => w.lead) || wire[0];
