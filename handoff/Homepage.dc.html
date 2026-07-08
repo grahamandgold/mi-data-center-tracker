@@ -703,27 +703,20 @@ class Component extends DCLogic {
   renderVals() {
     const go = (key) => () => this.setState({ [key]: true });
     const NOW = new Date();
-    const WIRE_MAX_HRS = 14;
 
     // ---- CMS feed: wire stories (newest first) ----
     const CAT = {
       Grid: '#E03131', Local: '#7fb0e0', Policy: '#c9a24b', Water: '#5bb3a6', Community: '#b07fd0', Development: '#dd8048',
     };
     const wireSrc = this.state.cmsWire || (typeof window !== 'undefined' && window.MDCT_HEADLINES) || [
-      { hoursAgo: 2, title: 'Michigan Senate Democrats just rolled out a multi-bill package to cap data-center water use, shield residents from added utility costs, and force new public disclosure — drawing sharp pushback from industry.', source: 'Michigan Advance', url: 'https://michiganadvance.com/2026/06/18/senate-democrats-propose-tighter-regulations-on-data-centers-amid-statewide-backlash/', cat: 'STATEWIDE', breaking: true, lead: true },
-      { hoursAgo: 4, title: 'John James is attacking data centers on the campaign trail while taking major contributions from Rakolta and Walbridge — the construction giants building Michigan\'s hyperscale sites.', source: 'Metro Times', url: 'https://www.metrotimes.com/news/john-james-attacks-data-centers-while-taking-money-from-their-builders/', cat: 'STATEWIDE', breaking: true },
-      { hoursAgo: 6, title: 'Saline Township\'s $43 billion Oracle-OpenAI project is exploding again — residents furious over tax incentives while DTE pursues massive load deals to feed the campus.', source: 'MLive', url: 'https://www.mlive.com/news/ann-arbor/2026/07/oracle-applies-for-tax-break-as-data-center-project-cost-reaches-43b-near-ann-arbor.html', cat: 'Washtenaw Co.', breaking: true },
-      { hoursAgo: 8, title: 'Noise lawsuits and resident rage are spreading across Dowagiac, Mundy, and Texas Township as neighbors compare round-the-clock data-center hum to living in a prison in their own yard.', source: 'MLive', url: 'https://www.mlive.com/news/kalamazoo/2026/06/a-prison-in-our-own-yard-life-next-to-a-data-center-and-its-never-ending-noise.html', cat: 'SW Michigan' },
-      { hoursAgo: 10, title: 'DTE power outages and hyperscale data centers are fueling a fierce public fight over whether Michigan\'s grid can keep homes lit while AI facilities pull ever-larger loads.', source: 'Planet Detroit', url: 'https://planetdetroit.org/2026/07/dte-power-outages-reliability-2026/', cat: 'Grid' },
-      { hoursAgo: 12, title: 'Mundy Township\'s board is split on a short-term data-center moratorium — with fresh vote drama and a supervisor pushing a 180-day pause this week.', source: 'Genesee County View', url: 'https://geneseecountyview.com/articles/news/mundy-board-debates-timing-of-data-center-moratorium/', cat: 'Genesee Co.' },
+      { iso: '2026-06-18T17:35', title: 'Michigan Senate Democrats just rolled out a multi-bill package to cap data-center water use, shield residents from added utility costs, and force new public disclosure — drawing sharp pushback from industry.', source: 'Michigan Advance', url: 'https://michiganadvance.com/2026/06/18/senate-democrats-propose-tighter-regulations-on-data-centers-amid-statewide-backlash/', cat: 'STATEWIDE', breaking: true, lead: true },
+      { iso: '2026-07-07T10:23', title: 'John James is attacking data centers on the campaign trail while taking major contributions from Rakolta and Walbridge — the construction giants building Michigan\'s hyperscale sites.', source: 'Metro Times', url: 'https://www.metrotimes.com/news/john-james-attacks-data-centers-while-taking-money-from-their-builders/', cat: 'STATEWIDE', breaking: true },
+      { iso: '2026-07-06T14:31', title: 'Saline Township\'s $43 billion Oracle-OpenAI project is exploding again — residents furious over tax incentives while DTE pursues massive load deals to feed the campus.', source: 'MLive', url: 'https://www.mlive.com/news/ann-arbor/2026/07/oracle-applies-for-tax-break-as-data-center-project-cost-reaches-43b-near-ann-arbor.html', cat: 'Washtenaw Co.', breaking: true },
+      { iso: '2026-06-18T06:50', title: 'Noise lawsuits and resident rage are spreading across Dowagiac, Mundy, and Texas Township as neighbors compare round-the-clock data-center hum to living in a prison in their own yard.', source: 'MLive', url: 'https://www.mlive.com/news/kalamazoo/2026/06/a-prison-in-our-own-yard-life-next-to-a-data-center-and-its-never-ending-noise.html', cat: 'SW Michigan' },
+      { iso: '2026-07-06T16:56', title: 'DTE power outages and hyperscale data centers are fueling a fierce public fight over whether Michigan\'s grid can keep homes lit while AI facilities pull ever-larger loads.', source: 'Planet Detroit', url: 'https://planetdetroit.org/2026/07/dte-power-outages-reliability-2026/', cat: 'Grid' },
+      { iso: '2026-07-02T00:02', title: 'Mundy Township\'s board is split on a short-term data-center moratorium — with fresh vote drama and a supervisor pushing a 180-day pause this week.', source: 'Genesee County View', url: 'https://geneseecountyview.com/articles/news/mundy-board-debates-timing-of-data-center-moratorium/', cat: 'Genesee Co.' },
     ];
-    const resolveIso = (w) => {
-      if (w.hoursAgo != null) return new Date(NOW.getTime() - w.hoursAgo * 36e5).toISOString().slice(0, 16);
-      return w.iso;
-    };
-    const rawWire = wireSrc
-      .map(w => Object.assign({}, w, { iso: resolveIso(w) }))
-      .filter(w => (NOW - new Date(w.iso)) / 36e5 <= WIRE_MAX_HRS);
+    const rawWire = wireSrc.filter(w => w.iso);
     const ago = (iso) => {
       const h = Math.round((NOW - new Date(iso)) / 36e5);
       if (h < 1) return 'just now';
@@ -738,11 +731,11 @@ class Component extends DCLogic {
       return Object.assign({}, w, {
         timeAgo: ago(w.iso),
         dateLabel: mon[d.getMonth()] + ' ' + String(d.getDate()).padStart(2, '0'),
-        isNew: hrs < WIRE_MAX_HRS,
+        isNew: hrs < 36,
         catColor: CAT[w.cat] || '#9b9794',
         url: w.url || 'stories.html',
-        timeColor: hrs < WIRE_MAX_HRS ? '#E03131' : '#7d7975',
-        rowAccent: hrs < WIRE_MAX_HRS ? '#E03131' : 'transparent',
+        timeColor: hrs < 36 ? '#E03131' : '#7d7975',
+        rowAccent: hrs < 36 ? '#E03131' : 'transparent',
       });
     });
     const lead = wire.find(w => w.lead) || wire[0];
