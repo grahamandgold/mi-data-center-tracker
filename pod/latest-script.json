@@ -1,6 +1,6 @@
 {
- "title": "El-Sayed Pushes Strict Rules in Data Center Debate",
- "teaser": "El-Sayed lays out tough conditions for data centers in today's Senate debate.",
+ "title": "Senate Hopefuls Spar on Data Center Rules",
+ "teaser": "Stevens and El-Sayed clash on data centers in the Dem Senate debate.",
  "lines": [
   {
    "host": "Graham",
@@ -12,94 +12,114 @@
   },
   {
    "host": "Graham",
-   "text": "Today we're diving into the first one-on-one debate between Democratic candidates Abdul El-Sayed and Haley Stevens, where El-Sayed laid out some strict conditions for any data centers coming to Michigan."
+   "text": "Today the Democratic U.S. Senate candidates went head-to-head on how to handle the wave of data center proposals."
   },
   {
    "host": "Emmy",
-   "text": "That sounds like a big shift in the conversation. What exactly did he call for?"
+   "text": "That debate sounds like it got right to the heart of what a lot of communities are wrestling with."
   },
   {
    "host": "Graham",
-   "text": "Union labor requirements, no utility rate hikes for regular customers, strong water protections, and enforceable community benefits agreements."
+   "text": "Exactly. U.S. Rep. Haley Stevens and Abdul El-Sayed offered pretty different takes during their first one-on-one debate."
   },
   {
    "host": "Emmy",
-   "text": "Why do those conditions matter so much right now?"
+   "text": "What did each of them actually say about the projects themselves?"
   },
   {
    "host": "Graham",
-   "text": "Because data centers use a ton of power and water, and towns are already worried about who pays for upgrades and how it affects electric bills."
+   "text": "Both agreed that any development needs community benefit agreements and that residents should have a real voice in decisions."
   },
   {
    "host": "Emmy",
-   "text": "So if rate hikes are off the table, where does the money for new infrastructure come from?"
+   "text": "That lines up with the pushback we've been hearing in townships across the state."
   },
   {
    "host": "Graham",
-   "text": "That's exactly the question. El-Sayed wants the companies themselves to cover those costs through those community agreements."
+   "text": "Stevens emphasized protecting Michiganders from higher costs while still competing on technology."
   },
   {
    "host": "Emmy",
-   "text": "And the water piece — we've heard concerns about farmland and local supplies. How does he want to handle that?"
+   "text": "And El-Sayed went further, calling for union labor requirements, no utility rate hikes for residents, water protections, and enforceable agreements."
   },
   {
    "host": "Graham",
-   "text": "He pushed for real protections so data centers can't just pull whatever they need without limits or oversight."
+   "text": "Right. He framed it as needing strict guardrails before anything moves forward."
   },
   {
    "host": "Emmy",
-   "text": "This is the first debate between them, right? How does this fit into the bigger race?"
+   "text": "So the bigger question is how these positions play out for local electric bills and water supplies."
   },
   {
    "host": "Graham",
-   "text": "It's early in the cycle, but El-Sayed is clearly trying to draw a line on these projects before more deals get locked in."
+   "text": "Data centers can pull massive amounts of power and water, and recent heat and storms already showed how tight the grid is."
   },
   {
    "host": "Emmy",
-   "text": "What happens next — do we expect more candidates to weigh in with their own plans?"
+   "text": "Who ends up paying for the upgrades if these projects scale up?"
   },
   {
    "host": "Graham",
-   "text": "Probably. These conditions could become a template that other lawmakers and townships start looking at."
+   "text": "That's exactly the debate — whether ratepayers foot the bill or the companies do through those agreements."
   },
   {
    "host": "Emmy",
-   "text": "Makes sense. Let's move to the other stories. Yesterday John James got some heat over donations tied to a major data center builder."
+   "text": "And farmland and small towns are in the middle of it too."
   },
   {
    "host": "Graham",
-   "text": "Right — over a hundred thousand dollars from executives and family members connected to that company, even while he's been critical of the projects."
+   "text": "We've seen resistance in places like Washtenaw and Charlevoix counties over exactly those issues."
   },
   {
    "host": "Emmy",
-   "text": "How's he responding to the scrutiny?"
+   "text": "What happens next after this debate?"
   },
   {
    "host": "Graham",
-   "text": "The reports don't have his direct reply yet, but it's the kind of thing that could stick around in the campaign."
+   "text": "Voters will be watching how the candidates turn these positions into policy if they win the primary."
   },
   {
    "host": "Emmy",
-   "text": "And on the grid side, yesterday's heat and storms showed how tight things already are."
+   "text": "Meanwhile, a new report from the Citizens Research Council is looking at the tax and economic side of these projects."
   },
   {
    "host": "Graham",
-   "text": "Exactly. With big data centers on the way, people are asking who foots the bill for any new transmission or generation needed."
+   "text": "That one dropped today and examines impacts on local economies."
   },
   {
    "host": "Emmy",
-   "text": "No easy answers there either."
+   "text": "Also today, GPUS moved forward on a 20-megawatt AI data center deal in Dowagiac that could be worth over a billion dollars."
   },
   {
    "host": "Graham",
-   "text": "On deck, no specific public meetings popped up for the next few days that we know of."
+   "text": "And in Saline Township, the board is holding a public hearing tonight on a tax exemption for Oracle's big project."
   },
   {
    "host": "Emmy",
-   "text": "Listeners should keep checking their township calendars and the tracker for any last-minute notices."
+   "text": "Yesterday a University expert pointed to growing community resistance statewide over water, power, and local control."
   },
   {
    "host": "Graham",
+   "text": "A resident also noted how enormous the Saline site looks — basically the size of Michigan International Speedway."
+  },
+  {
+   "host": "Emmy",
+   "text": "And in Cass County, that same company is advancing plans with major service agreements."
+  },
+  {
+   "host": "Graham",
+   "text": "Yesterday John James faced questions about donations from data center builder executives while criticizing the projects."
+  },
+  {
+   "host": "Emmy",
+   "text": "Hayes Township's advisory group meets tonight to review their draft report on local data center issues."
+  },
+  {
+   "host": "Graham",
+   "text": "That's one listeners can actually attend."
+  },
+  {
+   "host": "Emmy",
    "text": "Full sources and the live map at the Michigan Data Center Tracker. We're back tomorrow."
   }
  ]
