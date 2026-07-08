@@ -1,7 +1,22 @@
 {
- "updated_at": "2026-07-08T13:09:30+00:00",
+ "updated_at": "2026-07-08T13:49:55+00:00",
  "generator": "grok-wire-agent",
  "items": [
+  {
+   "title": "Tonight in Saline Twp: Data Center Update on agenda",
+   "dek": "The July 8, 2026 regular meeting agenda lists item 9 as 'Data Center Update' (per the agenda PDF). Supervisor's Report also includes 'd. Jupiter' alongside other items like Invenergy and Andelina Farms. No additional staff reports, site plans, or packets linked on the agendas page.",
+   "url": "https://salinetownship.org/meeting-agendas.php",
+   "source": "Saline Township Board agenda",
+   "region": "Southeast Michigan",
+   "cat": "Meetings",
+   "tag": "Agenda watch",
+   "iso": "2026-07-08T13:49:55+00:00",
+   "kind": "agenda",
+   "id": "87b6879dbad6",
+   "filed_at": "2026-07-08T13:49:55+00:00",
+   "accuracy": "document-based",
+   "findings": "Agenda PDF explicitly schedules '9. Data Center Update' as a standalone item | Township maintains a dedicated /data-center-update page with links to Consent Judgment, lawsuit docs, and proposal (per township site) | News coverage attributes the Stargate project (OpenAI/Oracle/Related Digital) to a 250-acre site in Saline Township with ~$16B investment and 1GW capacity (per CNBC, OpenAI announcements) | Groundbreaking for 'The Barn' campus occurred June 1, 2026 (per multiple outlets including DCD and Oracle) | Initial township board vote was 4-1 against the project before later developments (pe"
+  },
   {
    "iso": "2026-07-08T11:00:00+00:00",
    "region": "statewide",
