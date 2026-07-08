@@ -79,14 +79,15 @@
   .hot-card:hover { border-color:#45403a; transform:translateY(-2px); }
   .hot-card:hover .hot-title { color:#fff; }
   .hot-title { font-family:'Saira Condensed',sans-serif; font-weight:700; font-size:21px; line-height:1.08; color:#f4f1ee; margin:0; transition:color .15s ease; }
-  .hot-dek { margin:0; color:#8c8884; font-size:14px; line-height:1.55; flex:1; }
+  .hot-dek { margin:0; color:#98938e; font-size:13.5px; line-height:1.55; flex:1; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; }
   .hot-foot { display:flex; align-items:center; justify-content:space-between; gap:12px; margin-top:4px; flex-wrap:wrap; }
   .hot-date { font-family:'Space Mono',monospace; font-size:10.5px; color:#6f6b67; }
-  .text-card { padding:22px 22px 24px; }
+  .text-card { padding:20px 22px 20px; }
   .text-card-meta { display:flex; align-items:center; gap:10px; margin-bottom:12px; flex-wrap:wrap; }
-  .text-card-tag { font-family:'Space Mono',monospace; font-size:10.5px; letter-spacing:.1em; text-transform:uppercase; color:#E03131; }
+  .text-card-tag { font-family:'Space Mono',monospace; font-size:10.5px; letter-spacing:.1em; text-transform:uppercase; font-weight:700; }
   .text-card-date { font-family:'Space Mono',monospace; font-size:10.5px; color:#6f6b67; }
-  .text-card-dek { margin:0 0 16px; color:#8c8884; font-size:14px; line-height:1.55; flex:1; }
+  .text-card-dek { margin:0 0 14px; color:#98938e; font-size:13.5px; line-height:1.55; flex:1; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; }
+  .county-chip { font-family:'Space Mono',monospace; font-size:10px; letter-spacing:.07em; text-transform:uppercase; color:#c3beb9; background:#221f1b; border:1px solid #35312b; padding:2px 7px; white-space:nowrap; }
   .discussion-rail { padding-top:48px; padding-bottom:8px; }
   .disc-head { font-family:'Saira Condensed',sans-serif; font-weight:700; font-size:clamp(24px,3.5vw,30px); line-height:1; margin:0 0 8px; text-transform:uppercase; }
   .disc-sub { margin:0 0 22px; color:#8c8884; font-size:15px; line-height:1.55; max-width:560px; }
@@ -123,7 +124,7 @@
 <template id="__bundler_thumbnail"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><rect width="100" height="100" fill="#16140f"/><rect x="28" y="28" width="44" height="44" rx="9" fill="#E03131"/><text x="50" y="65" font-family="Arial, sans-serif" font-weight="800" font-size="32" fill="#fff" text-anchor="middle">M</text></svg></template>
 
   <header class="site-header">
-    <div style="display:flex;flex-direction:column;gap:8px;align-items:flex-start;"><a class="lockup" href="Homepage.dc.html" style="font-size:30px;"><img class="mark" src="assets/mark.svg" alt="Michigan Data Center Tracker logo" /><span class="divider"></span><span class="words"><span class="mi">MICHIGAN</span><span class="rule"></span><span class="sub">DATA CENTER TRACKER</span></span></a><a href="https://publicmeetingtracker.com" target="_blank" rel="noopener" style="font-family:'Space Mono',monospace;font-size:9px;font-weight:500;letter-spacing:.24em;text-transform:uppercase;color:#56524e;text-decoration:none;" onmouseover="this.style.color='#8c8884'" onmouseout="this.style.color='#56524e'">Powered by PublicMeetingTracker.com</a></div>
+    <div style="display:flex;flex-direction:column;gap:8px;align-items:flex-start;"><a class="lockup" href="Homepage.dc.html" style="font-size:30px;"><img class="mark" src="assets/mark.svg" alt="Michigan Data Center Tracker logo" /><span class="divider"></span><span class="words"><span class="mi">MICHIGAN</span><span class="rule"></span><span class="sub">DATA CENTER TRACKER</span></span></a><a href="https://grahamandgold.com" target="_blank" rel="noopener" style="font-family:'Space Mono',monospace;font-size:9px;font-weight:500;letter-spacing:.24em;text-transform:uppercase;color:#56524e;text-decoration:none;" onmouseover="this.style.color='#8c8884'" onmouseout="this.style.color='#56524e'">Powered by Graham & Gold</a></div>
     <nav class="desktop-nav" style="display:flex;align-items:center;gap:28px;">
       <a class="navlink" href="Homepage.dc.html">Home</a>
       <a class="navlink" href="Live Map.dc.html">Live Map</a>
@@ -148,7 +149,7 @@
         <a href="Meetings.dc.html" style="text-decoration:none;color:#cbc7c3;font-family:'Saira Condensed',sans-serif;font-weight:700;font-size:30px;padding:13px 0;border-bottom:1px solid #1a1813;">Meetings</a>
         <a href="Learn.dc.html" style="text-decoration:none;color:#cbc7c3;font-family:'Saira Condensed',sans-serif;font-weight:700;font-size:30px;padding:13px 0;border-bottom:1px solid #1a1813;">Learn</a>
         <a href="Sponsor.dc.html" style="text-decoration:none;color:#100f0e;background:#E03131;font-weight:700;text-align:center;font-size:16px;text-transform:uppercase;letter-spacing:.04em;padding:15px;border-radius:0;margin-top:20px;">Sponsor the tracker</a>
-        <a href="https://publicmeetingtracker.com" target="_blank" rel="noopener" style="text-decoration:none;color:#9b9794;font-family:'Space Mono',monospace;font-weight:700;font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-align:center;padding:16px 0 0;">Powered by PublicMeetingTracker.com ↗</a>
+        <a href="https://grahamandgold.com" target="_blank" rel="noopener" style="text-decoration:none;color:#9b9794;font-family:'Space Mono',monospace;font-weight:700;font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-align:center;padding:16px 0 0;">Powered by Graham & Gold ↗</a>
       </nav>
     </div>
   </sc-if>
@@ -176,12 +177,16 @@
     <a class="lead-card" href="{{ leadStory.url }}" target="_blank" rel="noopener">
       <div style="padding:34px 34px;display:flex;flex-direction:column;">
         <div class="lead-meta">
-          <span style="font-family:'Space Mono',monospace;font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:#E03131;">{{ leadStory.tag }}</span>
-          <span style="font-family:'Space Mono',monospace;font-size:11px;color:#6f6b67;">{{ leadStory.date }}</span>
+          <span style="font-family:'Space Mono',monospace;font-size:11px;letter-spacing:.1em;text-transform:uppercase;font-weight:700;color:{{ leadStory.tagColor }};">{{ leadStory.tag }}</span>
+          <span class="county-chip">{{ leadStory.cat }}</span>
+          <span style="font-family:'Space Mono',monospace;font-size:11px;color:#8c8884;">{{ leadStory.timeAgo }}</span>
         </div>
         <h2 class="sc-head" style="font-family:'Saira Condensed',sans-serif;font-weight:700;font-size:clamp(28px,4vw,40px);line-height:1.02;margin:0 0 14px;color:#f4f1ee;">{{ leadStory.title }}</h2>
         <p style="margin:0 0 20px;color:#a39e99;font-size:15.5px;line-height:1.6;">{{ leadStory.dek }}</p>
-        <span class="source-link {{ leadStory.sourceKind }}">Source ↗ {{ leadStory.source }}</span>
+        <div style="display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap;">
+          <span class="source-link {{ leadStory.sourceKind }}">Source ↗ {{ leadStory.source }}</span>
+          <span style="font-family:'Space Mono',monospace;font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#f4f1ee;background:#E03131;padding:9px 15px;">Read the story →</span>
+        </div>
       </div>
     </a>
   </div>
@@ -197,7 +202,7 @@
             <h3 class="hot-title">{{ h.title }}</h3>
             <p class="hot-dek">{{ h.dek }}</p>
             <div class="hot-foot">
-              <span class="hot-date">{{ h.date }}</span>
+              <span style="display:flex;align-items:center;gap:8px;"><span class="county-chip">{{ h.cat }}</span><span class="hot-date">{{ h.timeAgo }}</span></span>
               <span class="source-link {{ h.sourceKind }}">Source ↗ {{ h.source }}</span>
             </div>
           </a>
@@ -219,12 +224,13 @@
   <div class="wrap" style="padding-top:24px;padding-bottom:48px;">
     <div class="grid">
       <sc-for list="{{ stories }}" as="s" hint-placeholder-count="6">
-        <a class="scard text-card" href="{{ s.url }}" target="_blank" rel="noopener">
+        <a class="scard text-card" href="{{ s.url }}" target="_blank" rel="noopener" style="border-top:2px solid {{ s.tagColor }};">
           <div class="text-card-meta">
-            <span class="text-card-tag">{{ s.tag }}</span>
+            <span class="text-card-tag" style="color:{{ s.tagColor }};">{{ s.tag }}</span>
+            <span class="county-chip">{{ s.cat }}</span>
             <span class="text-card-date">{{ s.date }}</span>
           </div>
-          <h3 class="sc-head" style="font-family:'Saira Condensed',sans-serif;font-weight:700;font-size:23px;line-height:1.06;margin:0 0 10px;color:#f4f1ee;">{{ s.title }}</h3>
+          <h3 class="sc-head" style="font-family:'Saira Condensed',sans-serif;font-weight:700;font-size:21px;line-height:1.1;margin:0 0 9px;color:#f4f1ee;">{{ s.title }}</h3>
           <p class="text-card-dek">{{ s.dek }}</p>
           <span class="source-link {{ s.sourceKind }}">Source ↗ {{ s.source }}</span>
         </a>
@@ -280,7 +286,7 @@
         </div>
         <div style="flex:1 1 340px;min-width:0;">
           <sc-if value="{{ subPending }}" hint-placeholder-val="{{ true }}">
-            <div style="display:flex;gap:10px;"><input type="email" placeholder="you@email.com" style="flex:1;min-width:0;background:#0f0e0d;border:1px solid #322e29;border-radius:0;padding:0 14px;height:50px;color:#f4f1ee;font-family:'Archivo',sans-serif;font-size:15px;outline:none;" style-focus="border-color:#E03131;" /><button type="button" onClick="{{ subscribe }}" class="cta" style="flex-shrink:0;border:none;cursor:pointer;color:#100f0e;background:#E03131;font-family:'Archivo',sans-serif;font-weight:700;font-size:15px;padding:0 24px;height:50px;border-radius:0;">Subscribe</button></div>
+            <div style="display:flex;gap:10px;"><input type="email" placeholder="you@email.com" id="mc-stories-email" style="flex:1;min-width:0;background:#0f0e0d;border:1px solid #322e29;border-radius:0;padding:0 14px;height:50px;color:#f4f1ee;font-family:'Archivo',sans-serif;font-size:15px;outline:none;" style-focus="border-color:#E03131;" /><button type="button" onClick="{{ subscribe }}" class="cta" style="flex-shrink:0;border:none;cursor:pointer;color:#100f0e;background:#E03131;font-family:'Archivo',sans-serif;font-weight:700;font-size:15px;padding:0 24px;height:50px;border-radius:0;">Subscribe</button></div>
           </sc-if>
           <sc-if value="{{ subDone }}" hint-placeholder-val="{{ false }}">
             <div style="display:flex;align-items:center;gap:10px;min-height:50px;font-size:15px;color:#9bc49b;"><span style="width:24px;height:24px;border-radius:50%;background:rgba(120,170,120,.16);color:#9bc49b;display:flex;align-items:center;justify-content:center;font-size:13px;flex-shrink:0;">✓</span>You're in — first briefing lands this week.</div>
@@ -315,7 +321,7 @@
     </div>
     <div style="max-width:1180px;margin:34px auto 0;display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap;padding-top:20px;border-top:1px solid #1a1813;">
       <span style="font-family:'Space Mono',monospace;font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:#7d7975;">Independent · Nonpartisan · <span style="color:#9b9794;">AI-drafted, journalist-reviewed</span></span>
-      <span style="font-size:12px;color:#5f5b57;">Powered by <a href="https://publicmeetingtracker.com" target="_blank" rel="noopener" style="color:#E03131;text-decoration:none;font-weight:700;">PublicMeetingTracker.com</a> · © 2026 Michigan Data Center Tracker</span>
+      <span style="font-size:12px;color:#5f5b57;">Powered by <a href="https://grahamandgold.com" target="_blank" rel="noopener" style="color:#E03131;text-decoration:none;font-weight:700;">Graham &amp; Gold</a> · © 2026 Michigan Data Center Tracker</span>
     </div>
   </footer>
 
@@ -333,6 +339,7 @@ class Component extends DCLogic {
   };
 
   componentDidMount() {
+    try { if (window.MDCT && window.MDCT.loadLive) window.MDCT.loadLive(() => { if (!this._dead) this.setState({ liveTick: Date.now() }); }); } catch (e) {}
     const social = (typeof window !== 'undefined' && window.MDCT_SOCIAL) || {};
     const url = social.public_monitor_url;
     if (!url) return;
@@ -379,6 +386,9 @@ class Component extends DCLogic {
         title: h.title,
         dek: h.dek,
         tag: h.tag,
+        cat: h.cat || '',
+        tagColor: (MD.tagColor ? MD.tagColor(h.tag) : '#9b9794'),
+        timeAgo: MD.ago ? MD.ago(h.iso) : '',
         date: MD.dateLabel ? MD.dateLabel(h.iso) : h.iso,
         url: h.url,
         source: sm.source,
@@ -402,7 +412,7 @@ class Component extends DCLogic {
     const hotStories = headlines
       .filter((h) => {
         const rec = MD.recency ? MD.recency(h.iso) : { hot: false };
-        return rec.hot || h.breaking;
+        return rec.hot;
       })
       .slice(0, 4)
       .map((h) => mapStory(h, { hot: true }));
@@ -457,7 +467,7 @@ class Component extends DCLogic {
       discoverLinks,
       subPending: s.subPending,
       subDone: s.subDone,
-      subscribe: () => this.setState({ subPending: false, subDone: true }),
+      subscribe: () => { try { const el = document.getElementById('mc-stories-email'); if (window.MDCT && window.MDCT.subscribe) window.MDCT.subscribe(el ? el.value : ''); } catch (e) {} this.setState({ subPending: false, subDone: true }); },
     };
   }
 }

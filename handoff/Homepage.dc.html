@@ -67,7 +67,14 @@
   .wire-head-meta { display:flex; align-items:center; gap:10px; flex-wrap:wrap; min-width:0; }
   .wire-head-title { font-family:'Saira Condensed',sans-serif; font-weight:800; font-size:20px; letter-spacing:.02em; color:#f4f1ee; margin:0; text-transform:uppercase; }
   .wire-head-updated { font-family:'Space Mono',monospace; font-size:10px; letter-spacing:.08em; text-transform:uppercase; color:#7d7975; }
-  .wire-lead { display:flex; flex-direction:column; justify-content:center; border-right:1px solid #262320; border-left:3px solid #E03131; background:#16140f; padding:28px 26px; min-height:100%; }
+  .wire-lead { display:flex; flex-direction:column; justify-content:center; border-right:1px solid #262320; border-left:3px solid #E03131; background:radial-gradient(140% 130% at 0% 0%, #201a15 0%, #16140f 58%); padding:26px 26px 24px; min-height:100%; position:relative; overflow:hidden; }
+  .wire-lead::after { content:""; position:absolute; right:-70px; bottom:-70px; width:230px; height:230px; border-radius:50%; border:26px solid rgba(224,49,49,.05); pointer-events:none; }
+  .wire-lead-dek { margin:0 0 16px; color:#a39e99; font-size:14.5px; line-height:1.6; max-width:520px; }
+  .wire-lead-hl-link { text-decoration:none; display:block; }
+  .wire-lead-hl-link:hover .wire-lead-hl { color:#fff; }
+  .wire-lead-foot { display:flex; align-items:center; justify-content:space-between; gap:14px; flex-wrap:wrap; margin-top:2px; }
+  .wire-lead-cta { display:inline-block; font-family:'Space Mono',monospace; font-size:11px; font-weight:700; letter-spacing:.08em; text-transform:uppercase; color:#f4f1ee; background:#E03131; padding:9px 15px; text-decoration:none; transition:background .15s ease, transform .15s ease; }
+  .wire-lead-cta:hover { background:#f24343; transform:translateY(-1px); }
   .wire-lead-meta { display:flex; align-items:center; gap:8px; margin-bottom:14px; flex-wrap:wrap; }
   .wire-lead-hl { font-family:'Saira Condensed',sans-serif; font-weight:700; font-size:clamp(22px,2.4vw,30px); line-height:1.06; color:#f4f1ee; letter-spacing:.005em; margin:0 0 12px; }
   .wire-list { display:flex; flex-direction:column; background:#13110d; }
@@ -88,7 +95,7 @@
   .wire-src-link.src-reddit:hover { color:#ffb199; }
   .wire-src-arrow { color:#5f5b57; }
   .wire-src-dot { color:#3a3733; }
-  .wire-src-cat { color:#5f5b57; font-size:9px; letter-spacing:.06em; text-transform:uppercase; }
+  .wire-src-cat { color:#c3beb9; font-size:10px; letter-spacing:.07em; text-transform:uppercase; background:#221f1b; border:1px solid #35312b; padding:2px 7px; white-space:nowrap; }
   .wire-tag { font-family:'Space Mono',monospace; font-size:9px; font-weight:700; letter-spacing:.08em; text-transform:uppercase; padding:2px 7px; border:1px solid; white-space:nowrap; }
   .wire-tag-breaking { color:#100f0e; background:#E03131; border-color:#E03131; }
   .wire-tag-fresh { color:#100f0e; background:#c9a24b; border-color:#c9a24b; }
@@ -154,6 +161,7 @@
     .signup-row { flex-direction:column; align-items:stretch !important; }
     .signup-row > div:last-child { width:100% !important; }
     .pod-wave { display:none; }
+    .pod-hosts { display:none !important; }
     .deck-row .deck-actions { display:none; }
   }
   @media (max-width: 860px) {
@@ -199,9 +207,9 @@
             <h2 style="font-family:'Saira Condensed',sans-serif;font-weight:800;font-size:30px;line-height:1.02;color:#f6f3f0;margin:0 0 10px;text-transform:uppercase;">Know what's coming to your town.</h2>
             <p style="margin:0 0 20px;color:#a39e99;font-size:14.5px;line-height:1.55;">Data center filings, hearings, and rate cases near you — every morning. Add your ZIP and we'll flag what's local.</p>
             <div style="display:flex;flex-direction:column;gap:10px;">
-              <input type="email" placeholder="you@email.com" aria-label="Email address" style="width:100%;background:#0f0e0d;border:1px solid #322e29;border-radius:0;padding:0 14px;height:48px;color:#f4f1ee;font-family:'Archivo',sans-serif;font-size:15px;outline:none;" style-focus="border-color:#E03131;" />
+              <input type="email" placeholder="you@email.com" id="mc-fly-email" aria-label="Email address" style="width:100%;background:#0f0e0d;border:1px solid #322e29;border-radius:0;padding:0 14px;height:48px;color:#f4f1ee;font-family:'Archivo',sans-serif;font-size:15px;outline:none;" style-focus="border-color:#E03131;" />
               <div style="display:flex;gap:10px;">
-                <input type="text" inputmode="numeric" maxlength="5" placeholder="ZIP" aria-label="ZIP code" style="width:108px;flex-shrink:0;background:#0f0e0d;border:1px solid #322e29;border-radius:0;padding:0 14px;height:48px;color:#f4f1ee;font-family:'Space Mono',monospace;font-size:15px;letter-spacing:.1em;outline:none;" style-focus="border-color:#E03131;" />
+                <input type="text" inputmode="numeric" id="mc-fly-zip" maxlength="5" placeholder="ZIP" aria-label="ZIP code" style="width:108px;flex-shrink:0;background:#0f0e0d;border:1px solid #322e29;border-radius:0;padding:0 14px;height:48px;color:#f4f1ee;font-family:'Space Mono',monospace;font-size:15px;letter-spacing:.1em;outline:none;" style-focus="border-color:#E03131;" />
                 <button type="button" data-mdct-flyin-submit style="flex:1;border:none;cursor:pointer;color:#100f0e;background:#E03131;font-family:'Archivo',sans-serif;font-weight:800;font-size:15px;letter-spacing:.03em;text-transform:uppercase;height:48px;" style-hover="background:#f24343;">Get the brief</button>
               </div>
             </div>
@@ -222,7 +230,7 @@
     <header class="site-header">
       <div style="display:flex;flex-direction:column;gap:8px;align-items:flex-start;">
         <a class="lockup" href="index.html" style="font-size:40px;text-decoration:none;"><img class="mark" src="assets/mark.svg" alt="Michigan Data Center Tracker logo" /><span class="divider"></span><span class="words"><span class="mi">MICHIGAN</span><span class="rule"></span><span class="sub">DATA CENTER TRACKER</span></span></a>
-        <a href="https://publicmeetingtracker.com" target="_blank" rel="noopener" style="font-family:'Space Mono',monospace;font-size:9px;font-weight:500;letter-spacing:.24em;text-transform:uppercase;color:#56524e;text-decoration:none;" onmouseover="this.style.color='#8c8884'" onmouseout="this.style.color='#56524e'">Powered by PublicMeetingTracker.com</a>
+        <a href="https://grahamandgold.com" target="_blank" rel="noopener" style="font-family:'Space Mono',monospace;font-size:9px;font-weight:500;letter-spacing:.24em;text-transform:uppercase;color:#56524e;text-decoration:none;" onmouseover="this.style.color='#8c8884'" onmouseout="this.style.color='#56524e'">Powered by Graham & Gold</a>
       </div>
       <nav class="desktop-nav">
         <a class="navlink is-active" href="index.html">Home</a>
@@ -247,7 +255,7 @@
         <a href="meetings.html" onclick="{{ toggleMenu }}" style="text-decoration:none;color:#cbc7c3;font-family:'Saira Condensed',sans-serif;font-weight:700;font-size:30px;padding:13px 0;border-bottom:1px solid #1a1813;">Meetings</a>
         <a href="learn.html" onclick="{{ toggleMenu }}" style="text-decoration:none;color:#cbc7c3;font-family:'Saira Condensed',sans-serif;font-weight:700;font-size:30px;padding:13px 0;border-bottom:1px solid #1a1813;">Learn</a>
         <a href="sponsor.html" onclick="{{ toggleMenu }}" style="text-decoration:none;color:#100f0e;background:#E03131;font-weight:700;text-align:center;font-size:16px;text-transform:uppercase;letter-spacing:.04em;padding:15px;border-radius:0;margin-top:20px;">Sponsor the tracker</a>
-        <a href="https://publicmeetingtracker.com" target="_blank" rel="noopener" style="text-decoration:none;color:#9b9794;font-family:'Space Mono',monospace;font-weight:700;font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-align:center;padding:16px 0 0;">Powered by PublicMeetingTracker.com ↗</a>
+        <a href="https://grahamandgold.com" target="_blank" rel="noopener" style="text-decoration:none;color:#9b9794;font-family:'Space Mono',monospace;font-weight:700;font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-align:center;padding:16px 0 0;">Powered by Graham & Gold ↗</a>
       </nav>
     </div>
   </sc-if>
@@ -275,6 +283,7 @@
     <!-- podcast bar -->
     <div class="pod {{ podCls }} pod-inner" style="display:flex;align-items:center;justify-content:center;gap:20px;padding:11px 44px;background:linear-gradient(180deg,#1d0f0c,#16140f);border-bottom:1px solid #2b2824;">
       <button onclick="{{ togglePod }}" class="pod-play" aria-label="Play the latest episode" style="flex-shrink:0;width:46px;height:46px;display:grid;place-items:center;background:#E03131;color:#100f0e;border:none;cursor:pointer;font-size:16px;">{{ podIcon }}</button>
+      <span class="pod-hosts" aria-hidden="true" style="flex-shrink:0;display:flex;align-items:center;"><span style="width:34px;height:34px;border-radius:50%;background:#2a1714;border:2px solid #E03131;display:grid;place-items:center;font-family:'Saira Condensed',sans-serif;font-weight:800;font-size:14px;color:#f4b3b3;">A</span><span style="width:34px;height:34px;border-radius:50%;background:#16202a;border:2px solid #7fb0e0;display:grid;place-items:center;font-family:'Saira Condensed',sans-serif;font-weight:800;font-size:14px;color:#b9d4ec;margin-left:-9px;">M</span></span>
       <div style="flex-shrink:0;text-align:left;">
         <div style="display:flex;align-items:center;gap:8px;margin-bottom:2px;"><span style="width:6px;height:6px;border-radius:50%;background:#E03131;" class="ld"></span><span style="font-family:'Space Mono',monospace;font-size:9px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:#E03131;">On the Radio · New daily</span></div>
         <div style="display:flex;align-items:baseline;gap:10px;"><span style="font-family:'Saira Condensed',sans-serif;font-weight:800;font-size:19px;line-height:1;letter-spacing:.01em;color:#f6f3f0;text-transform:uppercase;">Michigan Data Wire</span><span style="font-family:'Space Mono',monospace;font-size:10px;letter-spacing:.04em;color:#8c8884;">{{ podDate }} · {{ podDur }}</span></div>
@@ -282,7 +291,7 @@
       <div class="pod-wave" style="flex-shrink:0;display:flex;align-items:flex-end;gap:3px;height:30px;width:200px;overflow:hidden;">
         <sc-for list="{{ bars }}" as="b" hint-placeholder-count="40"><span class="podbar" style="height:{{ b.h }};animation-delay:{{ b.delay }};"></span></sc-for>
       </div>
-      <audio id="pod-audio" preload="none"></audio>
+      <audio id="pod-audio" preload="none" src="pod/latest.mp3"></audio>
     </div>
 
     <!-- hero -->
@@ -333,7 +342,7 @@
       </div>
       <div style="flex-shrink:0;width:400px;">
         <sc-if value="{{ heroPending }}" hint-placeholder-val="{{ true }}">
-          <div style="display:flex;gap:10px;"><input type="email" placeholder="you@email.com" style="flex:1;min-width:0;background:#0f0e0d;border:1px solid #322e29;border-radius:0;padding:0 14px;height:46px;color:#f4f1ee;font-family:'Archivo',sans-serif;font-size:14px;outline:none;" style-focus="border-color:#E03131;" /><button type="button" onclick="{{ subscribeHero }}" style-hover="border-color:#E03131;color:#fff;background:#241f1b;" style="flex-shrink:0;cursor:pointer;color:#f4f1ee;background:#1f1c18;border:1px solid #3a3733;font-family:'Archivo',sans-serif;font-weight:700;font-size:14px;letter-spacing:.02em;padding:0 22px;height:46px;border-radius:0;">Subscribe</button></div>
+          <div style="display:flex;gap:10px;"><input type="email" id="mc-hero-email" placeholder="you@email.com" style="flex:1;min-width:0;background:#0f0e0d;border:1px solid #322e29;border-radius:0;padding:0 14px;height:46px;color:#f4f1ee;font-family:'Archivo',sans-serif;font-size:14px;outline:none;" style-focus="border-color:#E03131;" /><button type="button" onclick="{{ subscribeHero }}" style-hover="border-color:#E03131;color:#fff;background:#241f1b;" style="flex-shrink:0;cursor:pointer;color:#f4f1ee;background:#1f1c18;border:1px solid #3a3733;font-family:'Archivo',sans-serif;font-weight:700;font-size:14px;letter-spacing:.02em;padding:0 22px;height:46px;border-radius:0;">Subscribe</button></div>
           <div style="font-family:'Space Mono',monospace;font-size:10px;color:#6f6b67;margin-top:8px;letter-spacing:.04em;">No spam · unsubscribe anytime</div>
         </sc-if>
         <sc-if value="{{ heroSubscribed }}" hint-placeholder-val="{{ false }}"><div style="display:flex;align-items:center;gap:10px;min-height:46px;font-size:15px;color:#9bc49b;"><span style="width:22px;height:22px;border-radius:50%;background:rgba(120,170,120,.16);color:#9bc49b;display:flex;align-items:center;justify-content:center;font-size:12px;flex-shrink:0;">✓</span>You're on the list — check your inbox to confirm.</div></sc-if>
@@ -369,10 +378,14 @@
             <span class="wire-tag" style="color:{{ lead.catColor }};border-color:{{ lead.catColor }};">{{ lead.cat }}</span>
             <span class="wire-list-time" style="color:{{ lead.timeColor }};padding-top:0;">{{ lead.timeAgo }}</span>
           </div>
-          <h4 class="wire-hl wire-lead-hl">{{ lead.title }}</h4>
-          <div class="wire-src-line">
-            <span class="wire-src-label">Source:</span>
-            <a class="wire-src-link {{ lead.sourceKind }}" href="{{ lead.url }}" target="_blank" rel="noopener noreferrer">{{ lead.source }}</a><span class="wire-src-arrow"> →</span>
+          <a class="wire-lead-hl-link" href="{{ lead.url }}" target="_blank" rel="noopener noreferrer"><h4 class="wire-hl wire-lead-hl">{{ lead.title }}</h4></a>
+          <p class="wire-lead-dek">{{ lead.dek }}</p>
+          <div class="wire-lead-foot">
+            <div class="wire-src-line">
+              <span class="wire-src-label">Source:</span>
+              <a class="wire-src-link {{ lead.sourceKind }}" href="{{ lead.url }}" target="_blank" rel="noopener noreferrer">{{ lead.source }}</a><span class="wire-src-arrow"> →</span>
+            </div>
+            <a class="wire-lead-cta" href="{{ lead.url }}" target="_blank" rel="noopener noreferrer">Read the story →</a>
           </div>
         </div>
         <div class="wire-list">
@@ -413,7 +426,7 @@
             <span class="deck-body" style="flex:1;min-width:0;display:flex;flex-direction:column;gap:1px;"><span style="font-family:'Saira Condensed',sans-serif;font-weight:700;font-size:19px;line-height:1.05;color:#f4f1ee;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">{{ m.body }}</span><span style="font-size:12.5px;color:#8c8884;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">{{ m.topic }}</span></span>
             <span style="flex-shrink:0;font-family:'Space Mono',monospace;font-size:9.5px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:#9b9794;border:1px solid #322e29;padding:3px 9px;">{{ m.region }}</span>
             <span style="width:52px;flex-shrink:0;text-align:right;font-family:'Space Mono',monospace;font-size:11px;color:#7d7975;">{{ m.time }}</span>
-            <span class="deck-actions" style="display:flex;gap:8px;flex-shrink:0;"><sc-if value="{{ m.agendaUrl }}" hint-placeholder-val="{{ true }}"><a class="deck-act" href="{{ m.agendaUrl }}" target="_blank" rel="noopener noreferrer" aria-label="View agenda">{{ m.agendaLabel }} ↗</a></sc-if></span>
+            <span class="deck-actions" style="display:flex;gap:8px;flex-shrink:0;"><sc-if value="{{ m.agendaUrl }}" hint-placeholder-val="{{ true }}"><a class="deck-act" href="{{ m.agendaUrl }}" target="_blank" rel="noopener noreferrer" aria-label="View agenda">{{ m.agendaLabel }} ↗</a></sc-if><sc-if value="{{ m.streamUrl }}" hint-placeholder-val="{{ false }}"><a class="deck-act watch" href="{{ m.streamUrl }}" target="_blank" rel="noopener noreferrer" aria-label="Watch the stream">Watch ↗</a></sc-if></span>
           </div>
         </sc-for>
       </div>
@@ -532,7 +545,7 @@
         <!-- partner email capture -->
         <div style="margin-top:22px;padding-top:20px;border-top:1px solid #2b2824;max-width:470px;">
           <div style="font-size:13px;color:#8c8884;margin-bottom:10px;">Not ready to commit? Get the media kit and daily briefing by email.</div>
-          <sc-if value="{{ partnerPending }}" hint-placeholder-val="{{ true }}"><div style="display:flex;gap:10px;"><input type="email" placeholder="you@work-email.com" style="flex:1;min-width:0;background:#0f0e0d;border:1px solid #322e29;border-radius:0;padding:0 14px;height:46px;color:#f4f1ee;font-family:'Archivo',sans-serif;font-size:14px;outline:none;" style-focus="border-color:#E03131;" /><button type="button" onclick="{{ subscribePartner }}" style-hover="border-color:#E03131;color:#fff;background:#241f1b;" style="flex-shrink:0;cursor:pointer;color:#f4f1ee;background:#1f1c18;border:1px solid #3a3733;font-family:'Archivo',sans-serif;font-weight:700;font-size:14px;letter-spacing:.02em;padding:0 22px;height:46px;border-radius:0;">Send the kit</button></div></sc-if>
+          <sc-if value="{{ partnerPending }}" hint-placeholder-val="{{ true }}"><div style="display:flex;gap:10px;"><input type="email" placeholder="you@work-email.com" id="mc-kit-email" style="flex:1;min-width:0;background:#0f0e0d;border:1px solid #322e29;border-radius:0;padding:0 14px;height:46px;color:#f4f1ee;font-family:'Archivo',sans-serif;font-size:14px;outline:none;" style-focus="border-color:#E03131;" /><button type="button" onclick="{{ subscribePartner }}" style-hover="border-color:#E03131;color:#fff;background:#241f1b;" style="flex-shrink:0;cursor:pointer;color:#f4f1ee;background:#1f1c18;border:1px solid #3a3733;font-family:'Archivo',sans-serif;font-weight:700;font-size:14px;letter-spacing:.02em;padding:0 22px;height:46px;border-radius:0;">Send the kit</button></div></sc-if>
           <sc-if value="{{ partnerSubscribed }}" hint-placeholder-val="{{ false }}"><div style="display:flex;align-items:center;gap:10px;min-height:46px;font-size:15px;color:#9bc49b;"><span style="width:22px;height:22px;border-radius:50%;background:rgba(120,170,120,.16);color:#9bc49b;display:flex;align-items:center;justify-content:center;font-size:12px;flex-shrink:0;">✓</span>On its way — check your inbox for the media kit.</div></sc-if>
         </div>
       </div>
@@ -621,6 +634,7 @@ class Component extends DCLogic {
     this.setState({ flyOpen: false });
   }
   submitFlyAction() {
+    try { const e1 = document.getElementById('mc-fly-email'); const z1 = document.getElementById('mc-fly-zip'); if (window.MDCT && window.MDCT.subscribe) window.MDCT.subscribe(e1 ? e1.value : '', z1 ? z1.value : ''); } catch (e) {}
     try { localStorage.setItem('mdct_flyin_seen', '1'); } catch (e) {}
     this.setState({ flyDone: true });
   }
@@ -640,6 +654,10 @@ class Component extends DCLogic {
   }
 
   componentDidMount() {
+    fetch('pod/latest.json', { cache: 'no-store' }).then(r => r.ok ? r.json() : null).then(meta => {
+      if (meta && meta.title && !this._dead) this.setState({ podMeta: meta });
+    }).catch(() => {});
+    try { if (window.MDCT && window.MDCT.loadLive) window.MDCT.loadLive(() => { if (!this._dead) this.setState({ liveTick: Date.now() }); }); } catch (e) {}
     this._wait = setInterval(() => {
       if (window.L) { clearInterval(this._wait); this.initMaps(); }
     }, 60);
@@ -737,6 +755,7 @@ class Component extends DCLogic {
 
   renderVals() {
     const go = (key) => () => this.setState({ [key]: true });
+    const MC = (v) => { try { const el = document.getElementById(v.id); if (window.MDCT && window.MDCT.subscribe) window.MDCT.subscribe(el ? el.value : '', v.zip ? (document.getElementById(v.zip) || {}).value : ''); } catch (e) {} };
     const NOW = new Date();
     const MDCT = (typeof window !== 'undefined' && window.MDCT) || {};
     const mon = ['JAN','FEB','MAR','APR','MAY','JUN','JUL','AUG','SEP','OCT','NOV','DEC'];
@@ -757,7 +776,7 @@ class Component extends DCLogic {
         timeAgo: MDCT.ago ? MDCT.ago(w.iso, NOW) : '',
         dateLabel: mon[d.getMonth()] + ' ' + String(d.getDate()).padStart(2, '0'),
         isNew: isHot,
-        catColor: CAT[w.cat] || '#9b9794',
+        catColor: CAT[w.cat] || '#cbc7c3',
         url: w.url || 'stories.html',
         timeColor: isHot ? '#E03131' : '#7d7975',
         hotCls: isHot ? 'is-hot' : '',
@@ -790,6 +809,7 @@ class Component extends DCLogic {
         statusBorder: m.urgent ? '#E03131' : '#322e29',
         agendaUrl: m.link || '',
         agendaLabel: m.linkLabel || 'Agenda',
+        streamUrl: (m.stream && /^https:\/\//.test(m.stream)) ? m.stream : '',
       });
     });
 
@@ -836,16 +856,18 @@ class Component extends DCLogic {
       podCls: this.state.podPlaying ? 'playing' : '',
       podIcon: this.state.podPlaying ? '❚❚' : '▶',
       togglePod: () => { const next = !this.state.podPlaying; this.setState({ podPlaying: next }); try { const a = document.getElementById('pod-audio'); if (a) { if (next) { a.muted = false; a.play && a.play().catch(()=>{}); } else { a.pause && a.pause(); } } } catch(e){} },
-      podDate: mon[NOW.getMonth()].charAt(0)+mon[NOW.getMonth()].slice(1).toLowerCase() + ' ' + NOW.getDate(),
-      podDur: '12 min',
-      podTeaser: 'Fireworks at the Mason hearing — and the 1,383 MW ask that could move your bill.',
+      podDate: (this.state.podMeta && this.state.podMeta.date)
+        ? (() => { const d = new Date(this.state.podMeta.date + 'T12:00:00'); return mon[d.getMonth()].charAt(0)+mon[d.getMonth()].slice(1).toLowerCase() + ' ' + d.getDate(); })()
+        : mon[NOW.getMonth()].charAt(0)+mon[NOW.getMonth()].slice(1).toLowerCase() + ' ' + NOW.getDate(),
+      podDur: (this.state.podMeta && this.state.podMeta.minutes) ? this.state.podMeta.minutes + ' min' : 'Daily',
+      podTeaser: (this.state.podMeta && this.state.podMeta.teaser) || 'Ada & Mack talk through the day’s verified Michigan data center headlines.',
       podMuteLabel: this.state.podMuted ? 'Listen' : 'Mute',
       toggleMute: () => { const next = !this.state.podMuted; this.setState({ podMuted: next, podPlaying: true }); try { const a = document.getElementById('pod-audio'); if (a) { a.muted = next; if (!next) { a.play && a.play().catch(()=>{}); } } } catch(e){} },
       bars: Array.from({length: 40}, (_, i) => ({ h: (22 + Math.round(Math.abs(Math.sin(i*1.7)*Math.cos(i*0.6))*78)) + '%', delay: (i % 9 * 0.08).toFixed(2) + 's' })),
       toggleMenu: () => this.setState(s => ({ menuOpen: !s.menuOpen })),
-      heroPending: !this.state.hero, heroSubscribed: this.state.hero, subscribeHero: go('hero'),
+      heroPending: !this.state.hero, heroSubscribed: this.state.hero, subscribeHero: () => { MC({ id: 'mc-hero-email' }); this.setState({ hero: true }); },
       hearingsPending: !this.state.hearings, hearingsSubscribed: this.state.hearings, subscribeHearings: go('hearings'),
-      partnerPending: !this.state.partner, partnerSubscribed: this.state.partner, subscribePartner: go('partner'),
+      partnerPending: !this.state.partner, partnerSubscribed: this.state.partner, subscribePartner: () => { MC({ id: 'mc-kit-email' }); this.setState({ partner: true }); },
       lead, wireList, tickerItems, onDeck,
       wireUpdated,
       statsProjects, statsGW, statsCommunities, statsPauses, statsUpdated,

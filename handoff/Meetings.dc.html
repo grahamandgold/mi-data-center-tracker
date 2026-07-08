@@ -74,7 +74,7 @@
 <template id="__bundler_thumbnail"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><rect width="100" height="100" fill="#16140f"/><rect x="28" y="28" width="44" height="44" rx="9" fill="#E03131"/><text x="50" y="65" font-family="Arial, sans-serif" font-weight="800" font-size="32" fill="#fff" text-anchor="middle">M</text></svg></template>
 
   <header class="site-header">
-    <div style="display:flex;flex-direction:column;gap:8px;align-items:flex-start;"><a class="lockup" href="Homepage.dc.html" style="font-size:30px;"><img class="mark" src="assets/mark.svg" alt="Michigan Data Center Tracker logo" /><span class="divider"></span><span class="words"><span class="mi">MICHIGAN</span><span class="rule"></span><span class="sub">DATA CENTER TRACKER</span></span></a><a href="https://publicmeetingtracker.com" target="_blank" rel="noopener" style="font-family:'Space Mono',monospace;font-size:9px;font-weight:500;letter-spacing:.24em;text-transform:uppercase;color:#56524e;text-decoration:none;" onmouseover="this.style.color='#8c8884'" onmouseout="this.style.color='#56524e'">Powered by PublicMeetingTracker.com</a></div>
+    <div style="display:flex;flex-direction:column;gap:8px;align-items:flex-start;"><a class="lockup" href="Homepage.dc.html" style="font-size:30px;"><img class="mark" src="assets/mark.svg" alt="Michigan Data Center Tracker logo" /><span class="divider"></span><span class="words"><span class="mi">MICHIGAN</span><span class="rule"></span><span class="sub">DATA CENTER TRACKER</span></span></a><a href="https://grahamandgold.com" target="_blank" rel="noopener" style="font-family:'Space Mono',monospace;font-size:9px;font-weight:500;letter-spacing:.24em;text-transform:uppercase;color:#56524e;text-decoration:none;" onmouseover="this.style.color='#8c8884'" onmouseout="this.style.color='#56524e'">Powered by Graham & Gold</a></div>
     <nav class="desktop-nav" style="display:flex;align-items:center;gap:28px;">
       <a class="navlink" href="Homepage.dc.html">Home</a>
       <a class="navlink" href="Live Map.dc.html">Live Map</a>
@@ -99,7 +99,7 @@
         <a href="Meetings.dc.html" style="text-decoration:none;color:#f4f1ee;font-family:'Saira Condensed',sans-serif;font-weight:700;font-size:30px;padding:13px 0;border-bottom:1px solid #1a1813;">Meetings</a>
         <a href="Learn.dc.html" style="text-decoration:none;color:#cbc7c3;font-family:'Saira Condensed',sans-serif;font-weight:700;font-size:30px;padding:13px 0;border-bottom:1px solid #1a1813;">Learn</a>
         <a href="Sponsor.dc.html" style="text-decoration:none;color:#100f0e;background:#E03131;font-weight:700;text-align:center;font-size:16px;text-transform:uppercase;letter-spacing:.04em;padding:15px;border-radius:0;margin-top:20px;">Sponsor the tracker</a>
-        <a href="https://publicmeetingtracker.com" target="_blank" rel="noopener" style="text-decoration:none;color:#9b9794;font-family:'Space Mono',monospace;font-weight:700;font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-align:center;padding:16px 0 0;">Powered by PublicMeetingTracker.com ↗</a>
+        <a href="https://grahamandgold.com" target="_blank" rel="noopener" style="text-decoration:none;color:#9b9794;font-family:'Space Mono',monospace;font-weight:700;font-size:12px;letter-spacing:.1em;text-transform:uppercase;text-align:center;padding:16px 0 0;">Powered by Graham & Gold ↗</a>
       </nav>
     </div>
   </sc-if>
@@ -121,8 +121,8 @@
       <div style="flex:1 1 360px;min-width:0;">
         <sc-if value="{{ alertPending }}" hint-placeholder-val="{{ true }}">
           <div style="display:flex;gap:10px;flex-wrap:wrap;">
-            <input type="text" placeholder="Your county or ZIP" style="flex:1 1 120px;min-width:0;background:#0f0e0d;border:1px solid #322e29;border-radius:0;padding:0 14px;height:50px;color:#f4f1ee;font-family:'Archivo',sans-serif;font-size:15px;outline:none;" style-focus="border-color:#E03131;" />
-            <input type="email" placeholder="you@email.com" style="flex:2 1 160px;min-width:0;background:#0f0e0d;border:1px solid #322e29;border-radius:0;padding:0 14px;height:50px;color:#f4f1ee;font-family:'Archivo',sans-serif;font-size:15px;outline:none;" style-focus="border-color:#E03131;" />
+            <input id="mc-alert-zip" type="text" placeholder="Your county or ZIP" style="flex:1 1 120px;min-width:0;background:#0f0e0d;border:1px solid #322e29;border-radius:0;padding:0 14px;height:50px;color:#f4f1ee;font-family:'Archivo',sans-serif;font-size:15px;outline:none;" style-focus="border-color:#E03131;" />
+            <input type="email" placeholder="you@email.com" id="mc-alert-email" style="flex:2 1 160px;min-width:0;background:#0f0e0d;border:1px solid #322e29;border-radius:0;padding:0 14px;height:50px;color:#f4f1ee;font-family:'Archivo',sans-serif;font-size:15px;outline:none;" style-focus="border-color:#E03131;" />
             <button type="button" onClick="{{ subscribeAlerts }}" class="cta" style="flex-shrink:0;border:none;cursor:pointer;color:#100f0e;background:#E03131;font-family:'Archivo',sans-serif;font-weight:700;font-size:15px;padding:0 22px;height:50px;border-radius:0;">Get alerts</button>
           </div>
         </sc-if>
@@ -153,11 +153,11 @@
         <div class="mrow {{ m.urgentCls }}">
           <div class="datechip"><span style="font-family:'Space Mono',monospace;font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:#E03131;">{{ m.mon }}</span><span style="font-family:'Saira Condensed',sans-serif;font-weight:700;font-size:30px;line-height:1;color:#f4f1ee;">{{ m.day }}</span></div>
           <div style="min-width:0;">
-            <div style="display:flex;align-items:center;gap:10px;margin-bottom:7px;flex-wrap:wrap;"><span style="font-family:'Space Mono',monospace;font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;color:{{ m.tagColor }};border:1px solid {{ m.tagBorder }};border-radius:0;padding:2px 7px;">{{ m.status }}</span><span style="font-family:'Space Mono',monospace;font-size:11px;color:#7d7975;">{{ m.time }} · {{ m.loc }}</span><span style="font-family:'Space Mono',monospace;font-size:9.5px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:#9b9794;border:1px solid #322e29;padding:2px 8px;">{{ m.region }}</span></div>
+            <div style="display:flex;align-items:center;gap:10px;margin-bottom:7px;flex-wrap:wrap;"><span style="font-family:'Space Mono',monospace;font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;color:{{ m.tagColor }};border:1px solid {{ m.tagBorder }};border-radius:0;padding:2px 7px;">{{ m.status }}</span><span style="font-family:'Space Mono',monospace;font-size:11.5px;color:#a39e99;">{{ m.time }} · {{ m.loc }}</span><span style="font-family:'Space Mono',monospace;font-size:9.5px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:#9b9794;border:1px solid #322e29;padding:2px 8px;">{{ m.region }}</span></div>
             <div style="font-family:'Saira Condensed',sans-serif;font-weight:700;font-size:21px;line-height:1.06;color:#f4f1ee;margin-bottom:4px;">{{ m.body }}</div>
             <div style="font-size:13.5px;color:#8c8884;line-height:1.5;">{{ m.topic }}</div>
           </div>
-          <a class="mcta" href="{{ m.link }}" target="_blank" rel="noopener" style="justify-self:end;text-decoration:none;font-family:'Space Mono',monospace;font-size:12px;letter-spacing:.04em;color:#cbc7c3;border:1px solid #3a3733;border-radius:0;padding:11px 16px;white-space:nowrap;transition:border-color .15s,color .15s;" style-hover="border-color:#6f6b67;color:#f4f1ee;">{{ m.linkLabel }} →</a>
+          <span style="justify-self:end;display:flex;gap:8px;align-items:center;flex-wrap:wrap;"><a class="mcta" href="{{ m.link }}" target="_blank" rel="noopener" style="text-decoration:none;font-family:'Space Mono',monospace;font-size:12px;letter-spacing:.04em;color:#cbc7c3;border:1px solid #3a3733;border-radius:0;padding:11px 16px;white-space:nowrap;transition:border-color .15s,color .15s;" style-hover="border-color:#6f6b67;color:#f4f1ee;">{{ m.linkLabel }} →</a><sc-if value="{{ m.streamUrl }}" hint-placeholder-val="{{ false }}"><a href="{{ m.streamUrl }}" target="_blank" rel="noopener" style="text-decoration:none;font-family:'Space Mono',monospace;font-size:12px;letter-spacing:.04em;color:#E03131;border:1px solid #4a2626;border-radius:0;padding:11px 16px;white-space:nowrap;transition:all .15s;" onmouseover="this.style.background='#E03131';this.style.color='#100f0e'" onmouseout="this.style.background='transparent';this.style.color='#E03131'">Watch live ↗</a></sc-if></span>
         </div>
       </sc-for>
     </div>
@@ -210,7 +210,7 @@
     </div>
     <div style="max-width:1080px;margin:34px auto 0;display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap;padding-top:20px;border-top:1px solid #1a1813;">
       <span style="font-family:'Space Mono',monospace;font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:#7d7975;">Independent · Nonpartisan · <span style="color:#9b9794;">AI-drafted, journalist-reviewed</span></span>
-      <span style="font-size:12px;color:#5f5b57;">Powered by <a href="https://publicmeetingtracker.com" target="_blank" rel="noopener" style="color:#E03131;text-decoration:none;font-weight:700;">PublicMeetingTracker.com</a> · © 2026 Michigan Data Center Tracker</span>
+      <span style="font-size:12px;color:#5f5b57;">Powered by <a href="https://grahamandgold.com" target="_blank" rel="noopener" style="color:#E03131;text-decoration:none;font-weight:700;">Graham &amp; Gold</a> · © 2026 Michigan Data Center Tracker</span>
     </div>
   </footer>
 
@@ -219,6 +219,11 @@
 <script type="text/x-dc" data-dc-script>
 class Component extends DCLogic {
   state = { menuOpen: false, region: 'all', alertPending: true, alertDone: false };
+
+  componentDidMount() {
+    try { if (window.MDCT && window.MDCT.loadLive) window.MDCT.loadLive(() => { if (!this._dead) this.setState({ liveTick: Date.now() }); }); } catch (e) {}
+  }
+  componentWillUnmount() { this._dead = true; }
 
   renderVals() {
     const s = this.state;
@@ -276,6 +281,7 @@ class Component extends DCLogic {
         urgentCls: urgent ? 'urgent' : '',
         link: m.link || '#',
         linkLabel: m.linkLabel || 'Agenda',
+        streamUrl: (m.stream && /^https:\/\//.test(m.stream)) ? m.stream : '',
       });
     });
 
@@ -299,7 +305,7 @@ class Component extends DCLogic {
       watchCount: watchlist.length,
       alertPending: s.alertPending,
       alertDone: s.alertDone,
-      subscribeAlerts: () => this.setState({ alertPending: false, alertDone: true }),
+      subscribeAlerts: () => { try { const el = document.getElementById('mc-alert-email'); const z = document.getElementById('mc-alert-zip'); if (window.MDCT && window.MDCT.subscribe) window.MDCT.subscribe(el ? el.value : '', z ? z.value : ''); } catch (e) {} this.setState({ alertPending: false, alertDone: true }); },
     };
   }
 }
