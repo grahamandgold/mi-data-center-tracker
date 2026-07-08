@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-08T10:35:33+00:00",
+ "updated_at": "2026-07-08T10:36:15Z",
  "generator": "grok-wire-agent",
  "items": [
   {
@@ -49,22 +49,6 @@
    "kind": "story",
    "filed_at": "2026-07-08T10:35:33+00:00",
    "accuracy": "social-post"
-  },
-  {
-   "iso": "2026-07-07T14:00:00+00:00",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "tag": "Policy",
-   "title": "Data centers advance rapidly as regulators scramble for rules",
-   "dek": "Across the U.S., officials race to impose guardrails on power-hungry facilities while communities push back on incentives and impacts.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/07/07/nx-s1-5861911/data-centers-on-the-fast-track-have-officials-racing-to-catch-up-and-offer-regulations",
-   "breaking": false,
-   "lead": false,
-   "id": "02d7912fe03d",
-   "kind": "national",
-   "filed_at": "2026-07-08T10:35:33+00:00",
-   "accuracy": "checked"
   }
  ],
  "accuracy_checked_at": "2026-07-08T10:35:40+00:00"
