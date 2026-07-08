@@ -1,6 +1,31 @@
 {
- "updated_at": "2026-07-08T19:28:18Z",
+ "updated_at": "2026-07-08T20:29:31+00:00",
  "generator": "grok-wire-agent",
- "items": [],
+ "items": [
+  {
+   "title": "Saline Township Board Meets July 8 at 7 p.m.",
+   "dek": "Residents within 30 minutes of Saline Township Hall face potential effects from decisions at the July 8 board meeting. The Township Board meets on the second Wednesday of each month at 7:00 PM in the Saline Township Hall.",
+   "url": "https://salinetownship.org/meeting-agendas.php",
+   "source": "Saline Township Board agenda",
+   "region": "Southeast Michigan",
+   "cat": "Meetings",
+   "tag": "Agenda watch",
+   "iso": "2026-07-08T20:29:31+00:00",
+   "kind": "agenda",
+   "id": "0719d37e5cc3",
+   "filed_at": "2026-07-08T20:29:31+00:00",
+   "accuracy": "thin — needs human background",
+   "findings": "The agenda page lists the July 8, 2026 Township Board meeting with no attached materials or staff reports | The packet shows consent agenda items including accounts payable and minutes | No project specifics appear in the July 8 agenda document",
+   "perspective": "The update occurs under the regular meeting format with citizen comments and board member comments scheduled after the listed items.",
+   "documents": [
+    {
+     "label": "Agenda page",
+     "url": "https://salinetownship.org/meeting-agendas.php"
+    }
+   ],
+   "depth_score": 0,
+   "extraction_method": "plain"
+  }
+ ],
  "accuracy_checked_at": "2026-07-08T18:45:59+00:00"
 }
