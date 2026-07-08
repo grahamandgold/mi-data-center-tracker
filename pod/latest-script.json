@@ -1,66 +1,106 @@
 {
- "title": "Michigan Data Wire — July 8, 2026",
- "teaser": "Senate Democrats file hyperscale data-center bills; Oracle exemption hearing today.",
+ "title": "El-Sayed Pushes Strict Rules in Data Center Debate",
+ "teaser": "El-Sayed lays out tough conditions for data centers in today's Senate debate.",
  "lines": [
   {
    "host": "Graham",
-   "text": "Senate Democrats today introduced a package of bills aimed at regulating hyperscale data centers across Michigan."
-  },
-  {
-   "host": "Graham",
-   "text": "The measures include water-use caps, renewable-energy requirements, labor standards, and new transparency rules for large facilities."
+   "text": "You're listening to the Michigan Data Wire — your daily podcast on Michigan's data center buildout. I'm Graham."
   },
   {
    "host": "Emmy",
-   "text": "Bridge Michigan reports the package is the first coordinated legislative response to the rapid growth of these projects."
-  },
-  {
-   "host": "Emmy",
-   "text": "Lawmakers will decide next steps in committee before any floor votes."
+   "text": "And I'm Emmy."
   },
   {
    "host": "Graham",
-   "text": "A new statewide report also recommends fresh state policies to address public concerns over energy, water, and local impacts."
+   "text": "Today we're diving into the first one-on-one debate between Democratic candidates Abdul El-Sayed and Haley Stevens, where El-Sayed laid out some strict conditions for any data centers coming to Michigan."
   },
   {
    "host": "Emmy",
-   "text": "Crain's Detroit Business notes the recommendations are intended to ease worries as multiple projects advance simultaneously."
+   "text": "That sounds like a big shift in the conversation. What exactly did he call for?"
   },
   {
    "host": "Graham",
-   "text": "In Oakland County, data-center developer Verrus has offered Lyon Township a ten-million-dollar community-benefits package tied to a proposed 1.8-million-square-foot facility."
+   "text": "Union labor requirements, no utility rate hikes for regular customers, strong water protections, and enforceable community benefits agreements."
   },
   {
    "host": "Emmy",
-   "text": "Crain's Detroit Business reports the offer comes while township officials continue their review of the project."
+   "text": "Why do those conditions matter so much right now?"
   },
   {
    "host": "Graham",
-   "text": "In Washtenaw County, Oracle is seeking a property-tax exemption for its expanding data-center project in Saline Township."
-  },
-  {
-   "host": "Graham",
-   "text": "The company applied for an Industrial Facilities Tax Exemption Certificate, and the township board will hold a public hearing today."
+   "text": "Because data centers use a ton of power and water, and towns are already worried about who pays for upgrades and how it affects electric bills."
   },
   {
    "host": "Emmy",
-   "text": "MLive reports the hearing is scheduled for the July 8 board meeting, giving residents a direct opportunity to comment."
+   "text": "So if rate hikes are off the table, where does the money for new infrastructure come from?"
   },
   {
    "host": "Graham",
-   "text": "Also in Washtenaw County, Lima Township residents and officials have halted a proposed 1.4-gigawatt natural-gas plant."
+   "text": "That's exactly the question. El-Sayed wants the companies themselves to cover those costs through those community agreements."
   },
   {
    "host": "Emmy",
-   "text": "Michigan Advance reports the project was eyed near a large data-center site; Consumers Energy stated there is no direct link after public pushback."
+   "text": "And the water piece — we've heard concerns about farmland and local supplies. How does he want to handle that?"
   },
   {
    "host": "Graham",
-   "text": "Listeners can attend the Saline Township Board of Trustees meeting tonight for the public hearing on Oracle's tax-exemption application."
+   "text": "He pushed for real protections so data centers can't just pull whatever they need without limits or oversight."
   },
   {
    "host": "Emmy",
-   "text": "Full sources and updates are available at the Michigan Data Center Tracker."
+   "text": "This is the first debate between them, right? How does this fit into the bigger race?"
+  },
+  {
+   "host": "Graham",
+   "text": "It's early in the cycle, but El-Sayed is clearly trying to draw a line on these projects before more deals get locked in."
+  },
+  {
+   "host": "Emmy",
+   "text": "What happens next — do we expect more candidates to weigh in with their own plans?"
+  },
+  {
+   "host": "Graham",
+   "text": "Probably. These conditions could become a template that other lawmakers and townships start looking at."
+  },
+  {
+   "host": "Emmy",
+   "text": "Makes sense. Let's move to the other stories. Yesterday John James got some heat over donations tied to a major data center builder."
+  },
+  {
+   "host": "Graham",
+   "text": "Right — over a hundred thousand dollars from executives and family members connected to that company, even while he's been critical of the projects."
+  },
+  {
+   "host": "Emmy",
+   "text": "How's he responding to the scrutiny?"
+  },
+  {
+   "host": "Graham",
+   "text": "The reports don't have his direct reply yet, but it's the kind of thing that could stick around in the campaign."
+  },
+  {
+   "host": "Emmy",
+   "text": "And on the grid side, yesterday's heat and storms showed how tight things already are."
+  },
+  {
+   "host": "Graham",
+   "text": "Exactly. With big data centers on the way, people are asking who foots the bill for any new transmission or generation needed."
+  },
+  {
+   "host": "Emmy",
+   "text": "No easy answers there either."
+  },
+  {
+   "host": "Graham",
+   "text": "On deck, no specific public meetings popped up for the next few days that we know of."
+  },
+  {
+   "host": "Emmy",
+   "text": "Listeners should keep checking their township calendars and the tracker for any last-minute notices."
+  },
+  {
+   "host": "Graham",
+   "text": "Full sources and the live map at the Michigan Data Center Tracker. We're back tomorrow."
   }
  ]
 }
