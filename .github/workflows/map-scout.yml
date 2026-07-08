@@ -1,0 +1,41 @@
+name: Daily map scout (Grok agent, PR for review)
+
+on:
+  schedule:
+    - cron: "0 11 * * *"   # daily 11:00 UTC (~7am ET)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: map-scout
+  cancel-in-progress: false
+
+jobs:
+  scout:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run map scout
+        env:
+          XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
+          XAI_MODEL: ${{ vars.XAI_MODEL || 'grok-4' }}
+        run: python scripts/map_scout.py
+
+      - name: Open PR with proposed map updates
+        uses: peter-evans/create-pull-request@v6
+        with:
+          add-paths: map-data.json
+          branch: map-scout/proposals
+          title: "Map scout: proposed map-data.json updates"
+          commit-message: "Map scout proposals $(date -u +'%Y-%m-%d')"
+          body-path: map-scout-summary.md
+          delete-branch: true

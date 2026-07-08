@@ -1,0 +1,47 @@
+name: Daily podcast (Michigan Data Wire)
+
+on:
+  schedule:
+    - cron: "45 9 * * *"   # daily 9:45 UTC (~5:45am ET), after overnight wire runs
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-podcast
+  cancel-in-progress: false
+
+jobs:
+  episode:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install ffmpeg
+        run: sudo apt-get update -q && sudo apt-get install -y -q ffmpeg
+
+      - name: Build today's episode
+        env:
+          XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
+          XAI_MODEL: ${{ vars.XAI_MODEL || 'grok-4' }}
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python scripts/podcast_agent.py
+
+      - name: Commit episode
+        run: |
+          if git status --porcelain pod/ | grep -q .; then
+            git config user.name "data-wire-podcast"
+            git config user.email "podcast@users.noreply.github.com"
+            git add pod/
+            git commit -m "Daily episode $(date -u +'%Y-%m-%d')"
+            git push
+          else
+            echo "No episode changes."
+          fi
