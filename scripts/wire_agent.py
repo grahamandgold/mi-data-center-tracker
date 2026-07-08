@@ -59,8 +59,10 @@ page) and put that page in "stream". Meetings without an agenda-location link
 are not publishable.
 
 2. HARD RULES:
-- Target the LAST 15 HOURS. If you cannot fill 6 items, you may stretch to 24 \
-hours — never older. Do NOT backfill old items; find TODAY's development instead.
+- NEWS items: target the last 15 hours; stretch to 24 hours to fill. \
+- X/REDDIT items: allowed up to 36 hours old IF the conversation is still active — \
+community reaction to yesterday's news is itself news. Use these to reach 8-12 items. \
+- Never backfill anything older; find TODAY's development instead.
 - Write every headline and dek in ORIGINAL, neutral, journalistic language. NEVER \
 copy or lightly rearrange a publisher's headline or a post.
 - Every item MUST have a real, working https source URL you actually found. For X \
@@ -79,7 +81,7 @@ site labels the destination automatically.
 
 3. Respond with ONLY a JSON object (no markdown fences, no commentary):
 {{"updated_at": "<current ISO-8601 UTC>", "generator": "grok-wire-agent",
- "stories": [6-10 items, newest first, ALL <15h old: {{"iso": "<publication time ISO-8601, best estimate to the hour>",
+ "stories": [8-12 items, newest first: {{"iso": "<publication time ISO-8601, best estimate to the hour>",
    "region": "metro|west|mid|north|statewide", "cat": "<County> Co." or "STATEWIDE",
    "tag": "Power & Grid|Local Government|Policy|Water|Money|Explainers",
    "title": "<original headline>", "dek": "<original 1-2 sentence summary>",
@@ -158,7 +160,8 @@ def valid_story(s: dict) -> bool:
         if not (isinstance(s.get("url"), str) and s["url"].startswith("https://")):
             print(f"::warning::rejected (url): {s.get('title','')[:60]}")
             return False
-        if not fresh_enough(s.get("iso", ""), hours=26.0):
+        social = any(d in str(s.get("url", "")) for d in ("x.com/", "twitter.com/", "reddit.com/"))
+        if not fresh_enough(s.get("iso", ""), hours=38.0 if social else 26.0):
             print(f"::warning::rejected (stale/no iso {s.get('iso')}): {s.get('title','')[:60]}")
             return False
         if s.get("region") not in REGIONS:
