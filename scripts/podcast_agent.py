@@ -112,7 +112,12 @@ HOSTS:
 They talk WITH each other: questions, reactions, follow-ups, natural spoken English
 with contractions. Never read a list. Never say "headline" or "dek." No partisan takes.
 
-STRUCTURE (50-70 lines total):
+LENGTH — HARD TARGET: the episode must run ABOUT 12 MINUTES when spoken.
+That is roughly 1,700-1,900 words of dialogue — write 95-125 lines. Do not
+come in under 90 lines. Fill the time with genuine depth (history, stakes,
+what happens next), never with padding or repetition.
+
+STRUCTURE (95-125 lines total):
 1. COLD OPEN — Graham: "You're listening to the Michigan Data Wire — your daily
    podcast on Michigan's data center buildout. I'm Graham." Emmy: "And I'm Emmy."
    One line teasing today's big story.
@@ -165,9 +170,10 @@ Respond ONLY with JSON:
         script = json.loads(m.group(0))
         lines = [l for l in script.get("lines", [])
                  if l.get("host") in ("Graham", "Emmy") and isinstance(l.get("text"), str) and l["text"].strip()]
-        if len(lines) < 10:
-            print("::warning::script too short")
-            return None
+        if len(lines) < 60:
+            print(f"::warning::script too short for a 12-minute show ({len(lines)} lines)")
+            if len(lines) < 10:
+                return None
         script["lines"] = lines
         return script
     except Exception as e:  # noqa: BLE001

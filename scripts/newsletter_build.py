@@ -73,6 +73,26 @@ else:
         "padding:14px 18px;font:400 13px/1.5 Arial,sans-serif;color:#5c5854;\">No data center hearings on today's calendars"
         + nxt + ". We're watching.</div></td></tr>")
 
+# INSIDE THE AGENDAS — document-based intel from the agenda investigator
+AGENDA_BLOCK = ""
+try:
+    _ab = json.loads((ROOT / "agenda-brief.json").read_text(encoding="utf-8"))
+    _gen = datetime.fromisoformat(str(_ab.get("generated_at", "")).replace("Z", "+00:00"))
+    _fresh = (datetime.now(timezone.utc) - _gen).total_seconds() < 24 * 3600
+    _items = [i for i in _ab.get("items", []) if i.get("bullet")]
+    if _fresh and _items:
+        _rows = "".join(
+            "<tr><td style=\"padding:8px 28px 0;\"><div style=\"font:400 13px/1.55 Arial,sans-serif;color:#1a1813;\">"
+            "&#9656;&nbsp; <b>" + esc(i.get("meeting", "")) + "</b> &#183; " + esc(i.get("time", "")) + " &#8212; "
+            + esc(i.get("bullet", "")) + " <a href=\"" + esc(i.get("link", SITE)) + "\" style=\"color:#8a6d1f;font-weight:700;\">agenda &#8594;</a></div></td></tr>"
+            for i in _items[:5])
+        AGENDA_BLOCK = ("<tr><td style=\"padding:20px 28px 4px;\">"
+            "<div style=\"font:700 10px/1 'Courier New',monospace;letter-spacing:3px;color:#100f0e;background:#9db8a1;display:inline-block;padding:5px 10px;\">INSIDE THE AGENDAS</div>"
+            "<div style=\"font:400 11px/1.6 Arial,sans-serif;color:#5c5854;padding-top:6px;\">What our desk found in the meeting packets &#8212; agendas, staff reports, and site plans.</div>"
+            "</td></tr>" + _rows + "<tr><td style=\"padding:0 0 10px;\"></td></tr>")
+except Exception:
+    pass
+
 NATIONAL_BLOCK = ""
 if national:
     NATIONAL_BLOCK = ("<tr><td style=\"padding:0 28px 24px;\">"
@@ -106,6 +126,9 @@ html = f"""<!DOCTYPE html>
     <div style="font:700 10px/1 'Courier New',monospace;letter-spacing:3px;color:#100f0e;background:#c9a24b;display:inline-block;padding:5px 10px;">HAPPENING TODAY</div>
   </td></tr>
   {TODAY_BLOCK}
+
+  <!-- ============ MODULE: INSIDE THE AGENDAS (agenda investigator) ============ -->
+  {AGENDA_BLOCK}
 
   <!-- ============ MODULE: LEAD STORY ============ -->
   <tr><td style="padding:26px 28px 22px;">

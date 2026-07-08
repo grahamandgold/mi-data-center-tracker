@@ -112,16 +112,34 @@ return {{"stories": []}}. Never pad with old news."""
 
 
 def director_notes() -> str:
-    """Standing notes from the News Director (set from the Intel Desk)."""
+    """Everything the News Director has taught the newsroom, injected into
+    every run: standing notes + accumulated lessons + open rework orders."""
+    out = ""
     try:
         notes = json.loads((ROOT / "agent-notes.json").read_text(encoding="utf-8")).get("notes", [])
+        mine = [n for n in notes if n.get("agent") in ("All agents", "Head Writer", "Managing Editor", "Standards Editor")]
+        if mine:
+            out += ("\n\nSTANDING NOTES FROM THE NEWS DIRECTOR (these override defaults):\n"
+                    + "\n".join(f"- {n['text']}" for n in mine))
     except Exception:  # noqa: BLE001
-        return ""
-    mine = [n for n in notes if n.get("agent") in ("All agents", "Head Writer", "Managing Editor", "Standards Editor")]
-    if not mine:
-        return ""
-    return ("\n\nSTANDING NOTES FROM THE NEWS DIRECTOR (these override defaults):\n"
-            + "\n".join(f"- {n['text']}" for n in mine))
+        pass
+    try:
+        lessons = json.loads((ROOT / "desk-lessons.json").read_text(encoding="utf-8")).get("lessons", [])
+        if lessons:
+            out += ("\n\nLESSONS FROM PAST FEEDBACK (the News Director corrected these before — "
+                    "do not repeat the mistakes):\n" + "\n".join(f"- {l['text']}" for l in lessons[-15:]))
+    except Exception:  # noqa: BLE001
+        pass
+    try:
+        reqs = json.loads((ROOT / "desk-rework.json").read_text(encoding="utf-8")).get("requests", [])
+        fresh = [r for r in reqs if fresh_enough(r.get("at", ""), hours=48.0)]
+        if fresh:
+            out += ("\n\nREWORK ORDERS — the News Director sent these stories back. Re-report each one, "
+                    "fixing exactly what the note says, and include the corrected story in this run's output:\n"
+                    + "\n".join(f"- '{r.get('title','')}' ({r.get('url','')}) — FIX: {r.get('note','')}" for r in fresh))
+    except Exception:  # noqa: BLE001
+        pass
+    return out
 
 
 def call_grok() -> dict | None:
