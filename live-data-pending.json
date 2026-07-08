@@ -1,23 +1,6 @@
 {
- "updated_at": "2026-07-08T16:29:07Z",
+ "updated_at": "2026-07-08T16:29:47Z",
  "generator": "grok-wire-agent",
- "items": [
-  {
-   "iso": "2026-07-08T10:00:00+00:00",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "tag": "Power & Grid",
-   "title": "U.S. Data Center Power Demand Surges as Tech Giants Accelerate AI Infrastructure Buildout",
-   "dek": "National reports highlight accelerating data center construction nationwide driven by AI, with utilities warning of grid strain and rising electricity costs in multiple states beyond Michigan.",
-   "source": "Industry Reports",
-   "url": "https://example.com/national-data-center-surge",
-   "breaking": false,
-   "lead": false,
-   "id": "0e8a8e6209cd",
-   "kind": "national",
-   "filed_at": "2026-07-08T16:25:47+00:00",
-   "accuracy": "unverified-source-unfetchable"
-  }
- ],
+ "items": [],
  "accuracy_checked_at": "2026-07-08T16:26:07+00:00"
 }
