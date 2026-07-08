@@ -1,25 +1,7 @@
 {
- "updated_at": "2026-07-08T21:54:38+00:00",
+ "updated_at": "2026-07-08T21:57:06+00:00",
  "generator": "grok-wire-agent",
  "items": [
-  {
-   "iso": "2026-07-07T08:00:00Z",
-   "region": "metro",
-   "cat": "Washtenaw Co.",
-   "tag": "Power & Grid",
-   "title": "Lima Township Residents Block Proposed 1.4-Gigawatt Power Plant Amid Saline Data Center Concerns",
-   "dek": "A rural Washtenaw County community successfully halted plans for a massive natural gas plant that would have supplied power amid questions over connections to the nearby Oracle-OpenAI data center project.",
-   "source": "Michigan Advance",
-   "url": "https://michiganadvance.com/2026/07/07/how-a-rural-michigan-community-stopped-a-proposed-1-4-gigawatt-power-plant/",
-   "breaking": false,
-   "lead": true,
-   "id": "a90e2e9bd65d",
-   "kind": "story",
-   "filed_at": "2026-07-08T21:54:25+00:00",
-   "accuracy": "checked-corrected",
-   "judge_score": 8,
-   "judge_note": "Concrete outcome: residents successfully blocked a 1.4-gigawatt power plant with clear connection to Oracle-OpenAI data center project."
-  },
   {
    "title": "Adrian enacts year-long pause on new data center proposals",
    "dek": "City leaders approved a moratorium to study impacts before allowing more projects. The move gives residents time to weigh power demand, water use, and noise concerns. Other Michigan communities are likely to watch Adrian's review closely.",
@@ -72,5 +54,5 @@
    "judge_note": "Two townships advancing specific zoning rules represents concrete regulatory development, though incremental."
   }
  ],
- "accuracy_checked_at": "2026-07-08T21:54:31+00:00"
+ "accuracy_checked_at": "2026-07-08T21:57:06+00:00"
 }
