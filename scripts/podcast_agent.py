@@ -54,36 +54,52 @@ def write_script() -> dict | None:
     live = json.loads((ROOT / "live-data.json").read_text(encoding="utf-8"))
     stories = live.get("stories", [])[:10]
     meetings = live.get("meetings", [])[:5]
-    digest = "\n".join(f"- [{s.get('cat')}] {s.get('title')} — {s.get('dek')} (Source: {s.get('source')})"
-                       for s in stories)
+    digest = "\n".join(
+        f"- {'[LEAD] ' if s.get('lead') else ''}[{s.get('cat')}] {s.get('title')} — {s.get('dek')} (Source: {s.get('source')})"
+        for s in stories)
     mdigest = "\n".join(f"- {m.get('iso')} {m.get('body')}: {m.get('topic')}" for m in meetings)
-    prompt = f"""Write today's episode of "Michigan Data Wire" — a tight 6-8 minute two-host
-news audio show for {datetime.now(timezone.utc).strftime('%A, %B %d, %Y')}.
+    prompt = f"""Write today's episode of "Michigan Data Wire" for {datetime.now(timezone.utc).strftime('%A, %B %d, %Y')}.
+This is a two-host DAILY PODCAST — a real conversation, not headline reading.
 
-HOSTS: Graham (anchor — crisp, reads the headline facts) and Emmy (analyst — adds
-context: why it matters, who decides next, what to watch). Conversational but
-newsroom-professional. No banter padding, no opinions on whether data centers
-are good or bad — evenhanded public-interest journalism.
+HOSTS:
+- Graham — the anchor. Warm, direct, sets up the story and keeps things moving.
+- Emmy — the analyst. Curious, sharp, explains why it matters and what happens next.
+They talk WITH each other: questions, reactions, follow-ups, natural spoken English
+with contractions. Never read a list. Never say "headline" or "dek." No partisan takes.
 
-VERIFIED HEADLINES (your ONLY source of facts — cite outlets by name):
+STRUCTURE (50-70 lines total):
+1. COLD OPEN — Graham: "You're listening to the Michigan Data Wire — your daily
+   podcast on Michigan's data center buildout. I'm Graham." Emmy: "And I'm Emmy."
+   One line teasing today's big story.
+2. THE BIG STORY (about 60%% of the show) — take the LEAD headline below and have a
+   genuine conversation about the bigger issue behind it: the history of this fight,
+   who the players are, what it means for electric bills, water, farmland, and towns,
+   and what happens next. Emmy asks the questions a smart neighbor would ask; Graham
+   grounds it in the facts. You may RESEARCH background for this segment (see rules).
+3. QUICK HITS — the remaining stories in 1-2 conversational exchanges each,
+   trading off who leads.
+4. ON DECK — the upcoming meetings listeners can actually attend, conversationally.
+5. SIGN-OFF — "Full sources and the live map at the Michigan Data Center Tracker.
+   We're back tomorrow."
+
+TODAY'S VERIFIED STORIES (the lead is marked; these are your news facts):
 {digest}
 
 UPCOMING MEETINGS:
 {mdigest}
 
-RULES: Never invent facts, numbers, quotes, or events beyond the digest. Context
-must be framing ("that hearing is five days out", "this joins two other Kalamazoo-area
-pauses") derivable from the digest itself. Open with the single biggest story.
-Close with the meetings listeners can attend and "full sources at the Michigan
-Data Center Tracker."
+RESEARCH RULES: For the big-story segment you may search for BACKGROUND context
+(history, prior votes, how many townships have paused, what a gigawatt powers) —
+but attribute anything specific ("MLive reported...", "according to the township")
+and never invent quotes, numbers, or events. When unsure, speak generally.
+The quick hits must stick strictly to the story summaries above.
 
 Respond ONLY with JSON:
 {{"title": "<episode title>", "teaser": "<one-line teaser for the player, under 90 chars>",
- "lines": [{{"host": "Graham|Emmy", "text": "<one spoken line, 1-3 sentences>"}}]}}
-Aim for 40-60 lines total."""
+ "lines": [{{"host": "Graham|Emmy", "text": "<one spoken line, 1-3 sentences>"}}]}}"""
     import xai_client
     out = xai_client.chat(XAI_KEY, {"model": XAI_MODEL, "messages": [{"role": "user", "content": prompt}],
-                                    "search_parameters": {"mode": "off"}, "temperature": 0.4})
+                                    "search_parameters": {"mode": "on"}, "temperature": 0.6})
     if not out:
         return None
     try:
@@ -106,7 +122,7 @@ def tts_eleven(text: str, voice: str, path: Path) -> bool:
     try:
         req = urllib.request.Request(
             f"https://api.elevenlabs.io/v1/text-to-speech/{voice}?output_format=mp3_44100_128",
-            data=json.dumps({"text": text, "model_id": "eleven_multilingual_v2"}).encode(),
+            data=json.dumps({"text": text, "model_id": "eleven_multilingual_v2", "voice_settings": {"stability": 0.42, "similarity_boost": 0.8, "style": 0.35}}).encode(),
             headers={"xi-api-key": ELEVEN_KEY, "Content-Type": "application/json"})
         with urllib.request.urlopen(req, timeout=120) as r:
             path.write_bytes(r.read())
@@ -159,8 +175,16 @@ def main() -> int:
         print("::warning::too many TTS failures — keeping yesterday's episode")
         return 0
 
+    gap = seg_dir / "gap.mp3"
+    subprocess.run(["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=44100:cl=mono",
+                    "-t", "0.28", "-c:a", "libmp3lame", "-b:a", "128k", str(gap)],
+                   check=True, capture_output=True)
     concat = seg_dir / "list.txt"
-    concat.write_text("\n".join(f"file '{s.name}'" for s in segs), encoding="utf-8")
+    lines_txt = []
+    for sfile in segs:
+        lines_txt.append(f"file '{sfile.name}'")
+        lines_txt.append(f"file '{gap.name}'")
+    concat.write_text("\n".join(lines_txt[:-1]), encoding="utf-8")
     out = POD / "latest.mp3"
     try:
         subprocess.run(["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", str(concat),

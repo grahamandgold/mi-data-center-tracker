@@ -34,38 +34,48 @@ MEET_REGIONS = {"SE Michigan", "West Michigan", "Mid-Michigan", "Northern Michig
 PROMPT = """You are the wire editor for the Michigan Data Center Tracker \
 (https://grahamandgold.github.io/mi-data-center-tracker/). Current UTC time: {now}.
 
-1. SEARCH for Michigan data center news published in the LAST 15 HOURS. Sweep: MLive, \
-Michigan Advance, Bridge Michigan, Crain's Detroit/Grand Rapids, Detroit News, Detroit Free Press, \
-Lansing State Journal, Lansing City Pulse, WOOD TV, WWMT, WXYZ, WKAR, WILX, WNEM, \
-Interlochen Public Radio, Traverse Ticker, UP outlets, township/city agenda pages, and \
-legislature.mi.gov activity on SB 1018-1020, SB 1046-1051, HB 6135-6142.
+MISSION: fill the homepage wire with what is happening RIGHT NOW.
 
-2. HARD EDITORIAL RULES:
-- Write every headline and dek in ORIGINAL, neutral, journalistic language. NEVER copy or \
-lightly rearrange a publisher's headline.
-- Every item MUST have a real, working https source URL that you actually verified exists.
+1. SEARCH (use web_search AND x_search) for Michigan data center news from the \
+LAST 15 HOURS ONLY. Priorities, in order:
+   a. HOT community conversations on X AND Reddit right now (r/Michigan, r/Detroit, r/grandrapids, r/lansing, r/kzoo): debates, hearings, votes, outages, resident fights — debates, hearings, \
+votes, candidate statements (e.g., a U.S. Senate debate touching data centers).
+   b. Fresh reporting: MLive, Michigan Advance, Bridge Michigan, Crain's, Detroit News, \
+Free Press, Lansing State Journal, City Pulse, WOOD TV, WWMT, WXYZ, WKAR, WILX, WNEM, \
+IPR, Traverse Ticker, UP outlets.
+   c. Official postings: township/city agendas, legislature.mi.gov (SB 1018-1020, \
+SB 1046-1051, HB 6135-6142), MPSC filings.
+
+2. HARD RULES:
+- EVERY story must have been published within the last 15 hours. Do NOT backfill \
+older items. If an ongoing story matters, find TODAY's development in it.
+- Write every headline and dek in ORIGINAL, neutral, journalistic language. NEVER \
+copy or lightly rearrange a publisher's headline or a post.
+- Every item MUST have a real, working https source URL you actually found. For X \
+coverage link the specific post (https://x.com/...) from a newsroom, reporter, \
+official, or candidate account, and set "source": "X". For Reddit link the specific thread and set "source": "Reddit" — posts document the public conversation; inclusion is not endorsement.
 - Never invent a story, meeting, quote, URL, or statistic. Unverified means omitted.
-- Deks under 55 words, factual, no hype. Label reporting vs. official records accurately.
+- Deks under 55 words, factual. Note when something is a live/developing event.
 
 3. Respond with ONLY a JSON object (no markdown fences, no commentary):
 {{"updated_at": "<current ISO-8601 UTC>", "generator": "grok-wire-agent",
- "stories": [6-12 items, newest first: {{"iso": "<publication time ISO-8601>",
+ "stories": [6-10 items, newest first, ALL <15h old: {{"iso": "<publication time ISO-8601, best estimate to the hour>",
    "region": "metro|west|mid|north|statewide", "cat": "<County> Co." or "STATEWIDE",
    "tag": "Power & Grid|Local Government|Policy|Water|Money|Explainers",
    "title": "<original headline>", "dek": "<original 1-2 sentence summary>",
-   "source": "<outlet>", "url": "<https link>", "breaking": <bool>, "lead": <true on exactly one>}}],
+   "source": "<outlet or X>", "url": "<https link>", "breaking": <bool>, "lead": <true on exactly one>}}],
  "meetings": [future-dated only: {{"iso": "YYYY-MM-DD", "body": "<government body>",
    "topic": "<what is decided>", "region": "SE Michigan|West Michigan|Mid-Michigan|Northern Michigan",
    "regionKey": "metro|west|mid|north", "county": "<county>", "time": "<h:mm AM/PM>",
    "status": "Public hearing|Board meeting|State hearing|Planning commission",
-   "urgent": <bool>, "link": "<official https agenda url>", "linkLabel": "Agenda"}}]}}
+   "urgent": <bool>, "link": "<official https agenda url>", "linkLabel": "Agenda",
+   "stream": "<https live-stream url if one exists, else omit>"}}]}}
 
 Regions: metro = SE Michigan incl. Ann Arbor (Wayne, Oakland, Macomb, Washtenaw, Monroe, \
 Livingston); west = Grand Rapids, Holland, Kalamazoo, lakeshore; mid = Tri-Cities, Lansing, \
 Jackson, Flint; north = Mt Pleasant northward + the UP.
-List every verified last-15-hour story first, then backfill with the most important verified \
-items from the past 7 days. If nothing new is verified, return the best current ranking — \
-never fabricate."""
+If you genuinely cannot verify at least 3 items from the last 15 hours, return \
+{{"stories": []}} — the site will keep its current feed. Never pad with old news."""
 
 
 def call_grok() -> dict | None:
@@ -108,6 +118,16 @@ def head_ok(url: str) -> bool:
     return False
 
 
+def fresh_enough(iso: str, hours: float = 20.0) -> bool:
+    try:
+        d = datetime.fromisoformat(str(iso).replace("Z", "+00:00"))
+        if d.tzinfo is None:
+            d = d.replace(tzinfo=timezone.utc)
+        return (datetime.now(timezone.utc) - d).total_seconds() <= hours * 3600
+    except Exception:  # noqa: BLE001
+        return False
+
+
 def valid_story(s: dict) -> bool:
     try:
         return (isinstance(s.get("title"), str) and len(s["title"]) > 10
@@ -116,7 +136,7 @@ def valid_story(s: dict) -> bool:
                 and isinstance(s.get("source"), str) and s["source"]
                 and s.get("region") in REGIONS
                 and s.get("tag") in TAGS
-                and datetime.fromisoformat(str(s["iso"]).replace("Z", "+00:00")) is not None)
+                and fresh_enough(s["iso"]))
     except Exception:  # noqa: BLE001
         return False
 
@@ -144,6 +164,9 @@ def main() -> int:
     stories = [s for s in out.get("stories", []) if valid_story(s)]
     checked = []
     for s in stories[:14]:
+        if any(d in s["url"] for d in ("x.com/", "twitter.com/", "reddit.com/")):
+            checked.append(s)  # X/Reddit block bots; URL came from the search tools
+            continue
         if head_ok(s["url"]):
             checked.append(s)
         else:
