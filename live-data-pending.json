@@ -1,23 +1,7 @@
 {
- "updated_at": "2026-07-08T10:36:15Z",
+ "updated_at": "2026-07-08T10:46:27Z",
  "generator": "grok-wire-agent",
  "items": [
-  {
-   "iso": "2026-07-08T00:00:00+00:00",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "tag": "Policy",
-   "title": "Democratic Senate candidates clash over data centers in latest debate",
-   "dek": "U.S. Rep. Haley Stevens and Abdul El-Sayed offered contrasting views on data center development during the Michigan U.S. Senate debate, with clips highlighting affordability concerns and corporate influence.",
-   "source": "X",
-   "url": "https://x.com/WOODTV/status/2074654637559333333",
-   "breaking": true,
-   "lead": true,
-   "id": "54965300adb6",
-   "kind": "story",
-   "filed_at": "2026-07-08T10:35:33+00:00",
-   "accuracy": "social-post"
-  },
   {
    "iso": "2026-07-07T23:00:00+00:00",
    "region": "statewide",
