@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-08T20:29:31+00:00",
+ "generated_at": "2026-07-08T20:42:29+00:00",
  "for_dates": [
   "2026-07-08",
   "2026-07-09"
@@ -9,7 +9,14 @@
    "iso": "2026-07-08",
    "time": "7:00 PM",
    "meeting": "Saline Township Board",
-   "bullet": "Township board meets July 8 at 7 p.m. with no packet details released.",
+   "bullet": "Saline Twp Board considers IFEC application for data center project tonight.",
+   "link": "https://salinetownship.org/meeting-agendas.php"
+  },
+  {
+   "iso": "2026-07-08",
+   "time": "7:00 PM",
+   "meeting": "Saline Township Board of Trustees",
+   "bullet": "Saline Twp board agenda includes IFEC application for data center project.",
    "link": "https://salinetownship.org/meeting-agendas.php"
   }
  ]

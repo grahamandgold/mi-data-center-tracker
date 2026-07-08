@@ -1,7 +1,79 @@
 {
- "updated_at": "2026-07-08T20:38:17+00:00",
+ "updated_at": "2026-07-08T20:42:29+00:00",
  "generator": "grok-wire-agent",
  "items": [
+  {
+   "title": "Saline Board to Review IFEC Application on Data Center Project",
+   "dek": "Residents 30 minutes from Saline Township Hall face potential effects on local taxes and services from the IFEC Application listed as item 7 on the July 8 agenda. The agenda also includes Farmland Preservation and a Resolution on Public Participation Policy.",
+   "url": "https://salinetownship.org/meeting-agendas.php",
+   "source": "Saline Township Board agenda",
+   "region": "Southeast Michigan",
+   "cat": "Meetings",
+   "tag": "Agenda watch",
+   "iso": "2026-07-08T20:42:29+00:00",
+   "kind": "agenda",
+   "id": "0719d37e5cc3",
+   "filed_at": "2026-07-08T20:42:29+00:00",
+   "accuracy": "document-based",
+   "findings": "Agenda item 7 is the IFEC Application | June and May agendas also scheduled Data Center items ahead of citizen comments",
+   "perspective": "Tonight's meeting includes the IFEC application before public comment and board member comments.",
+   "documents": [
+    {
+     "label": "Agenda page",
+     "url": "https://salinetownship.org/meeting-agendas.php"
+    },
+    {
+     "label": "July 8, 2026",
+     "url": "https://salinetownship.org/uploads/agendas/1783357877_July Agenda 2026.pdf"
+    },
+    {
+     "label": "June 10, 2026",
+     "url": "https://salinetownship.org/uploads/agendas/1780943339_June Agenda 2026 (2).pdf"
+    },
+    {
+     "label": "May 13, 2026",
+     "url": "https://salinetownship.org/uploads/agendas/1778514511_May Agenda 2026 (1).pdf"
+    }
+   ],
+   "depth_score": 10,
+   "extraction_method": "plain"
+  },
+  {
+   "title": "Saline Twp Board Weighs IFEC Application for Data Center Project",
+   "dek": "Residents 30 minutes away face direct effects on local tax base, water demand and farmland conversion if the exemption advances. The July 8 agenda lists an IFEC application as a standalone item. No dollar figures or abatement terms appear in the posted agenda.",
+   "url": "https://salinetownship.org/meeting-agendas.php",
+   "source": "Saline Township Board of Trustees agenda",
+   "region": "Southeast Michigan",
+   "cat": "Meetings",
+   "tag": "Agenda watch",
+   "iso": "2026-07-08T20:42:29+00:00",
+   "kind": "agenda",
+   "id": "0719d37e5cc3",
+   "filed_at": "2026-07-08T20:42:29+00:00",
+   "accuracy": "document-based",
+   "findings": "Agenda item 7 is listed as IFEC Application. Item 9 is listed as Data Center Update. No dollar figures or abatement terms appear in the posted agenda.",
+   "perspective": "Tonight the board takes up the IFEC application under public comment rules before any vote; approval would set the tax-abatement path while the project remains tied to regional water and power infrastructure questions.",
+   "documents": [
+    {
+     "label": "Agenda page",
+     "url": "https://salinetownship.org/meeting-agendas.php"
+    },
+    {
+     "label": "July 8, 2026",
+     "url": "https://salinetownship.org/uploads/agendas/1783357877_July Agenda 2026.pdf"
+    },
+    {
+     "label": "June 10, 2026",
+     "url": "https://salinetownship.org/uploads/agendas/1780943339_June Agenda 2026 (2).pdf"
+    },
+    {
+     "label": "May 13, 2026",
+     "url": "https://salinetownship.org/uploads/agendas/1778514511_May Agenda 2026 (1).pdf"
+    }
+   ],
+   "depth_score": 10,
+   "extraction_method": "plain"
+  },
   {
    "iso": "2026-07-07T15:00:00+00:00",
    "region": "north",
