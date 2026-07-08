@@ -1,7 +1,63 @@
 {
- "updated_at": "2026-07-08T21:57:06+00:00",
+ "updated_at": "2026-07-08T22:08:27Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Mason recall drive keeps pressure on mayor over data center fight",
+   "dek": "Petition organizers continue collecting signatures to remove the mayor after disputes over a proposed data center in the Ingham County city. The effort shows how quickly local data center fights can turn into direct challenges to elected officials. Voters will decide whether the mayor stays if enough valid signatures are gathered.",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdEI5NDVGaEpkQVNPMnpSZjdFYzJDVFIwcTBWNzRHRF9RNXo1bXRXb1F1WmM1OTBPUk1Ta2dBMU9oZlp0aUk2X2hBSVV2RFJUSEZySTJOTFpJVGlPdURCeWVCd2hsakJFa2xpVzJKdHRLdEd6bVpEVXZfcjc0aFNsaUt1bUNhQkMyeUVvaFhGTDJxU3lEOXRraXY4UmdXQQ?oc=5",
+   "source": "WKAR",
+   "region": "mid",
+   "cat": "STATEWIDE",
+   "tag": "Local Government",
+   "iso": "2026-07-08T22:07:27Z",
+   "id": "85f5ee3d0c4f",
+   "origin": "google-news",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
+  {
+   "title": "Adrian bars new data center proposals for the next year",
+   "dek": "City leaders approved a 12-month pause to give themselves time to write permanent rules before more projects arrive. The move follows resident pushback over power demand and land use in the small Lenawee County community. No new applications will be accepted while the moratorium is in effect.",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQ0xCMzZYQmFuVXNfcXBMZnBhc1JaVXJXeE9sRW1MLWgydkF1dmtJSHBKNHpZYzZPNWkyejctNHhXOHN3VXdMSXZoZTNSZl9XWDhpS3FlcU5kRzB4SkFHazg0b3BDcE9veEhZRG00bFduLUZma3JuZmYybzgyWkd4UXhHZFJqUWFfcnJuNHFURjAyTS1YYW9kQk1OVnhQSmNPVFJlelJWYnA4MlVVMDNZQmZ3SkNkWE9CalhtcGZHdXh2UGFYZEotZkFWSE5xcnNsZnZZMWMxQ2NCbUR0?oc=5",
+   "source": "lenconnect.com",
+   "region": "mid",
+   "cat": "STATEWIDE",
+   "tag": "Local Government",
+   "iso": "2026-07-08T22:07:27Z",
+   "id": "00e3c1aeb45a",
+   "origin": "google-news",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 9
+  },
+  {
+   "title": "Oracle asks Saline Twp to skip 12 years of taxes on $43B campus",
+   "dek": "The township board is set to decide whether to grant a long tax break for one of the largest data center investments ever proposed in Michigan. Residents would forgo millions in property tax revenue while the project draws heavily on local power and water. The vote will show how much the community is willing to give up to land the facility.",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWGtiUG1BMmJaakNVdlV1eWhaNnNQTkZJSERzNmpiZV9mcW5MOFZlRWxVbWt2czFMOTJ1N2lVMVdtbm1KSTAxSnBDbGE0YXpmZGlDbjdSZFdrX0ZFd3AySE5ZN0NLUlc1b2xHMGhHNzFoSkxvUGN1dG9ENDJQX3pjb3pJSm9yMlMwM3doTFNtRlRkNy0zT0dFOTg0c19kaE5EQTdSaEV4UWtEYWl4QWZ3MEVjdzI5Q0ViVnJDS0JuNXI3b1o0Zm9GQllR?oc=5",
+   "source": "WXYZ Channel 7",
+   "region": "mid",
+   "cat": "STATEWIDE",
+   "tag": "Money",
+   "iso": "2026-07-08T22:07:27Z",
+   "id": "b810070616d3",
+   "origin": "google-news",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 9
+  },
+  {
+   "title": "Girard Twp green-lights data center rules while Coldwater drafts its own",
+   "dek": "Two southwest Michigan townships are moving at different speeds to set limits on future data center projects. Girard has already adopted standards; Coldwater is just starting the drafting process. The differing approaches will shape where large facilities can locate and what they must provide in return.",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSUw3bEFEVGZQMTA2MUt4ZkY2TTdwNVhzVzlja2FXNTF1YndUYU5hWjVuUmtmd2VjOEVQYjA5WUdRZ0g1cHRQbDRCZUV3VXpMR2NPLW45Z2h6VEV3bU9jQTlPalUyVmlZTWowbFJ4MzNRaG9WX291a3hlOXBtXzFaVDRUM0R2Y2ZSTVpvZjk3M29FbGYtMUY5ZC1JR1F0MUZaY0VsbGh1M2V1RE1zbkZVdE5LTnJ3VURUZGQxRjJtSjRrUENVRjdIZDhSTGpYWU1CVGxNOERibUVRSjNvV2huRnZNak5xdUxx?oc=5",
+   "source": "Coldwater Daily Reporter",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "tag": "Local Government",
+   "iso": "2026-07-08T22:07:27Z",
+   "id": "092f17237db4",
+   "origin": "google-news",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "iso": "2026-07-08T05:00:00+00:00",
    "region": "statewide",
@@ -84,8 +140,8 @@
  "meetings": [
   {
    "iso": "2026-07-08",
-   "body": "Saline Township Board of Trustees",
-   "topic": "Public hearing on Oracle America Cloud Services LLC application for a 12-year Industrial Facilities Tax Exemption Certificate on its $43 billion hyperscale data center project",
+   "body": "Saline Township Board",
+   "topic": "Vote on 12-year tax abatement application for Related Digital Oracle data center project; ongoing construction updates and public input expected",
    "region": "SE Michigan",
    "regionKey": "metro",
    "county": "Washtenaw",
@@ -94,12 +150,12 @@
    "urgent": true,
    "link": "https://salinetownship.org/meeting-agendas.php",
    "linkLabel": "Agenda",
-   "stream": null
+   "stream": ""
   },
   {
    "iso": "2026-07-08",
-   "body": "Saline Township Board",
-   "topic": "Public hearing on Oracle America Industrial Facilities Tax Exemption Certificate application for data center project",
+   "body": "Saline Township Board of Trustees",
+   "topic": "Public hearing on Oracle America Cloud Services LLC application for a 12-year Industrial Facilities Tax Exemption Certificate on its $43 billion hyperscale data center project",
    "region": "SE Michigan",
    "regionKey": "metro",
    "county": "Washtenaw",

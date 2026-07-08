@@ -43,6 +43,39 @@
    "at": "2026-07-08T21:54:38+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Duplicate of killed story 'Dowagiac Residents Report Persistent Noise' — same anecdotal noise complaint angle already rejected."
+  },
+  {
+   "url": "https://therealnews.com/in-a-divided-country-u-s-residents-agree-on-one-thing-no-data-centers",
+   "title": "Americans Across Political Lines Unite in Opposition to New Data Centers",
+   "at": "2026-07-08T22:08:26+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece about survey results with no Michigan-specific action or development."
+  }
+ ],
+ "auto_published": [
+  {
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdEI5NDVGaEpkQVNPMnpSZjdFYzJDVFIwcTBWNzRHRF9RNXo1bXRXb1F1WmM1OTBPUk1Ta2dBMU9oZlp0aUk2X2hBSVV2RFJUSEZySTJOTFpJVGlPdURCeWVCd2hsakJFa2xpVzJKdHRLdEd6bVpEVXZfcjc0aFNsaUt1bUNhQkMyeUVvaFhGTDJxU3lEOXRraXY4UmdXQQ?oc=5",
+   "title": "Mason recall drive keeps pressure on mayor over data center fight",
+   "judge_score": 6,
+   "at": "2026-07-08T22:08:27Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQ0xCMzZYQmFuVXNfcXBMZnBhc1JaVXJXeE9sRW1MLWgydkF1dmtJSHBKNHpZYzZPNWkyejctNHhXOHN3VXdMSXZoZTNSZl9XWDhpS3FlcU5kRzB4SkFHazg0b3BDcE9veEhZRG00bFduLUZma3JuZmYybzgyWkd4UXhHZFJqUWFfcnJuNHFURjAyTS1YYW9kQk1OVnhQSmNPVFJlelJWYnA4MlVVMDNZQmZ3SkNkWE9CalhtcGZHdXh2UGFYZEotZkFWSE5xcnNsZnZZMWMxQ2NCbUR0?oc=5",
+   "title": "Adrian bars new data center proposals for the next year",
+   "judge_score": 9,
+   "at": "2026-07-08T22:08:27Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWGtiUG1BMmJaakNVdlV1eWhaNnNQTkZJSERzNmpiZV9mcW5MOFZlRWxVbWt2czFMOTJ1N2lVMVdtbm1KSTAxSnBDbGE0YXpmZGlDbjdSZFdrX0ZFd3AySE5ZN0NLUlc1b2xHMGhHNzFoSkxvUGN1dG9ENDJQX3pjb3pJSm9yMlMwM3doTFNtRlRkNy0zT0dFOTg0c19kaE5EQTdSaEV4UWtEYWl4QWZ3MEVjdzI5Q0ViVnJDS0JuNXI3b1o0Zm9GQllR?oc=5",
+   "title": "Oracle asks Saline Twp to skip 12 years of taxes on $43B campus",
+   "judge_score": 9,
+   "at": "2026-07-08T22:08:27Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSUw3bEFEVGZQMTA2MUt4ZkY2TTdwNVhzVzlja2FXNTF1YndUYU5hWjVuUmtmd2VjOEVQYjA5WUdRZ0g1cHRQbDRCZUV3VXpMR2NPLW45Z2h6VEV3bU9jQTlPalUyVmlZTWowbFJ4MzNRaG9WX291a3hlOXBtXzFaVDRUM0R2Y2ZSTVpvZjk3M29FbGYtMUY5ZC1JR1F0MUZaY0VsbGh1M2V1RE1zbkZVdE5LTnJ3VURUZGQxRjJtSjRrUENVRjdIZDhSTGpYWU1CVGxNOERibUVRSjNvV2huRnZNak5xdUxx?oc=5",
+   "title": "Girard Twp green-lights data center rules while Coldwater drafts its own",
+   "judge_score": 7,
+   "at": "2026-07-08T22:08:27Z"
   }
  ]
 }
