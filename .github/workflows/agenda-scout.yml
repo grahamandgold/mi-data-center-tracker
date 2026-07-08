@@ -24,6 +24,9 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Install PDF text extraction
+        run: pip install pypdf
+
       - name: Investigate agendas (PDFs, packets, renderings)
         env:
           XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
