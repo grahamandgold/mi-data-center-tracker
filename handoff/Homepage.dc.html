@@ -440,10 +440,10 @@
       <div style="border-top:1px solid #262320;">
         <sc-for list="{{ onDeck }}" as="m" hint-placeholder-count="4">
           <div class="deck-row" style="display:flex;align-items:center;gap:16px;flex-wrap:wrap;min-height:54px;padding:7px 8px;border-bottom:1px solid #1f1c18;border-left:3px solid {{ m.topColor }};padding-left:16px;">
-            <span class="deck-date" style="display:flex;align-items:baseline;gap:6px;width:70px;flex-shrink:0;"><span style="font-family:'Space Mono',monospace;font-size:10px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#E03131;">{{ m.mon }}</span><span style="font-family:'Saira Condensed',sans-serif;font-weight:800;font-size:26px;line-height:1;color:#f4f1ee;">{{ m.day }}</span></span>
+            <span class="deck-date" style="display:flex;align-items:baseline;gap:6px;width:128px;flex-shrink:0;"><span style="font-family:'Space Mono',monospace;font-size:10px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#E03131;">{{ m.mon }}</span><span style="font-family:'Saira Condensed',sans-serif;font-weight:800;font-size:26px;line-height:1;color:#f4f1ee;">{{ m.day }}</span><span style="font-family:'Space Mono',monospace;font-size:10.5px;color:#8c8884;margin-left:2px;">{{ m.time }}</span></span>
             <span class="deck-status" style="width:118px;flex-shrink:0;font-family:'Space Mono',monospace;font-size:10px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;color:{{ m.statusColor }};border-left:2px solid {{ m.statusBorder }};padding-left:12px;">{{ m.status }}</span>
             <span class="deck-body" style="flex:1;min-width:0;display:flex;flex-direction:column;gap:1px;"><span class="deck-title" style="font-family:'Saira Condensed',sans-serif;font-weight:700;font-size:19px;line-height:1.05;color:#f4f1ee;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">{{ m.body }}</span><span style="font-size:12.5px;color:#8c8884;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">{{ m.topic }}</span></span>
-            <span class="deck-side" style="display:flex;align-items:center;gap:14px;flex-shrink:0;"><span style="font-family:'Space Mono',monospace;font-size:9.5px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:#9b9794;border:1px solid #322e29;padding:3px 9px;">{{ m.region }}</span><span style="font-family:'Space Mono',monospace;font-size:11px;color:#7d7975;">{{ m.time }}</span></span>
+            <span class="deck-side" style="display:flex;align-items:center;gap:14px;flex-shrink:0;"><span style="font-family:'Space Mono',monospace;font-size:9.5px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:#9b9794;border:1px solid #322e29;padding:3px 9px;">{{ m.region }}</span></span>
             <span class="deck-actions" style="display:flex;gap:8px;flex-shrink:0;"><sc-if value="{{ m.agendaUrl }}" hint-placeholder-val="{{ true }}"><a class="deck-act" href="{{ m.agendaUrl }}" target="_blank" rel="noopener noreferrer" aria-label="View agenda">{{ m.agendaLabel }} ↗</a></sc-if><sc-if value="{{ m.streamUrl }}" hint-placeholder-val="{{ false }}"><a class="deck-act watch" href="{{ m.streamUrl }}" target="_blank" rel="noopener noreferrer" aria-label="Watch the stream">📺 Watch</a></sc-if></span>
           </div>
         </sc-for>
@@ -542,6 +542,72 @@
           </div>
         </div>
 
+      </div>
+    </section>
+
+
+    <!-- LIVE FROM THE MAP — every chart computed from map-data.json at load -->
+    <section class="section-pad" style="padding:18px 44px 6px;">
+      <div style="display:flex;align-items:baseline;justify-content:space-between;margin-bottom:14px;flex-wrap:wrap;gap:10px;">
+        <div style="display:flex;align-items:center;gap:11px;"><span style="width:9px;height:9px;background:#E03131;border-radius:0;flex-shrink:0;animation:live-dot 1.6s ease-in-out infinite;"></span><h3 style="font-family:'Saira Condensed',sans-serif;font-weight:700;font-size:21px;letter-spacing:.02em;color:#f4f1ee;margin:0;white-space:nowrap;">LIVE FROM THE MAP</h3></div>
+        <a class="flink" href="Live Map.dc.html" style="font-size:12px;letter-spacing:.06em;text-transform:uppercase;font-weight:700;color:#E03131;">Open the live map →</a>
+      </div>
+
+      <!-- ratio strip -->
+      <a href="Live Map.dc.html" style="display:flex;align-items:center;gap:22px;flex-wrap:wrap;text-decoration:none;border:1px solid #262320;background:radial-gradient(120% 160% at 0% 0%, #201a15 0%, #16140f 60%);padding:18px 24px;margin-bottom:16px;">
+        <span style="font-family:'Saira Condensed',sans-serif;font-weight:700;font-size:44px;line-height:1;color:#E03131;">{{ lmRatio }}</span>
+        <span style="flex:1 1 260px;min-width:0;font-size:14px;color:#cbc7c3;line-height:1.5;">communities have hit pause for every <span style="color:#f4f1ee;font-weight:700;">1 project</span> on the tracker — {{ lmPauses }} pauses vs {{ lmProjects }} projects. <span style="color:#7d7975;">Tap any pin for the source.</span></span>
+        <span style="font-family:'Space Mono',monospace;font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#f4f1ee;background:#E03131;padding:9px 14px;white-space:nowrap;">See them mapped →</span>
+      </a>
+
+      <div class="stats-grid" style="display:grid;grid-template-columns:repeat(3,1fr);gap:16px;">
+
+        <!-- county heat -->
+        <a href="Live Map.dc.html" class="card" style="text-decoration:none;border:1px solid #262320;border-radius:0;background:#16140f;padding:24px 22px;display:flex;flex-direction:column;">
+          <div style="font-family:'Space Mono',monospace;font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:#7d7975;margin-bottom:16px;">Where the fight is · by county</div>
+          <div style="display:flex;flex-direction:column;gap:11px;flex:1;">
+            <sc-for list="{{ lmCounties }}" as="c" hint-placeholder-count="6">
+              <div><div style="display:flex;justify-content:space-between;margin-bottom:5px;"><span style="font-size:12.5px;color:#cbc7c3;">{{ c.label }}</span><span style="font-family:'Space Mono',monospace;font-size:11px;color:#f4f1ee;">{{ c.total }}</span></div><div style="height:7px;background:#221f1b;display:flex;"><div style="height:7px;width:{{ c.pw }};background:linear-gradient(90deg,#E03131,#f24343);"></div><div style="height:7px;width:{{ c.mw }};background:#7c9cc4;"></div></div></div>
+            </sc-for>
+          </div>
+          <div style="display:flex;gap:14px;margin-top:14px;font-family:'Space Mono',monospace;font-size:10px;color:#7d7975;"><span style="display:flex;align-items:center;gap:6px;"><span style="width:8px;height:8px;background:#E03131;"></span>Projects</span><span style="display:flex;align-items:center;gap:6px;"><span style="width:8px;height:8px;background:#7c9cc4;"></span>Pauses</span><span style="margin-left:auto;color:#E03131;">Map →</span></div>
+        </a>
+
+        <!-- buildout timeline -->
+        <a href="Live Map.dc.html" class="card" style="text-decoration:none;border:1px solid #262320;border-radius:0;background:#16140f;padding:24px 22px;display:flex;flex-direction:column;">
+          <div style="font-family:'Space Mono',monospace;font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:#7d7975;margin-bottom:6px;">The buildout curve · disclosed MW</div>
+          <div style="display:flex;align-items:baseline;gap:8px;margin-bottom:10px;"><span style="font-family:'Saira Condensed',sans-serif;font-weight:700;font-size:30px;color:#f4f1ee;line-height:1;">{{ lmGW }} GW</span><span style="font-family:'Space Mono',monospace;font-size:10.5px;color:#8c8884;">verified · ≈ {{ lmHomes }} homes' worth of power</span></div>
+          <div style="flex:1;min-height:110px;position:relative;">
+            <svg viewBox="0 0 300 110" preserveAspectRatio="none" style="position:absolute;inset:0;width:100%;height:100%;">
+              <polyline points="{{ lmTimelineArea }}" fill="rgba(224,49,49,.12)" stroke="none"></polyline>
+              <polyline points="{{ lmTimeline }}" fill="none" stroke="#E03131" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"></polyline>
+            </svg>
+          </div>
+          <div style="display:flex;justify-content:space-between;margin-top:8px;font-family:'Space Mono',monospace;font-size:10px;color:#5f5b57;"><span>{{ lmTlStart }}</span><span style="color:#E03131;">Map →</span><span>{{ lmTlEnd }}</span></div>
+        </a>
+
+        <!-- grid mix -->
+        <a href="Live Map.dc.html" class="card" style="text-decoration:none;border:1px solid #262320;border-radius:0;background:#16140f;padding:24px 22px;display:flex;flex-direction:column;">
+          <div style="font-family:'Space Mono',monospace;font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:#7d7975;margin-bottom:16px;">The grid they plug into · tracked plants</div>
+          <div style="display:flex;height:14px;overflow:hidden;margin-bottom:16px;">
+            <sc-for list="{{ lmFuels }}" as="f" hint-placeholder-count="6">
+              <div style="height:14px;width:{{ f.pct }};background:{{ f.color }};"></div>
+            </sc-for>
+          </div>
+          <div style="display:grid;grid-template-columns:1fr 1fr;gap:9px 16px;flex:1;">
+            <sc-for list="{{ lmFuels }}" as="f" hint-placeholder-count="6">
+              <div style="display:flex;align-items:center;gap:8px;"><span style="width:9px;height:9px;background:{{ f.color }};flex-shrink:0;"></span><span style="flex:1;font-size:12px;color:#cbc7c3;">{{ f.label }}</span><span style="font-family:'Space Mono',monospace;font-size:11px;color:#f4f1ee;">{{ f.count }}</span></div>
+            </sc-for>
+          </div>
+          <div style="margin-top:14px;font-family:'Space Mono',monospace;font-size:10px;color:#7d7975;display:flex;"><span>Toggle "Power plants" on the map</span><span style="margin-left:auto;color:#E03131;">Map →</span></div>
+        </a>
+
+      </div>
+
+      <!-- plain-english explainer -->
+      <div style="margin-top:14px;border:1px dashed #35312b;background:#13110d;padding:14px 20px;display:flex;align-items:center;gap:14px;flex-wrap:wrap;">
+        <span style="font-family:'Space Mono',monospace;font-size:10px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:#c9a24b;white-space:nowrap;">What's a megawatt?</span>
+        <span style="flex:1 1 320px;font-size:13px;color:#a39e99;line-height:1.55;">One megawatt is roughly enough electricity for <span style="color:#f4f1ee;">800 homes</span>. The projects on this tracker have disclosed <span style="color:#f4f1ee;">{{ lmGW }} gigawatts</span> — about <span style="color:#f4f1ee;">{{ lmHomes }} homes'</span> worth — and most projects haven't filed their power needs yet. <a href="Learn.dc.html" style="color:#c9a24b;">Learn how the grid works →</a></span>
       </div>
     </section>
 
@@ -672,6 +738,9 @@ class Component extends DCLogic {
   }
 
   componentDidMount() {
+    fetch('map-data.json').then(r => r.ok ? r.json() : null).then(d => {
+      if (d && d.map_points && !this._dead) this.setState({ lmPoints: d.map_points });
+    }).catch(() => {});
     fetch('pod/latest.json', { cache: 'no-store' }).then(r => r.ok ? r.json() : null).then(meta => {
       if (meta && meta.title && !this._dead) this.setState({ podMeta: meta });
     }).catch(() => {});
@@ -875,8 +944,56 @@ class Component extends DCLogic {
 
     const wireUpdated = (MDCT.updatedLabel && MDCT.updatedLabel()) || (rawWire[0] && MDCT.ago ? MDCT.ago(rawWire[0].iso, NOW) : '');
 
+    // ---- Live-from-the-map diagrams (computed from map-data.json) ----
+    const pts = this.state.lmPoints || (MDCT.mapPoints ? MDCT.mapPoints() : []) || [];
+    const prj = pts.filter(p => p.layer === 'projects');
+    const mor = pts.filter(p => p.layer === 'moratoria');
+    const lmProjects = prj.length, lmPauses = mor.length;
+    const lmRatio = lmProjects ? (lmPauses / lmProjects).toFixed(1) + 'x' : '—';
+    // county heat: top 6 by combined records
+    const byCounty = {};
+    prj.concat(mor).forEach(p => {
+      const c = p.county || '—';
+      byCounty[c] = byCounty[c] || { p: 0, m: 0 };
+      (p.layer === 'projects' ? (byCounty[c].p++) : (byCounty[c].m++));
+    });
+    const countyList = Object.keys(byCounty).map(k => ({ label: k, p: byCounty[k].p, m: byCounty[k].m, total: byCounty[k].p + byCounty[k].m }))
+      .sort((a, b) => b.total - a.total).slice(0, 6);
+    const cMax = Math.max.apply(null, countyList.map(c => c.total).concat([1]));
+    const lmCounties = countyList.map(c => ({ label: c.label, total: c.total,
+      pw: (c.p / cMax * 100).toFixed(0) + '%', mw: (c.m / cMax * 100).toFixed(0) + '%' }));
+    // buildout timeline: cumulative disclosed MW by verified month
+    const dated = prj.map(p => ({ t: new Date((p.verified_date || '') + 'T00:00:00'), mw: (MDCT.parseMW ? MDCT.parseMW(p.power_mw) : 0) }))
+      .filter(x => !isNaN(x.t)).sort((a, b) => a.t - b.t);
+    let lmTimeline = '0,108 300,108', lmTimelineArea = '0,110 300,110', lmTlStart = '', lmTlEnd = '';
+    if (dated.length > 1) {
+      let acc = 0; const cum = dated.map(x => { acc += x.mw; return { t: x.t.getTime(), v: acc }; });
+      const t0 = cum[0].t, t1 = cum[cum.length - 1].t || t0 + 1, vMax = cum[cum.length - 1].v || 1;
+      const ptsStr = cum.map(c => (((c.t - t0) / (t1 - t0 || 1)) * 296 + 2).toFixed(1) + ',' + (104 - (c.v / vMax) * 96 + 3).toFixed(1));
+      lmTimeline = '2,104 ' + ptsStr.join(' ');
+      lmTimelineArea = '2,110 ' + ptsStr.join(' ') + ' 298,110';
+      const MONL = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+      const d0 = new Date(t0), d1 = new Date(t1);
+      lmTlStart = MONL[d0.getMonth()] + ' ' + String(d0.getFullYear()).slice(2);
+      lmTlEnd = MONL[d1.getMonth()] + ' ' + String(d1.getFullYear()).slice(2);
+    }
+    const lmGW = (prj.reduce((a, p) => a + (MDCT.parseMW ? MDCT.parseMW(p.power_mw) : 0), 0) / 1000).toFixed(1);
+    const lmMW = prj.reduce((a, p) => a + (MDCT.parseMW ? MDCT.parseMW(p.power_mw) : 0), 0);
+    const lmHomes = lmMW >= 1250 ? (Math.round(lmMW * 800 / 100000) / 10) + ' million' : Math.round(lmMW * 800 / 1000) + ',000';
+    // grid mix from generation layer
+    const FUELC = { 'Nuclear': '#c9a24b', 'Coal': '#8c8884', 'Natural gas': '#dd8048', 'Wind': '#7fb0e0', 'Solar': '#e5c451', 'Hydroelectric': '#22d3ee' };
+    const gen = pts.filter(p => p.layer === 'generation');
+    const byFuel = {};
+    gen.forEach(p => { byFuel[p.status] = (byFuel[p.status] || 0) + 1; });
+    const gTot = Math.max(1, gen.length);
+    const lmFuels = Object.keys(FUELC).filter(k => byFuel[k]).map(k => ({
+      label: k === 'Hydroelectric' ? 'Hydro' : k, count: byFuel[k], color: FUELC[k],
+      pct: (byFuel[k] / gTot * 100).toFixed(1) + '%',
+    }));
+
     return {
       menuOpen: this.state.menuOpen,
+      lmRatio, lmProjects, lmPauses, lmCounties, lmTimeline, lmTimelineArea, lmTlStart, lmTlEnd, lmGW, lmHomes, lmFuels,
       podCls: this.state.podPlaying ? 'playing' : '',
       podIcon: this.state.podPlaying ? '❚❚' : '▶',
       togglePod: () => { const next = !this.state.podPlaying; this.setState({ podPlaying: next }); try { const a = document.getElementById('pod-audio'); if (a) { if (next) { a.muted = false; a.play && a.play().catch(()=>{}); } else { a.pause && a.pause(); } } } catch(e){} },
