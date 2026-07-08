@@ -1,7 +1,23 @@
 {
- "updated_at": "2026-07-08T16:50:29+00:00",
+ "updated_at": "2026-07-08T18:45:52+00:00",
  "generator": "grok-wire-agent",
  "items": [
+  {
+   "iso": "2026-07-07T18:00:00Z",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "tag": "Policy",
+   "title": "Greenwood County Holds Public Hearing on Data Center Regulations",
+   "dek": "South Carolina officials heard public input on proposed rules for future data center development amid rising concerns over energy use and local impacts. The session reflects broader national debates on siting and oversight.",
+   "source": "Fox Carolina",
+   "url": "https://www.foxcarolina.com/video/2026/07/07/public-hearing-future-data-centers/",
+   "breaking": false,
+   "lead": false,
+   "id": "cb16e0d8511f",
+   "kind": "national",
+   "filed_at": "2026-07-08T18:45:52+00:00",
+   "accuracy": "unverified-source-unfetchable"
+  },
   {
    "iso": "2026-07-07T19:59:00+00:00",
    "region": "north",
@@ -35,5 +51,5 @@
    "accuracy": "checked-corrected"
   }
  ],
- "accuracy_checked_at": "2026-07-08T16:50:57+00:00"
+ "accuracy_checked_at": "2026-07-08T18:45:59+00:00"
 }

@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-08T16:50:29+00:00",
+ "updated_at": "2026-07-08T18:45:52+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -161,12 +161,12 @@
   {
    "iso": "2026-07-08",
    "body": "Saline Township Board of Trustees",
-   "topic": "Public hearing on Oracle America's application for an Industrial Facilities Tax Exemption Certificate for the $43 billion data center project; the exemption would reduce property taxes on the massive facility amid concerns over local revenue and infrastructure impacts.",
+   "topic": "Public hearing on Oracle America's application for Industrial Facilities Tax Exemption Certificate for hyperscale data center project",
    "region": "SE Michigan",
    "regionKey": "metro",
    "county": "Washtenaw",
    "time": "7:00 PM",
-   "status": "Board meeting",
+   "status": "Public hearing",
    "urgent": true,
    "link": "https://salinetownship.org/meeting-agendas.php",
    "linkLabel": "Agenda",
