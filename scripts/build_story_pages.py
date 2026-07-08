@@ -61,8 +61,10 @@ PAGE = """<!DOCTYPE html>
 
 
 def slugify(title: str, iso: str) -> str:
-    s = re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")[:70]
-    return f"{iso[:10]}-{s}" if iso else s
+    import hashlib
+    s = re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")[:64]
+    h = hashlib.sha1(f"{title}|{iso}".encode()).hexdigest()[:6]  # collision-proof
+    return f"{iso[:10]}-{s}-{h}" if iso else f"{s}-{h}"
 
 
 def render(story: dict) -> tuple[str, str]:

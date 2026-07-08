@@ -37,6 +37,7 @@
 </style>
 </head>
 <body>
+<a href="https://grahamandgold.github.io/mi-data-center-tracker/" target="_blank" rel="noopener" style="display:inline-block;margin-bottom:10px"><img src="https://grahamandgold.github.io/mi-data-center-tracker/brand-logo-nav.png" alt="Michigan Data Center Tracker" style="height:34px;display:block"></a>
 <div class="kicker">Tracking the public record · Live data</div>
 <h1>The Moratorium Wave</h1>
 <div class="sub" id="sub">Michigan communities pausing data-center development, month by month — every pause sourced to a public record.</div>
@@ -86,6 +87,7 @@ svg.innerHTML = `<polygon points="${poly(LP)}" fill="#1f1d1b" stroke="#3a3734" s
                  <polygon points="${poly(UP)}" fill="#1f1d1b" stroke="#3a3734" stroke-width="1.5"/>
                  <g id="dots"></g>`;
 
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const monthKey = d => d.slice(0,7);
 const monthLabel = k => new Date(k+"-15").toLocaleDateString("en-US",{month:"short",year:"2-digit"}).replace(" ","  ’");
 
@@ -123,7 +125,7 @@ loadData().then(data => {
     c.dataset.i = i;
     c.addEventListener("mousemove", ev => {
       tip.style.display = "block";
-      tip.innerHTML = `<b>${p.municipality||p.name}</b><span class="d">${p.county} County · paused ${p.verified_date}</span>`;
+      tip.innerHTML = `<b>${esc(p.municipality||p.name)}</b><span class="d">${esc(p.county)} County · paused ${esc(p.verified_date)}</span>`;
       const r = svg.parentElement.getBoundingClientRect();
       tip.style.left = Math.min(ev.clientX - r.left + 12, r.width-240) + "px";
       tip.style.top  = (ev.clientY - r.top + 12) + "px";

@@ -36,6 +36,7 @@
 </style>
 </head>
 <body>
+<a href="https://grahamandgold.github.io/mi-data-center-tracker/" target="_blank" rel="noopener" style="display:inline-block;margin-bottom:10px"><img src="https://grahamandgold.github.io/mi-data-center-tracker/brand-logo-nav.png" alt="Michigan Data Center Tracker" style="height:34px;display:block"></a>
 <div class="kicker">Tracking the public record · Live data</div>
 <h1>Communities Under Pressure</h1>
 <div class="sub">Every Michigan community weighted by what it is facing right now: active data-center projects, local pauses, and upcoming public hearings. Bigger and hotter = more pressure.</div>
@@ -65,6 +66,7 @@
 <script>
 const SITE = "https://grahamandgold.github.io/mi-data-center-tracker";
 const EMBED_URL = SITE + "/embeds/pressure-map.html";
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const LON0=-90.9, LON1=-82.1, LAT0=41.5, LAT1=47.7, W=760, H=640;
 const px = lon => (lon-LON0)/(LON1-LON0)*W;
 const py = lat => (LAT1-lat)/(LAT1-LAT0)*H;
@@ -131,9 +133,9 @@ async function grab(rel){
     c.setAttribute("stroke", "#f5f1ea"); c.setAttribute("stroke-width", ".6");
     c.addEventListener("mousemove", ev => {
       tip.style.display = "block";
-      tip.innerHTML = `<b>${a.key}</b>
-        <span class="d">${a.county||""} County — ${a.projects} project${a.projects!==1?"s":""}, ${a.pauses} pause${a.pauses!==1?"s":""}, ${a.hearings} hearing${a.hearings!==1?"s":""}${a.mw?` · ${Math.round(a.mw).toLocaleString()} MW disclosed`:""}</span>
-        ${a.nextMeeting ? `<span class="m">Next meeting: ${a.nextMeeting.iso} — ${a.nextMeeting.body}</span>` : ""}`;
+      tip.innerHTML = `<b>${esc(a.key)}</b>
+        <span class="d">${esc(a.county||"")} County — ${a.projects} project${a.projects!==1?"s":""}, ${a.pauses} pause${a.pauses!==1?"s":""}, ${a.hearings} hearing${a.hearings!==1?"s":""}${a.mw?` · ${Math.round(a.mw).toLocaleString()} MW disclosed`:""}</span>
+        ${a.nextMeeting ? `<span class="m">Next meeting: ${esc(a.nextMeeting.iso)} — ${esc(a.nextMeeting.body)}</span>` : ""}`;
       const r = svg.parentElement.getBoundingClientRect();
       tip.style.left = Math.min(ev.clientX - r.left + 12, r.width-260) + "px";
       tip.style.top  = (ev.clientY - r.top + 12) + "px";
@@ -145,8 +147,8 @@ async function grab(rel){
   const top = document.getElementById("top");
   rows.slice(0,8).forEach((a,i) => {
     const div = document.createElement("div"); div.className = "row";
-    div.innerHTML = `<span class="rank">${i+1}</span><span class="name">${a.key} <span style="color:var(--muted);font-weight:400">· ${a.county||""} Co.</span></span>
-      <span class="why">${a.projects?a.projects+" project"+(a.projects>1?"s":""):""}${a.pauses?" · "+a.pauses+" pause"+(a.pauses>1?"s":""):""}${a.hearings?" · "+a.hearings+" hearing"+(a.hearings>1?"s":""):""}${a.nextMeeting?" · next: "+a.nextMeeting.iso:""}</span>`;
+    div.innerHTML = `<span class="rank">${i+1}</span><span class="name">${esc(a.key)} <span style="color:var(--muted);font-weight:400">· ${esc(a.county||"")} Co.</span></span>
+      <span class="why">${a.projects?a.projects+" project"+(a.projects>1?"s":""):""}${a.pauses?" · "+a.pauses+" pause"+(a.pauses>1?"s":""):""}${a.hearings?" · "+a.hearings+" hearing"+(a.hearings>1?"s":""):""}${a.nextMeeting?" · next: "+esc(a.nextMeeting.iso):""}</span>`;
     top.appendChild(div);
   });
 

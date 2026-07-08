@@ -178,17 +178,22 @@ def vision(capability: str, prompt: str, images: list[bytes],
 
 
 def extract_json(text: str) -> dict | list | None:
-    """Pull the first JSON object/array out of a model reply."""
-    import re
+    """Pull the first valid JSON object/array out of a model reply.
+    Uses raw_decode from every candidate start position — robust against
+    prose before/after the JSON and against multiple objects (greedy-regex
+    approaches silently fail on those)."""
     if not text:
         return None
-    m = re.search(r"\{.*\}|\[.*\]", text, re.S)
-    if not m:
-        return None
-    try:
-        return json.loads(m.group(0))
-    except Exception:  # noqa: BLE001
-        return None
+    decoder = json.JSONDecoder()
+    for i, ch in enumerate(text):
+        if ch in "{[":
+            try:
+                obj, _ = decoder.raw_decode(text[i:])
+                if isinstance(obj, (dict, list)):
+                    return obj
+            except Exception:  # noqa: BLE001
+                continue
+    return None
 
 
 if __name__ == "__main__":

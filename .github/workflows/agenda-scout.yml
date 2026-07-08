@@ -16,7 +16,7 @@ concurrency:
 jobs:
   investigate:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 45   # script self-limits to 25 min (AGENDA_BUDGET_SEC)
     steps:
       - uses: actions/checkout@v4
 
