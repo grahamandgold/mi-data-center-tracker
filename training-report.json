@@ -1,0 +1,21 @@
+{
+ "generated_at": "2026-07-08T20:28:57+00:00",
+ "totals": {
+  "published": 12,
+  "killed_by_andy": 5,
+  "killed_by_judge": 0,
+  "sent_back": 5,
+  "raw_corrections": 10,
+  "compiled_rules": 0
+ },
+ "by_week": {
+  "2026-W28": {
+   "published": 12,
+   "killed_human": 5,
+   "killed_judge": 0,
+   "sent_back": 5,
+   "corrections": 10
+  }
+ },
+ "rules_being_ignored": []
+}
