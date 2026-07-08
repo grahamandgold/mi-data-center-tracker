@@ -701,22 +701,19 @@ class Component extends DCLogic {
 
   renderVals() {
     const go = (key) => () => this.setState({ [key]: true });
-    const NOW = new Date('2026-07-07T12:00:00');
+    const NOW = new Date('2026-07-10T12:00:00');
 
     // ---- CMS feed: wire stories (newest first) ----
     const CAT = {
       Grid: '#E03131', Local: '#7fb0e0', Policy: '#c9a24b', Water: '#5bb3a6', Community: '#b07fd0', Development: '#dd8048',
     };
     const rawWire = this.state.cmsWire || (typeof window !== 'undefined' && window.MDCT_HEADLINES) || [
-      { iso: '2026-07-07T09:00', title: 'Oracle is seeking a large state tax break on a $43 billion Saline-area campus tied to OpenAI and major cloud operators.', source: 'MLive', url: 'https://www.mlive.com/news/ann-arbor/2026/07/oracle-applies-for-tax-break-as-data-center-project-cost-reaches-43b-near-ann-arbor.html', cat: 'Washtenaw Co.', breaking: true, lead: true },
-      { iso: '2026-07-06T14:00', title: 'Detroit planners began drafting citywide data-center standards after months of resident demands for clearer local oversight.', source: 'BridgeDetroit', url: 'https://www.bridgedetroit.com/detroit-begins-drafting-data-center-regulations/', cat: 'Wayne Co.' },
-      { iso: '2026-07-06T10:00', title: 'Michigan Advance\'s latest weekly roundup flags new moratoriums, Lowell recall petitions, and ongoing legislative battles.', source: 'Michigan Advance', url: 'https://michiganadvance.com/2026/07/06/michigan-data-centers-the-weekly-download-3-2-2/', cat: 'STATEWIDE' },
-      { iso: '2026-07-05T11:30', title: 'A Milwood-area proposal that shifted from cannabis to AI infrastructure is drawing fresh neighborhood scrutiny in Kalamazoo County.', source: 'Second Wave Media', url: 'https://secondwavemedia.com/from-cannabis-to-ai-proposed-kalamazoo-data-center-sparks-questions-about-the-future-in-milwood/', cat: 'Kalamazoo Co.' },
-      { iso: '2026-07-04T08:00', title: 'Texas Township set a 12-month moratorium on new data centers as nearby Portage and Oshtemo Township already have pauses in place.', source: 'MLive', url: 'https://www.mlive.com/news/kalamazoo/2026/06/township-near-kalamazoo-approves-12-month-moratorium-blocking-data-centers.html', cat: 'Kalamazoo Co.' },
-      { iso: '2026-07-03T16:00', title: 'Senate Democrats are still pressing tighter water, energy, and community-benefit rules for every new hyperscale facility.', source: 'Michigan Advance', url: 'https://michiganadvance.com/2026/06/18/senate-democrats-propose-tighter-regulations-on-data-centers-amid-statewide-backlash/', cat: 'Policy' },
-      { iso: '2026-07-02T12:00', title: 'Hyperscale Data bought another 48 acres to expand its Michigan AI campus while neighbors continue reporting noise concerns.', source: 'PR Newswire', url: 'https://www.prnewswire.com/news-releases/hyperscale-data-completes-acquisition-of-48-5-acres-to-expand-michigan-ai-data-center-campus-302812174.html', cat: 'Development' },
-      { iso: '2026-07-01T09:30', title: 'Lowell Township residents filed recall paperwork against three board members over a controversial data-center rezoning vote.', source: 'MLive', url: 'https://www.mlive.com/news/grand-rapids/2026/06/recall-petition-targets-3-lowell-township-board-members-over-data-center.html', cat: 'West MI' },
-      { iso: '2026-06-30T15:00', title: 'Kalamazoo residents packed a hearing to oppose a proposed data-center sale, urging officials to block the Milwood-area project.', source: 'MLive', url: 'https://www.mlive.com/news/kalamazoo/2026/06/use-your-power-to-prevent-this-kalamazoo-residents-blast-data-center-idea.html', cat: 'Kalamazoo Co.' },
+      { iso: '2026-07-07T09:00', title: 'Oracle requested state tax relief on a $43 billion server campus planned near Saline with OpenAI-linked tenants.', source: 'MLive', url: 'https://www.mlive.com/news/ann-arbor/2026/07/oracle-applies-for-tax-break-as-data-center-project-cost-reaches-43b-near-ann-arbor.html', cat: 'Washtenaw Co.', breaking: true, lead: true },
+      { iso: '2026-07-06T14:00', title: 'Detroit planning staff opened work on formal city rules for where and how data centers may be built after sustained neighborhood pressure.', source: 'BridgeDetroit', url: 'https://www.bridgedetroit.com/detroit-begins-drafting-data-center-regulations/', cat: 'Wayne Co.' },
+      { iso: '2026-07-06T10:00', title: 'Michigan Advance published a fresh weekly digest covering moratorium votes, Lowell recall activity, and active Lansing bills.', source: 'Michigan Advance', url: 'https://michiganadvance.com/2026/07/06/michigan-data-centers-the-weekly-download-3-2-2/', cat: 'STATEWIDE' },
+      { iso: '2026-07-05T11:30', title: 'A Milwood developer pivoted a site from cannabis to AI computing, reopening zoning and neighbor-impact questions in Kalamazoo County.', source: 'Second Wave Media', url: 'https://secondwavemedia.com/from-cannabis-to-ai-proposed-kalamazoo-data-center-sparks-questions-about-the-future-in-milwood/', cat: 'Kalamazoo Co.' },
+      { iso: '2026-07-04T12:00', title: 'Hyperscale Data closed on about 48 additional acres for its southwest Michigan AI campus as nearby residents keep citing noise complaints.', source: 'PR Newswire', url: 'https://www.prnewswire.com/news-releases/hyperscale-data-completes-acquisition-of-48-5-acres-to-expand-michigan-ai-data-center-campus-302812174.html', cat: 'Development' },
+      { iso: '2026-07-03T08:00', title: 'Texas Township enacted a one-year ban on new data-center permits, effective July 5, to review farmland, water, and infrastructure strain.', source: 'WWMT', url: 'https://wwmt.com/news/local/texas-township-moratorium-data-center-centers-stop-pause-prevent-development-michigan-kalamazoo-county-board-vote-ai-wwmt', cat: 'Kalamazoo Co.' },
     ];
     const ago = (iso) => {
       const h = Math.round((NOW - new Date(iso)) / 36e5);
