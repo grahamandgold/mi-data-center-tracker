@@ -1,23 +1,7 @@
 {
- "updated_at": "2026-07-08T16:28:06Z",
+ "updated_at": "2026-07-08T16:29:07Z",
  "generator": "grok-wire-agent",
  "items": [
-  {
-   "iso": "2026-07-08T03:00:00+00:00",
-   "region": "west",
-   "cat": "Cass Co.",
-   "tag": "Power & Grid",
-   "title": "Dowagiac Residents Report Persistent Noise From Nearby Data Center Disrupting Daily Life",
-   "dek": "A Michigan couple living near a data center in Dowagiac says constant high-pitched humming has made sleeping and relaxing difficult, with noise levels rising over time according to their measurements.",
-   "source": "Vice",
-   "url": "https://www.vice.com/en/article/a-michigan-couple-says-a-nearby-ai-data-centers-constant-hum-is-ruining-their-home/",
-   "breaking": false,
-   "lead": false,
-   "id": "b5e56a37206f",
-   "kind": "story",
-   "filed_at": "2026-07-08T16:25:47+00:00",
-   "accuracy": "checked"
-  },
   {
    "iso": "2026-07-08T10:00:00+00:00",
    "region": "statewide",
