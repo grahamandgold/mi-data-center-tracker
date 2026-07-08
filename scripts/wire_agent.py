@@ -193,6 +193,14 @@ def fresh_enough(iso: str, hours: float = 20.0) -> bool:
         return False
 
 
+def _is_rework_url(url: str) -> bool:
+    try:
+        reqs = json.loads((ROOT / "desk-rework.json").read_text(encoding="utf-8")).get("requests", [])
+        return any(r.get("url") == url for r in reqs)
+    except Exception:  # noqa: BLE001
+        return False
+
+
 def valid_story(s: dict) -> bool:
     """Normalize what we can; reject only what we must. Logs every rejection."""
     try:
@@ -203,7 +211,13 @@ def valid_story(s: dict) -> bool:
             print(f"::warning::rejected (url): {s.get('title','')[:60]}")
             return False
         social = any(d in str(s.get("url", "")) for d in ("x.com/", "twitter.com/", "reddit.com/"))
-        if not fresh_enough(s.get("iso", ""), hours=38.0 if social else 26.0):
+        # Desk model: these are CANDIDATES for the News Director, not auto-publishes.
+        # A real development the tracker has never carried is filable up to ~2.5 days
+        # back (the homepage's own 15-hour guard governs what displays). Rework
+        # orders bypass staleness entirely — the News Director asked for them.
+        if _is_rework_url(s.get("url", "")):
+            pass
+        elif not fresh_enough(s.get("iso", ""), hours=38.0 if social else 60.0):
             print(f"::warning::rejected (stale/no iso {s.get('iso')}): {s.get('title','')[:60]}")
             return False
         if s.get("region") not in REGIONS:
@@ -269,14 +283,15 @@ def main() -> int:
             m.pop("stream", None)
         meetings.append(m)
 
-    if len(checked) < 3:
-        print(f"::warning::only {len(checked)} valid stories — keeping existing file")
-        return 0
-
-    leads = [s for s in checked if s.get("lead")]
-    for s in checked:
-        s["lead"] = False
-    (leads[0] if leads else checked[0])["lead"] = True
+    # Desk model: file every validated candidate — even one. The News
+    # Director decides what publishes; an empty run still prunes the queue.
+    if checked:
+        leads = [s for s in checked if s.get("lead")]
+        for s in checked:
+            s["lead"] = False
+        (leads[0] if leads else checked[0])["lead"] = True
+    else:
+        print("::warning::no valid new stories this run — pruning queue only")
 
     # ------------------------------------------------------------------
     # DESK APPROVAL MODEL: new stories file into live-data-pending.json
