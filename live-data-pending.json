@@ -1,23 +1,6 @@
 {
- "updated_at": "2026-07-08T14:35:52Z",
+ "updated_at": "2026-07-08T14:36:59Z",
  "generator": "grok-wire-agent",
- "items": [
-  {
-   "iso": "2026-07-07T23:00:00+00:00",
-   "region": "metro",
-   "cat": "Wayne Co.",
-   "tag": "Money",
-   "title": "John James criticized for data center builder donations amid attacks",
-   "dek": "A Metro Times report noted Republican Senate candidate John James received over $107,000 from Rakolta family and Walbridge executives tied to Michigan data center projects.",
-   "source": "X",
-   "url": "https://x.com/MeshawnMaddock/status/2074627760916402410",
-   "breaking": false,
-   "lead": false,
-   "id": "56327b2d28cd",
-   "kind": "story",
-   "filed_at": "2026-07-08T11:17:55+00:00",
-   "accuracy": "social-post"
-  }
- ],
+ "items": [],
  "accuracy_checked_at": "2026-07-08T13:48:49+00:00"
 }
