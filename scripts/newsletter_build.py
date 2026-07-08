@@ -47,19 +47,19 @@ def headline_row(s):
   <tr><td style="padding:0 28px 20px;">
     <div style="border-left:3px solid #E03131;padding-left:14px;">
       <div style="font:700 11px/1.4 'Courier New',monospace;letter-spacing:2px;color:#E03131;text-transform:uppercase;padding-bottom:4px;">{esc(s.get('cat','') )}</div>
-      <a href="{esc(s.get('url'))}" style="font:800 19px/1.25 Arial,Helvetica,sans-serif;color:#f4f1ee;text-decoration:none;">{esc(s.get('title'))}</a>
-      <div style="font:400 13px/1.5 Arial,Helvetica,sans-serif;color:#a39e99;padding-top:6px;">{esc(s.get('dek',''))[:180]}</div>
-      <div style="font:700 11px/1.4 'Courier New',monospace;color:#c9a24b;padding-top:6px;">Source: {esc(s.get('source'))} →</div>
+      <a href="{esc(s.get('url'))}" style="font:800 19px/1.25 Arial,Helvetica,sans-serif;color:#1a1813;text-decoration:none;">{esc(s.get('title'))}</a>
+      <div style="font:400 13px/1.5 Arial,Helvetica,sans-serif;color:#5c5854;padding-top:6px;">{esc(s.get('dek',''))[:180]}</div>
+      <div style="font:700 11px/1.4 'Courier New',monospace;color:#8a6d1f;padding-top:6px;">Source: {esc(s.get('source'))} →</div>
     </div>
   </td></tr>"""
 
 
 def today_row(m):
     return ("<tr><td style=\"padding:14px 28px 0;\">"
-        "<a href=\"" + esc(m.get('link', SITE + 'meetings.html')) + "\" style=\"text-decoration:none;display:block;background:#16140f;border:1px solid #4a4226;border-left:3px solid #c9a24b;padding:14px 18px;\">"
-        "<span style=\"font:800 15px/1.4 Arial,sans-serif;color:#f4f1ee;\">" + esc(m.get('body')) + "</span>"
-        "<span style=\"font:800 13px/1.4 Arial,sans-serif;color:#c9a24b;\">&nbsp;&#183; " + esc(m.get('time', '')) + "</span>"
-        "<div style=\"font:400 12px/1.5 Arial,sans-serif;color:#a39e99;padding-top:3px;\">" + esc(m.get('topic', ''))[:120] + " &#183; <span style=\"color:#c9a24b;\">Agenda &#8594;</span></div>"
+        "<a href=\"" + esc(m.get('link', SITE + 'meetings.html')) + "\" style=\"text-decoration:none;display:block;background:#fdf8ec;border:1px solid #e5d9b8;border-left:3px solid #c9a24b;padding:14px 18px;\">"
+        "<span style=\"font:800 15px/1.4 Arial,sans-serif;color:#1a1813;\">" + esc(m.get('body')) + "</span>"
+        "<span style=\"font:800 13px/1.4 Arial,sans-serif;color:#8a6d1f;\">&nbsp;&#183; " + esc(m.get('time', '')) + "</span>"
+        "<div style=\"font:400 12px/1.5 Arial,sans-serif;color:#5c5854;padding-top:3px;\">" + esc(m.get('topic', ''))[:120] + " &#183; <span style=\"color:#8a6d1f;\">Agenda &#8594;</span></div>"
         "</a></td></tr>")
 
 if todays:
@@ -67,33 +67,38 @@ if todays:
 else:
     nxt = ""
     if ahead:
-        nxt = (" &#8212; next up: <span style=\"color:#f4f1ee;font-weight:700\">" + esc(ahead[0].get('body'))
+        nxt = (" &#8212; next up: <span style=\"color:#1a1813;font-weight:700\">" + esc(ahead[0].get('body'))
                + "</span> on " + esc(ahead[0].get('iso', '')[5:].replace('-', '/')))
-    TODAY_BLOCK = ("<tr><td style=\"padding:14px 28px 0;\"><div style=\"background:#16140f;border:1px dashed #322e29;"
-        "padding:14px 18px;font:400 13px/1.5 Arial,sans-serif;color:#a39e99;\">No data center hearings on today's calendars"
+    TODAY_BLOCK = ("<tr><td style=\"padding:14px 28px 0;\"><div style=\"background:#ffffff;border:1px dashed #d5d0c9;"
+        "padding:14px 18px;font:400 13px/1.5 Arial,sans-serif;color:#5c5854;\">No data center hearings on today's calendars"
         + nxt + ". We're watching.</div></td></tr>")
 
 NATIONAL_BLOCK = ""
 if national:
     NATIONAL_BLOCK = ("<tr><td style=\"padding:0 28px 24px;\">"
         "<div style=\"font:700 10px/1 'Courier New',monospace;letter-spacing:3px;color:#100f0e;background:#7c9cc4;display:inline-block;padding:5px 10px;\">THE NATIONAL PICTURE</div>"
-        "<a href=\"" + esc(national.get('url')) + "\" style=\"display:block;font:800 20px/1.25 Arial,sans-serif;color:#f4f1ee;text-decoration:none;padding-top:10px;\">" + esc(national.get('title')) + "</a>"
-        "<div style=\"font:400 13px/1.5 Arial,sans-serif;color:#a39e99;padding-top:6px;\">" + esc(national.get('dek', ''))[:200] + "</div>"
-        "<div style=\"font:700 11px/1 'Courier New',monospace;color:#c9a24b;padding-top:8px;\">Source: " + esc(national.get('source')) + " &#8594;</div>"
+        "<a href=\"" + esc(national.get('url')) + "\" style=\"display:block;font:800 20px/1.25 Arial,sans-serif;color:#1a1813;text-decoration:none;padding-top:10px;\">" + esc(national.get('title')) + "</a>"
+        "<div style=\"font:400 13px/1.5 Arial,sans-serif;color:#5c5854;padding-top:6px;\">" + esc(national.get('dek', ''))[:200] + "</div>"
+        "<div style=\"font:700 11px/1 'Courier New',monospace;color:#8a6d1f;padding-top:8px;\">Source: " + esc(national.get('source')) + " &#8594;</div>"
         "</td></tr>")
 
 html = f"""<!DOCTYPE html>
 <html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Data Center Intelligence Report</title></head>
-<body style="margin:0;padding:0;background:#0c0b0a;">
+<body style="margin:0;padding:0;background:#ebe7e1;">
 <center>
-<table role="presentation" width="600" cellpadding="0" cellspacing="0" style="width:600px;max-width:100%;background:#100f0e;">
+<table role="presentation" width="600" cellpadding="0" cellspacing="0" style="width:600px;max-width:100%;background:#faf9f5;">
 
   <!-- ============ MODULE: HEADER ============ -->
   <tr><td style="padding:26px 28px 18px;border-bottom:2px solid #E03131;">
-    <div style="font:900 26px/1 Arial Black,Arial,sans-serif;color:#f4f1ee;letter-spacing:1px;">MICHIGAN</div>
-    <div style="font:700 11px/1.6 Arial,sans-serif;color:#f4f1ee;letter-spacing:4px;">DATA CENTER TRACKER</div>
-    <div style="font:400 11px/2 'Courier New',monospace;color:#7d7975;">DATA CENTER INTELLIGENCE REPORT · {today} · Powered by Graham &amp; Gold</div>
+    <table role="presentation" cellpadding="0" cellspacing="0"><tr>
+      <td valign="middle" style="padding-right:12px;"><img src="{SITE}brand-logo-nav.png" alt="Michigan Data Center Tracker" width="52" style="display:block;width:52px;height:auto;border:0;"></td>
+      <td valign="middle" style="border-left:2px solid #E03131;padding-left:12px;">
+        <div style="font:900 24px/1 Arial Black,Arial,sans-serif;color:#1a1813;letter-spacing:1px;">MICHIGAN</div>
+        <div style="font:700 10px/1.6 Arial,sans-serif;color:#1a1813;letter-spacing:3px;">DATA CENTER TRACKER</div>
+      </td>
+    </tr></table>
+    <div style="font:400 11px/2 'Courier New',monospace;color:#8a857f;">DATA CENTER INTELLIGENCE REPORT · {today} · Powered by Graham &amp; Gold</div>
   </td></tr>
 
   <!-- ============ MODULE: HAPPENING TODAY (7am forward focus) ============ -->
@@ -105,13 +110,13 @@ html = f"""<!DOCTYPE html>
   <!-- ============ MODULE: LEAD STORY ============ -->
   <tr><td style="padding:26px 28px 22px;">
     <div style="font:700 10px/1 'Courier New',monospace;letter-spacing:3px;color:#100f0e;background:#E03131;display:inline-block;padding:5px 10px;">THE STORY DRIVING THE DAY</div>
-    <a href="{esc(lead.get('url') if lead else SITE)}" style="display:block;font:800 26px/1.2 Arial,Helvetica,sans-serif;color:#f4f1ee;text-decoration:none;padding-top:12px;">{esc(lead.get('title') if lead else 'Visit the tracker for today’s wire')}</a>
-    <div style="font:400 14px/1.55 Arial,Helvetica,sans-serif;color:#a39e99;padding-top:10px;">{esc(lead.get('dek','') if lead else '')}</div>
-    <div style="font:700 12px/1 'Courier New',monospace;color:#c9a24b;padding-top:10px;">Source: {esc(lead.get('source') if lead else '')} →</div>
+    <a href="{esc(lead.get('url') if lead else SITE)}" style="display:block;font:800 26px/1.2 Arial,Helvetica,sans-serif;color:#1a1813;text-decoration:none;padding-top:12px;">{esc(lead.get('title') if lead else 'Visit the tracker for today’s wire')}</a>
+    <div style="font:400 14px/1.55 Arial,Helvetica,sans-serif;color:#5c5854;padding-top:10px;">{esc(lead.get('dek','') if lead else '')}</div>
+    <div style="font:700 12px/1 'Courier New',monospace;color:#8a6d1f;padding-top:10px;">Source: {esc(lead.get('source') if lead else '')} →</div>
   </td></tr>
 
   <!-- ============ MODULE: HEADLINES ============ -->
-  <tr><td style="padding:0 28px 6px;"><div style="font:700 12px/1 'Courier New',monospace;letter-spacing:3px;color:#7d7975;border-bottom:1px solid #262320;padding-bottom:8px;margin-bottom:18px;">ALSO ON THE WIRE</div></td></tr>
+  <tr><td style="padding:0 28px 6px;"><div style="font:700 12px/1 'Courier New',monospace;letter-spacing:3px;color:#8a857f;border-bottom:1px solid #e0dbd4;padding-bottom:8px;margin-bottom:18px;">ALSO ON THE WIRE</div></td></tr>
   {''.join(headline_row(s) for s in others)}
 
   <!-- ============ MODULE: NATIONAL ============ -->
@@ -120,54 +125,54 @@ html = f"""<!DOCTYPE html>
   <!-- ============ MODULE: STATS ============ -->
   <tr><td style="padding:6px 28px 24px;">
     <table role="presentation" width="100%" cellpadding="0" cellspacing="0"><tr>
-      <td width="33%" style="background:#16140f;border:1px solid #262320;padding:16px 6px;text-align:center;">
-        <div style="font:800 26px/1 Arial,sans-serif;color:#f4f1ee;">{len(prj)}</div>
-        <div style="font:400 10px/1.6 'Courier New',monospace;color:#7d7975;">TRACKED<br>PROJECTS</div></td>
+      <td width="33%" style="background:#ffffff;border:1px solid #e0dbd4;padding:16px 6px;text-align:center;">
+        <div style="font:800 26px/1 Arial,sans-serif;color:#1a1813;">{len(prj)}</div>
+        <div style="font:400 10px/1.6 'Courier New',monospace;color:#8a857f;">TRACKED<br>PROJECTS</div></td>
       <td width="8"></td>
-      <td width="33%" style="background:#16140f;border:1px solid #262320;padding:16px 6px;text-align:center;">
+      <td width="33%" style="background:#ffffff;border:1px solid #e0dbd4;padding:16px 6px;text-align:center;">
         <div style="font:800 26px/1 Arial,sans-serif;color:#E03131;">{gw} GW</div>
-        <div style="font:400 10px/1.6 'Courier New',monospace;color:#7d7975;">&#8776; {homes} HOMES'<br>WORTH OF POWER</div></td>
+        <div style="font:400 10px/1.6 'Courier New',monospace;color:#8a857f;">&#8776; {homes} HOMES'<br>WORTH OF POWER</div></td>
       <td width="8"></td>
-      <td width="33%" style="background:#16140f;border:1px solid #262320;padding:16px 6px;text-align:center;">
+      <td width="33%" style="background:#ffffff;border:1px solid #e0dbd4;padding:16px 6px;text-align:center;">
         <div style="font:800 26px/1 Arial,sans-serif;color:#7c9cc4;">{len(mor)}</div>
-        <div style="font:400 10px/1.6 'Courier New',monospace;color:#7d7975;">COMMUNITIES<br>ON PAUSE</div></td>
+        <div style="font:400 10px/1.6 'Courier New',monospace;color:#8a857f;">COMMUNITIES<br>ON PAUSE</div></td>
     </tr></table>
   </td></tr>
 
   <!-- ============ MODULE: MAP ============ -->
   <tr><td style="padding:0 28px 24px;">
-    <a href="{SITE}map/" style="display:block;background:#16140f;border:1px solid #E03131;text-decoration:none;padding:22px 24px;">
+    <a href="{SITE}map/" style="display:block;background:#ffffff;border:1px solid #E03131;text-decoration:none;padding:22px 24px;">
       <table role="presentation" width="100%" cellpadding="0" cellspacing="0"><tr>
         <td><div style="font:700 10px/1 'Courier New',monospace;letter-spacing:3px;color:#E03131;">&#9679; LIVE MAP</div>
-        <div style="font:800 20px/1.25 Arial,sans-serif;color:#f4f1ee;padding-top:8px;">Every project, permit &amp; pause — mapped &amp; sourced</div>
-        <div style="font:400 12px/1.5 Arial,sans-serif;color:#a39e99;padding-top:6px;">{len(prj)+len(mor)} records live right now. Find what's near you.</div></td>
+        <div style="font:800 20px/1.25 Arial,sans-serif;color:#1a1813;padding-top:8px;">Every project, permit &amp; pause — mapped &amp; sourced</div>
+        <div style="font:400 12px/1.5 Arial,sans-serif;color:#5c5854;padding-top:6px;">{len(prj)+len(mor)} records live right now. Find what's near you.</div></td>
         <td width="64" align="center" style="background:#E03131;"><div style="font:800 30px/64px Arial,sans-serif;color:#100f0e;">&#8594;</div></td>
       </tr></table>
     </a>
   </td></tr>
 
   <!-- ============ MODULE: ON DECK ============ -->
-  <tr><td style="padding:0 28px 8px;"><div style="font:700 12px/1 'Courier New',monospace;letter-spacing:3px;color:#7d7975;border-bottom:1px solid #262320;padding-bottom:8px;">AHEAD THIS WEEK · SHOW UP &amp; SPEAK</div></td></tr>
+  <tr><td style="padding:0 28px 8px;"><div style="font:700 12px/1 'Courier New',monospace;letter-spacing:3px;color:#8a857f;border-bottom:1px solid #e0dbd4;padding-bottom:8px;">AHEAD THIS WEEK · SHOW UP &amp; SPEAK</div></td></tr>
   {''.join(f'''<tr><td style="padding:14px 28px 0;">
     <a href="{esc(m.get('link', SITE + 'meetings.html'))}" style="text-decoration:none;display:block;">
       <span style="font:800 13px/1 Arial,sans-serif;color:#E03131;">{esc((m.get('iso') or '')[5:].replace('-', '/'))}</span>
-      <span style="font:800 14px/1.4 Arial,sans-serif;color:#f4f1ee;">&nbsp; {esc(m.get('body'))}</span>
-      <div style="font:400 12px/1.5 Arial,sans-serif;color:#a39e99;padding:2px 0 10px;">{esc(m.get('topic',''))[:110]} · {esc(m.get('time',''))} · <span style="color:#c9a24b;">Agenda →</span></div>
+      <span style="font:800 14px/1.4 Arial,sans-serif;color:#1a1813;">&nbsp; {esc(m.get('body'))}</span>
+      <div style="font:400 12px/1.5 Arial,sans-serif;color:#5c5854;padding:2px 0 10px;">{esc(m.get('topic',''))[:110]} · {esc(m.get('time',''))} · <span style="color:#8a6d1f;">Agenda →</span></div>
     </a></td></tr>''' for m in ahead)}
 
   <!-- ============ MODULE: PODCAST ============ -->
   <tr><td style="padding:18px 28px 26px;">
-    <a href="{SITE}" style="display:block;background:linear-gradient(90deg,#1d0f0c,#16140f);border:1px solid #262320;text-decoration:none;padding:16px 20px;">
+    <a href="{SITE}" style="display:block;background:#fdf3f0;border:1px solid #f0c9c0;text-decoration:none;padding:16px 20px;">
       <span style="font:800 22px/1 Arial,sans-serif;color:#100f0e;background:#E03131;padding:8px 13px;">&#9654;</span>
-      <span style="font:800 15px/1 Arial,sans-serif;color:#f4f1ee;">&nbsp; MORNINGS WITH GRAHAM &amp; EMMY</span>
-      <span style="font:400 11px/1 'Courier New',monospace;color:#8c8884;">&nbsp; the Michigan Data Wire podcast · new episode every morning · tap to listen</span>
+      <span style="font:800 15px/1 Arial,sans-serif;color:#1a1813;">&nbsp; MORNINGS WITH GRAHAM &amp; EMMY</span>
+      <span style="font:400 11px/1 'Courier New',monospace;color:#8a857f;">&nbsp; the Michigan Data Wire podcast · new episode every morning · tap to listen</span>
     </a>
   </td></tr>
 
   <!-- ============ MODULE: FOOTER ============ -->
-  <tr><td style="padding:20px 28px 30px;background:#0c0b0a;border-top:1px solid #221f1b;">
-    <div style="font:400 11px/1.7 'Courier New',monospace;color:#7d7975;">INDEPENDENT · NONPARTISAN · A transparent aggregator — every headline in our own words, always linked to the source.</div>
-    <div style="font:400 11px/2 Arial,sans-serif;color:#5f5b57;">Powered by <a href="https://grahamandgold.com" style="color:#E03131;text-decoration:none;">Graham &amp; Gold</a> · <a href="{SITE}" style="color:#8c8884;">midatacentertracker</a> · <a href="*|UNSUB|*" style="color:#8c8884;">Unsubscribe</a></div>
+  <tr><td style="padding:20px 28px 30px;background:#f0ede8;border-top:1px solid #ddd8d2;">
+    <div style="font:400 11px/1.7 'Courier New',monospace;color:#8a857f;">INDEPENDENT · NONPARTISAN · A transparent aggregator — every headline in our own words, always linked to the source.</div>
+    <div style="font:400 11px/2 Arial,sans-serif;color:#8a857f;">Powered by <a href="https://grahamandgold.com" style="color:#E03131;text-decoration:none;">Graham &amp; Gold</a> · <a href="{SITE}" style="color:#8a857f;">midatacentertracker</a> · <a href="*|UNSUB|*" style="color:#8a857f;">Unsubscribe</a></div>
   </td></tr>
 
 </table>
