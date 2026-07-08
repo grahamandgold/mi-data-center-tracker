@@ -6,24 +6,99 @@
 
   g.MDCT.ago = function (iso, now) {
     now = now || new Date();
-    var h = Math.round((now - new Date(iso)) / 36e5);
-    if (h < 1) return 'just now';
+    var m = Math.round((now - new Date(iso)) / 6e4);
+    if (m < 5) return 'just now';
+    if (m < 60) return m + 'm ago';
+    var h = Math.round(m / 60);
     if (h < 24) return h + 'h ago';
     var d = Math.round(h / 24);
     return d === 1 ? 'Yesterday' : d + 'd ago';
   };
 
+  // Hot window: stories from the last 15 hours are "hot".
+  // <=6h -> Breaking (red pill) · <=15h -> Fresh (gold pill) · older -> Latest
+  g.MDCT.HOT_HOURS = 15;
   g.MDCT.recency = function (iso, now) {
     now = now || new Date();
     var h = (now - new Date(iso)) / 36e5;
-    if (h <= 12) return { label: 'Breaking', cls: 'wire-tag-breaking', hot: true, breaking: true };
-    if (h <= 36) return { label: 'Fresh', cls: 'wire-tag-fresh', hot: true, breaking: false };
+    if (h <= 6) return { label: 'Breaking', cls: 'wire-tag-breaking', hot: true, breaking: true };
+    if (h <= g.MDCT.HOT_HOURS) return { label: 'Fresh', cls: 'wire-tag-fresh', hot: true, breaking: false };
     return { label: 'Latest', cls: '', hot: false, breaking: false };
   };
 
   g.MDCT.dateLabel = function (iso) {
     var d = new Date(iso);
     return MON[d.getMonth()] + ' ' + String(d.getDate()).padStart(2, '0');
+  };
+
+  // Category accent colors — used for card rules and tag text.
+  g.MDCT.tagColor = function (tag) {
+    var T = {
+      'Power & Grid': '#E03131', 'Local Government': '#7fb0e0', 'Policy': '#c9a24b',
+      'Water': '#5bb3a6', 'Money': '#9bc49b', 'Explainers': '#b07fd0',
+    };
+    return T[tag] || '#9b9794';
+  };
+
+  /* ---- Live feed (Grok agent pipeline) ----------------------------------
+     Agents commit `live-data.json` to the repo root:
+       { "updated_at": ISO, "stories": [headline objects], "meetings": [...] }
+     Pages hot-load it here — no rebuild needed. content-data.js stays the
+     curated fallback if the file is missing or invalid.                     */
+  g.MDCT.loadLive = function (cb) {
+    if (g.MDCT._livePromise) { g.MDCT._livePromise.then(cb, cb); return; }
+    var validStory = function (s) {
+      return s && typeof s.title === 'string' && s.title.length > 10 &&
+        typeof s.url === 'string' && /^https:\/\//.test(s.url) &&
+        s.iso && !isNaN(new Date(s.iso)) &&
+        typeof s.source === 'string' && s.source &&
+        /^(metro|west|mid|north|statewide)$/.test(s.region || '');
+    };
+    var validMeeting = function (m) {
+      return m && m.iso && !isNaN(new Date(m.iso + 'T00:00:00')) &&
+        m.body && m.topic && /^https:\/\//.test(m.link || '');
+    };
+    g.MDCT._livePromise = fetch('live-data.json', { cache: 'no-store' })
+      .then(function (r) { return r.ok ? r.json() : null; })
+      .then(function (d) {
+        if (!d) return;
+        var stories = (d.stories || []).filter(validStory);
+        var meetings = (d.meetings || []).filter(validMeeting);
+        if (stories.length >= 3) g.MDCT_HEADLINES = stories;
+        if (meetings.length) {
+          meetings.forEach(function (m) { if (m.stream && !/^https:\/\//.test(m.stream)) delete m.stream; });
+          g.MDCT_MEETINGS = meetings;
+        }
+        if (d.updated_at && !isNaN(new Date(d.updated_at))) g.MDCT_UPDATED = d.updated_at;
+      })
+      .catch(function () {});
+    g.MDCT._livePromise.then(cb, cb);
+  };
+
+  /* Submit email (+ optional ZIP) to the Mailchimp audience via a hidden
+     form + iframe (the standard embedded-form pattern; no API key needed). */
+  g.MDCT.subscribe = function (email, zip) {
+    var cfg = g.MDCT_NEWSLETTER || {};
+    if (!cfg.form_action || !email || email.indexOf('@') < 1) return false;
+    try {
+      var doc = document;
+      var fr = doc.getElementById('mdct-mc-frame');
+      if (!fr) {
+        fr = doc.createElement('iframe');
+        fr.id = 'mdct-mc-frame'; fr.name = 'mdct-mc-frame';
+        fr.style.display = 'none'; fr.setAttribute('aria-hidden', 'true');
+        doc.body.appendChild(fr);
+      }
+      var f = doc.createElement('form');
+      f.action = cfg.form_action; f.method = 'POST'; f.target = 'mdct-mc-frame'; f.style.display = 'none';
+      var add = function (n, v) { var i = doc.createElement('input'); i.type = 'hidden'; i.name = n; i.value = v; f.appendChild(i); };
+      add(cfg.email_tag || 'EMAIL', email.trim());
+      if (zip && String(zip).trim()) add(cfg.zip_tag || 'ZIP', String(zip).trim());
+      if (cfg.honeypot) add(cfg.honeypot, '');
+      doc.body.appendChild(f); f.submit();
+      setTimeout(function () { try { f.remove(); } catch (e) {} }, 4000);
+      return true;
+    } catch (e) { return false; }
   };
 
   g.MDCT.sourceMeta = function (w) {

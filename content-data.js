@@ -13,6 +13,14 @@
  *              stories.html (Hot Right Now, Regional News, story grid),
  *              meetings.html (Upcoming + Watch list).
  */
+/* ---- Newsletter (Mailchimp embedded form) -------------------------------- */
+window.MDCT_NEWSLETTER = {
+  form_action: 'https://fortlauderdalesignal.us2.list-manage.com/subscribe/post?u=224e87bfc7d2cd51e4b2f70a4&id=9f42bf570e&f_id=00bf91e3f0',
+  email_tag: 'EMAIL',
+  zip_tag: 'ZIP',
+  honeypot: 'b_224e87bfc7d2cd51e4b2f70a4_9f42bf570e'
+};
+
 window.MDCT_UPDATED = '2026-07-08T15:30:00-04:00';
 
 /* ---- Live Wire / Stories ------------------------------------------------ */
