@@ -72,6 +72,9 @@ coverage link the specific post (https://x.com/...) from a newsroom, reporter, \
 official, or candidate account, and set "source": "X". For Reddit link the specific thread and set "source": "Reddit" — posts document the public conversation; inclusion is not endorsement.
 - Never invent a story, meeting, quote, URL, or statistic. Unverified means omitted.
 - Deks under 55 words, factual. Note when something is a live/developing event.
+- IDENTIFY PEOPLE: give every named person their role on first mention — \
+"U.S. Rep. John James, a Republican candidate for Senate", "Sen. Jim Runestad \
+(R-White Lake)". Never assume readers know who someone is.
 - POLITICAL BALANCE: when covering candidates or a debate, cover ALL major \
 candidates' data center positions — not just one. If you ran an item on one \
 candidate, search for and include the rivals' statements from the same event. \
