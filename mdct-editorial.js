@@ -373,11 +373,9 @@
         '#wm-fab:hover .wm-ava{transform:scale(1.05);}',
         '#wm-fab .wm-pic{position:absolute;inset:0;border-radius:50%;border:2px solid #E03131;overflow:hidden;background:#14100e;box-shadow:0 8px 26px rgba(0,0,0,.5);z-index:1;}',
         '#wm-fab .wm-pic img{width:100%;height:100%;object-fit:cover;object-position:center 28%;transform:scale(1.26);display:block;}',
-        '#wm-fab .wm-ring{position:absolute;inset:0;border-radius:50%;border:2px solid #E03131;opacity:0;animation:wm-pulse 2.2s ease-out infinite;pointer-events:none;}',
-        '#wm-fab .wm-ring.r2{animation-delay:1.1s;}',
-        '#wm-fab .wm-dot{position:absolute;bottom:2px;right:2px;width:12px;height:12px;border-radius:50%;background:#3fb950;border:2px solid #14100e;z-index:3;animation:wm-dot 2s ease-out infinite;}',
-        '@keyframes wm-pulse{0%{transform:scale(1);opacity:.85;}100%{transform:scale(1.7);opacity:0;}}',
-        '@keyframes wm-dot{0%{box-shadow:0 0 0 0 rgba(63,185,80,.6);}70%,100%{box-shadow:0 0 0 7px rgba(63,185,80,0);}}',
+        '#wm-fab .wm-ring{position:absolute;inset:0;border-radius:50%;border:2px solid #E03131;opacity:0;animation:wm-pulse 5s ease-out infinite;pointer-events:none;}',
+        '#wm-fab .wm-dot{position:absolute;bottom:2px;right:2px;width:12px;height:12px;border-radius:50%;background:#3fb950;border:2px solid #14100e;z-index:3;}',
+        '@keyframes wm-pulse{0%{transform:scale(1);opacity:.35;}70%,100%{transform:scale(1.32);opacity:0;}}',
         '@media (prefers-reduced-motion:reduce){#wm-fab .wm-ring,#wm-fab .wm-dot{animation:none;}}',
         '#wm-modal{position:fixed;inset:0;z-index:9999;display:flex;align-items:flex-end;justify-content:flex-end;padding:20px;font-family:Archivo,system-ui,sans-serif;}',
         '#wm-modal[hidden]{display:none;}',
@@ -406,9 +404,9 @@
     }
     var fab = document.createElement('button');
     fab.id = 'wm-fab'; fab.type = 'button';
-    fab.setAttribute('aria-label', 'Idea? Ask Emmy, the Data Center Editor — send a tip or correction');
-    fab.innerHTML = '<span class="wm-label">Idea?</span>' +
-      '<span class="wm-ava"><span class="wm-ring"></span><span class="wm-ring r2"></span>' +
+    fab.setAttribute('aria-label', 'Ask us — send the newsroom a tip or correction');
+    fab.innerHTML = '<span class="wm-label">Ask Us</span>' +
+      '<span class="wm-ava"><span class="wm-ring"></span>' +
       '<span class="wm-pic"><img src="' + AV + '" alt="Emmy, Data Center Editor"></span><span class="wm-dot"></span></span>';
     var modal = document.createElement('div');
     modal.id = 'wm-modal'; modal.setAttribute('role', 'dialog'); modal.setAttribute('aria-modal', 'true'); modal.hidden = true;

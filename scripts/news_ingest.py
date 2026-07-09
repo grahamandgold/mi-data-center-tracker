@@ -131,6 +131,34 @@ def _headline_original(ours: str, source: str) -> bool:
     return overlap < 0.38
 
 
+def _reword(title: str, dek: str, source_title: str) -> str:
+    """Second pass: when our headline still hugs the outlet's wording, ask the
+    model to restructure it — same facts, our voice — so we never ship a
+    paraphrase of someone else's headline. Returns a stronger title, or the
+    original if the rewrite doesn't actually help."""
+    if ai is None:
+        return title
+    prompt = (
+        "You are the Head Writer. Our headline is too close to the outlet's own "
+        "wording. Rewrite OUR headline so it shares almost no wording with the "
+        "outlet's — different structure, lead with the stake (dollars, megawatts, "
+        "water, who wins/loses), same facts, no acronyms, <=100 chars. Never copy "
+        "the outlet's phrasing.\n\n"
+        f"OUTLET HEADLINE (do not echo): {source_title}\n"
+        f"OUR CURRENT HEADLINE: {title}\n"
+        f"STORY FACTS: {dek}\n\n"
+        'Respond ONLY as JSON: {"title": "<the rewritten headline>"}'
+    )
+    try:
+        out = ai.extract_json(ai.chat("judgment", [{"role": "user", "content": prompt}], temperature=0.5))
+        cand = str((out or {}).get("title", "")).strip()
+    except Exception:  # noqa: BLE001
+        return title
+    if len(cand) >= 12 and _headline_original(cand, source_title):
+        return cand[:130]
+    return title
+
+
 def _known_urls() -> set:
     urls = set()
     for path, key in ((LIVE, "stories"), (PENDING, "items")):
@@ -238,7 +266,12 @@ Keep at most {MAX_CANDIDATES}. If none qualify, return [].
         # is genuinely rewritten, not a paraphrase of the outlet's. If our title
         # still overlaps the source too much, keep it as a desk candidate (needs
         # a human rewrite) instead of letting it go straight to the homepage.
-        rewritten = _headline_original(title, src.get("title", ""))
+        src_title = str(src.get("title", "")).strip()
+        rewritten = _headline_original(title, src_title)
+        if not rewritten and src_title:
+            # too close to the outlet — try once more to make it genuinely ours
+            title = _reword(title, str(p.get("dek", "")), src_title)
+            rewritten = _headline_original(title, src_title)
         # The timestamp must be the TRUTH: the source's real publish time, not
         # when we ingested it. Otherwise every story from one run shows the same
         # "Nh ago". Fall back to now only if the feed gave no usable date.

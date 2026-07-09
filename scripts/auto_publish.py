@@ -27,6 +27,7 @@ from __future__ import annotations
 
 import json
 import os
+import re
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
@@ -35,6 +36,33 @@ ROOT = Path(__file__).resolve().parents[1]
 LIVE = ROOT / "live-data.json"
 PENDING = ROOT / "live-data-pending.json"
 DECISIONS = ROOT / "desk-decisions.json"
+
+# Originality guard: a story may NOT auto-publish if our headline still reads
+# like the outlet's. Anything at/above this word-overlap with the source
+# headline is treated as "too close" and held for a human rewrite on the desk.
+# (Matches the Jaccard test in news_ingest._headline_original.)
+STEAL_OVERLAP = float(os.environ.get("AUTO_STEAL_OVERLAP", "0.45"))
+_STOP = {"the", "a", "an", "to", "of", "in", "on", "for", "and", "as", "at",
+         "its", "it", "with", "over", "data", "center", "centers", "michigan",
+         "new", "now", "after"}
+
+
+def _toks(s: str) -> set:
+    return {w for w in re.findall(r"[a-z0-9$]+", str(s).lower()) if w not in _STOP and len(w) > 2}
+
+
+def _too_close_to_source(it: dict) -> bool:
+    """True when our headline overlaps the outlet's headline too much to ship
+    automatically. If we have no captured source headline we can't confirm, so
+    we fall back to the item's own headline_rewritten flag (checked separately)."""
+    src = str(it.get("source_title") or "").strip()
+    if not src:
+        return False
+    a, b = _toks(it.get("title", "")), _toks(src)
+    if not a or not b:
+        return False
+    return len(a & b) / len(a | b) >= STEAL_OVERLAP
+
 
 AUTO_MIN = int(os.environ.get("AUTO_PUBLISH_MIN", "8"))
 FRESH_HOURS = float(os.environ.get("AUTO_FRESH_HOURS", "12"))
@@ -92,14 +120,20 @@ def main() -> int:
         # Google News items must have a genuinely rewritten headline to go
         # straight up; paraphrases wait for a human rewrite on the desk.
         rewritten_ok = it.get("origin") != "google-news" or it.get("headline_rewritten", True)
+        # Hard anti-stealing gate: never auto-publish a headline that still
+        # mirrors the outlet's own. Too-close ones wait in the approval queue.
+        original_ok = not _too_close_to_source(it)
         ok = (
             it.get("kind") == "story"
             and int(it.get("judge_score", 0)) >= AUTO_MIN
             and "thin" not in acc and "inaccurate" not in acc
             and rewritten_ok
+            and original_ok
             and _age_h(it.get("iso") or it.get("filed_at", ""), now) <= FRESH_HOURS
             and url and url not in live_urls and url not in killed_urls
         )
+        if not original_ok:
+            it["accuracy"] = "held-headline-too-close"
         if ok:
             promoted.append(it)
             live_urls.add(url)
