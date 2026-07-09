@@ -15,14 +15,14 @@
 <link rel="apple-touch-icon" href="assets/mark.svg">
 <meta name="theme-color" content="#100f0e">
 <title>Michigan Data Center Tracker — Every Data Center, Every Megawatt</title>
-<meta name="description" content="Independent, nonpartisan public record of every data center, permit, and local moratorium reshaping Michigan’s grid, land, and water. Tracking the public record.">
+<meta name="description" content="Independent, nonpartisan public record of every data center, project, and local moratorium reshaping Michigan’s grid, land, and water. Tracking the public record.">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Michigan Data Center Tracker — Every Data Center, Every Megawatt">
-<meta property="og:description" content="Independent, nonpartisan public record of every data center, permit, and local moratorium reshaping Michigan’s grid, land, and water. Tracking the public record.">
+<meta property="og:description" content="Independent, nonpartisan public record of every data center, project, and local moratorium reshaping Michigan’s grid, land, and water. Tracking the public record.">
 <meta property="og:image" content="assets/mark.svg">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Michigan Data Center Tracker — Every Data Center, Every Megawatt">
-<meta name="twitter:description" content="Independent, nonpartisan public record of every data center, permit, and local moratorium reshaping Michigan’s grid, land, and water. Tracking the public record.">
+<meta name="twitter:description" content="Independent, nonpartisan public record of every data center, project, and local moratorium reshaping Michigan’s grid, land, and water. Tracking the public record.">
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <style>
@@ -367,7 +367,7 @@
       <div style="min-width:0;">
         <div style="display:flex;align-items:center;gap:9px;margin-bottom:6px;"><span style="width:7px;height:7px;border-radius:50%;background:#E03131;"></span><span style="font-family:'Space Mono',monospace;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:#cbc7c3;">The daily briefing</span></div>
         <div style="font-family:'Saira Condensed',sans-serif;font-weight:700;font-size:24px;color:#f4f1ee;letter-spacing:.01em;line-height:1.05;">Get daily intelligence on Michigan's data center buildout.</div>
-        <div style="font-size:13px;color:#8c8884;margin-top:5px;">New proposals, permits, and hearings — in your inbox every morning. Free.</div>
+        <div style="font-size:13px;color:#8c8884;margin-top:5px;">New proposals, moratoria, and hearings — in your inbox every morning. Free.</div>
       </div>
       <div style="flex-shrink:0;width:400px;">
         <sc-if value="{{ heroPending }}" hint-placeholder-val="{{ true }}">
@@ -472,7 +472,7 @@
         <a class="tile" href="Live Map.dc.html" style="text-decoration:none;border:1px solid #262320;border-radius:0;background:#16140f;padding:22px 20px;display:flex;flex-direction:column;min-height:142px;">
           <span style="font-family:'Space Mono',monospace;font-size:12px;color:#E03131;margin-bottom:auto;">01</span>
           <span style="font-family:'Saira Condensed',sans-serif;font-weight:700;font-size:22px;color:#f4f1ee;margin-top:18px;">Live Map</span>
-          <span style="color:#8c8884;font-size:13px;line-height:1.5;margin-top:6px;">Every facility, permit &amp; proposed site, mapped.</span>
+          <span style="color:#8c8884;font-size:13px;line-height:1.5;margin-top:6px;">Every facility &amp; proposed site, mapped.</span>
           <div style="display:flex;align-items:flex-end;justify-content:space-between;margin-top:16px;padding-top:14px;border-top:1px solid #221f1b;">
             <span><span style="display:block;font-family:'Space Mono',monospace;font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:#7d7975;margin-bottom:3px;">Tracked</span><span style="font-family:'Saira Condensed',sans-serif;font-weight:700;font-size:18px;color:#f4f1ee;">{{ statsProjects }} <span style="font-size:12px;color:#8c8884;font-weight:600;">sites</span></span></span>
             <span class="tarrow" style="color:#6f6b67;font-size:18px;">→</span>
@@ -586,51 +586,11 @@
       </div>
     </section>
 
-    <!-- dedicated sponsorship -->
-    <section class="sponsor-block section-pad-lg" style="margin:30px 44px 4px;border:1px solid #2b2824;border-radius:0;overflow:hidden;background:radial-gradient(130% 150% at 100% 0%, #241f18 0%, #16140f 55%);display:flex;gap:44px;padding:44px 40px;">
-      <div style="flex:1 1 54%;min-width:0;display:flex;flex-direction:column;justify-content:center;">
-        <span style="font-family:'Space Mono',monospace;font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:#E03131;margin-bottom:16px;">Partnership</span>
-        <h3 style="font-family:'Saira Condensed',sans-serif;font-weight:700;font-size:37px;line-height:1;color:#f6f3f0;margin:0 0 16px;">THE PEOPLE DECIDING MICHIGAN'S DATA CENTER FUTURE READ THIS EVERY WEEK.</h3>
-        <p style="max-width:460px;margin:0 0 22px;color:#a39e99;font-size:16px;line-height:1.6;">Township boards, state regulators, reporters, and energy executives rely on it. Your support keeps it independent and rigorous.</p>
-        <div style="display:flex;flex-direction:column;gap:12px;margin-bottom:26px;">
-          <div style="display:flex;align-items:center;gap:11px;"><span style="width:19px;height:19px;border-radius:50%;background:rgba(224,49,49,.16);color:#E03131;display:flex;align-items:center;justify-content:center;font-size:11px;flex-shrink:0;">✓</span><span style="font-size:14px;color:#cbc7c3;">Logo on every page and facility profile</span></div>
-          <div style="display:flex;align-items:center;gap:11px;"><span style="width:19px;height:19px;border-radius:50%;background:rgba(224,49,49,.16);color:#E03131;display:flex;align-items:center;justify-content:center;font-size:11px;flex-shrink:0;">✓</span><span style="font-size:14px;color:#cbc7c3;">Named in the daily briefing — 11,000+ subscribers</span></div>
-          <div style="display:flex;align-items:center;gap:11px;"><span style="width:19px;height:19px;border-radius:50%;background:rgba(224,49,49,.16);color:#E03131;display:flex;align-items:center;justify-content:center;font-size:11px;flex-shrink:0;">✓</span><span style="font-size:14px;color:#cbc7c3;">Featured in the quarterly impact report</span></div>
-        </div>
-        <div style="display:flex;gap:14px;align-items:center;">
-          <a href="Sponsor.dc.html" style="text-decoration:none;color:#cf6a66;background:transparent;border:1px solid #4a2723;font-weight:700;font-size:15px;padding:14px 26px;border-radius:0;" style-hover="border-color:#E03131;color:#fff;">Sponsor the tracker</a>
-          <a class="ghost" href="Sponsor.dc.html" style="text-decoration:none;color:#cbc7c3;border:1px solid #3a3733;font-weight:600;font-size:15px;padding:14px 26px;border-radius:0;">Request the media kit</a>
-        </div>
-        <!-- partner email capture -->
-        <div style="margin-top:22px;padding-top:20px;border-top:1px solid #2b2824;max-width:470px;">
-          <div style="font-size:13px;color:#8c8884;margin-bottom:10px;">Not ready to commit? Get the media kit and daily briefing by email.</div>
-          <sc-if value="{{ partnerPending }}" hint-placeholder-val="{{ true }}"><div style="display:flex;gap:10px;"><input type="email" placeholder="you@work-email.com" id="mc-kit-email" style="flex:1;min-width:0;background:#0f0e0d;border:1px solid #322e29;border-radius:0;padding:0 14px;height:46px;color:#f4f1ee;font-family:'Archivo',sans-serif;font-size:14px;outline:none;" style-focus="border-color:#E03131;" /><button type="button" onclick="{{ subscribePartner }}" style-hover="border-color:#E03131;color:#fff;background:#241f1b;" style="flex-shrink:0;cursor:pointer;color:#f4f1ee;background:#1f1c18;border:1px solid #3a3733;font-family:'Archivo',sans-serif;font-weight:700;font-size:14px;letter-spacing:.02em;padding:0 22px;height:46px;border-radius:0;">Send the kit</button></div></sc-if>
-          <sc-if value="{{ partnerSubscribed }}" hint-placeholder-val="{{ false }}"><div style="display:flex;align-items:center;gap:10px;min-height:46px;font-size:15px;color:#9bc49b;"><span style="width:22px;height:22px;border-radius:50%;background:rgba(120,170,120,.16);color:#9bc49b;display:flex;align-items:center;justify-content:center;font-size:12px;flex-shrink:0;">✓</span>On its way — check your inbox for the media kit.</div></sc-if>
-        </div>
-      </div>
-      <div style="flex:1 1 46%;min-width:0;border:1px solid #322e29;border-radius:0;background:rgba(16,15,14,.6);backdrop-filter:blur(6px);padding:24px;display:flex;flex-direction:column;">
-        <div style="font-family:'Space Mono',monospace;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:#7d7975;margin-bottom:6px;">Sponsorship tiers</div>
-        <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:16px;padding:16px 0;border-bottom:1px solid #221f1b;">
-          <div><div style="font-family:'Saira Condensed',sans-serif;font-weight:700;font-size:21px;color:#f4f1ee;">Founding Partner</div><div style="font-size:12.5px;color:#8c8884;margin-top:4px;line-height:1.45;">Top logo placement, named in every briefing and the quarterly report.</div></div>
-          <span style="font-family:'Space Mono',monospace;font-size:11px;color:#cbc7c3;white-space:nowrap;padding-top:4px;">Annual</span>
-        </div>
-        <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:16px;padding:16px 0;border-bottom:1px solid #221f1b;">
-          <div><div style="font-family:'Saira Condensed',sans-serif;font-weight:700;font-size:21px;color:#f4f1ee;">Supporting</div><div style="font-size:12.5px;color:#8c8884;margin-top:4px;line-height:1.45;">A section sponsorship and a recurring slot in the newsletter.</div></div>
-          <span style="font-family:'Space Mono',monospace;font-size:11px;color:#cbc7c3;white-space:nowrap;padding-top:4px;">Quarterly</span>
-        </div>
-        <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:16px;padding:16px 0;">
-          <div><div style="font-family:'Saira Condensed',sans-serif;font-weight:700;font-size:21px;color:#f4f1ee;">Community</div><div style="font-size:12.5px;color:#8c8884;margin-top:4px;line-height:1.45;">For individuals and local businesses who want it to keep going.</div></div>
-          <span style="font-family:'Space Mono',monospace;font-size:11px;color:#cbc7c3;white-space:nowrap;padding-top:4px;">Any amount</span>
-        </div>
-        <div style="font-size:12px;color:#6f6b67;margin-top:14px;padding-top:14px;border-top:1px solid #1a1813;line-height:1.5;">Every tier includes a linked logo and a listing on the Supporters page.</div>
-      </div>
-    </section>
-
     <!-- closing support CTA -->
     <section class="closing-cta inset-pad" style="margin:20px 44px 0;border:1px solid #E03131;background:radial-gradient(130% 180% at 50% 0%, #2a1714 0%, #16140f 60%);padding:40px;display:flex;align-items:center;justify-content:space-between;gap:32px;flex-wrap:wrap;">
       <div style="min-width:0;">
         <div style="font-family:'Space Mono',monospace;font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:#E03131;margin-bottom:10px;">Keep the watchdog funded</div>
-        <h2 style="font-family:'Saira Condensed',sans-serif;font-weight:800;font-size:34px;line-height:1;color:#f6f3f0;margin:0;text-transform:uppercase;">Powered by sponsors &amp; supporters.</h2>
+        <h2 style="font-family:'Saira Condensed',sans-serif;font-weight:800;font-size:34px;line-height:1;color:#f6f3f0;margin:0;text-transform:uppercase;">Keep this watchdog free and independent.</h2>
       </div>
       <div style="display:flex;gap:12px;flex-shrink:0;">
         <a href="Sponsor.dc.html" style="text-decoration:none;color:#cf6a66;background:transparent;border:1px solid #4a2723;font-weight:800;font-size:15px;letter-spacing:.03em;text-transform:uppercase;padding:15px 26px;" style-hover="border-color:#E03131;color:#fff;">Sponsor the tracker →</a>
@@ -959,7 +919,7 @@ class Component extends DCLogic {
         ? (() => { const d = new Date(this.state.podMeta.date + 'T12:00:00'); return mon[d.getMonth()].charAt(0)+mon[d.getMonth()].slice(1).toLowerCase() + ' ' + d.getDate(); })()
         : mon[NOW.getMonth()].charAt(0)+mon[NOW.getMonth()].slice(1).toLowerCase() + ' ' + NOW.getDate(),
       podDur: (this.state.podMeta && this.state.podMeta.minutes) ? this.state.podMeta.minutes + ' min' : 'Daily',
-      podTeaser: (this.state.podMeta && this.state.podMeta.teaser) || 'Ada & Mack talk through the day’s verified Michigan data center headlines.',
+      podTeaser: (this.state.podMeta && this.state.podMeta.teaser) || 'Graham & Emmy talk through the day’s biggest Michigan data center headlines.',
       podMuteLabel: this.state.podMuted ? 'Listen' : 'Mute',
       toggleMute: () => { const next = !this.state.podMuted; this.setState({ podMuted: next, podPlaying: true }); try { const a = document.getElementById('pod-audio'); if (a) { a.muted = next; if (!next) { a.play && a.play().catch(()=>{}); } } } catch(e){} },
       bars: Array.from({length: 40}, (_, i) => ({ h: (22 + Math.round(Math.abs(Math.sin(i*1.7)*Math.cos(i*0.6))*78)) + '%', delay: (i % 9 * 0.08).toFixed(2) + 's' })),
