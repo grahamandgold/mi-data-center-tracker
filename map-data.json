@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-09T10:47:35Z",
+ "updated_at": "2026-07-09T17:31:56+00:00",
  "map_points": [
   {
    "name": "Saline Township campus (Stargate)",
@@ -811,11 +811,11 @@
    "power_mw": "",
    "latitude": 45.77,
    "longitude": -86.91,
-   "source_url": "https://www.uppermichiganssource.com/2026/04/07/delta-county-planning-commission-approves-data-center-moratorium-draft/",
+   "source_url": "https://www.uppermichiganssource.com/2026/07/07/delta-county-planning-commission-approves-data-center-moratorium/",
    "source_name": "Upper Michigan's Source",
-   "verified_date": "2026-04-07",
+   "verified_date": "2026-07-07",
    "confidence": "Reported",
-   "note": "Draft moratorium up to 12 months in legal review."
+   "note": "Planning commission approved 12-month moratorium."
   },
   {
    "name": "MPSC Consumers Energy data center tariff",
@@ -1312,6 +1312,22 @@
    "verified_date": "2026-06-01",
    "confidence": "Confirmed",
    "note": "Rooftop + carport solar at Rouge complex. Symbolic of industrial load shifting to renewables."
+  },
+  {
+   "name": "Texas Township moratorium",
+   "municipality": "Texas Township",
+   "county": "Kalamazoo",
+   "status": "Moratorium",
+   "layer": "moratoria",
+   "developer": "",
+   "power_mw": "",
+   "latitude": 42.21222,
+   "longitude": -85.69639,
+   "source_url": "https://www.mlive.com/news/kalamazoo/2026/06/township-near-kalamazoo-approves-12-month-moratorium-blocking-data-centers.html",
+   "source_name": "MLive",
+   "verified_date": "2026-07-05",
+   "confidence": "Confirmed",
+   "note": "12-month moratorium effective July 5, 2026 (approximate centroid)."
   }
  ],
  "map_meta": {
