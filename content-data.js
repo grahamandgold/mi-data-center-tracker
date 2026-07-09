@@ -244,17 +244,58 @@ window.MDCT_SOCIAL = {
 /* ---- By the Numbers (computed from map-data.json, updated 2026-06-29) ---- */
 /* Rebuild by hand or with: node scripts/compute-stats.mjs                    */
 window.MDCT_STATS = {
-  projects: 19, activeProjects: 15, disclosedGW: '2.5', pauses: 32, communities: 72,
-  statusBreakdown: [
-    { label: 'Under construction', count: 1, color: '#dd8048' },
-    { label: 'Approved', count: 3, color: '#E03131' },
-    { label: 'Proposed / under review', count: 11, color: '#bda35f' },
-    { label: 'Withdrawn / rejected', count: 4, color: '#6f6a64' }
+  "projects": 19,
+  "activeProjects": 14,
+  "disclosedGW": "2.5",
+  "pauses": 32,
+  "communities": 72,
+  "statusBreakdown": [
+    {
+      "label": "Under construction",
+      "count": 1,
+      "color": "#dd8048"
+    },
+    {
+      "label": "Approved",
+      "count": 3,
+      "color": "#E03131"
+    },
+    {
+      "label": "Proposed / under review",
+      "count": 10,
+      "color": "#bda35f"
+    },
+    {
+      "label": "Withdrawn / rejected",
+      "count": 5,
+      "color": "#6f6a64"
+    }
   ],
-  byRegion: [
-    { label: 'SE Michigan', projects: 12, pauses: 21 },
-    { label: 'West Michigan', projects: 4, pauses: 3 },
-    { label: 'Mid-Michigan', projects: 2, pauses: 4 },
-    { label: 'Northern Michigan', projects: 1, pauses: 4 }
+  "byRegion": [
+    {
+      "label": "SE Michigan",
+      "projects": 12,
+      "pauses": 21
+    },
+    {
+      "label": "West Michigan",
+      "projects": 4,
+      "pauses": 3
+    },
+    {
+      "label": "Capital Region",
+      "projects": 2,
+      "pauses": 2
+    },
+    {
+      "label": "Mid-Michigan",
+      "projects": 0,
+      "pauses": 2
+    },
+    {
+      "label": "Northern Michigan",
+      "projects": 1,
+      "pauses": 4
+    }
   ]
 };

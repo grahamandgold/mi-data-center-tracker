@@ -1,0 +1,40 @@
+name: Stats from map (map is truth)
+
+on:
+  push:
+    branches: [main]
+    paths: ["map-data.json"]
+  schedule:
+    - cron: "20 8 * * *"   # daily safety net, after map hygiene
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: compute-stats
+  cancel-in-progress: true
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Recompute homepage stats from map-data.json
+        run: python scripts/compute_stats.py
+      - name: Commit if changed
+        run: |
+          if git status --porcelain content-data.js | grep -q .; then
+            git config user.name "compute-stats"
+            git config user.email "compute-stats@users.noreply.github.com"
+            git add content-data.js
+            git commit -m "Stats: recompute from map-data.json $(date -u +'%Y-%m-%d')"
+            git pull --rebase origin main
+            git push
+          else
+            echo "Stats already in sync with the map."
+          fi
