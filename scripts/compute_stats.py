@@ -86,8 +86,8 @@ def main() -> int:
         counts[status_key(p.get("status"), "projects")] = counts.get(status_key(p.get("status"), "projects"), 0) + 1
     status_breakdown = [{"label": lbl, "count": counts.get(lbl, 0), "color": col} for lbl, col in order]
 
-    # by region: projects + pauses, in the five-region order (skip empty regions)
-    reg_order = ["se", "west", "capital", "mid", "north"]
+    # by region: projects + pauses, in the four-region order (skip empty regions)
+    reg_order = ["se", "west", "mid", "north"]
     by = {r: {"projects": 0, "pauses": 0} for r in reg_order}
     for p in proj:
         r = county_region(p.get("county"))
