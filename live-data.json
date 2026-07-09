@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-09T17:34:47Z",
+ "updated_at": "2026-07-09T18:56:08Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Portage drafts rules to keep data centers out of neighborhoods",
+   "dek": "New zoning language would block large facilities from most residential and agricultural zones. Kalamazoo residents fear noise, traffic, and strain on the local grid if the rules are weakened. The changes come after months of complaints about industrial creep into rural edges of the city.",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTGNDVl8yQWhSclVKa1BNNUExNGw5b0VqYjdHWmpnR09IbWdzYURoSkhDYmxyRDB0M0JLS1NxUzJvNFRBV282cGd2N2d5dnZ4dlZNZUhwZTVILVdVMjlXMmxBeWdIYU1LMFVCOXZYQzJEa2lyZjB5TWVqWXZsRGU4OF80bXltUV9mdEwxTnBxWENYME1jMG9qSTU4SS04RWFDeDFF?oc=5",
+   "source": "nwitimes.com",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Kalamazoo",
+   "tag": "Local Government",
+   "iso": "2026-07-09T18:45:00Z",
+   "id": "3c30350a7fc6",
+   "origin": "google-news",
+   "source_title": "Read Portage's proposed zoning changes to restrict data centers in the community - nwitimes.com",
+   "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTGNDVl8yQWhSclVKa1BNNUExNGw5b0VqYjdHWmpnR09IbWdzYURoSkhDYmxyRDB0M0JLS1NxUzJvNFRBV282cGd2N2d5dnZ4dlZNZUhwZTVILVdVMjlXMmxBeWdIYU1LMFVCOXZYQzJEa2lyZjB5TWVqWXZsRGU4OF80bXltUV9mdEwxTnBxWENYME1jMG9qSTU4SS04RWFDeDFF?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
   {
    "title": "Michigan town sues over nonstop data-center noise in federal court",
    "dek": "Residents of one Michigan community claim an AI data center’s constant hum has made normal life impossible. The lawsuit asks a federal judge to intervene after local officials failed to act. Homeowners within earshot stand to gain relief or face years of disrupted sleep.",
@@ -46,6 +63,23 @@
    "id": "0c1b706157ec",
    "accuracy": "checked-rewritten",
    "judge_score": 8
+  },
+  {
+   "title": "Girard Township locks in tight new rules for any data center",
+   "dek": "Branch County officials approved strict setbacks, noise limits, and height caps that make large projects far harder to build. The vote gives residents near Coldwater clearer protection against sudden industrial development. Local leaders say the rules still allow smaller facilities if they meet the new standards.",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yZEo1RURocXVKaDhXcW8zNnh3Z1hkTkV6LWpKendDUkd0ZFB0SmVodkNFaDlZREY3eGVob0V2WXlfbWZtbk1zbk9iU00tUQ?oc=5",
+   "source": "WTVB",
+   "region": "mid",
+   "cat": "STATEWIDE",
+   "county": "Branch",
+   "tag": "Local Government",
+   "iso": "2026-07-09T13:28:43Z",
+   "id": "30463379b2ca",
+   "origin": "google-news",
+   "source_title": "Girard Township adopts strict zoning regulations for data centers - WTVB",
+   "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yZEo1RURocXVKaDhXcW8zNnh3Z1hkTkV6LWpKendDUkd0ZFB0SmVodkNFaDlZREY3eGVob0V2WXlfbWZtbk1zbk9iU00tUQ?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 9
   },
   {
    "title": "State officials may decide Mason-area data center instead of locals",
@@ -134,34 +168,6 @@
    "origin": "google-news",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 9
-  },
-  {
-   "title": "Oracle asks Saline Twp to skip 12 years of taxes on $43B campus",
-   "dek": "The township board is set to decide whether to grant a long tax break for one of the largest data center investments ever proposed in Michigan. Residents would forgo millions in property tax revenue while the project draws heavily on local power and water. The vote will show how much the community is willing to give up to land the facility.",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWGtiUG1BMmJaakNVdlV1eWhaNnNQTkZJSERzNmpiZV9mcW5MOFZlRWxVbWt2czFMOTJ1N2lVMVdtbm1KSTAxSnBDbGE0YXpmZGlDbjdSZFdrX0ZFd3AySE5ZN0NLUlc1b2xHMGhHNzFoSkxvUGN1dG9ENDJQX3pjb3pJSm9yMlMwM3doTFNtRlRkNy0zT0dFOTg0c19kaE5EQTdSaEV4UWtEYWl4QWZ3MEVjdzI5Q0ViVnJDS0JuNXI3b1o0Zm9GQllR?oc=5",
-   "source": "WXYZ Channel 7",
-   "region": "mid",
-   "cat": "STATEWIDE",
-   "tag": "Money",
-   "iso": "2026-07-08T22:07:27Z",
-   "id": "b810070616d3",
-   "origin": "google-news",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 9
-  },
-  {
-   "title": "Girard Twp green-lights data center rules while Coldwater drafts its own",
-   "dek": "Two southwest Michigan townships are moving at different speeds to set limits on future data center projects. Girard has already adopted standards; Coldwater is just starting the drafting process. The differing approaches will shape where large facilities can locate and what they must provide in return.",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSUw3bEFEVGZQMTA2MUt4ZkY2TTdwNVhzVzlja2FXNTF1YndUYU5hWjVuUmtmd2VjOEVQYjA5WUdRZ0g1cHRQbDRCZUV3VXpMR2NPLW45Z2h6VEV3bU9jQTlPalUyVmlZTWowbFJ4MzNRaG9WX291a3hlOXBtXzFaVDRUM0R2Y2ZSTVpvZjk3M29FbGYtMUY5ZC1JR1F0MUZaY0VsbGh1M2V1RE1zbkZVdE5LTnJ3VURUZGQxRjJtSjRrUENVRjdIZDhSTGpYWU1CVGxNOERibUVRSjNvV2huRnZNak5xdUxx?oc=5",
-   "source": "Coldwater Daily Reporter",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "tag": "Local Government",
-   "iso": "2026-07-08T22:07:27Z",
-   "id": "092f17237db4",
-   "origin": "google-news",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {
