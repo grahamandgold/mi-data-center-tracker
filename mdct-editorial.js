@@ -397,6 +397,8 @@
         '#wm-modal textarea:focus,#wm-modal input[type=email]:focus{border-color:#E03131;}',
         '#wm-modal .wm-send{background:#E03131;color:#fff;border:0;border-radius:6px;font-family:\'Space Mono\',monospace;font-size:13px;font-weight:700;letter-spacing:.03em;padding:12px;cursor:pointer;}',
         '#wm-modal .wm-send:hover{background:#f24343;}#wm-modal .wm-send:disabled{opacity:.6;cursor:default;}',
+        '#wm-modal .wm-chk{display:flex;align-items:center;gap:9px;font-size:12.5px;color:#c3beb9;cursor:pointer;user-select:none;margin:-1px 0 1px;}',
+        '#wm-modal .wm-chk input{width:16px;height:16px;accent-color:#E03131;flex-shrink:0;cursor:pointer;margin:0;}',
         '#wm-modal .wm-ok{margin-top:12px;font-size:14px;color:#9bd49b;line-height:1.5;}',
         '@media (max-width:480px){#wm-modal .wm-card{width:100%;}}'
       ].join('');
@@ -418,7 +420,8 @@
         '<p class="wm-copy">I keep the map honest. Spot a wrong number, a missing project, or have a lead? Send it straight to me — it goes into the newsroom queue and I’ll get it on the map.</p>' +
         '<form id="wm-form" novalidate>' +
           '<textarea id="wm-msg" required rows="4" placeholder="What did you spot? A wrong number, a missing project, a tip…"></textarea>' +
-          '<input id="wm-email" type="email" placeholder="Email (optional — only if you want a reply)" autocomplete="email">' +
+          '<input id="wm-email" type="email" placeholder="Email (for a reply or the briefing)" autocomplete="email">' +
+          '<label class="wm-chk"><input type="checkbox" id="wm-sub"><span>Also send me the free daily briefing</span></label>' +
           '<input id="wm-hp" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;width:1px;height:1px;opacity:0;">' +
           '<button type="submit" class="wm-send" id="wm-send">Send it to Emmy →</button>' +
         '</form>' +
@@ -436,19 +439,30 @@
       e.preventDefault();
       var msg = document.getElementById('wm-msg'), email = document.getElementById('wm-email'),
           hp = document.getElementById('wm-hp'), btn = document.getElementById('wm-send'),
-          ok = document.getElementById('wm-ok'), form = this;
+          sub = document.getElementById('wm-sub'), ok = document.getElementById('wm-ok'), form = this;
       var text = (msg.value || '').trim(); if (text.length < 3) { msg.focus(); return; }
+      var mail = (email.value || '').trim();
+      var wantsSub = sub && sub.checked;
+      // Can't subscribe without an email — nudge for it instead of silently dropping.
+      if (wantsSub && mail.indexOf('@') < 1) { email.focus(); email.placeholder = 'Add your email to get the briefing'; return; }
       btn.disabled = true; btn.textContent = 'Sending…';
-      var payload = { message: text, email: (email.value || '').trim(), website: (hp.value || ''),
+      // Fire the newsletter signup (hidden Mailchimp form) alongside the tip.
+      var subscribed = false;
+      if (wantsSub && typeof g.MDCT.subscribe === 'function') { try { subscribed = g.MDCT.subscribe(mail); } catch (e) {} }
+      var payload = { message: text, email: mail, website: (hp.value || ''), subscribe: !!wantsSub,
         source: 'Reader tip → Emmy (Data Center Editor)', url: location.href, at: new Date().toISOString() };
       var endpoint = g.MDCT_FEEDBACK_URL || window.MDCT_FEEDBACK_URL || '/api/community-question';
+      var done = function () {
+        if (subscribed) ok.innerHTML = '✅ Got it — thank you. It’s in the newsroom queue; Emmy will review it. You’re on the daily briefing list too. 📬';
+        form.hidden = true; ok.hidden = false;
+      };
       fetch(endpoint, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload) })
-        .then(function (r) { if (!r.ok) throw 0; form.hidden = true; ok.hidden = false; })
+        .then(function (r) { if (!r.ok) throw 0; done(); })
         .catch(function () {
-          var sub = encodeURIComponent('Tracker tip for Emmy (Data Center Editor)');
+          var subj = encodeURIComponent('Tracker tip for Emmy (Data Center Editor)');
           var body = encodeURIComponent(text + '\n\n— sent from ' + location.href + (payload.email ? ('\nreply to: ' + payload.email) : ''));
-          window.location.href = 'mailto:andy@fortlauderdalesignal.com?subject=' + sub + '&body=' + body;
-          form.hidden = true; ok.hidden = false;
+          window.location.href = 'mailto:andy@fortlauderdalesignal.com?subject=' + subj + '&body=' + body;
+          done();
         })
         .then(function () { btn.disabled = false; btn.textContent = 'Send it to Emmy →'; });
     });
