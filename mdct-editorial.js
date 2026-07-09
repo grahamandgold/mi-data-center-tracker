@@ -259,4 +259,86 @@
       expires: p.note || '—',
     };
   };
+
+  /* ---- Shareability + branding -------------------------------------------
+     One branded share system for the whole site. Uses the OS native share
+     sheet on mobile (social, text, email — everything), and a branded popover
+     on desktop (X, Facebook, LinkedIn, copy link, text, email). Every share
+     carries the Michigan Data Center Tracker name and links back to us.
+
+     Usage: g.MDCT.share({ url, title, text });  // any arg optional
+     Auto-wires any element with [data-share] (optional data-share-url /
+     data-share-title), and drops a floating Share button on every page.     */
+  g.MDCT.SITE = 'https://grahamandgold.github.io/mi-data-center-tracker/';
+  g.MDCT.BRAND = 'Michigan Data Center Tracker';
+
+  g.MDCT.share = function (opts) {
+    opts = opts || {};
+    var url = opts.url || (typeof location !== 'undefined' ? location.href : g.MDCT.SITE);
+    var title = opts.title || (typeof document !== 'undefined' ? document.title : g.MDCT.BRAND);
+    var text = opts.text || (title + ' — ' + g.MDCT.BRAND);
+    if (typeof navigator !== 'undefined' && navigator.share) {
+      navigator.share({ title: title, text: text, url: url }).catch(function () {});
+      return;
+    }
+    g.MDCT._shareSheet(url, title, text);
+  };
+
+  g.MDCT._shareSheet = function (url, title, text) {
+    var doc = document, enc = encodeURIComponent;
+    var links = [
+      ['X', 'https://twitter.com/intent/tweet?text=' + enc(text) + '&url=' + enc(url)],
+      ['Facebook', 'https://www.facebook.com/sharer/sharer.php?u=' + enc(url)],
+      ['LinkedIn', 'https://www.linkedin.com/sharing/share-offsite/?url=' + enc(url)],
+      ['Text', 'sms:?&body=' + enc(text + ' ' + url)],
+      ['Email', 'mailto:?subject=' + enc(title) + '&body=' + enc(text + '\n\n' + url)],
+    ];
+    var old = doc.getElementById('mdct-share-ov'); if (old) old.remove();
+    var ov = doc.createElement('div'); ov.id = 'mdct-share-ov';
+    ov.setAttribute('style', 'position:fixed;inset:0;z-index:9999;background:rgba(0,0,0,.6);display:flex;align-items:center;justify-content:center;');
+    var card = doc.createElement('div');
+    card.setAttribute('style', 'background:#16140f;border:1px solid #322e29;border-radius:8px;padding:22px;width:min(360px,90vw);font-family:Archivo,system-ui,sans-serif;');
+    var rows = links.map(function (l) {
+      return '<a href="' + l[1] + '" target="_blank" rel="noopener" data-close style="display:flex;align-items:center;justify-content:space-between;padding:11px 13px;margin:6px 0;background:#201a15;border:1px solid #2b2620;border-radius:5px;color:#f4f1ee;text-decoration:none;font-size:14px;">' + l[0] + '<span style="color:#E03131;">→</span></a>';
+    }).join('');
+    card.innerHTML =
+      '<div style="display:flex;align-items:center;gap:10px;margin-bottom:14px;">' +
+      '<img src="' + g.MDCT.SITE + 'brand-logo-nav.png" alt="' + g.MDCT.BRAND + '" style="height:22px;">' +
+      '<span style="font-family:\'Space Mono\',monospace;font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:#8a847c;margin-left:auto;">Share</span></div>' +
+      rows +
+      '<button data-copy style="width:100%;margin-top:8px;padding:11px;background:#E03131;color:#fff;border:0;border-radius:5px;font-family:\'Space Mono\',monospace;font-size:12px;letter-spacing:.06em;text-transform:uppercase;cursor:pointer;">Copy link</button>';
+    ov.appendChild(card); doc.body.appendChild(ov);
+    ov.addEventListener('click', function (e) {
+      if (e.target === ov || e.target.hasAttribute('data-close')) ov.remove();
+      if (e.target.hasAttribute('data-copy')) {
+        (navigator.clipboard ? navigator.clipboard.writeText(url) : Promise.reject())
+          .then(function () { e.target.textContent = 'Copied ✓'; }, function () {});
+      }
+    });
+  };
+
+  g.MDCT.initShare = function () {
+    if (typeof document === 'undefined' || document.getElementById('mdct-share-fab')) return;
+    // wire explicit share triggers
+    Array.prototype.forEach.call(document.querySelectorAll('[data-share]'), function (el) {
+      el.style.cursor = 'pointer';
+      el.addEventListener('click', function (e) {
+        e.preventDefault();
+        g.MDCT.share({ url: el.getAttribute('data-share-url') || location.href,
+                       title: el.getAttribute('data-share-title') || document.title });
+      });
+    });
+    // floating branded Share button (every page, every section reachable)
+    var fab = document.createElement('button'); fab.id = 'mdct-share-fab';
+    fab.setAttribute('aria-label', 'Share this page');
+    fab.setAttribute('style', 'position:fixed;right:18px;bottom:18px;z-index:9998;display:flex;align-items:center;gap:8px;background:#E03131;color:#fff;border:0;border-radius:999px;padding:12px 18px;font-family:\'Space Mono\',monospace;font-size:12px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;cursor:pointer;box-shadow:0 6px 20px rgba(0,0,0,.4);');
+    fab.innerHTML = '<span style="font-size:14px;">↗</span> Share';
+    fab.addEventListener('click', function () { g.MDCT.share({}); });
+    document.body.appendChild(fab);
+  };
+
+  if (typeof document !== 'undefined') {
+    if (document.readyState !== 'loading') g.MDCT.initShare();
+    else document.addEventListener('DOMContentLoaded', g.MDCT.initShare);
+  }
 })(typeof window !== 'undefined' ? window : globalThis);
