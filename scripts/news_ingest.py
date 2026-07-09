@@ -162,7 +162,13 @@ def main() -> int:
         print("Nothing fresh from Google News this run.")
         return 0
 
-    raw_items = raw_items[:30]
+    def _pubdt(it):
+        try:
+            return parsedate_to_datetime(it.get("pub", ""))
+        except Exception:  # noqa: BLE001
+            return datetime(1970, 1, 1, tzinfo=timezone.utc)
+    raw_items.sort(key=_pubdt, reverse=True)  # freshest first, so the cap keeps the best
+    raw_items = raw_items[:45]
     known = _known_urls()
     catalog = "\n".join(
         f"[{i}] {it['title']} — {it['source']} ({it['pub']})"
@@ -172,7 +178,10 @@ def main() -> int:
 headlines pulled from Google News in the last day. Select ONLY the items that are (a)
 about Michigan's data-center buildout (projects, moratoria, hearings, power/water, tax,
 politics) and (b) genuinely newsworthy to a Michigan reader. Skip national trend pieces
-with no Michigan hook, pure PR, and duplicates.
+with no Michigan hook, pure PR, and duplicates. But select EVERY genuine Michigan
+data-center story here — a township vote, a county action, a specific project, a hearing,
+a lawsuit, a tax deal, a utility filing — not only the biggest one. A single local zoning
+decision matters to that community; do not leave real local stories on the table.
 
 WRITE A GENUINELY ORIGINAL HEADLINE FOR EACH — this is the golden rule and the News
 Director rejects anything that fails it:

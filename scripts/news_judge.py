@@ -51,9 +51,11 @@ Newsworthiness 1-10 for a MICHIGAN reader tracking the data-center buildout:
   3-4  national trend piece, thin rehash, speculation
   1-2  noise, PR, engagement bait
 
-Duplicate: true if it covers the same development as any ALREADY-LIVE or
-ALREADY-KILLED title below (same event reworded = duplicate; a genuinely new
-development in the same saga = not).
+Duplicate: true ONLY if it reports the SAME specific event/decision as an
+ALREADY-LIVE or ALREADY-KILLED title below (the identical vote, filing, or
+announcement, merely reworded). A NEW angle, a follow-up, a different town or
+county, a different body acting, or the next step in an ongoing saga is NOT a
+duplicate — pass those through. When unsure, it is NOT a duplicate.
 
 ALREADY LIVE (do not re-approve these developments):
 {live}
