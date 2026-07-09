@@ -2,7 +2,8 @@ name: Daily podcast (Michigan Data Wire)
 
 on:
   schedule:
-    - cron: "45 9 * * *"   # daily 9:45 UTC (~5:45am ET), after overnight wire runs
+    - cron: "0 11 * * *"   # 7:00 AM ET — "Mornings with Graham & Emmy"
+    - cron: "0 22 * * *"   # 6:00 PM ET — "Evenings with Graham & Emmy"
   workflow_dispatch: {}
 
 permissions:

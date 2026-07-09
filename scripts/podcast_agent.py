@@ -24,7 +24,7 @@ import re
 import subprocess
 import sys
 import urllib.request
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -84,10 +84,24 @@ def script_override() -> dict | None:
     return None
 
 
+def daypart() -> dict:
+    """Two shows a day with distinct branding: Mornings (7am ET) and Evenings
+    (6pm ET). The 2pm ET boundary decides which edition this run is."""
+    et = datetime.now(timezone.utc) + timedelta(hours=-4)
+    evening = et.hour >= 14
+    return {
+        "part": "Evenings" if evening else "Mornings",
+        "show": ("Evenings with Graham & Emmy" if evening else "Mornings with Graham & Emmy"),
+        "greeting": "Good evening" if evening else "Good morning",
+        "date_label": et.strftime("%A, %B %d"),
+    }
+
+
 def write_script() -> dict | None:
     override = script_override()
     if override:
         return override
+    dp = daypart()
     live = json.loads((ROOT / "live-data.json").read_text(encoding="utf-8"))
     stories = live.get("stories", [])[:10]
     meetings = live.get("meetings", [])[:5]
@@ -126,9 +140,10 @@ come in under 90 lines. Fill the time with genuine depth (history, stakes,
 what happens next), never with padding or repetition.
 
 STRUCTURE (95-125 lines total):
-1. COLD OPEN — Graham: "You're listening to the Michigan Data Wire — your daily
-   podcast on Michigan's data center buildout. I'm Graham." Emmy: "And I'm Emmy."
-   One line teasing today's big story.
+1. COLD OPEN — Graham: "{dp['greeting']}, and welcome to {dp['show']} — the Michigan
+   Data Wire, your podcast on Michigan's data center buildout. I'm Graham." Emmy: "And I'm
+   Emmy." One line teasing this edition's big story. (This is the {dp['part'].lower()[:-1]}
+   edition — reference the time of day naturally so it feels live and current.)
 2. THE BIG STORY (about 60%% of the show) — take the LEAD headline below and have a
    genuine conversation about the bigger issue behind it: the history of this fight,
    who the players are, what it means for electric bills, water, farmland, and towns,
@@ -182,6 +197,12 @@ Respond ONLY with JSON:
             print(f"::warning::script too short for a 12-minute show ({len(lines)} lines)")
             if len(lines) < 10:
                 return None
+        # Distinct branding per edition so each show looks new:
+        # "Mornings with Graham & Emmy" / "Evenings with Graham & Emmy".
+        script["episode_title"] = str(script.get("title", ""))[:90]
+        script["title"] = dp["show"]
+        script["show"] = dp["show"]
+        script["daypart"] = dp["part"]
         script["lines"] = lines
         return script
     except Exception as e:  # noqa: BLE001
@@ -272,6 +293,9 @@ def main() -> int:
     (POD / f"{today}.mp3").write_bytes(out.read_bytes())
     (POD / "latest.json").write_text(json.dumps({
         "date": today, "title": script.get("title", "Michigan Data Wire"),
+        "episode_title": script.get("episode_title", ""),
+        "show": script.get("show", "Michigan Data Wire"),
+        "daypart": script.get("daypart", ""),
         "teaser": script.get("teaser", ""), "minutes": minutes,
         "audio": "pod/latest.mp3", "hosts": ["Graham", "Emmy"],
     }, indent=1, ensure_ascii=False), encoding="utf-8")
