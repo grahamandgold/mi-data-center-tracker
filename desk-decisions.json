@@ -181,6 +181,41 @@
    "at": "2026-07-09T20:54:06+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Already live: 'Portage drafts rules to keep data centers out of neighborhoods' reports this same Portage zoning effort."
+  },
+  {
+   "url": "https://michiganadvance.com/2026/07/09/garfield-township-inches-closer-to-a-possible-data-center-moratorium/",
+   "title": "Garfield Residents Pack Meeting to Demand Data Center Ban Over Water and Power Use",
+   "at": "2026-07-09T22:40:39+00:00",
+   "by": "news_judge",
+   "note": "score 4/10, duplicate: Duplicate of already-live 'Hundreds pack hearing as Garfield Township pushes data-center moratorium' — same meeting, same event."
+  },
+  {
+   "url": "https://www.detroitnews.com/story/news/local/michigan/2026/07/09/data-center-proposal-mason-area-may-be-decided-by-state-officials/90859687007/",
+   "title": "U.S. Data Center Power Demand Surges as Tech Giants Accelerate AI Infrastructure",
+   "at": "2026-07-09T22:40:39+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicate of killed story 'U.S. Data Center Power Demand Surges as Tech Giants Accelerate AI Infrastructure Buildout' — identical national trend piece."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYVU3MkwxNzlDZUwtcjRGc2g1RHpNV3FVYUpBcGVCODJTZUhmdllwQWViWWpqcW51Qk5jNUxGVlNpNnhoSUs2STNJYmN2MFZzdFNhZkJVajc5d0dFUjI2V1ZhUDJRcEZTdFF1eVFqTXAzZTRudjJkZjlqRzdyalpGWEFGS3czblhadUV5YXRCYjZxclVyZWkzWXdsQnFUY0NndmlXS3F0RW1TU194d0EwWm9oaHk?oc=5",
+   "title": "Livingston researchers warn tax deals need case-by-case scrutiny",
+   "at": "2026-07-09T22:40:39+00:00",
+   "by": "news_judge",
+   "note": "score 4/10, duplicate: Duplicate of killed 'Michigan researchers push case-by-case review of every data-center tax deal' and 'Experts Urge Case-by-Case Review' — same advocacy angle, "
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORUR4QWJkYmhGY2ZzWjBhVUU0M09ONFZiYV9JWVZ1ZEJyaXZUbkpGeDVZVURSRHkwcUxNTl9qd09tdVV4dDN6UTVmRzFydEVhbnd2VkUtMW5QWkwxQkhfTU9rcVppbjZiYi12UjYtMGd4RHdUVllzaEZ3ZGQtRHVvbTg1RW1ZUE1SOVVLZ0VLNjVNbk1jb0h4SXVjbWN5N2s1YVM5V0RTRFdOd051?oc=5",
+   "title": "Garfield Twp edges toward year-long data center freeze",
+   "at": "2026-07-09T22:40:39+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: Duplicate of killed 'Garfield Township moves toward year-long data-center freeze' — same procedural step toward moratorium already covered live."
+  },
+  {
+   "url": "https://www.lenox-mi.gov/agendacenter",
+   "title": "Lenox Township sets public hearing on proposed I-94 Development District",
+   "at": "2026-07-09T22:40:39+00:00",
+   "by": "news_judge",
+   "note": "score 5/10: New hearing scheduled in different township on development district that may affect data-center siting — incremental but document-based and actionable."
   }
  ],
  "auto_published": [
