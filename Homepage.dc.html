@@ -818,7 +818,7 @@ class Component extends DCLogic {
     const feed = freshOnly.length >= 3 ? freshOnly : wire;
     const lead = feed.find(w => w.lead) || feed[0];
     const wireList = feed.filter(w => w !== lead).slice(0, 5);
-    const tickerItems = feed.slice(0, 6);
+    const tickerWire = feed.slice(0, 5);
 
     // ---- CMS feed: upcoming hearings (On Deck) ----
     const rawDeck = this.state.cmsDeck || (typeof window !== 'undefined' && window.MDCT_MEETINGS) || [];
@@ -844,6 +844,23 @@ class Component extends DCLogic {
         streamUrl: (m.stream && /^https:\/\//.test(m.stream)) ? m.stream : '',
       });
     });
+
+    // ---- Ticker: fresh stories (no timestamp under 3h) + upcoming meetings ----
+    const tstamp = (iso) => ((NOW - new Date(iso)) / 36e5 < 3) ? '' : (MDCT.ago ? MDCT.ago(iso, NOW) : '');
+    const wireTk = tickerWire.map(w => ({ url: w.url, title: w.title, timeAgo: tstamp(w.iso), timeColor: w.timeColor }));
+    const meetTk = onDeck.slice(0, 3).map(m => ({
+      url: m.agendaUrl || 'meetings.html',
+      title: m.body,
+      timeAgo: (m.countdown === 'Today' ? 'TONIGHT' : (m.mon + ' ' + m.day)),
+      timeColor: '#c9a24b',
+    }));
+    const tickerItems = [];
+    let twi = 0, tmi = 0;
+    while (tickerItems.length < 7 && (twi < wireTk.length || tmi < meetTk.length)) {
+      if (twi < wireTk.length) tickerItems.push(wireTk[twi++]);
+      if (twi < wireTk.length) tickerItems.push(wireTk[twi++]);
+      if (tmi < meetTk.length) tickerItems.push(meetTk[tmi++]);
+    }
 
     // ---- By the Numbers stats ----
     const stats = MDCT.stats ? MDCT.stats() : { projects: 0, disclosedGW: '0', pauses: 0, communities: 0, statusBreakdown: [], byRegion: [] };
