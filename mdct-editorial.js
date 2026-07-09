@@ -366,13 +366,19 @@
     if (!document.getElementById('wm-style')) {
       var st = document.createElement('style'); st.id = 'wm-style';
       st.textContent = [
-        '#wm-fab{position:fixed;right:20px;bottom:84px;z-index:9998;width:58px;height:58px;border-radius:50%;border:2px solid #E03131;background:#14100e;cursor:pointer;padding:0;overflow:hidden;display:grid;place-items:center;box-shadow:0 8px 26px rgba(0,0,0,.5);transition:transform .18s ease;}',
-        '#wm-fab:hover{transform:translateY(-2px) scale(1.05);}',
-        '#wm-fab img{width:100%;height:100%;object-fit:cover;display:block;border-radius:50%;}',
-        '#wm-fab .wm-ring{position:absolute;inset:-2px;border-radius:50%;border:2px solid #E03131;opacity:0;animation:wm-pulse 2.8s ease-out infinite;pointer-events:none;}',
-        '#wm-fab .wm-dot{position:absolute;bottom:2px;right:2px;width:11px;height:11px;border-radius:50%;background:#3fb950;border:2px solid #14100e;z-index:2;}',
-        '@keyframes wm-pulse{0%{transform:scale(1);opacity:.7;}70%,100%{transform:scale(1.55);opacity:0;}}',
-        '@media (prefers-reduced-motion:reduce){#wm-fab .wm-ring{animation:none;}}',
+        '#wm-fab{position:fixed;right:20px;bottom:84px;z-index:9998;display:flex;align-items:center;gap:10px;background:none;border:0;padding:0;cursor:pointer;}',
+        '#wm-fab .wm-label{background:#16140f;color:#f4f1ee;border:1px solid #E03131;border-radius:999px;padding:9px 14px;font-family:\'Space Mono\',monospace;font-size:11px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;box-shadow:0 6px 18px rgba(0,0,0,.4);white-space:nowrap;transition:transform .18s ease;}',
+        '#wm-fab:hover .wm-label{transform:translateY(-1px);}',
+        '#wm-fab .wm-ava{position:relative;width:56px;height:56px;border-radius:50%;flex-shrink:0;transition:transform .18s ease;}',
+        '#wm-fab:hover .wm-ava{transform:scale(1.05);}',
+        '#wm-fab .wm-pic{position:absolute;inset:0;border-radius:50%;border:2px solid #E03131;overflow:hidden;background:#14100e;box-shadow:0 8px 26px rgba(0,0,0,.5);z-index:1;}',
+        '#wm-fab .wm-pic img{width:100%;height:100%;object-fit:cover;object-position:center 28%;transform:scale(1.26);display:block;}',
+        '#wm-fab .wm-ring{position:absolute;inset:0;border-radius:50%;border:2px solid #E03131;opacity:0;animation:wm-pulse 2.2s ease-out infinite;pointer-events:none;}',
+        '#wm-fab .wm-ring.r2{animation-delay:1.1s;}',
+        '#wm-fab .wm-dot{position:absolute;bottom:2px;right:2px;width:12px;height:12px;border-radius:50%;background:#3fb950;border:2px solid #14100e;z-index:3;animation:wm-dot 2s ease-out infinite;}',
+        '@keyframes wm-pulse{0%{transform:scale(1);opacity:.85;}100%{transform:scale(1.7);opacity:0;}}',
+        '@keyframes wm-dot{0%{box-shadow:0 0 0 0 rgba(63,185,80,.6);}70%,100%{box-shadow:0 0 0 7px rgba(63,185,80,0);}}',
+        '@media (prefers-reduced-motion:reduce){#wm-fab .wm-ring,#wm-fab .wm-dot{animation:none;}}',
         '#wm-modal{position:fixed;inset:0;z-index:9999;display:flex;align-items:flex-end;justify-content:flex-end;padding:20px;font-family:Archivo,system-ui,sans-serif;}',
         '#wm-modal[hidden]{display:none;}',
         '#wm-modal .wm-bk{position:absolute;inset:0;background:rgba(0,0,0,.5);}',
@@ -381,7 +387,8 @@
         '#wm-modal .wm-x{position:absolute;top:10px;right:12px;background:none;border:0;color:#8a847c;font-size:22px;line-height:1;cursor:pointer;}',
         '#wm-modal .wm-x:hover{color:#f4f1ee;}',
         '#wm-modal .wm-head{display:flex;align-items:center;gap:12px;margin-bottom:12px;}',
-        '#wm-modal .wm-head img{width:46px;height:46px;border-radius:50%;border:2px solid #E03131;object-fit:cover;flex-shrink:0;}',
+        '#wm-modal .wm-head .wm-hpic{width:46px;height:46px;border-radius:50%;border:2px solid #E03131;overflow:hidden;flex-shrink:0;background:#14100e;}',
+        '#wm-modal .wm-head .wm-hpic img{width:100%;height:100%;object-fit:cover;object-position:center 28%;transform:scale(1.26);display:block;}',
         '#wm-modal .wm-name{font-family:\'Saira Condensed\',sans-serif;font-weight:800;font-size:21px;text-transform:uppercase;letter-spacing:.01em;}',
         '#wm-modal .wm-role{font-family:\'Space Mono\',monospace;font-size:10.5px;letter-spacing:.06em;color:#8a847c;text-transform:uppercase;margin-top:2px;}',
         '#wm-modal .wm-copy{font-size:14px;line-height:1.55;color:#c3beb9;margin:0 0 14px;}',
@@ -397,15 +404,17 @@
     }
     var fab = document.createElement('button');
     fab.id = 'wm-fab'; fab.type = 'button';
-    fab.setAttribute('aria-label', 'Ask Emmy, the Data Center Editor — flag a problem or send a tip');
-    fab.innerHTML = '<span class="wm-ring"></span><img src="' + AV + '" alt="Emmy, Data Center Editor"><span class="wm-dot"></span>';
+    fab.setAttribute('aria-label', 'Spot an error? Ask Emmy, the Data Center Editor — flag a problem or send a tip');
+    fab.innerHTML = '<span class="wm-label">Spot an error?</span>' +
+      '<span class="wm-ava"><span class="wm-ring"></span><span class="wm-ring r2"></span>' +
+      '<span class="wm-pic"><img src="' + AV + '" alt="Emmy, Data Center Editor"></span><span class="wm-dot"></span></span>';
     var modal = document.createElement('div');
     modal.id = 'wm-modal'; modal.setAttribute('role', 'dialog'); modal.setAttribute('aria-modal', 'true'); modal.hidden = true;
     modal.innerHTML =
       '<div class="wm-bk" data-wm-close></div>' +
       '<div class="wm-card">' +
         '<button class="wm-x" type="button" aria-label="Close" data-wm-close>×</button>' +
-        '<div class="wm-head"><img src="' + AV + '" alt="Emmy, Data Center Editor"><div><div class="wm-name">Emmy here</div><div class="wm-role">Data Center Editor · Michigan Data Center Tracker</div></div></div>' +
+        '<div class="wm-head"><span class="wm-hpic"><img src="' + AV + '" alt="Emmy, Data Center Editor"></span><div><div class="wm-name">Emmy here</div><div class="wm-role">Data Center Editor · Michigan Data Center Tracker</div></div></div>' +
         '<p class="wm-copy">I keep the map honest. Spot a wrong number, a missing project, or have a lead? Send it straight to me — it goes into the newsroom queue and I’ll get it on the map.</p>' +
         '<form id="wm-form" novalidate>' +
           '<textarea id="wm-msg" required rows="4" placeholder="What did you spot? A wrong number, a missing project, a tip…"></textarea>' +
