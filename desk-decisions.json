@@ -139,6 +139,27 @@
    "at": "2026-07-09T16:41:10+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Duplicate of already-live story 'State officials may decide Mason-area data center instead of locals' — same development, just reworded."
+  },
+  {
+   "url": "https://www.interlochenpublicradio.org/ipr-news/2026-07-09/garfield-township-inches-closer-to-a-possible-data-center-moratorium",
+   "title": "Garfield Township Backs Zoning Fix to Allow Data Center Moratorium",
+   "at": "2026-07-09T17:34:46+00:00",
+   "by": "news_judge",
+   "note": "score 4/10, duplicate: Duplicate of already-live 'Hundreds pack hearing as Garfield Township pushes data-center moratorium' — same event, same township action."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVXdTeWloWGg1c2JkVUxMeFdGNGRQam9ySVVZYTlHaEFBUUVySDdDbXVCOGNUNnF4N1o4bVdkQlNQZ2ZDYUw0YWs0VzhOQV9KN05EZGJsNnZwTnZzcm1idkwxZWcxbkVSRUVLcGtZMnAwWVZ3eXZ1c1lKZlhod1puSTN4WW4wSTVlYWc2ZXdsbTdDVjRTSGpoSU1wZUYzRUpRaE16bW1FZVRYRnVmUlYyQzFiY3BKUGhxYWdrbFFPRmNrLW9yT0E?oc=5",
+   "title": "Garfield Township moves toward year-long data-center freeze",
+   "at": "2026-07-09T17:34:46+00:00",
+   "by": "news_judge",
+   "note": "score 4/10, duplicate: Duplicate of already-live 'Hundreds pack hearing as Garfield Township pushes data-center moratorium' — same township, same moratorium action."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdzR4WVZkVEkwazNFWXBKRGNkVzRVQTB6eW9WN290MXg4U3BaSmFIZjhGc1VmRVZEdTJUc05zMklfRlRtb1YxOGQ5ejA3VWV4LWNLLVROMDI5cEhncmx0S0FWRmlLYjRnVEc2NndxMG1QQ1ZYQ2JzcHVRNkJCZkpvNVZmQld2UnlSR2FuaXQ3S1Rwdw?oc=5",
+   "title": "Oracle asks Saline to skip 12 years of taxes on $43B data center",
+   "at": "2026-07-09T17:34:46+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: Duplicate of already-live 'Oracle asks Saline Twp to skip 12 years of taxes on $43B campus' — same tax break request."
   }
  ],
  "auto_published": [
@@ -189,6 +210,24 @@
    "title": "State officials may decide Mason-area data center instead of locals",
    "judge_score": 8,
    "at": "2026-07-09T12:23:32Z"
+  },
+  {
+   "url": "https://thesuntimesnews.com/saline-township-delays-vote-on-oracle-data-center-tax-break/",
+   "title": "Saline Township Delays 12-Year Tax Cut for Oracle Data Center",
+   "judge_score": 8,
+   "at": "2026-07-09T17:34:47Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaUI5N3poQk9makJjdjFrT2czbHBTcmZtbEdqYzZUMWE1N1luSV82NWhhenZDOHY5bWh3Y2U1T3M5MzIxd2RjczhJMmNQZVhGaFpCSDNlZGdXSldPNGdhMkoyYk1aUG1SZFNySjZ0ZjhkaHVBWVJ2UFFLZW9xU3BiM0Y1WjlGQXM?oc=5",
+   "title": "Michigan town sues over nonstop data-center noise in federal court",
+   "judge_score": 7,
+   "at": "2026-07-09T17:34:47Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUlZrd0prX0dOMmJXWWxMcjYtR20tUnUxY2JEUGhnc2lTX0JadFVXeDNzclRHLWM3SFFVNXJJYl9yZy0tejQwMkM1OVYxdkpmUDBRelRLZ1JpRzRWZExzMFp4dm1POUZjNGFHTlBGZEt6TWlEWVJOUElqbG04QTJZNmZEUUVicGNacVl1NnRkb255UjQ0SURGT1FieWtManp4d3BJMFdhVjQ4WVdVdkZOdnFjRGlCQzJmUldyY29TWlBCTjRaQ2p4aHhnalN5X3lLWEtUekxGc1FKUzA?oc=5",
+   "title": "Eaton planners flag power and water risks from Amazon-linked site",
+   "judge_score": 7,
+   "at": "2026-07-09T17:34:47Z"
   }
  ]
 }
