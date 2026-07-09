@@ -28,14 +28,8 @@ jobs:
         run: python scripts/build_story_pages.py
 
       - name: Commit if changed
+        env:
+          GIT_NAME: story-pages
+          GIT_EMAIL: story-pages@users.noreply.github.com
         run: |
-          if git status --porcelain stories/pages sitemap-stories.xml | grep -q .; then
-            git config user.name "story-pages"
-            git config user.email "story-pages@users.noreply.github.com"
-            git add stories/pages sitemap-stories.xml
-            git commit -m "SEO: refresh static story pages"
-            git pull --rebase origin main
-            git push
-          else
-            echo "No change."
-          fi
+          bash scripts/safe_commit.sh "SEO: refresh static story pages" stories/pages sitemap-stories.xml

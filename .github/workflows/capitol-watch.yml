@@ -29,14 +29,8 @@ jobs:
         run: python scripts/capitol_watch.py
 
       - name: Commit if changed
+        env:
+          GIT_NAME: capitol-watch
+          GIT_EMAIL: capitol-watch@users.noreply.github.com
         run: |
-          if git status --porcelain live-data.json live-data-pending.json capitol-state.json | grep -q .; then
-            git config user.name "capitol-watch"
-            git config user.email "capitol-watch@users.noreply.github.com"
-            git add live-data.json live-data-pending.json capitol-state.json
-            git commit -m "Capitol watch $(date -u +'%Y-%m-%d %H:%M UTC')"
-            git pull --rebase origin main
-            git push
-          else
-            echo "No legislative changes."
-          fi
+          bash scripts/safe_commit.sh "Capitol watch $(date -u +'%Y-%m-%d %H:%M UTC')" live-data.json live-data-pending.json capitol-state.json

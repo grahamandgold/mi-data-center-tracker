@@ -31,14 +31,8 @@ jobs:
         run: python scripts/lessons_audit.py
 
       - name: Commit if changed
+        env:
+          GIT_NAME: lessons-audit
+          GIT_EMAIL: lessons-audit@users.noreply.github.com
         run: |
-          if git status --porcelain desk-lessons.json | grep -q .; then
-            git config user.name "lessons-audit"
-            git config user.email "lessons-audit@users.noreply.github.com"
-            git add desk-lessons.json
-            git commit -m "Lessons audit: recompiled style guide $(date -u +'%Y-%m-%d')"
-            git pull --rebase origin main
-            git push
-          else
-            echo "Style guide unchanged."
-          fi
+          bash scripts/safe_commit.sh "Lessons audit: recompiled style guide $(date -u +'%Y-%m-%d')" desk-lessons.json

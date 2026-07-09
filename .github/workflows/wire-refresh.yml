@@ -59,14 +59,8 @@ jobs:
         run: python scripts/auto_publish.py
 
       - name: Commit if changed
+        env:
+          GIT_NAME: grok-wire-agent
+          GIT_EMAIL: wire-agent@users.noreply.github.com
         run: |
-          if git status --porcelain live-data.json live-data-pending.json desk-decisions.json | grep -q .; then
-            git config user.name "grok-wire-agent"
-            git config user.email "wire-agent@users.noreply.github.com"
-            git add live-data.json live-data-pending.json desk-decisions.json
-            git commit -m "Wire: file to desk queue $(date -u +'%Y-%m-%d %H:%M UTC')"
-            git pull --rebase origin main
-            git push
-          else
-            echo "No changes — skipping commit."
-          fi
+          bash scripts/safe_commit.sh "Wire: file to desk queue $(date -u +'%Y-%m-%d %H:%M UTC')" live-data.json live-data-pending.json desk-decisions.json
