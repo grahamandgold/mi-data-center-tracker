@@ -45,7 +45,7 @@ LIVE = ROOT / "live-data.json"
 PENDING = ROOT / "live-data-pending.json"
 DECISIONS = ROOT / "desk-decisions.json"
 
-FRESH_HOURS = float(os.environ.get("INGEST_FRESH_HOURS", "20"))
+FRESH_HOURS = float(os.environ.get("INGEST_FRESH_HOURS", "40"))
 MAX_CANDIDATES = int(os.environ.get("INGEST_MAX", "14"))
 UA = {"User-Agent": "Mozilla/5.0 (Michigan Data Center Tracker news desk)"}
 
@@ -55,14 +55,28 @@ QUERIES = [
     "michigan data center moratorium",
     "michigan data center tax",
     "michigan data center hearing",
+    "michigan data center zoning",
+    "michigan data center rezoning",
+    "michigan data center water",
+    "michigan data center opposition",
+    "michigan township data center",
+    "michigan hyperscale data center",
+    "michigan AI data center",
+    "consumers energy data center",
+    "DTE data center michigan",
+    "michigan data center jobs",
+    "michigan data center power grid",
 ]
 HOT_ZONES = ["Saline Township", "Lyon Township", "Pittsfield", "Lenox Township",
-             "Dowagiac", "Hayes Township", "Wixom", "Mundy Township"]
+             "Dowagiac", "Hayes Township", "Wixom", "Mundy Township",
+             "Marshall Michigan", "Mason Michigan", "Adrian Michigan", "Garfield Township",
+             "Ingham County", "Genesee County", "Washtenaw County", "Monroe County",
+             "Eaton County", "Grand Rapids"]
 
 
 def _rss(query: str) -> list[dict]:
     url = ("https://news.google.com/rss/search?q="
-           + urllib.parse.quote(query + " when:2d")
+           + urllib.parse.quote(query + " when:4d")
            + "&hl=en-US&gl=US&ceid=US:en")
     try:
         with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=20) as r:
@@ -114,7 +128,7 @@ def _headline_original(ours: str, source: str) -> bool:
     if not a or not b:
         return True
     overlap = len(a & b) / len(a | b)
-    return overlap < 0.5
+    return overlap < 0.38
 
 
 def _known_urls() -> set:

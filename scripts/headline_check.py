@@ -53,18 +53,30 @@ def fetch_text(url: str) -> str:
 
 def judge(story: dict, article: str) -> dict | None:
     prompt = (
-        "You are a wire editor doing an accuracy check. Judge ONLY from the article text given — "
-        "do not use outside knowledge for facts.\n\n"
+        "You are the wire editor of the Michigan Data Center Tracker doing an accuracy + "
+        "headline pass. Judge ONLY from the article text given — do not use outside knowledge "
+        "for facts.\n\n"
         "ARTICLE TEXT (extracted, may be partial):\n" + article + "\n\n"
         "OUR HEADLINE: " + story.get("title", "") + "\n"
         "OUR DEK: " + story.get("dek", "") + "\n\n"
-        "Questions: Does the headline+dek accurately portray this article? Check numbers, names, "
-        "places, what actually happened vs. what is proposed, and tone (no overstatement). Also "
-        "confirm the headline is NOT a copy of the article's own headline.\n\n"
-        'Respond ONLY with JSON: {"verdict": "accurate|fixable|inaccurate", '
+        "Check two things: (1) Does the headline+dek accurately portray THIS article — numbers, "
+        "names, places, what actually happened vs. what is only proposed, and tone (no "
+        "overstatement)? (2) Is the headline written in OUR OWN words, not a copy or light "
+        "paraphrase of the outlet's own headline?\n\n"
+        "RULES — do NOT discard salvageable stories:\n"
+        "- Accurate AND original -> verdict \"accurate\".\n"
+        "- Inaccurate, overstated, OR too close to the outlet's headline -> verdict \"rewrite\", "
+        "and WRITE A BETTER ONE: a fresh, fully accurate, compelling headline (<= 90 chars) and a "
+        "1-2 sentence dek, strictly supported by the article, in our own voice. Lead with the "
+        "stake a Michigan resident feels — dollars, megawatts, water, land, who wins or loses — "
+        "not procedural jargon. Never use \"weighs\", \"considers\", \"to review\", acronyms, "
+        "\"update\", or \"latest\". Keep every fact traceable to the article.\n"
+        "- ONLY verdict \"unsupported\" if the article does not support the story's basic claim "
+        "at all (then it is dropped).\n\n"
+        'Respond ONLY with JSON: {"verdict": "accurate|rewrite|unsupported", '
         '"issues": "<short reason or empty>", '
-        '"fixed_title": "<corrected original-language headline if fixable, else empty>", '
-        '"fixed_dek": "<corrected dek if fixable, else empty>"}'
+        '"fixed_title": "<the better accurate headline when verdict=rewrite, else empty>", '
+        '"fixed_dek": "<the better accurate dek when verdict=rewrite, else empty>"}'
     )
     import xai_client
     body = {"model": MODEL, "messages": [{"role": "user", "content": prompt}],
@@ -110,17 +122,22 @@ def main() -> int:
         if verdict == "accurate":
             s["accuracy"] = "checked"
             kept.append(s)
-        elif verdict == "fixable" and v.get("fixed_title"):
-            s["title"] = v["fixed_title"]
+        elif v.get("fixed_title"):
+            # rewrite-in-place: keep the story, but with a better, accurate,
+            # original headline (and dek) written from the article. Never drop a
+            # real story just because its headline was weak or too close to source.
+            s["title"] = v["fixed_title"][:130]
             if v.get("fixed_dek"):
-                s["dek"] = v["fixed_dek"]
-            s["accuracy"] = "checked-corrected"
+                s["dek"] = v["fixed_dek"][:600]
+            s["accuracy"] = "checked-rewritten"
+            s["headline_rewritten"] = True  # a fresh, source-grounded headline
             fixed.append(s["title"][:70])
             kept.append(s)
-        elif verdict == "inaccurate":
+        elif verdict == "unsupported":
+            # only drop when the article does not support the story's basic claim
             dropped.append((s.get("title", "")[:70], v.get("issues", "")))
         else:
-            # judge failed — keep but flag rather than silently trusting
+            # judge failed / no fix offered — keep but flag rather than silently trusting
             s["accuracy"] = "unverified-judge-error"
             kept.append(s)
 

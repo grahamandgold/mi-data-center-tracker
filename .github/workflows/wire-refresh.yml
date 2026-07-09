@@ -2,7 +2,7 @@ name: Hourly wire refresh (Grok agent)
 
 on:
   schedule:
-    - cron: "15 * * * *"   # every hour at :15 UTC
+    - cron: "5,35 * * * *"   # twice an hour (:05 and :35 UTC) — keep the desk fed
   workflow_dispatch: {}     # manual run button
 
 permissions:
