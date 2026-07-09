@@ -356,8 +356,106 @@
     document.body.appendChild(fab);
   };
 
+  // Ask Emmy — reader feedback helper (the Data Center Editor). Injected the
+  // same way as the share FAB so it survives the homepage bundler wiping <body>.
+  // Submissions POST to MDCT_FEEDBACK_URL (the desk's /api/community-question);
+  // if that's unset/unreachable it falls back to an email so a tip is never lost.
+  g.MDCT.initEmmyWidget = function () {
+    if (typeof document === 'undefined' || document.getElementById('wm-fab')) return;
+    var AV = '/mi-data-center-tracker/img/team/emmy.jpg';
+    if (!document.getElementById('wm-style')) {
+      var st = document.createElement('style'); st.id = 'wm-style';
+      st.textContent = [
+        '#wm-fab{position:fixed;right:20px;bottom:84px;z-index:9998;width:58px;height:58px;border-radius:50%;border:2px solid #E03131;background:#14100e;cursor:pointer;padding:0;overflow:hidden;display:grid;place-items:center;box-shadow:0 8px 26px rgba(0,0,0,.5);transition:transform .18s ease;}',
+        '#wm-fab:hover{transform:translateY(-2px) scale(1.05);}',
+        '#wm-fab img{width:100%;height:100%;object-fit:cover;display:block;border-radius:50%;}',
+        '#wm-fab .wm-ring{position:absolute;inset:-2px;border-radius:50%;border:2px solid #E03131;opacity:0;animation:wm-pulse 2.8s ease-out infinite;pointer-events:none;}',
+        '#wm-fab .wm-dot{position:absolute;bottom:2px;right:2px;width:11px;height:11px;border-radius:50%;background:#3fb950;border:2px solid #14100e;z-index:2;}',
+        '@keyframes wm-pulse{0%{transform:scale(1);opacity:.7;}70%,100%{transform:scale(1.55);opacity:0;}}',
+        '@media (prefers-reduced-motion:reduce){#wm-fab .wm-ring{animation:none;}}',
+        '#wm-modal{position:fixed;inset:0;z-index:9999;display:flex;align-items:flex-end;justify-content:flex-end;padding:20px;font-family:Archivo,system-ui,sans-serif;}',
+        '#wm-modal[hidden]{display:none;}',
+        '#wm-modal .wm-bk{position:absolute;inset:0;background:rgba(0,0,0,.5);}',
+        '#wm-modal .wm-card{position:relative;width:min(384px,92vw);background:#16140f;border:1px solid #322e29;border-radius:10px;padding:20px;box-shadow:0 20px 60px rgba(0,0,0,.6);color:#f4f1ee;animation:wm-in .22s cubic-bezier(.2,.9,.3,1.1);}',
+        '@keyframes wm-in{from{transform:translateY(14px) scale(.98);opacity:0;}to{transform:none;opacity:1;}}',
+        '#wm-modal .wm-x{position:absolute;top:10px;right:12px;background:none;border:0;color:#8a847c;font-size:22px;line-height:1;cursor:pointer;}',
+        '#wm-modal .wm-x:hover{color:#f4f1ee;}',
+        '#wm-modal .wm-head{display:flex;align-items:center;gap:12px;margin-bottom:12px;}',
+        '#wm-modal .wm-head img{width:46px;height:46px;border-radius:50%;border:2px solid #E03131;object-fit:cover;flex-shrink:0;}',
+        '#wm-modal .wm-name{font-family:\'Saira Condensed\',sans-serif;font-weight:800;font-size:21px;text-transform:uppercase;letter-spacing:.01em;}',
+        '#wm-modal .wm-role{font-family:\'Space Mono\',monospace;font-size:10.5px;letter-spacing:.06em;color:#8a847c;text-transform:uppercase;margin-top:2px;}',
+        '#wm-modal .wm-copy{font-size:14px;line-height:1.55;color:#c3beb9;margin:0 0 14px;}',
+        '#wm-modal form{display:flex;flex-direction:column;gap:10px;}',
+        '#wm-modal textarea,#wm-modal input[type=email]{width:100%;box-sizing:border-box;background:#0f0e0d;border:1px solid #322e29;border-radius:6px;color:#f4f1ee;font-family:Archivo,sans-serif;font-size:14px;padding:11px 12px;outline:none;resize:vertical;}',
+        '#wm-modal textarea:focus,#wm-modal input[type=email]:focus{border-color:#E03131;}',
+        '#wm-modal .wm-send{background:#E03131;color:#fff;border:0;border-radius:6px;font-family:\'Space Mono\',monospace;font-size:13px;font-weight:700;letter-spacing:.03em;padding:12px;cursor:pointer;}',
+        '#wm-modal .wm-send:hover{background:#f24343;}#wm-modal .wm-send:disabled{opacity:.6;cursor:default;}',
+        '#wm-modal .wm-ok{margin-top:12px;font-size:14px;color:#9bd49b;line-height:1.5;}',
+        '@media (max-width:480px){#wm-modal .wm-card{width:100%;}}'
+      ].join('');
+      (document.head || document.documentElement).appendChild(st);
+    }
+    var fab = document.createElement('button');
+    fab.id = 'wm-fab'; fab.type = 'button';
+    fab.setAttribute('aria-label', 'Ask Emmy, the Data Center Editor — flag a problem or send a tip');
+    fab.innerHTML = '<span class="wm-ring"></span><img src="' + AV + '" alt="Emmy, Data Center Editor"><span class="wm-dot"></span>';
+    var modal = document.createElement('div');
+    modal.id = 'wm-modal'; modal.setAttribute('role', 'dialog'); modal.setAttribute('aria-modal', 'true'); modal.hidden = true;
+    modal.innerHTML =
+      '<div class="wm-bk" data-wm-close></div>' +
+      '<div class="wm-card">' +
+        '<button class="wm-x" type="button" aria-label="Close" data-wm-close>×</button>' +
+        '<div class="wm-head"><img src="' + AV + '" alt="Emmy, Data Center Editor"><div><div class="wm-name">Emmy here</div><div class="wm-role">Data Center Editor · Michigan Data Center Tracker</div></div></div>' +
+        '<p class="wm-copy">I keep the map honest. Spot a wrong number, a missing project, or have a lead? Send it straight to me — it goes into the newsroom queue and I’ll get it on the map.</p>' +
+        '<form id="wm-form" novalidate>' +
+          '<textarea id="wm-msg" required rows="4" placeholder="What did you spot? A wrong number, a missing project, a tip…"></textarea>' +
+          '<input id="wm-email" type="email" placeholder="Email (optional — only if you want a reply)" autocomplete="email">' +
+          '<input id="wm-hp" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;width:1px;height:1px;opacity:0;">' +
+          '<button type="submit" class="wm-send" id="wm-send">Send it to Emmy →</button>' +
+        '</form>' +
+        '<div id="wm-ok" class="wm-ok" hidden>✅ Got it — thank you. It’s in the newsroom queue; Emmy will review it and the map will follow.</div>' +
+      '</div>';
+    document.body.appendChild(fab);
+    document.body.appendChild(modal);
+
+    var open = function () { modal.hidden = false; setTimeout(function () { var m = document.getElementById('wm-msg'); if (m) m.focus(); }, 60); };
+    var close = function () { modal.hidden = true; };
+    fab.addEventListener('click', open);
+    modal.addEventListener('click', function (e) { if (e.target.hasAttribute('data-wm-close')) close(); });
+    document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && !modal.hidden) close(); });
+    modal.querySelector('#wm-form').addEventListener('submit', function (e) {
+      e.preventDefault();
+      var msg = document.getElementById('wm-msg'), email = document.getElementById('wm-email'),
+          hp = document.getElementById('wm-hp'), btn = document.getElementById('wm-send'),
+          ok = document.getElementById('wm-ok'), form = this;
+      var text = (msg.value || '').trim(); if (text.length < 3) { msg.focus(); return; }
+      btn.disabled = true; btn.textContent = 'Sending…';
+      var payload = { message: text, email: (email.value || '').trim(), website: (hp.value || ''),
+        source: 'Reader tip → Emmy (Data Center Editor)', url: location.href, at: new Date().toISOString() };
+      var endpoint = g.MDCT_FEEDBACK_URL || window.MDCT_FEEDBACK_URL || '/api/community-question';
+      fetch(endpoint, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload) })
+        .then(function (r) { if (!r.ok) throw 0; form.hidden = true; ok.hidden = false; })
+        .catch(function () {
+          var sub = encodeURIComponent('Tracker tip for Emmy (Data Center Editor)');
+          var body = encodeURIComponent(text + '\n\n— sent from ' + location.href + (payload.email ? ('\nreply to: ' + payload.email) : ''));
+          window.location.href = 'mailto:andy@fortlauderdalesignal.com?subject=' + sub + '&body=' + body;
+          form.hidden = true; ok.hidden = false;
+        })
+        .then(function () { btn.disabled = false; btn.textContent = 'Send it to Emmy →'; });
+    });
+
+    // Resilience: if a client-side re-render clears <body>, put Emmy back.
+    try {
+      new MutationObserver(function () {
+        if (document.body && !document.body.contains(fab)) document.body.appendChild(fab);
+        if (document.body && !document.body.contains(modal)) document.body.appendChild(modal);
+      }).observe(document.documentElement, { childList: true, subtree: true });
+    } catch (e) { /* no-op */ }
+  };
+
   if (typeof document !== 'undefined') {
-    if (document.readyState !== 'loading') g.MDCT.initShare();
-    else document.addEventListener('DOMContentLoaded', g.MDCT.initShare);
+    var _mdctInit = function () { g.MDCT.initShare(); g.MDCT.initEmmyWidget(); };
+    if (document.readyState !== 'loading') _mdctInit();
+    else document.addEventListener('DOMContentLoaded', _mdctInit);
   }
 })(typeof window !== 'undefined' ? window : globalThis);
