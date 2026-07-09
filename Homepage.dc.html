@@ -314,28 +314,6 @@
       </div>
     </div>
 
-    <!-- podcast bar -->
-    <div class="pod {{ podCls }} pod-inner" style="padding:20px 44px;background:#100f0e;border-bottom:1px solid #201d19;">
-      <div class="giga-card" style="position:relative;overflow:hidden;background:linear-gradient(118deg,#20140f,#15110d 60%);border:1px solid #4a352c;border-left:3px solid #E03131;border-radius:14px;box-shadow:0 16px 40px rgba(0,0,0,.5),0 0 60px rgba(224,49,49,.10);">
-        <svg class="giga-waves" aria-hidden="true" viewBox="0 0 220 220" style="position:absolute;left:162px;top:50%;transform:translateY(-50%);width:206px;height:206px;pointer-events:none;z-index:0;overflow:visible;"><circle cx="0" cy="110" r="16" fill="none" stroke="#E03131" stroke-width="1.6" opacity="0"><animate attributeName="r" values="14;74" dur="3.8s" begin="0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.3;0" dur="3.8s" begin="0s" repeatCount="indefinite"/></circle><circle cx="0" cy="110" r="16" fill="none" stroke="#E03131" stroke-width="1.6" opacity="0"><animate attributeName="r" values="14;74" dur="3.8s" begin="1.27s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.3;0" dur="3.8s" begin="1.27s" repeatCount="indefinite"/></circle><circle cx="0" cy="110" r="16" fill="none" stroke="#E03131" stroke-width="1.6" opacity="0"><animate attributeName="r" values="14;74" dur="3.8s" begin="2.54s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.3;0" dur="3.8s" begin="2.54s" repeatCount="indefinite"/></circle></svg>
-        <div class="giga-inner" style="position:relative;z-index:1;display:flex;align-items:center;gap:24px;padding:16px 26px;">
-          <div class="giga-hosts" onclick="{{ togglePod }}" role="button" tabindex="0" aria-label="Play the latest episode" style="flex-shrink:0;width:190px;height:116px;border-radius:10px;overflow:hidden;border:1px solid #4a352c;box-sizing:border-box;box-shadow:0 2px 12px rgba(0,0,0,.4);cursor:pointer;background:#16140f;position:relative;">
-            <video src="pod/gigacast-hosts.mp4" poster="img/gigacast-hosts.jpg" autoplay loop muted playsinline preload="metadata" aria-hidden="true" style="width:100%;height:100%;object-fit:cover;object-position:center 12%;display:block;"></video>
-            <span aria-hidden="true" style="position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);width:46px;height:46px;border-radius:50%;background:rgba(224,49,49,.94);display:grid;place-items:center;box-shadow:0 4px 18px rgba(0,0,0,.55);color:#fff;font-size:16px;">{{ podIcon }}</span>
-          </div>
-          <div style="flex-shrink:0;text-align:left;">
-            <div style="display:flex;align-items:center;gap:8px;margin-bottom:3px;"><span class="ld" style="width:7px;height:7px;border-radius:50%;background:#E03131;"></span><span style="font-family:'Space Mono',monospace;font-size:10.5px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:#E03131;">Data Center Radio</span></div>
-            <div style="display:flex;align-items:baseline;gap:11px;"><span style="font-family:'Saira Condensed',sans-serif;font-weight:800;font-size:28px;line-height:1;letter-spacing:.01em;color:#f6f3f0;text-transform:uppercase;">The Gigacast</span><span style="font-family:'Space Mono',monospace;font-size:10.5px;letter-spacing:.04em;color:#8c8884;">{{ podDate }} · {{ podDur }}</span></div>
-            <div style="font-family:'Space Mono',monospace;font-size:10px;letter-spacing:.05em;color:#9a938c;margin-top:5px;">Mornings & Evenings with Graham & Emmy</div>
-          </div>
-          <div class="pod-wave" style="flex:1;display:flex;align-items:flex-end;justify-content:flex-end;gap:3px;height:38px;min-width:60px;overflow:hidden;">
-            <sc-for list="{{ bars }}" as="b" hint-placeholder-count="40"><span class="podbar" style="height:{{ b.h }};animation-delay:{{ b.delay }};"></span></sc-for>
-          </div>
-          <button type="button" onclick="if(window.MDCT&&MDCT.share)MDCT.share()" aria-label="Share The Gigacast" style="flex-shrink:0;display:flex;align-items:center;gap:7px;background:transparent;border:1px solid #5a4038;color:#f4f1ee;border-radius:999px;padding:9px 15px;font-family:'Space Mono',monospace;font-size:11px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;cursor:pointer;"><span style="color:#E03131;font-size:13px;">&#8599;</span> Share</button>
-          <audio id="pod-audio" preload="none" src="pod/latest.mp3"></audio>
-        </div>
-      </div>
-    </div>
       <section class="hero-section section-pad" style="display:flex;gap:48px;padding:26px 44px 18px;position:relative;overflow:hidden;isolation:isolate;background:radial-gradient(120% 120% at 80% -10%, #1c1a15 0%, #100f0e 60%);">
       <div style="position:absolute;top:54%;left:32%;width:820px;height:820px;transform:translate(-50%,-50%);border-radius:50%;background:conic-gradient(from 0deg, rgba(224,49,49,.26), rgba(224,49,49,.04) 26%, transparent 44%);animation:radar-sweep 12s linear infinite;pointer-events:none;z-index:0;"></div>
       <div class="hero-copy" style="position:relative;z-index:1;flex:1 1 52%;min-width:0;display:flex;flex-direction:column;justify-content:center;">
@@ -450,6 +428,29 @@
         </div>
       </div>
     </section>
+
+    <!-- podcast bar -->
+    <div class="pod {{ podCls }} pod-inner" style="padding:20px 44px;background:#100f0e;border-bottom:1px solid #201d19;">
+      <div class="giga-card" style="position:relative;overflow:hidden;background:linear-gradient(118deg,#20140f,#15110d 60%);border:1px solid #4a352c;border-left:3px solid #E03131;border-radius:14px;box-shadow:0 16px 40px rgba(0,0,0,.5),0 0 60px rgba(224,49,49,.10);">
+        <svg class="giga-waves" aria-hidden="true" viewBox="0 0 220 220" style="position:absolute;left:162px;top:50%;transform:translateY(-50%);width:206px;height:206px;pointer-events:none;z-index:0;overflow:visible;"><circle cx="0" cy="110" r="16" fill="none" stroke="#E03131" stroke-width="1.6" opacity="0"><animate attributeName="r" values="14;74" dur="3.8s" begin="0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.3;0" dur="3.8s" begin="0s" repeatCount="indefinite"/></circle><circle cx="0" cy="110" r="16" fill="none" stroke="#E03131" stroke-width="1.6" opacity="0"><animate attributeName="r" values="14;74" dur="3.8s" begin="1.27s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.3;0" dur="3.8s" begin="1.27s" repeatCount="indefinite"/></circle><circle cx="0" cy="110" r="16" fill="none" stroke="#E03131" stroke-width="1.6" opacity="0"><animate attributeName="r" values="14;74" dur="3.8s" begin="2.54s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.3;0" dur="3.8s" begin="2.54s" repeatCount="indefinite"/></circle></svg>
+        <div class="giga-inner" style="position:relative;z-index:1;display:flex;align-items:center;gap:24px;padding:16px 26px;">
+          <div class="giga-hosts" onclick="{{ togglePod }}" role="button" tabindex="0" aria-label="Play the latest episode" style="flex-shrink:0;width:190px;height:116px;border-radius:10px;overflow:hidden;border:1px solid #4a352c;box-sizing:border-box;box-shadow:0 2px 12px rgba(0,0,0,.4);cursor:pointer;background:#16140f;position:relative;">
+            <video src="pod/gigacast-hosts.mp4" poster="img/gigacast-hosts.jpg" autoplay loop muted playsinline preload="metadata" aria-hidden="true" style="width:100%;height:100%;object-fit:cover;object-position:center 12%;display:block;"></video>
+            <span aria-hidden="true" style="position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);width:46px;height:46px;border-radius:50%;background:rgba(224,49,49,.94);display:grid;place-items:center;box-shadow:0 4px 18px rgba(0,0,0,.55);color:#fff;font-size:16px;">{{ podIcon }}</span>
+          </div>
+          <div style="flex-shrink:0;text-align:left;">
+            <div style="display:flex;align-items:center;gap:8px;margin-bottom:3px;"><span class="ld" style="width:7px;height:7px;border-radius:50%;background:#E03131;"></span><span style="font-family:'Space Mono',monospace;font-size:10.5px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:#E03131;">Data Center Radio</span></div>
+            <div style="display:flex;align-items:baseline;gap:11px;"><span style="font-family:'Saira Condensed',sans-serif;font-weight:800;font-size:28px;line-height:1;letter-spacing:.01em;color:#f6f3f0;text-transform:uppercase;">The Gigacast</span><span style="font-family:'Space Mono',monospace;font-size:10.5px;letter-spacing:.04em;color:#8c8884;">{{ podDate }} · {{ podDur }}</span></div>
+            <div style="font-family:'Space Mono',monospace;font-size:10px;letter-spacing:.05em;color:#9a938c;margin-top:5px;">Mornings & Evenings with Graham & Emmy</div>
+          </div>
+          <div class="pod-wave" style="flex:1;display:flex;align-items:flex-end;justify-content:flex-end;gap:3px;height:38px;min-width:60px;overflow:hidden;">
+            <sc-for list="{{ bars }}" as="b" hint-placeholder-count="40"><span class="podbar" style="height:{{ b.h }};animation-delay:{{ b.delay }};"></span></sc-for>
+          </div>
+          <button type="button" onclick="if(window.MDCT&&MDCT.share)MDCT.share()" aria-label="Share The Gigacast" style="flex-shrink:0;display:flex;align-items:center;gap:7px;background:transparent;border:1px solid #5a4038;color:#f4f1ee;border-radius:999px;padding:9px 15px;font-family:'Space Mono',monospace;font-size:11px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;cursor:pointer;"><span style="color:#E03131;font-size:13px;">&#8599;</span> Share</button>
+          <audio id="pod-audio" preload="none" src="pod/latest.mp3"></audio>
+        </div>
+      </div>
+    </div>
 
     <!-- ON DECK -->
     <section class="section-pad" style="padding:16px 44px 2px;">
