@@ -128,14 +128,25 @@
   };
 
   // Homepage rule (News Director): a story never leaves until a fresh one
-  // replaces it. So we simply show the newest stories, sorted — fresh items
-  // published by the wire push the oldest off the bottom. The page is never
-  // blanked by age; freshness comes from replacement, not expiry.
+  // replaces it — show newest MAX_STORIES, fresh pushes old off the bottom.
+  // TOP STORY = biggest fresh story: highest newsworthiness score among the
+  // last LEAD_HOURS leads (ties break by newest); the rest stay newest-first.
   g.MDCT.MAX_STORIES = 11;
+  g.MDCT.LEAD_HOURS = 12;
   g.MDCT.headlines = function () {
-    return (g.MDCT_HEADLINES || []).slice().sort(function (a, b) {
+    var all = (g.MDCT_HEADLINES || []).slice().sort(function (a, b) {
       return new Date(b.iso) - new Date(a.iso);
     }).slice(0, g.MDCT.MAX_STORIES);
+    var now = Date.now();
+    var score = function (s) { return typeof s.judge_score === 'number' ? s.judge_score : 5; };
+    var fresh = all.filter(function (s) {
+      return (now - new Date(s.iso).getTime()) / 36e5 <= g.MDCT.LEAD_HOURS;
+    });
+    if (!fresh.length) return all;
+    var lead = fresh.slice().sort(function (a, b) {
+      return score(b) - score(a) || (new Date(b.iso) - new Date(a.iso));
+    })[0];
+    return [lead].concat(all.filter(function (s) { return s !== lead; }));
   };
 
   g.MDCT.meetings = function () {
