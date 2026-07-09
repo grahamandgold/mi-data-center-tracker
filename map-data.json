@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-09T10:47:35Z",
+ "updated_at": "2026-07-09T16:40:27+00:00",
  "map_points": [
   {
    "name": "Saline Township campus (Stargate)",
@@ -898,22 +898,6 @@
    "note": "Community listening sessions Jan. 26–27 at Okemos Event Center."
   },
   {
-   "name": "Lenox Township board meeting",
-   "municipality": "Lenox Township",
-   "county": "Macomb",
-   "status": "Public meeting",
-   "layer": "meetings",
-   "developer": "",
-   "power_mw": "",
-   "latitude": 42.694,
-   "longitude": -82.804,
-   "source_url": "https://www.lenox-mi.gov/agendacenter",
-   "source_name": "Lenox Township",
-   "verified_date": "2026-07-09",
-   "confidence": "Confirmed",
-   "note": "July 9 board meeting."
-  },
-  {
    "name": "MPSC open meeting",
    "municipality": "Lansing",
    "county": "Ingham",
@@ -1312,6 +1296,22 @@
    "verified_date": "2026-06-01",
    "confidence": "Confirmed",
    "note": "Rooftop + carport solar at Rouge complex. Symbolic of industrial load shifting to renewables."
+  },
+  {
+   "name": "Texas Township moratorium",
+   "municipality": "Texas Township",
+   "county": "Kalamazoo",
+   "status": "Moratorium",
+   "layer": "moratoria",
+   "developer": "",
+   "power_mw": "",
+   "latitude": 42.21222,
+   "longitude": -85.69639,
+   "source_url": "https://www.mlive.com/news/kalamazoo/2026/06/township-near-kalamazoo-approves-12-month-moratorium-blocking-data-centers.html",
+   "source_name": "MLive",
+   "verified_date": "2026-07-05",
+   "confidence": "Confirmed",
+   "note": "12-month moratorium effective July 5, 2026 (or until new zoning); approximate centroid."
   }
  ],
  "map_meta": {
