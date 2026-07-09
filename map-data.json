@@ -229,17 +229,17 @@
    "name": "Lansing Deep Green data center",
    "municipality": "Lansing",
    "county": "Ingham",
-   "status": "Proposed",
+   "status": "Withdrawn",
    "layer": "projects",
    "developer": "Deep Green",
    "power_mw": "24",
    "latitude": 42.732,
    "longitude": -84.555,
-   "source_url": "https://www.lbwl.com/community/newsroom/2025-11-05-deep-green-proposes-120-million-sustainable-data-center-investment",
-   "source_name": "Lansing BWL",
-   "verified_date": "2025-11-05",
+   "source_url": "https://michiganadvance.com/2026/04/06/deep-green-pulls-request-to-rezone-downtown-lansing-parcel-axing-data-center-proposal/",
+   "source_name": "Michigan Advance",
+   "verified_date": "2026-04-06",
    "confidence": "Confirmed",
-   "note": "$120M downtown project. Partners with BWL for district heat."
+   "note": "$120M, 24 MW downtown proposal with BWL heat-reuse partnership. Deep Green WITHDREW the purchase and rezoning applications in early April 2026; City Council never voted. Project dead."
   },
   {
    "name": "Frenchtown Township Project Cherry Blossom",
