@@ -11,6 +11,8 @@
     padding-top: 12px;
     padding-bottom: 12px;
   }
+  /* tiny breathing room between the "Powered by Graham & Gold" line and the divider */
+  header a[data-track="logo-home"] > div > div:last-child { margin-bottom: 5px; }
   header .site-nav {
     order: 9;
     flex: 0 0 100% !important;
@@ -57,7 +59,7 @@
   .mobile-signup-bar {
     left: 12px !important;
     right: 12px !important;
-    bottom: calc(84px + env(safe-area-inset-bottom, 0px)) !important;
+    bottom: calc(14px + env(safe-area-inset-bottom, 0px)) !important;
     background: #0C1E33 !important;
     border: 1px solid rgba(255,255,255,.2);
     border-radius: 14px;
@@ -66,7 +68,7 @@
   }
   .mobile-signup-bar > span:first-child > span:first-child { color: #B8D5F0 !important; }
   .mobile-signup-bar > span:first-child > span:last-child { font-size: 14px !important; color: #FFFFFF !important; }
-  #mdct-root { padding-bottom: 142px !important; }
+  #mdct-root { padding-bottom: 104px !important; }
 }
 
 .social-button {

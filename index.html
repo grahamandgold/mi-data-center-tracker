@@ -755,7 +755,7 @@ class Component extends DCLogic {
       { iso:'2026-07-10', time:'9:00 AM', kind:'State Hearing', org:'MI Public Service Commission', desc:'Open meeting \u2014 oversees large-load electric agreements', region:'Mid-Michigan', alert:false },
       { iso:'2026-07-13', time:'7:00 PM', kind:'Moratorium Hearing', org:'Lansing City Council \u2014 Development & Planning', desc:'Public hearing: 182-day data center moratorium', region:'Mid-Michigan', alert:true },
       { iso:'2026-07-14', time:'6:30 PM', kind:'Planning Comm.', org:'Meridian Township', desc:'Special-use standards for data centers', region:'Mid-Michigan', alert:false },
-      { iso:'2026-07-15', time:'7:00 PM', kind:'Moratorium Vote', org:'Forsyth Township', desc:'Vote: 12-month moratorium', region:'Upper Peninsula', alert:true },
+      { iso:'2026-07-15', time:'7:00 PM', kind:'Moratorium Vote', org:'Forsyth Township', desc:'Vote: 12-month moratorium', region:'Northern Michigan', alert:true },
       { iso:'2026-07-16', time:'7:00 PM', kind:'Board Meeting', org:'Waterford Township', desc:'Six-month pause on the agenda', region:'SE Michigan', alert:false },
       { iso:'2026-07-18', time:'7:00 PM', kind:'Planning Comm.', org:'Gaines Township', desc:'Site-plan review \u2014 proposed campus', region:'West Michigan', alert:false },
       { iso:'2026-07-20', time:'7:00 PM', kind:'Board Meeting', org:'Saline Township Board', desc:'Regular meeting \u2014 Stargate construction updates possible', region:'SE Michigan', alert:false },
@@ -773,7 +773,7 @@ class Component extends DCLogic {
       if (days < 7) return { rel: wdLong, sub: dm + ' \u00b7 ' + time };
       return { rel: dm, sub: wdShort + ' \u00b7 ' + time };
     };
-    const regions = ['All','SE Michigan','Mid-Michigan','West Michigan','Upper Peninsula'];
+    const regions = ['All','SE Michigan','Mid-Michigan','West Michigan','Northern Michigan'];
     const active = this.state.region;
     const chipBase = "font-family:'IBM Plex Mono',monospace; font-size:10px; letter-spacing:0.12em; text-transform:uppercase; padding:8px 13px; cursor:pointer; border:1px solid var(--hair);";
     const regionChips = regions.map(r => ({
