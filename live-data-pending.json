@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-10T21:31:59+00:00",
+ "updated_at": "2026-07-10T22:35:11+00:00",
  "generator": "grok-wire-agent",
  "items": [
   {
@@ -38,24 +38,6 @@
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 9,
    "judge_note": "Adrian enacts a year-long moratorium—a definitive vote/decision in a new municipality, directly parallel to the Houghton action already live."
-  },
-  {
-   "iso": "2026-07-08T20:00:00+00:00",
-   "region": "west",
-   "cat": "Branch Co.",
-   "tag": "Local Government",
-   "title": "Girard Township Tightens Data Center Zoning Rules as Coldwater Prepares Its Own Safeguards",
-   "dek": "New limits aim to curb impacts on farmland and infrastructure while neighboring city drafts matching protections.",
-   "source": "Google News",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSUw3bEFEVGZQMTA2MUt4ZkY2TTdwNVhzVzlja2FXNTF1YndUYU5hWjVuUmtmd2VjOEVQYjA5WUdRZ0g1cHRQbDRCZUV3VXpMR2NPLW45Z2h6VEV3bU9jQTlPalUyVmlZTWowbFJ4MzNRaG9WX291a3hlOXBtXzFaVDRUM0R2Y2ZSTVpvZjk3M29FbGYtMUY5ZC1JR1F0MUZaY0VsbGh1M2V1RE1zbkZVdE5LTnJ3VURUZGQxRjJtSjRrUENVRjdIZDhSTGpYWU1CVGxNOERibUVRSjNvV2huRnZNak5xdUxx?oc=5",
-   "breaking": false,
-   "lead": false,
-   "id": "092f17237db4",
-   "kind": "story",
-   "filed_at": "2026-07-10T21:15:24+00:00",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7,
-   "judge_note": "Girard Township adopts new zoning rules (beyond the earlier single-parcel confinement) and Coldwater is drafting its own—two concrete municipal actions."
   },
   {
    "iso": "2026-07-10T15:00:00+00:00",
@@ -151,5 +133,5 @@
    "judge_note": "Incremental follow-up on Saline with scheduled advisory sessions and monitoring—real next step after the consent judgment, not a duplicate of the tax break stor"
   }
  ],
- "accuracy_checked_at": "2026-07-10T21:15:46+00:00"
+ "accuracy_checked_at": "2026-07-10T22:35:08+00:00"
 }
