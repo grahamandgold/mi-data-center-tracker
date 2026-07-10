@@ -433,7 +433,7 @@ class Component extends DCLogic {
     if (c.photo) {
       return `<img src="${c.photo}" alt="${c.name}${c.role ? ", " + c.role : ""}" loading="lazy" style="width:${s}px; height:${s}px; border-radius:50%; object-fit:cover; object-position:50% 22%; border:${brd}; flex:none;">`;
     }
-    return `<span style="width:${s}px; height:${s}px; border-radius:50%; background:var(--panel-2); border:${brd}; display:flex; align-items:center; justify-content:center; font-size:${fs}px; font-weight:800; color:var(--soft); flex:none;">${this._initials(c.name)}</span>`;
+    const pc = this._pc(c.party), tint = c.party === "Republican" ? "#F4E3E1" : "#E3EDF8"; return `<span aria-label="${c.name}" style="width:${s}px; height:${s}px; border-radius:50%; background:${tint}; border:${brd}; display:flex; align-items:center; justify-content:center; font-size:${fs}px; font-weight:800; letter-spacing:0.02em; color:${pc}; flex:none;">${this._initials(c.name)}</span>`;
   }
 
   _miniMap(px, py) {
