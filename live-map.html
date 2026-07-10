@@ -58,6 +58,8 @@
     --op:#16A36F; --gold:#C9A227; --gray:#8A847C;
   }
   * { box-sizing:border-box; }
+  /* stack zoom control below the Light/Dark/Sat basemap toggle (top-right) */
+  .leaflet-top.leaflet-right { margin-top:56px; }
   html, body { margin:0; padding:0; height:100%; }
   body { background:var(--mist); -webkit-font-smoothing:antialiased; text-rendering:optimizeLegibility; }
   a { color:var(--lake); text-decoration:none; }
@@ -327,7 +329,7 @@ class Component extends DCLogic {
     const L = window.L;
     const map = L.map("map", { center:[43.9, -84.55], zoom:7, zoomControl:false, attributionControl:true });
     this.map = map;
-    L.control.zoom({ position:"bottomright" }).addTo(map);
+    L.control.zoom({ position:"topright" }).addTo(map);
     this._home = { c:[43.9,-84.55], z:7 };
 
     const bases = {
