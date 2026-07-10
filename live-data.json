@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-10T13:31:31Z",
+ "updated_at": "2026-07-10T15:59:18Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Monroe expert warns data-center load could spike bills",
+   "dek": "A local utility analyst told Monroe officials that unchecked data-center growth will require new power plants and transmission upgrades. Those costs typically flow straight to residential ratepayers through DTE and Consumers Energy filings. The warning comes as several large projects eye southeast Michigan sites.",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON2JENVdwRExKbTg3emxVRS1KazRUb19lNXJNeTh0V2c5ZWEyejRsMkxLVHBSWkRxN1lBV2xhSFpfWnJHd0dILWd4YWh0Nkp5OXVLaTd2VW1GekFZQlhVOVc2VmRPSFZacWJjV24teWw3M3Q3SzdQUXl6eXVtQUxiOU4xYXJrNjM5Rmhvb0M1NkFVdHE4?oc=5",
+   "source": "The Monroe Times",
+   "region": "mid",
+   "cat": "STATEWIDE",
+   "county": "Monroe",
+   "tag": "Power & Grid",
+   "iso": "2026-07-10T15:00:26Z",
+   "id": "07a03a2f96ce",
+   "origin": "google-news",
+   "source_title": "Expert: Policies needed to manage data center demand - The Monroe Times",
+   "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON2JENVdwRExKbTg3emxVRS1KazRUb19lNXJNeTh0V2c5ZWEyejRsMkxLVHBSWkRxN1lBV2xhSFpfWnJHd0dILWd4YWh0Nkp5OXVLaTd2VW1GekFZQlhVOVc2VmRPSFZacWJjV24teWw3M3Q3SzdQUXl6eXVtQUxiOU4xYXJrNjM5Rmhvb0M1NkFVdHE4?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Saline data center digging threatens ponds and groundwater",
    "dek": "Construction activity at the Saline site has triggered questions about how much water will be pumped out and where it will go. Nearby residents worry about lowered water tables and impacts on local ponds that supply homes and farms. The issue puts concrete stakes on the table for Washtenaw County households already concerned about data-center water use.",
@@ -18,6 +35,21 @@
    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLWxDRVVqbnFFeWJYdXRrWE1aR0xVZFlJV1FvX0NodGFsNVotaHVwajR1aXVNalBldWQ4Y3pYY19XNnhOWjFlS3RoU2xVVDlHbUxGSEw2TW00ZnFkYXZVRm5MVmZtRlV4LXNLNWJQLURpMUh6ZDg0MXUxd3lYeU0xOUVNV05Zd0d4SGRiRFlB?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
+  },
+  {
+   "iso": "2026-07-10T12:00:00+00:00",
+   "region": "metro",
+   "cat": "Washtenaw Co.",
+   "tag": "Water",
+   "title": "Saline Township Checks if Data Center Dewatering Dropped Nearby Pond by Two Feet",
+   "dek": "Officials reported a resident pond fell roughly two feet while well points lowered groundwater four to five feet at the Related Digital site. The township is continuing summer monitoring after the contractor added water without prior notice.",
+   "source": "The Sun Times News",
+   "url": "https://thesuntimesnews.com/saline-data-center-work-raises-dewatering-pond-questions/",
+   "breaking": false,
+   "lead": false,
+   "id": "2770f7a57517",
+   "accuracy": "checked-rewritten",
+   "judge_score": 7
   },
   {
    "title": "Taylor residents push own rules to block proposed data center",
@@ -147,38 +179,6 @@
    "lead": false,
    "id": "0c1b706157ec",
    "accuracy": "checked-rewritten",
-   "judge_score": 8
-  },
-  {
-   "title": "Girard Township locks in tight new rules for any data center",
-   "dek": "Branch County officials approved strict setbacks, noise limits, and height caps that make large projects far harder to build. The vote gives residents near Coldwater clearer protection against sudden industrial development. Local leaders say the rules still allow smaller facilities if they meet the new standards.",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yZEo1RURocXVKaDhXcW8zNnh3Z1hkTkV6LWpKendDUkd0ZFB0SmVodkNFaDlZREY3eGVob0V2WXlfbWZtbk1zbk9iU00tUQ?oc=5",
-   "source": "WTVB",
-   "region": "mid",
-   "cat": "STATEWIDE",
-   "county": "Branch",
-   "tag": "Local Government",
-   "iso": "2026-07-09T13:28:43Z",
-   "id": "30463379b2ca",
-   "origin": "google-news",
-   "source_title": "Girard Township adopts strict zoning regulations for data centers - WTVB",
-   "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yZEo1RURocXVKaDhXcW8zNnh3Z1hkTkV6LWpKendDUkd0ZFB0SmVodkNFaDlZREY3eGVob0V2WXlfbWZtbk1zbk9iU00tUQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 9
-  },
-  {
-   "title": "State officials may decide Mason-area data center instead of locals",
-   "dek": "A proposal near Mason could bypass township review and go straight to state regulators. Ingham County residents fear losing input on power use and tax deals. The shift raises questions about local control over big industrial projects.",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd3BCOGJOX1cwYWtSdmtUaGFKOHRaeXEwSGd4MUFnQ1E0TW1yYWFodWFvLWxNSWJMWHFmOUdkRHpJWUVRNHVKb1hZN1hlWVpSYVkyRGJuMDhYOW9EeWlhS2MwTnRMUmFPWHhPOC0zZXQ1UDVPdHZHQ29IeXpNbDBQOVUyZUY3TW9XUVRqeEVrcDVBMWxCVkN1VHhnc3VENkJQNHJmN0lxY1E5d0VoVjRURmdxWUJ5UQ?oc=5",
-   "source": "Lansing State Journal",
-   "region": "mid",
-   "cat": "STATEWIDE",
-   "county": "Ingham",
-   "tag": "Local Government",
-   "iso": "2026-07-09T10:02:00Z",
-   "id": "95ebd090351e",
-   "origin": "google-news",
-   "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
   }
  ],

@@ -300,6 +300,20 @@
    "at": "2026-07-10T13:31:31+00:00",
    "by": "news_judge",
    "note": "score 3/10, duplicate: Duplicate of already-live 'Houghton bans new data centers for a year after resident pushback' — same moratorium vote."
+  },
+  {
+   "url": "https://www.circleofblue.org/2025/world/tech-giants-announce-7b-data-center-michigans-first-hyperscale-campus/",
+   "title": "OpenAI-Oracle Data Center to Draw 1.4 Gigawatts from DTE in Saline",
+   "at": "2026-07-10T15:59:18+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: Rehashes the already-live Saline tax abatement story with national framing but reports the same Oracle/OpenAI deal and 12-year tax cut."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fSmxFNVRrQ3l4WWlyeW1aMHdTWnh4TzVnT2dxRldId3ZENmluMzhMeWhxUmxaV3l4eDFaSVo4YVE1RThxMkpCbVZFcjhWZjZQcWhNcHNIZTdUb2J1Nk1oZmlEY2NuSUdtVUZpLThHMVVFVzA?oc=5",
+   "title": "Grand Rapids joins nationwide protest against AI power hunger",
+   "at": "2026-07-10T15:59:18+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Scheduled protest event is thin; more about national coordination than Michigan-specific development or decision."
   }
  ],
  "auto_published": [
@@ -410,6 +424,18 @@
    "title": "Saline data center digging threatens ponds and groundwater",
    "judge_score": 6,
    "at": "2026-07-10T13:31:31Z"
+  },
+  {
+   "url": "https://thesuntimesnews.com/saline-data-center-work-raises-dewatering-pond-questions/",
+   "title": "Saline Township Checks if Data Center Dewatering Dropped Nearby Pond by Two Feet",
+   "judge_score": 7,
+   "at": "2026-07-10T15:59:18Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON2JENVdwRExKbTg3emxVRS1KazRUb19lNXJNeTh0V2c5ZWEyejRsMkxLVHBSWkRxN1lBV2xhSFpfWnJHd0dILWd4YWh0Nkp5OXVLaTd2VW1GekFZQlhVOVc2VmRPSFZacWJjV24teWw3M3Q3SzdQUXl6eXVtQUxiOU4xYXJrNjM5Rmhvb0M1NkFVdHE4?oc=5",
+   "title": "Monroe expert warns data-center load could spike bills",
+   "judge_score": 7,
+   "at": "2026-07-10T15:59:18Z"
   }
  ]
 }
