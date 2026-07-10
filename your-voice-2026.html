@@ -187,33 +187,22 @@
 
   <!-- STATE OF THE RECORD (charts) -->
   <section style="max-width:1200px; margin:0 auto; padding:30px 26px 4px;">
-    <div style="display:flex; align-items:baseline; gap:12px; border-bottom:2px solid var(--navy); padding-bottom:8px; margin-bottom:20px; flex-wrap:wrap;">
-      <span style="font-family:'IBM Plex Mono',monospace; font-size:9.5px; letter-spacing:0.16em; text-transform:uppercase; color:var(--cherry);">The numbers</span>
-      <h2 style="font-size:24px; font-weight:800; letter-spacing:-0.01em; margin:0;">State of the record</h2>
-      <span style="font-family:'IBM Plex Mono',monospace; font-size:10px; color:var(--faint); margin-left:auto;">Click a column to sort</span>
-    </div>
-    <div style="display:grid; grid-template-columns:300px 1fr; gap:16px;">
-      <div id="dash-donut"></div>
-      <div id="dash-bars"></div>
-    </div>
-    <div id="cmp-table" style="margin-top:16px; overflow-x:auto;"></div>
-  </section>
-
-  <!-- THE FIELD (BRACKET) -->
-  <section style="max-width:1200px; margin:0 auto; padding:26px 26px 4px;">
-    <div style="display:flex; align-items:baseline; gap:12px; border-bottom:2px solid var(--navy); padding-bottom:8px; margin-bottom:20px; flex-wrap:wrap;">
+    <div style="display:flex; align-items:baseline; gap:12px; border-bottom:2px solid var(--navy); padding-bottom:8px; margin-bottom:16px;">
       <span style="font-family:'IBM Plex Mono',monospace; font-size:9.5px; letter-spacing:0.16em; text-transform:uppercase; color:var(--cherry);">The field</span>
       <h2 style="font-size:24px; font-weight:800; letter-spacing:-0.01em; margin:0;">How the ballot breaks down</h2>
-      <div style="margin-left:auto; display:flex; gap:6px; flex-wrap:wrap;">
-        <span class="btab" data-b="governor" style="font-family:'IBM Plex Mono',monospace; font-size:10px; letter-spacing:0.1em; text-transform:uppercase; border:1px solid var(--hair); padding:7px 12px; color:var(--soft); cursor:pointer;">Governor</span>
-        <span class="btab" data-b="us-senate" style="font-family:'IBM Plex Mono',monospace; font-size:10px; letter-spacing:0.1em; text-transform:uppercase; border:1px solid var(--hair); padding:7px 12px; color:var(--soft); cursor:pointer;">U.S. Senate</span>
-        <span class="btab" data-b="leg-0" style="font-family:'IBM Plex Mono',monospace; font-size:10px; letter-spacing:0.1em; text-transform:uppercase; border:1px solid var(--hair); padding:7px 12px; color:var(--soft); cursor:pointer;">HD 31</span>
-        <span class="btab" data-b="leg-1" style="font-family:'IBM Plex Mono',monospace; font-size:10px; letter-spacing:0.1em; text-transform:uppercase; border:1px solid var(--hair); padding:7px 12px; color:var(--soft); cursor:pointer;">HD 33</span>
-        <span class="btab" data-b="leg-2" style="font-family:'IBM Plex Mono',monospace; font-size:10px; letter-spacing:0.1em; text-transform:uppercase; border:1px solid var(--hair); padding:7px 12px; color:var(--soft); cursor:pointer;">SD 15</span>
-        <span class="btab" data-b="leg-3" style="font-family:'IBM Plex Mono',monospace; font-size:10px; letter-spacing:0.1em; text-transform:uppercase; border:1px solid var(--hair); padding:7px 12px; color:var(--soft); cursor:pointer;">SD 16</span>
-        <span class="btab" data-b="leg-4" style="font-family:'IBM Plex Mono',monospace; font-size:10px; letter-spacing:0.1em; text-transform:uppercase; border:1px solid var(--hair); padding:7px 12px; color:var(--soft); cursor:pointer;">SD 18</span>
-        <span class="btab" data-b="leg-5" style="font-family:'IBM Plex Mono',monospace; font-size:10px; letter-spacing:0.1em; text-transform:uppercase; border:1px solid var(--hair); padding:7px 12px; color:var(--soft); cursor:pointer;">SD 20</span>
-        <span class="btab" data-b="leg-6" style="font-family:'IBM Plex Mono',monospace; font-size:10px; letter-spacing:0.1em; text-transform:uppercase; border:1px solid var(--hair); padding:7px 12px; color:var(--soft); cursor:pointer;">SD 23</span>
+    </div>
+    <div style="display:flex; align-items:center; gap:12px; flex-wrap:wrap; margin-bottom:20px;">
+      <span style="font-family:'IBM Plex Mono',monospace; font-size:10px; letter-spacing:0.14em; text-transform:uppercase; color:var(--soft); font-weight:700; white-space:nowrap;">Pick a race &rarr;</span>
+      <div style="display:flex; gap:6px; flex-wrap:wrap;">
+        <span class="btab" data-b="governor" style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; text-transform:uppercase; border:1px solid var(--hair); background:#fff; padding:9px 15px; color:var(--ink); cursor:pointer;">Governor</span>
+        <span class="btab" data-b="us-senate" style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; text-transform:uppercase; border:1px solid var(--hair); background:#fff; padding:9px 15px; color:var(--ink); cursor:pointer;">U.S. Senate</span>
+        <span class="btab" data-b="leg-0" style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; text-transform:uppercase; border:1px solid var(--hair); background:#fff; padding:9px 15px; color:var(--ink); cursor:pointer;">HD 31</span>
+        <span class="btab" data-b="leg-1" style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; text-transform:uppercase; border:1px solid var(--hair); background:#fff; padding:9px 15px; color:var(--ink); cursor:pointer;">HD 33</span>
+        <span class="btab" data-b="leg-2" style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; text-transform:uppercase; border:1px solid var(--hair); background:#fff; padding:9px 15px; color:var(--ink); cursor:pointer;">SD 15</span>
+        <span class="btab" data-b="leg-3" style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; text-transform:uppercase; border:1px solid var(--hair); background:#fff; padding:9px 15px; color:var(--ink); cursor:pointer;">SD 16</span>
+        <span class="btab" data-b="leg-4" style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; text-transform:uppercase; border:1px solid var(--hair); background:#fff; padding:9px 15px; color:var(--ink); cursor:pointer;">SD 18</span>
+        <span class="btab" data-b="leg-5" style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; text-transform:uppercase; border:1px solid var(--hair); background:#fff; padding:9px 15px; color:var(--ink); cursor:pointer;">SD 20</span>
+        <span class="btab" data-b="leg-6" style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.08em; text-transform:uppercase; border:1px solid var(--hair); background:#fff; padding:9px 15px; color:var(--ink); cursor:pointer;">SD 23</span>
       </div>
     </div>
     <div id="bracket"></div>
@@ -661,9 +650,14 @@ class Component extends DCLogic {
 
   _wireBracket() {
     const tabs = [...document.querySelectorAll(".btab")];
-    const setActive = t => tabs.forEach(x => { const on = x === t; x.style.background = on ? "var(--navy)" : "transparent"; x.style.color = on ? "#fff" : "var(--soft)"; x.style.borderColor = on ? "var(--navy)" : "var(--hair)"; });
-    tabs.forEach(t => t.addEventListener("click", () => { setActive(t); this._renderBracket(t.getAttribute("data-b")); }));
-    const def = document.querySelector('.btab[data-b="governor"]'); if (def) setActive(def);
+    let active = null;
+    const paint = () => tabs.forEach(x => { const on = x === active; x.style.background = on ? "var(--navy)" : "#fff"; x.style.color = on ? "#fff" : "var(--ink)"; x.style.borderColor = on ? "var(--navy)" : "var(--hair)"; });
+    tabs.forEach(t => {
+      t.addEventListener("click", () => { active = t; paint(); this._renderBracket(t.getAttribute("data-b")); });
+      t.addEventListener("mouseenter", () => { if (t !== active) { t.style.borderColor = "var(--lake)"; t.style.color = "var(--lake)"; } });
+      t.addEventListener("mouseleave", () => { if (t !== active) { t.style.borderColor = "var(--hair)"; t.style.color = "var(--ink)"; } });
+    });
+    active = document.querySelector('.btab[data-b="governor"]'); paint();
   }
 
   _renderBracket(rid) {
