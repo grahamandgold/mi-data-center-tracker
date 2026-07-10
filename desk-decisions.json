@@ -286,6 +286,20 @@
    "at": "2026-07-10T11:28:40+00:00",
    "by": "news_judge",
    "note": "score 4/10: Too vague—'northern Michigan township' without naming which one makes this unverifiable speculation or thin aggregation rather than a concrete development."
+  },
+  {
+   "url": "https://wtvbam.com/2026/07/09/957539/",
+   "title": "Girard Township Confines All Data Centers to Its One Industrial Parcel",
+   "at": "2026-07-10T13:31:31+00:00",
+   "by": "news_judge",
+   "note": "score 4/10, duplicate: Duplicate of already-live 'Girard Township locks in tight new rules for any data center' — same ordinance approval."
+  },
+  {
+   "url": "https://www.uppermichiganssource.com/2026/07/09/houghton-city-council-approves-temporary-data-center-moratorium/",
+   "title": "Houghton Halts Data Center Permits for One Year",
+   "at": "2026-07-10T13:31:31+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: Duplicate of already-live 'Houghton bans new data centers for a year after resident pushback' — same moratorium vote."
   }
  ],
  "auto_published": [
@@ -384,6 +398,18 @@
    "title": "Houghton bans new data centers for a year after resident pushback",
    "judge_score": 9,
    "at": "2026-07-10T04:37:14Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOGlOWWh5V3ZjRzJBYS0tYzRiU3lTbmM2QVZtWV9sWW9JLUVWeGNuVWxFVF9MVElFRWZUQUhWb2hTczhUWTl5OXIzSGVnSVE0M3dsWVJvRkdNYzdwRGVjVHc5ZFZfWWZBZEhkOGpBLXJhd2VwME82dTZuYzlGYUpuVDFmeGNFR2RtLWR3WWw2UUhkSFNZYWJfMWtZMWtmQXF6MW0tZXhGaExNWmRwNGlfcURxTDg?oc=5",
+   "title": "Taylor residents push own rules to block proposed data center",
+   "judge_score": 7,
+   "at": "2026-07-10T13:31:31Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLWxDRVVqbnFFeWJYdXRrWE1aR0xVZFlJV1FvX0NodGFsNVotaHVwajR1aXVNalBldWQ4Y3pYY19XNnhOWjFlS3RoU2xVVDlHbUxGSEw2TW00ZnFkYXZVRm5MVmZtRlV4LXNLNWJQLURpMUh6ZDg0MXUxd3lYeU0xOUVNV05Zd0d4SGRiRFlB?oc=5",
+   "title": "Saline data center digging threatens ponds and groundwater",
+   "judge_score": 6,
+   "at": "2026-07-10T13:31:31Z"
   }
  ]
 }

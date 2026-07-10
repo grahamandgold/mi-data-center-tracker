@@ -1,7 +1,41 @@
 {
- "updated_at": "2026-07-10T11:27:55+00:00",
+ "updated_at": "2026-07-10T13:31:31Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Saline data center digging threatens ponds and groundwater",
+   "dek": "Construction activity at the Saline site has triggered questions about how much water will be pumped out and where it will go. Nearby residents worry about lowered water tables and impacts on local ponds that supply homes and farms. The issue puts concrete stakes on the table for Washtenaw County households already concerned about data-center water use.",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLWxDRVVqbnFFeWJYdXRrWE1aR0xVZFlJV1FvX0NodGFsNVotaHVwajR1aXVNalBldWQ4Y3pYY19XNnhOWjFlS3RoU2xVVDlHbUxGSEw2TW00ZnFkYXZVRm5MVmZtRlV4LXNLNWJQLURpMUh6ZDg0MXUxd3lYeU0xOUVNV05Zd0d4SGRiRFlB?oc=5",
+   "source": "The Sun Times News",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Water",
+   "iso": "2026-07-10T12:00:41Z",
+   "id": "5b8861a77686",
+   "origin": "google-news",
+   "source_title": "Saline Data Center Work Raises Dewatering, Pond Questions - The Sun Times News",
+   "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLWxDRVVqbnFFeWJYdXRrWE1aR0xVZFlJV1FvX0NodGFsNVotaHVwajR1aXVNalBldWQ4Y3pYY19XNnhOWjFlS3RoU2xVVDlHbUxGSEw2TW00ZnFkYXZVRm5MVmZtRlV4LXNLNWJQLURpMUh6ZDg0MXUxd3lYeU0xOUVNV05Zd0d4SGRiRFlB?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
+  {
+   "title": "Taylor residents push own rules to block proposed data center",
+   "dek": "City of Taylor leaders heard a citizen-written ordinance aimed at stopping a data center from moving forward. The proposal would add new zoning hurdles that could kill the project or force major changes. Neighbors see it as their best shot at protecting property values and keeping industrial-scale power and water use out of their community.",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOGlOWWh5V3ZjRzJBYS0tYzRiU3lTbmM2QVZtWV9sWW9JLUVWeGNuVWxFVF9MVElFRWZUQUhWb2hTczhUWTl5OXIzSGVnSVE0M3dsWVJvRkdNYzdwRGVjVHc5ZFZfWWZBZEhkOGpBLXJhd2VwME82dTZuYzlGYUpuVDFmeGNFR2RtLWR3WWw2UUhkSFNZYWJfMWtZMWtmQXF6MW0tZXhGaExNWmRwNGlfcURxTDg?oc=5",
+   "source": "MSN",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Wayne",
+   "tag": "Local Government",
+   "iso": "2026-07-10T07:59:57Z",
+   "id": "fc7e88d42318",
+   "origin": "google-news",
+   "source_title": "City of Taylor discuss citizen-led ordinance on proposed data center - MSN",
+   "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOGlOWWh5V3ZjRzJBYS0tYzRiU3lTbmM2QVZtWV9sWW9JLUVWeGNuVWxFVF9MVElFRWZUQUhWb2hTczhUWTl5OXIzSGVnSVE0M3dsWVJvRkdNYzdwRGVjVHc5ZFZfWWZBZEhkOGpBLXJhd2VwME82dTZuYzlGYUpuVDFmeGNFR2RtLWR3WWw2UUhkSFNZYWJfMWtZMWtmQXF6MW0tZXhGaExNWmRwNGlfcURxTDg?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Houghton bans new data centers for a year after resident pushback",
    "dek": "City council voted a temporary moratorium while it writes rules on power use, noise, and water. The pause gives Houghton County residents time to weigh whether large facilities fit a city already short on electricity. Similar steps are now under discussion in nearby townships.",
@@ -146,36 +180,6 @@
    "origin": "google-news",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
-  },
-  {
-   "title": "York Township schedules hearing on data center moratorium",
-   "dek": "Residents will weigh a temporary ban after similar pauses passed in nearby Adrian and other towns. The hearing comes as Washtenaw County sees rising opposition to large server farms. People want time to assess impacts on roads, water and electricity rates.",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTWprakVKamYtUGx3N2xFRU1BQzJfX3VVUERGX1dLcm5veUk1WEptT1JKVEFMMnlXRjRVT2NDd3drOGRnSUpPUXNjTkZuSUtMMDJJcFRqZnJGbW16UmdObE1HLXI2YnVHbFJlQk9pbF9UejNKM0FNRng2LWhjT0RlckFjUTVsV3JyNkJQSTFST1hocU1hekhKc0F6VHFpZUtQcENuQ3NxNHBKb1NMRWVfUGtQYmptYTlpTGJ2SDFpNFI2X2l4SE80bmprOHg?oc=5",
-   "source": "TheLCN.com",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Local Government",
-   "iso": "2026-07-09T08:45:00Z",
-   "id": "d9a9225c27ba",
-   "origin": "google-news",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
-  },
-  {
-   "title": "Hundreds pack hearing as Garfield Township pushes data-center moratorium",
-   "dek": "Grand Traverse County planners recommended a temporary ban after residents filled the room to protest power lines and industrial noise near homes and farms. The proposed rules would give the township time to study water and electric-grid limits before any large project moves forward. Locals 30 minutes away are tracking the vote because any approved campus could affect regional electric rates.",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQd3FWb1ZTdkoyd2FaRGU1UDBhVWxuVGFJbmRLVGxPT0J2cjJGOFBTREFiOUluSVRZN2xjNWJWdmpPLU1nbThqQ1hvUi1xRnYyaWtjZlNEU3loOHpHdENOTFFqWGNWMUZiS1ZJTENDNmxSYlNpb2x4ZmJQLWZ0ZVZTYVh3N0t1dnNTeWdXVWdRZ3BZTjZkWUxYTkJ2OTlrVV9TeGc2MW5kampyQm4wYlZJSnprQ2dVQUtiN2pQRkxQblJubEVXTlkybm4yeHBmMjZ2a0l3SFpJRGlPbnptN2pxS1R6WQ?oc=5",
-   "source": "9and10News.com",
-   "region": "north",
-   "cat": "STATEWIDE",
-   "county": "Grand Traverse",
-   "tag": "Local Government",
-   "iso": "2026-07-09T02:17:24Z",
-   "id": "0e452a3c290d",
-   "origin": "google-news",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
   }
  ],
  "national": {
@@ -218,6 +222,20 @@
    "urgent": true,
    "link": "https://www.wlns.com/lansing/lansing-city-council-to-discuss-temporary-data-center-ban/amp/",
    "linkLabel": "Details"
+  },
+  {
+   "iso": "2026-07-14",
+   "body": "Saline Township Board of Trustees",
+   "topic": "Vote on 12-year, 50% tax abatement for Oracle America Cloud Services LLC tied to the Related Digital AI data center project; public hearing on Industrial Facilities Exemption Certificate",
+   "region": "SE Michigan",
+   "regionKey": "metro",
+   "county": "Washtenaw",
+   "time": "7:00 PM",
+   "status": "Special meeting",
+   "urgent": true,
+   "link": "https://salinetownship.org/meeting-agendas.php",
+   "linkLabel": "Agenda",
+   "stream": ""
   }
  ],
  "accuracy_checked_at": "2026-07-08T08:45:16+00:00"

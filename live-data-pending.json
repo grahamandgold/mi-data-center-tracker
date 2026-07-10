@@ -1,7 +1,26 @@
 {
- "updated_at": "2026-07-10T12:15:46+00:00",
+ "updated_at": "2026-07-10T13:31:31Z",
  "generator": "grok-wire-agent",
  "items": [
+  {
+   "iso": "2026-07-10T10:00:00+00:00",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "tag": "Power & Grid",
+   "title": "OpenAI-Oracle Data Center to Draw 1.4 Gigawatts in Saline Township",
+   "dek": "The 1-gigawatt AI campus on 250 acres will create 450 onsite jobs and receive sales-tax relief plus a 12-year local abatement; DTE is separately negotiating another 3 gigawatts of data-center load in Michigan.",
+   "source": "Industry Reports",
+   "url": "https://bridgemi.com/michigan-environment-watch/dte-consumers-advance-plans-for-power-hungry-data-centers-in-michigan/",
+   "breaking": false,
+   "lead": false,
+   "id": "f9a874c2dc6f",
+   "kind": "national",
+   "filed_at": "2026-07-10T13:31:00+00:00",
+   "accuracy": "checked-rewritten",
+   "headline_rewritten": true,
+   "judge_score": 9,
+   "judge_note": "Major new project confirmation: 1.4 GW OpenAI-Oracle campus with specific job numbers, acreage, and tax abatement details — concrete development."
+  },
   {
    "iso": "2026-07-09T19:00:00+00:00",
    "region": "metro",
@@ -22,5 +41,5 @@
    "judge_note": "Incremental follow-up on Saline with scheduled advisory sessions and monitoring—real next step after the consent judgment, not a duplicate of the tax break stor"
   }
  ],
- "accuracy_checked_at": "2026-07-10T11:28:31+00:00"
+ "accuracy_checked_at": "2026-07-10T13:31:24+00:00"
 }
