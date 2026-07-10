@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-09T22:40:13+00:00",
+ "updated_at": "2026-07-10T00:14:13+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -188,19 +188,6 @@
   "accuracy": "checked"
  },
  "meetings": [
-  {
-   "iso": "2026-07-09",
-   "body": "Lenox Township Board",
-   "topic": "Regular meeting — data center zoning on the radar",
-   "region": "SE Michigan",
-   "regionKey": "metro",
-   "county": "Macomb",
-   "time": "7:00 PM",
-   "status": "Board meeting",
-   "urgent": false,
-   "link": "https://www.lenox-mi.gov/agendacenter",
-   "linkLabel": "Agenda"
-  },
   {
    "iso": "2026-07-10",
    "body": "MI Public Service Commission",
