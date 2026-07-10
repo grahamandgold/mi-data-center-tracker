@@ -128,6 +128,13 @@
     .ondeck-row > * { justify-self:start !important; }
     .ondeck-btn { width:100%; }
 
+    .ondeck-head { align-items:flex-start !important; gap:10px !important; flex-direction:column; }
+    .ondeck-head > div { align-items:flex-start !important; gap:5px !important; flex-direction:column; }
+    .front-map { aspect-ratio:4/3 !important; }
+    .front-map-callout { bottom:58px !important; padding:9px 10px !important; }
+    .front-map-callout > div:last-child { line-height:1.35 !important; }
+    .front-map-cta { white-space:nowrap; min-height:42px; }
+
     .support-box { flex-direction:column; align-items:flex-start !important; padding:26px !important; }
     .support-head { font-size:26px !important; }
 
@@ -238,20 +245,20 @@
 
   <!-- ===================== STATE OF PLAY STRIP ===================== -->
   <div style="max-width:1280px; margin:0 auto; padding:0 40px;">
-    <div style="display:grid; grid-template-columns:repeat(4,1fr); border-bottom:1px solid var(--hair);">
-      <div style="padding:18px 24px 18px 0; border-right:1px solid var(--hair);">
+    <div class="sop-strip" style="display:grid; grid-template-columns:repeat(4,1fr); border-bottom:1px solid var(--hair);">
+      <div class="sop-cell" style="padding:18px 24px 18px 0; border-right:1px solid var(--hair);">
         <div style="font-size:34px; font-weight:800; letter-spacing:-0.02em; line-height:1;">20</div>
         <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.16em; text-transform:uppercase; color:var(--ink-faint); margin-top:8px;">Tracked projects</div>
       </div>
-      <div style="padding:18px 24px; border-right:1px solid var(--hair);">
+      <div class="sop-cell" style="padding:18px 24px; border-right:1px solid var(--hair);">
         <div style="font-size:34px; font-weight:800; letter-spacing:-0.02em; line-height:1;">2.9<span style="font-family:'IBM Plex Mono',monospace; font-size:14px; color:var(--ink-faint); font-weight:500; margin-left:3px;">GW</span></div>
         <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.16em; text-transform:uppercase; color:var(--ink-faint); margin-top:8px;">Disclosed load</div>
       </div>
-      <div style="padding:18px 24px; border-right:1px solid var(--hair);">
+      <div class="sop-cell" style="padding:18px 24px; border-right:1px solid var(--hair);">
         <div style="font-size:34px; font-weight:800; letter-spacing:-0.02em; line-height:1;">~21<span style="font-family:'IBM Plex Mono',monospace; font-size:14px; color:var(--ink-faint); font-weight:600; margin-left:2px;">GW</span></div>
         <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.16em; text-transform:uppercase; color:var(--ink-faint); margin-top:8px;">State summer peak</div>
       </div>
-      <div style="padding:18px 0 18px 24px;">
+      <div class="sop-cell" style="padding:18px 0 18px 24px;">
         <div style="font-size:34px; font-weight:800; letter-spacing:-0.02em; line-height:1; color:var(--alert);">33</div>
         <div style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.16em; text-transform:uppercase; color:var(--ink-faint); margin-top:8px;">Local pauses &middot; 1.65&times; projects</div>
       </div>
@@ -259,7 +266,7 @@
   </div>
 
   <!-- ===================== FRONT PAGE: 3 COLUMNS ===================== -->
-  <section style="max-width:1280px; margin:0 auto; padding:34px 40px 46px; display:grid; grid-template-columns:1.45fr 1fr 0.92fr; gap:34px; align-items:start; position:relative; overflow:hidden;">
+  <section class="front-grid" style="max-width:1280px; margin:0 auto; padding:34px 40px 46px; display:grid; grid-template-columns:1.45fr 1fr 0.92fr; gap:34px; align-items:start; position:relative; overflow:hidden;">
     <svg viewBox="0 0 1000 1015" aria-hidden="true" preserveAspectRatio="xMidYMid meet" style="position:absolute; top:-30px; right:-30px; width:400px; height:auto; z-index:0; opacity:0.05; color:var(--ink); pointer-events:none;"><use href="#mi-glyph"></use></svg>
 
     <!-- COL 1 — THE WIRE (lead + list) -->
@@ -323,12 +330,12 @@
     </div>
 
     <!-- COL 2 — LIVE MAP INSTRUMENT -->
-    <div>
+    <div class="front-map-col">
       <div style="display:flex; align-items:baseline; justify-content:space-between; border-bottom:2px solid var(--trim); padding-bottom:8px; margin-bottom:20px;">
         <h2 style="font-size:15px; font-weight:800; letter-spacing:0.14em; text-transform:uppercase; margin:0;">Live Map</h2>
         <a href="live-map.html" style="font-family:'IBM Plex Mono',monospace; font-size:10px; letter-spacing:0.14em; text-transform:uppercase;">Open &rarr;</a>
       </div>
-      <div style="border:1px solid var(--trim); background:var(--panel); position:relative; aspect-ratio:4/5;">
+      <div class="front-map" style="border:1px solid var(--trim); background:var(--panel); position:relative; aspect-ratio:4/5;">
         <div style="position:absolute; inset:0; background-image:radial-gradient(var(--ink) 1px, transparent 1px); background-size:15px 15px; opacity:0.06;"></div>
         <div style="position:absolute; top:0; left:0; right:0; display:flex; align-items:center; justify-content:space-between; padding:12px 14px; border-bottom:1px solid var(--hair); background:var(--surface);">
           <span style="font-family:'IBM Plex Mono',monospace; font-size:10px; letter-spacing:0.16em; text-transform:uppercase; display:flex; align-items:center; gap:7px;"><span style="display:inline-block; width:6px; height:6px; border-radius:50%; background:var(--alert); animation:softPulse 2.4s ease-in-out infinite;"></span>20 sites</span>
@@ -344,11 +351,11 @@
         <span style="position:absolute; left:33%; top:34%;"><span style="position:absolute; width:7px; height:7px; margin:-3.5px; border-radius:50%; background:var(--accent);"></span></span>
         <span style="position:absolute; left:56%; top:78%; font-family:'IBM Plex Mono',monospace; font-size:9px; letter-spacing:0.14em; text-transform:uppercase; color:var(--ink-faint);">Detroit &middot; SE MI</span>
         <!-- callout -->
-        <div style="position:absolute; left:14px; right:14px; bottom:58px; background:var(--surface); border:1px solid var(--hair); padding:11px 13px;">
+        <div class="front-map-callout" style="position:absolute; left:14px; right:14px; bottom:58px; background:var(--surface); border:1px solid var(--hair); padding:11px 13px;">
           <div style="font-size:20px; font-weight:800; letter-spacing:-0.01em; color:var(--alert);">1.65&times;<span style="font-size:11px; font-weight:500; color:var(--ink-soft); font-family:'IBM Plex Mono',monospace; letter-spacing:0; margin-left:8px;">pauses per project</span></div>
           <div style="font-family:'IBM Plex Mono',monospace; font-size:9px; color:var(--ink-faint); margin-top:5px; letter-spacing:0.06em;">33 local pauses vs 20 projects &middot; tap any pin for the source</div>
         </div>
-        <a href="live-map.html" style="position:absolute; left:14px; right:14px; bottom:14px; display:flex; align-items:center; justify-content:space-between; background:var(--trim); color:var(--surface); padding:12px 14px; font-family:'IBM Plex Mono',monospace; font-size:10px; letter-spacing:0.14em; text-transform:uppercase;" style-hover="background:var(--alert);">Open the live map <span>&rarr;</span></a>
+        <a class="front-map-cta" href="live-map.html" style="position:absolute; left:14px; right:14px; bottom:14px; display:flex; align-items:center; justify-content:space-between; background:var(--trim); color:var(--surface); padding:12px 14px; font-family:'IBM Plex Mono',monospace; font-size:10px; letter-spacing:0.14em; text-transform:uppercase;" style-hover="background:var(--alert);">Open the live map <span>&rarr;</span></a>
       </div>
       <!-- projects by region mini-diagram -->
       <div style="border:1px solid var(--hair); border-top:none; padding:16px 16px 18px;">
@@ -415,7 +422,7 @@
   <!-- ===================== ON DECK — MEETINGS ===================== -->
   <section style="border-top:1px solid var(--trim); background:var(--panel);">
     <div style="max-width:1280px; margin:0 auto; padding:40px 40px 46px;">
-      <div style="display:flex; align-items:baseline; justify-content:space-between; margin-bottom:24px;">
+      <div class="ondeck-head" style="display:flex; align-items:baseline; justify-content:space-between; margin-bottom:24px;">
         <div style="display:flex; align-items:baseline; gap:16px;">
           <h2 style="font-size:26px; font-weight:800; letter-spacing:-0.01em; text-transform:uppercase; margin:0;">On Deck</h2>
           <span style="font-family:'IBM Plex Mono',monospace; font-size:10px; letter-spacing:0.16em; text-transform:uppercase; color:var(--ink-faint);">Next hearings &middot; live calendar</span>
@@ -431,12 +438,12 @@
 
       <div style="border-top:1px solid var(--hair);">
         <sc-for list="{{ visibleMeetings }}" as="m" hint-placeholder-count="5">
-          <div style="{{ m.rowStyle }}">
+          <div class="ondeck-row" style="{{ m.rowStyle }}">
             <div style="{{ m.datePad }}"><div style="font-size:16px; font-weight:800; letter-spacing:-0.01em; {{ m.relColor }}">{{ m.rel }}</div><div style="font-family:'IBM Plex Mono',monospace; font-size:11px; color:var(--ink-faint); margin-top:3px;">{{ m.dateTime }}</div></div>
             <div style="{{ m.kickerStyle }}">{{ m.kind }}</div>
             <div><div style="font-size:17px; font-weight:700;">{{ m.org }}</div><div style="font-size:13px; color:var(--ink-soft);">{{ m.desc }}</div></div>
             <div style="font-family:'IBM Plex Mono',monospace; font-size:9.5px; letter-spacing:0.12em; text-transform:uppercase; color:var(--accent); border:1px solid var(--hair); padding:4px 9px; justify-self:start;">{{ m.region }}</div>
-            <a href="meetings.html" style="{{ m.btnStyle }}">{{ m.btnLabel }}</a>
+            <a class="ondeck-btn" href="meetings.html" style="{{ m.btnStyle }}">{{ m.btnLabel }}</a>
           </div>
         </sc-for>
       </div>
@@ -563,7 +570,7 @@
         <h2 style="font-size:26px; font-weight:800; letter-spacing:-0.01em; text-transform:uppercase; margin:0;">Explore the Tracker</h2>
         <a href="data.html" style="font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.14em; text-transform:uppercase;">All tools &rarr;</a>
       </div>
-      <div style="display:grid; grid-template-columns:repeat(4,1fr); gap:1px; background:var(--hair); border:1px solid var(--hair);">
+      <div class="explore-grid" style="display:grid; grid-template-columns:repeat(4,1fr); gap:1px; background:var(--hair); border:1px solid var(--hair);">
         <a href="live-map.html" style="background:var(--surface); padding:24px; display:block; min-height:150px;" style-hover="background:var(--panel-2)">
           <div style="font-family:'IBM Plex Mono',monospace; font-size:12px; color:var(--alert); margin-bottom:34px;">01</div>
           <div style="font-size:19px; font-weight:800; letter-spacing:-0.01em; color:var(--ink); margin-bottom:8px;">Live Map</div>

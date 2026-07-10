@@ -84,6 +84,31 @@
 
   // src/boot.ts
   var BASE_CSS = `
+    /* Shared responsive launch polish. Pages lean on inline layout styles, so these
+       deliberately use important declarations to preserve a reliable hierarchy. */
+    @media (max-width: 900px) {
+      header:has(.site-nav) { height:105px !important; padding:0 16px !important; }
+      header:has(.site-nav) > div { height:64px !important; gap:12px !important; }
+      header:has(.site-nav) .site-nav {
+        position:absolute !important; inset:64px 0 auto !important; height:41px !important;
+        display:flex !important; flex-wrap:nowrap !important; align-items:center !important;
+        gap:16px !important; overflow-x:auto !important; overscroll-behavior-x:contain;
+        padding:0 16px !important; border-top:1px solid rgba(12,30,51,.13);
+        background:var(--paper,#fff) !important; white-space:nowrap; -webkit-overflow-scrolling:touch;
+      }
+      header:has(.site-nav) .site-nav::-webkit-scrollbar { display:none; }
+      header:has(.site-nav) .site-nav a { flex:none; }
+      [style*="grid-template-columns:1fr 320px"],
+      [style*="grid-template-columns:1fr 360px"],
+      [style*="grid-template-columns:300px 1fr"] { grid-template-columns:1fr !important; }
+      [style*="position:sticky"][style*="top:84px"] { position:static !important; }
+    }
+    @media (max-width: 640px) {
+      header:has(.site-nav) > div > div > div:last-child { font-size:13px !important; line-height:1.02 !important; }
+      .mrow { grid-template-columns:1fr !important; gap:12px !important; padding:18px 0 !important; }
+      .mrow > :first-child { text-align:left !important; display:flex !important; align-items:baseline !important; gap:9px !important; }
+      .mrow > :last-child { flex-wrap:wrap; }
+    }
     .sc-placeholder{background:color-mix(in srgb,currentColor 8%,transparent);
       border:1px solid color-mix(in srgb,currentColor 50%,transparent);
       border-radius:2px;box-sizing:border-box;overflow:hidden}

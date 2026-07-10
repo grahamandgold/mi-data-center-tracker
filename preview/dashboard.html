@@ -65,6 +65,10 @@
   @keyframes softPulse { 0%,100% { opacity:1; } 50% { opacity:0.3; } }
   input[type=range] { -webkit-appearance:none; appearance:none; height:4px; background:var(--panel-2); outline:none; }
   input[type=range]::-webkit-slider-thumb { -webkit-appearance:none; width:16px; height:16px; border-radius:50%; background:var(--cherry); cursor:pointer; }
+  @media (max-width:640px) {
+    #c-cumul + div { gap:8px; font-size:8px !important; }
+    [style*="font-size:44px"] { font-size:34px !important; }
+  }
 </style>
 <!--ANALYTICS-->
 <script>
