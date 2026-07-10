@@ -489,13 +489,8 @@ class Component extends DCLogic {
               <span style="font-family:'IBM Plex Mono',monospace; font-size:9px; letter-spacing:0.1em; text-transform:uppercase; color:${pc}; border:1px solid ${pc}; padding:3px 8px;">${c.party === "Republican" ? "Rep" : "Dem"}</span>
               <button class="trk" data-name="${c.name}" style="margin-left:auto; border:1px solid var(--hair); background:transparent; color:var(--soft); font-family:'IBM Plex Mono',monospace; font-size:9px; letter-spacing:0.1em; text-transform:uppercase; padding:5px 10px; cursor:pointer;">&#9734; Track</button>
             </div>
-            <div style="font-size:12.5px; color:var(--soft); margin-top:5px;">${c.role}</div>
-            ${race.region === "districts" && c.px ? `<div style="display:inline-flex; align-items:center; gap:10px; margin-top:10px; padding:7px 12px 7px 8px; background:var(--panel); border:1px solid var(--hair);">${this._miniMap(c.px, c.py)}<span style="font-family:'IBM Plex Mono',monospace; font-size:9.5px; letter-spacing:0.08em; text-transform:uppercase; color:var(--lake);">${c.area}</span></div>` : ""}
-            <div class="stance-body" data-body="${race.id}-${ci}" style="margin-top:${hasStance ? "16px" : "14px"};">
-              ${hasStance ? this._stanceHtml(c, pc, false) : `<div style="border:1px dashed var(--hair); border-left:3px solid var(--copper); padding:14px 16px; font-size:13px; color:var(--soft); line-height:1.55;">${race.region === "districts" ? `<b style="color:var(--ink);">${(c.area && c.area.split(" \u00b7 ")[1]) || "This district"} sits in a data-center hot spot.</b> ` : ""}We're still tracking ${c.name.split(" ")[0]}'s public statements &mdash; <b style="color:var(--ink);">no sourced position yet.</b> <a href="#" style="white-space:nowrap;">Have a source? &rarr;</a></div>`}
-            </div>
-            ${hasStance && c.stances.length > 1 ? `<button class="more-btn" data-race="${race.id}" data-ci="${ci}" style="margin-top:12px; border:none; background:transparent; color:var(--lake); font-family:'IBM Plex Mono',monospace; font-size:10px; letter-spacing:0.1em; text-transform:uppercase; cursor:pointer; padding:0;">+ ${c.stances.length - 1} more position${c.stances.length > 2 ? "s" : ""}</button>` : ""}
-            ${this._linksHtml(c.links)}
+            <div style="font-size:12.5px; color:var(--soft); margin-top:5px;">${this._roleText(c)}</div>
+            ${this._recordHtml(c)}
           </div>
         </div>`;
       });
@@ -581,6 +576,16 @@ class Component extends DCLogic {
   }
 
   _slug(s) { return s.toLowerCase().replace(/[^a-z0-9]+/g, "-"); }
+  _roleText(c) { let r = c.role || ""; return r.replace(/^HD-(\d+)$/, "Michigan House District $1").replace(/^SD-(\d+)$/, "Michigan Senate District $1"); }
+  _recordHtml(c) {
+    const B = { quote:["QUOTE","#0C1E33"], news:["NEWS","#1E6FC4"], x:["X","#14212E"], facebook:["FACEBOOK","#1877F2"], campaign:["CAMPAIGN","#C9781F"] };
+    const items = [];
+    (c.stances||[]).forEach(st => items.push({ b:B.quote, text:"“"+st.quote+"”", outlet:st.context||st.source, date:st.date, url:st.url }));
+    (c.links||[]).forEach(l => { const bd = B[l.platform] || [(l.platform||"LINK").toUpperCase(),"#5F6875"]; items.push({ b:bd, text:l.headline, outlet:l.source, date:l.date, url:l.url }); });
+    if (!items.length) return `<div style="margin-top:14px; padding:12px 0; border-top:1px solid var(--hair); font-size:13px; color:var(--soft);">No sourced position on record yet. <a href="#" style="color:var(--lake); white-space:nowrap;">Have a source? &rarr;</a></div>`;
+    const row = it => `<div style="display:grid; grid-template-columns:auto 1fr; gap:12px; align-items:start; padding:12px 0; border-top:1px solid var(--hair);"><span style="font-family:'IBM Plex Mono',monospace; font-size:8.5px; letter-spacing:0.08em; color:#fff; background:${it.b[1]}; padding:4px 7px; white-space:nowrap; align-self:start;">${it.b[0]}</span><div><div style="font-size:14px; font-weight:600; color:var(--ink); line-height:1.45;">${it.text}</div><div style="font-family:'IBM Plex Mono',monospace; font-size:10px; color:var(--faint); margin-top:5px;">${it.outlet} &middot; ${it.date} &middot; <a href="${it.url}" style="color:var(--lake);">Source &nearr;</a></div></div></div>`;
+    return `<div style="margin-top:14px;">${items.map(row).join("")}</div>`;
+  }
 
   _focusCandidate(name) {
     this.state.race = "legislature"; this.state.party = "all"; this.state.region = null;
