@@ -386,7 +386,7 @@ class Component extends DCLogic {
       ]},
       { id:"us-senate", title:"U.S. Senate", sub:"Open seat \u00b7 Primary Aug 4 \u00b7 General Nov 3, 2026", region:"statewide", candidates:[
         { name:"Abdul El-Sayed", photo:"img/candidates/abdul-el-sayed.jpg", photoCredit:"Ballotpedia", party:"Democratic", role:"U.S. Senate candidate", stances:[ { topic:"Data centers", quote:"Data centers must pay for their own energy demand \u2014 costs cannot be passed onto ratepayers.", source:"Abdul for U.S. Senate", date:"Jan 8, 2026", context:"Campaign: Terms of Engagement for Data Centers", url:"https://abdulforsenate.com/2026/01/datacenters/" } ] },
-        { name:"Haley Stevens", photo:"img/candidates/haley-stevens.jpg", photoCredit:"U.S. House (public domain)", party:"Democratic", role:"U.S. Senate candidate \u00b7 U.S. Rep (MI-11)", stances:[] },
+        { name:"Haley Stevens", photo:"img/candidates/haley-stevens.jpg", photoCredit:"U.S. House (public domain)", party:"Democratic", role:"U.S. Senate candidate \u00b7 U.S. Rep (MI-11)", stances:[ { topic:"Data centers & AI", kind:"position", quote:"Agreed data-center projects should include community benefit agreements and that residents deserve a voice in the decisions; on AI, cited her 2020 AI law and called for equitable investment and consumer-privacy protections.", source:"WDIV Local 4", date:"Jul 8, 2026", context:"WDIV Local 4 Democratic Senate debate", url:"https://www.clickondetroit.com/news/local/2026/07/08/michigan-us-senate-candidates-haley-stevens-abdul-el-sayed-clash-in-democratic-debate/" } ] },
         { name:"Mallory McMorrow", photo:"img/candidates/mallory-mcmorrow.jpg", photoCredit:"Wikimedia Commons", party:"Democratic", role:"U.S. Senate candidate \u00b7 State Senator (SD-8) \u00b7 Campaign suspended", stances:[ { topic:"Data centers", quote:"Data center companies, not Michigan families, should pay for their own energy [and] grid upgrades... pay their fair share in taxes... and pay our workers by creating good-paying union jobs.", source:"McMorrow campaign", date:"2026", context:"Campaign: Data Centers Done Right", url:"https://www.mcmorrowformichigan.com/data-centers-done-right" } ] },
         { name:"Mike Rogers", photo:"img/candidates/mike-rogers.jpg", photoCredit:"Wikimedia Commons", party:"Republican", role:"U.S. Senate candidate \u00b7 Former U.S. Rep", stances:[] }
       ]},
@@ -628,7 +628,7 @@ class Component extends DCLogic {
   _recordHtml(c) {
     const B = { quote:["quote","#0C1E33","Sourced quote"], news:["news","#1E6FC4","News coverage"], x:["x","#14212E","Post on X"], facebook:["facebook","#1877F2","Facebook post"], campaign:["campaign","#C9781F","Campaign statement"] };
     const items = [];
-    (c.stances||[]).forEach(st => items.push({ b:B.quote, text:"“"+st.quote+"”", outlet:st.context||st.source, date:st.date, url:st.url }));
+    (c.stances||[]).forEach(st => { const ip = st.kind === "position"; items.push({ b: ip ? B.news : B.quote, text: ip ? st.quote : "“" + st.quote + "”", outlet:st.context||st.source, date:st.date, url:st.url }); });
     (c.links||[]).forEach(l => { const bd = B[l.platform] || ["news","#5F6875",(l.platform||"Link")]; items.push({ b:bd, text:l.headline, outlet:l.source, date:l.date, url:l.url }); });
     const dv = t => { const p = Date.parse(t||""); if (!isNaN(p)) return p; const q = Date.parse("1 "+(t||"")); return isNaN(q)?0:q; };
     items.sort((a,b) => dv(b.date) - dv(a.date));
