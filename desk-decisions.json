@@ -321,6 +321,27 @@
    "at": "2026-07-10T17:55:37+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Already killed as 'Grand Rapids joins nationwide protest against AI power hunger' — same July 18 rally event."
+  },
+  {
+   "url": "https://www.mlive.com/news/ann-arbor/2026/07/vote-on-oracles-request-for-tax-break-postponed-amid-community-pushback-south-of-ann-arbor.html",
+   "title": "Saline Township Board Delays Action on Oracle's $43 Billion Data Center Tax Incentives",
+   "at": "2026-07-10T19:46:19+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This is the same Saline Township Oracle tax break postponement as candidate [0], just reworded."
+  },
+  {
+   "url": "https://www.mlive.com/environment/2026/07/northern-michigan-township-moves-toward-data-center-development-pause.html",
+   "title": "Northern Michigan Township Advances Toward Year-Long Data Center Development Freeze",
+   "at": "2026-07-10T19:46:19+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This appears to be the already-killed Garfield Township moratorium story, merely describing a planning commission step rather than a new development."
+  },
+  {
+   "url": "https://www.mlive.com/topic/data-centers/",
+   "title": "U.S. Data Center Power Demand Surges as Tech Giants Accelerate AI Infrastructure Buildout",
+   "at": "2026-07-10T19:46:19+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece with no Michigan-specific action or decision, already killed in similar form."
   }
  ],
  "auto_published": [
@@ -449,6 +470,18 @@
    "title": "Mason residents accuse outsiders of faking support in data center fight",
    "judge_score": 6,
    "at": "2026-07-10T17:55:37Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iVnFCdVd6a2RMd29CRTJ1dVh4U0NkX2NNM25yalV1OVpQeVJSWllocjd5akNXTms3encxRkpId0dzWmlBekpIb1JlMjFDdmlLTDl1WXZUTl8xWGdBTk9yRFd5TUhIamlJd2xKN0MzVy1XUm1qN3c?oc=5",
+   "title": "Ratepayers rally as Michigan activists warn AI facilities drain power and water",
+   "judge_score": 6,
+   "at": "2026-07-10T19:46:19Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOcFEyM0VPbUtZVzNUeGc4WnJoSEhEdExzOVY2blJ0Mk5FamJDNU1wUzdrUGJKWFZBc19QTnQwVHQ0RFUtcGVTRXpFNm9PRlpiNkhzdklEaWdKSU9EVmFTNDFiaFBzRWhjVEZlUmlzbllaaThRM0NyNV9DdjNvVFNQLUxhVm84QkhWRUlxSjZRc3Z0U0dZRGRwX3FFZjl6aUFPYjY4c2xpTHB4dy1oUlNIeHZCVU9hVEVGS0Ffc1pjN0M4RF80aG5hdmVBNDFpXzA0VmtydFlFamVvZXptYmFSZG13TFdMTVkydV83alRzSmFJemd2Wjln?oc=5",
+   "title": "Meta's giant Wyoming data center clears early city hurdles",
+   "judge_score": 9,
+   "at": "2026-07-10T19:46:19Z"
   }
  ]
 }

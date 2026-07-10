@@ -1,7 +1,25 @@
 {
- "updated_at": "2026-07-10T17:55:37Z",
+ "updated_at": "2026-07-10T19:46:19Z",
  "generator": "grok-wire-agent",
  "items": [
+  {
+   "iso": "2026-07-10T03:00:00+00:00",
+   "region": "mid",
+   "cat": "Mid-Michigan",
+   "tag": "Local Government",
+   "title": "Rural Township Postpones Oracle Data Center Tax Break Vote Amid Resident Backlash",
+   "dek": "Washtenaw County officials delay decision on 12-year abatement for $43 billion project near Ann Arbor after community opposition highlights concerns over infrastructure strain and local impacts.",
+   "source": "MLive",
+   "url": "https://www.mlive.com/news/ann-arbor/2026/07/5-takeaways-rural-township-postpones-data-center-tax-abatement-decision-amid-backlash.html",
+   "breaking": false,
+   "lead": true,
+   "id": "97135d2e023c",
+   "kind": "story",
+   "filed_at": "2026-07-10T19:46:10+00:00",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 9,
+   "judge_note": "A specific vote postponement on a major tax abatement is a concrete decision/action, distinct from the earlier killed story about Oracle's initial tax request."
+  },
   {
    "iso": "2026-07-09T19:00:00+00:00",
    "region": "mid",
@@ -59,5 +77,5 @@
    "judge_note": "Incremental follow-up on Saline with scheduled advisory sessions and monitoring—real next step after the consent judgment, not a duplicate of the tax break stor"
   }
  ],
- "accuracy_checked_at": "2026-07-10T17:55:33+00:00"
+ "accuracy_checked_at": "2026-07-10T19:46:11+00:00"
 }

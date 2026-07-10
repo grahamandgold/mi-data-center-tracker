@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-10T17:55:37Z",
+ "updated_at": "2026-07-10T19:46:19Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Ratepayers rally as Michigan activists warn AI facilities drain power and water",
+   "dek": "City residents will rally July 18 with more than 50 other communities worried about power and water demands from AI facilities. Kent County activists say the rapid buildout threatens ratepayers and local resources without enough oversight. The event shows Michigan's data center debate is now reaching the streets.",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iVnFCdVd6a2RMd29CRTJ1dVh4U0NkX2NNM25yalV1OVpQeVJSWllocjd5akNXTms3encxRkpId0dzWmlBekpIb1JlMjFDdmlLTDl1WXZUTl8xWGdBTk9yRFd5TUhIamlJd2xKN0MzVy1XUm1qN3c?oc=5",
+   "source": "Mix 95.7",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Kent",
+   "tag": "Policy",
+   "iso": "2026-07-10T19:06:01Z",
+   "id": "adf2e2813949",
+   "origin": "google-news",
+   "source_title": "Grand Rapids Joins 50+ Cities In A July 18 Protest Over AI Data Centers - Mix 95.7",
+   "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iVnFCdVd6a2RMd29CRTJ1dVh4U0NkX2NNM25yalV1OVpQeVJSWllocjd5akNXTms3encxRkpId0dzWmlBekpIb1JlMjFDdmlLTDl1WXZUTl8xWGdBTk9yRFd5TUhIamlJd2xKN0MzVy1XUm1qN3c?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
   {
    "title": "Mason residents accuse outsiders of faking support in data center fight",
    "dek": "A local debate over a proposed data center in Mason has turned heated after claims that fake grassroots support is being manufactured. Ingham County neighbors worry about noise, power strain and lost farmland if the project advances. The accusations are fracturing trust just as officials weigh next steps.",
@@ -35,6 +52,23 @@
    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON2JENVdwRExKbTg3emxVRS1KazRUb19lNXJNeTh0V2c5ZWEyejRsMkxLVHBSWkRxN1lBV2xhSFpfWnJHd0dILWd4YWh0Nkp5OXVLaTd2VW1GekFZQlhVOVc2VmRPSFZacWJjV24teWw3M3Q3SzdQUXl6eXVtQUxiOU4xYXJrNjM5Rmhvb0M1NkFVdHE4?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
+  },
+  {
+   "title": "Meta's giant Wyoming data center clears early city hurdles",
+   "dek": "Officials in Wyoming have signed off on the 715,000-square-foot Meta campus, locking in one of the largest projects yet in Kent County. The facility will pull substantial electricity and could reshape local tax rolls and grid planning. Neighbors are already asking what the power draw will mean for their bills.",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOcFEyM0VPbUtZVzNUeGc4WnJoSEhEdExzOVY2blJ0Mk5FamJDNU1wUzdrUGJKWFZBc19QTnQwVHQ0RFUtcGVTRXpFNm9PRlpiNkhzdklEaWdKSU9EVmFTNDFiaFBzRWhjVEZlUmlzbllaaThRM0NyNV9DdjNvVFNQLUxhVm84QkhWRUlxSjZRc3Z0U0dZRGRwX3FFZjl6aUFPYjY4c2xpTHB4dy1oUlNIeHZCVU9hVEVGS0Ffc1pjN0M4RF80aG5hdmVBNDFpXzA0VmtydFlFamVvZXptYmFSZG13TFdMTVkydV83alRzSmFJemd2Wjln?oc=5",
+   "source": "inkl",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Kent",
+   "tag": "Power & Grid",
+   "iso": "2026-07-10T14:53:09Z",
+   "id": "7772010c59db",
+   "origin": "google-news",
+   "source_title": "Wyoming officials say Meta’s 715,000-square-foot data… - inkl",
+   "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOcFEyM0VPbUtZVzNUeGc4WnJoSEhEdExzOVY2blJ0Mk5FamJDNU1wUzdrUGJKWFZBc19QTnQwVHQ0RFUtcGVTRXpFNm9PRlpiNkhzdklEaWdKSU9EVmFTNDFiaFBzRWhjVEZlUmlzbllaaThRM0NyNV9DdjNvVFNQLUxhVm84QkhWRUlxSjZRc3Z0U0dZRGRwX3FFZjl6aUFPYjY4c2xpTHB4dy1oUlNIeHZCVU9hVEVGS0Ffc1pjN0M4RF80aG5hdmVBNDFpXzA0VmtydFlFamVvZXptYmFSZG13TFdMTVkydV83alRzSmFJemd2Wjln?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 9
   },
   {
    "title": "Saline data center digging threatens ponds and groundwater",
@@ -152,36 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOczE0S0RtUU1zR3FiYzFMcFpOaTlpQ3h1SzhVc1lEMkxnUHA0aHNONjNsbUdhQ09wdW45WWN6cFd4RWhYWjV6UlVGakNma1RwZEVZRzhqTlFNc1VpMDZaOXdldWRzNHdZUmlWbENMLTVSV1djWEFUSHJFOW5XZVU1cWJzVTZaWXJCeHhHWW5wel9OV0dTdURaeXBITjNrZTNVOXZfbUtSTVRTTGxWdk9Ma2xyY3hPUlFQcDFiQVBsYnVsY1RPVkpwSkFnR19HS3VoNnNXYUNRdXctbFdBUHllckRkWkzSAeQBQVVfeXFMTnMxNEtEbVFNc0dxYmMxTHBaTmk5aUN4dUs4VXNZRDJMZ1BwNGhzTjYzbG1HYUNPcHVuOVljenBXeEVoWFo1elJVRmpDZmtUcGRFWUc4ak5RTXNVaTA2Wjl3ZXVkczR3WVJpVmxDTC01UldXY1hBVEhyRTluV2VVNXFic1U2WllyQnh4R1lucHpfTldHU3VEWnlwSE4za2UzVTl2X21LUk1UU0xsVnZPTGtscmN4T1JRUHAxYkFQbGJ1bGNUT1ZKcEpBZ0dfR0t1aDZzV2FDUXV3LWxXQVB5ZXJEZFpM?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
-  },
-  {
-   "title": "Michigan town sues over nonstop data-center noise in federal court",
-   "dek": "Residents of one Michigan community claim an AI data center’s constant hum has made normal life impossible. The lawsuit asks a federal judge to intervene after local officials failed to act. Homeowners within earshot stand to gain relief or face years of disrupted sleep.",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaUI5N3poQk9makJjdjFrT2czbHBTcmZtbEdqYzZUMWE1N1luSV82NWhhenZDOHY5bWh3Y2U1T3M5MzIxd2RjczhJMmNQZVhGaFpCSDNlZGdXSldPNGdhMkoyYk1aUG1SZFNySjZ0ZjhkaHVBWVJ2UFFLZW9xU3BiM0Y1WjlGQXM?oc=5",
-   "source": "Yahoo",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Local Government",
-   "iso": "2026-07-09T16:19:36Z",
-   "id": "1e783dbab61d",
-   "origin": "google-news",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
-  },
-  {
-   "title": "Eaton planners flag power and water risks from Amazon-linked site",
-   "dek": "Eaton County commissioners questioned a data-center project tied to Amazon land during a study session. Staff were told to draft the county’s first zoning rules for the use. Nearby residents face higher utility bills and strained water supplies if it proceeds.",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUlZrd0prX0dOMmJXWWxMcjYtR20tUnUxY2JEUGhnc2lTX0JadFVXeDNzclRHLWM3SFFVNXJJYl9yZy0tejQwMkM1OVYxdkpmUDBRelRLZ1JpRzRWZExzMFp4dm1POUZjNGFHTlBGZEt6TWlEWVJOUElqbG04QTJZNmZEUUVicGNacVl1NnRkb255UjQ0SURGT1FieWtManp4d3BJMFdhVjQ4WVdVdkZOdnFjRGlCQzJmUldyY29TWlBCTjRaQ2p4aHhnalN5X3lLWEtUekxGc1FKUzA?oc=5",
-   "source": "facebook.com",
-   "region": "mid",
-   "cat": "STATEWIDE",
-   "county": "Eaton",
-   "tag": "Power & Grid",
-   "iso": "2026-07-09T15:00:32Z",
-   "id": "ef4777be1e6b",
-   "origin": "google-news",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {
