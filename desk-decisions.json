@@ -377,6 +377,20 @@
    "at": "2026-07-10T22:35:11+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Duplicate of killed story 'Grand Rapids joins nationwide protest against AI power hunger' — same July 18 multi-city rally event."
+  },
+  {
+   "url": "https://civicmedia.us/news/2026/07/10/gop-gubernatorial-candidates-trade-personal-blows-agree-on-taxes-and-data-centers",
+   "title": "GOP Debate Splits on Data Centers: Johnson Seeks Moratorium, Rivals Back Local Veto",
+   "at": "2026-07-10T23:38:38+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: Duplicate of killed stories about GOP/Senate candidates debating data center rules; same debate event with slightly different framing."
+  },
+  {
+   "url": "https://www.nprillinois.org/economy-business/2026-07-10/data-centers-have-moved-into-rural-america-so-have-the-concerns",
+   "title": "Rural Residents Most Worried About Data Centers Raising Power Costs and Using Farmland",
+   "at": "2026-07-10T23:38:38+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece with generic survey findings, no Michigan-specific development or decision."
   }
  ],
  "auto_published": [
