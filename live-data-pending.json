@@ -1,7 +1,81 @@
 {
- "updated_at": "2026-07-10T19:46:19Z",
+ "updated_at": "2026-07-10T21:15:56Z",
  "generator": "grok-wire-agent",
  "items": [
+  {
+   "iso": "2026-07-09T18:00:00+00:00",
+   "region": "metro",
+   "cat": "Washtenaw Co.",
+   "tag": "Money",
+   "title": "Residents blast 50% tax cut for Oracle's $43B Saline data center",
+   "dek": "Two locals say the 12-year abatement would leave neighbors facing higher power bills and pollution while the company avoids paying its share.",
+   "source": "WXYZ",
+   "url": "https://www.wxyz.com/news/region/washtenaw-county/saline-township-to-vote-on-12-year-tax-break-for-oracles-43b-data-center-project",
+   "breaking": false,
+   "lead": true,
+   "id": "c216f477d795",
+   "kind": "story",
+   "filed_at": "2026-07-10T21:15:24+00:00",
+   "accuracy": "checked-rewritten",
+   "headline_rewritten": true,
+   "judge_score": 8,
+   "judge_note": "Concrete new development: residents testifying against a specific $43B tax abatement proposal in Saline, a clear next step beyond the earlier delay story."
+  },
+  {
+   "iso": "2026-07-09T12:00:00+00:00",
+   "region": "metro",
+   "cat": "Lenawee Co.",
+   "tag": "Local Government",
+   "title": "Adrian Hits Pause on New Data Centers to Safeguard Water, Power and Neighborhoods",
+   "dek": "City enacts year-long moratorium on proposals, giving officials time to craft rules before big projects strain resources.",
+   "source": "Google News",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQ0xCMzZYQmFuVXNfcXBMZnBhc1JaVXJXeE9sRW1MLWgydkF1dmtJSHBKNHpZYzZPNWkyejctNHhXOHN3VXdMSXZoZTNSZl9XWDhpS3FlcU5kRzB4SkFHazg0b3BDcE9veEhZRG00bFduLUZma3JuZmYybzgyWkd4UXhHZFJqUWFfcnJuNHFURjAyTS1YYW9kQk1OVnhQSmNPVFJlelJWYnA4MlVVMDNZQmZ3SkNkWE9CalhtcGZHdXh2UGFYZEotZkFWSE5xcnNsZnZZMWMxQ2NCbUR0?oc=5",
+   "breaking": false,
+   "lead": false,
+   "id": "00e3c1aeb45a",
+   "kind": "story",
+   "filed_at": "2026-07-10T21:15:24+00:00",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 9,
+   "judge_note": "Adrian enacts a year-long moratorium—a definitive vote/decision in a new municipality, directly parallel to the Houghton action already live."
+  },
+  {
+   "iso": "2026-07-08T20:00:00+00:00",
+   "region": "west",
+   "cat": "Branch Co.",
+   "tag": "Local Government",
+   "title": "Girard Township Tightens Data Center Zoning Rules as Coldwater Prepares Its Own Safeguards",
+   "dek": "New limits aim to curb impacts on farmland and infrastructure while neighboring city drafts matching protections.",
+   "source": "Google News",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSUw3bEFEVGZQMTA2MUt4ZkY2TTdwNVhzVzlja2FXNTF1YndUYU5hWjVuUmtmd2VjOEVQYjA5WUdRZ0g1cHRQbDRCZUV3VXpMR2NPLW45Z2h6VEV3bU9jQTlPalUyVmlZTWowbFJ4MzNRaG9WX291a3hlOXBtXzFaVDRUM0R2Y2ZSTVpvZjk3M29FbGYtMUY5ZC1JR1F0MUZaY0VsbGh1M2V1RE1zbkZVdE5LTnJ3VURUZGQxRjJtSjRrUENVRjdIZDhSTGpYWU1CVGxNOERibUVRSjNvV2huRnZNak5xdUxx?oc=5",
+   "breaking": false,
+   "lead": false,
+   "id": "092f17237db4",
+   "kind": "story",
+   "filed_at": "2026-07-10T21:15:24+00:00",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7,
+   "judge_note": "Girard Township adopts new zoning rules (beyond the earlier single-parcel confinement) and Coldwater is drafting its own—two concrete municipal actions."
+  },
+  {
+   "iso": "2026-07-10T15:00:00+00:00",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "tag": "Policy",
+   "title": "House Democrats File Data Center Rules on Power Costs, Water Use and Noise",
+   "dek": "Bills would require developers to cover full electricity expenses, sign community agreements and face water limits as projects advance across Michigan.",
+   "source": "Michigan Advance",
+   "url": "https://michiganadvance.com/2026/06/26/michigan-house-democrats-pitch-transparency-community-benefit-requirements-for-data-centers/",
+   "breaking": false,
+   "lead": false,
+   "id": "6e5931bfe1d8",
+   "kind": "national",
+   "filed_at": "2026-07-10T21:15:24+00:00",
+   "accuracy": "checked-rewritten",
+   "headline_rewritten": true,
+   "judge_score": 7,
+   "judge_note": "House Democrats file specific bills with concrete provisions—a legislative filing is a tangible development, though national in scope."
+  },
   {
    "iso": "2026-07-10T03:00:00+00:00",
    "region": "mid",
@@ -77,5 +151,5 @@
    "judge_note": "Incremental follow-up on Saline with scheduled advisory sessions and monitoring—real next step after the consent judgment, not a duplicate of the tax break stor"
   }
  ],
- "accuracy_checked_at": "2026-07-10T19:46:11+00:00"
+ "accuracy_checked_at": "2026-07-10T21:15:46+00:00"
 }

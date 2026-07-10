@@ -342,6 +342,27 @@
    "at": "2026-07-10T19:46:19+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece with no Michigan-specific action or decision, already killed in similar form."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yZEo1RURocXVKaDhXcW8zNnh3Z1hkTkV6LWpKendDUkd0ZFB0SmVodkNFaDlZREY3eGVob0V2WXlfbWZtbk1zbk9iU00tUQ?oc=5",
+   "title": "Girard Township Adopts Strict New Rules to Control Data Center Growth",
+   "at": "2026-07-10T21:15:56+00:00",
+   "by": "news_judge",
+   "note": "score 5/10, duplicate: Appears to cover the same Girard Township zoning adoption as candidate [2], just with a vaguer headline."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GMERBS0luc20tRGxtTGZsZ1Z6YWJ2bndqSGlNYkJGdWFlSUxtNHc0UFpDQkItaHNMcHFSeHVhWVhNNmpUeFBfYVBQVlZROHk2eWQ2aV81bXBJWGQ0LWVsS0o3enRJZW50?oc=5",
+   "title": "Northern Michigan township eyes one-year data center freeze",
+   "at": "2026-07-10T21:15:56+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: Generic 'northern Michigan township' moratorium matches the already-killed 'Northern Michigan township advances data center moratorium' story."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkNUZId2g1QUt0NHlnMGlZY3kzZmVOSzc5TDlRb3NGT2NPXzJQSHQ4bW1mTHk3dFBka3VzVnpZTGp6b3lDcDdIeHRnRkxpdW5WUnV5RkR5NTBxbGEyaG9BYXNqNWNFNEdVSEpDcE9HdF8?oc=5",
+   "title": "West Michigan residents rally against data center energy costs, grid strain",
+   "at": "2026-07-10T21:15:56+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Grand Rapids rally is the same event as the already-killed 'Grand Rapids joins nationwide protest' stories, just reworded."
   }
  ],
  "auto_published": [
@@ -482,6 +503,12 @@
    "title": "Meta's giant Wyoming data center clears early city hurdles",
    "judge_score": 9,
    "at": "2026-07-10T19:46:19Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBidUpqcFNSR09YdXlLT1ltTDZfcU1NT09DcjM3eDVyM2pQUFpneXlPV3NMbjhQRXBpby1qZWVRcGpmTnR2TFp6UUxwUV81T3BaRjJQVS1nYUJoQmpKVFpDZDR6dC1GaTNBTkloMkdQQzlSVVNFWDNYR0I2OEg?oc=5",
+   "title": "Dingell probes U-M data center plan with Los Alamos ties",
+   "judge_score": 8,
+   "at": "2026-07-10T21:15:56Z"
   }
  ]
 }
