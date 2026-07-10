@@ -11,6 +11,7 @@
     stories: ["stories.html"],
     meetings: ["meetings.html"],
     learn: ["learn.html", "methodology.html", "privacy.html"],
+    voice: ["your-voice-2026.html"],
     sponsor: ["sponsorship.html"]
   };
 

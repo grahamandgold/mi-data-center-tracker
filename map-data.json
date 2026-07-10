@@ -18,6 +18,22 @@
    "note": "250-acre build on 575-acre property. Full construction targeted early 2026."
   },
   {
+   "name": "Marshall Technology & Energy Center",
+   "municipality": "Marshall",
+   "county": "Calhoun",
+   "status": "Proposed",
+   "layer": "projects",
+   "developer": "Alterra Development",
+   "power_mw": "400",
+   "latitude": 42.272,
+   "longitude": -84.963,
+   "source_url": "https://wwmt.com/news/local/story/data-center-gas-generation-plant-proposed-in-marshall-alterra-development-calhoun-county-energy-electricity-water",
+   "source_name": "WWMT",
+   "verified_date": "2026-07-09",
+   "confidence": "Reported",
+   "note": "Data center + on-site gas generation on 200+ acres in Brooks Industrial Park. ~400 MW grid import at peak; up to ~1,400 MW including on-site gas if fully built out. Due diligence expected through Q3 2026; significant local opposition over wetlands and water."
+  },
+  {
    "name": "Van Buren Township Google proposal",
    "municipality": "Van Buren Township",
    "county": "Wayne",

@@ -30,6 +30,7 @@ Coverage language should say **tracked**, **monitored**, or **updated as records
 - `stories.html` — The Wire / published stories
 - `meetings.html` — hearings and public meetings
 - `learn.html` — methodology and sources
+- `your-voice-2026.html` — 2026 candidate stances on data centers (sourced quotes, ZIP lookup)
 - `sponsor.html` — partnership / support
 - `handoff/` — design source + CMS wiring notes
 
