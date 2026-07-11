@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-11T14:06:58Z",
+ "updated_at": "2026-07-11T15:33:35+00:00",
  "generator": "grok-wire-agent",
  "items": [
   {
@@ -43,24 +43,6 @@
    "judge_note": "House Democrats file specific bills with concrete provisions—a legislative filing is a tangible development, though national in scope."
   },
   {
-   "iso": "2026-07-10T03:00:00+00:00",
-   "region": "mid",
-   "cat": "Mid-Michigan",
-   "tag": "Local Government",
-   "title": "Rural Township Postpones Oracle Data Center Tax Break Vote Amid Resident Backlash",
-   "dek": "Washtenaw County officials delay decision on 12-year abatement for $43 billion project near Ann Arbor after community opposition highlights concerns over infrastructure strain and local impacts.",
-   "source": "MLive",
-   "url": "https://www.mlive.com/news/ann-arbor/2026/07/5-takeaways-rural-township-postpones-data-center-tax-abatement-decision-amid-backlash.html",
-   "breaking": false,
-   "lead": true,
-   "id": "97135d2e023c",
-   "kind": "story",
-   "filed_at": "2026-07-10T19:46:10+00:00",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 9,
-   "judge_note": "A specific vote postponement on a major tax abatement is a concrete decision/action, distinct from the earlier killed story about Oracle's initial tax request."
-  },
-  {
    "iso": "2026-07-10T10:00:00+00:00",
    "region": "statewide",
    "cat": "STATEWIDE",
@@ -80,5 +62,5 @@
    "judge_note": "Major new project confirmation: 1.4 GW OpenAI-Oracle campus with specific job numbers, acreage, and tax abatement details — concrete development."
   }
  ],
- "accuracy_checked_at": "2026-07-11T14:06:55+00:00"
+ "accuracy_checked_at": "2026-07-11T15:33:33+00:00"
 }
