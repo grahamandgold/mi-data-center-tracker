@@ -3,7 +3,7 @@
   {
    "id": "b7bd8c74ab0f",
    "to": "Managing Editor",
-   "status": "open",
+   "status": "answered",
    "messages": [
     {
      "from": "Andy",
@@ -19,8 +19,14 @@
      "from": "Andy",
      "text": "why is there a 9am meeting in the next up cue when it's 8:25pm ?",
      "at": "2026-07-11T00:26:23Z"
+    },
+    {
+     "from": "Managing Editor",
+     "text": "Good catch — that's stale. I'm pulling it out of the queue now and flagging it with the Assignment Manager so we tighten up the meeting timing logic. We shouldn't have daytime meetings sitting in prime evening slots.",
+     "at": "2026-07-11T00:26:41Z"
     }
-   ]
+   ],
+   "lesson_filed": "Meeting stories should be pulled from the queue once their scheduled time has passed."
   },
   {
    "id": "54c4c93cd352",
@@ -57,5 +63,5 @@
    ]
   }
  ],
- "updated_at": "2026-07-11T00:26:23Z"
+ "updated_at": "2026-07-11T00:26:41Z"
 }

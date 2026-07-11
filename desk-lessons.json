@@ -71,6 +71,11 @@
   {
    "text": "Story sent back ('Girard Township passes strict new zoning rules for data centers'): this headline is almost matching the source headline. they must be different. remember that..",
    "at": "2026-07-09T18:32:55Z"
+  },
+  {
+   "text": "[wire] Meeting stories should be pulled from the queue once their scheduled time has passed.",
+   "at": "2026-07-11T00:26:41Z",
+   "source": "news-director-message"
   }
  ],
  "rules": [
