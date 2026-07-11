@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-11T15:33:33+00:00",
+ "updated_at": "2026-07-11T16:30:24Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Garfield Twp planners back option to freeze new data centers",
+   "dek": "A township panel has advanced a moratorium proposal while residents debate the impact of large-scale facilities on local power and land use. The move comes as data-center interest grows in northwest Michigan. Grand Traverse County residents could see development paused if township leaders adopt the recommendation.",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOT09UUGJQNmVMOVJfRTlnVTRzenFGLWRyQjFxQ2NzMkxIOGdGUV9uZlI1NnFGcUMxekxodUlUS3ZTdFNBRFpDWmVhd0hLd2otUkFHekNnbW1ubkttdGlNakYyUkJkUy15eEhiRmRqb0ZucHg2OXlDVllnUjNxQktGMDR3anFRNGN3bXBhRHFhZEEzdFZkT0dBcTJNT3BBZDJkR0xFV1pnTk5rWkFzM2twOEZzcDl0eU5tRTA1d1dKYUh0ZnVTZmExRjZtdWFMckw0XzItU3JvZW5MMUo4RTE0TF9IcG8yRExj?oc=5",
+   "source": "WPBN",
+   "region": "north",
+   "cat": "STATEWIDE",
+   "county": "Grand Traverse",
+   "tag": "Local Government",
+   "iso": "2026-07-11T15:55:50Z",
+   "id": "bbb9e6efad9d",
+   "origin": "google-news",
+   "source_title": "Garfield Township panel recommends moratorium option amid data center debate - WPBN",
+   "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOT09UUGJQNmVMOVJfRTlnVTRzenFGLWRyQjFxQ2NzMkxIOGdGUV9uZlI1NnFGcUMxekxodUlUS3ZTdFNBRFpDWmVhd0hLd2otUkFHekNnbW1ubkttdGlNakYyUkJkUy15eEhiRmRqb0ZucHg2OXlDVllnUjNxQktGMDR3anFRNGN3bXBhRHFhZEEzdFZkT0dBcTJNT3BBZDJkR0xFV1pnTk5rWkFzM2twOEZzcDl0eU5tRTA1d1dKYUh0ZnVTZmExRjZtdWFMckw0XzItU3JvZW5MMUo4RTE0TF9IcG8yRExj?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Saline Township data center swells to $16B with financing locked",
    "dek": "Developers have secured funding that pushes the Saline project cost to $16 billion. Local taxpayers will feel the impact through any tax incentives and new power demand. The scale now rivals the largest U.S. campuses and will shape Washtenaw County growth for years.",
@@ -171,23 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOcFEyM0VPbUtZVzNUeGc4WnJoSEhEdExzOVY2blJ0Mk5FamJDNU1wUzdrUGJKWFZBc19QTnQwVHQ0RFUtcGVTRXpFNm9PRlpiNkhzdklEaWdKSU9EVmFTNDFiaFBzRWhjVEZlUmlzbllaaThRM0NyNV9DdjNvVFNQLUxhVm84QkhWRUlxSjZRc3Z0U0dZRGRwX3FFZjl6aUFPYjY4c2xpTHB4dy1oUlNIeHZCVU9hVEVGS0Ffc1pjN0M4RF80aG5hdmVBNDFpXzA0VmtydFlFamVvZXptYmFSZG13TFdMTVkydV83alRzSmFJemd2Wjln?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 9
-  },
-  {
-   "title": "Saline data center digging threatens ponds and groundwater",
-   "dek": "Construction activity at the Saline site has triggered questions about how much water will be pumped out and where it will go. Nearby residents worry about lowered water tables and impacts on local ponds that supply homes and farms. The issue puts concrete stakes on the table for Washtenaw County households already concerned about data-center water use.",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLWxDRVVqbnFFeWJYdXRrWE1aR0xVZFlJV1FvX0NodGFsNVotaHVwajR1aXVNalBldWQ4Y3pYY19XNnhOWjFlS3RoU2xVVDlHbUxGSEw2TW00ZnFkYXZVRm5MVmZtRlV4LXNLNWJQLURpMUh6ZDg0MXUxd3lYeU0xOUVNV05Zd0d4SGRiRFlB?oc=5",
-   "source": "The Sun Times News",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Water",
-   "iso": "2026-07-10T12:00:41Z",
-   "id": "5b8861a77686",
-   "origin": "google-news",
-   "source_title": "Saline Data Center Work Raises Dewatering, Pond Questions - The Sun Times News",
-   "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLWxDRVVqbnFFeWJYdXRrWE1aR0xVZFlJV1FvX0NodGFsNVotaHVwajR1aXVNalBldWQ4Y3pYY19XNnhOWjFlS3RoU2xVVDlHbUxGSEw2TW00ZnFkYXZVRm5MVmZtRlV4LXNLNWJQLURpMUh6ZDg0MXUxd3lYeU0xOUVNV05Zd0d4SGRiRFlB?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {
