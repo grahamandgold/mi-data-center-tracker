@@ -3,12 +3,17 @@
   {
    "id": "b7bd8c74ab0f",
    "to": "Managing Editor",
-   "status": "open",
+   "status": "answered",
    "messages": [
     {
      "from": "Andy",
      "text": "how are things looking?",
      "at": "2026-07-11T00:24:44Z"
+    },
+    {
+     "from": "Managing Editor",
+     "text": "Things are solid. We've got 11 stories live and holding steady, 20 mapped projects in the pipeline, and 33 moratoria we're tracking. Nothing's on fire, and the team's moving through the queue. Anything specific you want me to tighten up?",
+     "at": "2026-07-11T00:24:59Z"
     }
    ]
   },
@@ -47,5 +52,5 @@
    ]
   }
  ],
- "updated_at": "2026-07-11T00:24:44Z"
+ "updated_at": "2026-07-11T00:24:59Z"
 }
