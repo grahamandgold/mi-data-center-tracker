@@ -3,7 +3,7 @@
   {
    "id": "b7bd8c74ab0f",
    "to": "Managing Editor",
-   "status": "open",
+   "status": "answered",
    "messages": [
     {
      "from": "Andy",
@@ -39,6 +39,11 @@
      "from": "Andy",
      "text": "wouldnt that be the website manager's job?",
      "at": "2026-07-11T00:28:23Z"
+    },
+    {
+     "from": "Managing Editor",
+     "text": "You're right — that's on the Website Manager, not Emmy. I'll loop them in to fix the CSS or layout issue in the approval queue. My bad on the handoff.",
+     "at": "2026-07-11T00:28:36Z"
     }
    ],
    "lesson_filed": "Meeting stories should be pulled from the queue once their scheduled time has passed."
@@ -78,5 +83,5 @@
    ]
   }
  ],
- "updated_at": "2026-07-11T00:28:23Z"
+ "updated_at": "2026-07-11T00:28:36Z"
 }
