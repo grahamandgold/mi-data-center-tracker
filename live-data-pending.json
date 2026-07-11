@@ -1,26 +1,7 @@
 {
- "updated_at": "2026-07-11T04:22:36+00:00",
+ "updated_at": "2026-07-11T06:38:34+00:00",
  "generator": "grok-wire-agent",
  "items": [
-  {
-   "iso": "2026-07-09T18:00:00+00:00",
-   "region": "metro",
-   "cat": "Washtenaw Co.",
-   "tag": "Money",
-   "title": "Residents blast 50% tax cut for Oracle's $43B Saline data center",
-   "dek": "Two locals say the 12-year abatement would leave neighbors facing higher power bills and pollution while the company avoids paying its share.",
-   "source": "WXYZ",
-   "url": "https://www.wxyz.com/news/region/washtenaw-county/saline-township-to-vote-on-12-year-tax-break-for-oracles-43b-data-center-project",
-   "breaking": false,
-   "lead": true,
-   "id": "c216f477d795",
-   "kind": "story",
-   "filed_at": "2026-07-10T21:15:24+00:00",
-   "accuracy": "checked-rewritten",
-   "headline_rewritten": true,
-   "judge_score": 8,
-   "judge_note": "Concrete new development: residents testifying against a specific $43B tax abatement proposal in Saline, a clear next step beyond the earlier delay story."
-  },
   {
    "iso": "2026-07-10T15:00:00+00:00",
    "region": "statewide",
@@ -115,5 +96,5 @@
    "judge_note": "Incremental follow-up on Saline with scheduled advisory sessions and monitoring—real next step after the consent judgment, not a duplicate of the tax break stor"
   }
  ],
- "accuracy_checked_at": "2026-07-11T04:22:33+00:00"
+ "accuracy_checked_at": "2026-07-11T06:38:34+00:00"
 }
