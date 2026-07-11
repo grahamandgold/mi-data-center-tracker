@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-11T10:22:38+00:00",
+ "updated_at": "2026-07-11T11:33:28Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Carpenters union throws support behind STREAM data center build",
+   "dek": "The union backing the STREAM project signals hundreds of construction jobs could come to the area if the data center is approved. Local workers would gain steady paychecks, but nearby towns would also face new demands on roads, water, and electricity. The endorsement raises the stakes for communities weighing the trade-offs in mid-Michigan.",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTmlBc0xBRmFITHYxcm5YZFpNcExRY0RDZkUxUGpCeHd1ajZHUUFRU0swMGxfNHRxb2dRTlpzWTlsYlUzdTdNR2VHcGZkLWdxVEMzMUE3ZW83V3Nic0dGd3pZeVI0bWlFTVM4dUFpcmJTeXJBdkFUMDJEUlFrWFREZWctTi1wSV9jUElhb1FYUGFiQVdqa194eG5LS3FqSFFQTE8yQ2NjcU4yXzBiXzNYdy1DVDVyR1pfODlmczFmLVh3SFNEN2J0QzlfNXNUZHlXVjhrbjdn?oc=5",
+   "source": "TheDailyNewsOnline.com",
+   "region": "mid",
+   "cat": "STATEWIDE",
+   "county": "Hillsdale",
+   "tag": "Money",
+   "iso": "2026-07-11T03:30:00Z",
+   "id": "f37c306597e0",
+   "origin": "google-news",
+   "source_title": "Carpenters' union backs STREAM Data Center project - TheDailyNewsOnline.com",
+   "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTmlBc0xBRmFITHYxcm5YZFpNcExRY0RDZkUxUGpCeHd1ajZHUUFRU0swMGxfNHRxb2dRTlpzWTlsYlUzdTdNR2VHcGZkLWdxVEMzMUE3ZW83V3Nic0dGd3pZeVI0bWlFTVM4dUFpcmJTeXJBdkFUMDJEUlFrWFREZWctTi1wSV9jUElhb1FYUGFiQVdqa194eG5LS3FqSFFQTE8yQ2NjcU4yXzBiXzNYdy1DVDVyR1pfODlmczFmLVh3SFNEN2J0QzlfNXNUZHlXVjhrbjdn?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Haring Township set to halt all data center proposals for six months",
    "dek": "Haring Township supervisors will vote on a six-month moratorium that would block new data center applications while the township writes permanent rules. Residents in this Wexford County community worry about sudden spikes in power demand and noise from hyperscale facilities. The pause gives local officials time to study water use and tax impacts before any project advances.",
@@ -169,23 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOGlOWWh5V3ZjRzJBYS0tYzRiU3lTbmM2QVZtWV9sWW9JLUVWeGNuVWxFVF9MVElFRWZUQUhWb2hTczhUWTl5OXIzSGVnSVE0M3dsWVJvRkdNYzdwRGVjVHc5ZFZfWWZBZEhkOGpBLXJhd2VwME82dTZuYzlGYUpuVDFmeGNFR2RtLWR3WWw2UUhkSFNZYWJfMWtZMWtmQXF6MW0tZXhGaExNWmRwNGlfcURxTDg?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Houghton bans new data centers for a year after resident pushback",
-   "dek": "City council voted a temporary moratorium while it writes rules on power use, noise, and water. The pause gives Houghton County residents time to weigh whether large facilities fit a city already short on electricity. Similar steps are now under discussion in nearby townships.",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ250Zlo5dTB0cE40VXBjTnY4LTFXM2FVMTBjYkcyTjhXWmk5aW96MEF3MWtGWEVid0RwZnJBNjN1bzlZTktTYWh0WlNiY0tJZjFTS0hCal9iOVh1MWJKUG03UXROU05FR25MeUZNM2ZtQWE2MEcwSllQWnFJN1lXb2VBb2tCSVNOdUVsNXRLT1ZDNDE2MUFVeXdreFlub0tLV1RhalRFZGVfaEZBNFRhT25R0gHGAUFVX3lxTE9VVUVpTlozeG9IVTNXbTNsaUg2d3RWT00xT3A2VDdFeHd5U21qdXlNaTBHeW1keDFiMXJYVEMtVnZNMlBjMXJKRFdVc1V2aUg2ZVFRcDl3aVN3VWNNT0RVVFNSWEN3dlZCMjBQQlJ5TWRlR3RWV3VGNHZXYlpnYWlLNUJSWFJscW5MZjNwZ3ZVR25oSjZHeGVLQ0ZSaG14ZVA5S25fTE4tVmhLN0gwal85VVlYQzZSVURQWGVZVkJpbWJUaVJjdw?oc=5",
-   "source": "Upper Michigan's Source",
-   "region": "north",
-   "cat": "STATEWIDE",
-   "county": "Houghton",
-   "tag": "Local Government",
-   "iso": "2026-07-09T22:21:00Z",
-   "id": "d7030301f6ae",
-   "origin": "google-news",
-   "source_title": "Houghton City Council approves temporary data center moratorium - Upper Michigan's Source",
-   "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ250Zlo5dTB0cE40VXBjTnY4LTFXM2FVMTBjYkcyTjhXWmk5aW96MEF3MWtGWEVid0RwZnJBNjN1bzlZTktTYWh0WlNiY0tJZjFTS0hCal9iOVh1MWJKUG03UXROU05FR25MeUZNM2ZtQWE2MEcwSllQWnFJN1lXb2VBb2tCSVNOdUVsNXRLT1ZDNDE2MUFVeXdreFlub0tLV1RhalRFZGVfaEZBNFRhT25R0gHGAUFVX3lxTE9VVUVpTlozeG9IVTNXbTNsaUg2d3RWT00xT3A2VDdFeHd5U21qdXlNaTBHeW1keDFiMXJYVEMtVnZNMlBjMXJKRFdVc1V2aUg2ZVFRcDl3aVN3VWNNT0RVVFNSWEN3dlZCMjBQQlJ5TWRlR3RWV3VGNHZXYlpnYWlLNUJSWFJscW5MZjNwZ3ZVR25oSjZHeGVLQ0ZSaG14ZVA5S25fTE4tVmhLN0gwal85VVlYQzZSVURQWGVZVkJpbWJUaVJjdw?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 9
   }
  ],
  "national": {
