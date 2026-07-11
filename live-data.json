@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-11T12:34:37Z",
+ "updated_at": "2026-07-11T14:06:58Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Saline Township data center swells to $16B with financing locked",
+   "dek": "Developers have secured funding that pushes the Saline project cost to $16 billion. Local taxpayers will feel the impact through any tax incentives and new power demand. The scale now rivals the largest U.S. campuses and will shape Washtenaw County growth for years.",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNzIwV3ZDdGc2akh3QU1XQV83ODhsS1BndkU5RHdGTGlTZTh1azI1T1NJZmYxbUhMXzdWMkNjVXIzOWRXRGxIQnJ4QTVYMFFxa2lfamdTOUVzVzlTN2tWWjN2WVNTMGRxNFlXeDN3RkFDLXRXQXdTamZhd0lobHZWdmQtVQ?oc=5",
+   "source": "AOL.com",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Money",
+   "iso": "2026-07-11T11:47:59Z",
+   "id": "29b4bbbe986d",
+   "origin": "google-news",
+   "source_title": "Saline Township data center price tag balloons to $16B as developers lock in financing - AOL.com",
+   "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNzIwV3ZDdGc2akh3QU1XQV83ODhsS1BndkU5RHdGTGlTZTh1azI1T1NJZmYxbUhMXzdWMkNjVXIzOWRXRGxIQnJ4QTVYMFFxa2lfamdTOUVzVzlTN2tWWjN2WVNTMGRxNFlXeDN3RkFDLXRXQXdTamZhd0lobHZWdmQtVQ?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "Solon Township shelves rules meant to curb data centers",
    "dek": "The board delayed an ordinance that would have restricted where large facilities could locate. Residents in the township now face continued uncertainty over future projects and their impact on local roads and power use. The pause keeps the status quo while officials weigh next steps.",
@@ -171,21 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLWxDRVVqbnFFeWJYdXRrWE1aR0xVZFlJV1FvX0NodGFsNVotaHVwajR1aXVNalBldWQ4Y3pYY19XNnhOWjFlS3RoU2xVVDlHbUxGSEw2TW00ZnFkYXZVRm5MVmZtRlV4LXNLNWJQLURpMUh6ZDg0MXUxd3lYeU0xOUVNV05Zd0d4SGRiRFlB?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
-  },
-  {
-   "iso": "2026-07-10T12:00:00+00:00",
-   "region": "metro",
-   "cat": "Washtenaw Co.",
-   "tag": "Water",
-   "title": "Saline Township Checks if Data Center Dewatering Dropped Nearby Pond by Two Feet",
-   "dek": "Officials reported a resident pond fell roughly two feet while well points lowered groundwater four to five feet at the Related Digital site. The township is continuing summer monitoring after the contractor added water without prior notice.",
-   "source": "The Sun Times News",
-   "url": "https://thesuntimesnews.com/saline-data-center-work-raises-dewatering-pond-questions/",
-   "breaking": false,
-   "lead": false,
-   "id": "2770f7a57517",
-   "accuracy": "checked-rewritten",
-   "judge_score": 7
   }
  ],
  "national": {
