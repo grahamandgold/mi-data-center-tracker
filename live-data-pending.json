@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-11T06:38:34+00:00",
+ "updated_at": "2026-07-11T08:55:04+00:00",
  "generator": "grok-wire-agent",
  "items": [
   {
@@ -40,24 +40,6 @@
    "judge_note": "A specific vote postponement on a major tax abatement is a concrete decision/action, distinct from the earlier killed story about Oracle's initial tax request."
   },
   {
-   "iso": "2026-07-09T19:00:00+00:00",
-   "region": "mid",
-   "cat": "Livingston Co.",
-   "tag": "Local Government",
-   "title": "Tyrone Township Residents Demand Answers on Secret Data Center Talks with Officials",
-   "dek": "A local resident grilled township leaders at a recent meeting over possible nondisclosure agreements signed with developers, highlighting ongoing transparency worries even as a temporary moratorium remains in place.",
-   "source": "Gander Newsroom",
-   "url": "https://www.facebook.com/GanderNewsroom/posts/a-tyrone-township-michigan-resident-pressed-local-officials-with-a-simple-questi/1660654626061305/",
-   "breaking": false,
-   "lead": false,
-   "id": "c507e2fbc3aa",
-   "kind": "story",
-   "filed_at": "2026-07-10T15:58:50+00:00",
-   "accuracy": "checked",
-   "judge_score": 6,
-   "judge_note": "Incremental transparency angle in Tyrone Township; real resident confrontation but lacks a specific decision or filing."
-  },
-  {
    "iso": "2026-07-10T10:00:00+00:00",
    "region": "statewide",
    "cat": "STATEWIDE",
@@ -75,26 +57,7 @@
    "headline_rewritten": true,
    "judge_score": 9,
    "judge_note": "Major new project confirmation: 1.4 GW OpenAI-Oracle campus with specific job numbers, acreage, and tax abatement details — concrete development."
-  },
-  {
-   "iso": "2026-07-09T19:00:00+00:00",
-   "region": "metro",
-   "cat": "Washtenaw Co.",
-   "tag": "Money",
-   "title": "Saline Township continues data center meetings on groundwater and site monitoring",
-   "dek": "After a consent judgment allowing the project, township leaders schedule repeated advisory sessions to review water well data and related plans.",
-   "source": "Saline Township",
-   "url": "https://salinetownship.org/data-center-update",
-   "breaking": false,
-   "lead": false,
-   "id": "0bfe5372f80e",
-   "kind": "story",
-   "filed_at": "2026-07-10T11:27:55+00:00",
-   "accuracy": "checked-rewritten",
-   "headline_rewritten": true,
-   "judge_score": 6,
-   "judge_note": "Incremental follow-up on Saline with scheduled advisory sessions and monitoring—real next step after the consent judgment, not a duplicate of the tax break stor"
   }
  ],
- "accuracy_checked_at": "2026-07-11T06:38:34+00:00"
+ "accuracy_checked_at": "2026-07-11T08:55:04+00:00"
 }
