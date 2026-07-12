@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-12T11:00:52+00:00",
+ "generated_at": "2026-07-12T21:12:32+00:00",
  "for_dates": [
   "2026-07-12",
   "2026-07-13"
@@ -8,8 +8,15 @@
   {
    "iso": "2026-07-13",
    "time": "7:00 PM",
+   "meeting": "Lansing City Council",
+   "bullet": "Lansing holds July 13 hearing on proposed data center moratorium.",
+   "link": "https://lansingcitypulse.com/city-of-lansing-notice-of-public-hearing-7-13-26-ordinance-to-impose-temporary-moratorium-on-new-data-centers/"
+  },
+  {
+   "iso": "2026-07-13",
+   "time": "7:00 PM",
    "meeting": "Lansing City Council — Development & Planning",
-   "bullet": "Lansing hearing July 13 on 182-day data center moratorium triggered by withdrawn 24 MW Deep Green project and resident concerns over energy, water, noise.",
+   "bullet": "Lansing Development & Planning holds July 13 hearing on 182-day data center moratorium tied to withdrawn 24 MW $120M Deep Green project.",
    "link": "https://www.wlns.com/lansing/lansing-city-council-to-discuss-temporary-data-center-ban/amp/"
   }
  ]
