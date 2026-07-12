@@ -1,10 +1,10 @@
 {
- "title": "Mornings with Graham & Emmy",
- "teaser": "Secret incentives drain state coffers while Bay County and others hit pause amid power and water fears.",
+ "title": "Evenings with Graham & Emmy",
+ "teaser": "Tonight: Locals halt Consumers' massive plant, but what does it mean for your electric bill?",
  "lines": [
   {
    "host": "Graham",
-   "text": "Good morning, and welcome to Mornings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
+   "text": "Good evening, and welcome to Evenings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
   },
   {
    "host": "Emmy",
@@ -12,234 +12,206 @@
   },
   {
    "host": "Graham",
-   "text": "It's Sunday morning, July 12, and our big story today is how secret tax breaks for data centers have already cost Michigan taxpayers $13 million, all while staying hidden from public view."
+   "text": "It's Sunday night, and the big story tonight is how a rural push in western Michigan just killed a 1.4 gigawatt gas plant before it could even reach the grid."
   },
   {
    "host": "Emmy",
-   "text": "That's right, Graham. These incentives are draining state coffers and leaving local services short on funding that would normally come from these big facilities."
+   "text": "That sounds like a big deal for everyone who pays an electric bill. Graham, walk us through what happened today."
   },
   {
    "host": "Graham",
-   "text": "Exactly. Taxpayers are footing the bill without knowing which projects are getting the breaks. So Emmy, why does this matter so much right now?"
+   "text": "Consumers Energy had proposed this major new natural gas plant to help meet surging demand from data centers and other large users. Residents in western Michigan organized and blocked it."
   },
   {
    "host": "Emmy",
-   "text": "Well, it ties directly into everything else we're seeing this week. Communities across the state are pushing back hard because of the strain on power grids, water supplies, and farmland."
+   "text": "How did they block it exactly? Was this the first time something like this happened?"
   },
   {
    "host": "Graham",
-   "text": "Let's unpack that. These incentives have been around for a while as a way to attract big tech investment and jobs, but the secrecy piece is new and concerning."
+   "text": "The utility has now withdrawn the proposal entirely after the local opposition. It's part of a broader pattern where communities are pushing back on projects tied to the data center boom."
   },
   {
    "host": "Emmy",
-   "text": "How long has this been going on? Is there any history here of similar deals?"
+   "text": "Why does this matter for regular folks? Tighter supply sounds like it could mean higher costs."
   },
   {
    "host": "Graham",
-   "text": "From what we know, these kinds of breaks have been used before to lure data centers, but the hidden nature means residents can't track the real cost or which projects benefit."
+   "text": "Exactly. Without that plant, ratepayers across the Lower Peninsula face tighter electricity supply and possible higher costs as AI facilities keep demanding more power."
   },
   {
    "host": "Emmy",
-   "text": "And the impact on local services sounds serious. If the state is losing that revenue, what does it mean for schools, roads, or emergency services in those areas?"
+   "text": "Data centers need a ton of electricity, right? How much are we talking about here?"
   },
   {
    "host": "Graham",
-   "text": "It means those services lose out on funding that large facilities would otherwise provide through taxes. So everyday taxpayers end up covering the gap."
+   "text": "A single large facility can use as much power as a small city. The 1.4 gigawatts from this plant would have helped cover that growth, but now the grid has to find alternatives."
   },
   {
    "host": "Emmy",
-   "text": "That connects to the electric bill worries too. If these projects are getting sweetheart deals, does that push more costs onto ratepayers when power demand spikes?"
+   "text": "What about water and farmland? These plants and data centers both pull resources from rural areas."
   },
   {
    "host": "Graham",
-   "text": "It can. Data centers use enormous amounts of electricity, especially during peak summer demand, and any shortfall or extra infrastructure cost often lands on regular customers."
+   "text": "That's the core of the fight. Residents are worried about impacts on local water supplies, farmland conversion, and the character of their towns. The gas plant would have added to those pressures."
   },
   {
    "host": "Emmy",
-   "text": "Water use is another big one. These facilities need cooling water. How does that play into the tax break debate?"
+   "text": "Who are the main players here besides Consumers and the residents?"
   },
   {
    "host": "Graham",
-   "text": "Towns are already studying that exact issue. The breaks might encourage more projects without enough oversight on resource use."
+   "text": "Hyperscale developers are driving the demand, local townships are fielding proposals, and state lawmakers are starting to look at new rules. It's a classic tension between economic development and local control."
   },
   {
    "host": "Emmy",
-   "text": "And farmland? A lot of these proposals are going on agricultural land. What happens to that long-term?"
+   "text": "What happens next if this plant is off the table? Do we just wait for blackouts or rate hikes?"
   },
   {
    "host": "Graham",
-   "text": "Once it's developed for a data center, that land is essentially gone for farming. The incentives speed that conversion up without full public debate."
+   "text": "The utility will have to look at other options, but in the short term analysts expect tighter supply margins. That could translate to higher bills this winter and beyond."
   },
   {
    "host": "Emmy",
-   "text": "So who are the main players here? The state, the companies, or local officials?"
+   "text": "Is there any history of similar pushback in Michigan before today?"
   },
   {
    "host": "Graham",
-   "text": "It's a mix. State-level incentives are approved quietly, companies like the ones behind big projects push for them, and local boards are left dealing with the fallout."
+   "text": "We've seen townships across the state pause or reject projects in recent months. This Consumers withdrawal shows the opposition has real teeth when it mobilizes."
   },
   {
    "host": "Emmy",
-   "text": "What happens next? Are there efforts to make these deals more transparent?"
+   "text": "How does this fit with the other stories we're seeing today about tax breaks and moratoriums?"
   },
   {
    "host": "Graham",
-   "text": "That's the open question. With so many towns now considering moratoriums, the pressure is on to shine a light on these incentives before more projects lock in."
+   "text": "It all points to the same pressure cooker. Communities are using every tool — protests, zoning pauses, and now killing generation projects — to slow the pace."
   },
   {
    "host": "Emmy",
-   "text": "It feels like the secrecy is fueling the backlash we're seeing in places like Bay County and others."
+   "text": "Graham, do you think this changes the timeline for data center approvals going forward?"
   },
   {
    "host": "Graham",
-   "text": "Absolutely. Residents want to know the full cost before approving anything new."
+   "text": "It likely does. Developers may face longer reviews and more conditions as utilities and locals recalibrate to the new reality."
   },
   {
    "host": "Emmy",
-   "text": "How many communities are in this position right now? It seems like a wave."
+   "text": "Thanks for laying that out. Let's move to some quick hits from around the state."
   },
   {
    "host": "Graham",
-   "text": "Quite a few. From northwest Michigan down to mid-state and southeast, officials are hitting pause to study power, water, and tax impacts."
+   "text": "State lawmakers are eyeing new guardrails for data centers. Bills would set stricter rules on power use and tax incentives affecting every township with proposals."
   },
   {
    "host": "Emmy",
-   "text": "And the scale of some projects is huge. Like the one in Saline that's now at $16 billion."
+   "text": "That could shift power from local boards to the state. What kind of timeline are we looking at?"
   },
   {
    "host": "Graham",
-   "text": "Yes, that one alone could reshape Washtenaw County for years, especially with financing now locked in."
+   "text": "It's still early in the legislative process, but passage would mean more oversight before any big project moves ahead."
   },
   {
    "host": "Emmy",
-   "text": "Does that kind of size make the tax break issue even bigger?"
+   "text": "In Lansing, council will consider a six-month data center pause on Monday after a $120 million project was withdrawn."
   },
   {
    "host": "Graham",
-   "text": "It does, because the incentives for a project that large could be substantial and hidden from view."
+   "text": "Residents pushed back hard there too. The moratorium would give time to update zoning rules."
   },
   {
    "host": "Emmy",
-   "text": "What about the jobs angle? Unions are backing some of these builds."
+   "text": "Consumers is also warning that rates could rise if their tax fight with the state drags on. They're paying millions in disputed taxes that might get passed to customers."
   },
   {
    "host": "Graham",
-   "text": "The carpenters union is supporting the STREAM project, pointing to hundreds of construction jobs. But even supporters note the trade-offs on roads and utilities."
+   "text": "The dispute is over how data-center projects are valued for property taxes. Any increase would hit households across the Lower Peninsula this winter."
   },
   {
    "host": "Emmy",
-   "text": "So it's not all opposition. Some see real economic upside."
+   "text": "And secret tax breaks for data centers have already cost the state $13 million. Those incentives stay hidden while draining local services."
   },
   {
    "host": "Graham",
-   "text": "Right, but the question is whether the public gets a full picture of the costs and benefits."
+   "text": "Taxpayers foot the bill without knowing which projects benefit. That's adding fuel to the transparency debate."
   },
   {
    "host": "Emmy",
-   "text": "Let's shift to some of the other developments from this week. Bay County just froze all new proposals."
+   "text": "Yesterday Bay County froze all new data center proposals with a temporary moratorium to study power and water impacts."
   },
   {
    "host": "Graham",
-   "text": "Yes, commissioners voted a temporary moratorium to study impacts on power and water. Residents could see higher bills if the grid gets strained."
+   "text": "Residents there could face higher utility bills if large facilities strain the grid during peak summer demand."
   },
   {
    "host": "Emmy",
-   "text": "That pause gives them time to write rules. Smart move?"
+   "text": "Garfield Township planners also backed a freeze option while residents debate impacts on power and land use in northwest Michigan."
   },
   {
    "host": "Graham",
-   "text": "It seems so. They want to get ahead before any projects advance."
+   "text": "If adopted, it would pause development in Grand Traverse County until rules are in place."
   },
   {
    "host": "Emmy",
-   "text": "Garfield Township planners also backed a freeze option yesterday."
+   "text": "In Saline Township the data center project has swelled to $16 billion with financing now locked in."
   },
   {
    "host": "Graham",
-   "text": "They advanced a moratorium proposal while residents debate power and land use in northwest Michigan."
+   "text": "That scale rivals the largest U.S. campuses and will shape Washtenaw County growth for years through tax incentives and power demand."
   },
   {
    "host": "Emmy",
-   "text": "And in Saline, the project ballooned to $16 billion with financing secured."
+   "text": "Solon Township shelved rules meant to curb data centers on Saturday, leaving residents with continued uncertainty."
   },
   {
    "host": "Graham",
-   "text": "Local taxpayers will feel that through any incentives and the new power demand."
+   "text": "The board delayed an ordinance that would have restricted where large facilities could locate."
   },
   {
    "host": "Emmy",
-   "text": "Solon Township shelved rules that would have curbed data centers."
+   "text": "And the carpenters union threw support behind the STREAM data center build, signaling hundreds of construction jobs."
   },
   {
    "host": "Graham",
-   "text": "They delayed an ordinance, leaving residents facing continued uncertainty on roads and power."
+   "text": "Local workers would gain steady paychecks, but towns would still face new demands on roads, water, and electricity."
   },
   {
    "host": "Emmy",
-   "text": "The union support for STREAM adds another layer."
+   "text": "Now let's look ahead to meetings listeners can actually attend."
   },
   {
    "host": "Graham",
-   "text": "Hundreds of jobs are on the table, but towns still face demands on infrastructure."
+   "text": "Tomorrow Lansing City Council holds a public hearing on a proposed six-month moratorium on new data center permits and zoning applications."
   },
   {
    "host": "Emmy",
-   "text": "Haring Township is set to vote on a six-month halt this week."
+   "text": "Also on Monday, Solon Township Board will take up extension of its data center moratorium and related ordinances."
   },
   {
    "host": "Graham",
-   "text": "Supervisors will consider blocking new applications while they study water, noise, and taxes in Wexford County."
+   "text": "Lenox Township Board of Trustees meets to discuss data center ordinances, the moratorium, and related development proposals."
   },
   {
    "host": "Emmy",
-   "text": "Rep. Dingell is probing a U-M plan with Los Alamos ties."
+   "text": "Lansing City Council Development & Planning has another public hearing on the 182-day data center moratorium."
   },
   {
    "host": "Graham",
-   "text": "She released letters raising concerns about power, water, and university involvement."
+   "text": "And on Tuesday Saline Township Board of Trustees holds a special meeting to consider an Industrial Facilities Tax Exemption Certificate for Oracle's $43 billion data center project."
   },
   {
    "host": "Emmy",
-   "text": "Ratepayers are rallying July 18 across more than 50 communities."
-  },
-  {
-   "host": "Graham",
-   "text": "Activists in Kent County say AI facilities threaten resources without enough oversight."
-  },
-  {
-   "host": "Emmy",
-   "text": "And in Mason, accusations of fake support are heating up the debate."
-  },
-  {
-   "host": "Graham",
-   "text": "Residents worry about noise, power, and lost farmland while officials weigh next steps."
-  },
-  {
-   "host": "Emmy",
-   "text": "That brings us to upcoming meetings listeners can attend."
-  },
-  {
-   "host": "Graham",
-   "text": "Tomorrow, July 13, Lenox Township Board meets to discuss a data center ordinance amid resident opposition."
-  },
-  {
-   "host": "Emmy",
-   "text": "Also on the 13th, Lansing City Council has a public hearing on a 182-day data center moratorium."
-  },
-  {
-   "host": "Graham",
-   "text": "Tuesday the 14th, Saline Township Board votes on a 12-year, 50% tax abatement for the Oracle project, plus a public hearing on the exemption certificate."
-  },
-  {
-   "host": "Emmy",
-   "text": "Plenty for folks to weigh in on."
+   "text": "Plenty for residents to weigh in on if they want their voices heard."
   },
   {
    "host": "Graham",
    "text": "Full sources and the live map at the Michigan Data Center Tracker. We're back tomorrow."
+  },
+  {
+   "host": "Emmy",
+   "text": "Thanks for listening tonight. Stay informed on these changes coming to communities across Michigan."
   }
  ],
- "episode_title": "Hidden $13M Tax Breaks Fuel Data Center Boom as Towns Slam Brakes on New Projects",
- "show": "Mornings with Graham & Emmy",
- "daypart": "Mornings"
+ "episode_title": "Rural Residents Block 1.4 GW Gas Plant — Power Bills and Data Center Growth at Stake",
+ "show": "Evenings with Graham & Emmy",
+ "daypart": "Evenings"
 }
