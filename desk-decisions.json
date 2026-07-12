@@ -461,6 +461,20 @@
    "at": "2026-07-11T22:59:08+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece about Wisconsin with no Michigan angle or specific decision made; thin preview of a future consideration."
+  },
+  {
+   "url": "https://www.wowt.com/video/2026/07/11/developers-aim-build-massive-data-center-campus-eastern-goochland/",
+   "title": "Developers Target Eastern Goochland for Massive Data Center Campus",
+   "at": "2026-07-12T10:57:40+00:00",
+   "by": "news_judge",
+   "note": "score 2/10: Virginia project with no Michigan connection; pure national noise for a Michigan-focused tracker."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeUdLVXhNS1QzTmZXeF9VYjNyNjlEdW9lQVgyU0RLeEVzYjlBX0lsYXVUUWpaQlViS2ExMGxZWENUNzViWUNleklTWnFuYW9PMG5ZQ2ZEemRaRWtuNGNlSEt0TWppbVZOdEhLMDg2ZnlYejdieEt1WE5sZm9jVjBxclZmak1XNDM1OWRsekQxVEQ0ZkFUckdOQk51VE1LdDV3MDdVLTE1Wm1jUktsOFp5VXpwS2dKcGZhMXY3SUlSWTRKVVJ4eWpF0gHbAUFVX3lxTE41bWlRMmRNMVAwdktOdDd0MEVSeXlULXd4b0djbUZTZFE5ZkM1cXgxVWdMaEs3cjZObTBMUkY1VGRPS2F6Vlo5aEMwck9oaGprV1JDRmNWTDRMUkJMRWVPQXhpYjFNa080ckVaSlZEMGVfWEU1Vnh3YVpmcFVFbEhzN2ZfbEl0YVpsN3F0T2xVczU1NjFrdUxMZkRNU0NkMDdQNEdqRGFCVWJsaW5PV2tpWVcyWGpseGZyYjhCNjJWSU0tTlFsU0poV0F4RS1qbm5Ec2ItSTVMaURkOA?oc=5",
+   "title": "Big Tech lobbying pays off: Michigan data centers eye major tax breaks",
+   "at": "2026-07-12T10:57:40+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Speculative 'could be' framing about potential future tax breaks lacks the concrete development or decision that would make it newsworthy."
   }
  ],
  "auto_published": [
@@ -649,6 +663,12 @@
    "title": "Bay County freezes all new data center proposals",
    "judge_score": 9,
    "at": "2026-07-12T06:43:12Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ1NnOWFvSTZtbmxOeHdicS1XcVVuQ1Y0aVVlYndXcHBGZG1jUXlkc29fR3d4YUw3bWRtNTJEQ2dXd2F2UFhxTHlEUkdkeHJSaUtnZjMxdWpxVjB0eWVxT0FvNWxrSGJwYXdESUxnWjUwV1hQcWxlWGxiOVpVaFNYUzRlYm1LVXRMRW1wUHdBOC1rS25zMXRyc3Y1dVRnZmQyZnVQWGlpRklEMjJCelBhNGxBN3Nmc1g10gHMAUFVX3lxTE1qQk14em1fTnlzSjZINWdjdV8zN01ncjhUVXE2RzJIZlhWNXk4bGtuS0w3OFhlWDVhc2ZUV3R3RnpDT1pYVmV1R0FiUmVCdDlJRXNmUlZsRUx2d1ZlbDloaTI1U2FDcDNXT05uOG55UHVaVlZrS0Z2TnQzS2xPNWZIRTZiMlVkOUNIeG5NWjd2dHprTVBqcDlGd21rYjNmM2Y4b3VMbUFkR3RSVVZnUXROOEhkaXBMZG04NXF2ZVZZYWx5eUloUm85U3EwWA?oc=5",
+   "title": "Secret tax breaks for data centers already cost Michigan $13M",
+   "judge_score": 8,
+   "at": "2026-07-12T10:57:40Z"
   }
  ]
 }

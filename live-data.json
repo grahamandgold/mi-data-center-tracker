@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-12T09:10:08+00:00",
+ "updated_at": "2026-07-12T10:57:40Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Secret tax breaks for data centers already cost Michigan $13M",
+   "dek": "The incentives stay hidden from public view while draining state coffers. Local services lose funding that would otherwise come from these large facilities. Michigan taxpayers foot the bill without knowing which projects benefit.",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ1NnOWFvSTZtbmxOeHdicS1XcVVuQ1Y0aVVlYndXcHBGZG1jUXlkc29fR3d4YUw3bWRtNTJEQ2dXd2F2UFhxTHlEUkdkeHJSaUtnZjMxdWpxVjB0eWVxT0FvNWxrSGJwYXdESUxnWjUwV1hQcWxlWGxiOVpVaFNYUzRlYm1LVXRMRW1wUHdBOC1rS25zMXRyc3Y1dVRnZmQyZnVQWGlpRklEMjJCelBhNGxBN3Nmc1g10gHMAUFVX3lxTE1qQk14em1fTnlzSjZINWdjdV8zN01ncjhUVXE2RzJIZlhWNXk4bGtuS0w3OFhlWDVhc2ZUV3R3RnpDT1pYVmV1R0FiUmVCdDlJRXNmUlZsRUx2d1ZlbDloaTI1U2FDcDNXT05uOG55UHVaVlZrS0Z2TnQzS2xPNWZIRTZiMlVkOUNIeG5NWjd2dHprTVBqcDlGd21rYjNmM2Y4b3VMbUFkR3RSVVZnUXROOEhkaXBMZG04NXF2ZVZZYWx5eUloUm85U3EwWA?oc=5",
+   "source": "MLive.com",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Money",
+   "iso": "2026-07-12T10:00:00Z",
+   "id": "bd169e932c0c",
+   "origin": "google-news",
+   "source_title": "Data center tax breaks cost Michigan at least $13M but are shrouded in secrecy  - MLive.com",
+   "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ1NnOWFvSTZtbmxOeHdicS1XcVVuQ1Y0aVVlYndXcHBGZG1jUXlkc29fR3d4YUw3bWRtNTJEQ2dXd2F2UFhxTHlEUkdkeHJSaUtnZjMxdWpxVjB0eWVxT0FvNWxrSGJwYXdESUxnWjUwV1hQcWxlWGxiOVpVaFNYUzRlYm1LVXRMRW1wUHdBOC1rS25zMXRyc3Y1dVRnZmQyZnVQWGlpRklEMjJCelBhNGxBN3Nmc1g10gHMAUFVX3lxTE1qQk14em1fTnlzSjZINWdjdV8zN01ncjhUVXE2RzJIZlhWNXk4bGtuS0w3OFhlWDVhc2ZUV3R3RnpDT1pYVmV1R0FiUmVCdDlJRXNmUlZsRUx2d1ZlbDloaTI1U2FDcDNXT05uOG55UHVaVlZrS0Z2TnQzS2xPNWZIRTZiMlVkOUNIeG5NWjd2dHprTVBqcDlGd21rYjNmM2Y4b3VMbUFkR3RSVVZnUXROOEhkaXBMZG04NXF2ZVZZYWx5eUloUm85U3EwWA?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "Bay County freezes all new data center proposals",
    "dek": "Bay County commissioners voted a temporary moratorium on data centers to study their impact on local power and water supplies. Residents could face higher utility bills if large facilities strain the grid during peak summer demand. The pause gives officials time to write rules before any projects advance.",
@@ -169,23 +186,6 @@
    "origin": "google-news",
    "source_title": "GOP gubernatorial candidates trade personal blows, agree on taxes and data centers - Civic Media",
    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeC1paElwOUVfNlFhRlliUkZRWWkwQWtOeG02a3VVN2JvY0c4REM3cDdHTnRnRnVhN2huQTZXMm1aQlktR2dmUU1ZLVY5eHA4QUJCNThsbVVKWkhLUHlnUmlQbEFvNm1rVThmNy1sYjFXTTZZck9wai1oWUpwN2RETm5SdEpNNnRHSlB1dk1OY0hEUjBDcFVySzJ5Z193YUJLdE5qelNtNGlYektkdkJHQ0tHcTBub0hVSVZr?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
-  },
-  {
-   "title": "Monroe expert warns data-center load could spike bills",
-   "dek": "A local utility analyst told Monroe officials that unchecked data-center growth will require new power plants and transmission upgrades. Those costs typically flow straight to residential ratepayers through DTE and Consumers Energy filings. The warning comes as several large projects eye southeast Michigan sites.",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON2JENVdwRExKbTg3emxVRS1KazRUb19lNXJNeTh0V2c5ZWEyejRsMkxLVHBSWkRxN1lBV2xhSFpfWnJHd0dILWd4YWh0Nkp5OXVLaTd2VW1GekFZQlhVOVc2VmRPSFZacWJjV24teWw3M3Q3SzdQUXl6eXVtQUxiOU4xYXJrNjM5Rmhvb0M1NkFVdHE4?oc=5",
-   "source": "The Monroe Times",
-   "region": "mid",
-   "cat": "STATEWIDE",
-   "county": "Monroe",
-   "tag": "Power & Grid",
-   "iso": "2026-07-10T15:00:26Z",
-   "id": "07a03a2f96ce",
-   "origin": "google-news",
-   "source_title": "Expert: Policies needed to manage data center demand - The Monroe Times",
-   "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON2JENVdwRExKbTg3emxVRS1KazRUb19lNXJNeTh0V2c5ZWEyejRsMkxLVHBSWkRxN1lBV2xhSFpfWnJHd0dILWd4YWh0Nkp5OXVLaTd2VW1GekFZQlhVOVc2VmRPSFZacWJjV24teWw3M3Q3SzdQUXl6eXVtQUxiOU4xYXJrNjM5Rmhvb0M1NkFVdHE4?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
   }
