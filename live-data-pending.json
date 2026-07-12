@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-12T06:43:12Z",
+ "updated_at": "2026-07-12T09:10:08+00:00",
  "generator": "grok-wire-agent",
  "items": [
   {
@@ -45,5 +45,5 @@
    "judge_note": "A letter criticizing a study is incremental opposition activity rather than a concrete decision or filing, but it's document-based and adds a specific developme"
   }
  ],
- "accuracy_checked_at": "2026-07-12T06:43:09+00:00"
+ "accuracy_checked_at": "2026-07-12T09:10:08+00:00"
 }
