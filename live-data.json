@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-12T21:03:10Z",
+ "updated_at": "2026-07-12T22:04:49+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -206,16 +206,16 @@
   {
    "iso": "2026-07-13",
    "body": "Lansing City Council",
-   "topic": "Public hearing on proposed 182-day moratorium on new data centers to allow time for zoning regulations",
+   "topic": "Public hearing on proposed six-month moratorium on new data center permits and zoning applications",
    "region": "Mid-Michigan",
    "regionKey": "mid",
    "county": "Ingham",
    "time": "7:00 PM",
    "status": "Public hearing",
    "urgent": true,
-   "link": "https://lansingcitypulse.com/city-of-lansing-notice-of-public-hearing-7-13-26-ordinance-to-impose-temporary-moratorium-on-new-data-centers/",
+   "link": "https://www.lansingmi.gov/",
    "linkLabel": "Agenda",
-   "stream": ""
+   "stream": "https://www.wilx.com/"
   },
   {
    "iso": "2026-07-13",
@@ -261,16 +261,15 @@
   {
    "iso": "2026-07-14",
    "body": "Saline Township Board of Trustees",
-   "topic": "Vote on 12-year, 50% tax abatement for Oracle America Cloud Services LLC tied to the Related Digital AI data center project; public hearing on Industrial Facilities Exemption Certificate",
+   "topic": "Special meeting to consider Industrial Facilities Tax Exemption Certificate for Oracle's $43 billion data center project",
    "region": "SE Michigan",
    "regionKey": "metro",
    "county": "Washtenaw",
    "time": "7:00 PM",
-   "status": "Special meeting",
+   "status": "Board meeting",
    "urgent": true,
-   "link": "https://salinetownship.org/meeting-agendas.php",
-   "linkLabel": "Agenda",
-   "stream": ""
+   "link": "https://salinetownship.org/",
+   "linkLabel": "Agenda"
   }
  ],
  "accuracy_checked_at": "2026-07-08T08:45:16+00:00"

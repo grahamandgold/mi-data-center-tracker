@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-07-12T21:12:32+00:00",
+ "updated_at": "2026-07-12T22:05:48+00:00",
  "generator": "grok-wire-agent",
  "items": [
   {
-   "title": "Lansing to hear data center moratorium proposal Monday",
-   "dek": "Lansing City Council will hold a public hearing Monday on an ordinance creating a temporary moratorium on new data centers. Residents 30 minutes away could see shifts in local power demand, tax revenue and land use if the pause is enacted.",
+   "title": "Lansing sets July hearing on data center moratorium ordinance",
+   "dek": "A public hearing on an ordinance for a temporary moratorium on new data centers is scheduled for July 13 at Lansing City Hall.",
    "url": "https://lansingcitypulse.com/city-of-lansing-notice-of-public-hearing-7-13-26-ordinance-to-impose-temporary-moratorium-on-new-data-centers/",
    "source": "Lansing City Council agenda",
    "region": "Mid-Michigan",
@@ -15,7 +15,7 @@
    "kind": "agenda",
    "id": "3d05eec527ca",
    "filed_at": "2026-07-12T21:12:32+00:00",
-   "accuracy": "thin — needs human background",
+   "accuracy": "checked-rewritten",
    "findings": "The ordinance would add Chapter 878, Sections 878.01-878.03 to the Lansing Codified Ordinances to impose a temporary moratorium on new data centers, per the July 2 public notice | The hearing is scheduled for July 13, 2026 at 7:00 p.m. in the Tony Benavides Lansing City Council Chambers, 10th Floor, Lansing City Hall | Written comments accepted at City Clerk's Office or city.clerk@lansingmi.gov until 5 p.m. day of hearing | Full ordinance text and exact terms remain unavailable in the public notice",
    "perspective": "The hearing opens public comment on the ordinance; any further readings or votes would follow standard Council process and could affect utility loads and land use in the region.",
    "documents": [
@@ -25,36 +25,10 @@
     }
    ],
    "depth_score": 3,
-   "extraction_method": "plain"
-  },
-  {
-   "title": "Lansing sets hearing on 182-day data center ban after $120M proposal backlash",
-   "dek": "The Lansing City Council Development & Planning Committee will hold a public hearing July 13 on an ordinance imposing a six-month moratorium on new data centers, citing heavy energy and water use plus noise and emissions. The pause would block building permits and zoning changes for 182 days while the city studies zoning fixes. It follows the April withdrawal of a 24-megawatt, $120 million Deep Green project downtown that had promised $1.4 million in land sale revenue and nearly $1 million in annual property taxes plus heat reuse for city buildings.",
-   "url": "https://www.wlns.com/lansing/lansing-city-council-to-discuss-temporary-data-center-ban/amp/",
-   "source": "Lansing City Council — Development & Planning agenda",
-   "region": "Mid-Michigan",
-   "county": "Ingham",
-   "cat": "Meetings",
-   "tag": "Agenda watch",
-   "iso": "2026-07-12T21:12:32+00:00",
-   "kind": "agenda",
-   "id": "077507ba11a3",
-   "filed_at": "2026-07-12T21:12:32+00:00",
-   "accuracy": "document-based",
-   "findings": "The draft ordinance adds Chapter 878 to impose a 182-day moratorium on building permits or zoning applications for data centers as primary or accessory uses | Legislative findings state data centers are high-intensity uses with significant energy and water consumption, noise, and infrastructure demands that may conflict with zoning districts | The ordinance notes operations including backup generators could cause environmental and public health impacts from noise and pollutant emissions | Two residents raised concerns at a prior meeting about air quality, noise vibration, energy consumption, water usage, transparency, and need for independent review | The measure follows the April 6 withdrawal of Deep Green's 24-megawatt, $120 million downtown proposal on re-zoned parking lots that include",
-   "perspective": "The Lansing hearing is the next step after the ordinance was referred from the full council; if approved it would take effect 14 days after enactment and expire after 182 days, giving time to draft permanent rules amid documented resident concerns over resource demands.",
-   "documents": [
-    {
-     "label": "Agenda page",
-     "url": "https://www.wlns.com/lansing/lansing-city-council-to-discuss-temporary-data-center-ban/amp/"
-    },
-    {
-     "label": "agendaitem",
-     "url": "https://www.wlns.com/wp-content/uploads/sites/50/2026/06/agendaitem.pdf"
-    }
-   ],
-   "depth_score": 8,
-   "extraction_method": "plain"
+   "extraction_method": "plain",
+   "headline_rewritten": true,
+   "judge_score": 6,
+   "judge_note": "Document-based agenda preview for a specific July 13 hearing, though the hearing itself was already mentioned in the live story about the $120M withdrawal."
   },
   {
    "title": "Pere Marquette Township weighs year-long data center freeze",
@@ -78,5 +52,5 @@
    "judge_note": "Concrete new development: Pere Marquette Township has a scheduled vote on a specific moratorium proposal, distinct from the already-covered Haring Township free"
   }
  ],
- "accuracy_checked_at": "2026-07-12T21:03:07+00:00"
+ "accuracy_checked_at": "2026-07-12T22:05:42+00:00"
 }

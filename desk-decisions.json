@@ -517,6 +517,27 @@
    "at": "2026-07-12T16:30:51+00:00",
    "by": "news_judge",
    "note": "score 2/10: Georgia story with no Michigan angle; already killed a nearly identical Georgia headline about this same Newton County halt."
+  },
+  {
+   "url": "https://mitechnews.com/artificial-intelligence/oracle-seeks-michigan-tax-break-for-43-billion-saline-ai-data-center/",
+   "title": "Oracle Asks Michigan for Tax Break on $43 Billion Saline AI Data Center",
+   "at": "2026-07-12T22:05:48+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: Same Oracle/Saline tax break request already covered in killed story 'Oracle pushes Saline to skip taxes on $43B AI campus.'"
+  },
+  {
+   "url": "https://www.eaton.com/us/en-us/markets/data-centers.html",
+   "title": "U.S. Data Center Power Demand Surges as Tech Giants Accelerate AI Infrastructure",
+   "at": "2026-07-12T22:05:48+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: National trend piece already killed as 'U.S. Data Center Power Demand Surges as Tech Giants Accelerate AI Infrastructure.'"
+  },
+  {
+   "url": "https://www.wlns.com/lansing/lansing-city-council-to-discuss-temporary-data-center-ban/amp/",
+   "title": "Lansing weighs six-month halt on data centers after Deep Green backlash",
+   "at": "2026-07-12T22:05:48+00:00",
+   "by": "news_judge",
+   "note": "score 4/10, duplicate: Same Lansing July 13 hearing and six-month pause already covered in live story 'Lansing hearing set on six-month data center pause after $120M project withdrawa"
   }
  ],
  "auto_published": [
