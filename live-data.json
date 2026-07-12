@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-12T03:48:57+00:00",
+ "updated_at": "2026-07-12T06:43:12Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Bay County freezes all new data center proposals",
+   "dek": "Bay County commissioners voted a temporary moratorium on data centers to study their impact on local power and water supplies. Residents could face higher utility bills if large facilities strain the grid during peak summer demand. The pause gives officials time to write rules before any projects advance.",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbzRzSlM4eWFmLW1ndWtOT2cxbk9fVDh0cGVaMXNxUkM1Y1lpYVR3MUFkZG9vM2t0eThCQlBEMVlFdm9RUERPUXk1X0Zid3ljQ0lwbzNQNS15X3JnVC1CazY0VFhqSVRuVC1kMDZsbHZaMGlGRjY3SG51aWcwRWZnOEVrcm1aM0hrWFE?oc=5",
+   "source": "AOL.com",
+   "region": "mid",
+   "cat": "STATEWIDE",
+   "county": "Bay",
+   "tag": "Local Government",
+   "iso": "2026-07-12T02:41:53Z",
+   "id": "a35d2a53da4a",
+   "origin": "google-news",
+   "source_title": "Bay County enacts temporary moratorium regarding data centers - AOL.com",
+   "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbzRzSlM4eWFmLW1ndWtOT2cxbk9fVDh0cGVaMXNxUkM1Y1lpYVR3MUFkZG9vM2t0eThCQlBEMVlFdm9RUERPUXk1X0Zid3ljQ0lwbzNQNS15X3JnVC1CazY0VFhqSVRuVC1kMDZsbHZaMGlGRjY3SG51aWcwRWZnOEVrcm1aM0hrWFE?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 9
+  },
   {
    "title": "Garfield Twp planners back option to freeze new data centers",
    "dek": "A township panel has advanced a moratorium proposal while residents debate the impact of large-scale facilities on local power and land use. The move comes as data-center interest grows in northwest Michigan. Grand Traverse County residents could see development paused if township leaders adopt the recommendation.",
@@ -171,23 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON2JENVdwRExKbTg3emxVRS1KazRUb19lNXJNeTh0V2c5ZWEyejRsMkxLVHBSWkRxN1lBV2xhSFpfWnJHd0dILWd4YWh0Nkp5OXVLaTd2VW1GekFZQlhVOVc2VmRPSFZacWJjV24teWw3M3Q3SzdQUXl6eXVtQUxiOU4xYXJrNjM5Rmhvb0M1NkFVdHE4?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Meta's giant Wyoming data center clears early city hurdles",
-   "dek": "Officials in Wyoming have signed off on the 715,000-square-foot Meta campus, locking in one of the largest projects yet in Kent County. The facility will pull substantial electricity and could reshape local tax rolls and grid planning. Neighbors are already asking what the power draw will mean for their bills.",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOcFEyM0VPbUtZVzNUeGc4WnJoSEhEdExzOVY2blJ0Mk5FamJDNU1wUzdrUGJKWFZBc19QTnQwVHQ0RFUtcGVTRXpFNm9PRlpiNkhzdklEaWdKSU9EVmFTNDFiaFBzRWhjVEZlUmlzbllaaThRM0NyNV9DdjNvVFNQLUxhVm84QkhWRUlxSjZRc3Z0U0dZRGRwX3FFZjl6aUFPYjY4c2xpTHB4dy1oUlNIeHZCVU9hVEVGS0Ffc1pjN0M4RF80aG5hdmVBNDFpXzA0VmtydFlFamVvZXptYmFSZG13TFdMTVkydV83alRzSmFJemd2Wjln?oc=5",
-   "source": "inkl",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Kent",
-   "tag": "Power & Grid",
-   "iso": "2026-07-10T14:53:09Z",
-   "id": "7772010c59db",
-   "origin": "google-news",
-   "source_title": "Wyoming officials say Meta’s 715,000-square-foot data… - inkl",
-   "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOcFEyM0VPbUtZVzNUeGc4WnJoSEhEdExzOVY2blJ0Mk5FamJDNU1wUzdrUGJKWFZBc19QTnQwVHQ0RFUtcGVTRXpFNm9PRlpiNkhzdklEaWdKSU9EVmFTNDFiaFBzRWhjVEZlUmlzbllaaThRM0NyNV9DdjNvVFNQLUxhVm84QkhWRUlxSjZRc3Z0U0dZRGRwX3FFZjl6aUFPYjY4c2xpTHB4dy1oUlNIeHZCVU9hVEVGS0Ffc1pjN0M4RF80aG5hdmVBNDFpXzA0VmtydFlFamVvZXptYmFSZG13TFdMTVkydV83alRzSmFJemd2Wjln?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 9
   }
  ],
  "national": {
@@ -205,6 +205,20 @@
   "accuracy": "checked"
  },
  "meetings": [
+  {
+   "iso": "2026-07-13",
+   "body": "Lenox Township Board of Trustees",
+   "topic": "Board meeting, including discussion of data center ordinance and related zoning matters amid resident opposition to proposed projects",
+   "region": "SE Michigan",
+   "regionKey": "metro",
+   "county": "Macomb",
+   "time": "6:30 PM",
+   "status": "Board meeting",
+   "urgent": true,
+   "link": "https://www.lenox-mi.gov/agendacenter",
+   "linkLabel": "Agenda",
+   "stream": null
+  },
   {
    "iso": "2026-07-13",
    "body": "Lansing City Council — Development & Planning",

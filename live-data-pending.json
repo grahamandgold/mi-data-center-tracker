@@ -1,7 +1,28 @@
 {
- "updated_at": "2026-07-12T03:48:57+00:00",
+ "updated_at": "2026-07-12T06:43:12Z",
  "generator": "grok-wire-agent",
  "items": [
+  {
+   "title": "Pere Marquette Township weighs year-long data center freeze",
+   "dek": "Township leaders will vote on a one-year moratorium to examine how data centers would affect Ludington-area power lines and wells. A single large facility could pull as much electricity as thousands of homes. The delay lets residents weigh job promises against higher bills and land-use changes.",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZE1IdnpaUmtrS3pqRVJ4S1NDZmxJb0NuVElLYmpUejZCa1RuMXhMcHdEYk1DNXhrcXNTVWYxWnVQZHR4c3NlZkZZYXh3bFMzbHBFWkowRl9JVTlBajZfN2ZlZlB3YVJXcHNYRHZpRTJ4UVNGeEE1alY0b3VKMDdQZXYwRFRhejlEYktCTUlOYTl6Zl9nZllXLUxCWkZkc3AxZmhyNHNkdjBPMTlvQ1YxRXhR?oc=5",
+   "source": "MasonCountyPress.com",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Mason",
+   "tag": "Local Government",
+   "iso": "2026-07-11T15:55:19Z",
+   "kind": "story",
+   "id": "03561715472b",
+   "filed_at": "2026-07-12T06:42:17Z",
+   "origin": "google-news",
+   "headline_rewritten": true,
+   "source_title": "Pere Marquette Township to consider one-year data center moratorium - MasonCountyPress.com",
+   "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZE1IdnpaUmtrS3pqRVJ4S1NDZmxJb0NuVElLYmpUejZCa1RuMXhMcHdEYk1DNXhrcXNTVWYxWnVQZHR4c3NlZkZZYXh3bFMzbHBFWkowRl9JVTlBajZfN2ZlZlB3YVJXcHNYRHZpRTJ4UVNGeEE1alY0b3VKMDdQZXYwRFRhejlEYktCTUlOYTl6Zl9nZllXLUxCWkZkc3AxZmhyNHNkdjBPMTlvQ1YxRXhR?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7,
+   "judge_note": "Concrete new development: Pere Marquette Township has a scheduled vote on a specific moratorium proposal, distinct from the already-covered Haring Township free"
+  },
   {
    "title": "STREAM data center study draws fire in new letter to officials",
    "dek": "Critics say the analysis understates power and traffic burdens on nearby residents. The letter urges local leaders to demand better data before any approvals. The dispute adds to growing pushback against the project in the area.",
@@ -24,5 +45,5 @@
    "judge_note": "A letter criticizing a study is incremental opposition activity rather than a concrete decision or filing, but it's document-based and adds a specific developme"
   }
  ],
- "accuracy_checked_at": "2026-07-12T03:48:57+00:00"
+ "accuracy_checked_at": "2026-07-12T06:43:09+00:00"
 }
