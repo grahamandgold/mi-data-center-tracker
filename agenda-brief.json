@@ -1,8 +1,16 @@
 {
- "generated_at": "2026-07-10T21:31:59+00:00",
+ "generated_at": "2026-07-12T11:00:52+00:00",
  "for_dates": [
-  "2026-07-10",
-  "2026-07-11"
+  "2026-07-12",
+  "2026-07-13"
  ],
- "items": []
+ "items": [
+  {
+   "iso": "2026-07-13",
+   "time": "7:00 PM",
+   "meeting": "Lansing City Council — Development & Planning",
+   "bullet": "Lansing hearing July 13 on 182-day data center moratorium triggered by withdrawn 24 MW Deep Green project and resident concerns over energy, water, noise.",
+   "link": "https://www.wlns.com/lansing/lansing-city-council-to-discuss-temporary-data-center-ban/amp/"
+  }
+ ]
 }
