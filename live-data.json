@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-12T16:30:47+00:00",
+ "updated_at": "2026-07-12T17:35:47Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "State lawmakers eye new guardrails for Michigan data centers",
+   "dek": "A legislative roundup shows bills that would set stricter rules on data-center power use and tax incentives. The measures would affect every township now fielding proposals from hyperscale developers. Passage would change what local boards can approve without state oversight.",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQckQ1V0VQRWR1NXFlc0lqUVVIQ0NLRDFBQlV0VXdwZzZsUEJTVHZxczdjQzNqZi04TVI5aG90eEtVMjlUOVN2Z0xvMEdJYzUxYTlGSFNSdXFCeDBZOWxNeGo2dHVwa3JHNjBVUUZld3VBRW5CdUFIampyNDR6V0h2dGtPa215VEpFVTI4aHFjb1dLa0RiaUJITm1zTTA4LUQwV2tQVlk3QURmSUQweTNYVU1wVFRWRHdpNXVobFJiUkIwSzBXbkJ2bTAxekNuRGxUX3h6bGMwelh1ODdDVkpzaHdFY1VNV3RxVUE?oc=5",
+   "source": "The Michigan Daily",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "Ingham",
+   "tag": "Policy",
+   "iso": "2026-07-12T16:40:37Z",
+   "id": "068f211a6a58",
+   "origin": "google-news",
+   "source_title": "June 2026 legislative roundup: Mail-in-vote laws, tuition reimbursement tax credit and data center guardrails - The Michigan Daily",
+   "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQckQ1V0VQRWR1NXFlc0lqUVVIQ0NLRDFBQlV0VXdwZzZsUEJTVHZxczdjQzNqZi04TVI5aG90eEtVMjlUOVN2Z0xvMEdJYzUxYTlGSFNSdXFCeDBZOWxNeGo2dHVwa3JHNjBVUUZld3VBRW5CdUFIampyNDR6V0h2dGtPa215VEpFVTI4aHFjb1dLa0RiaUJITm1zTTA4LUQwV2tQVlk3QURmSUQweTNYVU1wVFRWRHdpNXVobFJiUkIwSzBXbkJ2bTAxekNuRGxUX3h6bGMwelh1ODdDVkpzaHdFY1VNV3RxVUE?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "iso": "2026-07-12T11:00:00Z",
    "region": "mid",
@@ -169,23 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iVnFCdVd6a2RMd29CRTJ1dVh4U0NkX2NNM25yalV1OVpQeVJSWllocjd5akNXTms3encxRkpId0dzWmlBekpIb1JlMjFDdmlLTDl1WXZUTl8xWGdBTk9yRFd5TUhIamlJd2xKN0MzVy1XUm1qN3c?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
-  },
-  {
-   "title": "Mason residents accuse outsiders of faking support in data center fight",
-   "dek": "A local debate over a proposed data center in Mason has turned heated after claims that fake grassroots support is being manufactured. Ingham County neighbors worry about noise, power strain and lost farmland if the project advances. The accusations are fracturing trust just as officials weigh next steps.",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTUJaeGtLbFM2elhlU1g3emNfejBCMzVSRUg0em1ublJHby03dzdxZzFOU1RrMm1ZMFB0ak1tNFhZbDhxOE0yalNFaGpLQmFrWU1HaDMyUUNNT1o3djBzbU1HLWVadHlzSnh2eWZvLVBQTFcxdGd5WWNnUDhoLUJ0a2JMcXQ1TkVuU2x0NG5Tczh4SUxKX3JqZXR0VU9mTGRtWFduUkFlN0sxc1Z6OWRISjNqS2w0MXlTTDBwOFBGRFhCalAySFBwQ3F0QQ?oc=5",
-   "source": "WKAR",
-   "region": "mid",
-   "cat": "STATEWIDE",
-   "county": "Ingham",
-   "tag": "Local Government",
-   "iso": "2026-07-10T16:06:53Z",
-   "id": "2ecf7784e70d",
-   "origin": "google-news",
-   "source_title": "Tensions boil over amid astroturfing claim in Mason data center debate - WKAR",
-   "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTUJaeGtLbFM2elhlU1g3emNfejBCMzVSRUg0em1ublJHby03dzdxZzFOU1RrMm1ZMFB0ak1tNFhZbDhxOE0yalNFaGpLQmFrWU1HaDMyUUNNT1o3djBzbU1HLWVadHlzSnh2eWZvLVBQTFcxdGd5WWNnUDhoLUJ0a2JMcXQ1TkVuU2x0NG5Tczh4SUxKX3JqZXR0VU9mTGRtWFduUkFlN0sxc1Z6OWRISjNqS2w0MXlTTDBwOFBGRFhCalAySFBwQ3F0QQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {
@@ -203,6 +203,20 @@
   "accuracy": "checked"
  },
  "meetings": [
+  {
+   "iso": "2026-07-13",
+   "body": "Lansing City Council",
+   "topic": "Public hearing on proposed 182-day moratorium on new data centers to allow time for zoning regulations",
+   "region": "Mid-Michigan",
+   "regionKey": "mid",
+   "county": "Ingham",
+   "time": "7:00 PM",
+   "status": "Public hearing",
+   "urgent": true,
+   "link": "https://lansingcitypulse.com/city-of-lansing-notice-of-public-hearing-7-13-26-ordinance-to-impose-temporary-moratorium-on-new-data-centers/",
+   "linkLabel": "Agenda",
+   "stream": ""
+  },
   {
    "iso": "2026-07-13",
    "body": "Solon Township Board",
@@ -230,20 +244,6 @@
    "link": "https://www.lenox-mi.gov/calendar.aspx",
    "linkLabel": "Agenda",
    "stream": null
-  },
-  {
-   "iso": "2026-07-13",
-   "body": "Lansing City Council",
-   "topic": "Public hearing on proposed 182-day moratorium on new data center development",
-   "region": "Mid-Michigan",
-   "regionKey": "mid",
-   "county": "Ingham",
-   "time": "7:00 PM",
-   "status": "City Council Meeting",
-   "urgent": true,
-   "link": "https://www.lansingmi.gov/agendas-minutes",
-   "linkLabel": "Agenda",
-   "stream": "https://www.lansingmi.gov/city-council-meetings"
   },
   {
    "iso": "2026-07-13",
