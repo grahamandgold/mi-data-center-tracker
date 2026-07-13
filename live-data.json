@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-13T00:03:40Z",
+ "updated_at": "2026-07-13T03:51:18+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -203,6 +203,20 @@
  "meetings": [
   {
    "iso": "2026-07-13",
+   "body": "Lenox Township Board of Trustees",
+   "topic": "Board of Trustees meeting, including potential data center-related ordinances and I-94 development district",
+   "region": "SE Michigan",
+   "regionKey": "metro",
+   "county": "Macomb",
+   "time": "6:30 PM",
+   "status": "Board meeting",
+   "urgent": true,
+   "link": "https://www.lenox-mi.gov/agendacenter",
+   "linkLabel": "Agenda",
+   "stream": null
+  },
+  {
+   "iso": "2026-07-13",
    "body": "Pere Marquette Charter Township Board",
    "topic": "One-year moratorium on new data center development and $1.36M park project",
    "region": "West Michigan",
@@ -239,20 +253,6 @@
    "status": "Board meeting",
    "urgent": true,
    "link": "https://www.solontwp.org/township-calendar/",
-   "linkLabel": "Agenda",
-   "stream": null
-  },
-  {
-   "iso": "2026-07-13",
-   "body": "Lenox Township Board of Trustees",
-   "topic": "Data center ordinances, moratorium and related development proposals",
-   "region": "SE Michigan",
-   "regionKey": "metro",
-   "county": "Macomb",
-   "time": "6:30 PM",
-   "status": "Board meeting",
-   "urgent": true,
-   "link": "https://www.lenox-mi.gov/calendar.aspx",
    "linkLabel": "Agenda",
    "stream": null
   },
