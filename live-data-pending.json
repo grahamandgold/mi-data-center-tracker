@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-13T13:33:06Z",
+ "updated_at": "2026-07-13T16:08:17+00:00",
  "generator": "grok-wire-agent",
  "items": [
   {
@@ -31,5 +31,5 @@
    "judge_note": "Document-based agenda preview for a specific July 13 hearing, though the hearing itself was already mentioned in the live story about the $120M withdrawal."
   }
  ],
- "accuracy_checked_at": "2026-07-13T13:33:02+00:00"
+ "accuracy_checked_at": "2026-07-13T16:08:13+00:00"
 }
