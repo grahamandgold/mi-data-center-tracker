@@ -1,11 +1,11 @@
 {
  "date": "2026-07-13",
- "title": "Mornings with Graham & Emmy",
- "episode_title": "Pere Marquette Weighs Year-Long Data Center Pause as Energy and Water Worries Grow",
- "show": "Mornings with Graham & Emmy",
- "daypart": "Mornings",
- "teaser": "Mason County township mulls pausing data centers for a year over power, water and noise concerns.",
- "minutes": 7,
+ "title": "Evenings with Graham & Emmy",
+ "episode_title": "Michigan Data Wire: July 13, 2026",
+ "show": "Evenings with Graham & Emmy",
+ "daypart": "Evenings",
+ "teaser": "Senators target data center power and water use as towns weigh pauses amid noise fights.",
+ "minutes": 9,
  "audio": "pod/latest.mp3",
  "hosts": [
   "Graham",
