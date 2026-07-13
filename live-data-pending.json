@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-13T03:51:18+00:00",
+ "updated_at": "2026-07-13T07:31:41+00:00",
  "generator": "grok-wire-agent",
  "items": [
   {
@@ -29,28 +29,7 @@
    "headline_rewritten": true,
    "judge_score": 6,
    "judge_note": "Document-based agenda preview for a specific July 13 hearing, though the hearing itself was already mentioned in the live story about the $120M withdrawal."
-  },
-  {
-   "title": "Pere Marquette Township weighs year-long data center freeze",
-   "dek": "Township leaders will vote on a one-year moratorium to examine how data centers would affect Ludington-area power lines and wells. A single large facility could pull as much electricity as thousands of homes. The delay lets residents weigh job promises against higher bills and land-use changes.",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZE1IdnpaUmtrS3pqRVJ4S1NDZmxJb0NuVElLYmpUejZCa1RuMXhMcHdEYk1DNXhrcXNTVWYxWnVQZHR4c3NlZkZZYXh3bFMzbHBFWkowRl9JVTlBajZfN2ZlZlB3YVJXcHNYRHZpRTJ4UVNGeEE1alY0b3VKMDdQZXYwRFRhejlEYktCTUlOYTl6Zl9nZllXLUxCWkZkc3AxZmhyNHNkdjBPMTlvQ1YxRXhR?oc=5",
-   "source": "MasonCountyPress.com",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Mason",
-   "tag": "Local Government",
-   "iso": "2026-07-11T15:55:19Z",
-   "kind": "story",
-   "id": "03561715472b",
-   "filed_at": "2026-07-12T06:42:17Z",
-   "origin": "google-news",
-   "headline_rewritten": true,
-   "source_title": "Pere Marquette Township to consider one-year data center moratorium - MasonCountyPress.com",
-   "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZE1IdnpaUmtrS3pqRVJ4S1NDZmxJb0NuVElLYmpUejZCa1RuMXhMcHdEYk1DNXhrcXNTVWYxWnVQZHR4c3NlZkZZYXh3bFMzbHBFWkowRl9JVTlBajZfN2ZlZlB3YVJXcHNYRHZpRTJ4UVNGeEE1alY0b3VKMDdQZXYwRFRhejlEYktCTUlOYTl6Zl9nZllXLUxCWkZkc3AxZmhyNHNkdjBPMTlvQ1YxRXhR?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7,
-   "judge_note": "Concrete new development: Pere Marquette Township has a scheduled vote on a specific moratorium proposal, distinct from the already-covered Haring Township free"
   }
  ],
- "accuracy_checked_at": "2026-07-13T03:51:19+00:00"
+ "accuracy_checked_at": "2026-07-13T07:31:41+00:00"
 }
