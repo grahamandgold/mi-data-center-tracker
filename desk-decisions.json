@@ -545,6 +545,13 @@
    "at": "2026-07-13T10:41:32+00:00",
    "by": "news_judge",
    "note": "score 2/10: National trend piece with no Michigan-specific development, already killed in similar form twice."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPeXY5V0d6ODVScnNiVEFGcEUxb0cxMnl4dUVObkpMS1lES19mcThiRy1YOU5NNDJBeUpZSk9CblUwSkE0czI1aGJZV2x4U1dVa0t2YjhaSWllNGZIYmVFV2RKZ2VfdkFzeExQMVVaQjBxS3hKQmdneWJiem5XSjRhNF9IeWN1dkgyMDRhMEdMUDZLcVd3RXJ0ZEZjdTFVUmtRemRVaEFLTE05TTFBa3RFUzhreXRMX2RFVzRQYzZZd2cwSlBRYlBKb1VNUlVYLUtSQlR2dGV3cGV3T2RVTG5oQjhzMzVqVEdRUkhHeHRyQVVlbFQ3OGdCaHZHbDU4bERzVGQxZExJdFExR0Nab0VtMmxiRzMzUV91ekF5U3FabWpwRU1zQ1BJYzR6bWlaMS0xQmhITmJmM1hvMV9VQk8xRG4wY29TbFMwclQw?oc=5",
+   "title": "Dowagiac residents to grill data center developers at Monday forum",
+   "at": "2026-07-13T13:33:06+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This is the same Monday forum in Dowagiac already live: 'Dowagiac residents get first look at data center plans Monday.'"
   }
  ],
  "auto_published": [
@@ -781,6 +788,12 @@
    "title": "Dowagiac residents get first look at data center plans Monday",
    "judge_score": 6,
    "at": "2026-07-13T10:41:32Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMVEtMEpVbWNLaC1NWXZ2bTh2TnZ5VUx3QmdWM1QwakhMcnFQTkw4TFJfQ3JCd0lBNVZnRk5LZDhocEh3Mm56WWg5ejZ3RzB2eEtjMWd3N3FfajQ0NVdzQWpKM3NWeTI1bXFObGNtV1FDUzI2Q19UMnVjUVZHbEpEcTk0RXBfZlplZmJRS0NDeWJYbThxMzQyc3BNTU5PQ2dTeUhsRVBOUF91WVRvV2hRQXZ2YVEyaVM0ajc1cUFtaDNJSDlSbDVBOUp5dlo0SDhJYVM2TVdGbTZoTTQ?oc=5",
+   "title": "Michigan town drags data center into federal court over nonstop noise",
+   "judge_score": 8,
+   "at": "2026-07-13T13:33:06Z"
   }
  ]
 }

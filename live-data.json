@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-13T10:41:32Z",
+ "updated_at": "2026-07-13T13:33:06Z",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -33,6 +33,23 @@
    "origin": "google-news",
    "source_title": "Green Oak Township Board Approves “High Resource Demand Facilities Overlay District” - WHMI",
    "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ybUhCQnFTRkVFcEg1dVZFNjQ1dUpMTFM1d3NZc3dQZkE1UTV1UFpUa3VvUy1LdHNYemNOLTFXSUhBdktnZm9hSTVMMzJnOTU3?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
+  {
+   "title": "Michigan town drags data center into federal court over nonstop noise",
+   "dek": "Residents claim the facility’s constant hum violates local quality of life and has gone unaddressed by regulators. The lawsuit seeks court intervention after local complaints produced no relief. A win could set precedent for other Michigan communities facing similar operations.",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMVEtMEpVbWNLaC1NWXZ2bTh2TnZ5VUx3QmdWM1QwakhMcnFQTkw4TFJfQ3JCd0lBNVZnRk5LZDhocEh3Mm56WWg5ejZ3RzB2eEtjMWd3N3FfajQ0NVdzQWpKM3NWeTI1bXFObGNtV1FDUzI2Q19UMnVjUVZHbEpEcTk0RXBfZlplZmJRS0NDeWJYbThxMzQyc3BNTU5PQ2dTeUhsRVBOUF91WVRvV2hRQXZ2YVEyaVM0ajc1cUFtaDNJSDlSbDVBOUp5dlo0SDhJYVM2TVdGbTZoTTQ?oc=5",
+   "source": "MSN",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Power & Grid",
+   "iso": "2026-07-13T04:34:54Z",
+   "id": "327bd3c8b66d",
+   "origin": "google-news",
+   "source_title": "AI data center's endless hum – the unchecked AI nightmare forcing a Michigan town into federal court - MSN",
+   "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMVEtMEpVbWNLaC1NWXZ2bTh2TnZ5VUx3QmdWM1QwakhMcnFQTkw4TFJfQ3JCd0lBNVZnRk5LZDhocEh3Mm56WWg5ejZ3RzB2eEtjMWd3N3FfajQ0NVdzQWpKM3NWeTI1bXFObGNtV1FDUzI2Q19UMnVjUVZHbEpEcTk0RXBfZlplZmJRS0NDeWJYbThxMzQyc3BNTU5PQ2dTeUhsRVBOUF91WVRvV2hRQXZ2YVEyaVM0ajc1cUFtaDNJSDlSbDVBOUp5dlo0SDhJYVM2TVdGbTZoTTQ?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
   },
@@ -167,23 +184,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOT09UUGJQNmVMOVJfRTlnVTRzenFGLWRyQjFxQ2NzMkxIOGdGUV9uZlI1NnFGcUMxekxodUlUS3ZTdFNBRFpDWmVhd0hLd2otUkFHekNnbW1ubkttdGlNakYyUkJkUy15eEhiRmRqb0ZucHg2OXlDVllnUjNxQktGMDR3anFRNGN3bXBhRHFhZEEzdFZkT0dBcTJNT3BBZDJkR0xFV1pnTk5rWkFzM2twOEZzcDl0eU5tRTA1d1dKYUh0ZnVTZmExRjZtdWFMckw0XzItU3JvZW5MMUo4RTE0TF9IcG8yRExj?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Saline Township data center swells to $16B with financing locked",
-   "dek": "Developers have secured funding that pushes the Saline project cost to $16 billion. Local taxpayers will feel the impact through any tax incentives and new power demand. The scale now rivals the largest U.S. campuses and will shape Washtenaw County growth for years.",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNzIwV3ZDdGc2akh3QU1XQV83ODhsS1BndkU5RHdGTGlTZTh1azI1T1NJZmYxbUhMXzdWMkNjVXIzOWRXRGxIQnJ4QTVYMFFxa2lfamdTOUVzVzlTN2tWWjN2WVNTMGRxNFlXeDN3RkFDLXRXQXdTamZhd0lobHZWdmQtVQ?oc=5",
-   "source": "AOL.com",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Money",
-   "iso": "2026-07-11T11:47:59Z",
-   "id": "29b4bbbe986d",
-   "origin": "google-news",
-   "source_title": "Saline Township data center price tag balloons to $16B as developers lock in financing - AOL.com",
-   "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNzIwV3ZDdGc2akh3QU1XQV83ODhsS1BndkU5RHdGTGlTZTh1azI1T1NJZmYxbUhMXzdWMkNjVXIzOWRXRGxIQnJ4QTVYMFFxa2lfamdTOUVzVzlTN2tWWjN2WVNTMGRxNFlXeDN3RkFDLXRXQXdTamZhd0lobHZWdmQtVQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
   }
  ],
  "national": {
@@ -204,7 +204,7 @@
   {
    "iso": "2026-07-13",
    "body": "Lenox Township Board of Trustees",
-   "topic": "First reading of I-94 Development District ordinance and data center regulations",
+   "topic": "Board of Trustees meeting, with data center-related items expected on agenda amid resident opposition",
    "region": "SE Michigan",
    "regionKey": "metro",
    "county": "Macomb",
