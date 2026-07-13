@@ -538,6 +538,13 @@
    "at": "2026-07-12T22:05:48+00:00",
    "by": "news_judge",
    "note": "score 4/10, duplicate: Same Lansing July 13 hearing and six-month pause already covered in live story 'Lansing hearing set on six-month data center pause after $120M project withdrawa"
+  },
+  {
+   "url": "https://example.com/national-data-center-power-2026",
+   "title": "U.S. Data Center Power Demand Surges as Tech Giants Accelerate AI Infrastructure Buildout",
+   "at": "2026-07-13T10:41:32+00:00",
+   "by": "news_judge",
+   "note": "score 2/10: National trend piece with no Michigan-specific development, already killed in similar form twice."
   }
  ],
  "auto_published": [
@@ -762,6 +769,18 @@
    "title": "Pere Marquette Township Board to Consider One-Year Data Center Pause",
    "judge_score": 7,
    "at": "2026-07-13T00:03:40Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ybUhCQnFTRkVFcEg1dVZFNjQ1dUpMTFM1d3NZc3dQZkE1UTV1UFpUa3VvUy1LdHNYemNOLTFXSUhBdktnZm9hSTVMMzJnOTU3?oc=5",
+   "title": "Green Oak Township creates new zoning rules for power-hungry data centers",
+   "judge_score": 8,
+   "at": "2026-07-13T10:41:32Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNVnhIUDZhdGhqdEdReG9TSzMtZnVrNVVrQVpaVXJQbU5pb2lQdUpCUjFNVzFuRUZQaldWM2huNHI1OUZLd3NETkFkSjVic0k3R25RQ2VlMWJwZk1mWmY0VWFHeDhmMHdPMVRSUjk2Mkx0bTVXcjNzZzBLM0ktU2U5NEdVa01KYl95OXc2QVRveXQxREFwSS1UX3N3SUx2anAwVmkxOWp3c3FqUlpaRUtxX0RRZGY5M1ZTcDhLbGYySjB6ZTRQSWFZTWRBNEVyeDVpYnM2OWdTUEFoNms1bEphR1cxcnloR3hXZFYwUEJEZGd0eWRzYW5QV29lUXRKLWotbzlnb014UjhuaTdaUEx0cU1oNUJiRmtmcDVIemR5bXdqV3Fpcy1HM1ZvVnNqOFJ5cExRSkdhQjZGai1RR1REcg?oc=5",
+   "title": "Dowagiac residents get first look at data center plans Monday",
+   "judge_score": 6,
+   "at": "2026-07-13T10:41:32Z"
   }
  ]
 }

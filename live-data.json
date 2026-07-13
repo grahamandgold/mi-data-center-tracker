@@ -1,7 +1,41 @@
 {
- "updated_at": "2026-07-13T07:31:41+00:00",
+ "updated_at": "2026-07-13T10:41:32Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Dowagiac residents get first look at data center plans Monday",
+   "dek": "The city council is hosting a public forum to discuss potential data center developments. Locals are concerned about noise, water use, and strain on the electric grid. The meeting gives residents a chance to voice questions before any formal proposals advance.",
+   "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNVnhIUDZhdGhqdEdReG9TSzMtZnVrNVVrQVpaVXJQbU5pb2lQdUpCUjFNVzFuRUZQaldWM2huNHI1OUZLd3NETkFkSjVic0k3R25RQ2VlMWJwZk1mWmY0VWFHeDhmMHdPMVRSUjk2Mkx0bTVXcjNzZzBLM0ktU2U5NEdVa01KYl95OXc2QVRveXQxREFwSS1UX3N3SUx2anAwVmkxOWp3c3FqUlpaRUtxX0RRZGY5M1ZTcDhLbGYySjB6ZTRQSWFZTWRBNEVyeDVpYnM2OWdTUEFoNms1bEphR1cxcnloR3hXZFYwUEJEZGd0eWRzYW5QV29lUXRKLWotbzlnb014UjhuaTdaUEx0cU1oNUJiRmtmcDVIemR5bXdqV3Fpcy1HM1ZvVnNqOFJ5cExRSkdhQjZGai1RR1REcg?oc=5",
+   "source": "WSBT",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Cass",
+   "tag": "Local Government",
+   "iso": "2026-07-13T09:57:55Z",
+   "id": "f0fdbe373697",
+   "origin": "google-news",
+   "source_title": "Dowagiac City Council will hold data center forum Monday - WSBT",
+   "source_url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNVnhIUDZhdGhqdEdReG9TSzMtZnVrNVVrQVpaVXJQbU5pb2lQdUpCUjFNVzFuRUZQaldWM2huNHI1OUZLd3NETkFkSjVic0k3R25RQ2VlMWJwZk1mWmY0VWFHeDhmMHdPMVRSUjk2Mkx0bTVXcjNzZzBLM0ktU2U5NEdVa01KYl95OXc2QVRveXQxREFwSS1UX3N3SUx2anAwVmkxOWp3c3FqUlpaRUtxX0RRZGY5M1ZTcDhLbGYySjB6ZTRQSWFZTWRBNEVyeDVpYnM2OWdTUEFoNms1bEphR1cxcnloR3hXZFYwUEJEZGd0eWRzYW5QV29lUXRKLWotbzlnb014UjhuaTdaUEx0cU1oNUJiRmtmcDVIemR5bXdqV3Fpcy1HM1ZvVnNqOFJ5cExRSkdhQjZGai1RR1REcg?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
+  {
+   "title": "Green Oak Township creates new zoning rules for power-hungry data centers",
+   "dek": "The board approved an overlay district to regulate facilities that demand high resources like electricity and water. This gives the township tools to control where large data centers can locate. Residents in Livingston County now have clearer guardrails on future projects.",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ybUhCQnFTRkVFcEg1dVZFNjQ1dUpMTFM1d3NZc3dQZkE1UTV1UFpUa3VvUy1LdHNYemNOLTFXSUhBdktnZm9hSTVMMzJnOTU3?oc=5",
+   "source": "WHMI",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Livingston",
+   "tag": "Local Government",
+   "iso": "2026-07-13T08:39:23Z",
+   "id": "dfd32d863754",
+   "origin": "google-news",
+   "source_title": "Green Oak Township Board Approves “High Resource Demand Facilities Overlay District” - WHMI",
+   "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ybUhCQnFTRkVFcEg1dVZFNjQ1dUpMTFM1d3NZc3dQZkE1UTV1UFpUa3VvUy1LdHNYemNOLTFXSUhBdktnZm9hSTVMMzJnOTU3?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "iso": "2026-07-12T23:00:00Z",
    "region": "west",
@@ -150,40 +184,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNzIwV3ZDdGc2akh3QU1XQV83ODhsS1BndkU5RHdGTGlTZTh1azI1T1NJZmYxbUhMXzdWMkNjVXIzOWRXRGxIQnJ4QTVYMFFxa2lfamdTOUVzVzlTN2tWWjN2WVNTMGRxNFlXeDN3RkFDLXRXQXdTamZhd0lobHZWdmQtVQ?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
-  },
-  {
-   "title": "Solon Township shelves rules meant to curb data centers",
-   "dek": "The board delayed an ordinance that would have restricted where large facilities could locate. Residents in the township now face continued uncertainty over future projects and their impact on local roads and power use. The pause keeps the status quo while officials weigh next steps.",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMWswM2dPU19iV3RNSEhPdm1uMkcxRHl2T3k5R21NRHlhdVlpQjRUYUVUUVgwcHpuS0lfWFJxRmVOaTlMTkF3RXpzNlZiWlF4alhEN0h2Qmk5d0RCdGZZUGg1cS1qc0J6SmdpY2x0dHpqMW5PMkh2ODdnYklBUlBwSDlSMVpvNGVl?oc=5",
-   "source": "AOL.com",
-   "region": "north",
-   "cat": "STATEWIDE",
-   "county": "Wexford",
-   "tag": "Local Government",
-   "iso": "2026-07-11T10:03:11Z",
-   "id": "3e3d087e3eac",
-   "origin": "google-news",
-   "source_title": "Solon Township board tables ordinance proposal to limit data centers - AOL.com",
-   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMWswM2dPU19iV3RNSEhPdm1uMkcxRHl2T3k5R21NRHlhdVlpQjRUYUVUUVgwcHpuS0lfWFJxRmVOaTlMTkF3RXpzNlZiWlF4alhEN0h2Qmk5d0RCdGZZUGg1cS1qc0J6SmdpY2x0dHpqMW5PMkh2ODdnYklBUlBwSDlSMVpvNGVl?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
-  },
-  {
-   "title": "Carpenters union throws support behind STREAM data center build",
-   "dek": "The union backing the STREAM project signals hundreds of construction jobs could come to the area if the data center is approved. Local workers would gain steady paychecks, but nearby towns would also face new demands on roads, water, and electricity. The endorsement raises the stakes for communities weighing the trade-offs in mid-Michigan.",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTmlBc0xBRmFITHYxcm5YZFpNcExRY0RDZkUxUGpCeHd1ajZHUUFRU0swMGxfNHRxb2dRTlpzWTlsYlUzdTdNR2VHcGZkLWdxVEMzMUE3ZW83V3Nic0dGd3pZeVI0bWlFTVM4dUFpcmJTeXJBdkFUMDJEUlFrWFREZWctTi1wSV9jUElhb1FYUGFiQVdqa194eG5LS3FqSFFQTE8yQ2NjcU4yXzBiXzNYdy1DVDVyR1pfODlmczFmLVh3SFNEN2J0QzlfNXNUZHlXVjhrbjdn?oc=5",
-   "source": "TheDailyNewsOnline.com",
-   "region": "mid",
-   "cat": "STATEWIDE",
-   "county": "Hillsdale",
-   "tag": "Money",
-   "iso": "2026-07-11T03:30:00Z",
-   "id": "f37c306597e0",
-   "origin": "google-news",
-   "source_title": "Carpenters' union backs STREAM Data Center project - TheDailyNewsOnline.com",
-   "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTmlBc0xBRmFITHYxcm5YZFpNcExRY0RDZkUxUGpCeHd1ajZHUUFRU0swMGxfNHRxb2dRTlpzWTlsYlUzdTdNR2VHcGZkLWdxVEMzMUE3ZW83V3Nic0dGd3pZeVI0bWlFTVM4dUFpcmJTeXJBdkFUMDJEUlFrWFREZWctTi1wSV9jUElhb1FYUGFiQVdqa194eG5LS3FqSFFQTE8yQ2NjcU4yXzBiXzNYdy1DVDVyR1pfODlmczFmLVh3SFNEN2J0QzlfNXNUZHlXVjhrbjdn?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {
@@ -204,7 +204,7 @@
   {
    "iso": "2026-07-13",
    "body": "Lenox Township Board of Trustees",
-   "topic": "Board of Trustees meeting, including potential data center-related ordinances and I-94 development district",
+   "topic": "First reading of I-94 Development District ordinance and data center regulations",
    "region": "SE Michigan",
    "regionKey": "metro",
    "county": "Macomb",
