@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-13T22:32:05Z",
+ "updated_at": "2026-07-13T23:29:39+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -204,16 +204,16 @@
   {
    "iso": "2026-07-13",
    "body": "Lenox Township Board of Trustees",
-   "topic": "First reading of I-94 Development District draft ordinance and data center-related zoning amid resident opposition to proposed projects",
+   "topic": "Board to consider public input on proposed data center development amid resident opposition over farmland and community impacts",
    "region": "SE Michigan",
    "regionKey": "metro",
    "county": "Macomb",
    "time": "6:30 PM",
    "status": "Board meeting",
    "urgent": true,
-   "link": "https://www.lenox-mi.gov/calendar.aspx?CID=14",
+   "link": "https://www.lenox-mi.gov/agendacenter",
    "linkLabel": "Agenda",
-   "stream": ""
+   "stream": "https://www.youtube.com/playlist?list=PL60F4C049F57EF5DE"
   },
   {
    "iso": "2026-07-13",
