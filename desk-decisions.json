@@ -573,6 +573,13 @@
    "at": "2026-07-13T16:08:17+00:00",
    "by": "news_judge",
    "note": "score 3/10, duplicate: Duplicate of already-live 'Dowagiac residents get first look at data center plans Monday' — same public forum/confrontation event in Dowagiac."
+  },
+  {
+   "url": "https://www.reuters.com/legal/litigation/white-house-rally-utilities-data-centers-over-ai-power-costs-2026-07-13/",
+   "title": "White House plans voluntary pledge with utilities and data centers to curb AI-driven power cost spikes",
+   "at": "2026-07-13T18:19:49+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National voluntary pledge story with thin Michigan relevance; speculative on impact and lacks concrete local action or decision."
   }
  ],
  "auto_published": [
@@ -815,6 +822,24 @@
    "title": "Michigan town drags data center into federal court over nonstop noise",
    "judge_score": 8,
    "at": "2026-07-13T13:33:06Z"
+  },
+  {
+   "url": "https://michiganadvance.com/?p=108324",
+   "title": "Bills target data center power and water use amid recalls and noise fights",
+   "judge_score": 8,
+   "at": "2026-07-13T18:19:49Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNzIwV3ZDdGc2akh3QU1XQV83ODhsS1BndkU5RHdGTGlTZTh1azI1T1NJZmYxbUhMXzdWMkNjVXIzOWRXRGxIQnJ4QTVYMFFxa2lfamdTOUVzVzlTN2tWWjN2WVNTMGRxNFlXeDN3RkFDLXRXQXdTamZhd0lobHZWdmQtVQ?oc=5",
+   "title": "Saline data-center campus now priced at $16 billion after financing closes",
+   "judge_score": 9,
+   "at": "2026-07-13T18:19:49Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWmdLVjRmYXBuYzI1RU1lWjhJVlF4ZlR2RzZMakJWRmtBVF8tVWdZbnpMd0ZOZ0o5SFNYMWhma20yNjZpbFY4VWthR2lCWXVVWDFoTHMwcU9ZbkQ2MGNoVnVobms1WjN3aWJOeXpjMlpBVlIyVl82aWJHR0VJSTUwQnBLeC1LWUg5S012UDZyQ1pTMFozal9rc3hvd2VYTk9zS3I0WDZoajVmb1RhbGdqRk1JQlNVNDZ6QWFzWGpOcVk0X1dPdjhnLUtiZjnSAeABQVVfeXFMUE05aHl6T2ZJRUNUSE5FLS1tMVQ1Rk45RnBDN2hRSmlSdnpLMGJpUkdtTG8wc09xMmlFOUZCd1hOMUpvRlh0dF9RMGVyc3E2NzVJR1ItUml5U2luRUdnakY2N1BuZTd1N1lYaHFCUHZLekdLUzFnaXhTNkppLUpaYWMxVzFqTkU5RnctYTUtWGFiSEVUQ1QtZ2IyQmZGNzBxX2hYeHI5VS1Wa1VnVktmOWNyTW1vSEZOX3lSU3paSHJGS0tVNTJMZkR2c0dOZE0wVHdObHdLcFlsSjJESEllelE?oc=5",
+   "title": "Water table bounces back after tech campus dig drained neighborhood pond",
+   "judge_score": 6,
+   "at": "2026-07-13T18:19:49Z"
   }
  ]
 }
