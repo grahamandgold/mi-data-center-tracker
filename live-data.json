@@ -1,7 +1,41 @@
 {
- "updated_at": "2026-07-14T16:23:02Z",
+ "updated_at": "2026-07-14T17:44:28Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Jackson halts all new data centers after council vote",
+   "dek": "City leaders approved a pause on fresh proposals to study power and water impacts first. Residents nearby worry about noise, traffic, and higher utility bills if multiple projects land at once. The move gives Jackson time to set rules before developers lock in sites.",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbWEzNVBrYVpyaDFHQVBKbXFhZW9xUlZjeUN6RFA2SzhQemdwRWR0QjdWUktfd1Yyb1Z0UVRZU0RiVmR3VHU1aGNBUUJtREFEZ1FheE9sdFktVGZjMjYzVnFpb1FHdTNZVkpybnkwdmlYYUwzNEZXbVhMbWdlNGdId2hB?oc=5",
+   "source": "AOL.com",
+   "region": "mid",
+   "cat": "STATEWIDE",
+   "county": "Jackson",
+   "tag": "Local Government",
+   "iso": "2026-07-14T17:12:58Z",
+   "id": "ef31a70dd95b",
+   "origin": "google-news",
+   "source_title": "Jackson City Council votes to pause new data center development in Jackson - AOL.com",
+   "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbWEzNVBrYVpyaDFHQVBKbXFhZW9xUlZjeUN6RFA2SzhQemdwRWR0QjdWUktfd1Yyb1Z0UVRZU0RiVmR3VHU1aGNBUUJtREFEZ1FheE9sdFktVGZjMjYzVnFpb1FHdTNZVkpybnkwdmlYYUwzNEZXbVhMbWdlNGdId2hB?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 9
+  },
+  {
+   "title": "Hyperscale developer faces Benton Harbor residents over noise and traffic",
+   "dek": "The company presented plans at a city council meeting but neighbors still question the scale. Local roads and the electric system were not built for constant heavy truck traffic and round-the-clock power draw. The session showed how quickly community pushback can grow once details surface.",
+   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNRTlhdS1lWG9YOHNWbUhENWdELThrblhtZkxyZXNBclJkVk0wdjEtT25UcFdPVktUSGx1cE5uZ3g4WGtObzhrY2JaTzdQOWtrYXF6M0RXOEp3Uk10WE5hVVUwZXQwa3ktT29Bc1c2Qmw5bHNnWHFncVViZWJUM1o1ZUk4VUpjbEtYWEpKSU5HcExRZWJfYUNPNlhIemR6S2w5MDdLRk8zVTlXWm14SS03eE1VaDNfc1JseWVyY0tGZ0xCT0NKUjJIRG1aSGFEdEVzcEt6NWJVeXE1bTFjZm9vdXFfd3NycEVENE94eUNnd1gzSGNXalJkc1JsMHVMMG9GV0Jpd1EzWXR2WHF0ZEVtVncxS3JTVE0?oc=5",
+   "source": "The Herald Palladium",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Berrien",
+   "tag": "Local Government",
+   "iso": "2026-07-14T16:00:00Z",
+   "id": "f8a0fc5a7fb8",
+   "origin": "google-news",
+   "source_title": "Hyperscale Data Center addresses community concerns at city council meeting - The Herald Palladium",
+   "source_url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNRTlhdS1lWG9YOHNWbUhENWdELThrblhtZkxyZXNBclJkVk0wdjEtT25UcFdPVktUSGx1cE5uZ3g4WGtObzhrY2JaTzdQOWtrYXF6M0RXOEp3Uk10WE5hVVUwZXQwa3ktT29Bc1c2Qmw5bHNnWHFncVViZWJUM1o1ZUk4VUpjbEtYWEpKSU5HcExRZWJfYUNPNlhIemR6S2w5MDdLRk8zVTlXWm14SS03eE1VaDNfc1JseWVyY0tGZ0xCT0NKUjJIRG1aSGFEdEVzcEt6NWJVeXE1bTFjZm9vdXFfd3NycEVENE94eUNnd1gzSGNXalJkc1JsMHVMMG9GV0Jpd1EzWXR2WHF0ZEVtVncxS3JTVE0?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
   {
    "title": "Monroe voters reject data center plan after energy and noise fears",
    "dek": "The Monroe Times reports local opposition prevailed in blocking the proposed facility over concerns about power demand and industrial noise. Residents living within a few miles of the site say the project would have raised their utility bills without delivering meaningful tax relief. The decision keeps the county's zoning rules unchanged for now.",
@@ -18,6 +52,23 @@
    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82TFRGeFhTM2VsNkRHaERJVEUtSDZhdnVDRzhoN3pSeDVVaUxuNDNIU2p2LV94bVJxV1JQdVBlUi1QMHJQRE1WMDlVdnk0Wm82eDhyYTU4UXpuM01IUmVCTld4ZGZwRHdDdnBv?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
+  },
+  {
+   "title": "Salem Township developer pitches revised data-center plan to ease concerns",
+   "dek": "The company claims the new design will use less visible equipment and lower noise levels than earlier versions. Neighbors remain skeptical that the promised improvements will hold once construction begins. Washtenaw County residents now watch to see whether local rules can force real changes or just green-light the project.",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSkZWLXlPOVN2SDd2V1p3UjN2N2hmUzFVYkM1clZ1dzNOVXRiNF9uWWVLZ0RVWnFyTXNsZTNIRmpOVllKeDdFQ2lPVDktSUVPSGo0YXpuVXI0ZHlyaExoQ0REQWl0Z19IcldWU1pLcWFEMy1oRTh2VV9hekljSVZqTzZKWXMxWDU4ak1qSjFjOEhJemEwNVE5c0pDUHZDRGpwRGxVaENnU3NjRms?oc=5",
+   "source": "The Business Journals",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Local Government",
+   "iso": "2026-07-14T14:57:00Z",
+   "id": "0ac1eb1822ce",
+   "origin": "google-news",
+   "source_title": "Developer promises 'a better data center' in revealing Salem project - The Business Journals",
+   "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSkZWLXlPOVN2SDd2V1p3UjN2N2hmUzFVYkM1clZ1dzNOVXRiNF9uWWVLZ0RVWnFyTXNsZTNIRmpOVllKeDdFQ2lPVDktSUVPSGo0YXpuVXI0ZHlyaExoQ0REQWl0Z19IcldWU1pLcWFEMy1oRTh2VV9hekljSVZqTzZKWXMxWDU4ak1qSjFjOEhJemEwNVE5c0pDUHZDRGpwRGxVaENnU3NjRms?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
   },
   {
    "title": "Benson under fire for Big Tech cash while data centers multiply",
@@ -137,53 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWmdLVjRmYXBuYzI1RU1lWjhJVlF4ZlR2RzZMakJWRmtBVF8tVWdZbnpMd0ZOZ0o5SFNYMWhma20yNjZpbFY4VWthR2lCWXVVWDFoTHMwcU9ZbkQ2MGNoVnVobms1WjN3aWJOeXpjMlpBVlIyVl82aWJHR0VJSTUwQnBLeC1LWUg5S012UDZyQ1pTMFozal9rc3hvd2VYTk9zS3I0WDZoajVmb1RhbGdqRk1JQlNVNDZ6QWFzWGpOcVk0X1dPdjhnLUtiZjnSAeABQVVfeXFMUE05aHl6T2ZJRUNUSE5FLS1tMVQ1Rk45RnBDN2hRSmlSdnpLMGJpUkdtTG8wc09xMmlFOUZCd1hOMUpvRlh0dF9RMGVyc3E2NzVJR1ItUml5U2luRUdnakY2N1BuZTd1N1lYaHFCUHZLekdLUzFnaXhTNkppLUpaYWMxVzFqTkU5RnctYTUtWGFiSEVUQ1QtZ2IyQmZGNzBxX2hYeHI5VS1Wa1VnVktmOWNyTW1vSEZOX3lSU3paSHJGS0tVNTJMZkR2c0dOZE0wVHdObHdLcFlsSjJESEllelE?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
-  },
-  {
-   "title": "Saline data-center campus now priced at $16 billion after financing closes",
-   "dek": "Developers have locked in funding that pushes the Saline Township project well above earlier estimates. The larger valuation means bigger future tax revenue but also heavier demands on power and roads. Neighbors are watching how the jump affects negotiations over abatements and infrastructure upgrades.",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNzIwV3ZDdGc2akh3QU1XQV83ODhsS1BndkU5RHdGTGlTZTh1azI1T1NJZmYxbUhMXzdWMkNjVXIzOWRXRGxIQnJ4QTVYMFFxa2lfamdTOUVzVzlTN2tWWjN2WVNTMGRxNFlXeDN3RkFDLXRXQXdTamZhd0lobHZWdmQtVQ?oc=5",
-   "source": "AOL.com",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Money",
-   "iso": "2026-07-13T14:06:30Z",
-   "id": "29b4bbbe986d",
-   "origin": "google-news",
-   "source_title": "Saline Township data center price tag balloons to $16B as developers lock in financing - AOL.com",
-   "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNzIwV3ZDdGc2akh3QU1XQV83ODhsS1BndkU5RHdGTGlTZTh1azI1T1NJZmYxbUhMXzdWMkNjVXIzOWRXRGxIQnJ4QTVYMFFxa2lfamdTOUVzVzlTN2tWWjN2WVNTMGRxNFlXeDN3RkFDLXRXQXdTamZhd0lobHZWdmQtVQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 9
-  },
-  {
-   "iso": "2026-07-13T13:00:00+00:00",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "tag": "Money",
-   "title": "Saline Township to Decide on $147 Million Annual Tax Break for Oracle-OpenAI Data Center",
-   "dek": "Critics including Attorney General Dana Nessel question the need for property tax cuts on top of existing state exemptions, while the project is expected to create 450 permanent jobs.",
-   "source": "Bridge Michigan",
-   "url": "https://bridgemi.com/business-watch/as-data-centers-grow-in-michigan-officials-ask-how-many-tax-breaks-are-enough/",
-   "breaking": false,
-   "lead": false,
-   "id": "fcad0173e066",
-   "accuracy": "checked-rewritten",
-   "judge_score": 8
-  },
-  {
-   "iso": "2026-07-13T10:00:00Z",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "tag": "Policy",
-   "title": "Bills target data center power and water use amid recalls and noise fights",
-   "dek": "Democratic senators introduced regulations on energy costs and water consumption. Local actions include Kent County recall petitions over a Microsoft proposal and a Dowagiac facility shifting from Bitcoin mining after noise complaints.",
-   "source": "Michigan Advance",
-   "url": "https://michiganadvance.com/?p=108324",
-   "breaking": false,
-   "lead": true,
-   "id": "9f5a478a1832",
-   "accuracy": "checked-rewritten",
-   "judge_score": 8
   }
  ],
  "national": {
@@ -204,16 +208,16 @@
   {
    "iso": "2026-07-14",
    "body": "Saline Township Board of Trustees",
-   "topic": "Vote on 12-year, 50% tax abatement for Oracle-OpenAI $43 billion hyperscale data center project",
+   "topic": "Vote on 12-year tax abatement request for Oracle-OpenAI hyperscale data center project",
    "region": "SE Michigan",
    "regionKey": "metro",
    "county": "Washtenaw",
    "time": "7:00 PM",
-   "status": "Special meeting",
+   "status": "Special Board meeting",
    "urgent": true,
    "link": "https://salinetownship.org/meeting-agendas.php",
    "linkLabel": "Agenda",
-   "stream": null
+   "stream": ""
   },
   {
    "iso": "2026-07-14",
