@@ -692,6 +692,20 @@
    "at": "2026-07-14T17:44:28+00:00",
    "by": "news_judge",
    "note": "score 5/10: Warren follow-up adds storm/blackout angle but no new council action beyond the 'may pause' already live; speculative on county weighing halt."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNNDRNdFNQMWJGeWFldS11RXRybkZYREVkU0tFUzZEa0QtUVNSTkllMXRLbGpuaXFjVnF4bUV6Zy10TXl3UTRIaUN0TjExdDgtWW5XTUNsZmd4YVViOVhISEZVSHpVSEJHNVVmZWJGUGdiYzFjS0hEWV9fOXZjSnl1NEc4Y1hTZ0xDQWc0N05CZHQ3eWZINmFSc3prTS04ZFFSdlh5ZERjSmM3Ym1ZeTRjaVpHcWN4YmcxMmtkN2NsZGxBeVZqeTV0Umo5UXZHcFdWM0lXOVQ5dnA2TEc3dU0yRXdBd0xiWUFTd3IzVFFVT1JqVWdLOFlSY1hRb0NxMUhqc0FFUVZJakc2T2FqQzRtYXUtNUZZM3J3QUJERjJKWGJnd1lN?oc=5",
+   "title": "Hyperscale Data Center faces questions at Benton Harbor meeting",
+   "at": "2026-07-14T19:39:18+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This is the same Benton Harbor meeting already live as 'Hyperscale developer faces Benton Harbor residents over noise and traffic.'"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX1VJam1WUUJ0YVJ0MmdFUjVITFEyT0NjTTNGU2lZdFdrTHVUYUpaRm1EaHBVRks4eUF2NE9hX0lQRjNUWGtSZVA3ZWt3c3dveHBfd25zUlpMM0Q3MlVXSkVzQjlSaDlrbXZzQ01RR1RuajFrTW83NGNuV2xSSXVlMFpWeEQ5QXhpRlVmc1d0ZjRzUDlPVlFyNnZ0dFcwcE9yeTdTZXZ6ZVZMY29xWEFiQzVBNmdYeU9FSm9Yem5sMkxscFZFY3BPNdIB3AFBVV95cUxNOVRJSGQycEVqMWY4STRiRUhUSEdINk1SOFM3QlVTanAwLUczRk9wNjB5NE1vVDdCZmpaUVlRaE93anpMODd1NFFwbFBkQ2lTS1ZiOWJSa3k0OW1JSC1DeVROdWFfdnA4WFBrLW90Y2psVlNPWXh4ZlVFbUxZWl9uRy1vM29aWjF0bHFYWk1VZEZlTHVtMWVHV0dDYlhWUFlzdWhBTlpFakRyeHQxNGpwYVdsWTJ6Zl9fbnJRNGhkZnlER1M5NDNnTzVfTnhzbFpsR0poQjRnZHJYZ29j?oc=5",
+   "title": "Michigan homes lose peace and quiet to round-the-clock data center din",
+   "at": "2026-07-14T19:39:18+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Generic rehash of the Dowagiac noise complaints already covered multiple times in killed stories; no new event or decision reported."
   }
  ],
  "auto_published": [
@@ -1018,6 +1032,12 @@
    "title": "Jackson halts all new data centers after council vote",
    "judge_score": 9,
    "at": "2026-07-14T17:44:28Z"
+  },
+  {
+   "url": "https://planetdetroit.org/2026/07/warren-data-center-moratorium-power-outages/",
+   "title": "Storms Topple Dozens of Warren Power Lines, Fueling Data Center Pause Push",
+   "judge_score": 7,
+   "at": "2026-07-14T19:39:18Z"
   }
  ]
 }

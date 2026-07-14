@@ -1,7 +1,22 @@
 {
- "updated_at": "2026-07-14T17:44:28Z",
+ "updated_at": "2026-07-14T19:39:18Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "iso": "2026-07-14T17:38:00+00:00",
+   "region": "metro",
+   "cat": "Macomb Co.",
+   "tag": "Local Government",
+   "title": "Storms Topple Dozens of Warren Power Lines, Fueling Data Center Pause Push",
+   "dek": "Council Secretary Mindy Moore requested a July 14 moratorium vote after the city's aging grid failed; if passed, Warren would join other Michigan towns pausing projects while it writes zoning rules.",
+   "source": "Planet Detroit",
+   "url": "https://planetdetroit.org/2026/07/warren-data-center-moratorium-power-outages/",
+   "breaking": true,
+   "lead": true,
+   "id": "9b797782546f",
+   "accuracy": "checked-rewritten",
+   "judge_score": 7
+  },
   {
    "title": "Jackson halts all new data centers after council vote",
    "dek": "City leaders approved a pause on fresh proposals to study power and water impacts first. Residents nearby worry about noise, traffic, and higher utility bills if multiple projects land at once. The move gives Jackson time to set rules before developers lock in sites.",
@@ -171,23 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbmtQdFEyTW45Mk1NYTRfRFlhc2VUdV9xU0dxYkNXYTBwYkNxV3FPRmllTGRZRjlBaXlBTTMwMUdEWnFuRjA1VHJGRWNMb1ctQzBrMTRjZ0NocWlkbUc2V3RvSDdyN0h2dmJJblE0Wno0VGZmMXZVU2xYSHNYYVpla3JPTExFV1JMTm8tZUc1MDFIVmJXZW9rdVNyTUtYd3ZaWXBXWnFSMlFJZk1kUENLSXlBby1GdzZHM1c5M3lTdmphbGN2NUtZZGY0WngxeWVnazRIVXdkdzZHV3I4d1c3aXQxQUJZWU0?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Water table bounces back after tech campus dig drained neighborhood pond",
-   "dek": "A local pond that dropped sharply during work on the Oracle and OpenAI campus is now recovering. Residents downstream have long worried about wells and wetlands tied to the same aquifer. The episode shows how quickly large-scale excavation can affect everyday water sources in the township.",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWmdLVjRmYXBuYzI1RU1lWjhJVlF4ZlR2RzZMakJWRmtBVF8tVWdZbnpMd0ZOZ0o5SFNYMWhma20yNjZpbFY4VWthR2lCWXVVWDFoTHMwcU9ZbkQ2MGNoVnVobms1WjN3aWJOeXpjMlpBVlIyVl82aWJHR0VJSTUwQnBLeC1LWUg5S012UDZyQ1pTMFozal9rc3hvd2VYTk9zS3I0WDZoajVmb1RhbGdqRk1JQlNVNDZ6QWFzWGpOcVk0X1dPdjhnLUtiZjnSAeABQVVfeXFMUE05aHl6T2ZJRUNUSE5FLS1tMVQ1Rk45RnBDN2hRSmlSdnpLMGJpUkdtTG8wc09xMmlFOUZCd1hOMUpvRlh0dF9RMGVyc3E2NzVJR1ItUml5U2luRUdnakY2N1BuZTd1N1lYaHFCUHZLekdLUzFnaXhTNkppLUpaYWMxVzFqTkU5RnctYTUtWGFiSEVUQ1QtZ2IyQmZGNzBxX2hYeHI5VS1Wa1VnVktmOWNyTW1vSEZOX3lSU3paSHJGS0tVNTJMZkR2c0dOZE0wVHdObHdLcFlsSjJESEllelE?oc=5",
-   "source": "MLive.com",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Water",
-   "iso": "2026-07-13T17:35:00Z",
-   "id": "a6f6b88e3209",
-   "origin": "google-news",
-   "source_title": "Pond near Oracle, OpenAI data center construction site recovering after level drops - MLive.com",
-   "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWmdLVjRmYXBuYzI1RU1lWjhJVlF4ZlR2RzZMakJWRmtBVF8tVWdZbnpMd0ZOZ0o5SFNYMWhma20yNjZpbFY4VWthR2lCWXVVWDFoTHMwcU9ZbkQ2MGNoVnVobms1WjN3aWJOeXpjMlpBVlIyVl82aWJHR0VJSTUwQnBLeC1LWUg5S012UDZyQ1pTMFozal9rc3hvd2VYTk9zS3I0WDZoajVmb1RhbGdqRk1JQlNVNDZ6QWFzWGpOcVk0X1dPdjhnLUtiZjnSAeABQVVfeXFMUE05aHl6T2ZJRUNUSE5FLS1tMVQ1Rk45RnBDN2hRSmlSdnpLMGJpUkdtTG8wc09xMmlFOUZCd1hOMUpvRlh0dF9RMGVyc3E2NzVJR1ItUml5U2luRUdnakY2N1BuZTd1N1lYaHFCUHZLekdLUzFnaXhTNkppLUpaYWMxVzFqTkU5RnctYTUtWGFiSEVUQ1QtZ2IyQmZGNzBxX2hYeHI5VS1Wa1VnVktmOWNyTW1vSEZOX3lSU3paSHJGS0tVNTJMZkR2c0dOZE0wVHdObHdLcFlsSjJESEllelE?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {
