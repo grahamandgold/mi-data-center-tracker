@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-14T04:11:31Z",
+ "updated_at": "2026-07-14T06:37:27+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -212,6 +212,19 @@
    "status": "Board meeting",
    "urgent": true,
    "link": "https://salinetownship.org/",
+   "linkLabel": "Agenda"
+  },
+  {
+   "iso": "2026-07-15",
+   "body": "Ypsilanti Township Board of Trustees",
+   "topic": "Data center informational session on University of Michigan proposal",
+   "region": "SE Michigan",
+   "regionKey": "metro",
+   "county": "Washtenaw",
+   "time": "7:00 PM",
+   "status": "Public hearing",
+   "urgent": false,
+   "link": "https://ypsitownship.org/government/boards___commissions/board_of_trustees/",
    "linkLabel": "Agenda"
   },
   {
