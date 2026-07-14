@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-14T11:12:38+00:00",
+ "generated_at": "2026-07-14T21:27:31+00:00",
  "for_dates": [
   "2026-07-14",
   "2026-07-15"
@@ -8,29 +8,29 @@
   {
    "iso": "2026-07-14",
    "time": "7:00 PM",
-   "meeting": "Saline Township Board",
-   "bullet": "Saline Township Board meets July 14 at 7 PM to consider an IFEC application.",
+   "meeting": "Saline Township Board of Trustees",
+   "bullet": "Saline Township Board meets July 14 to consider an IFEC application; agenda provides no project details.",
    "link": "https://salinetownship.org/meeting-agendas.php"
   },
   {
    "iso": "2026-07-14",
    "time": "7:00 PM",
-   "meeting": "Saline Township Board of Trustees",
-   "bullet": "Saline trustees consider tax exemption application July 8 for Related Digital data center project.",
-   "link": "https://salinetownship.org/"
+   "meeting": "Saline Township Board",
+   "bullet": "Saline Twp board meets July 14 to consider an IFEC application; agenda provides no project details.",
+   "link": "https://salinetownship.org/meeting-agendas.php"
+  },
+  {
+   "iso": "2026-07-15",
+   "time": "6:00 PM",
+   "meeting": "Ypsilanti Township",
+   "bullet": "Ypsilanti Twp seeks 12-month water/sewer moratorium for data centers citing 5M gallons daily use on 144-acre U-M site.",
+   "link": "https://ypsitownship.org/government/boards___commissions/board_of_trustees/data_center_information.php"
   },
   {
    "iso": "2026-07-15",
    "time": "6:00 PM",
    "meeting": "Ypsilanti Township Board of Trustees",
-   "bullet": "Ypsilanti Township seeks 12-month water/sewer moratorium on 144-acre U-M/Los Alamos site that could draw up to 5 million gallons daily while remaining tax-exempt.",
-   "link": "https://ypsitownship.org/government/boards___commissions/board_of_trustees/data_center_information.php"
-  },
-  {
-   "iso": "2026-07-15",
-   "time": "TBD",
-   "meeting": "Ypsilanti Township",
-   "bullet": "Ypsilanti Twp secured 12-month water/sewer moratorium for U-M/LANL facility on 144 acres bought for $6.7M.",
+   "bullet": "Ypsilanti Township board meets July 15 on 144-acre UM-Los Alamos site after passing resolutions that secured a 12-month water/sewer moratorium for data centers.",
    "link": "https://ypsitownship.org/government/boards___commissions/board_of_trustees/data_center_information.php"
   }
  ]
