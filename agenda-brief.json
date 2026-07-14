@@ -1,30 +1,37 @@
 {
- "generated_at": "2026-07-13T21:26:09+00:00",
+ "generated_at": "2026-07-14T11:12:38+00:00",
  "for_dates": [
-  "2026-07-13",
-  "2026-07-14"
+  "2026-07-14",
+  "2026-07-15"
  ],
  "items": [
   {
-   "iso": "2026-07-13",
+   "iso": "2026-07-14",
    "time": "7:00 PM",
-   "meeting": "Lansing City Council",
-   "bullet": "Lansing City Council opens public hearing tonight on 182-day data center moratorium after Deep Green 24 MW proposal withdrawal.",
-   "link": "https://www.lansingmi.gov/AgendaCenter"
-  },
-  {
-   "iso": "2026-07-13",
-   "time": "7:00 PM",
-   "meeting": "Lansing City Council — Development & Planning",
-   "bullet": "Lansing hearing July 13 on 182-day data center moratorium after Deep Green's $120M downtown proposal with heat-reuse deal was withdrawn amid resident concerns over energy and water",
-   "link": "https://www.wlns.com/lansing/lansing-city-council-to-discuss-temporary-data-center-ban/amp/"
+   "meeting": "Saline Township Board",
+   "bullet": "Saline Township Board meets July 14 at 7 PM to consider an IFEC application.",
+   "link": "https://salinetownship.org/meeting-agendas.php"
   },
   {
    "iso": "2026-07-14",
    "time": "7:00 PM",
    "meeting": "Saline Township Board of Trustees",
-   "bullet": "Saline Township board to address Industrial Facilities Tax Exemption application for Related Digital data center project at July 8 meeting.",
+   "bullet": "Saline trustees consider tax exemption application July 8 for Related Digital data center project.",
    "link": "https://salinetownship.org/"
+  },
+  {
+   "iso": "2026-07-15",
+   "time": "6:00 PM",
+   "meeting": "Ypsilanti Township Board of Trustees",
+   "bullet": "Ypsilanti Township seeks 12-month water/sewer moratorium on 144-acre U-M/Los Alamos site that could draw up to 5 million gallons daily while remaining tax-exempt.",
+   "link": "https://ypsitownship.org/government/boards___commissions/board_of_trustees/data_center_information.php"
+  },
+  {
+   "iso": "2026-07-15",
+   "time": "TBD",
+   "meeting": "Ypsilanti Township",
+   "bullet": "Ypsilanti Twp secured 12-month water/sewer moratorium for U-M/LANL facility on 144 acres bought for $6.7M.",
+   "link": "https://ypsitownship.org/government/boards___commissions/board_of_trustees/data_center_information.php"
   }
  ]
 }
