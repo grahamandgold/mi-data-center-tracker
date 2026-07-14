@@ -1,7 +1,41 @@
 {
- "updated_at": "2026-07-14T00:56:51Z",
+ "updated_at": "2026-07-14T04:11:31Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Lansing council votes six-month freeze on data centers",
+   "dek": "Lansing leaders approved a half-year pause on new data-center proposals to buy time for rules that protect residents. The move halts projects in the capital while officials weigh power, noise and tax impacts. It marks the latest city to hit the brakes on rapid expansion.",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS2RBRHM5bVB0b19aN2paWmpiYTgtVXNIdTlDUU1VcXRHOFpHVEhlTlBDckgxV3dFbzZsaVpVWHlKSktabEd3cThQV2NIMnNHTVQ5RDY0QUJPVnRFallFczgyOW1WT2h4TUVQVHNtRy04TU1xM1U4dkhreDBaVEFuTWJLSE1ZSzZvREhj?oc=5",
+   "source": "Yahoo",
+   "region": "mid",
+   "cat": "STATEWIDE",
+   "county": "Ingham",
+   "tag": "Local Government",
+   "iso": "2026-07-14T02:23:00Z",
+   "id": "5d1d71184075",
+   "origin": "google-news",
+   "source_title": "Lansing City Council passes 6-month data center pause - Yahoo",
+   "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS2RBRHM5bVB0b19aN2paWmpiYTgtVXNIdTlDUU1VcXRHOFpHVEhlTlBDckgxV3dFbzZsaVpVWHlKSktabEd3cThQV2NIMnNHTVQ5RDY0QUJPVnRFallFczgyOW1WT2h4TUVQVHNtRy04TU1xM1U4dkhreDBaVEFuTWJLSE1ZSzZvREhj?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 9
+  },
+  {
+   "title": "Haring Township crowd backs outright ban on data centers",
+   "dek": "Hundreds showed up in Haring Township to demand a full prohibition on data centers, fearing loss of rural quiet and higher utility bills. The strong turnout signals deep community concern over industrial-scale projects. Wexford County residents want to keep the area off-limits.",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNT0g2eU1EV241b3hkUzlfQ2l3R3czMFJsU1VsbkZzMzFHV0k0NjhfVTNHcThBY21qVDlKbzdIWnZraVBnOHdvOWlJUTBmck4tZjFYTlo0YXh4ZWxvZUJqVkxCMGpsc1M5TkVzLUJFbGRjcUtjaFJ0YUxadWpzVkhQRGFuVE96Z0RaTFNWVExrS1F0QnhWVTVxd3hHNldvX2hVUnZROEdRdU1Ba3lIbEd5Uy1DMGU2cEl6WDZldVF5S1B1NkphQ1FvTXBKUGlxaEFJdXhIQ25FckxjWDJ6R3Jsc0dtNUpjcHZ4?oc=5",
+   "source": "Cadillac News",
+   "region": "north",
+   "cat": "STATEWIDE",
+   "county": "Wexford",
+   "tag": "Local Government",
+   "iso": "2026-07-14T01:01:39Z",
+   "id": "023610b22d4f",
+   "origin": "google-news",
+   "source_title": "Crowd comes out in support of banning data centers in Haring Township - Cadillac News",
+   "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNT0g2eU1EV241b3hkUzlfQ2l3R3czMFJsU1VsbkZzMzFHV0k0NjhfVTNHcThBY21qVDlKbzdIWnZraVBnOHdvOWlJUTBmck4tZjFYTlo0YXh4ZWxvZUJqVkxCMGpsc1M5TkVzLUJFbGRjcUtjaFJ0YUxadWpzVkhQRGFuVE96Z0RaTFNWVExrS1F0QnhWVTVxd3hHNldvX2hVUnZROEdRdU1Ba3lIbEd5Uy1DMGU2cEl6WDZldVF5S1B1NkphQ1FvTXBKUGlxaEFJdXhIQ25FckxjWDJ6R3Jsc0dtNUpjcHZ4?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Lowell Township residents face first data-center vote tonight",
    "dek": "A project could arrive in Kent County with major power and land-use impacts. Neighbors want to know how much noise, traffic and tax revenue will actually reach them. The meeting decides whether the township opens the door or sets limits.",
@@ -150,38 +184,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ybUhCQnFTRkVFcEg1dVZFNjQ1dUpMTFM1d3NZc3dQZkE1UTV1UFpUa3VvUy1LdHNYemNOLTFXSUhBdktnZm9hSTVMMzJnOTU3?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
-  },
-  {
-   "title": "Michigan town drags data center into federal court over nonstop noise",
-   "dek": "Residents claim the facility’s constant hum violates local quality of life and has gone unaddressed by regulators. The lawsuit seeks court intervention after local complaints produced no relief. A win could set precedent for other Michigan communities facing similar operations.",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMVEtMEpVbWNLaC1NWXZ2bTh2TnZ5VUx3QmdWM1QwakhMcnFQTkw4TFJfQ3JCd0lBNVZnRk5LZDhocEh3Mm56WWg5ejZ3RzB2eEtjMWd3N3FfajQ0NVdzQWpKM3NWeTI1bXFObGNtV1FDUzI2Q19UMnVjUVZHbEpEcTk0RXBfZlplZmJRS0NDeWJYbThxMzQyc3BNTU5PQ2dTeUhsRVBOUF91WVRvV2hRQXZ2YVEyaVM0ajc1cUFtaDNJSDlSbDVBOUp5dlo0SDhJYVM2TVdGbTZoTTQ?oc=5",
-   "source": "MSN",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Power & Grid",
-   "iso": "2026-07-13T04:34:54Z",
-   "id": "327bd3c8b66d",
-   "origin": "google-news",
-   "source_title": "AI data center's endless hum – the unchecked AI nightmare forcing a Michigan town into federal court - MSN",
-   "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMVEtMEpVbWNLaC1NWXZ2bTh2TnZ5VUx3QmdWM1QwakhMcnFQTkw4TFJfQ3JCd0lBNVZnRk5LZDhocEh3Mm56WWg5ejZ3RzB2eEtjMWd3N3FfajQ0NVdzQWpKM3NWeTI1bXFObGNtV1FDUzI2Q19UMnVjUVZHbEpEcTk0RXBfZlplZmJRS0NDeWJYbThxMzQyc3BNTU5PQ2dTeUhsRVBOUF91WVRvV2hRQXZ2YVEyaVM0ajc1cUFtaDNJSDlSbDVBOUp5dlo0SDhJYVM2TVdGbTZoTTQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
-  },
-  {
-   "iso": "2026-07-12T23:00:00Z",
-   "region": "west",
-   "cat": "Mason Co.",
-   "tag": "Local Government",
-   "title": "Pere Marquette Township Board to Consider One-Year Data Center Pause",
-   "dek": "Trustees will review a proposed moratorium citing energy, water and noise impacts before any projects arrive, alongside a $1.36 million park entrance contract.",
-   "source": "Shoreline Media Group",
-   "url": "https://www.shorelinemedia.net/ludington_daily_news/news/pm-board-to-consider-data-center-moratorium-1-36m-park-project/article_5d888ea2-ac45-4305-97d9-0f582dcec845.html",
-   "breaking": false,
-   "lead": true,
-   "id": "f3f9af82fe83",
-   "accuracy": "checked-rewritten",
-   "judge_score": 7
   }
  ],
  "national": {
@@ -215,16 +217,15 @@
   {
    "iso": "2026-07-15",
    "body": "Ypsilanti Township",
-   "topic": "Informational session and public comment on proposed U of M/Los Alamos computational data center project",
+   "topic": "Data Center Informational Session on University of Michigan proposed project concerns",
    "region": "SE Michigan",
    "regionKey": "metro",
    "county": "Washtenaw",
    "time": "6:00 PM",
    "status": "Public hearing",
    "urgent": false,
-   "link": "https://ypsitownship.org/news_detail_T2_R250.php",
-   "linkLabel": "Agenda/Info",
-   "stream": ""
+   "link": "https://ypsitownship.org/government/boards___commissions/board_of_trustees/data_center_information.php",
+   "linkLabel": "Agenda/Info"
   }
  ],
  "accuracy_checked_at": "2026-07-08T08:45:16+00:00"
