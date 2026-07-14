@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-14T22:34:28Z",
+ "updated_at": "2026-07-14T23:28:51+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -203,6 +203,20 @@
   "accuracy": "checked"
  },
  "meetings": [
+  {
+   "iso": "2026-07-14",
+   "body": "Warren City Council",
+   "topic": "Vote on temporary data center moratorium",
+   "region": "SE Michigan",
+   "regionKey": "metro",
+   "county": "Macomb",
+   "time": "7:00 PM",
+   "status": "Board meeting",
+   "urgent": true,
+   "link": "https://www.cityofwarren.org/government/city-council/",
+   "linkLabel": "Agenda",
+   "stream": "https://www.cityofwarren.org/government/city-council/"
+  },
   {
    "iso": "2026-07-14",
    "body": "Saline Township Board of Trustees",

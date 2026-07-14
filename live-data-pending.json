@@ -1,41 +1,25 @@
 {
- "updated_at": "2026-07-14T22:34:28Z",
+ "updated_at": "2026-07-14T23:29:09+00:00",
  "generator": "grok-wire-agent",
  "items": [
   {
-   "title": "Ypsilanti Township confronts U-M facility on 144 acres amid water moratorium bid",
-   "dek": "University of Michigan and Los Alamos National Laboratory control 144 acres at Textile and Bridge roads for a high-performance computing site. The township, which receives no property taxes from the project, has already demanded a 12-month pause on water and sewer hookups for such facilities. Residents 30 minutes away stand to lose local water capacity and face unmitigated infrastructure strain without new safeguards.",
-   "url": "https://ypsitownship.org/government/boards___commissions/board_of_trustees/data_center_information.php",
-   "source": "Ypsilanti Township agenda",
-   "region": "Southeast Michigan",
-   "county": "Washtenaw",
-   "cat": "Meetings",
-   "tag": "Agenda watch",
-   "iso": "2026-07-14T21:27:31+00:00",
-   "kind": "agenda",
-   "id": "85dd19853e1f",
-   "filed_at": "2026-07-14T21:27:31+00:00",
-   "accuracy": "unverified-source-unfetchable",
-   "findings": "U-M bought 20 acres at 10221 Textile Rd for $1.5 million in 2024 and over 100 acres at 10455/10635 Textile Rd for $5.2 million in 2026, bringing total control to roughly 144 acres | Resolution 2026-08, passed April 15, 2026, asks YCUA for a 12-month moratorium on water and sewer services to hyperscale and AI facilities citing up to 5 million gallons daily demand and wastewater treatment needs | Township Resolution 2026-05 unanimously opposed any Los Alamos nuclear research facility siting in Ypsilanti Township | U-M is exempt from township zoning and property taxes as a state university | YCUA voted April 22 in favor of a 12-month moratorium of delivering, committing, reserving or approving water and sewer services to data centers and AI computing facilities | The July 15 informational ses",
-   "perspective": "The board unanimously backed Resolutions 2026-05 and 2026-08 in special meetings this year. Tomorrow's session gives residents a direct forum to question project leaders on water, power, and security impacts.",
-   "documents": [
-    {
-     "label": "Agenda page",
-     "url": "https://ypsitownship.org/government/boards___commissions/board_of_trustees/data_center_information.php"
-    },
-    {
-     "label": "Resolution 2026-08",
-     "url": "https://files.ypsitownship.org/Documents/Departments/Clerks-Office/Ordinances-Resolutions/2026/2026-Resolutions/Resolution-No.-2026-08-Data-Center-YCUA-Moratorium.pdf?t=202604161122310&t=202604161122310"
-    },
-    {
-     "label": "Letter from U of M President Dominico Grasso and LANL Director Thom Ma",
-     "url": "https://debbiedingell.house.gov/uploadedfiles/7.10.26_um_response.pdf"
-    }
-   ],
-   "depth_score": 10,
-   "extraction_method": "plain",
-   "judge_score": 6,
-   "judge_note": "Document-based agenda preview revealing U-M/Los Alamos 144-acre site and tax-exempt status amid water moratorium is incremental but real."
+   "iso": "2026-07-14T18:00:00+00:00",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "tag": "Power & Grid",
+   "title": "Lenox Residents Push Recall After Emails Reveal Secret Data Center Pitch",
+   "dek": "Township officials in rural Michigan were contacted privately by developers; residents now face higher energy and water bills if the project advances.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/jul/03/datacenter-recall-elections",
+   "breaking": false,
+   "lead": false,
+   "id": "99c055c02469",
+   "kind": "national",
+   "filed_at": "2026-07-14T23:28:51+00:00",
+   "accuracy": "checked-rewritten",
+   "headline_rewritten": true,
+   "judge_score": 8,
+   "judge_note": "New development in Lenox with concrete action (recall push) and document evidence (revealed emails) — different township, specific new event."
   },
   {
    "iso": "2026-07-13T23:00:00+00:00",
@@ -57,5 +41,5 @@
    "judge_note": "Two Michigan communities adopting permanent data center zoning standards is concrete local action, even without active projects yet."
   }
  ],
- "accuracy_checked_at": "2026-07-14T22:34:20+00:00"
+ "accuracy_checked_at": "2026-07-14T23:29:03+00:00"
 }
