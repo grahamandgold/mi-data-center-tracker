@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-14T06:37:27+00:00",
+ "updated_at": "2026-07-14T09:12:18+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -203,6 +203,20 @@
  "meetings": [
   {
    "iso": "2026-07-14",
+   "body": "Saline Township Board",
+   "topic": "Special meeting to consider 50% property tax reduction for 12 years on Oracle-linked data center project",
+   "region": "SE Michigan",
+   "regionKey": "metro",
+   "county": "Washtenaw",
+   "time": "7:00 PM",
+   "status": "Board meeting",
+   "urgent": true,
+   "link": "https://salinetownship.org/meeting-agendas.php",
+   "linkLabel": "Agenda",
+   "stream": ""
+  },
+  {
+   "iso": "2026-07-14",
    "body": "Saline Township Board of Trustees",
    "topic": "Special meeting to consider Industrial Facilities Tax Exemption Certificate for Oracle's $43 billion data center project",
    "region": "SE Michigan",
@@ -216,6 +230,20 @@
   },
   {
    "iso": "2026-07-15",
+   "body": "Ypsilanti Township",
+   "topic": "Informational session on proposed data center project",
+   "region": "SE Michigan",
+   "regionKey": "metro",
+   "county": "Washtenaw",
+   "time": "TBD",
+   "status": "Public hearing",
+   "urgent": false,
+   "link": "https://ypsitownship.org/government/boards___commissions/board_of_trustees/data_center_information.php",
+   "linkLabel": "Agenda",
+   "stream": ""
+  },
+  {
+   "iso": "2026-07-15",
    "body": "Ypsilanti Township Board of Trustees",
    "topic": "Data center informational session on University of Michigan proposal",
    "region": "SE Michigan",
@@ -226,19 +254,6 @@
    "urgent": false,
    "link": "https://ypsitownship.org/government/boards___commissions/board_of_trustees/",
    "linkLabel": "Agenda"
-  },
-  {
-   "iso": "2026-07-15",
-   "body": "Ypsilanti Township",
-   "topic": "Data Center Informational Session on University of Michigan proposed project concerns",
-   "region": "SE Michigan",
-   "regionKey": "metro",
-   "county": "Washtenaw",
-   "time": "6:00 PM",
-   "status": "Public hearing",
-   "urgent": false,
-   "link": "https://ypsitownship.org/government/boards___commissions/board_of_trustees/data_center_information.php",
-   "linkLabel": "Agenda/Info"
   }
  ],
  "accuracy_checked_at": "2026-07-08T08:45:16+00:00"
