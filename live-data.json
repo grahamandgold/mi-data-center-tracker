@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-15T15:00:01Z",
+ "updated_at": "2026-07-15T16:40:27Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Wixom keeps data center moratorium after rejecting waiver request",
+   "dek": "Wixom city council turned down a waiver that would have allowed a data center project to move forward. The moratorium remains in effect, blocking new proposals while the city studies impacts on power and local infrastructure. Residents in this Oakland County suburb get more time before any large-scale facilities can be approved.",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObExXcDBqazZTNU1aU1BlVlVDbnZEcXFWZHBmcDc3dS1kNXczTFlKenpIb3BSMFNKZXc2endpRktUSnh6T1RDQzk1RzdkMWhycUNNd2ZLQUVLTVc4YlRtVV9QSjRUX1lBRElNbFJGcjRWVUJQcVJsR3UyZFN6NlpINVFtd3huTFIyS0UzbkFnVnFrYzF4QXIwOWJvRmZlZXVUclBJQVRsYkI3VTYtQU5xTzhTb04yX0FVRUo00gHPAUFVX3lxTE5qUDdCYXdxNGJkUVljN0tZc2oyRTY1MHZfVUkwbnB0dGUtcW5pcF9KVDBzcmV2RHNGTkItS0NCQmhUems2X01hbWJZWHJOcm8zcUlYQjNTYTlnOVNTd3l5Ym5mYzlqWFdTUUtwRlpKZjlibkMwWFpOeHlpOTRUazhOQ1ctaFVtdjhJUFdiUmpzbjJNc2JZakdXdTN6QzZxZlF6Q0dZY0VKT2FFTmNlOUhTU3pFY1RLXzk2aVlDazJVOGhLa25wSlBRUHZzcG1Ccw?oc=5",
+   "source": "MLive.com",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Oakland",
+   "tag": "Local Government",
+   "iso": "2026-07-15T15:14:00Z",
+   "id": "89dd57a6ed73",
+   "origin": "google-news",
+   "source_title": "Wixom city council rejects data center waiver, moratorium stays in place - MLive.com",
+   "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObExXcDBqazZTNU1aU1BlVlVDbnZEcXFWZHBmcDc3dS1kNXczTFlKenpIb3BSMFNKZXc2endpRktUSnh6T1RDQzk1RzdkMWhycUNNd2ZLQUVLTVc4YlRtVV9QSjRUX1lBRElNbFJGcjRWVUJQcVJsR3UyZFN6NlpINVFtd3huTFIyS0UzbkFnVnFrYzF4QXIwOWJvRmZlZXVUclBJQVRsYkI3VTYtQU5xTzhTb04yX0FVRUo00gHPAUFVX3lxTE5qUDdCYXdxNGJkUVljN0tZc2oyRTY1MHZfVUkwbnB0dGUtcW5pcF9KVDBzcmV2RHNGTkItS0NCQmhUems2X01hbWJZWHJOcm8zcUlYQjNTYTlnOVNTd3l5Ym5mYzlqWFdTUUtwRlpKZjlibkMwWFpOeHlpOTRUazhOQ1ctaFVtdjhJUFdiUmpzbjJNc2JZakdXdTN6QzZxZlF6Q0dZY0VKT2FFTmNlOUhTU3pFY1RLXzk2aVlDazJVOGhLa25wSlBRUHZzcG1Ccw?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "Lenox Township rumors trigger recall push against board",
    "dek": "Residents in Lenox Township are circulating recall petitions after the board delayed action on rumored data-center proposals. The delay leaves open questions about how much power and water a large facility would pull from local supplies. Voters could face a recall election that decides who controls future zoning decisions.",
@@ -167,23 +184,6 @@
    "id": "9b797782546f",
    "accuracy": "checked-rewritten",
    "judge_score": 7
-  },
-  {
-   "title": "Jackson halts all new data centers after council vote",
-   "dek": "City leaders approved a pause on fresh proposals to study power and water impacts first. Residents nearby worry about noise, traffic, and higher utility bills if multiple projects land at once. The move gives Jackson time to set rules before developers lock in sites.",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbWEzNVBrYVpyaDFHQVBKbXFhZW9xUlZjeUN6RFA2SzhQemdwRWR0QjdWUktfd1Yyb1Z0UVRZU0RiVmR3VHU1aGNBUUJtREFEZ1FheE9sdFktVGZjMjYzVnFpb1FHdTNZVkpybnkwdmlYYUwzNEZXbVhMbWdlNGdId2hB?oc=5",
-   "source": "AOL.com",
-   "region": "mid",
-   "cat": "STATEWIDE",
-   "county": "Jackson",
-   "tag": "Local Government",
-   "iso": "2026-07-14T17:12:58Z",
-   "id": "ef31a70dd95b",
-   "origin": "google-news",
-   "source_title": "Jackson City Council votes to pause new data center development in Jackson - AOL.com",
-   "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbWEzNVBrYVpyaDFHQVBKbXFhZW9xUlZjeUN6RFA2SzhQemdwRWR0QjdWUktfd1Yyb1Z0UVRZU0RiVmR3VHU1aGNBUUJtREFEZ1FheE9sdFktVGZjMjYzVnFpb1FHdTNZVkpybnkwdmlYYUwzNEZXbVhMbWdlNGdId2hB?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 9
   }
  ],
  "national": {
@@ -204,13 +204,13 @@
   {
    "iso": "2026-07-15",
    "body": "Ypsilanti Township Board of Trustees",
-   "topic": "Informational session on proposed University of Michigan/Los Alamos computational data center project",
+   "topic": "Informational session on data center updates and local impacts",
    "region": "SE Michigan",
    "regionKey": "metro",
    "county": "Washtenaw",
    "time": "6:00 PM",
    "status": "Public hearing",
-   "urgent": true,
+   "urgent": false,
    "link": "https://ypsitownship.org/government/boards___commissions/board_of_trustees/data_center_information.php",
    "linkLabel": "Agenda",
    "stream": ""
