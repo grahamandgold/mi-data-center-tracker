@@ -755,6 +755,27 @@
    "at": "2026-07-14T23:29:09+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Duplicate of already-live 'Wixom residents get say on new data center rules tonight' — same council hearing, same ordinance debate."
+  },
+  {
+   "url": "https://www.wxyz.com/news/data-centers/wixom-residents-to-weigh-in-on-data-center-ordinance-as-city-council-meets-tuesday-night",
+   "title": "Wixom Residents Set to Speak on Proposed Data Center Regulations at Council Meeting",
+   "at": "2026-07-15T00:54:53+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicate of already-live 'Wixom residents get say on new data center rules tonight' — same council meeting and ordinance vote."
+  },
+  {
+   "url": "https://www.facebook.com/theithacavoice/posts/gov-hochul-signed-a-data-center-moratorium-its-unclear-if-it-will-halt-terawulfs/1658741369586196/",
+   "title": "New York Governor Signs One-Year Moratorium on New Data Center Permits",
+   "at": "2026-07-15T00:54:53+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: National New York story with thin Michigan angle; speculative connection to Lansing project already covered."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMFZsSXdzdWhNYWhnYUlhOEVVRWNEX21IV3FRaV80VUZieVVMX0VpOEJsdUZJbXRPRE5PbW8zR0ZuOXprd2oyRGNvQ1JQcHltS29fbVh5OGxwS2tqeDJpUzM5ZENBSHpiTE9sYkk0SGhkaGlsRjZOejBFb2xRQjFPanhaeWNmZlNGNDdtS1djTEFwdUpqN1plSjNxTEVUbkQ1R3J0bDhBWXVPd19oN1NzUGdDU2h0bUNfN3VkbXlpZmhSdjlkb0U5M3dGVE5vQdIBzgFBVV95cUxOMFZsSXdzdWhNYWhnYUlhOEVVRWNEX21IV3FRaV80VUZieVVMX0VpOEJsdUZJbXRPRE5PbW8zR0ZuOXprd2oyRGNvQ1JQcHltS29fbVh5OGxwS2tqeDJpUzM5ZENBSHpiTE9sYkk0SGhkaGlsRjZOejBFb2xRQjFPanhaeWNmZlNGNDdtS1djTEFwdUpqN1plSjNxTEVUbkQ1R3J0bDhBWXVPd19oN1NzUGdDU2h0bUNfN3VkbXlpZmhSdjlkb0U5M3dGVE5vQQ?oc=5",
+   "title": "Wixom council faces resident heat over data center rules",
+   "at": "2026-07-15T00:54:53+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicate of already-live 'Wixom residents get say on new data center rules tonight' — same zoning decision and resident meeting."
   }
  ],
  "auto_published": [
@@ -1093,6 +1114,12 @@
    "title": "Wixom residents get say on new data center rules tonight",
    "judge_score": 7,
    "at": "2026-07-14T22:34:28Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNHdlOUdSeDRSX3k3RDVCdDZRSWNBOTYxaHliV245YS1mTThqM1FObHVTeVJnem1kb1VkNUVUc2pneDcxYWlVWHlFcGswa0pSVFBOdERQdEJua0FYekRkUXZ5RGlPSWRUd0tIUXNzQTVTOGxEWmFmdlhIMWZueHlPNUJFd0pjUmxBYV8tT0MyY0N6bFY1dEdZSEw3WjlMamt3ejVsYllKeDFzX1U5aFFYU0hnUHpRVGZWQkNjUWVhbE1ONFZONkU2MjVkeEw3N3JsbnBUZUpYeWVuLVhSTEQyZWFSZnE5ZGVyWmRxR0g4aGtnUQ?oc=5",
+   "title": "Pere Marquette eyes year-long data center freeze",
+   "judge_score": 7,
+   "at": "2026-07-15T00:54:53Z"
   }
  ]
 }

@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-14T23:28:51+00:00",
+ "updated_at": "2026-07-15T00:54:53Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Pere Marquette eyes year-long data center freeze",
+   "dek": "Township leaders are debating a moratorium that would block new proposals while residents weigh impacts on local power supply and roads. A pause would give officials time to study water use and tax effects before any large project moves forward. Mason County families could see decisions that shape growth for years.",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNHdlOUdSeDRSX3k3RDVCdDZRSWNBOTYxaHliV245YS1mTThqM1FObHVTeVJnem1kb1VkNUVUc2pneDcxYWlVWHlFcGswa0pSVFBOdERQdEJua0FYekRkUXZ5RGlPSWRUd0tIUXNzQTVTOGxEWmFmdlhIMWZueHlPNUJFd0pjUmxBYV8tT0MyY0N6bFY1dEdZSEw3WjlMamt3ejVsYllKeDFzX1U5aFFYU0hnUHpRVGZWQkNjUWVhbE1ONFZONkU2MjVkeEw3N3JsbnBUZUpYeWVuLVhSTEQyZWFSZnE5ZGVyWmRxR0g4aGtnUQ?oc=5",
+   "source": "Shoreline Media Group",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Mason",
+   "tag": "Local Government",
+   "iso": "2026-07-15T00:15:00Z",
+   "id": "d23a9dfe814c",
+   "origin": "google-news",
+   "source_title": "Pere Marquette Township weighs data center moratorium - Shoreline Media Group",
+   "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNHdlOUdSeDRSX3k3RDVCdDZRSWNBOTYxaHliV245YS1mTThqM1FObHVTeVJnem1kb1VkNUVUc2pneDcxYWlVWHlFcGswa0pSVFBOdERQdEJua0FYekRkUXZ5RGlPSWRUd0tIUXNzQTVTOGxEWmFmdlhIMWZueHlPNUJFd0pjUmxBYV8tT0MyY0N6bFY1dEdZSEw3WjlMamt3ejVsYllKeDFzX1U5aFFYU0hnUHpRVGZWQkNjUWVhbE1ONFZONkU2MjVkeEw3N3JsbnBUZUpYeWVuLVhSTEQyZWFSZnE5ZGVyWmRxR0g4aGtnUQ?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Wixom residents get say on new data center rules tonight",
    "dek": "Wixom city council meets to hear public input on a proposed ordinance governing data centers. Residents near potential sites worry about noise, traffic and strain on local power. The vote could set the ground rules for any future projects in this Oakland County suburb.",
@@ -169,23 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOY2VjcEQteVJwZWxzRGVVNjRHZXc5NlRnanNjWXBCakd3Q093NDVmbXRyQTcySndZeThJRkcxWEdnb2R6b1d0ZUIwZU1HV2FTTGxZQjFvNHpjQWI4a1JSRWdCTjhrbk5IM1FJNHIxNEJaaTVlaFNMczEyWTczY05NWWJBYnV3aGZjcnlaMDMwTUN6NllPcGc3ZnlWZDg0S05GSzh5dHFyb0lnWF9YR2l1SDh5RjBGTmJiVXlTTTJ4SF9TbkZualZ5QQ?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
-  },
-  {
-   "title": "Lyon Township delays data center vote, leaving residents waiting on power and noise impacts",
-   "dek": "The board postponed action on the project proposal. Oakland County residents near the site face uncertainty over added electricity demand and potential noise. The delay gives locals more time to organize before any final decision.",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc3V4alpTLU5mTDlQdHpHSXBNZHhoSVUwaTVtZ0c5SkpoNjRsU1I2NEhfXzZmVzdLbkhjelpERnNxUGpjazllVUMwQ0c4QnZBM0otWEpyUXpGWjQ0dDY5THZSSmo2cllKNHpJUzdjN3RTVjFCZ1BKVFlKZFpwaERZWFVUdmh3SHlkU21CSWhvWGtTT2pFendMN2pRZDRhRVVK?oc=5",
-   "source": "The Oakland Press",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Oakland",
-   "tag": "Local Government",
-   "iso": "2026-07-13T20:56:27Z",
-   "id": "e6adf2649707",
-   "origin": "google-news",
-   "source_title": "Lyon Township postpones decision on data center project - The Oakland Press",
-   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc3V4alpTLU5mTDlQdHpHSXBNZHhoSVUwaTVtZ0c5SkpoNjRsU1I2NEhfXzZmVzdLbkhjelpERnNxUGpjazllVUMwQ0c4QnZBM0otWEpyUXpGWjQ0dDY5THZSSmo2cllKNHpJUzdjN3RTVjFCZ1BKVFlKZFpwaERZWFVUdmh3SHlkU21CSWhvWGtTT2pFendMN2pRZDRhRVVK?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {
@@ -204,45 +204,17 @@
  },
  "meetings": [
   {
-   "iso": "2026-07-14",
-   "body": "Warren City Council",
-   "topic": "Vote on temporary data center moratorium",
+   "iso": "2026-07-15",
+   "body": "Wixom City Council",
+   "topic": "Data center ordinance amendment for future development regulations",
    "region": "SE Michigan",
    "regionKey": "metro",
-   "county": "Macomb",
+   "county": "Oakland",
    "time": "7:00 PM",
    "status": "Board meeting",
    "urgent": true,
-   "link": "https://www.cityofwarren.org/government/city-council/",
-   "linkLabel": "Agenda",
-   "stream": "https://www.cityofwarren.org/government/city-council/"
-  },
-  {
-   "iso": "2026-07-14",
-   "body": "Saline Township Board of Trustees",
-   "topic": "Vote on 12-year tax abatement request for Oracle-OpenAI hyperscale data center project",
-   "region": "SE Michigan",
-   "regionKey": "metro",
-   "county": "Washtenaw",
-   "time": "7:00 PM",
-   "status": "Special Board meeting",
-   "urgent": true,
-   "link": "https://salinetownship.org/meeting-agendas.php",
-   "linkLabel": "Agenda",
-   "stream": ""
-  },
-  {
-   "iso": "2026-07-14",
-   "body": "Saline Township Board",
-   "topic": "Special meeting to consider 50% property tax reduction for 12 years on Oracle-linked data center project",
-   "region": "SE Michigan",
-   "regionKey": "metro",
-   "county": "Washtenaw",
-   "time": "7:00 PM",
-   "status": "Board meeting",
-   "urgent": true,
-   "link": "https://salinetownship.org/meeting-agendas.php",
-   "linkLabel": "Agenda",
+   "link": "https://www.wxyz.com/news/data-centers/wixom-residents-to-weigh-in-on-data-center-ordinance-as-city-council-meets-tuesday-night",
+   "linkLabel": "Meeting Details",
    "stream": ""
   },
   {
