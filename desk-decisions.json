@@ -825,6 +825,41 @@
    "at": "2026-07-15T12:55:13+00:00",
    "by": "news_judge",
    "note": "score 3/10: Vague political story with no concrete development—no vote, filing, or official action reported, just campaign-trail 'heat' over unspecified connections."
+  },
+  {
+   "url": "https://www.stocktitan.net/news/GPUS/hyperscale-data-expects-to-sign-ai-data-center-and-neocloud-services-k3drivpnzz34.html",
+   "title": "Hyperscale Data Eyes AI Compute Deal at Michigan Campus",
+   "at": "2026-07-15T15:00:01+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Vague future expectation ('expects to sign in coming weeks') without a concrete deal or announcement; speculative rather than confirmed."
+  },
+  {
+   "url": "https://www.wilx.com/video/2026/07/14/lansing-city-council-approves-182-day-moratorium-new-data-centers/",
+   "title": "Lansing Approves 182-Day Pause on New Data Centers",
+   "at": "2026-07-15T15:00:01+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicate of already-killed 'Lansing bans new data centers for six months' — same city, same moratorium decision."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNdFVIZWhlOGRwYjMzY210VnBFSTVqNW1YZF9SN0N4YnJQS1lCam9qMHRJWjJhWWFnOGVuS0I0RS1fajJWLVBuV0JId09Na2xsYnpSdVFKeVk0TTlzTXMtY3EwUWRjSFFZQWh5MHFlcWxDUEJQY1dWaWtnQkhHbzhaWjlkUElPZEJuc3RKc0hSODg0bTI0c0hqaWxucUgtcFdEb3BGVkNkR1dTTzNOQ2VsZHZZUkt4b2NkOTFhV2VYRUFaU2pkR1VUSTJTSktaS0djOW5hTm9Vcm5PR1lpYmJTUGJUSV9KNWpiU2JpUkFLYXJqRHhNeU1pZHFadjlld2JMclBKQUpZbmlMdy13RGxydUdwSnFVenM0SG5mT3p2aWY1UEVL?oc=5",
+   "title": "Hyperscale Data lands first AI tenant at Michigan site",
+   "at": "2026-07-15T15:00:01+00:00",
+   "by": "news_judge",
+   "note": "score 4/10, duplicate: Duplicate of candidate [0] — same Hyperscale Data AI tenant announcement at Michigan site, just reworded."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPc3Q3OGhjUVFyN2RSVDNLMUk0b3FkNUdlaEozSUI5MGNTT0EyVlk4dHltaGZGSHcyU3dBVFdTMnFxU1lXcDBmdUFsVHBSLVBUT2hsUEI2VFhDNTktZmI2MGJNZlJmSFRPQ0dObWtMY05XV1FwT0pwZXNmMmF5RFRkbw?oc=5",
+   "title": "Jackson set to vote on one-year data-center freeze",
+   "at": "2026-07-15T15:00:01+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicate of already-live 'Jackson halts all new data centers after council vote' — same Jackson freeze, different framing."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYzVJY3ExbktTS1d4eXE4YWVLN0V3MlRrZS1TMmVaVE9qdW9hMWpjRndWTE41Rm5Oa3lZTm91cEpTWGs5U0Q0T0YxYXVld1lJcmx2U2FKNDJ0R3QwdU5XMEZMT2Z1c1plbWFxamExOFhEcFhPYjNTVzVYSk9aYk1IRm8wY0ZvOFdyVzNRQg?oc=5",
+   "title": "Oracle data center tax break capped well below request",
+   "at": "2026-07-15T15:00:01+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicate of already-live 'Saline Township caps Oracle tax break at $4.8B' — same tax-cap decision, reworded."
   }
  ],
  "auto_published": [
@@ -1187,6 +1222,30 @@
    "title": "Mason County data center site floods again, alarming nearby residents",
    "judge_score": 7,
    "at": "2026-07-15T11:13:16Z"
+  },
+  {
+   "url": "https://www.wlrn.org/government-politics/2026-07-15/project-tango-michael-carbonara-data-center-michigan",
+   "title": "Michigan School Sues Over Noise From Candidate's Bitcoin Data Center",
+   "judge_score": 8,
+   "at": "2026-07-15T15:00:01Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRkVsNzZ6SkJna2YxQld6NzhhUE9BV2hPNWtOUU9aZFhrWkN4Qm1abmxrTUV0ZGVWVzhXNzY1SzdhYkxKcEhfTm92RVR2RVd5XzlBcVVIQlhqdkwzekNHZW1LbXBSY2djX0FVR3pLMU1BODRod0lxam5nRnVZV2dfamhJZGkwVG51Nk9kcnB5SFF0eUpnWEVLbjIzdGQ?oc=5",
+   "title": "Saline Township rejects 50% tax cut for Oracle campus",
+   "judge_score": 9,
+   "at": "2026-07-15T15:00:01Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWTA3RDF1LWIxR1BzVXphakJoZVA0OFpiVjlzYXkySlpyZlVRcjJoaE53Y3V1NXA5NHVyc04wckszVXNlbUFfNlZ4R0FaYV9fU1VnbnNXaW0yUndKeXlXUm5WY1V0N3VlQzJWeHFYLUp1cEtoN2ZmaVRtWTUyOWhkRGJ0Yw?oc=5",
+   "title": "Mason mayor survives recall attempt as county clerk tosses signatures",
+   "judge_score": 8,
+   "at": "2026-07-15T15:00:01Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbXlhZEJ6TXVianNHRml4WHFOZXJjRnB0d1p4NFJPNXoxXzlXcFF5UUl3WjZMb2g3bGpVa1lEeDQtQnFhNGZkQnlYLU9ickxiSGdhR200RGdac05vSlhPTDlmTktNNjByLXM5Q01fQXU1ODFVMmRmR2ZfTGVvQm1MRC02LXR1d1RiWFpJa0V1SHllQnBuZzZpMXlnUWl3cWQxUTdNN3FZMTVWeTktUzZlcjBaMkZtVlBKSklYNVlHalh3UdIB1gFBVV95cUxPTDJ5ODhZazJjNENWY01QOTVPQWNtbkF5bWpiVW9VVTlPMUczYmRjVWFFWWNVM0k4SWJvTi1xRWFrYTY0aUR5TGhkazFFS0QxVFZ3TlJ2a0NnY3ltbHVzVjZhSTA1dGJPTFV3YTZOTUxVaHU1dGVmNVhadFl0YkdORWVOeGRqQklyTEM0eEZmTlhKS1dnX2FRVG10b2ktdk5wVm9MbTZzUDdVME5heFBJUnBxMXhKT2puY3lJdlg4SndDaHAxa2VGU202OEhqTEZMUE9hb1Fn?oc=5",
+   "title": "Lenox Township rumors trigger recall push against board",
+   "judge_score": 6,
+   "at": "2026-07-15T15:00:01Z"
   }
  ]
 }
