@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-15T22:33:47Z",
+ "updated_at": "2026-07-15T23:35:03Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "OpenAI lands smaller tax break from Saline on data center campus",
+   "dek": "Saline Township approved a reduced tax incentive package for the OpenAI project after the company scaled back its original ask. Residents in Washtenaw County will still see forgone revenue but at roughly one-ninth the level first proposed. The decision sets the terms for how much the township will contribute to roads, schools and emergency services tied to the site.",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUnZwckhhMGkycXVCMGZxQW1mUFl5dkxFTXBnNGl6Um5oYkJHeW5iQmRrLXpQaGprUmhpVHZ3T05SbUxuNzl3cVJKemNMbFdybVNnUW1CZmlJd05kc3BaWWQ5eE1YblVZMUs5dWJONWtVay1SRFE4aUlFTXE2NjRKMjNYbWtSYk03NXFWblU5T2Nzd0otbnY5SVhzNmRnbkR4SHFDUFRXN3hINnZmdy1xQlZmSnE5VHVoTk1MVm9nWmxqbTNoaUpTWmJrS1MwYzJOUkgyMmJ2UUl4cUhzamdUUjZXTQ?oc=5",
+   "source": "Michigan Public",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Money",
+   "iso": "2026-07-15T23:16:00Z",
+   "id": "549750e6b024",
+   "origin": "google-news",
+   "source_title": "Saline Township approves smaller-than-planned tax breaks for Open AI data center - Michigan Public",
+   "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUnZwckhhMGkycXVCMGZxQW1mUFl5dkxFTXBnNGl6Um5oYkJHeW5iQmRrLXpQaGprUmhpVHZ3T05SbUxuNzl3cVJKemNMbFdybVNnUW1CZmlJd05kc3BaWWQ5eE1YblVZMUs5dWJONWtVay1SRFE4aUlFTXE2NjRKMjNYbWtSYk03NXFWblU5T2Nzd0otbnY5SVhzNmRnbkR4SHFDUFRXN3hINnZmdy1xQlZmSnE5VHVoTk1MVm9nWmxqbTNoaUpTWmJrS1MwYzJOUkgyMmJ2UUl4cUhzamdUUjZXTQ?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 9
+  },
   {
    "title": "Michigan bills aim to shield residents from subsidizing data center utility costs",
    "dek": "Lawmakers introduced legislation requiring data centers to meet standards on power use, water consumption and workforce practices. The package aims to prevent residents from subsidizing the industry's growth through higher utility bills. Passage would reshape how future campuses are sited across the state.",
@@ -170,21 +187,6 @@
    "source_title": "City wants data center moratorium - The Marysville Advocate",
    "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORVc3VGlDeEJsbWVZQjNQWTh2Y20wV0w1RDdIQnZiTkp2WVFnZ3BHWDFjbklKRmJVNTVIZWJrVWxSOVFxM2VISWkyTE01VENZUEFObXJQOGNGUzFWZ3hCblZEczl5d3VzMm1LZGRodGpLVFd4enNtcmwtd0NPNHR5LTluaGdzRXZpQ09yZkk5Mm1fVTRMUEgxamZJNmhJNmdrVU1UXzlzQ292RldzWFdTZndUX3Z0NnNYNVQ3VjdB?oc=5",
    "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
-  },
-  {
-   "iso": "2026-07-15T05:00:00+00:00",
-   "region": "metro",
-   "cat": "Wayne Co.",
-   "tag": "Policy",
-   "title": "Michigan School Sues Over Noise From Candidate's Bitcoin Data Center",
-   "dek": "Lake Superior Academy recorded up to 72.7 decibels from the six shipping-container operation next door. Michael Carbonara, named in the suit, is running for Congress in Florida's Project Tango district.",
-   "source": "WLRN",
-   "url": "https://www.wlrn.org/government-politics/2026-07-15/project-tango-michael-carbonara-data-center-michigan",
-   "breaking": false,
-   "lead": false,
-   "id": "b766d65268ea",
-   "accuracy": "checked-rewritten",
    "judge_score": 8
   }
  ],
