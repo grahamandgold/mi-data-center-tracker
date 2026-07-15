@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-15T16:40:27Z",
+ "updated_at": "2026-07-15T18:15:12Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Whitmer urges data centers to sign pledge shielding ratepayers",
+   "dek": "The governor called on developers to commit to protecting Michigan residents from higher utility bills and strained water supplies. The voluntary plan comes as multiple townships weigh their own restrictions on new projects. Statewide adoption could shape how billions in new investment affect local communities.",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeHlDa1VNNkxBeU5oR20xUWlaRTZYeVFQYlc0S1BxOEtlZGlqZnZCSEpuYVI2Ql9aNFI2M2hmZVdYMnVaMVpIRWZZYmc4U01nRTMxN1UzQ3Q1RWxUMmtSal82bjk5UGxOeU42b0Nmdl9ldFBjRTI2a3VLUlhNM3JPQ0ZGMk00aXBQX24ycHBfU1VqVHVFakJVNGtJVWpZRm9kMzR2dl9Hb2luT1d3VWRvOUZtNk1fNldXd3c?oc=5",
+   "source": "Detroit Free Press",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Policy",
+   "iso": "2026-07-15T17:58:00Z",
+   "id": "9be5d0f53593",
+   "origin": "google-news",
+   "source_title": "Whitmer calls on data centers to protect residents, resources - Detroit Free Press",
+   "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeHlDa1VNNkxBeU5oR20xUWlaRTZYeVFQYlc0S1BxOEtlZGlqZnZCSEpuYVI2Ql9aNFI2M2hmZVdYMnVaMVpIRWZZYmc4U01nRTMxN1UzQ3Q1RWxUMmtSal82bjk5UGxOeU42b0Nmdl9ldFBjRTI2a3VLUlhNM3JPQ0ZGMk00aXBQX24ycHBfU1VqVHVFakJVNGtJVWpZRm9kMzR2dl9Hb2luT1d3VWRvOUZtNk1fNldXd3c?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "Wixom keeps data center moratorium after rejecting waiver request",
    "dek": "Wixom city council turned down a waiver that would have allowed a data center project to move forward. The moratorium remains in effect, blocking new proposals while the city studies impacts on power and local infrastructure. Residents in this Oakland County suburb get more time before any large-scale facilities can be approved.",
@@ -18,6 +35,23 @@
    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObExXcDBqazZTNU1aU1BlVlVDbnZEcXFWZHBmcDc3dS1kNXczTFlKenpIb3BSMFNKZXc2endpRktUSnh6T1RDQzk1RzdkMWhycUNNd2ZLQUVLTVc4YlRtVV9QSjRUX1lBRElNbFJGcjRWVUJQcVJsR3UyZFN6NlpINVFtd3huTFIyS0UzbkFnVnFrYzF4QXIwOWJvRmZlZXVUclBJQVRsYkI3VTYtQU5xTzhTb04yX0FVRUo00gHPAUFVX3lxTE5qUDdCYXdxNGJkUVljN0tZc2oyRTY1MHZfVUkwbnB0dGUtcW5pcF9KVDBzcmV2RHNGTkItS0NCQmhUems2X01hbWJZWHJOcm8zcUlYQjNTYTlnOVNTd3l5Ym5mYzlqWFdTUUtwRlpKZjlibkMwWFpOeHlpOTRUazhOQ1ctaFVtdjhJUFdiUmpzbjJNc2JZakdXdTN6QzZxZlF6Q0dZY0VKT2FFTmNlOUhTU3pFY1RLXzk2aVlDazJVOGhLa25wSlBRUHZzcG1Ccw?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
+  },
+  {
+   "title": "Solon Township shelves rules aimed at limiting data centers",
+   "dek": "The board postponed an ordinance that would have restricted where large facilities could locate in Kent County. Residents had pressed for tighter controls over water and electricity demand. The delay keeps current zoning in place while debate continues.",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMWswM2dPU19iV3RNSEhPdm1uMkcxRHl2T3k5R21NRHlhdVlpQjRUYUVUUVgwcHpuS0lfWFJxRmVOaTlMTkF3RXpzNlZiWlF4alhEN0h2Qmk5d0RCdGZZUGg1cS1qc0J6SmdpY2x0dHpqMW5PMkh2ODdnYklBUlBwSDlSMVpvNGVl?oc=5",
+   "source": "AOL.com",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Kent",
+   "tag": "Local Government",
+   "iso": "2026-07-15T14:50:05Z",
+   "id": "3e3d087e3eac",
+   "origin": "google-news",
+   "source_title": "Solon Township board tables ordinance proposal to limit data centers - AOL.com",
+   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMWswM2dPU19iV3RNSEhPdm1uMkcxRHl2T3k5R21NRHlhdVlpQjRUYUVUUVgwcHpuS0lfWFJxRmVOaTlMTkF3RXpzNlZiWlF4alhEN0h2Qmk5d0RCdGZZUGg1cS1qc0J6SmdpY2x0dHpqMW5PMkh2ODdnYklBUlBwSDlSMVpvNGVl?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
   },
   {
    "title": "Lenox Township rumors trigger recall push against board",
@@ -151,38 +185,6 @@
    "source_title": "Pere Marquette Township weighs data center moratorium - Shoreline Media Group",
    "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNHdlOUdSeDRSX3k3RDVCdDZRSWNBOTYxaHliV245YS1mTThqM1FObHVTeVJnem1kb1VkNUVUc2pneDcxYWlVWHlFcGswa0pSVFBOdERQdEJua0FYekRkUXZ5RGlPSWRUd0tIUXNzQTVTOGxEWmFmdlhIMWZueHlPNUJFd0pjUmxBYV8tT0MyY0N6bFY1dEdZSEw3WjlMamt3ejVsYllKeDFzX1U5aFFYU0hnUHpRVGZWQkNjUWVhbE1ONFZONkU2MjVkeEw3N3JsbnBUZUpYeWVuLVhSTEQyZWFSZnE5ZGVyWmRxR0g4aGtnUQ?oc=5",
    "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
-  },
-  {
-   "title": "Wixom residents get say on new data center rules tonight",
-   "dek": "Wixom city council meets to hear public input on a proposed ordinance governing data centers. Residents near potential sites worry about noise, traffic and strain on local power. The vote could set the ground rules for any future projects in this Oakland County suburb.",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZFlmY3VXRDFZZFhCM2JxNE1uV2g1Qjd3aEw4MlN0UTdtd3BxaUZhM2FJMTI2LWdjTm5OVkNQRFRnWGthUnhqV05IRGZQS1ZfMlBBSnhXUjJRSENBOHlqWDlYUmVPRUR0UmxDVTNSY0Z1UHpJcEVnUHdPenViUGxnOE00X0JuanFfaDFmUXFQOUUwc21vVjRQdnhIRm5qT0hnVHNRd0hPandUMHJMSm9XQUwxWVdzMHZyR1J0NXJUbkxjbk01a0E?oc=5",
-   "source": "WXYZ 7 News Detroit",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Oakland",
-   "tag": "Local Government",
-   "iso": "2026-07-14T22:14:29Z",
-   "id": "b93357ec369b",
-   "origin": "google-news",
-   "source_title": "Wixom residents to weigh in on data center ordinance as city council meets Tuesday night - WXYZ 7 News Detroit",
-   "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZFlmY3VXRDFZZFhCM2JxNE1uV2g1Qjd3aEw4MlN0UTdtd3BxaUZhM2FJMTI2LWdjTm5OVkNQRFRnWGthUnhqV05IRGZQS1ZfMlBBSnhXUjJRSENBOHlqWDlYUmVPRUR0UmxDVTNSY0Z1UHpJcEVnUHdPenViUGxnOE00X0JuanFfaDFmUXFQOUUwc21vVjRQdnhIRm5qT0hnVHNRd0hPandUMHJMSm9XQUwxWVdzMHZyR1J0NXJUbkxjbk01a0E?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
-  },
-  {
-   "iso": "2026-07-14T17:38:00+00:00",
-   "region": "metro",
-   "cat": "Macomb Co.",
-   "tag": "Local Government",
-   "title": "Storms Topple Dozens of Warren Power Lines, Fueling Data Center Pause Push",
-   "dek": "Council Secretary Mindy Moore requested a July 14 moratorium vote after the city's aging grid failed; if passed, Warren would join other Michigan towns pausing projects while it writes zoning rules.",
-   "source": "Planet Detroit",
-   "url": "https://planetdetroit.org/2026/07/warren-data-center-moratorium-power-outages/",
-   "breaking": true,
-   "lead": true,
-   "id": "9b797782546f",
-   "accuracy": "checked-rewritten",
    "judge_score": 7
   }
  ],

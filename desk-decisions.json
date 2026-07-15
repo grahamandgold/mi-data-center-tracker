@@ -860,6 +860,13 @@
    "at": "2026-07-15T15:00:01+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Duplicate of already-live 'Saline Township caps Oracle tax break at $4.8B' — same tax-cap decision, reworded."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOalA3QmF3cTRiZFFZYzdLWXNqMkU2NTB2X1VJMG5wdHRlLXFuaXBfSlQwc3JldkRzRk5CLUtDQkJoVHprNl9NYW1iWVhyTnJvM3FJWEIzU2E5ZzlTU3d5eWJuZmM5alhXU1FLcEZaSmY5Ym5DMFhaTnh5aTk0VGs4TkNXLWhVbXY4SVBXYlJqc24yTXNiWWpHV3UzekM2cWZRekNHWWNFSk9hRU5jZTlIU1N6RWNUS185NmlZQ2syVThoS2tucEpQUVB2c3BtQnPSAc8BQVVfeXFMTmpQN0Jhd3E0YmRRWWM3S1lzajJFNjUwdl9VSTBucHR0ZS1xbmlwX0pUMHNyZXZEc0ZOQi1LQ0JCaFR6azZfTWFtYllYck5ybzNxSVhCM1NhOWc5U1N3eXlibmZjOWpYV1NRS3BGWkpmOWJuQzBYWk54eWk5NFRrOE5DVy1oVW12OElQV2JSanNuMk1zYllqR1d1M3pDNnFmUXpDR1ljRUpPYUVOY2U5SFNTekVjVEtfOTZpWUNrMlU4aEtrbnBKUFFQdnNwbUJz?oc=5",
+   "title": "Wixom keeps moratorium after rejecting data-center waiver",
+   "at": "2026-07-15T18:15:12+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This is the same Wixom waiver rejection and moratorium continuation already covered in the first ALREADY-LIVE item."
   }
  ],
  "auto_published": [
@@ -1252,6 +1259,18 @@
    "title": "Wixom keeps data center moratorium after rejecting waiver request",
    "judge_score": 8,
    "at": "2026-07-15T16:40:27Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeHlDa1VNNkxBeU5oR20xUWlaRTZYeVFQYlc0S1BxOEtlZGlqZnZCSEpuYVI2Ql9aNFI2M2hmZVdYMnVaMVpIRWZZYmc4U01nRTMxN1UzQ3Q1RWxUMmtSal82bjk5UGxOeU42b0Nmdl9ldFBjRTI2a3VLUlhNM3JPQ0ZGMk00aXBQX24ycHBfU1VqVHVFakJVNGtJVWpZRm9kMzR2dl9Hb2luT1d3VWRvOUZtNk1fNldXd3c?oc=5",
+   "title": "Whitmer urges data centers to sign pledge shielding ratepayers",
+   "judge_score": 8,
+   "at": "2026-07-15T18:15:12Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMWswM2dPU19iV3RNSEhPdm1uMkcxRHl2T3k5R21NRHlhdVlpQjRUYUVUUVgwcHpuS0lfWFJxRmVOaTlMTkF3RXpzNlZiWlF4alhEN0h2Qmk5d0RCdGZZUGg1cS1qc0J6SmdpY2x0dHpqMW5PMkh2ODdnYklBUlBwSDlSMVpvNGVl?oc=5",
+   "title": "Solon Township shelves rules aimed at limiting data centers",
+   "judge_score": 7,
+   "at": "2026-07-15T18:15:12Z"
   }
  ]
 }
