@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-15T09:18:32+00:00",
+ "updated_at": "2026-07-15T11:13:16Z",
  "generator": "grok-wire-agent",
  "items": [
   {
@@ -20,26 +20,7 @@
    "headline_rewritten": true,
    "judge_score": 8,
    "judge_note": "New development in Lenox with concrete action (recall push) and document evidence (revealed emails) — different township, specific new event."
-  },
-  {
-   "iso": "2026-07-13T23:00:00+00:00",
-   "region": "mid",
-   "cat": "STATEWIDE",
-   "tag": "Policy",
-   "title": "Coldwater Starts Data Center Ordinance Work; Girard Adopts Zoning Rules",
-   "dek": "Both communities report no local data center projects while choosing permanent zoning standards over temporary halts.",
-   "source": "Michigan Advance",
-   "url": "https://michiganadvance.com/2026/07/13/michigan-data-centers-the-weekly-download-3-2-2-2/",
-   "breaking": false,
-   "lead": false,
-   "id": "806a662bf10f",
-   "kind": "story",
-   "filed_at": "2026-07-14T15:01:35+00:00",
-   "accuracy": "checked-rewritten",
-   "headline_rewritten": true,
-   "judge_score": 7,
-   "judge_note": "Two Michigan communities adopting permanent data center zoning standards is concrete local action, even without active projects yet."
   }
  ],
- "accuracy_checked_at": "2026-07-15T09:18:32+00:00"
+ "accuracy_checked_at": "2026-07-15T11:13:11+00:00"
 }

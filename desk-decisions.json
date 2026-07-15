@@ -797,6 +797,27 @@
    "at": "2026-07-15T06:38:46+00:00",
    "by": "news_judge",
    "note": "score 1/10, duplicate: Identical to already-live story 'Saline Township caps Oracle tax break at $4.8B after rejecting bigger cut' — same vote, same decision."
+  },
+  {
+   "url": "https://www.mlive.com/news/ann-arbor/2026/07/township-near-ann-arbor-approves-much-smaller-tax-break-for-43b-oracle-openai-data-center.html",
+   "title": "Saline Township Approves Smaller Tax Break for $43 Billion Oracle Data Center",
+   "at": "2026-07-15T11:13:16+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: This is the same Saline Township Oracle tax break vote already live as 'Saline Township caps Oracle tax break at $4.8B after rejecting bigger cut.'"
+  },
+  {
+   "url": "https://www.facebook.com/mlive/posts/wixom-city-council-will-review-and-vote-on-two-data-center-issues-one-is-to-set-/1498865178937614/",
+   "title": "Wixom City Council Set to Review Data Center Moratorium and Related Proposals",
+   "at": "2026-07-15T11:13:16+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Thin agenda preview without concrete details; Wixom already had a live story about residents speaking tonight, this adds little new substance."
+  },
+  {
+   "url": "https://www.usnews.com/news/best-states/michigan/articles/2025-10-31/tech-giants-announce-7b-data-center-michigans-first-hyperscale-campus",
+   "title": "U.S. Data Center Power Demand Surges as Tech Giants Accelerate AI Infrastructure Buildout",
+   "at": "2026-07-15T11:13:16+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece with no Michigan-specific development or decision."
   }
  ],
  "auto_published": [
@@ -1153,6 +1174,12 @@
    "title": "Marysville eyes one-year freeze on new data centers",
    "judge_score": 8,
    "at": "2026-07-15T06:38:46Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNbFhwU2lsdWhjY3JndG5ZbW9fQ2I5X2k3dGlPdXdUZ0FMRDQyV19EQ2hsdjRDbU5kMko3MFFVT0I5SEN0M2hfWnF0VXBXeXhKSEY0UGVVTG55U1g0ZXJBeUM5U0hLeF84bm0zakhoM0lzZktJTnJfWkV5R3p4U20tS1VyaVlZWXNoOGU3Q181dDk0VUFMekRPVy1YLXpjblhzOWlFRU9zaE5NZFVDVXNXS25GbmltX2xlTTN5eExId3BBNTdQX3gxOE00dFFjZHFLeTZNaG9IN3l0TkhBVXp6aXZsekJhendfTWNQb0xhY3lZWWQ4MVo1bG9TcERYUjhXTkd6anp4bW1WREZi?oc=5",
+   "title": "Mason County data center site floods again, alarming nearby residents",
+   "judge_score": 7,
+   "at": "2026-07-15T11:13:16Z"
   }
  ]
 }
