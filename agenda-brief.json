@@ -1,36 +1,36 @@
 {
- "generated_at": "2026-07-14T21:27:31+00:00",
+ "generated_at": "2026-07-15T11:16:07+00:00",
  "for_dates": [
-  "2026-07-14",
-  "2026-07-15"
+  "2026-07-15",
+  "2026-07-16"
  ],
  "items": [
   {
-   "iso": "2026-07-14",
-   "time": "7:00 PM",
-   "meeting": "Saline Township Board of Trustees",
-   "bullet": "Saline Township Board meets July 14 to consider an IFEC application; agenda provides no project details.",
-   "link": "https://salinetownship.org/meeting-agendas.php"
+   "iso": "2026-07-15",
+   "time": "6:00 PM",
+   "meeting": "Ypsilanti Township Board of Trustees",
+   "bullet": "Ypsilanti Township secured a 12-month YCUA moratorium on water/sewer for data centers after U-M bought approximately 144 Textile Road acres for a computing facility.",
+   "link": "https://ypsitownship.org/government/boards___commissions/board_of_trustees/data_center_information.php"
   },
   {
-   "iso": "2026-07-14",
+   "iso": "2026-07-15",
    "time": "7:00 PM",
-   "meeting": "Saline Township Board",
-   "bullet": "Saline Twp board meets July 14 to consider an IFEC application; agenda provides no project details.",
-   "link": "https://salinetownship.org/meeting-agendas.php"
+   "meeting": "Augusta Township Planning Commission",
+   "bullet": "Augusta draft bars large data centers outside GI, demands 10-acre minimums, 400-ft residential buffers, and closed-loop cooling for any HRDF over 10 MW.",
+   "link": "https://augustatownship.org/wp-content/uploads/2026/07/July-15-2026-PC-Meeting-Agenda-Website.pdf"
+  },
+  {
+   "iso": "2026-07-15",
+   "time": "7:00 PM",
+   "meeting": "Wixom City Council",
+   "bullet": "Wixom council weighs ordinance and moratorium lift for a >500,000 sq ft data center project at 30625 Wixom Road tonight at 7 p.m.",
+   "link": "https://www.wxyz.com/news/data-centers/wixom-residents-to-weigh-in-on-data-center-ordinance-as-city-council-meets-tuesday-night"
   },
   {
    "iso": "2026-07-15",
    "time": "6:00 PM",
    "meeting": "Ypsilanti Township",
-   "bullet": "Ypsilanti Twp seeks 12-month water/sewer moratorium for data centers citing 5M gallons daily use on 144-acre U-M site.",
-   "link": "https://ypsitownship.org/government/boards___commissions/board_of_trustees/data_center_information.php"
-  },
-  {
-   "iso": "2026-07-15",
-   "time": "6:00 PM",
-   "meeting": "Ypsilanti Township Board of Trustees",
-   "bullet": "Ypsilanti Township board meets July 15 on 144-acre UM-Los Alamos site after passing resolutions that secured a 12-month water/sewer moratorium for data centers.",
+   "bullet": "Ypsilanti Twp pushes 12-month water/sewer moratorium as UMich eyes 144 acres for high-performance computing facility exempt from local taxes.",
    "link": "https://ypsitownship.org/government/boards___commissions/board_of_trustees/data_center_information.php"
   }
  ]
