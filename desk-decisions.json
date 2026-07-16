@@ -951,6 +951,20 @@
    "at": "2026-07-16T09:23:27+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece aggregating already-covered New York moratorium with California city action; no Michigan development or impact reported."
+  },
+  {
+   "url": "https://planetdetroit.org/2026/07/whitmer-data-center-pledge/",
+   "title": "Whitmer Seeks Laws to Block Data Center Rate Hikes, Backs Voluntary Corporate Pledge",
+   "at": "2026-07-16T13:05:41+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Thin rehash combining the already-live voluntary pledge story with vague legislative speculation that lacks concrete bill text, filing, or hearing date."
+  },
+  {
+   "url": "https://www.mlive.com/news/2026/07/new-york-is-the-first-state-to-approve-an-ai-data-center-ban.html",
+   "title": "New York Becomes First State to Ban New AI Data Centers",
+   "at": "2026-07-16T13:05:41+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: New York moratorium already killed twice; not Michigan-relevant and adds no new development beyond what was previously rejected."
   }
  ],
  "auto_published": [
@@ -1409,6 +1423,12 @@
    "title": "Dowagiac residents sue over nonstop noise from Hyperscale data center",
    "judge_score": 8,
    "at": "2026-07-16T11:20:00Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEx1WnJNdDQ4eHZSYWRSMnM3eENqMkdsdGk3WE1mVnJGdzdEV1BUUXFCZXZDZkZzRDZyNmU2b1g5ay02RkZPLWhiSjVJZ0V2dDlSUDI4eWYwQW9xWUxadGhUR1M5aURXR2FMcjYzVmFUQlozVzVRY2NmZ2pjSzVRUEVvR29Fa1QyUjVmb3BjR25uSWhZWUlyWUgyVQ?oc=5",
+   "title": "Utility denies water to Google-scale Michigan data center",
+   "judge_score": 8,
+   "at": "2026-07-16T13:05:41Z"
   }
  ]
 }

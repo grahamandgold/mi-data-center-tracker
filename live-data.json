@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-16T11:20:00Z",
+ "updated_at": "2026-07-16T13:05:41Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Utility denies water to Google-scale Michigan data center",
+   "dek": "A Michigan utility rejected a request that would have supplied a hyperscale campus needing power for two million homes. The denial highlights growing conflicts between data-center demand and local resource limits. Ratepayers could face higher bills if the company appeals or seeks alternative sites.",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEx1WnJNdDQ4eHZSYWRSMnM3eENqMkdsdGk3WE1mVnJGdzdEV1BUUXFCZXZDZkZzRDZyNmU2b1g5ay02RkZPLWhiSjVJZ0V2dDlSUDI4eWYwQW9xWUxadGhUR1M5aURXR2FMcjYzVmFUQlozVzVRY2NmZ2pjSzVRUEVvR29Fa1QyUjVmb3BjR25uSWhZWUlyWUgyVQ?oc=5",
+   "source": "The Cool Down",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Water",
+   "iso": "2026-07-16T12:37:00Z",
+   "id": "a21d99057b2c",
+   "origin": "google-news",
+   "source_title": "Michigan utility refuses water for data center as Google plan seeks power equal to that for 2 million homes - The Cool Down",
+   "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEx1WnJNdDQ4eHZSYWRSMnM3eENqMkdsdGk3WE1mVnJGdzdEV1BUUXFCZXZDZkZzRDZyNmU2b1g5ay02RkZPLWhiSjVJZ0V2dDlSUDI4eWYwQW9xWUxadGhUR1M5aURXR2FMcjYzVmFUQlozVzVRY2NmZ2pjSzVRUEVvR29Fa1QyUjVmb3BjR25uSWhZWUlyWUgyVQ?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "Dowagiac residents sue over nonstop noise from Hyperscale data center",
    "dek": "Neighbors on Louise Ave. say the constant hum from the new facility never stops. A class-action lawsuit is now moving forward to fight back. Cass County locals want relief from what they call an unbearable intrusion on daily life.",
@@ -167,23 +184,6 @@
    "origin": "google-news",
    "source_title": "Whitmer calls on data centers to protect residents, resources - Detroit Free Press",
    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeHlDa1VNNkxBeU5oR20xUWlaRTZYeVFQYlc0S1BxOEtlZGlqZnZCSEpuYVI2Ql9aNFI2M2hmZVdYMnVaMVpIRWZZYmc4U01nRTMxN1UzQ3Q1RWxUMmtSal82bjk5UGxOeU42b0Nmdl9ldFBjRTI2a3VLUlhNM3JPQ0ZGMk00aXBQX24ycHBfU1VqVHVFakJVNGtJVWpZRm9kMzR2dl9Hb2luT1d3VWRvOUZtNk1fNldXd3c?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
-  },
-  {
-   "title": "Wixom keeps data center moratorium after rejecting waiver request",
-   "dek": "Wixom city council turned down a waiver that would have allowed a data center project to move forward. The moratorium remains in effect, blocking new proposals while the city studies impacts on power and local infrastructure. Residents in this Oakland County suburb get more time before any large-scale facilities can be approved.",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObExXcDBqazZTNU1aU1BlVlVDbnZEcXFWZHBmcDc3dS1kNXczTFlKenpIb3BSMFNKZXc2endpRktUSnh6T1RDQzk1RzdkMWhycUNNd2ZLQUVLTVc4YlRtVV9QSjRUX1lBRElNbFJGcjRWVUJQcVJsR3UyZFN6NlpINVFtd3huTFIyS0UzbkFnVnFrYzF4QXIwOWJvRmZlZXVUclBJQVRsYkI3VTYtQU5xTzhTb04yX0FVRUo00gHPAUFVX3lxTE5qUDdCYXdxNGJkUVljN0tZc2oyRTY1MHZfVUkwbnB0dGUtcW5pcF9KVDBzcmV2RHNGTkItS0NCQmhUems2X01hbWJZWHJOcm8zcUlYQjNTYTlnOVNTd3l5Ym5mYzlqWFdTUUtwRlpKZjlibkMwWFpOeHlpOTRUazhOQ1ctaFVtdjhJUFdiUmpzbjJNc2JZakdXdTN6QzZxZlF6Q0dZY0VKT2FFTmNlOUhTU3pFY1RLXzk2aVlDazJVOGhLa25wSlBRUHZzcG1Ccw?oc=5",
-   "source": "MLive.com",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Oakland",
-   "tag": "Local Government",
-   "iso": "2026-07-15T15:14:00Z",
-   "id": "89dd57a6ed73",
-   "origin": "google-news",
-   "source_title": "Wixom city council rejects data center waiver, moratorium stays in place - MLive.com",
-   "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObExXcDBqazZTNU1aU1BlVlVDbnZEcXFWZHBmcDc3dS1kNXczTFlKenpIb3BSMFNKZXc2endpRktUSnh6T1RDQzk1RzdkMWhycUNNd2ZLQUVLTVc4YlRtVV9QSjRUX1lBRElNbFJGcjRWVUJQcVJsR3UyZFN6NlpINVFtd3huTFIyS0UzbkFnVnFrYzF4QXIwOWJvRmZlZXVUclBJQVRsYkI3VTYtQU5xTzhTb04yX0FVRUo00gHPAUFVX3lxTE5qUDdCYXdxNGJkUVljN0tZc2oyRTY1MHZfVUkwbnB0dGUtcW5pcF9KVDBzcmV2RHNGTkItS0NCQmhUems2X01hbWJZWHJOcm8zcUlYQjNTYTlnOVNTd3l5Ym5mYzlqWFdTUUtwRlpKZjlibkMwWFpOeHlpOTRUazhOQ1ctaFVtdjhJUFdiUmpzbjJNc2JZakdXdTN6QzZxZlF6Q0dZY0VKT2FFTmNlOUhTU3pFY1RLXzk2aVlDazJVOGhLa25wSlBRUHZzcG1Ccw?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
   }
