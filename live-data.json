@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-16T09:23:15+00:00",
+ "updated_at": "2026-07-16T11:20:00Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Dowagiac residents sue over nonstop noise from Hyperscale data center",
+   "dek": "Neighbors on Louise Ave. say the constant hum from the new facility never stops. A class-action lawsuit is now moving forward to fight back. Cass County locals want relief from what they call an unbearable intrusion on daily life.",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSWlqOWNHTm1nbEFLNzVheEhQWDlKdHpqUEUtanhESDZDMGxfdFMwdFc2MWNVc253bjdUVlRhc3NlX2FfVFoyWndXWW9pSjFHQXF4c0JlaHJTNDNfYkIyNWxOWEk3czZ1b1g2S21UUWcxMTc4QVpVa2o0NmQ1TnYxdS1VZXZuX2FqZ3pCMmtmaHlaT0U3aUp5Uzd3eW05aEs3R0x4WmpSalB3aVJlcWpLT3A2N3prQVY5Rzk0Z3cxQ3ZBdTQtdHo4X2NiUWpMRHZKWEJHdVhlcWs?oc=5",
+   "source": "Detroit Free Press",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Cass",
+   "tag": "Local Government",
+   "iso": "2026-07-16T10:22:00Z",
+   "id": "2c32fd6afd2a",
+   "origin": "google-news",
+   "source_title": "Constant noise from Dowagiac data center prompts class-action lawsuit - Detroit Free Press",
+   "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSWlqOWNHTm1nbEFLNzVheEhQWDlKdHpqUEUtanhESDZDMGxfdFMwdFc2MWNVc253bjdUVlRhc3NlX2FfVFoyWndXWW9pSjFHQXF4c0JlaHJTNDNfYkIyNWxOWEk3czZ1b1g2S21UUWcxMTc4QVpVa2o0NmQ1TnYxdS1VZXZuX2FqZ3pCMmtmaHlaT0U3aUp5Uzd3eW05aEs3R0x4WmpSalB3aVJlcWpLT3A2N3prQVY5Rzk0Z3cxQ3ZBdTQtdHo4X2NiUWpMRHZKWEJHdVhlcWs?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "Taylor neighbors fight rezoning that would open door to data centers",
    "dek": "Residents in Taylor are organizing against a rezoning request they fear will bring large-scale data centers into their neighborhoods. The proposal would change land use rules near homes, raising concerns over noise, traffic and power demand. Local pushback could force the city to reconsider or add stricter conditions.",
@@ -169,23 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObExXcDBqazZTNU1aU1BlVlVDbnZEcXFWZHBmcDc3dS1kNXczTFlKenpIb3BSMFNKZXc2endpRktUSnh6T1RDQzk1RzdkMWhycUNNd2ZLQUVLTVc4YlRtVV9QSjRUX1lBRElNbFJGcjRWVUJQcVJsR3UyZFN6NlpINVFtd3huTFIyS0UzbkFnVnFrYzF4QXIwOWJvRmZlZXVUclBJQVRsYkI3VTYtQU5xTzhTb04yX0FVRUo00gHPAUFVX3lxTE5qUDdCYXdxNGJkUVljN0tZc2oyRTY1MHZfVUkwbnB0dGUtcW5pcF9KVDBzcmV2RHNGTkItS0NCQmhUems2X01hbWJZWHJOcm8zcUlYQjNTYTlnOVNTd3l5Ym5mYzlqWFdTUUtwRlpKZjlibkMwWFpOeHlpOTRUazhOQ1ctaFVtdjhJUFdiUmpzbjJNc2JZakdXdTN6QzZxZlF6Q0dZY0VKT2FFTmNlOUhTU3pFY1RLXzk2aVlDazJVOGhLa25wSlBRUHZzcG1Ccw?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
-  },
-  {
-   "title": "Solon Township shelves rules aimed at limiting data centers",
-   "dek": "The board postponed an ordinance that would have restricted where large facilities could locate in Kent County. Residents had pressed for tighter controls over water and electricity demand. The delay keeps current zoning in place while debate continues.",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMWswM2dPU19iV3RNSEhPdm1uMkcxRHl2T3k5R21NRHlhdVlpQjRUYUVUUVgwcHpuS0lfWFJxRmVOaTlMTkF3RXpzNlZiWlF4alhEN0h2Qmk5d0RCdGZZUGg1cS1qc0J6SmdpY2x0dHpqMW5PMkh2ODdnYklBUlBwSDlSMVpvNGVl?oc=5",
-   "source": "AOL.com",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Kent",
-   "tag": "Local Government",
-   "iso": "2026-07-15T14:50:05Z",
-   "id": "3e3d087e3eac",
-   "origin": "google-news",
-   "source_title": "Solon Township board tables ordinance proposal to limit data centers - AOL.com",
-   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMWswM2dPU19iV3RNSEhPdm1uMkcxRHl2T3k5R21NRHlhdVlpQjRUYUVUUVgwcHpuS0lfWFJxRmVOaTlMTkF3RXpzNlZiWlF4alhEN0h2Qmk5d0RCdGZZUGg1cS1qc0J6SmdpY2x0dHpqMW5PMkh2ODdnYklBUlBwSDlSMVpvNGVl?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {
