@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-15T23:35:03Z",
+ "updated_at": "2026-07-16T01:03:53+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -205,62 +205,6 @@
   "accuracy": "checked"
  },
  "meetings": [
-  {
-   "iso": "2026-07-15",
-   "body": "Ypsilanti Township Board of Trustees",
-   "topic": "Informational session on data center updates and local impacts",
-   "region": "SE Michigan",
-   "regionKey": "metro",
-   "county": "Washtenaw",
-   "time": "6:00 PM",
-   "status": "Public hearing",
-   "urgent": false,
-   "link": "https://ypsitownship.org/government/boards___commissions/board_of_trustees/data_center_information.php",
-   "linkLabel": "Agenda",
-   "stream": ""
-  },
-  {
-   "iso": "2026-07-15",
-   "body": "Augusta Township Planning Commission",
-   "topic": "Review of zoning ordinance including data center definitions and regulations",
-   "region": "SE Michigan",
-   "regionKey": "metro",
-   "county": "Washtenaw",
-   "time": "7:00 PM",
-   "status": "Planning commission",
-   "urgent": false,
-   "link": "https://augustatownship.org/wp-content/uploads/2026/07/July-15-2026-PC-Meeting-Agenda-Website.pdf",
-   "linkLabel": "Agenda",
-   "stream": ""
-  },
-  {
-   "iso": "2026-07-15",
-   "body": "Wixom City Council",
-   "topic": "Data center ordinance amendment for future development regulations",
-   "region": "SE Michigan",
-   "regionKey": "metro",
-   "county": "Oakland",
-   "time": "7:00 PM",
-   "status": "Board meeting",
-   "urgent": true,
-   "link": "https://www.wxyz.com/news/data-centers/wixom-residents-to-weigh-in-on-data-center-ordinance-as-city-council-meets-tuesday-night",
-   "linkLabel": "Meeting Details",
-   "stream": ""
-  },
-  {
-   "iso": "2026-07-15",
-   "body": "Ypsilanti Township",
-   "topic": "Informational session on University of Michigan/Los Alamos data center project updates, including history, legislative developments, and Q&A",
-   "region": "SE Michigan",
-   "regionKey": "metro",
-   "county": "Washtenaw",
-   "time": "6:00 PM",
-   "status": "Public hearing",
-   "urgent": false,
-   "link": "https://ypsitownship.org/government/boards___commissions/board_of_trustees/data_center_information.php",
-   "linkLabel": "Agenda & Details",
-   "stream": null
-  },
   {
    "iso": "2026-07-16",
    "body": "Michigan Public Service Commission",
