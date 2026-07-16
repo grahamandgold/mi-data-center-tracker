@@ -1,10 +1,10 @@
 {
- "title": "Mornings with Graham & Emmy",
- "teaser": "Residents fight nonstop hum in court while local leaders weigh power and water costs.",
+ "title": "Evenings with Graham & Emmy",
+ "teaser": "Six companies sign Whitmer's voluntary pledge to cover their own power upgrades amid growing local fights.",
  "lines": [
   {
    "host": "Graham",
-   "text": "Good morning and welcome to Mornings with Graham & Emmy, the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
+   "text": "Good evening and welcome to Evenings with Graham & Emmy, the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
   },
   {
    "host": "Emmy",
@@ -12,271 +12,223 @@
   },
   {
    "host": "Graham",
-   "text": "It's Thursday, July 16, and we're starting with a lawsuit that just landed in Cass County over nonstop noise from a new hyperscale facility."
+   "text": "Tonight we're diving into Governor Whitmer's new voluntary agreement that has six data center firms already pledging to cover their own power costs."
   },
   {
    "host": "Emmy",
-   "text": "That Dowagiac case feels like it could set a tone for how communities push back when the hum never stops."
+   "text": "That's the big one tonight, Graham. Let's start there."
   },
   {
    "host": "Graham",
-   "text": "Exactly, and it ties right into the bigger fights playing out across the state right now on power, water, and local control."
+   "text": "Exactly. The governor released this plan asking operators to pay for the grid upgrades their projects trigger. Six companies have signed on so far, which could ease some pressure on regular ratepayers."
   },
   {
    "host": "Emmy",
-   "text": "Let's dig into that Dowagiac story first."
+   "text": "Why does this matter so much right now? We've been hearing about these projects popping up everywhere."
   },
   {
    "host": "Graham",
-   "text": "Neighbors along Louise Avenue filed a class-action suit claiming the constant low-frequency hum from the new data center never lets up, day or night."
+   "text": "It's been building for months. Multiple large campuses are seeking approvals across the state, and utilities have already started pushing back on massive water and power requests."
   },
   {
    "host": "Emmy",
-   "text": "What are they actually asking for in the lawsuit?"
+   "text": "Like that one utility that just denied a Google-scale request needing power for two million homes."
   },
   {
    "host": "Graham",
-   "text": "Relief from what they call an unbearable intrusion on daily life, including possible mitigation measures or limits on operations."
+   "text": "Right. That denial shows the resource limits are real. If companies appeal or look elsewhere, ratepayers could still end up paying more down the line."
   },
   {
    "host": "Emmy",
-   "text": "This isn't the first time noise has come up in these fights, right?"
+   "text": "So how does the Whitmer pledge change the game? Is it binding or just a promise?"
   },
   {
    "host": "Graham",
-   "text": "No, it's a recurring complaint wherever these large facilities go in near homes, and it often leads to the same questions about enforcement."
+   "text": "It's voluntary for now. The idea is operators commit to long-term energy contracts and cover upgrades themselves instead of passing costs along."
   },
   {
    "host": "Emmy",
-   "text": "How does this connect to the rezoning battle in Taylor?"
+   "text": "What kind of history are we looking at here with these fights?"
   },
   {
    "host": "Graham",
-   "text": "Taylor residents are organizing against a rezoning request that could open the door to large-scale centers near neighborhoods, citing noise, traffic, and power demand as top worries."
+   "text": "Local pushback has been growing in places like Lyon Township, where neighbors are already complaining about noise and truck traffic ahead of a final vote."
   },
   {
    "host": "Emmy",
-   "text": "So the pushback there is trying to stop it before it even starts."
+   "text": "And we've seen similar stories in Dowagiac with that class-action lawsuit over nonstop hum from a new hyperscale facility."
   },
   {
    "host": "Graham",
-   "text": "Yes, and local officials may have to add stricter conditions or reconsider the proposal altogether."
+   "text": "Yes, Cass County residents are fighting what they call an unbearable intrusion. These quality-of-life issues are hitting close to home for families."
   },
   {
    "host": "Emmy",
-   "text": "Pere Marquette Township just advanced a moratorium too."
+   "text": "How does this affect electric bills specifically if the pledges work?"
   },
   {
    "host": "Graham",
-   "text": "They did, halting new proposals while they draft permanent rules on roads, power lines, and property values."
+   "text": "The hope is it keeps rates stable by shifting the burden. Without it, big demand spikes could force everyone to pay for new infrastructure."
   },
   {
    "host": "Emmy",
-   "text": "How many other townships are watching this approach?"
+   "text": "What about water strain? These campuses use a lot, right?"
   },
   {
    "host": "Graham",
-   "text": "Several in Mason County and beyond are tracking it closely as a possible model for their own pauses."
+   "text": "They do, and that's part of why some utilities are saying no. Farmland and towns downstream could feel the pinch if usage isn't managed."
   },
   {
    "host": "Emmy",
-   "text": "Governor Whitmer's pledge plan is also circulating."
+   "text": "And rezoning fights like the one in Taylor yesterday add another layer."
   },
   {
    "host": "Graham",
-   "text": "Her proposal asks companies to commit to covering their own power and water costs instead of passing them to ratepayers."
+   "text": "Residents there are organizing against changes that could bring data centers near homes, citing noise, traffic, and power demand."
   },
   {
    "host": "Emmy",
-   "text": "What's the reaction from local leaders so far?"
+   "text": "Pere Marquette Township moved to block new ones with a moratorium. How many places are hitting pause now?"
   },
   {
    "host": "Graham",
-   "text": "Some call it a good first step, but others say it needs binding rules to really protect communities."
+   "text": "Several townships are considering similar steps to give residents time to weigh impacts on roads, power lines, and property values."
   },
   {
    "host": "Emmy",
-   "text": "That gets to the core issue of who pays for the infrastructure."
+   "text": "Whitmer's plan is circulating among those leaders. Some call it a good first step, others say it needs binding rules."
   },
   {
    "host": "Graham",
-   "text": "Right, and it directly affects electric bills, water supplies, and how towns plan for growth."
+   "text": "That's the split. Local officials are watching closely as the voluntary pledges roll out."
   },
   {
    "host": "Emmy",
-   "text": "What kind of scale are we talking about with these facilities?"
+   "text": "There's also new legislation from Democrats requiring community agreements and energy contracts."
   },
   {
    "host": "Graham",
-   "text": "A single large campus can draw enormous power and water, which is why farmland conversion and utility upgrades keep coming up in every debate."
+   "text": "Yes, that package aims to prevent residents from subsidizing growth through higher bills and water strain."
   },
   {
    "host": "Emmy",
-   "text": "And the new state bills introduced this week?"
+   "text": "How does the OpenAI tax break in Saline fit into this bigger picture?"
   },
   {
    "host": "Graham",
-   "text": "They would require data centers to meet standards on power use, water consumption, and workforce practices to avoid subsidizing growth through higher resident bills."
+   "text": "They scaled back the ask and got a smaller incentive. It shows communities are negotiating harder on what they give up for roads, schools, and services."
   },
   {
    "host": "Emmy",
-   "text": "If those pass, how would it change where projects get sited?"
+   "text": "So what happens next with the Whitmer plan?"
   },
   {
    "host": "Graham",
-   "text": "It could reshape the map by making some locations less attractive without those protections in place."
+   "text": "More companies could sign on, and we'll see how it influences the legislative package and local approvals."
   },
   {
    "host": "Emmy",
-   "text": "Saline Township just approved a smaller tax break for the OpenAI campus."
+   "text": "The Michigan Public Service Commission meets today on power contracts and rate impacts."
   },
   {
    "host": "Graham",
-   "text": "Yes, after the company scaled back its ask, the forgone revenue dropped to about one-ninth of the original proposal."
+   "text": "That hearing could give us early signals on whether these voluntary commitments hold up under scrutiny."
   },
   {
    "host": "Emmy",
-   "text": "Still means less for roads, schools, and emergency services though."
+   "text": "I'm curious how this all lands with folks in places like Oakland County if Lyon gets approved."
   },
   {
    "host": "Graham",
-   "text": "Exactly, and it sets the terms for how much the township contributes going forward."
+   "text": "They'd feel the power and water ripple effects even 30 minutes away. It's not just the host township anymore."
   },
   {
    "host": "Emmy",
-   "text": "Yesterday's stories show the momentum building too."
+   "text": "The stakes keep rising with every new proposal."
   },
   {
    "host": "Graham",
-   "text": "Warren's council voted to seek a one-year moratorium amid power and noise concerns."
+   "text": "Exactly. Let's move to some quick hits on the other developments today and yesterday."
   },
   {
    "host": "Emmy",
-   "text": "Freedom Township residents successfully blocked a billion-dollar project that would have used huge amounts of power and water."
+   "text": "Lyon Township neighbors are blasting the noise and traffic plans right before the board vote."
   },
   {
    "host": "Graham",
-   "text": "And the University of Michigan's proposed $1.25 billion center is drawing more local pushback as details emerge."
+   "text": "They're saying it will wreck quality of life. The board decides soon on whether the project moves forward."
   },
   {
    "host": "Emmy",
-   "text": "Whitmer also urged developers to sign the voluntary pledge yesterday."
+   "text": "Separately, a Michigan utility turned down a massive water request for a hyperscale campus."
   },
   {
    "host": "Graham",
-   "text": "Yes, framing it as a way to shield ratepayers and water supplies while multiple townships consider their own restrictions."
+   "text": "That one would have needed power equivalent to two million homes. The denial highlights real resource conflicts."
   },
   {
    "host": "Emmy",
-   "text": "So the Dowagiac lawsuit lands right in the middle of all this."
+   "text": "Dowagiac residents filed a class-action suit over nonstop noise from their new facility."
   },
   {
    "host": "Graham",
-   "text": "It does, and it highlights how noise can become the flashpoint that forces broader conversations about enforcement and siting."
+   "text": "Neighbors on Louise Avenue say the hum never stops. They're seeking relief in Cass County court."
   },
   {
    "host": "Emmy",
-   "text": "What happens next in the Dowagiac case?"
+   "text": "Yesterday in Taylor, residents organized against rezoning that could open the door to data centers."
   },
   {
    "host": "Graham",
-   "text": "The class-action moves forward in court, and it could influence how other communities respond when similar complaints arise."
+   "text": "They're worried about noise, traffic, and power near their homes. Local pushback might force stricter conditions."
   },
   {
    "host": "Emmy",
-   "text": "Do you see more lawsuits like this if the hum complaints keep growing?"
+   "text": "Pere Marquette Township advanced a moratorium to halt proposals while they draft permanent rules."
   },
   {
    "host": "Graham",
-   "text": "It's possible, especially in places where facilities sit close to homes and existing noise rules feel insufficient."
+   "text": "It gives time to assess impacts on roads, power, and property values. Other townships are watching."
   },
   {
    "host": "Emmy",
-   "text": "How does this affect property values in the short term?"
+   "text": "Whitmer's pledge plan is splitting local leaders, with some wanting stronger mandates."
   },
   {
    "host": "Graham",
-   "text": "Nearby residents often cite concerns that constant noise could depress values, which is why moratoriums and zoning fights keep referencing it."
+   "text": "The proposal is making the rounds among townships already dealing with their own fights."
   },
   {
    "host": "Emmy",
-   "text": "And the farmland angle?"
+   "text": "And in Saline, OpenAI got a reduced tax break after scaling back its request."
   },
   {
    "host": "Graham",
-   "text": "Large campuses often convert agricultural land, raising questions about long-term land use and local food systems."
+   "text": "Residents still see forgone revenue, but at a much lower level than first proposed."
   },
   {
    "host": "Emmy",
-   "text": "Water use is another big one."
+   "text": "Lawmakers also introduced bills requiring standards on power, water, and workforce practices."
   },
   {
    "host": "Graham",
-   "text": "Cooling systems can require significant withdrawals, which ties directly into the governor's pledge and the new legislative standards."
+   "text": "The goal is to stop residents from subsidizing the industry through higher utility bills."
   },
   {
    "host": "Emmy",
-   "text": "Power demand is the elephant in the room for utilities."
+   "text": "Now let's look ahead to what's coming up."
   },
   {
    "host": "Graham",
-   "text": "Yes, and that's why the Michigan Public Service Commission meeting today on data center power contracts and rate impacts matters so much."
+   "text": "The Michigan Public Service Commission meets today to discuss data center power contracts and rate impacts."
   },
   {
    "host": "Emmy",
-   "text": "Listeners will want to know how that plays out."
+   "text": "That one could shape how these voluntary pledges play out in practice."
   },
   {
    "host": "Graham",
-   "text": "We'll keep an eye on it and bring updates as they develop."
-  },
-  {
-   "host": "Emmy",
-   "text": "Back to the quick hits, the OpenAI tax break decision sets a precedent for scaled-back incentives."
-  },
-  {
-   "host": "Graham",
-   "text": "It does, and it shows how communities can negotiate smaller revenue losses while still hosting projects."
-  },
-  {
-   "host": "Emmy",
-   "text": "The state bills on shielding residents from utility costs feel like the bigger policy play."
-  },
-  {
-   "host": "Graham",
-   "text": "They would set statewide standards that could prevent the kind of ratepayer impacts seen in other states."
-  },
-  {
-   "host": "Emmy",
-   "text": "Taylor's rezoning fight could force the city to add conditions or walk it back."
-  },
-  {
-   "host": "Graham",
-   "text": "And Pere Marquette's moratorium gives residents time to weigh in before permanent rules are set."
-  },
-  {
-   "host": "Emmy",
-   "text": "Whitmer's pledge is now in circulation among townships facing their own fights."
-  },
-  {
-   "host": "Graham",
-   "text": "Some see it as helpful guidance, others want enforceable commitments instead."
-  },
-  {
-   "host": "Emmy",
-   "text": "On deck today, the Michigan Public Service Commission meets on data center power contracts and rate impacts."
-  },
-  {
-   "host": "Graham",
-   "text": "That's at the usual time and place for anyone who wants to attend or watch the livestream."
-  },
-  {
-   "host": "Emmy",
-   "text": "It should give a clearer picture of how utilities plan to handle the growing demand."
-  },
-  {
-   "host": "Graham",
-   "text": "Listeners can check the agenda for public comment opportunities."
+   "text": "Listeners can check the agenda for details on attending or watching."
   },
   {
    "host": "Emmy",
@@ -287,7 +239,7 @@
    "text": "We're back tomorrow."
   }
  ],
- "episode_title": "Dowagiac Neighbors Sue Over Data Center Noise as More Townships Hit Pause",
- "show": "Mornings with Graham & Emmy",
- "daypart": "Mornings"
+ "episode_title": "Whitmer Deal Shifts Data Center Grid Costs to Operators as Six Firms Commit",
+ "show": "Evenings with Graham & Emmy",
+ "daypart": "Evenings"
 }
