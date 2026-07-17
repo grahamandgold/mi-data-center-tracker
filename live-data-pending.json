@@ -1,26 +1,7 @@
 {
- "updated_at": "2026-07-17T11:10:44+00:00",
+ "updated_at": "2026-07-17T12:45:26+00:00",
  "generator": "grok-wire-agent",
  "items": [
-  {
-   "iso": "2026-07-15T20:00:00+00:00",
-   "region": "mid",
-   "cat": "Ingham Co.",
-   "tag": "Local Government",
-   "title": "Lansing pauses data center bids for 182 days over jobs and water fears",
-   "dek": "Council approved the moratorium 7-1 after residents warned it could cost tax revenue and investment while others demanded rules on emissions, noise and PFAS.",
-   "source": "Michigan Public",
-   "url": "https://www.michiganpublic.org/2026-07-15/lansing-passes-6-month-data-center-moratorium",
-   "breaking": false,
-   "lead": false,
-   "id": "b14f6d1bde09",
-   "kind": "story",
-   "filed_at": "2026-07-17T11:08:17+00:00",
-   "accuracy": "checked-rewritten",
-   "headline_rewritten": true,
-   "judge_score": 9,
-   "judge_note": "New concrete action: Lansing Council voted 7-1 for a 182-day moratorium — a different municipality taking a specific vote, not covered in existing stories."
-  },
   {
    "iso": "2026-07-17T05:00:00Z",
    "region": "statewide",
@@ -41,5 +22,5 @@
    "judge_note": "New development: township lost rezoning lawsuit allowing project to proceed with $14M benefits package, a concrete legal/procedural outcome not previously repor"
   }
  ],
- "accuracy_checked_at": "2026-07-17T11:10:38+00:00"
+ "accuracy_checked_at": "2026-07-17T12:45:24+00:00"
 }
