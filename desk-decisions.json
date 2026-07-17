@@ -1077,6 +1077,27 @@
    "at": "2026-07-16T23:30:27+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: This is the same voluntary pledge/agreement already covered in the first ALREADY-LIVE story ('Six data center firms pledge to cover their own power costs under "
+  },
+  {
+   "url": "https://www.bridgemi.com/business-watch/massive-data-center-wins-local-tax-break-but-9-times-smaller-than-requested",
+   "title": "Saline Township Grants Smaller Tax Break to Massive OpenAI Data Center Project",
+   "at": "2026-07-17T01:06:16+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicate of already-live 'OpenAI lands smaller tax break from Saline on data center campus' — same tax break approval decision."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQelJFM3IwRWlsZUwwV19Cb3dXU0FkNEpfQ1NaWEdsWjJJRUJ2eU43VWN4SExUVkdWRGNZb2JGOEJvdXN0TjRidGJGcDlRTy1jVXdZV3VOSlFLOUFjNnhYd3owR2k0LXFkcXFQMWYyckRXTGVHVkNxQkZ3X0pmTV9vemQxVzhoQ2hjak5zN2UtYi1ldEg2eDBlREJ6RDJkSDItNW5HSWxJcHRkQWY4UFVLdjZPUTg?oc=5",
+   "title": "Whitmer urges data centers to cover their own infrastructure costs",
+   "at": "2026-07-17T01:06:16+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicate of already-live 'Six data center firms pledge to cover their own power costs under Whitmer plan' — same pledge announcement and six-firm commitment."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTm1RTmJOaXNOcTJFNjRYTGFveGw3Ujhuc2dGaDN0c1RPdWZhV25Pc3RfZmRKU0tQYjd2WFc1RGJuQlBNVHN3Ums4QkRqUWQ1WjVwZUE5eGZtOEhadnBDUnpFajNYemZrRzVnaHllRk9kM1RjTjE1WVNkS29MTWxLY2drSnBINVNkSndrSTR3VEtabjE0MXdRX0VPVkh6ZVk?oc=5",
+   "title": "Oracle seeks 12-year tax break on $43B Saline Township campus",
+   "at": "2026-07-17T01:06:16+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: Duplicate of killed 'Oracle gets 1/9th the tax break it wanted in Saline Twp' and 'Saline Township OKs $4.8B-based tax break for $43B Oracle-OpenAI data center'"
   }
  ],
  "auto_published": [

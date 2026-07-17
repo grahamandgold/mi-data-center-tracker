@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-16T23:30:23+00:00",
+ "updated_at": "2026-07-17T01:06:07+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -200,20 +200,6 @@
   "id": "02d7912fe03d",
   "accuracy": "checked"
  },
- "meetings": [
-  {
-   "iso": "2026-07-16",
-   "body": "Michigan Public Service Commission",
-   "topic": "Data center power contracts and rate impacts",
-   "region": "Mid-Michigan",
-   "regionKey": "mid",
-   "county": "Ingham",
-   "time": "1:00 PM",
-   "status": "State hearing",
-   "urgent": true,
-   "link": "https://www.michigan.gov/mpsc",
-   "linkLabel": "Agenda"
-  }
- ],
+ "meetings": [],
  "accuracy_checked_at": "2026-07-08T08:45:16+00:00"
 }
