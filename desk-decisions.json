@@ -1119,6 +1119,27 @@
    "at": "2026-07-17T09:17:36+00:00",
    "by": "news_judge",
    "note": "score 3/10, duplicate: Rehashes the already-live Whitmer pledge plan and legislative bills requiring data centers to cover their own power costs."
+  },
+  {
+   "url": "https://bridgemi.com/business-watch/massive-data-center-wins-local-tax-break-but-9-times-smaller-than-requested",
+   "title": "Saline Township Grants Smaller Tax Break to Oracle-OpenAI Data Center Project",
+   "at": "2026-07-17T11:10:44+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: Duplicate of already-live 'OpenAI lands smaller tax break from Saline on data center campus' and killed 'Saline Township Slashes Data Center Tax Break' stories "
+  },
+  {
+   "url": "https://www.mlive.com/news/2026/07/how-many-data-center-projects-have-been-proposed-in-michigan-the-total-grows.html",
+   "title": "U.S. Data Center Power Demand Surges as Tech Giants Accelerate AI Infrastructure",
+   "at": "2026-07-17T11:10:44+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece with no Michigan-specific development; generic context that adds little to Michigan data center tracking."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNY3RhQVhwckNkUi03QjRlQkNrSDhHZThvRU1WMS1YNEZjY3dRejlDZnRKc2lFTWlaeGhlTm5uemVPVy00aUtRTjJzY1FjbVpXeFFVaWZoUFVlT3pPaFBLWUw0R3JRRW0taUdGa0xsd1Z4ZUotSDFZZWNPLXJneWhnWWg2TDBvWEh3eEtLcGdJbGZVQQ?oc=5",
+   "title": "Whitmer demands data-center firms cover their own power and water costs",
+   "at": "2026-07-17T11:10:44+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicate of already-live 'Six data center firms pledge to cover their own power costs under Whitmer plan' and multiple killed stories on the same Whitmer pledg"
   }
  ],
  "auto_published": [
