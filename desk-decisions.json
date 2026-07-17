@@ -1168,6 +1168,27 @@
    "at": "2026-07-17T17:41:55+00:00",
    "by": "news_judge",
    "note": "score 3/10, duplicate: This is the same Whitmer pledge/plan already covered in multiple LIVE and KILLED stories, just reworded with slightly different framing."
+  },
+  {
+   "url": "https://www.usatoday.com/story/opinion/columnist/2026/07/16/new-york-ai-data-center-moratorium-hochul/90918402007/",
+   "title": "New York Halts New Data Center Permits in First Statewide Pause",
+   "at": "2026-07-17T19:23:32+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National New York story with no Michigan angle beyond generic 'model for other states' framing."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVmpyaU9YVjJBcU5DX3I1Z0NzOFBGWUpWRGoyUVhsMFZnRmNDWkl6cXRHWTc5SkltNHphOFFxTUp3cHlhbU1acDl3QnI0elJJUHU1dDZONkF0RTZhTVZ3OUZydE1hNWw1QnI3b0loV1ByVGdSdWhkUnViUjlHWFZreWlPcGI4MTRISzFHSFkyYkpGX0ZfTkhGYUNEU1ZWd2t2dnZpczktMl9ZazZaQU9zQTBSeGNSVVFfWF9rQjlxMlhMM1k?oc=5",
+   "title": "Protesters set July 18 rallies against Michigan data centers",
+   "at": "2026-07-17T19:23:32+00:00",
+   "by": "news_judge",
+   "note": "score 5/10: Concrete upcoming event (July 18 rallies) but protests themselves are not decisions or approvals—agenda-preview tier."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtTjFkcHVDTEFQdUJkakNwY2FXelA5anhCQjRVa0plVktQa1FRSmt2Ymp3N3BpbE1LQnc5ay1Rb0xYek92NWhjQmF3ZkZ6MmdSMDhaVVd6cDZvUDRyc3lOYw?oc=5",
+   "title": "Dowagiac residents sue data center over constant noise",
+   "at": "2026-07-17T19:23:32+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Same Dowagiac noise lawsuit already live: 'Dowagiac residents sue over nonstop noise from Hyperscale data center.'"
   }
  ],
  "auto_published": [
@@ -1662,6 +1683,24 @@
    "title": "Lansing blocks new data centers for now, leaving developers in limbo",
    "judge_score": 9,
    "at": "2026-07-17T14:50:38Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNRTlhdS1lWG9YOHNWbUhENWdELThrblhtZkxyZXNBclJkVk0wdjEtT25UcFdPVktUSGx1cE5uZ3g4WGtObzhrY2JaTzdQOWtrYXF6M0RXOEp3Uk10WE5hVVUwZXQwa3ktT29Bc1c2Qmw5bHNnWHFncVViZWJUM1o1ZUk4VUpjbEtYWEpKSU5HcExRZWJfYUNPNlhIemR6S2w5MDdLRk8zVTlXWm14SS03eE1VaDNfc1JseWVyY0tGZ0xCT0NKUjJIRG1aSGFEdEVzcEt6NWJVeXE1bTFjZm9vdXFfd3NycEVENE94eUNnd1gzSGNXalJkc1JsMHVMMG9GV0Jpd1EzWXR2WHF0ZEVtVncxS3JTVE0?oc=5",
+   "title": "Hyperscale Data faces questions on noise and power at council meeting",
+   "judge_score": 6,
+   "at": "2026-07-17T19:23:32Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa3lGU01IM0pWQkpxeFF0THVwbnM5SUtacmxuempaeHhkRlJpOHVlYTgyUVp4eTlRMGg1UkctMUdZc01ENHhPb3JFUlc3S0VNZkJrOTgzOGtiVmkwUHYyT2t5c3RJcVg3dW8tMlNJOTJJekVsVnBMbGI1NHdXd2otQkNUWjJYWTc5?oc=5",
+   "title": "Lake Township blocks data centers for six months",
+   "judge_score": 9,
+   "at": "2026-07-17T19:23:32Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMUEpZLU4tRHNDUEFrb1JGTE9uRU4ySVhQWHp1RFVpQjFiOGVLNWdjNlF4R3dUVmJZMDE3cnVxQVVaaEowRC1OajdHcjNIeldfU1YyWTNTQzkyNEZDcXRTcGF2TzQ3b0lYM2YwUTBMVGRGd1MxUWFZcjZMVmI?oc=5",
+   "title": "Monroe County halts new data centers for now",
+   "judge_score": 9,
+   "at": "2026-07-17T19:23:32Z"
   }
  ]
 }
