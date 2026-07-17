@@ -1,7 +1,28 @@
 {
- "updated_at": "2026-07-17T14:50:38Z",
+ "updated_at": "2026-07-17T16:22:52+00:00",
  "generator": "grok-wire-agent",
  "items": [
+  {
+   "title": "Saline Township rejects 50% tax break for big data center",
+   "dek": "Trustees turned down the abatement request tied to a major campus plan. Local taxpayers avoid subsidizing the project for years. The vote keeps full property-tax revenue flowing to schools and services.",
+   "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQYi1mRnJCM3ZibXVMSncxTHFrM3ZYeUQxdHprR21KNEZfb0tWUXpGMTV1aFlFWER3RVhBNEJGUDNMel83OHJlNFo1RUVLNXBlY09xNnBiSXFWcWFRYk5sSEl1eUQ2cGJyV2pyR0NOMDh1cVRPZmRra01WWmQzY1g2UjFsU3UyQ3o4UEtDSmY1dF8yYTJFWjhIa1NJZHctclF5T3dXVmRkRmtDMFozWHBtMG1CaXFOQWE3ekVhajAzVVF4MGtFUS1vVWlUWDk4MjNUMldvM3RsaGptZUhXQ0RkRkRYRGFaVXJ4cmhMTzhuWEdNN0NLWXdsSEtVdEwyMTlkOC0xNWp2WXdLbVkyazktUkJDcmFyMUhxQ05wTnE0aS04NlJiZFpWUWlYTGc3UURDbkxvZ0s1dHhLaFpoYWxHWjVNd1AxT2ZiUXhrZTc2bDdhSVVMY2RFODhBVTlWY3ROS2Fr?oc=5",
+   "source": "MSN",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Money",
+   "iso": "2026-07-16T23:53:08Z",
+   "kind": "story",
+   "id": "ce00758afac5",
+   "filed_at": "2026-07-17T16:21:50Z",
+   "origin": "google-news",
+   "headline_rewritten": true,
+   "source_title": "Saline Township trustees vote against proposed 50% tax abatement for data center - MSN",
+   "source_url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQYi1mRnJCM3ZibXVMSncxTHFrM3ZYeUQxdHprR21KNEZfb0tWUXpGMTV1aFlFWER3RVhBNEJGUDNMel83OHJlNFo1RUVLNXBlY09xNnBiSXFWcWFRYk5sSEl1eUQ2cGJyV2pyR0NOMDh1cVRPZmRra01WWmQzY1g2UjFsU3UyQ3o4UEtDSmY1dF8yYTJFWjhIa1NJZHctclF5T3dXVmRkRmtDMFozWHBtMG1CaXFOQWE3ekVhajAzVVF4MGtFUS1vVWlUWDk4MjNUMldvM3RsaGptZUhXQ0RkRkRYRGFaVXJ4cmhMTzhuWEdNN0NLWXdsSEtVdEwyMTlkOC0xNWp2WXdLbVkyazktUkJDcmFyMUhxQ05wTnE0aS04NlJiZFpWUWlYTGc3UURDbkxvZ0s1dHhLaFpoYWxHWjVNd1AxT2ZiUXhrZTc2bDdhSVVMY2RFODhBVTlWY3ROS2Fr?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 9,
+   "judge_note": "Clear new vote outcome—trustees rejected a tax abatement—distinct from the OpenAI/Oracle tax break stories already live."
+  },
   {
    "title": "Oracle data center in Saline Township now valued at $16 billion",
    "dek": "Developers locked in financing for the much larger campus. Washtenaw County could lose years of property tax revenue if the incentive package is approved. The project would also draw hundreds of megawatts from the regional grid.",
@@ -43,5 +64,5 @@
    "judge_note": "New development: township lost rezoning lawsuit allowing project to proceed with $14M benefits package, a concrete legal/procedural outcome not previously repor"
   }
  ],
- "accuracy_checked_at": "2026-07-17T14:50:31+00:00"
+ "accuracy_checked_at": "2026-07-17T16:22:47+00:00"
 }
