@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-18T17:33:59+00:00",
+ "updated_at": "2026-07-18T18:33:02Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Augusta Twp voters face data center referendum after heated campaign",
+   "dek": "Residents will decide next month whether to allow a large data center project in Augusta Township. The vote comes after weeks of protests and warnings from locals about traffic, noise and power strain near Ann Arbor. A resident urged officials to ignore social media pressure during the final stretch.",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkcjN3Q0lSMEFWQ19zWlVQUHJsbzNUQmF4T2w1R0pXY1B3LXp3Zk90WEF1SnMweXB1NkZlRFZESkRQUWpmMmdaLVRYT3BKZXNITndtMFdaM2Q0d2dFRXFGaDV6S1hhcTRSa3NyQzcyZFR1bE9jQlE0?oc=5",
+   "source": "Planet Detroit",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Local Government",
+   "iso": "2026-07-18T17:30:54Z",
+   "id": "b3d7338cd5b7",
+   "origin": "google-news",
+   "source_title": "Augusta Township data center battle reaches the ballot next month: ‘Stay off social media,’ resident tells officials - Planet Detroit",
+   "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkcjN3Q0lSMEFWQ19zWlVQUHJsbzNUQmF4T2w1R0pXY1B3LXp3Zk90WEF1SnMweXB1NkZlRFZESkRQUWpmMmdaLVRYT3BKZXNITndtMFdaM2Q0d2dFRXFGaDV6S1hhcTRSa3NyQzcyZFR1bE9jQlE0?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "iso": "2026-07-18T10:00:00Z",
    "region": "metro",
@@ -167,23 +184,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNRTlhdS1lWG9YOHNWbUhENWdELThrblhtZkxyZXNBclJkVk0wdjEtT25UcFdPVktUSGx1cE5uZ3g4WGtObzhrY2JaTzdQOWtrYXF6M0RXOEp3Uk10WE5hVVUwZXQwa3ktT29Bc1c2Qmw5bHNnWHFncVViZWJUM1o1ZUk4VUpjbEtYWEpKSU5HcExRZWJfYUNPNlhIemR6S2w5MDdLRk8zVTlXWm14SS03eE1VaDNfc1JseWVyY0tGZ0xCT0NKUjJIRG1aSGFEdEVzcEt6NWJVeXE1bTFjZm9vdXFfd3NycEVENE94eUNnd1gzSGNXalJkc1JsMHVMMG9GV0Jpd1EzWXR2WHF0ZEVtVncxS3JTVE0?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
-  },
-  {
-   "title": "Lake Township blocks data centers for six months",
-   "dek": "Lake Township trustees approved a half-year moratorium on data-center applications. The move stops any new projects while the township writes rules on noise, power demand and water use. Neighbors say the pause prevents rushed decisions that could affect their property values and daily life.",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa3lGU01IM0pWQkpxeFF0THVwbnM5SUtacmxuempaeHhkRlJpOHVlYTgyUVp4eTlRMGg1UkctMUdZc01ENHhPb3JFUlc3S0VNZkJrOTgzOGtiVmkwUHYyT2t5c3RJcVg3dW8tMlNJOTJJekVsVnBMbGI1NHdXd2otQkNUWjJYWTc5?oc=5",
-   "source": "Huron Daily Tribune",
-   "region": "mid",
-   "cat": "STATEWIDE",
-   "county": "Huron",
-   "tag": "Local Government",
-   "iso": "2026-07-17T17:59:00Z",
-   "id": "6c6f476e2ff1",
-   "origin": "google-news",
-   "source_title": "Lake Township passes six-month moratorium on data centers - Huron Daily Tribune",
-   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa3lGU01IM0pWQkpxeFF0THVwbnM5SUtacmxuempaeHhkRlJpOHVlYTgyUVp4eTlRMGg1UkctMUdZc01ENHhPb3JFUlc3S0VNZkJrOTgzOGtiVmkwUHYyT2t5c3RJcVg3dW8tMlNJOTJJekVsVnBMbGI1NHdXd2otQkNUWjJYWTc5?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 9
   }
  ],
  "national": {

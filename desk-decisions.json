@@ -1329,6 +1329,27 @@
    "at": "2026-07-18T17:34:02+00:00",
    "by": "news_judge",
    "note": "score 3/10, duplicate: This is the same tax-cap removal already covered in 'Township removes cap on Oracle property tax exemption, risking school and road funding' — just reworded."
+  },
+  {
+   "url": "https://www.wemu.org/wemu-news/2026-07-18/saline-township-reverses-course-gives-full-tax-break-to-oracle-for-data-center",
+   "title": "Saline Township Grants Oracle Full Tax Break on $43 Billion Data Center",
+   "at": "2026-07-18T18:33:02+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: Duplicate of already-live Oracle tax break stories; same reversal/decision already covered multiple times."
+  },
+  {
+   "url": "https://www.macombdaily.com/2026/07/18/column-data-centers-and-city-improvements-and-meetings-on-the-mind/",
+   "title": "Macomb Column: No Tax Dollars for Data Centers That Raise Power and Water Bills",
+   "at": "2026-07-18T18:33:02+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Opinion column rehashing known concerns without new development or decision."
+  },
+  {
+   "url": "https://www.clickondetroit.com/video/news/2026/07/18/local-4-news-at-11-july-17-2026/",
+   "title": "Michigan Gubernatorial Candidates Clash Over Data Center Regulation in Latest Debate",
+   "at": "2026-07-18T18:33:02+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: Duplicate of killed 'Governor candidates clash on who pays for data-center power' and 'Democratic Senate Candidates Clash' stories."
   }
  ],
  "auto_published": [
@@ -1889,6 +1910,12 @@
    "title": "Warren Freezes New Data Centers After Storms Down 60+ Power Lines",
    "judge_score": 6,
    "at": "2026-07-18T15:04:27Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkcjN3Q0lSMEFWQ19zWlVQUHJsbzNUQmF4T2w1R0pXY1B3LXp3Zk90WEF1SnMweXB1NkZlRFZESkRQUWpmMmdaLVRYT3BKZXNITndtMFdaM2Q0d2dFRXFGaDV6S1hhcTRSa3NyQzcyZFR1bE9jQlE0?oc=5",
+   "title": "Augusta Twp voters face data center referendum after heated campaign",
+   "judge_score": 8,
+   "at": "2026-07-18T18:33:02Z"
   }
  ]
 }
