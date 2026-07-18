@@ -1350,6 +1350,13 @@
    "at": "2026-07-18T18:33:02+00:00",
    "by": "news_judge",
    "note": "score 3/10, duplicate: Duplicate of killed 'Governor candidates clash on who pays for data-center power' and 'Democratic Senate Candidates Clash' stories."
+  },
+  {
+   "url": "https://cbs12.com/news/nation-world/taxpayer-group-earns-new-yorks-ai-data-center-moratorium-could-cost-jobs-and-iinvestment-governor-kathy-hochul-technology-artificial-intelligence-trump-administration-moratorium-energy-secretary-chris-wright-china-technology-national-taxpayers-union",
+   "title": "Taxpayer Group Warns New York AI Data Center Ban Risks Jobs and Billions in Investment",
+   "at": "2026-07-18T21:01:48+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National advocacy group's opinion piece about New York moratorium—no Michigan decision or development, just commentary on policy already covered."
   }
  ],
  "auto_published": [
@@ -1928,6 +1935,12 @@
    "title": "Utility faces questions on power, water for west Michigan's first major AI campus",
    "judge_score": 8,
    "at": "2026-07-18T19:46:18Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTy1VeG5uanZ1cEZLUmZEdjcxWXFENGtfMmFNUzYxQlA3b0tqdVVIbzMzclhrdGQ3X2lyRWRlODA5S01HWjBUai0yYXVSdVgzTVVQeXpRa3RHb0pjcUkxU2IzcW1iWk82cG5YVm4wbHJuRWQxMkFaZXZDUDdIWTQ1TEdYMnN4TTNLSDh4SQ?oc=5",
+   "title": "Vicksburg residents rally against planned data-center projects",
+   "judge_score": 6,
+   "at": "2026-07-18T21:01:48Z"
   }
  ]
 }

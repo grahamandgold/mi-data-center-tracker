@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-18T19:46:18Z",
+ "updated_at": "2026-07-18T21:01:48Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Vicksburg residents rally against planned data-center projects",
+   "dek": "Dozens turned out for a peaceful protest highlighting concerns over noise, traffic and strain on local utilities. The demonstration is the latest sign of growing pushback in Kalamazoo County townships. Organizers say more actions are planned if proposals advance.",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTy1VeG5uanZ1cEZLUmZEdjcxWXFENGtfMmFNUzYxQlA3b0tqdVVIbzMzclhrdGQ3X2lyRWRlODA5S01HWjBUai0yYXVSdVgzTVVQeXpRa3RHb0pjcUkxU2IzcW1iWk82cG5YVm4wbHJuRWQxMkFaZXZDUDdIWTQ1TEdYMnN4TTNLSDh4SQ?oc=5",
+   "source": "Vicksburg Daily News",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Kalamazoo",
+   "tag": "Local Government",
+   "iso": "2026-07-18T20:15:00Z",
+   "id": "2d8b7353401a",
+   "origin": "google-news",
+   "source_title": "Locals gather for a peaceful protest against data centers - Vicksburg Daily News",
+   "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTy1VeG5uanZ1cEZLUmZEdjcxWXFENGtfMmFNUzYxQlA3b0tqdVVIbzMzclhrdGQ3X2lyRWRlODA5S01HWjBUai0yYXVSdVgzTVVQeXpRa3RHb0pjcUkxU2IzcW1iWk82cG5YVm4wbHJuRWQxMkFaZXZDUDdIWTQ1TEdYMnN4TTNLSDh4SQ?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
   {
    "title": "House Speaker stalls Andrews data-center guardrail bill",
    "dek": "Legislation that would set statewide rules on data-center siting, power use and tax breaks remains bottled up. Sponsors say the delay leaves townships without tools to manage rapid growth. The bill had bipartisan support before the hold.",
@@ -165,23 +182,6 @@
    "origin": "google-news",
    "source_title": "Warren council could consider a temporary data center moratorium - AOL.com",
    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYXZ4NmxtQXp5bzdScmhUWkNiX0tUZFVLTE9MeUdULThlQW5nYjNOdE1KUjEyOHBrV0lRX0FYVTI3dmxSOTBzY3ctcXVRMjFfSzZ4V3VCcTlFUDE1dXhUeWlwV053OFIydWc1eWc2c1lqNzhwbm40bFhybVoybHBZY3FBWDhFZ0FHNUVB?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
-  },
-  {
-   "title": "State senator pushes data-center guardrails after earlier defeats",
-   "dek": "Sen. Andrews is reviving legislation that would force operators to pay for grid upgrades and disclose water use. The bill would apply statewide and limit local tax breaks. Ratepayers in every county would see the cost protections if it passes.",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNUNOajR0NnpJcVA5bTFiSWZwR3hYd3NLVFdiRVktcTlGQktTT09Kdmh1THRaclhaVl9IU1BOeTE3aXNnWFJFMXd4V09lQW42X3d5SF9UdU0yRUNJWWE3S2h2d19sR2NFVE9oa3l3UGFnVXB3QWo3eW9QYjFiX0ZEWmFTc29kV05FZnROZEtOQnY5SkFmLUZ3SE0wSUFzVVpwWWlzOVZGNjRXMmpXdFE?oc=5",
-   "source": "News/Talk/Sports 94.9 WSJM",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Policy",
-   "iso": "2026-07-17T23:04:33Z",
-   "id": "9465c42b69d7",
-   "origin": "google-news",
-   "source_title": "Andrews hopes data center guardrail legislation can advance, despite setbacks - News/Talk/Sports 94.9 WSJM",
-   "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNUNOajR0NnpJcVA5bTFiSWZwR3hYd3NLVFdiRVktcTlGQktTT09Kdmh1THRaclhaVl9IU1BOeTE3aXNnWFJFMXd4V09lQW42X3d5SF9UdU0yRUNJWWE3S2h2d19sR2NFVE9oa3l3UGFnVXB3QWo3eW9QYjFiX0ZEWmFTc29kV05FZnROZEtOQnY5SkFmLUZ3SE0wSUFzVVpwWWlzOVZGNjRXMmpXdFE?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
   }
