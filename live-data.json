@@ -1,7 +1,22 @@
 {
- "updated_at": "2026-07-18T08:24:00+00:00",
+ "updated_at": "2026-07-18T10:03:25Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "iso": "2026-07-18T05:00:00+00:00",
+   "region": "metro",
+   "cat": "Washtenaw Co.",
+   "tag": "Local Government",
+   "title": "Saline Township Locals Resist $16B Stargate Data Center Over Water and Farmland",
+   "dek": "Residents of the 2,400-person farming community say the project already under construction will drain water supplies, raise utility costs and erase rural character.",
+   "source": "Calcalistech",
+   "url": "https://www.calcalistech.com/ctechnews/article/r1yve0pvfl",
+   "breaking": false,
+   "lead": true,
+   "id": "f408d22471e2",
+   "accuracy": "checked-rewritten",
+   "judge_score": 6
+  },
   {
    "title": "Oracle wins unlimited tax break on $43B Ann Arbor-area campus",
    "dek": "Saline Township dropped its $4.8B cap on incentives for the Oracle-OpenAI project. Residents now face decades of lost property-tax revenue with no upper limit on the deal. The reversal hands the company a blank check paid for by local taxpayers.",
@@ -171,23 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54YWF6ejh6eXpQZUpDQUpoV1dtV0pFYl9pYmpOWnFuZGxZR1IyVlZ1QXRQZnRzeVJiR1hRR0N2M3cwUjQxRkxBZTFJdVdQTHRqdXBkSzlndUNtVEU1QU02V1JFV3VKZ0hiQUx4ZzViTEdUSm56aHhOYjdwbDIyUQ?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 9
-  },
-  {
-   "title": "Solon Township shelves rules that would have capped data centers",
-   "dek": "The board delayed an ordinance limiting data center size and location. Nearby homeowners gain more time to organize against projects that could strain local roads and wells. Final rules remain months away.",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMWswM2dPU19iV3RNSEhPdm1uMkcxRHl2T3k5R21NRHlhdVlpQjRUYUVUUVgwcHpuS0lfWFJxRmVOaTlMTkF3RXpzNlZiWlF4alhEN0h2Qmk5d0RCdGZZUGg1cS1qc0J6SmdpY2x0dHpqMW5PMkh2ODdnYklBUlBwSDlSMVpvNGVl?oc=5",
-   "source": "AOL.com",
-   "region": "north",
-   "cat": "STATEWIDE",
-   "county": "Leelanau",
-   "tag": "Local Government",
-   "iso": "2026-07-17T04:52:08Z",
-   "id": "3e3d087e3eac",
-   "origin": "google-news",
-   "source_title": "Solon Township board tables ordinance proposal to limit data centers - AOL.com",
-   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMWswM2dPU19iV3RNSEhPdm1uMkcxRHl2T3k5R21NRHlhdVlpQjRUYUVUUVgwcHpuS0lfWFJxRmVOaTlMTkF3RXpzNlZiWlF4alhEN0h2Qmk5d0RCdGZZUGg1cS1qc0J6SmdpY2x0dHpqMW5PMkh2ODdnYklBUlBwSDlSMVpvNGVl?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {

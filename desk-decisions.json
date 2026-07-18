@@ -1280,6 +1280,27 @@
    "at": "2026-07-18T08:24:11+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Already killed as 'Protesters set July 18 rallies against Michigan data centers' — same event, national framing doesn't change it."
+  },
+  {
+   "url": "https://dailyenergyinsider.com/news/53068-michigan-governor-unveils-action-plan-to-make-data-centers-pay-their-own-way/",
+   "title": "Whitmer Plan: Data Centers Must Pay Full Costs or Families See No Rate Hikes",
+   "at": "2026-07-18T10:03:25+00:00",
+   "by": "news_judge",
+   "note": "score 4/10, duplicate: This is the same Whitmer plan requiring data centers to cover their own costs that was already killed multiple times in different wordings."
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/hyperscale-data-begins-installation-of-omnipresent-robotics-opr-r2-robots-at-michigan-ai-facility-302828282.html",
+   "title": "First Robot Assembled at Michigan AI Campus to Gather Training Data",
+   "at": "2026-07-18T10:03:25+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: Robot installation at the Michigan facility was already killed twice as 'Hyperscale Data starts robot work/installation at Michigan site.'"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVXZsNTZFMkZBTkNrZzY4ZEJuRlE0WHhQWnZMNW5vdkpGU29UeDhwN0dnNWlXQ0dGaWd2SzNobENPem5YdXlhU3p0WE11X0hsTXY1QjJtQ0RrVmZ5bDZObzgxU3NLQ0FKVTBnOE80UTFFbE9lQlY4S1l5NzJkY1lZQ25SX2NpcFRJQmU2aVRrMEVIemtYZjA0?oc=5",
+   "title": "Warren eyes data center pause after summer blackouts hit residents",
+   "at": "2026-07-18T10:03:25+00:00",
+   "by": "news_judge",
+   "note": "score 5/10: Warren's data center pause was already live ('Warren eyes 6-month data center ban to study grid strain'), but this adds the new angle of summer blackouts as the"
   }
  ],
  "auto_published": [
@@ -1828,6 +1849,12 @@
    "title": "Oracle wins unlimited tax break on $43B Ann Arbor-area campus",
    "judge_score": 9,
    "at": "2026-07-18T06:31:35Z"
+  },
+  {
+   "url": "https://www.calcalistech.com/ctechnews/article/r1yve0pvfl",
+   "title": "Saline Township Locals Resist $16B Stargate Data Center Over Water and Farmland",
+   "judge_score": 6,
+   "at": "2026-07-18T10:03:25Z"
   }
  ]
 }
