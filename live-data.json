@@ -1,7 +1,41 @@
 {
- "updated_at": "2026-07-18T18:33:02Z",
+ "updated_at": "2026-07-18T19:46:18Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "House Speaker stalls Andrews data-center guardrail bill",
+   "dek": "Legislation that would set statewide rules on data-center siting, power use and tax breaks remains bottled up. Sponsors say the delay leaves townships without tools to manage rapid growth. The bill had bipartisan support before the hold.",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTHJ1bHJFTE5fbTdwRDM0VVdrNG5ESjdHOU9oWVBtQVJXX21UMkN2OGtmTHlENGhDQ1liQUttekwweE1ERW9SMEliNG9YdkgtTWxKUi1HYTYtcjhnYV9tdldmVzZTWVFjbnRJT2pSVE9takpraUdRM0JuVXhyLTVGXzk1ZGM4aHQxcFpleEgzbm5RRHdSOFhLY2FLOHN5QU5CS2tld0U2dmZ5UQ?oc=5",
+   "source": "Moody on the Market",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Policy",
+   "iso": "2026-07-18T19:01:02Z",
+   "id": "ae7ae652058f",
+   "origin": "google-news",
+   "source_title": "Andrews: data center guardrail legislation being held up by House Speaker - Moody on the Market",
+   "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTHJ1bHJFTE5fbTdwRDM0VVdrNG5ESjdHOU9oWVBtQVJXX21UMkN2OGtmTHlENGhDQ1liQUttekwweE1ERW9SMEliNG9YdkgtTWxKUi1HYTYtcjhnYV9tdldmVzZTWVFjbnRJT2pSVE9takpraUdRM0JuVXhyLTVGXzk1ZGM4aHQxcFpleEgzbm5RRHdSOFhLY2FLOHN5QU5CS2tld0U2dmZ5UQ?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
+  {
+   "title": "Utility faces questions on power, water for west Michigan's first major AI campus",
+   "dek": "The utility will explain how it will serve a large Microsoft AI campus in Kent County at a public hearing this week. Neighbors are already questioning added strain on the local grid and water supply. The project would be one of the first major AI facilities in west Michigan.",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQcWo4Rm41SjMybm15V01wamJVLW5nMUJNS2ZSSXBjVGhZWWZycEFkQVpzSllLemVWTlUtTnJ2dFNzdkw5cUFTaEo5bGpzSFZ1S3ZhdTFsTFJzRmFvbHBuZ01yTy05R0xUUDJLeFlsWnhhZ0drZldyYjlDanVyVTJDTTU1QkxISk5ZbVg3SG5xRXpacDBMWGEtUVFya2lJM3YxWUlEcU4tbkdrYjJHeS1tZFpvOENpNUZZQnVna09hZ2daQy00VnJJY0I5R3RQcHFTM3VLSzNMMWppSXFHOGFSWFpHcFNVVkZkSzZrcGE5ekRjdkpvUC02VE0xczQyVG5BWFlfeg?oc=5",
+   "source": "MSN",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Kent",
+   "tag": "Power & Grid",
+   "iso": "2026-07-18T17:58:23Z",
+   "id": "910ab53501bf",
+   "origin": "google-news",
+   "source_title": "Consumers Energy on Microsoft AI data center in Gaines Township ahead of public hearing - MSN",
+   "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQcWo4Rm41SjMybm15V01wamJVLW5nMUJNS2ZSSXBjVGhZWWZycEFkQVpzSllLemVWTlUtTnJ2dFNzdkw5cUFTaEo5bGpzSFZ1S3ZhdTFsTFJzRmFvbHBuZ01yTy05R0xUUDJLeFlsWnhhZ0drZldyYjlDanVyVTJDTTU1QkxISk5ZbVg3SG5xRXpacDBMWGEtUVFya2lJM3YxWUlEcU4tbkdrYjJHeS1tZFpvOENpNUZZQnVna09hZ2daQy00VnJJY0I5R3RQcHFTM3VLSzNMMWppSXFHOGFSWFpHcFNVVkZkSzZrcGE5ekRjdkpvUC02VE0xczQyVG5BWFlfeg?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "Augusta Twp voters face data center referendum after heated campaign",
    "dek": "Residents will decide next month whether to allow a large data center project in Augusta Township. The vote comes after weeks of protests and warnings from locals about traffic, noise and power strain near Ann Arbor. A resident urged officials to ignore social media pressure during the final stretch.",
@@ -150,40 +184,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNUNOajR0NnpJcVA5bTFiSWZwR3hYd3NLVFdiRVktcTlGQktTT09Kdmh1THRaclhaVl9IU1BOeTE3aXNnWFJFMXd4V09lQW42X3d5SF9UdU0yRUNJWWE3S2h2d19sR2NFVE9oa3l3UGFnVXB3QWo3eW9QYjFiX0ZEWmFTc29kV05FZnROZEtOQnY5SkFmLUZ3SE0wSUFzVVpwWWlzOVZGNjRXMmpXdFE?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Monroe County halts new data centers for now",
-   "dek": "Monroe County commissioners voted to pause all data-center proposals. Residents near potential sites worry about sudden spikes in power bills and water use. The temporary ban gives local officials time to study impacts before any projects advance.",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMUEpZLU4tRHNDUEFrb1JGTE9uRU4ySVhQWHp1RFVpQjFiOGVLNWdjNlF4R3dUVmJZMDE3cnVxQVVaaEowRC1OajdHcjNIeldfU1YyWTNTQzkyNEZDcXRTcGF2TzQ3b0lYM2YwUTBMVGRGd1MxUWFZcjZMVmI?oc=5",
-   "source": "The Monroe Times",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Monroe",
-   "tag": "Local Government",
-   "iso": "2026-07-17T19:01:07Z",
-   "id": "ae2736956c8b",
-   "origin": "google-news",
-   "source_title": "County approves data center pause - The Monroe Times",
-   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMUEpZLU4tRHNDUEFrb1JGTE9uRU4ySVhQWHp1RFVpQjFiOGVLNWdjNlF4R3dUVmJZMDE3cnVxQVVaaEowRC1OajdHcjNIeldfU1YyWTNTQzkyNEZDcXRTcGF2TzQ3b0lYM2YwUTBMVGRGd1MxUWFZcjZMVmI?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 9
-  },
-  {
-   "title": "Hyperscale Data faces questions on noise and power at council meeting",
-   "dek": "Company officials answered resident concerns about noise and electricity use at a city council session. Neighbors in the Herald Palladium coverage area pressed for details on backup generators and cooling systems. The session gave the public its first direct look at the project's local footprint.",
-   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNRTlhdS1lWG9YOHNWbUhENWdELThrblhtZkxyZXNBclJkVk0wdjEtT25UcFdPVktUSGx1cE5uZ3g4WGtObzhrY2JaTzdQOWtrYXF6M0RXOEp3Uk10WE5hVVUwZXQwa3ktT29Bc1c2Qmw5bHNnWHFncVViZWJUM1o1ZUk4VUpjbEtYWEpKSU5HcExRZWJfYUNPNlhIemR6S2w5MDdLRk8zVTlXWm14SS03eE1VaDNfc1JseWVyY0tGZ0xCT0NKUjJIRG1aSGFEdEVzcEt6NWJVeXE1bTFjZm9vdXFfd3NycEVENE94eUNnd1gzSGNXalJkc1JsMHVMMG9GV0Jpd1EzWXR2WHF0ZEVtVncxS3JTVE0?oc=5",
-   "source": "The Herald Palladium",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Berrien",
-   "tag": "Local Government",
-   "iso": "2026-07-17T18:45:01Z",
-   "id": "f8a0fc5a7fb8",
-   "origin": "google-news",
-   "source_title": "Hyperscale Data Center addresses community concerns at city council meeting - The Herald Palladium",
-   "source_url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNRTlhdS1lWG9YOHNWbUhENWdELThrblhtZkxyZXNBclJkVk0wdjEtT25UcFdPVktUSGx1cE5uZ3g4WGtObzhrY2JaTzdQOWtrYXF6M0RXOEp3Uk10WE5hVVUwZXQwa3ktT29Bc1c2Qmw5bHNnWHFncVViZWJUM1o1ZUk4VUpjbEtYWEpKSU5HcExRZWJfYUNPNlhIemR6S2w5MDdLRk8zVTlXWm14SS03eE1VaDNfc1JseWVyY0tGZ0xCT0NKUjJIRG1aSGFEdEVzcEt6NWJVeXE1bTFjZm9vdXFfd3NycEVENE94eUNnd1gzSGNXalJkc1JsMHVMMG9GV0Jpd1EzWXR2WHF0ZEVtVncxS3JTVE0?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {
