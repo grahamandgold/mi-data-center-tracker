@@ -1,18 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.uppermichiganssource.com/2026/07/07/delta-county-planning-commission-approves-data-center-moratorium/",
-   "title": "Delta County Planners Approve Year-Long Pause on Data Centers and Crypto Mining",
-   "at": "2026-07-08T21:20:32Z"
-  },
-  {
-   "url": "https://www.detroitnews.com/story/business/2026/07/07/big-tech-data-centers-power-bills-rust-belt-factories/90836548007/",
-   "title": "Big Tech Data Centers Drive Up Power Bills at America's Rust Belt Factories",
-   "at": "2026-07-08T21:24:40+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: National trend piece about Rust Belt factory power costs that mentions Michigan but lacks specific Michigan developments, decisions, or data points; overlaps th"
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTXdCODBYV2ZCSjhBYk54eG9SRlhETFRld3JCZmJlUnlLQm1veWdKa1hWTng5ZmQtMGtMVi1WVWxiLWhpblhVdmRIWG1ndEVRTUpyQmR0UXJQWGJQNG9OaGVPZWhHX0I2eWJrMFdXLVRsU0xKWlU1R3ByTmJuUmp5VU9TTkk3Rk9UQmpMNmt0SEVMOUhwUmExYUo2M3Q2ekFJM0hJWV9BeFVfYW1GWTJjdy1PcHh1Zw?oc=5",
    "title": "Michigan couple blames AI data center hum for ruining home life",
    "at": "2026-07-08T21:54:38+00:00",
@@ -1395,6 +1383,20 @@
    "at": "2026-07-19T15:05:45+00:00",
    "by": "news_judge",
    "note": "score 4/10: Protest announcement is forward-looking event promotion rather than a concrete development; lacks the substance of a filing, vote, or official action."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iMElwWGgxZDdpWDI5MDNabmVPaWJrc3F2ekFjNTlCOF9yMUdFazZUNmRxSFd2OGlxQlRsbHhuUGhMeHpwQmt1Rkh6MmdWcWhrNXphNV9B?oc=5",
+   "title": "Trump voter calls data centers the top issue in Michigan Senate race",
+   "at": "2026-07-19T18:33:47+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Single voter anecdote about an issue becoming important is thin sourcing and speculative political analysis, not a concrete development."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYmZ0aHVCNnZEVnJQc2xXR2pETEtrWGxwZFZfMUMzQkg3enlGVk4xcC0ybmdmMVJmeVVoc2VES2FlNUFVQlpjZmxZc3VZY1h0T2NPdTFiN2tpU1diSHZmZnFqcVZIWndzTlBYQ0IySENMT19QMW1qaXJhLVF0WFFobGdKODBuQVQySVlUT0NyLXp1Q0Y2MkRyY1EyMHFma3p0VmgyWGtxMWJaVlUzY2lNUEZFSQ?oc=5",
+   "title": "Michigan energy prices become key issue for both parties this fall",
+   "at": "2026-07-19T18:33:47+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Broad trend piece about campaign messaging lacks specific filings, statements, or events; too general to merit Michigan data-center tracker coverage."
   }
  ],
  "auto_published": [
