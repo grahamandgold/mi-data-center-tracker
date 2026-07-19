@@ -1,27 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTXdCODBYV2ZCSjhBYk54eG9SRlhETFRld3JCZmJlUnlLQm1veWdKa1hWTng5ZmQtMGtMVi1WVWxiLWhpblhVdmRIWG1ndEVRTUpyQmR0UXJQWGJQNG9OaGVPZWhHX0I2eWJrMFdXLVRsU0xKWlU1R3ByTmJuUmp5VU9TTkk3Rk9UQmpMNmt0SEVMOUhwUmExYUo2M3Q2ekFJM0hJWV9BeFVfYW1GWTJjdy1PcHh1Zw?oc=5",
-   "title": "Michigan couple blames AI data center hum for ruining home life",
-   "at": "2026-07-08T21:54:38+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicate of killed story 'Dowagiac Residents Report Persistent Noise' — same anecdotal noise complaint angle already rejected."
-  },
-  {
-   "url": "https://therealnews.com/in-a-divided-country-u-s-residents-agree-on-one-thing-no-data-centers",
-   "title": "Americans Across Political Lines Unite in Opposition to New Data Centers",
-   "at": "2026-07-08T22:08:26+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece about survey results with no Michigan-specific action or development."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeWszS2ZoYlM2Rk9jVEZreVNGZkRyaEpiX01ZaHptUmFYV2NEbUNxLXg0a2JBVVFqUWRmRGtLd0FWdUZ2aDg1MTZtSVUycDd1OVZiV2xnZm83OGprMVV3TlZQQUZfRGp3VDlEbDE0dHJycF9wVEhBelgzTzRCWmFWZDNRbElHWnV3TjhYb1lzald1TEsyUnc4Y29nd2UxYmhpdENZd25NUTNOZ0VNSmxwRERNOHpuenFvOEVLTXdtTkw?oc=5",
-   "title": "Michigan researchers push case-by-case review of every data-center tax deal",
-   "at": "2026-07-08T22:18:38+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Generic academic advice without a specific filing, vote, or policy action; reads like expert commentary on existing trend."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9UakhubXR5c2l4aUhuQnRHWmR2YjlXUHJDTnMxNVJRWUtYRkdsSmt3UTQ3dVpsSnlJMlhTY1VKa3NNZzRsblY1OEZoWnF4QQ?oc=5",
    "title": "Coldwater planners begin writing permanent data-center zoning rules",
    "at": "2026-07-08T22:18:38+00:00",
@@ -1397,6 +1376,27 @@
    "at": "2026-07-19T18:33:47+00:00",
    "by": "news_judge",
    "note": "score 4/10: Broad trend piece about campaign messaging lacks specific filings, statements, or events; too general to merit Michigan data-center tracker coverage."
+  },
+  {
+   "url": "https://bridgemi.com/michigan-government/progressives-rally-for-abdul-el-sayed-4-takeaways-from-bernie-sanders-aoc/",
+   "title": "Sanders and Ocasio-Cortez Rally for El-Sayed, Hit Corporate Spending",
+   "at": "2026-07-19T23:02:29+00:00",
+   "by": "news_judge",
+   "note": "score 2/10: Campaign rally coverage with no connection to data centers or the Michigan Data Center Tracker's beat."
+  },
+  {
+   "url": "https://michiganadvance.com/2026/07/19/in-michigan-the-price-of-energy-is-on-the-ballot-and-both-parties-know-it/",
+   "title": "Gas Prices and Energy Costs Drive Midterm Frustration in Michigan",
+   "at": "2026-07-19T23:02:29+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Generic energy-cost election story that mentions clean energy but lacks any specific data-center angle or development."
+  },
+  {
+   "url": "https://www.politico.com/news/2026/07/19/a-better-way-to-be-relevant-greens-embrace-data-center-fight-01000250",
+   "title": "Major Environmental Groups Join Fights Over Data Center Expansion Nationwide",
+   "at": "2026-07-19T23:02:29+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece about environmental groups and data centers with no Michigan-specific development, filing, or action."
   }
  ],
  "auto_published": [
