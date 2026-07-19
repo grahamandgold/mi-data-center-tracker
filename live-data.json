@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-19T19:47:36+00:00",
+ "updated_at": "2026-07-19T21:02:13Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Whitmer tells data centers they must follow new state growth rules",
+   "dek": "The governor unveiled the Michigan Affordable and Responsible Growth Action Plan, which sets siting, power, and water standards for future data centers. Companies that refuse to comply risk losing state incentives. The plan arrives amid rising local pushback over utility bills and farmland loss.",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13a1VwSlhxRGFOb09odk0xSUZoOFpBbkdGcGg4QzJ0bnFjemhKUUxYSFlwX3hBVFpUQmFkam5sVXF5UnF0LWRRcmtpMGRmSklyOGUwcTlyeXFhYlVQX3YwRw?oc=5",
+   "source": "Big Rapids Daily News",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Policy",
+   "iso": "2026-07-19T19:17:55Z",
+   "id": "ba186b5baf8d",
+   "origin": "google-news",
+   "source_title": "Gov. Whitmer launches Michigan Affordable and Responsible Growth Action Plan, calls on data centers to comply - Big Rapids Daily News",
+   "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13a1VwSlhxRGFOb09odk0xSUZoOFpBbkdGcGg4QzJ0bnFjemhKUUxYSFlwX3hBVFpUQmFkam5sVXF5UnF0LWRRcmtpMGRmSklyOGUwcTlyeXFhYlVQX3YwRw?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 9
+  },
   {
    "title": "Dowagiac residents sue hyperscale data center over nonstop noise",
    "dek": "A lawsuit filed in Cass County claims the Dowagiac data center is generating constant, disruptive noise that is harming nearby homes. Residents say the facility has already altered daily life in the small southwest Michigan community. The case puts a spotlight on how local governments approve large projects without strong noise protections.",
@@ -167,23 +184,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTnpZSVlZREx3aHZxZEp5dDU2VzBXRlFJdkZRWW9EMnNMT3BvWkl3Y3lVMi11MkQzUlRtc1pRaUotWFk4ckRBeF9lMWFkekttMERQWnJzSTVTTkVxamhPN1VlQXNXYnZKeFVfRkpLT2RZZ21UT1loaEQ2aEFqMUotOElqRWNTQQ?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
-  },
-  {
-   "title": "Hagar Township bans new data centers for at least a year",
-   "dek": "Supervisors in Hagar Township approved a one-year moratorium on data-center proposals. The move gives residents time to study noise, water use, and power impacts before any project advances. Nearby property owners now have a temporary shield from large-scale development.",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTWZYYUlFWUdNT2NxZi1FZmNNbC10YVBaS09uU3pSZDVhc2dOQU5xeGxVbFdRVkdJcG1Tc2N6UDBjZkZVcW4zRGdtakNXS3d4SW5KbU5UVzJ4bC1sZXh6QThLNUV0Y2N5MWJJcjN6Wl9Pd0NVcVVjU0hodnl1d1g0Wm5EeVpCdw?oc=5",
-   "source": "WSJM",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Berrien",
-   "tag": "Local Government",
-   "iso": "2026-07-18T01:07:30Z",
-   "id": "dbbba4a31c31",
-   "origin": "google-news",
-   "source_title": "Hagar Township approves data center moratorium - WSJM",
-   "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTWZYYUlFWUdNT2NxZi1FZmNNbC10YVBaS09uU3pSZDVhc2dOQU5xeGxVbFdRVkdJcG1Tc2N6UDBjZkZVcW4zRGdtakNXS3d4SW5KbU5UVzJ4bC1sZXh6QThLNUV0Y2N5MWJJcjN6Wl9Pd0NVcVVjU0hodnl1d1g0Wm5EeVpCdw?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 9
   }
  ],
  "national": {
