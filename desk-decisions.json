@@ -1,11 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.vice.com/en/article/a-michigan-couple-says-a-nearby-ai-data-centers-constant-hum-is-ruining-their-home/",
-   "title": "Dowagiac Residents Report Persistent Noise From Nearby Data Center Disrupting Daily Life",
-   "at": "2026-07-08T16:29:08Z"
-  },
-  {
    "url": "https://example.com/national-data-center-surge",
    "title": "U.S. Data Center Power Demand Surges as Tech Giants Accelerate AI Infrastructure Buildout",
    "at": "2026-07-08T16:29:48Z"
@@ -1387,6 +1382,13 @@
    "at": "2026-07-19T06:39:36+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Duplicate of already-live 'Warren Freezes New Data Centers After Storms Down 60+ Power Lines' and killed 'Warren eyes data center pause after summer blackouts h"
+  },
+  {
+   "url": "https://bridgemi.com/guest-commentary/opinion-michigan-cant-afford-a-blanket-moratorium-on-data-centers/",
+   "title": "Blanket Moratorium on Data Centers Would Harm Michigan Economy, Opinion Argues",
+   "at": "2026-07-19T12:04:18+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Opinion piece offering general economic argument against moratoriums rather than reporting a concrete development, decision, or filing."
   }
  ],
  "auto_published": [
