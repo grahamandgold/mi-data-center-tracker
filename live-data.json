@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-19T03:40:33+00:00",
+ "updated_at": "2026-07-19T06:39:36Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Dowagiac residents sue hyperscale data center over nonstop noise",
+   "dek": "A lawsuit filed in Cass County claims the Dowagiac data center is generating constant, disruptive noise that is harming nearby homes. Residents say the facility has already altered daily life in the small southwest Michigan community. The case puts a spotlight on how local governments approve large projects without strong noise protections.",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jY3VpRHk5UEVwV3MzVVEyWXBIbldmRndLTlpWYnN2QnBTNXMzTXJpZ25HUkM4NGRhMFNTZ3Nra1VyeWFmVW93dlhFOEVnWlBrV2RFS0ItZWl4Zw?oc=5",
+   "source": "Detroit Free Press",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Cass",
+   "tag": "Local Government",
+   "iso": "2026-07-19T01:14:18Z",
+   "id": "f9008f0ddf07",
+   "origin": "google-news",
+   "source_title": "Dowagiac data center noise sparks lawsuit - Detroit Free Press",
+   "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jY3VpRHk5UEVwV3MzVVEyWXBIbldmRndLTlpWYnN2QnBTNXMzTXJpZ25HUkM4NGRhMFNTZ3Nra1VyeWFmVW93dlhFOEVnWlBrV2RFS0ItZWl4Zw?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "Vicksburg residents rally against planned data-center projects",
    "dek": "Dozens turned out for a peaceful protest highlighting concerns over noise, traffic and strain on local utilities. The demonstration is the latest sign of growing pushback in Kalamazoo County townships. Organizers say more actions are planned if proposals advance.",
@@ -167,23 +184,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTWZYYUlFWUdNT2NxZi1FZmNNbC10YVBaS09uU3pSZDVhc2dOQU5xeGxVbFdRVkdJcG1Tc2N6UDBjZkZVcW4zRGdtakNXS3d4SW5KbU5UVzJ4bC1sZXh6QThLNUV0Y2N5MWJJcjN6Wl9Pd0NVcVVjU0hodnl1d1g0Wm5EeVpCdw?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 9
-  },
-  {
-   "title": "Warren eyes 6-month data center ban to study grid strain",
-   "dek": "Macomb County officials are weighing a temporary halt on new data centers while they assess power and water demands. Residents could face higher utility bills if large facilities come online without new safeguards. The council discussion signals growing local pushback against rapid buildouts.",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYXZ4NmxtQXp5bzdScmhUWkNiX0tUZFVLTE9MeUdULThlQW5nYjNOdE1KUjEyOHBrV0lRX0FYVTI3dmxSOTBzY3ctcXVRMjFfSzZ4V3VCcTlFUDE1dXhUeWlwV053OFIydWc1eWc2c1lqNzhwbm40bFhybVoybHBZY3FBWDhFZ0FHNUVB?oc=5",
-   "source": "AOL.com",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Macomb",
-   "tag": "Local Government",
-   "iso": "2026-07-17T23:29:11Z",
-   "id": "2ca7dd48d498",
-   "origin": "google-news",
-   "source_title": "Warren council could consider a temporary data center moratorium - AOL.com",
-   "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYXZ4NmxtQXp5bzdScmhUWkNiX0tUZFVLTE9MeUdULThlQW5nYjNOdE1KUjEyOHBrV0lRX0FYVTI3dmxSOTBzY3ctcXVRMjFfSzZ4V3VCcTlFUDE1dXhUeWlwV053OFIydWc1eWc2c1lqNzhwbm40bFhybVoybHBZY3FBWDhFZ0FHNUVB?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {

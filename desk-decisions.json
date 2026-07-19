@@ -1,11 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://x.com/NikosMohammadi/status/2074659870855381144",
-   "title": "Haley Stevens non-answer on data centers prompts essay reference",
-   "at": "2026-07-08T14:35:54Z"
-  },
-  {
    "url": "https://www.vice.com/en/article/a-michigan-couple-says-a-nearby-ai-data-centers-constant-hum-is-ruining-their-home/",
    "title": "Dowagiac Residents Report Persistent Noise From Nearby Data Center Disrupting Daily Life",
    "at": "2026-07-08T16:29:08Z"
@@ -1385,6 +1380,13 @@
    "at": "2026-07-18T22:58:31+00:00",
    "by": "news_judge",
    "note": "score 4/10, duplicate: Duplicate of already-live 'House Speaker stalls Andrews data-center guardrail bill' — same stalled legislation, just adds a quote from Andrews but reports no ne"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOS2pELVpCbUhjXzZEVkdCd1lGZjVyT1JCUFdzR005U2hzMlVZR3o5MEk2UlpqYmprLWIwWlZZUHdGM29tNjRmNHNiT1ZiTmFfcnd2ZTA4UlF0aG9XNzNHTDBrQ0RqYkQyLWJ0bjdrSkNROTdZYjdOREhsNEdISU0zYUtXbHVWNUJ0eURVMVBJbmpqTkRobVhnODNZOThPNDR0VVNMTWJyMXUtdUVacVFhU00tamd0R2JLZ2FNaUJsdVplYkdVSkdkLTlSaTJpOE5OVzR4aHpKX0xFcjBm?oc=5",
+   "title": "Warren weighs data-center pause after July power outages hit homes",
+   "at": "2026-07-19T06:39:36+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicate of already-live 'Warren Freezes New Data Centers After Storms Down 60+ Power Lines' and killed 'Warren eyes data center pause after summer blackouts h"
   }
  ],
  "auto_published": [
@@ -1969,6 +1971,12 @@
    "title": "Vicksburg residents rally against planned data-center projects",
    "judge_score": 6,
    "at": "2026-07-18T21:01:48Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jY3VpRHk5UEVwV3MzVVEyWXBIbldmRndLTlpWYnN2QnBTNXMzTXJpZ25HUkM4NGRhMFNTZ3Nra1VyeWFmVW93dlhFOEVnWlBrV2RFS0ItZWl4Zw?oc=5",
+   "title": "Dowagiac residents sue hyperscale data center over nonstop noise",
+   "judge_score": 8,
+   "at": "2026-07-19T06:39:36Z"
   }
  ]
 }
