@@ -1,16 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://example.com/national-data-center-surge",
-   "title": "U.S. Data Center Power Demand Surges as Tech Giants Accelerate AI Infrastructure Buildout",
-   "at": "2026-07-08T16:29:48Z"
-  },
-  {
-   "url": "https://www.foxcarolina.com/video/2026/07/07/public-hearing-future-data-centers/",
-   "title": "Greenwood County Holds Public Hearing on Data Center Regulations",
-   "at": "2026-07-08T19:17:43Z"
-  },
-  {
    "url": "https://www.wkar.org/2026-07-07/data-centers-on-the-fast-track-have-officials-racing-to-catch-up-and-offer-regulations",
    "title": "Lawmakers in 20+ States Propose Rules on Data Centers Amid Local Pushback",
    "at": "2026-07-08T19:28:20Z"
@@ -1389,6 +1379,20 @@
    "at": "2026-07-19T12:04:18+00:00",
    "by": "news_judge",
    "note": "score 3/10: Opinion piece offering general economic argument against moratoriums rather than reporting a concrete development, decision, or filing."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTDRCSEo4VkRIWThhSURrbVNWWGlwb1pOUW9FWTkzRVRHaVI1aEFDSmR0Znl5WGNMNHYteVdFeDhUZG9RV1R2bnloZU1LeXUydm9LRnQwZGVnTjZDV3c0V1Rnd3pfXzVUVVVkQ2lRblhNb3BsOVVUb3VpX3pLajAyQ294YlA5YUNkbWJJQ0RoYUhuTkVDZU8yMVRRRFdObzFPblFPTzZYNHJ5c3JUeE54aXRsaDI3RF9VSklqVmUyT3JNUFQ0VUo1VURR?oc=5",
+   "title": "Genesee County fight over AI data center drags into summer",
+   "at": "2026-07-19T13:47:18+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Ongoing opposition with no new decision, vote, or filing—just continued meetings and resident concerns without concrete action."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQcWlXRDFDVnNqb2dSb3VGOEpSMDF6RV9lalNuRUt1NGFfVWRWSmFfemRfVnFrWkljNU1WcGxGTnhDYWVzZ2lZUFhCcm8tbExtUG90Nmc3a05ETi1ib1hrY21DNzJuTXRZc0ZMTEQ0eHllbWNZamdQZTRsS0hSMWFVVHpfSnVQdjJtUDdNemtVN2ZMY3hVRUs5TURXWE4tODhONVVTNTRDRzd2YmhCNlRvXzJJVTVOS3VPZlZXSEtrYjY4el9NelI0RDU0V1FOZTFHcEZjMERQUzA5UThHSXJYbExuNXZQZ3NYVF9jY1BkMmRWRFlXdHB3bGw4Ym5WbkFhQTVoZjVVVFJ3Smx5c3NWTHZGUzRuOXoyVnV6aUFBdHdyb1pLN0UzeUZJaGY5Q2p4NzRqTkhYXzlhaDVlb0hJTmxCN2xaLTVNOG52clhxUzNJZHRLNlM5NmxiakVYRXhOWEhfdQ?oc=5",
+   "title": "Saline flips, hands Oracle full 12-year tax break on $43B campus",
+   "at": "2026-07-19T13:47:18+00:00",
+   "by": "news_judge",
+   "note": "score 9/10, duplicate: Same Oracle tax-break reversal already covered in 'Oracle wins unlimited tax break' and 'Township removes cap on Oracle property tax exemption'—identical event,"
   }
  ],
  "auto_published": [
