@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-20T00:05:35+00:00",
+ "updated_at": "2026-07-20T03:59:05Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Mason residents raise cash to fight proposed data center",
+   "dek": "A local group in Ingham County is hosting a fundraiser to push back against a data center project. Residents worry about noise, power strain and lost farmland near their homes. The effort shows growing organized opposition in mid-Michigan communities facing similar proposals.",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWHNNVFRCYkdxUnhlWm1uSWJIY0R4VXBtdm5xTUN6ejUtOWw4amdaSUhpbHhZYzNPQnVjRTBQdjFkZDlvbUNTUkdRZDJlbjZqSmdNTkYyZTN0RUNvalllZmRXT01QeWtCNDdqTlVlLTVLdk5xb2UtX2NLWmdhbjA1WkZzTlNMajZlQ2dSZUp3aktKZkszdFF0NTZuYnE1cjFoYXBSVnVPSVhLR2fSAasBQVVfeXFMTVhzTVRUQmJHcVJ4ZVptbkliSGNEeFVwbXZucU1Deno1LTlsOGpnWklIaWx4WWMzT0J1Y0UwUHYxZGQ5b21DU1JHUWQyZW42akpnTU5GMmUzdEVDb2pZZWZkV09NUHlrQjQ3ak5VZS01S3ZOcW9lLV9jS1pnYW4wNVpGc05TTGo2ZUNnUmVKd2pLSmZLM3RRdDU2bmJxNXIxaGFwUlZ1T0lYS0dn?oc=5",
+   "source": "WILX",
+   "region": "mid",
+   "cat": "STATEWIDE",
+   "county": "Ingham",
+   "tag": "Local Government",
+   "iso": "2026-07-20T01:20:00Z",
+   "id": "8ee68448d57e",
+   "origin": "google-news",
+   "source_title": "Mason group holds fundraiser to oppose data center development - WILX",
+   "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWHNNVFRCYkdxUnhlWm1uSWJIY0R4VXBtdm5xTUN6ejUtOWw4amdaSUhpbHhZYzNPQnVjRTBQdjFkZDlvbUNTUkdRZDJlbjZqSmdNTkYyZTN0RUNvalllZmRXT01QeWtCNDdqTlVlLTVLdk5xb2UtX2NLWmdhbjA1WkZzTlNMajZlQ2dSZUp3aktKZkszdFF0NTZuYnE1cjFoYXBSVnVPSVhLR2fSAasBQVVfeXFMTVhzTVRUQmJHcVJ4ZVptbkliSGNEeFVwbXZucU1Deno1LTlsOGpnWklIaWx4WWMzT0J1Y0UwUHYxZGQ5b21DU1JHUWQyZW42akpnTU5GMmUzdEVDb2pZZWZkV09NUHlrQjQ3ak5VZS01S3ZOcW9lLV9jS1pnYW4wNVpGc05TTGo2ZUNnUmVKd2pLSmZLM3RRdDU2bmJxNXIxaGFwUlZ1T0lYS0dn?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
   {
    "title": "Whitmer tells data centers they must follow new state growth rules",
    "dek": "The governor unveiled the Michigan Affordable and Responsible Growth Action Plan, which sets siting, power, and water standards for future data centers. Companies that refuse to comply risk losing state incentives. The plan arrives amid rising local pushback over utility bills and farmland loss.",
@@ -167,23 +184,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZF9IdmVfNzZRWEgyV0VKU3JUb0VYbS1kUmxlUlFnSmFHOVE5N0FSY19YWFZPd0EtaWNRd19WZndFNjBON1lZR21iN1NvRUFaYjdvbDNmX2JQY1V2SGVVSDBlZE5ISnBMZDVibkNiRm9oX3MzOVVGVEUwOHNmdWVIa2pvVk1CcWVPWHBYRkM2TlFYUGdTZ2c?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 9
-  },
-  {
-   "title": "NY moratorium threatens Genesee County's STAMP data-center plans",
-   "dek": "New York's pause on large data centers could block or delay the STAMP project that Genesee County has counted on for jobs and tax base growth. Local officials are watching whether the site loses its competitive edge to other states. The outcome affects hundreds of planned construction and operations jobs.",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTnpZSVlZREx3aHZxZEp5dDU2VzBXRlFJdkZRWW9EMnNMT3BvWkl3Y3lVMi11MkQzUlRtc1pRaUotWFk4ckRBeF9lMWFkekttMERQWnJzSTVTTkVxamhPN1VlQXNXYnZKeFVfRkpLT2RZZ21UT1loaEQ2aEFqMUotOElqRWNTQQ?oc=5",
-   "source": "AOL.com",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Genesee",
-   "tag": "Policy",
-   "iso": "2026-07-18T01:21:02Z",
-   "id": "ed617f5ecd99",
-   "origin": "google-news",
-   "source_title": "Hochul data center moratorium could affect Genesee Co. STAMP project - AOL.com",
-   "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTnpZSVlZREx3aHZxZEp5dDU2VzBXRlFJdkZRWW9EMnNMT3BvWkl3Y3lVMi11MkQzUlRtc1pRaUotWFk4ckRBeF9lMWFkekttMERQWnJzSTVTTkVxamhPN1VlQXNXYnZKeFVfRkpLT2RZZ21UT1loaEQ2aEFqMUotOElqRWNTQQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {
