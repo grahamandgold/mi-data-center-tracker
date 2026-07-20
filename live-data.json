@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-20T12:35:26+00:00",
+ "updated_at": "2026-07-20T14:53:23Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Manchester grants data center tax break after slashing request by 89%",
+   "dek": "The project will still receive local tax relief despite being scaled back sharply from the original ask. Residents in Manchester and surrounding Washtenaw County will see less revenue than developers first sought. The decision locks in long-term fiscal impacts for schools and township services.",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNnVpNkpEUGpwZXNQUWh6UjNOUjBINWk3UnlQTXdvMS03aFRTZWVSVGVXVjZiMnl6QVJGcm1laWlORnd2Q1d4UXcxdFBXUWtsV3pENUtHZG9wZzROX2g4amFvN2U0aU9ObnEwRmVIRFJCY0xHdzlMZUVwdFJ4dGdPVTN4VXlZUG1MR000d2FMX2lCZTRrdUdpVHpEYVFUbXpsLV9OejVvUGg5UW16X0RwTDhXbW5kV3hoM2Nr?oc=5",
+   "source": "The Manchester Mirror",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Money",
+   "iso": "2026-07-20T14:43:40Z",
+   "id": "43537ad8a54f",
+   "origin": "google-news",
+   "source_title": "Massive data center wins local tax break — but 9 times smaller than requested - The Manchester Mirror",
+   "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNnVpNkpEUGpwZXNQUWh6UjNOUjBINWk3UnlQTXdvMS03aFRTZWVSVGVXVjZiMnl6QVJGcm1laWlORnd2Q1d4UXcxdFBXUWtsV3pENUtHZG9wZzROX2g4amFvN2U0aU9ObnEwRmVIRFJCY0xHdzlMZUVwdFJ4dGdPVTN4VXlZUG1MR000d2FMX2lCZTRrdUdpVHpEYVFUbXpsLV9OejVvUGg5UW16X0RwTDhXbW5kV3hoM2Nr?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "Mason residents raise cash to fight proposed data center",
    "dek": "A local group in Ingham County is hosting a fundraiser to push back against a data center project. Residents worry about noise, power strain and lost farmland near their homes. The effort shows growing organized opposition in mid-Michigan communities facing similar proposals.",
@@ -165,23 +182,6 @@
    "origin": "google-news",
    "source_title": "Township changes course, nixing cap on tax break for $43B Oracle, OpenAI data center near Ann Arbor - MLive.com",
    "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcUdQVEhwWHIyVkF2MzJKNmlMSGY4N25nekxNNFBSQ3BCSG5GM1BfZWJZRnM0Yi1zRmpzVjMwQ19fTnBSN1o3Ylp5VG9PemhKTGhwa19mMUFJZERuclhydWx0YXBFbGxKT2NsYkN6bldfUFNsVkpIWU4wUGZMVnF0cTFabUVZQ09hOWxkNEZsVG9GRGpEYlZ6RGlCYzB3YUxERDY4WjFxTWRuTXVLSjBZV2NjOUZNcmcxMldMVTZFdzVOaE9ZakNSUFJDUDRDUDBrejJCWXoxU3ZEUUlpa2I3WtIB9AFBVV95cUxNYm4xazBYWnFUbERMMnVQM2pGMllhS2RXU3VZRXU3OGMyOGZxSUlybGF2TWZCOVN2aHBBN1F6a2xUUkNHa1l5TGNXZ1A0UzNCV2ZOeGpfcWFIbEFCM0JvdXRiVzNMbU52QnZlMjU4dUNhYWJyaW5QeU92X0Y3VVhNVkpsMFZrVVdudGpkY3lQZ3NSSUhKTTRJQWxCUXJMQUtEWFZWN0F0bk1ubjRPak1XYXBqTlNhc0ZzS2hhVlFqMzBpVGxOaEJzcTZqdUZnTGh0MXhUelYzRmYySVhiRWU3SzZnZDBCOFZaZEVxZEpEcEtFQlF1?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 9
-  },
-  {
-   "title": "Township removes cap on Oracle property tax exemption, risking school and road funding",
-   "dek": "Saline Township lifted the dollar cap on a proposed tax abatement for Oracle's massive data-center project. Residents could see decades of lost property-tax revenue that would otherwise fund schools and roads. The change shifts the financial stakes for Washtenaw County taxpayers.",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZF9IdmVfNzZRWEgyV0VKU3JUb0VYbS1kUmxlUlFnSmFHOVE5N0FSY19YWFZPd0EtaWNRd19WZndFNjBON1lZR21iN1NvRUFaYjdvbDNmX2JQY1V2SGVVSDBlZE5ISnBMZDVibkNiRm9oX3MzOVVGVEUwOHNmdWVIa2pvVk1CcWVPWHBYRkM2TlFYUGdTZ2c?oc=5",
-   "source": "The Sun Times News",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Money",
-   "iso": "2026-07-18T02:59:57Z",
-   "id": "e6ed6887ccac",
-   "origin": "google-news",
-   "source_title": "Saline Township Reverses $4.8 Billion Limit on Oracle Tax Break - The Sun Times News",
-   "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZF9IdmVfNzZRWEgyV0VKU3JUb0VYbS1kUmxlUlFnSmFHOVE5N0FSY19YWFZPd0EtaWNRd19WZndFNjBON1lZR21iN1NvRUFaYjdvbDNmX2JQY1V2SGVVSDBlZE5ISnBMZDVibkNiRm9oX3MzOVVGVEUwOHNmdWVIa2pvVk1CcWVPWHBYRkM2TlFYUGdTZ2c?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 9
   }
