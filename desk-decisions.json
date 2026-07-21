@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVXdTeWloWGg1c2JkVUxMeFdGNGRQam9ySVVZYTlHaEFBUUVySDdDbXVCOGNUNnF4N1o4bVdkQlNQZ2ZDYUw0YWs0VzhOQV9KN05EZGJsNnZwTnZzcm1idkwxZWcxbkVSRUVLcGtZMnAwWVZ3eXZ1c1lKZlhod1puSTN4WW4wSTVlYWc2ZXdsbTdDVjRTSGpoSU1wZUYzRUpRaE16bW1FZVRYRnVmUlYyQzFiY3BKUGhxYWdrbFFPRmNrLW9yT0E?oc=5",
-   "title": "Garfield Township moves toward year-long data-center freeze",
-   "at": "2026-07-09T17:34:46+00:00",
-   "by": "news_judge",
-   "note": "score 4/10, duplicate: Duplicate of already-live 'Hundreds pack hearing as Garfield Township pushes data-center moratorium' — same township, same moratorium action."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdzR4WVZkVEkwazNFWXBKRGNkVzRVQTB6eW9WN290MXg4U3BaSmFIZjhGc1VmRVZEdTJUc05zMklfRlRtb1YxOGQ5ejA3VWV4LWNLLVROMDI5cEhncmx0S0FWRmlLYjRnVEc2NndxMG1QQ1ZYQ2JzcHVRNkJCZkpvNVZmQld2UnlSR2FuaXQ3S1Rwdw?oc=5",
    "title": "Oracle asks Saline to skip 12 years of taxes on $43B data center",
    "at": "2026-07-09T17:34:46+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-07-20T23:08:53+00:00",
    "by": "news_judge",
    "note": "score 4/10: Advocacy group call for action without a specific filing, hearing, or official response; reads like organized pressure campaign rather than concrete development"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR2R6OFFfNGVkS3FDM2JuS09RR0o3TExGUzhtR0UxOUN4aHdQZ2tUSHBCMFplZ3gtdkhVRDVMV1VPaGhLdG1uMDVEeVBsZ3lKQ1NCaHJIQks2b21vYjlWNVU2cEItb2JZR3ZINjlKcmg0SDR5MEl5V0RSN2hGeHhjZ0QtZktORS1qT1dhcnNacWZwQ3d0NGJsU0l30gGfAUFVX3lxTFBQdXZHbkhkaTlPVzhWZ3pVcmp3QkZ1RXhfeVI1eGV4MmxxZnd6U2h2UVhWbEN0U1Y5NUZhRDhFdnI2c0pyUDJlVEptNlRmU1RhLVFybUIwOWtSUkFJeDU5elJlS09PVUpjYngtUkNEOXVseTExVEJWMlNXQ2F6QjUzaF9ZeXVmYklWdzkwcjJ2bTZpWkZRLUxZN3lBT1VvSQ?oc=5",
+   "title": "Vandals deface billboard fighting Lowell Township data center",
+   "at": "2026-07-21T01:02:51+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Already killed: 'Lowell billboard attacking data center gets vandalized' — same incident, just reversed perspective."
   }
  ],
  "auto_published": [
