@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-21T14:12:59Z",
+ "updated_at": "2026-07-21T16:05:49Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Tech giants agree to pay for power infrastructure as Michigan shields ratepayers",
+   "dek": "The agreement aims to prevent ratepayers from footing the full bill for new transmission lines and upgrades. Michigan officials secured commitments from major tech companies amid rising power demand. The deal could shape how future projects are funded across the state.",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSEdLcUhERV9POXRlZGlkemVlSFEyM19IOE8wdmFUZC16TnpDd0c0eThWTnZIY3YzNTlaX3pVd2w2MVFrYjdhTjJxdTUyWXhPbHlsdjkyVTdvcTVFdXd4WUpYN0pSOVpLSVhsTDFiTXVfc3Z0OUhSVTdJa2Zib2RsbjBWeHl6LWZ0ZjJPcA?oc=5",
+   "source": "TechInformed",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Power & Grid",
+   "iso": "2026-07-21T14:08:22Z",
+   "id": "1e72882c6666",
+   "origin": "google-news",
+   "source_title": "Michigan secures Big Tech pledge on data-center grid costs - TechInformed",
+   "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSEdLcUhERV9POXRlZGlkemVlSFEyM19IOE8wdmFUZC16TnpDd0c0eThWTnZIY3YzNTlaX3pVd2w2MVFrYjdhTjJxdTUyWXhPbHlsdjkyVTdvcTVFdXd4WUpYN0pSOVpLSVhsTDFiTXVfc3Z0OUhSVTdJa2Zib2RsbjBWeHl6LWZ0ZjJPcA?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "Township removes ceiling on incentives for power-hungry server farm",
    "dek": "After earlier resistance, Saline Township dropped its proposed limit on how large a tax break a data-center project can receive. The move opens the door to bigger incentives for a project that could draw hundreds of megawatts and reshape local tax rolls. Residents 30 minutes away will feel the impact through school funding, road wear, and water demand tied to the campus.",
@@ -169,23 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTy1VeG5uanZ1cEZLUmZEdjcxWXFENGtfMmFNUzYxQlA3b0tqdVVIbzMzclhrdGQ3X2lyRWRlODA5S01HWjBUai0yYXVSdVgzTVVQeXpRa3RHb0pjcUkxU2IzcW1iWk82cG5YVm4wbHJuRWQxMkFaZXZDUDdIWTQ1TEdYMnN4TTNLSDh4SQ?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
-  },
-  {
-   "title": "House Speaker stalls Andrews data-center guardrail bill",
-   "dek": "Legislation that would set statewide rules on data-center siting, power use and tax breaks remains bottled up. Sponsors say the delay leaves townships without tools to manage rapid growth. The bill had bipartisan support before the hold.",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTHJ1bHJFTE5fbTdwRDM0VVdrNG5ESjdHOU9oWVBtQVJXX21UMkN2OGtmTHlENGhDQ1liQUttekwweE1ERW9SMEliNG9YdkgtTWxKUi1HYTYtcjhnYV9tdldmVzZTWVFjbnRJT2pSVE9takpraUdRM0JuVXhyLTVGXzk1ZGM4aHQxcFpleEgzbm5RRHdSOFhLY2FLOHN5QU5CS2tld0U2dmZ5UQ?oc=5",
-   "source": "Moody on the Market",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Policy",
-   "iso": "2026-07-18T19:01:02Z",
-   "id": "ae7ae652058f",
-   "origin": "google-news",
-   "source_title": "Andrews: data center guardrail legislation being held up by House Speaker - Moody on the Market",
-   "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTHJ1bHJFTE5fbTdwRDM0VVdrNG5ESjdHOU9oWVBtQVJXX21UMkN2OGtmTHlENGhDQ1liQUttekwweE1ERW9SMEliNG9YdkgtTWxKUi1HYTYtcjhnYV9tdldmVzZTWVFjbnRJT2pSVE9takpraUdRM0JuVXhyLTVGXzk1ZGM4aHQxcFpleEgzbm5RRHdSOFhLY2FLOHN5QU5CS2tld0U2dmZ5UQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {

@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.facebook.com/NorthernNewsNow/posts/the-carlton-county-board-of-commissioners-voted-tuesday-to-advance-an-interim-us/1663039089160201/",
-   "title": "Carlton County Votes to Pause New Data Centers During Impact Study",
-   "at": "2026-07-09T18:56:08+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: Carlton County is not in Michigan; this is a national/other-state item with no Michigan relevance."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPRExxYnFsX29tcndXM2dXeGZXUHdXSlM0MW5pemVWaHY5ZkhES1o4YWI5Z21WVWRRUGxacGlidkZoS3lvcTR0cGlHanowUEZXSVViU3hOcllfdXJlLWtxcW1OZ3pOWjJBeDh2cFFnbXdFSDVFNVNtdmlMWnFsUXhsaUdBYkgxS3hwanVLR1pYOV9IQXdfVmZXVURnc3ZUS1QtRTdKVklvM1Jhakg5WjBjTmFUbGdVbW5PcEM5aXBROUhad3BDMjdkTFJ1WnduYS1xcEhiSGdwanRoODgzcmN5TDljWWRVNXVQcWhTU1JhMXhZRk8tZ0N2X1l2bDVNT2cxZExiRFFJZ2dzT09t?oc=5",
    "title": "SE Michigan communities weigh data-center moratoriums",
    "at": "2026-07-09T20:54:06+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-07-21T11:58:08+00:00",
    "by": "news_judge",
    "note": "score 4/10, duplicate: This is a thin rehash of the already-live story 'Michigan township battles state data center law as Whitmer rolls out new pledge' — same township rebellion agai"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00b25hVVdLbU5OdUpncmh2Y0QwejdYbzFLbG5NR3gwZEFhUzBZNmZIak5EbFFUQWNsNmxlRXlFWVNSNDVkSnY3bnloMVlIbDBPUllEeGN2QVcxbVFBWjh0ZjFTYkPSAWpBVV95cUxPOTFWeG4tdlRZeG5tMV96b0FGV2FpZlg1QnotYV8xclc1NmhSQnZBNjF1UTlSMTI4RjJZV05uRFFab1pRMnJtaUwxT2NGemxabEljSTNEb1pvaTk0TUJPQWpzZ3Flbnpyd0l3?oc=5",
+   "title": "Vandals hit west Michigan billboard opposing data centers",
+   "at": "2026-07-21T16:05:49+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This is the same Lowell billboard vandalism incident already killed twice by the News Director under different headlines."
   }
  ],
  "auto_published": [
@@ -2037,6 +2037,12 @@
    "title": "Township removes ceiling on incentives for power-hungry server farm",
    "judge_score": 8,
    "at": "2026-07-21T14:12:59Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSEdLcUhERV9POXRlZGlkemVlSFEyM19IOE8wdmFUZC16TnpDd0c0eThWTnZIY3YzNTlaX3pVd2w2MVFrYjdhTjJxdTUyWXhPbHlsdjkyVTdvcTVFdXd4WUpYN0pSOVpLSVhsTDFiTXVfc3Z0OUhSVTdJa2Zib2RsbjBWeHl6LWZ0ZjJPcA?oc=5",
+   "title": "Tech giants agree to pay for power infrastructure as Michigan shields ratepayers",
+   "judge_score": 8,
+   "at": "2026-07-21T16:05:49Z"
   }
  ]
 }
