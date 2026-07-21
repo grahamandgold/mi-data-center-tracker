@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-21T17:41:35+00:00",
+ "updated_at": "2026-07-21T19:44:37Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "GOP chair floats ban on utility deals that shield data centers from rate hikes",
+   "dek": "Michigan Republican Party chair says he may back legislation stopping DTE and Consumers Energy from shifting data-center power costs onto households. The move would affect how billions in new grid upgrades get paid for across the state. Ratepayers in both utility territories would see the biggest difference if the ban passes.",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdHZTei1RclhNZW50WFhKTHdFQXRoRkhzS2lxaXhFd0RCckVsUlJxc0lQMmh6MmpJYldKXzVuck5YS0toNVJNVlhTOG4tOU96YUVmczcyTE0xX2VDQll6VWZkZGlCNmxWdzMzODdtcGR4NTFhVGdyWXlqQ2VVa3U3NDJXUzNvcTVMN1NmYkpXb05ILWc?oc=5",
+   "source": "Yahoo",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Power & Grid",
+   "iso": "2026-07-21T18:47:10Z",
+   "id": "f3d546ba1366",
+   "origin": "google-news",
+   "source_title": "Michigan GOP chair says he might support ban on DTE, Consumers giving - Yahoo",
+   "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdHZTei1RclhNZW50WFhKTHdFQXRoRkhzS2lxaXhFd0RCckVsUlJxc0lQMmh6MmpJYldKXzVuck5YS0toNVJNVlhTOG4tOU96YUVmczcyTE0xX2VDQll6VWZkZGlCNmxWdzMzODdtcGR4NTFhVGdyWXlqQ2VVa3U3NDJXUzNvcTVMN1NmYkpXb05ILWc?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Tech giants agree to pay for power infrastructure as Michigan shields ratepayers",
    "dek": "The agreement aims to prevent ratepayers from footing the full bill for new transmission lines and upgrades. Michigan officials secured commitments from major tech companies amid rising power demand. The deal could shape how future projects are funded across the state.",
@@ -169,23 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jY3VpRHk5UEVwV3MzVVEyWXBIbldmRndLTlpWYnN2QnBTNXMzTXJpZ25HUkM4NGRhMFNTZ3Nra1VyeWFmVW93dlhFOEVnWlBrV2RFS0ItZWl4Zw?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
-  },
-  {
-   "title": "Vicksburg residents rally against planned data-center projects",
-   "dek": "Dozens turned out for a peaceful protest highlighting concerns over noise, traffic and strain on local utilities. The demonstration is the latest sign of growing pushback in Kalamazoo County townships. Organizers say more actions are planned if proposals advance.",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTy1VeG5uanZ1cEZLUmZEdjcxWXFENGtfMmFNUzYxQlA3b0tqdVVIbzMzclhrdGQ3X2lyRWRlODA5S01HWjBUai0yYXVSdVgzTVVQeXpRa3RHb0pjcUkxU2IzcW1iWk82cG5YVm4wbHJuRWQxMkFaZXZDUDdIWTQ1TEdYMnN4TTNLSDh4SQ?oc=5",
-   "source": "Vicksburg Daily News",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Kalamazoo",
-   "tag": "Local Government",
-   "iso": "2026-07-18T20:15:00Z",
-   "id": "2d8b7353401a",
-   "origin": "google-news",
-   "source_title": "Locals gather for a peaceful protest against data centers - Vicksburg Daily News",
-   "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTy1VeG5uanZ1cEZLUmZEdjcxWXFENGtfMmFNUzYxQlA3b0tqdVVIbzMzclhrdGQ3X2lyRWRlODA5S01HWjBUai0yYXVSdVgzTVVQeXpRa3RHb0pjcUkxU2IzcW1iWk82cG5YVm4wbHJuRWQxMkFaZXZDUDdIWTQ1TEdYMnN4TTNLSDh4SQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {
