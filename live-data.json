@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-21T11:58:04+00:00",
+ "updated_at": "2026-07-21T14:12:59Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Township removes ceiling on incentives for power-hungry server farm",
+   "dek": "After earlier resistance, Saline Township dropped its proposed limit on how large a tax break a data-center project can receive. The move opens the door to bigger incentives for a project that could draw hundreds of megawatts and reshape local tax rolls. Residents 30 minutes away will feel the impact through school funding, road wear, and water demand tied to the campus.",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XTzNoQWRnZDRDLWJabWJMdVNTeEhmbHJ5MDlEM2hJb0dSU1laZjRMNENINklOSnFweTBJMUw1TXE4N3NNWE8ydmNlSzRXZlg3UGZGb0MyZ042dm4zRkVGOFBuWXRpWGJoU1l6dWJ5Wm1BZFk5anc?oc=5",
+   "source": "Planet Detroit",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Money",
+   "iso": "2026-07-21T13:40:12Z",
+   "id": "1bd823c0e560",
+   "origin": "google-news",
+   "source_title": "Data center news: Saline Township reverses course, drops cap on data center tax break - Planet Detroit",
+   "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XTzNoQWRnZDRDLWJabWJMdVNTeEhmbHJ5MDlEM2hJb0dSU1laZjRMNENINklOSnFweTBJMUw1TXE4N3NNWE8ydmNlSzRXZlg3UGZGb0MyZ042dm4zRkVGOFBuWXRpWGJoU1l6dWJ5Wm1BZFk5anc?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "Michigan township battles state data center law as Whitmer rolls out new pledge",
    "dek": "A local township is pushing back against state rules that limit its ability to block data centers. Residents face potential noise, power strain and water use from projects that could arrive despite local opposition. Whitmer's pledge aims to speed approvals, raising stakes for communities that want more say over where these facilities land.",
@@ -169,23 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTHJ1bHJFTE5fbTdwRDM0VVdrNG5ESjdHOU9oWVBtQVJXX21UMkN2OGtmTHlENGhDQ1liQUttekwweE1ERW9SMEliNG9YdkgtTWxKUi1HYTYtcjhnYV9tdldmVzZTWVFjbnRJT2pSVE9takpraUdRM0JuVXhyLTVGXzk1ZGM4aHQxcFpleEgzbm5RRHdSOFhLY2FLOHN5QU5CS2tld0U2dmZ5UQ?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Utility faces questions on power, water for west Michigan's first major AI campus",
-   "dek": "The utility will explain how it will serve a large Microsoft AI campus in Kent County at a public hearing this week. Neighbors are already questioning added strain on the local grid and water supply. The project would be one of the first major AI facilities in west Michigan.",
-   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQcWo4Rm41SjMybm15V01wamJVLW5nMUJNS2ZSSXBjVGhZWWZycEFkQVpzSllLemVWTlUtTnJ2dFNzdkw5cUFTaEo5bGpzSFZ1S3ZhdTFsTFJzRmFvbHBuZ01yTy05R0xUUDJLeFlsWnhhZ0drZldyYjlDanVyVTJDTTU1QkxISk5ZbVg3SG5xRXpacDBMWGEtUVFya2lJM3YxWUlEcU4tbkdrYjJHeS1tZFpvOENpNUZZQnVna09hZ2daQy00VnJJY0I5R3RQcHFTM3VLSzNMMWppSXFHOGFSWFpHcFNVVkZkSzZrcGE5ekRjdkpvUC02VE0xczQyVG5BWFlfeg?oc=5",
-   "source": "MSN",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Kent",
-   "tag": "Power & Grid",
-   "iso": "2026-07-18T17:58:23Z",
-   "id": "910ab53501bf",
-   "origin": "google-news",
-   "source_title": "Consumers Energy on Microsoft AI data center in Gaines Township ahead of public hearing - MSN",
-   "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQcWo4Rm41SjMybm15V01wamJVLW5nMUJNS2ZSSXBjVGhZWWZycEFkQVpzSllLemVWTlUtTnJ2dFNzdkw5cUFTaEo5bGpzSFZ1S3ZhdTFsTFJzRmFvbHBuZ01yTy05R0xUUDJLeFlsWnhhZ0drZldyYjlDanVyVTJDTTU1QkxISk5ZbVg3SG5xRXpacDBMWGEtUVFya2lJM3YxWUlEcU4tbkdrYjJHeS1tZFpvOENpNUZZQnVna09hZ2daQy00VnJJY0I5R3RQcHFTM3VLSzNMMWppSXFHOGFSWFpHcFNVVkZkSzZrcGE5ekRjdkpvUC02VE0xczQyVG5BWFlfeg?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
   }
  ],
  "national": {
