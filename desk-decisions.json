@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc2Z6bkNoNHRUc0p2N2JJMi1NS3RqTDIxSXJ4ZkRpLU9JUUtOUEZFT3RyVG5tRHFYTVc1dWoyd3R5ck55UXN5MjFHdmU1OUZ0bzVrSmpsR3JNdFk3NGxNNHhtdVpUR2NwbnE1RXl4cE9KbUhfbVJJYzlUMktBSjVyc2tEZ2t3VGdBOGk5NG9lbDZqUQ?oc=5",
-   "title": "Washtenaw residents gain new tracker for every local data-center vote",
-   "at": "2026-07-10T04:37:14+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Media outlet launches a tracker tool—meta-coverage without reporting an actual land-use decision, vote, or project development."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWVJfNUZpVC1yTEZrNG9CVVE3RWE0VFpTVDVwejZycUxsMkJsSjBKQzVXVWlFZkRCUFBKTGdDemxSQ1FqSlVDYXNremsxTy14R25ialZtbWFFeUoyb0ZTaTlmN1NlVzZIOEpNVmVaRVFXU0d0ZUhTZkVCX1ZoWG14Wmt2OXl4ZXQ1YkFrYzJFTGF4d0hteHlMY281VjJFSmN5Ri1waHRlcHpiNzMydTZwVk9NckNTcHA1QThxRlAxRXFtNUQwanV3bE94bzk5b0xD?oc=5",
    "title": "GOP hopefuls back local control on data center siting",
    "at": "2026-07-10T08:30:10+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-07-22T11:59:53+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece with poll data but no Michigan-specific decision or development."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZnF2RlpORUo1WTZuUzJHT3Y0XzNOMTQ4WU9YcXpDU2lmRHRFQ3JJTlExN0tQdGU5V3VkTFdIVzdtUzhZNXcwMl91YWV4SmZjNl9FRHVWX0s1RS1jUkk5blFycG5CZWlWMXFPcjVyd0V6UmFhR1A2aGVpdFluN2dOaF9fRG50VFJwV0Q0WGlOdnJWVlBOYmJkVVhPd3RVbm96WFhLNEhNTVoxbFpxZGw4S1VuS3JMT0NLdmU5QzdmUExzLWlPMDVid2FJazlMc0JyS3l0eFZkN0dNSFl1cnA0SQ?oc=5",
+   "title": "Gubernatorial candidates split on reining in data center power and tax breaks",
+   "at": "2026-07-22T16:04:58+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Vague campaign-trail positioning without a specific policy announcement, vote, or filing; reads like speculative horse-race coverage rather than a concrete deve"
   }
  ],
  "auto_published": [
