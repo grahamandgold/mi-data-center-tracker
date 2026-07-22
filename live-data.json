@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-22T17:37:51Z",
+ "updated_at": "2026-07-22T19:39:34Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Ann Arbor-area township writes new rules ahead of Big Tech data center",
+   "dek": "Pittsfield Township is drafting zoning and performance standards for a potential hyperscale project that could draw hundreds of megawatts. Residents 30 minutes away will feel the impact on local roads, water use and electric rates if the rules are too loose or too strict. The township wants guardrails in place before any formal application lands.",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTnFDTlJ3VDhkZUM0TUtDcHhxY2oyQktYSFlZVDVwV0lXM05VTngtaG9uUjVFQ1Bvd2xFbTFlTDlrUlQ0am50QUw0RzluRUlaWGZubUNfaldnWnBEQ0hPeDYwcnowclZJcS0wd09Xb08xX0tQRjk4azNJWDB4a2lOY2JUSjJ6SXdSSGdxZHRiWnJ3R3ZSQld1cTNyeE90cXU5dFpON2tOSTVjWjJYZTFrem5hejlpWlAwMkF5dkI0d1I3aTZGX0xZb2lOT2w4UdIB4gFBVV95cUxQVHVfdzlqbnhNajBFbVlfTlhJVXdaUVdJNW16OEV5ZWxTblR1R0xqMjBKdXBkUnFveHJZSWwtZmM1ZnlSbkI0ZndZV0pTNXROb2xtV2MxTFRlQmcwS2RkNS1UdkZwZGZFMi0xaE5VWlNQNlo0UDkxNmJOcVU2RUxGZ1lGY0gtdTNqUzdNbUNPRU9OVGdhRnZxRENWUEQ0dkJhT2pOOTZvbkJvdmJQaU9aei1yQTVzaXNTeVBjeWxUMWRGaUxrY3d6Rzl3N09mbXFCX3lKRjc4cUt5Q0JwMkd2UkVR?oc=5",
+   "source": "MLive.com",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Local Government",
+   "iso": "2026-07-22T18:27:00Z",
+   "id": "cb32ec171168",
+   "origin": "google-news",
+   "source_title": "Data center rules taking shape in township near Ann Arbor eyed for Big Tech project - MLive.com",
+   "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTnFDTlJ3VDhkZUM0TUtDcHhxY2oyQktYSFlZVDVwV0lXM05VTngtaG9uUjVFQ1Bvd2xFbTFlTDlrUlQ0am50QUw0RzluRUlaWGZubUNfaldnWnBEQ0hPeDYwcnowclZJcS0wd09Xb08xX0tQRjk4azNJWDB4a2lOY2JUSjJ6SXdSSGdxZHRiWnJ3R3ZSQld1cTNyeE90cXU5dFpON2tOSTVjWjJYZTFrem5hejlpWlAwMkF5dkI0d1I3aTZGX0xZb2lOT2w4UdIB4gFBVV95cUxQVHVfdzlqbnhNajBFbVlfTlhJVXdaUVdJNW16OEV5ZWxTblR1R0xqMjBKdXBkUnFveHJZSWwtZmM1ZnlSbkI0ZndZV0pTNXROb2xtV2MxTFRlQmcwS2RkNS1UdkZwZGZFMi0xaE5VWlNQNlo0UDkxNmJOcVU2RUxGZ1lGY0gtdTNqUzdNbUNPRU9OVGdhRnZxRENWUEQ0dkJhT2pOOTZvbkJvdmJQaU9aei1yQTVzaXNTeVBjeWxUMWRGaUxrY3d6Rzl3N09mbXFCX3lKRjc4cUt5Q0JwMkd2UkVR?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Monroe Twp hit with $300M lawsuit after banning data centers",
    "dek": "A developer is suing Monroe Township for $300 million, claiming the local ban on data centers killed a major project. Residents could face higher taxes or legal costs if the township loses. The case highlights how local zoning fights are now drawing big-money litigation in southeast Michigan.",
@@ -171,23 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XTzNoQWRnZDRDLWJabWJMdVNTeEhmbHJ5MDlEM2hJb0dSU1laZjRMNENINklOSnFweTBJMUw1TXE4N3NNWE8ydmNlSzRXZlg3UGZGb0MyZ042dm4zRkVGOFBuWXRpWGJoU1l6dWJ5Wm1BZFk5anc?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
-  },
-  {
-   "title": "Michigan township battles state data center law as Whitmer rolls out new pledge",
-   "dek": "A local township is pushing back against state rules that limit its ability to block data centers. Residents face potential noise, power strain and water use from projects that could arrive despite local opposition. Whitmer's pledge aims to speed approvals, raising stakes for communities that want more say over where these facilities land.",
-   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQS1J1ekZSbHpvM2lBcGpBMFAtcnBteGtFdEh3YnlRQ0lFOWJBXzhMVlRyNWZDUjFRUlR3a3BhUnhCVVJaVkMtVlhGTWk5bGkxV2I0MlhoTklhdURLUEp6bDVJZG9udWZRY3g2SDNMcFNEUjUtSUM2R1ZVZndyV0JfWWgxUnFsUUdjSmRIRTIwV3dQZmsxSVliMURRVzhTcmxXMHJxNjdmNjR6U0VPaWFmTjAwWWFNWXJyVVBVVTRUbVo2a0gxQWdreVVLaDJ4M2MxTlEzN3IyR2pWZXR0ZXpranpDMFFFZ1JDV0N4MTZFYk9uNWVlUHFxOUFWUTRQYWt0Z0VR?oc=5",
-   "source": "WWMT",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Policy",
-   "iso": "2026-07-21T07:32:16Z",
-   "id": "1baf9f169b32",
-   "origin": "google-news",
-   "source_title": "\"Fed up\" Michigan township fights against state law as Whitmer unveils data center pledge - WWMT",
-   "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQS1J1ekZSbHpvM2lBcGpBMFAtcnBteGtFdEh3YnlRQ0lFOWJBXzhMVlRyNWZDUjFRUlR3a3BhUnhCVVJaVkMtVlhGTWk5bGkxV2I0MlhoTklhdURLUEp6bDVJZG9udWZRY3g2SDNMcFNEUjUtSUM2R1ZVZndyV0JfWWgxUnFsUUdjSmRIRTIwV3dQZmsxSVliMURRVzhTcmxXMHJxNjdmNjR6U0VPaWFmTjAwWWFNWXJyVVBVVTRUbVo2a0gxQWdreVVLaDJ4M2MxTlEzN3IyR2pWZXR0ZXpranpDMFFFZ1JDV0N4MTZFYk9uNWVlUHFxOUFWUTRQYWt0Z0VR?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {
@@ -207,8 +207,8 @@
  "meetings": [
   {
    "iso": "2026-07-23",
-   "body": "Oxford Township Planning Commission",
-   "topic": "Discussion of draft data center ordinance; no projects proposed or approved yet",
+   "body": "Charter Township of Oxford Planning Commission",
+   "topic": "Discussion of draft data center ordinance; no action expected",
    "region": "SE Michigan",
    "regionKey": "metro",
    "county": "Oakland",
@@ -221,8 +221,8 @@
   },
   {
    "iso": "2026-07-23",
-   "body": "Charter Township of Oxford Planning Commission",
-   "topic": "Discussion of draft data center ordinance; no action expected, public input sought on zoning rules for potential future projects",
+   "body": "Oxford Township Planning Commission",
+   "topic": "Discussion of draft data center ordinance; no projects proposed or approved yet",
    "region": "SE Michigan",
    "regionKey": "metro",
    "county": "Oakland",
@@ -231,7 +231,7 @@
    "urgent": false,
    "link": "https://oxfordtwpmi.gov/",
    "linkLabel": "Agenda",
-   "stream": null
+   "stream": ""
   }
  ],
  "accuracy_checked_at": "2026-07-08T08:45:16+00:00"

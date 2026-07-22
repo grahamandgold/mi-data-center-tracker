@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWVJfNUZpVC1yTEZrNG9CVVE3RWE0VFpTVDVwejZycUxsMkJsSjBKQzVXVWlFZkRCUFBKTGdDemxSQ1FqSlVDYXNremsxTy14R25ialZtbWFFeUoyb0ZTaTlmN1NlVzZIOEpNVmVaRVFXU0d0ZUhTZkVCX1ZoWG14Wmt2OXl4ZXQ1YkFrYzJFTGF4d0hteHlMY281VjJFSmN5Ri1waHRlcHpiNzMydTZwVk9NckNTcHA1QThxRlAxRXFtNUQwanV3bE94bzk5b0xD?oc=5",
-   "title": "GOP hopefuls back local control on data center siting",
-   "at": "2026-07-10T08:30:10+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Campaign trail consensus on local control is a soft political angle without a concrete policy action, filing, or vote."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNjNGUnNmdzJINE50R3k4Nml5OGgzUUhYV09KTVZoVVkyQ2xQdW5CYi1yZU9wbGVWaVVGWUdiQlhaZ1VwbHppczF0TUNZQUU2Z1Z5UnVDaW5ndndtb2RlbjAydlBHQnd2Z29mZ1ZRZ2R3MnJncnplNmx5NUxSVHJsS29mMDZKWjJrODZra3I0T0JzekFKRS04V0dTWm14d3ZTZlVfbEVOMERKZUhFQ0pxQUJJMFllMnFrSFpTZU9tWHNDbG51OUE?oc=5",
    "title": "GOP candidates agree data centers need tighter state rules",
    "at": "2026-07-10T08:30:10+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-07-22T16:04:58+00:00",
    "by": "news_judge",
    "note": "score 4/10: Vague campaign-trail positioning without a specific policy announcement, vote, or filing; reads like speculative horse-race coverage rather than a concrete deve"
+  },
+  {
+   "url": "https://www.utilitydive.com/news/us-data-centers-could-4x-water-use-by-2028-double-electricity-by-2030-khi/825774/",
+   "title": "U.S. Data Center Power Demand Projected to More Than Double by 2030 Amid Growing Water Concerns",
+   "at": "2026-07-22T19:39:33+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece with projections and statistics but no Michigan-specific decision or development."
   }
  ],
  "auto_published": [
@@ -2091,6 +2091,12 @@
    "title": "Monroe Twp hit with $300M lawsuit after banning data centers",
    "judge_score": 8,
    "at": "2026-07-22T17:37:51Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTnFDTlJ3VDhkZUM0TUtDcHhxY2oyQktYSFlZVDVwV0lXM05VTngtaG9uUjVFQ1Bvd2xFbTFlTDlrUlQ0am50QUw0RzluRUlaWGZubUNfaldnWnBEQ0hPeDYwcnowclZJcS0wd09Xb08xX0tQRjk4azNJWDB4a2lOY2JUSjJ6SXdSSGdxZHRiWnJ3R3ZSQld1cTNyeE90cXU5dFpON2tOSTVjWjJYZTFrem5hejlpWlAwMkF5dkI0d1I3aTZGX0xZb2lOT2w4UdIB4gFBVV95cUxQVHVfdzlqbnhNajBFbVlfTlhJVXdaUVdJNW16OEV5ZWxTblR1R0xqMjBKdXBkUnFveHJZSWwtZmM1ZnlSbkI0ZndZV0pTNXROb2xtV2MxTFRlQmcwS2RkNS1UdkZwZGZFMi0xaE5VWlNQNlo0UDkxNmJOcVU2RUxGZ1lGY0gtdTNqUzdNbUNPRU9OVGdhRnZxRENWUEQ0dkJhT2pOOTZvbkJvdmJQaU9aei1yQTVzaXNTeVBjeWxUMWRGaUxrY3d6Rzl3N09mbXFCX3lKRjc4cUt5Q0JwMkd2UkVR?oc=5",
+   "title": "Ann Arbor-area township writes new rules ahead of Big Tech data center",
+   "judge_score": 7,
+   "at": "2026-07-22T19:39:34Z"
   }
  ]
 }
