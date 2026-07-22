@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNjNGUnNmdzJINE50R3k4Nml5OGgzUUhYV09KTVZoVVkyQ2xQdW5CYi1yZU9wbGVWaVVGWUdiQlhaZ1VwbHppczF0TUNZQUU2Z1Z5UnVDaW5ndndtb2RlbjAydlBHQnd2Z29mZ1ZRZ2R3MnJncnplNmx5NUxSVHJsS29mMDZKWjJrODZra3I0T0JzekFKRS04V0dTWm14d3ZTZlVfbEVOMERKZUhFQ0pxQUJJMFllMnFrSFpTZU9tWHNDbG51OUE?oc=5",
-   "title": "GOP candidates agree data centers need tighter state rules",
-   "at": "2026-07-10T08:30:10+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Debate positioning on data center regulation is campaign rhetoric rather than legislative action or official policy development."
-  },
-  {
    "url": "https://www.cnbc.com/2026/07/10/ai-data-center-fears-michigan-democratic-senate-primary.html",
    "title": "Michigan Senate hopefuls flag data center power strain",
    "at": "2026-07-10T11:28:40+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-07-22T19:39:33+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece with projections and statistics but no Michigan-specific decision or development."
+  },
+  {
+   "url": "https://www.texastribune.org/2026/07/22/texas-james-talarico-data-centers-regulation-senate-2026/",
+   "title": "Texas Senate Candidate Pushes for Stricter Data Center Rules Amid Growth Concerns",
+   "at": "2026-07-22T22:37:40+00:00",
+   "by": "news_judge",
+   "note": "score 2/10: Texas political candidate statement with no Michigan relevance; national trend piece that doesn't advance Michigan data center tracking."
   }
  ],
  "auto_published": [
