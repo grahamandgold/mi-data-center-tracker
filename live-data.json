@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-22T07:15:44+00:00",
+ "updated_at": "2026-07-22T10:04:00Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "West Michigan residents sue hyperscale data center over constant noise",
+   "dek": "Homeowners near a large data center in West Michigan filed suit claiming the facility produces unreasonable and excessive noise that disrupts daily life. The lawsuit puts the operator on notice that neighbors will not quietly accept the side effects of massive server farms. Michigan ratepayers and nearby towns will watch closely to see if courts force changes or compensation.",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4dEw2LXZ4cllWZnVEekhXSzdDQ0ZKTWdObnJuTkpDMlRFRmtWMUI3ZzdYOG5IeHdyZUt6TGxzLU15NFItbldkS1F2S2FfNGFjYVNjUTBvUHJEeTQ?oc=5",
+   "source": "Mshale",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Ottawa",
+   "tag": "Local Government",
+   "iso": "2026-07-22T05:09:05Z",
+   "id": "4a4ec93d4c0b",
+   "origin": "google-news",
+   "source_title": "Residents Suing Hyperscale Data Center In West Michigan Over 'unreasonable, Excessive Noise' Vti Stock (0tLX9RhADB) - Mshale",
+   "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4dEw2LXZ4cllWZnVEekhXSzdDQ0ZKTWdObnJuTkpDMlRFRmtWMUI3ZzdYOG5IeHdyZUt6TGxzLU15NFItbldkS1F2S2FfNGFjYVNjUTBvUHJEeTQ?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Monroe County halts all new data center and battery permits for 18 months",
    "dek": "The board voted to freeze applications, shielding local roads, wells and the grid from sudden large-scale builds. Residents gain time to weigh how much power and water these projects would pull from the county. The pause applies equally to data centers and battery storage, two uses that often arrive together.",
@@ -169,23 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWHNNVFRCYkdxUnhlWm1uSWJIY0R4VXBtdm5xTUN6ejUtOWw4amdaSUhpbHhZYzNPQnVjRTBQdjFkZDlvbUNTUkdRZDJlbjZqSmdNTkYyZTN0RUNvalllZmRXT01QeWtCNDdqTlVlLTVLdk5xb2UtX2NLWmdhbjA1WkZzTlNMajZlQ2dSZUp3aktKZkszdFF0NTZuYnE1cjFoYXBSVnVPSVhLR2fSAasBQVVfeXFMTVhzTVRUQmJHcVJ4ZVptbkliSGNEeFVwbXZucU1Deno1LTlsOGpnWklIaWx4WWMzT0J1Y0UwUHYxZGQ5b21DU1JHUWQyZW42akpnTU5GMmUzdEVDb2pZZWZkV09NUHlrQjQ3ak5VZS01S3ZOcW9lLV9jS1pnYW4wNVpGc05TTGo2ZUNnUmVKd2pLSmZLM3RRdDU2bmJxNXIxaGFwUlZ1T0lYS0dn?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
-  },
-  {
-   "title": "Whitmer tells data centers they must follow new state growth rules",
-   "dek": "The governor unveiled the Michigan Affordable and Responsible Growth Action Plan, which sets siting, power, and water standards for future data centers. Companies that refuse to comply risk losing state incentives. The plan arrives amid rising local pushback over utility bills and farmland loss.",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13a1VwSlhxRGFOb09odk0xSUZoOFpBbkdGcGg4QzJ0bnFjemhKUUxYSFlwX3hBVFpUQmFkam5sVXF5UnF0LWRRcmtpMGRmSklyOGUwcTlyeXFhYlVQX3YwRw?oc=5",
-   "source": "Big Rapids Daily News",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Policy",
-   "iso": "2026-07-19T19:17:55Z",
-   "id": "ba186b5baf8d",
-   "origin": "google-news",
-   "source_title": "Gov. Whitmer launches Michigan Affordable and Responsible Growth Action Plan, calls on data centers to comply - Big Rapids Daily News",
-   "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13a1VwSlhxRGFOb09odk0xSUZoOFpBbkdGcGg4QzJ0bnFjemhKUUxYSFlwX3hBVFpUQmFkam5sVXF5UnF0LWRRcmtpMGRmSklyOGUwcTlyeXFhYlVQX3YwRw?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 9
   }
  ],
  "national": {

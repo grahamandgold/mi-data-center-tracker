@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORUR4QWJkYmhGY2ZzWjBhVUU0M09ONFZiYV9JWVZ1ZEJyaXZUbkpGeDVZVURSRHkwcUxNTl9qd09tdVV4dDN6UTVmRzFydEVhbnd2VkUtMW5QWkwxQkhfTU9rcVppbjZiYi12UjYtMGd4RHdUVllzaEZ3ZGQtRHVvbTg1RW1ZUE1SOVVLZ0VLNjVNbk1jb0h4SXVjbWN5N2s1YVM5V0RTRFdOd051?oc=5",
-   "title": "Garfield Twp edges toward year-long data center freeze",
-   "at": "2026-07-09T22:40:39+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Duplicate of killed 'Garfield Township moves toward year-long data-center freeze' — same procedural step toward moratorium already covered live."
-  },
-  {
    "url": "https://www.lenox-mi.gov/agendacenter",
    "title": "Lenox Township sets public hearing on proposed I-94 Development District",
    "at": "2026-07-09T22:40:39+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-07-22T07:15:49+00:00",
    "by": "news_judge",
    "note": "score 1/10, duplicate: This is the exact same Monroe County 18-month moratorium already live in the first item of the ALREADY LIVE list."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5WXN1cUJiaFVZV0JLQzRoT3ZJaXVQelhhWGdMMHpENmhxUkZ1TWxYM3FMN2l5aFY4dVVXMWJvcG5sU2NEaS1aN1RYYkN0anlSNzRSNi1KUHY1T1dfeTJLN0YxV0dwMVJldkdjYTFR?oc=5",
+   "title": "Kalamazoo data center project hits fresh delay",
+   "at": "2026-07-22T10:04:00+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Vague delay with no specifics about what caused it, when it was announced, or what the new timeline is—reads like thin speculation."
   }
  ],
  "auto_published": [
@@ -2055,6 +2055,12 @@
    "title": "Monroe County halts all new data center and battery permits for 18 months",
    "judge_score": 9,
    "at": "2026-07-22T04:25:12Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4dEw2LXZ4cllWZnVEekhXSzdDQ0ZKTWdObnJuTkpDMlRFRmtWMUI3ZzdYOG5IeHdyZUt6TGxzLU15NFItbldkS1F2S2FfNGFjYVNjUTBvUHJEeTQ?oc=5",
+   "title": "West Michigan residents sue hyperscale data center over constant noise",
+   "judge_score": 7,
+   "at": "2026-07-22T10:04:00Z"
   }
  ]
 }
