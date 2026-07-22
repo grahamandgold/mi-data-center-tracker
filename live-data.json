@@ -1,7 +1,41 @@
 {
- "updated_at": "2026-07-22T11:59:53Z",
+ "updated_at": "2026-07-22T14:16:21Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Chelsea blocks data centers and big rentals for a full year",
+   "dek": "Chelsea city council voted to freeze all new data-center and large rental-housing proposals for 12 months. Residents near potential sites avoid sudden spikes in power demand and traffic while the city studies infrastructure limits. The pause gives neighbors time to weigh how much extra electricity and water these projects would pull from local supplies.",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS05wdTRhdlM4bnNFLTNkRDRsT29YbmRBVGRuQWZYY1dVWDRzNHNJbEdwUm01OUJTWFc1bzF2WjJ1dFpvalFfRmY4TjhyaDhRWmRCTjRJUzgzQlNaWEF6aGN2amZQVXpRbWUwMjJnTkhDM1ljV2dGMC1tRExyWFFUSlQtbzNtdFRzX1BqUU83Z2tNUnlxTl9j?oc=5",
+   "source": "WBMA",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Local Government",
+   "iso": "2026-07-22T13:32:01Z",
+   "id": "e61f87cc75ee",
+   "origin": "google-news",
+   "source_title": "Chelsea approves one-year moratoriums on data centers, rental communities - WBMA",
+   "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS05wdTRhdlM4bnNFLTNkRDRsT29YbmRBVGRuQWZYY1dVWDRzNHNJbEdwUm01OUJTWFc1bzF2WjJ1dFpvalFfRmY4TjhyaDhRWmRCTjRJUzgzQlNaWEF6aGN2amZQVXpRbWUwMjJnTkhDM1ljV2dGMC1tRExyWFFUSlQtbzNtdFRzX1BqUU83Z2tNUnlxTl9j?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 9
+  },
+  {
+   "title": "Augusta Township residents vote Aug. 4 on 300-acre data-center rezoning",
+   "dek": "Voters will decide whether to allow rezoning that could bring a large data-center campus to Augusta Township. Approval would open the door to hundreds of megawatts of new demand on Consumers Energy lines and possible well-water withdrawals. A no vote keeps the land in agricultural or low-density use and blocks the tax-base versus service-cost trade-off.",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNlU2REtZdVkxZ2NiQTRVQnpoczB2aW9iaHp0WW5GZUE4RF9BVXJVaUZJM1h0NHhXR0NWZndVMjBXenRHNjdjU1VCWWFBQ0g5S1ppaDN5Zmt2VFQzTXEyaFotRzFBa1B4allYYjlzYWkzQnNob1VvcjY2VmpDWkdkRTBiMnVCS1dCanhpWlhfTjM4dFhjUlFrRFJWU1htMWthT2ctNFVjWQ?oc=5",
+   "source": "WEMU",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Local Government",
+   "iso": "2026-07-22T13:07:00Z",
+   "id": "b3fbc6a855eb",
+   "origin": "google-news",
+   "source_title": "Augusta Township voters to decide fate of data center rezoning - WEMU",
+   "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNlU2REtZdVkxZ2NiQTRVQnpoczB2aW9iaHp0WW5GZUE4RF9BVXJVaUZJM1h0NHhXR0NWZndVMjBXenRHNjdjU1VCWWFBQ0g5S1ppaDN5Zmt2VFQzTXEyaFotRzFBa1B4allYYjlzYWkzQnNob1VvcjY2VmpDWkdkRTBiMnVCS1dCanhpWlhfTjM4dFhjUlFrRFJWU1htMWthT2ctNFVjWQ?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "Court overturns local veto of massive AI campus, raising power and water worries",
    "dek": "After a township turned down the massive AI campus, a court ruling reopened the door for the $16 billion project. Neighbors now face renewed questions about who pays for new power lines and whether their wells and roads can handle the load. The decision shifts the fight from local zoning to the courtroom.",
@@ -154,38 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMFAwN2JFd2Z6emE1OFBUd1hpcDJ2WTZsaUd5RE5EdVdGQmtGLUFPbkdzVW81a3dJYzBwWmctbWNma05rYUo1UWJ2bGhYdGhLaUE4UlhFSWM4aExNSC1VSXhYM0hWRVo4NFRNYXhaRW85cF9XV3RXUXFObV9wTmh2YVdGWHUxTDFuT3BjdVJ0TmQ1c2lFSlNVeUd2OENtdlZjOUJvOWhZbDJqZk9ac3hFT1E2SHBJUDdNcjJIWXBsdVpXWVFVUkNGb3F3?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Manchester grants data center tax break after slashing request by 89%",
-   "dek": "The project will still receive local tax relief despite being scaled back sharply from the original ask. Residents in Manchester and surrounding Washtenaw County will see less revenue than developers first sought. The decision locks in long-term fiscal impacts for schools and township services.",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNnVpNkpEUGpwZXNQUWh6UjNOUjBINWk3UnlQTXdvMS03aFRTZWVSVGVXVjZiMnl6QVJGcm1laWlORnd2Q1d4UXcxdFBXUWtsV3pENUtHZG9wZzROX2g4amFvN2U0aU9ObnEwRmVIRFJCY0xHdzlMZUVwdFJ4dGdPVTN4VXlZUG1MR000d2FMX2lCZTRrdUdpVHpEYVFUbXpsLV9OejVvUGg5UW16X0RwTDhXbW5kV3hoM2Nr?oc=5",
-   "source": "The Manchester Mirror",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Money",
-   "iso": "2026-07-20T14:43:40Z",
-   "id": "43537ad8a54f",
-   "origin": "google-news",
-   "source_title": "Massive data center wins local tax break — but 9 times smaller than requested - The Manchester Mirror",
-   "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNnVpNkpEUGpwZXNQUWh6UjNOUjBINWk3UnlQTXdvMS03aFRTZWVSVGVXVjZiMnl6QVJGcm1laWlORnd2Q1d4UXcxdFBXUWtsV3pENUtHZG9wZzROX2g4amFvN2U0aU9ObnEwRmVIRFJCY0xHdzlMZUVwdFJ4dGdPVTN4VXlZUG1MR000d2FMX2lCZTRrdUdpVHpEYVFUbXpsLV9OejVvUGg5UW16X0RwTDhXbW5kV3hoM2Nr?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
-  },
-  {
-   "iso": "2026-07-20T10:00:00Z",
-   "region": "mid",
-   "cat": "Ingham Co.",
-   "tag": "Local Government",
-   "title": "Lansing City Council Enacts 182-Day Moratorium on New Data Center Proposals",
-   "dek": "The measure blocks consideration of any new projects until January 2027, giving officials time to develop permanent regulations amid growing local concerns.",
-   "source": "Michigan Advance",
-   "url": "https://michiganadvance.com/2026/07/20/michigan-data-centers-the-weekly-download-3-2-2-2-2/",
-   "breaking": false,
-   "lead": true,
-   "id": "db387e61ddae",
-   "accuracy": "checked",
-   "judge_score": 8
   }
  ],
  "national": {
@@ -203,6 +205,20 @@
   "accuracy": "checked"
  },
  "meetings": [
+  {
+   "iso": "2026-07-23",
+   "body": "Oxford Township Planning Commission",
+   "topic": "Discussion of draft data center ordinance; no projects proposed or approved yet",
+   "region": "SE Michigan",
+   "regionKey": "metro",
+   "county": "Oakland",
+   "time": "6:30 PM",
+   "status": "Planning commission",
+   "urgent": false,
+   "link": "https://oxfordtwpmi.gov/",
+   "linkLabel": "Agenda",
+   "stream": ""
+  },
   {
    "iso": "2026-07-23",
    "body": "Charter Township of Oxford Planning Commission",
