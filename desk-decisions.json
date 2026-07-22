@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYVU3MkwxNzlDZUwtcjRGc2g1RHpNV3FVYUpBcGVCODJTZUhmdllwQWViWWpqcW51Qk5jNUxGVlNpNnhoSUs2STNJYmN2MFZzdFNhZkJVajc5d0dFUjI2V1ZhUDJRcEZTdFF1eVFqTXAzZTRudjJkZjlqRzdyalpGWEFGS3czblhadUV5YXRCYjZxclVyZWkzWXdsQnFUY0NndmlXS3F0RW1TU194d0EwWm9oaHk?oc=5",
-   "title": "Livingston researchers warn tax deals need case-by-case scrutiny",
-   "at": "2026-07-09T22:40:39+00:00",
-   "by": "news_judge",
-   "note": "score 4/10, duplicate: Duplicate of killed 'Michigan researchers push case-by-case review of every data-center tax deal' and 'Experts Urge Case-by-Case Review' — same advocacy angle, "
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORUR4QWJkYmhGY2ZzWjBhVUU0M09ONFZiYV9JWVZ1ZEJyaXZUbkpGeDVZVURSRHkwcUxNTl9qd09tdVV4dDN6UTVmRzFydEVhbnd2VkUtMW5QWkwxQkhfTU9rcVppbjZiYi12UjYtMGd4RHdUVllzaEZ3ZGQtRHVvbTg1RW1ZUE1SOVVLZ0VLNjVNbk1jb0h4SXVjbWN5N2s1YVM5V0RTRFdOd051?oc=5",
    "title": "Garfield Twp edges toward year-long data center freeze",
    "at": "2026-07-09T22:40:39+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-07-22T04:25:12+00:00",
    "by": "news_judge",
    "note": "score 4/10: Explainer/educational piece on general risks rather than a specific decision, filing, or development."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONUh1ZWVFWjNtMU9TVWhWVE5PSGZkSDNXOWktZnNhZDBpaThWd1dnVGNrRXBFU3dGYXB0T0VkQUlERmxTOXlqRmJRbGk3S3BORk1TcHI0S3RFZDN0UHBpOHpSQVRoV3Z3QWU3bVBGVUx3ODJadHh6a3pGTmVDM3lVNUVmY1A0ZHI1dHJGaVBvS1dSb1p2bExrNEdCeE81Q2VhUjZSY3JHbkFnbGFTVXVDNGhweG5fR2xHN3FPTmI4bGhoeXJDaFk4Rkl3?oc=5",
+   "title": "Monroe County blocks new data centers and battery storage for 18 months",
+   "at": "2026-07-22T07:15:49+00:00",
+   "by": "news_judge",
+   "note": "score 1/10, duplicate: This is the exact same Monroe County 18-month moratorium already live in the first item of the ALREADY LIVE list."
   }
  ],
  "auto_published": [
