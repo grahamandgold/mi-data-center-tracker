@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vZDNBRV9lY1dnbW5ONEpvV0t2Ukd3Z0dLLUVfM25FcnVCSnYtbFBWck52WnlwTUZHbk9ybnp4d2J5NlhTaGRtU2hlTVJiM1dxamxHbEdrWFdST185ZkpHREgyZThUaDNXUGVscGFQMjZwa2lxZ3NQX2JMUQ?oc=5",
-   "title": "Grand Rapids joins nationwide protest against AI data center buildout",
-   "at": "2026-07-10T17:55:37+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Already killed as 'Grand Rapids joins nationwide protest against AI power hunger' — same July 18 rally event."
-  },
-  {
    "url": "https://www.mlive.com/news/ann-arbor/2026/07/vote-on-oracles-request-for-tax-break-postponed-amid-community-pushback-south-of-ann-arbor.html",
    "title": "Saline Township Board Delays Action on Oracle's $43 Billion Data Center Tax Incentives",
    "at": "2026-07-10T19:46:19+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-07-23T17:03:46+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Duplicate: already-live story 'Williamston Township residents grill officials on data center plans' covers this same hearing event."
+  },
+  {
+   "url": "https://ca.finance.yahoo.com/news/130-billion-ai-data-centers-100000367.html",
+   "title": "Local Opposition Blocks 75 Data Center Projects Worth $130 Billion",
+   "at": "2026-07-23T18:21:00+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece with aggregate statistics rather than a specific Michigan decision, filing, or development; lacks concrete local news value."
   }
  ],
  "auto_published": [

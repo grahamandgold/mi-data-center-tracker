@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-23T17:03:38+00:00",
+ "updated_at": "2026-07-23T18:20:49+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -204,7 +204,7 @@
   {
    "iso": "2026-07-23",
    "body": "Oxford Township Planning Commission",
-   "topic": "Discussion of proposed draft data center ordinance as starting point for public input; no action or specific projects under review",
+   "topic": "Discussion of draft data center ordinance as starting point for public input; no action expected",
    "region": "SE Michigan",
    "regionKey": "metro",
    "county": "Oakland",
@@ -212,8 +212,7 @@
    "status": "Planning commission",
    "urgent": false,
    "link": "https://oxfordtwpmi.gov/",
-   "linkLabel": "Agenda",
-   "stream": null
+   "linkLabel": "Agenda"
   },
   {
    "iso": "2026-07-23",
