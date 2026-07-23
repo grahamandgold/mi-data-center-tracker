@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-23T18:20:49+00:00",
+ "updated_at": "2026-07-23T19:58:00Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Saline Township flips, restoring Oracle's shot at big tax break",
+   "dek": "The board reversed its earlier limit on incentives for the proposed Oracle campus. Residents now face the prospect of forgoing years of property-tax revenue on a multibillion-dollar project that would draw heavy power and water. The change came after lobbying from the company and supporters who argue the facility would bring jobs.",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV2xHSlR2c2c5c2dLU1RWNTRyTXhua3Aweks1bzFKZlNuaW5pZFFnMmFzendBVHJLbFFDckh4RzlmWmRDUVRIM29uQjNvd3R6cU5xNHpCeG84ZW13S0IxWGdPV3BVWTAzS3g1NTZnb1dsZEpsZkRIZkZ6MXJKTWN0TWpNVm4ydnBPMmIxNVpxV1VDUEI1dlJrTERWRVJEVmYwalRGWWJB?oc=5",
+   "source": "CBS News",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Money",
+   "iso": "2026-07-23T19:42:54Z",
+   "id": "1365b994c555",
+   "origin": "google-news",
+   "source_title": "Saline Township reverses vote to limit Oracle's data center tax break - CBS News",
+   "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV2xHSlR2c2c5c2dLU1RWNTRyTXhua3Aweks1bzFKZlNuaW5pZFFnMmFzendBVHJLbFFDckh4RzlmWmRDUVRIM29uQjNvd3R6cU5xNHpCeG84ZW13S0IxWGdPV3BVWTAzS3g1NTZnb1dsZEpsZkRIZkZ6MXJKTWN0TWpNVm4ydnBPMmIxNVpxV1VDUEI1dlJrTERWRVJEVmYwalRGWWJB?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 9
+  },
   {
    "title": "Delta County bans new data centers for a year",
    "dek": "The county board voted to halt all data center proposals after residents raised concerns over noise, water use and strain on the rural grid. The one-year moratorium gives local officials time to write permanent zoning rules before any large projects can move forward. Power and water demands from even one hyperscale campus could affect rates and wells for years in this sparsely populated area.",
@@ -167,23 +184,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS05wdTRhdlM4bnNFLTNkRDRsT29YbmRBVGRuQWZYY1dVWDRzNHNJbEdwUm01OUJTWFc1bzF2WjJ1dFpvalFfRmY4TjhyaDhRWmRCTjRJUzgzQlNaWEF6aGN2amZQVXpRbWUwMjJnTkhDM1ljV2dGMC1tRExyWFFUSlQtbzNtdFRzX1BqUU83Z2tNUnlxTl9j?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 9
-  },
-  {
-   "title": "Augusta Township residents vote Aug. 4 on 300-acre data-center rezoning",
-   "dek": "Voters will decide whether to allow rezoning that could bring a large data-center campus to Augusta Township. Approval would open the door to hundreds of megawatts of new demand on Consumers Energy lines and possible well-water withdrawals. A no vote keeps the land in agricultural or low-density use and blocks the tax-base versus service-cost trade-off.",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNlU2REtZdVkxZ2NiQTRVQnpoczB2aW9iaHp0WW5GZUE4RF9BVXJVaUZJM1h0NHhXR0NWZndVMjBXenRHNjdjU1VCWWFBQ0g5S1ppaDN5Zmt2VFQzTXEyaFotRzFBa1B4allYYjlzYWkzQnNob1VvcjY2VmpDWkdkRTBiMnVCS1dCanhpWlhfTjM4dFhjUlFrRFJWU1htMWthT2ctNFVjWQ?oc=5",
-   "source": "WEMU",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Local Government",
-   "iso": "2026-07-22T13:07:00Z",
-   "id": "b3fbc6a855eb",
-   "origin": "google-news",
-   "source_title": "Augusta Township voters to decide fate of data center rezoning - WEMU",
-   "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNlU2REtZdVkxZ2NiQTRVQnpoczB2aW9iaHp0WW5GZUE4RF9BVXJVaUZJM1h0NHhXR0NWZndVMjBXenRHNjdjU1VCWWFBQ0g5S1ppaDN5Zmt2VFQzTXEyaFotRzFBa1B4allYYjlzYWkzQnNob1VvcjY2VmpDWkdkRTBiMnVCS1dCanhpWlhfTjM4dFhjUlFrRFJWU1htMWthT2ctNFVjWQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
   }
  ],
  "national": {
