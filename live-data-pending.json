@@ -1,34 +1,7 @@
 {
- "updated_at": "2026-07-23T22:33:33+00:00",
+ "updated_at": "2026-07-23T23:32:46+00:00",
  "generator": "grok-wire-agent",
  "items": [
-  {
-   "title": "Oxford Township weighs data center rules after year-long moratorium",
-   "dek": "The Charter Township of Oxford Planning Commission meets tonight to discuss a proposed draft data center ordinance. The township board enacted a one-year moratorium in February with no projects or applicants on file. Residents within 30 minutes could see effects on farmland, tax base, and future large-scale development if new zoning takes shape.",
-   "url": "https://www.facebook.com/CharterTwpofOxford/posts/regarding-the-proposed-draft-data-center-ordinance-that-will-be-discussed-at-the/",
-   "source": "Charter Township of Oxford Planning Commission agenda",
-   "region": "Southeast Michigan",
-   "county": "Oakland",
-   "cat": "Meetings",
-   "tag": "Agenda watch",
-   "iso": "2026-07-23T21:32:22+00:00",
-   "kind": "agenda",
-   "id": "e3fbd2406576",
-   "filed_at": "2026-07-23T21:32:22+00:00",
-   "accuracy": "unverified-source-unfetchable",
-   "findings": "No meeting packet or draft ordinance text is publicly extractable | Township Board voted 7-0 on Feb. 11, 2026 to enact one-year data center moratorium (Charter Township of Oxford Facebook post, July 20, 2026) | Township statements confirm no plans submitted or discussions with any parties (same Oxford Facebook post) | No prior Oxford Planning Commission votes on data-center or large-development items found | Comparable Michigan townships including Wixom (6 months) and Zeeland (12 months) enacted moratoriums while drafting regulations (Michigan Public, Wixomgov.org, Oxford Free Press)",
-   "perspective": "The Township Board passed the moratorium 7-0 in February after no prior Planning Commission action on similar items. The commission discusses the draft ordinance tonight with public comment expected, potentially advancing recommendations to the board as dozens of Michigan communities regulate data centers amid land-use and infrastructure concerns.",
-   "documents": [
-    {
-     "label": "Agenda page",
-     "url": "https://www.facebook.com/CharterTwpofOxford/posts/regarding-the-proposed-draft-data-center-ordinance-that-will-be-discussed-at-the/"
-    }
-   ],
-   "depth_score": 0,
-   "extraction_method": "vision-screenshot",
-   "judge_score": 7,
-   "judge_note": "Concrete new development: Planning Commission meeting tonight on draft ordinance following February moratorium, a clear next step in Oxford's regulatory process"
-  },
   {
    "iso": "2026-07-22T14:27:00+00:00",
    "region": "metro",
@@ -46,39 +19,7 @@
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7,
    "judge_note": "Planning commission reviewing draft ordinance is concrete progress in Augusta Township's ongoing data center saga, distinct from the August voter referendum alr"
-  },
-  {
-   "title": "Oxford posts draft data center rules for July 23 discussion",
-   "dek": "Township officials will present a starting-point draft at the planning commission meeting after enacting a one-year moratorium in February. No data center proposals have been submitted.",
-   "url": "https://oxfordtwpmi.gov/",
-   "source": "Charter Township of Oxford Planning Commission agenda",
-   "region": "Southeast Michigan",
-   "county": "Oakland",
-   "cat": "Meetings",
-   "tag": "Agenda watch",
-   "iso": "2026-07-22T11:31:18+00:00",
-   "kind": "agenda",
-   "id": "74bebb9ff8af",
-   "filed_at": "2026-07-22T11:31:18+00:00",
-   "accuracy": "checked-rewritten",
-   "findings": "As of July 20, 2026, no data center plans have been proposed, submitted or approved and the township has not been approached by any parties (township Facebook post) | Township Board voted 7-0 Feb. 11, 2026, to impose a one-year moratorium on data center establishment, permitting and construction (township Facebook post) | Draft ordinance is a starting point for discussion only; no action will be taken at the July 23 meeting (township Facebook post) | Michigan Zoning Enabling Act requires that zoning not totally prohibit lawful uses like data centers unless no suitable location exists (township Facebook post)",
-   "perspective": "The Oxford Township Board enacted the moratorium to give time to research and draft regulations. The planning commission meeting is for public questions and input on the draft; any ordinance changes would require further board action under state law.",
-   "documents": [
-    {
-     "label": "Agenda page",
-     "url": "https://oxfordtwpmi.gov/"
-    },
-    {
-     "label": "Social Media Policy",
-     "url": "https://oxfordtwpmi.gov/wp-content/uploads/2025/11/Oxford-Township-Social-Media-Usage-Policy-for-Guests.pdf"
-    }
-   ],
-   "depth_score": 8,
-   "extraction_method": "plain",
-   "headline_rewritten": true,
-   "judge_score": 6,
-   "judge_note": "Document-based agenda preview for Oxford's July 23 planning meeting on draft zoning rules following their moratorium."
   }
  ],
- "accuracy_checked_at": "2026-07-23T22:33:33+00:00"
+ "accuracy_checked_at": "2026-07-23T23:32:53+00:00"
 }
