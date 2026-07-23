@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-23T11:27:23Z",
+ "updated_at": "2026-07-23T13:08:33Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Delta County bans new data centers for a year",
+   "dek": "The county board voted to halt all data center proposals after residents raised concerns over noise, water use and strain on the rural grid. The one-year moratorium gives local officials time to write permanent zoning rules before any large projects can move forward. Power and water demands from even one hyperscale campus could affect rates and wells for years in this sparsely populated area.",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNXzlpNDlnRnJZZ3VqYnd0ZTJXdWkyNXg1OVBKaG9pYVA0b2dxbzdQZ0ZmVWFKY0xFUmFnRHN1OGw3NF9KWU92LXpFMVlqSkkyQlNMSGJxMG9LZ1A0N01nZmR2VHN1aXZKZHdPN00yVlBuWE02X0pMdHBaSkExMktHZlJoclUtZ204Y3BpekVQYUc0ejNrMXdOMFh1UGNwaXVDZ2lWVFRwcw?oc=5",
+   "source": "DailyPress.net",
+   "region": "north",
+   "cat": "STATEWIDE",
+   "county": "Delta",
+   "tag": "Local Government",
+   "iso": "2026-07-23T12:04:10Z",
+   "id": "94ec547f452f",
+   "origin": "google-news",
+   "source_title": "Delta County Board passes moratorium on data centers - DailyPress.net",
+   "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNXzlpNDlnRnJZZ3VqYnd0ZTJXdWkyNXg1OVBKaG9pYVA0b2dxbzdQZ0ZmVWFKY0xFUmFnRHN1OGw3NF9KWU92LXpFMVlqSkkyQlNMSGJxMG9LZ1A0N01nZmR2VHN1aXZKZHdPN00yVlBuWE02X0pMdHBaSkExMktHZlJoclUtZ204Y3BpekVQYUc0ejNrMXdOMFh1UGNwaXVDZ2lWVFRwcw?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 9
+  },
   {
    "title": "MLive map shows every active data center fight across Michigan",
    "dek": "The new dashboard lets residents track proposals, hearings, and moratoria by township and county. It surfaces stakes like megawatts demanded and potential tax deals in real time. Users can see how projects near them compare to battles elsewhere in the state.",
@@ -20,6 +37,21 @@
    "judge_score": 6
   },
   {
+   "iso": "2026-07-23T08:00:00+00:00",
+   "region": "metro",
+   "cat": "Oakland Co.",
+   "tag": "Local Government",
+   "title": "Wixom Keeps Data Center Pause to Shield Residents from Power Strain and Noise",
+   "dek": "City council rejected an early end to the moratorium on a three-building complex, citing risks to health and local resources that could raise resident costs.",
+   "source": "The Cooldown",
+   "url": "https://www.thecooldown.com/green-business/wixom-michigan-officials-reject-data-center-request/",
+   "breaking": false,
+   "lead": false,
+   "id": "9949003eddd0",
+   "accuracy": "checked-rewritten",
+   "judge_score": 8
+  },
+  {
    "title": "Williamston Township shelves data center zoning rules for now",
    "dek": "Williamston Township postponed action on new data center regulations, leaving residents without clear limits on where massive facilities can locate. The delay keeps uncertainty high for nearby homes and farms over noise, power lines, and water use. Local officials gave no timeline for when rules might return.",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUWJjd2Y2bkRDVnVtTHhNY0ZuT0U1QVpwekRNcE05OC1yOEpOYTJNQzkzaUlUTXp2bng0S3pkaVc3SkFSTElwSnUwcXNJNGUtcVM5cHIwS0ZqXzFvTlo3R3JNMUxaa1BuSjJsZGJnbm55dHFfOTNqdnRIWEhpQzBxYlAtRXpWQlFIWUI1bEdMSElvU2xEU2ZLdUN30gGuAUFVX3lxTE9IcWJPVzVHUjVQajA3SFZyaThhbUQ4ZmI1NWFxaU5GSUIxZ1NiWk1kWUg4bTlUc1BQdjhOdHdQTnhZcWpuckc4MzlfaFphaVpnamh3cDBySzIybFNCX1o3QjdiYmNLZzdjQWZqcWNMazNXQUZUNGhPcWJuYmVzYzRsamhYNjZqeUVBMmFxbVhaSFhDQXRSa1RrRVFUWFd6MEV3N0oyYk9NYnZtdUlmQQ?oc=5",
@@ -35,6 +67,21 @@
    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUWJjd2Y2bkRDVnVtTHhNY0ZuT0U1QVpwekRNcE05OC1yOEpOYTJNQzkzaUlUTXp2bng0S3pkaVc3SkFSTElwSnUwcXNJNGUtcVM5cHIwS0ZqXzFvTlo3R3JNMUxaa1BuSjJsZGJnbm55dHFfOTNqdnRIWEhpQzBxYlAtRXpWQlFIWUI1bEdMSElvU2xEU2ZLdUN30gGuAUFVX3lxTE9IcWJPVzVHUjVQajA3SFZyaThhbUQ4ZmI1NWFxaU5GSUIxZ1NiWk1kWUg4bTlUc1BQdjhOdHdQTnhZcWpuckc4MzlfaFphaVpnamh3cDBySzIybFNCX1o3QjdiYmNLZzdjQWZqcWNMazNXQUZUNGhPcWJuYmVzYzRsamhYNjZqeUVBMmFxbVhaSFhDQXRSa1RrRVFUWFd6MEV3N0oyYk9NYnZtdUlmQQ?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
+  },
+  {
+   "iso": "2026-07-23T03:13:00+00:00",
+   "region": "mid",
+   "cat": "Ingham Co.",
+   "tag": "Local Government",
+   "title": "Williamstown Township Delays Data Center Zoning Rules Until August",
+   "dek": "Planning commissioners tabled a proposed ordinance addressing setbacks, noise, water use and decommissioning after a public hearing where residents raised concerns about impacts on wildlife and resources.",
+   "source": "WILX",
+   "url": "https://www.wilx.com/2026/07/23/williamstown-township-tables-proposed-data-center-regulations/",
+   "breaking": false,
+   "lead": false,
+   "id": "a1533ca6eba3",
+   "accuracy": "social-post",
+   "judge_score": 6
   },
   {
    "title": "Williamston Township residents grill officials on data center plans",
@@ -137,57 +184,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNlU2REtZdVkxZ2NiQTRVQnpoczB2aW9iaHp0WW5GZUE4RF9BVXJVaUZJM1h0NHhXR0NWZndVMjBXenRHNjdjU1VCWWFBQ0g5S1ppaDN5Zmt2VFQzTXEyaFotRzFBa1B4allYYjlzYWkzQnNob1VvcjY2VmpDWkdkRTBiMnVCS1dCanhpWlhfTjM4dFhjUlFrRFJWU1htMWthT2ctNFVjWQ?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
-  },
-  {
-   "title": "Court overturns local veto of massive AI campus, raising power and water worries",
-   "dek": "After a township turned down the massive AI campus, a court ruling reopened the door for the $16 billion project. Neighbors now face renewed questions about who pays for new power lines and whether their wells and roads can handle the load. The decision shifts the fight from local zoning to the courtroom.",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR3lGMWVQclhHdkdOT0RXdnI4ckNKTFJ6TTdhOWFsZXEwU0c3cld6amVZcEszRW1tLUFnNWw0LUVfdkx3ajI1eWU4ZWNuc0ZadGI1bVpsUVY4Uy1DUXhwZHVISzdoTlg5akstUklTM2ZHbFVBNEpnNTNEWnZqSjZOMDVDLVpvZlFuVFBuYWhoVXA5d0NrNnc?oc=5",
-   "source": "Yahoo",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Policy",
-   "iso": "2026-07-22T07:13:00Z",
-   "id": "a7bb07ba328d",
-   "origin": "google-news",
-   "source_title": "Michigan township rejected a $16 billion AI data center, then a lawsuit cleared the way - Yahoo",
-   "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR3lGMWVQclhHdkdOT0RXdnI4ckNKTFJ6TTdhOWFsZXEwU0c3cld6amVZcEszRW1tLUFnNWw0LUVfdkx3ajI1eWU4ZWNuc0ZadGI1bVpsUVY4Uy1DUXhwZHVISzdoTlg5akstUklTM2ZHbFVBNEpnNTNEWnZqSjZOMDVDLVpvZlFuVFBuYWhoVXA5d0NrNnc?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
-  },
-  {
-   "title": "West Michigan residents sue hyperscale data center over constant noise",
-   "dek": "Homeowners near a large data center in West Michigan filed suit claiming the facility produces unreasonable and excessive noise that disrupts daily life. The lawsuit puts the operator on notice that neighbors will not quietly accept the side effects of massive server farms. Michigan ratepayers and nearby towns will watch closely to see if courts force changes or compensation.",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4dEw2LXZ4cllWZnVEekhXSzdDQ0ZKTWdObnJuTkpDMlRFRmtWMUI3ZzdYOG5IeHdyZUt6TGxzLU15NFItbldkS1F2S2FfNGFjYVNjUTBvUHJEeTQ?oc=5",
-   "source": "Mshale",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Ottawa",
-   "tag": "Local Government",
-   "iso": "2026-07-22T05:09:05Z",
-   "id": "4a4ec93d4c0b",
-   "origin": "google-news",
-   "source_title": "Residents Suing Hyperscale Data Center In West Michigan Over 'unreasonable, Excessive Noise' Vti Stock (0tLX9RhADB) - Mshale",
-   "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4dEw2LXZ4cllWZnVEekhXSzdDQ0ZKTWdObnJuTkpDMlRFRmtWMUI3ZzdYOG5IeHdyZUt6TGxzLU15NFItbldkS1F2S2FfNGFjYVNjUTBvUHJEeTQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
-  },
-  {
-   "title": "Monroe County halts all new data center and battery permits for 18 months",
-   "dek": "The board voted to freeze applications, shielding local roads, wells and the grid from sudden large-scale builds. Residents gain time to weigh how much power and water these projects would pull from the county. The pause applies equally to data centers and battery storage, two uses that often arrive together.",
-   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOdUJWS1dYYUJvdDNUWGpuTk8wa0hKZmlGcWhJZW51YXBZaWhUSTZZVjhFR3pjNUNqVU8wcjFMd2VxMjNaLWhrbjhvS09vcHlXN3QzVG9HQ1U3NXFZY01mbWtyenRodXJULTFOY2NHT0JONV9ta1hiYUNVb2NPWTN6VFg1cGtOX1RkUHJZUXRSZmVCOFRUS1NPZ0xBend2c1Fkak4zeTd4T3RlbWI3eXQ2WFV6T25pTVp3Mk1fLVZabWVlWXQ0RW5XaXRMYkEyYU5TUzNIdy1FNHNmNlZHclR4RE9sOVRvdEhwZzJkeWZIcGkxanVpdHAtZ1YxX2w0UEhnUExWMDNnUUNjQlRiU1k3Uk56MG5CZw?oc=5",
-   "source": "news8000.com",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Monroe",
-   "tag": "Local Government",
-   "iso": "2026-07-22T03:47:00Z",
-   "id": "518d296c68ec",
-   "origin": "google-news",
-   "source_title": "Monroe County board passes 18-month moratorium on data center and battery storage permits - news8000.com",
-   "source_url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOdUJWS1dYYUJvdDNUWGpuTk8wa0hKZmlGcWhJZW51YXBZaWhUSTZZVjhFR3pjNUNqVU8wcjFMd2VxMjNaLWhrbjhvS09vcHlXN3QzVG9HQ1U3NXFZY01mbWtyenRodXJULTFOY2NHT0JONV9ta1hiYUNVb2NPWTN6VFg1cGtOX1RkUHJZUXRSZmVCOFRUS1NPZ0xBend2c1Fkak4zeTd4T3RlbWI3eXQ2WFV6T25pTVp3Mk1fLVZabWVlWXQ0RW5XaXRMYkEyYU5TUzNIdy1FNHNmNlZHclR4RE9sOVRvdEhwZzJkeWZIcGkxanVpdHAtZ1YxX2w0UEhnUExWMDNnUUNjQlRiU1k3Uk56MG5CZw?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 9
   }
  ],
  "national": {

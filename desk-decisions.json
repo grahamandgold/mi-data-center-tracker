@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://wtvbam.com/2026/07/09/957539/",
-   "title": "Girard Township Confines All Data Centers to Its One Industrial Parcel",
-   "at": "2026-07-10T13:31:31+00:00",
-   "by": "news_judge",
-   "note": "score 4/10, duplicate: Duplicate of already-live 'Girard Township locks in tight new rules for any data center' — same ordinance approval."
-  },
-  {
-   "url": "https://www.uppermichiganssource.com/2026/07/09/houghton-city-council-approves-temporary-data-center-moratorium/",
-   "title": "Houghton Halts Data Center Permits for One Year",
-   "at": "2026-07-10T13:31:31+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Duplicate of already-live 'Houghton bans new data centers for a year after resident pushback' — same moratorium vote."
-  },
-  {
    "url": "https://www.circleofblue.org/2025/world/tech-giants-announce-7b-data-center-michigans-first-hyperscale-campus/",
    "title": "OpenAI-Oracle Data Center to Draw 1.4 Gigawatts from DTE in Saline",
    "at": "2026-07-10T15:59:18+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-07-23T11:27:23+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: This is the same Williamston Township public hearing already covered in 'Williamston Township residents grill officials on data center plans.'"
+  },
+  {
+   "url": "https://www.circleofblue.org/2026/world/inside-americas-first-data-center-only-utility/",
+   "title": "Indiana Approves Data-Center-Only Utility to Shield Ratepayers",
+   "at": "2026-07-23T13:08:33+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Indiana utility model is a national trend piece with limited direct relevance to Michigan data center tracking."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSGVUd2tNd2REbkJEUGdVYVU1dW5hZkdrQUxHWW1xQkpZa1lGMVltcEpvZ2xUTURjX1k5NWxjWEZJWGJWYndjX0dzS0xYQUFPRXJvVDZJM3BEYzdWTHdFeWxiSnRycURKRXo5RmowTlh1UGRoRDRFQm5yZ2FyOUNtYXpLNThiMjNKUUxsT1pzaVBUN3M?oc=5",
+   "title": "State keeps data center freeze after rejecting developer demands",
+   "at": "2026-07-23T13:08:33+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: This appears to be a rehash of 'Michigan keeps data center freeze after rejecting developer's ask' from the killed list, reporting the same regulatory decision."
   }
  ],
  "auto_published": [
@@ -2115,6 +2115,24 @@
    "title": "MLive map shows every active data center fight across Michigan",
    "judge_score": 6,
    "at": "2026-07-23T11:27:23Z"
+  },
+  {
+   "url": "https://www.wilx.com/2026/07/23/williamstown-township-tables-proposed-data-center-regulations/",
+   "title": "Williamstown Township Delays Data Center Zoning Rules Until August",
+   "judge_score": 6,
+   "at": "2026-07-23T13:08:33Z"
+  },
+  {
+   "url": "https://www.thecooldown.com/green-business/wixom-michigan-officials-reject-data-center-request/",
+   "title": "Wixom Keeps Data Center Pause to Shield Residents from Power Strain and Noise",
+   "judge_score": 8,
+   "at": "2026-07-23T13:08:33Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNXzlpNDlnRnJZZ3VqYnd0ZTJXdWkyNXg1OVBKaG9pYVA0b2dxbzdQZ0ZmVWFKY0xFUmFnRHN1OGw3NF9KWU92LXpFMVlqSkkyQlNMSGJxMG9LZ1A0N01nZmR2VHN1aXZKZHdPN00yVlBuWE02X0pMdHBaSkExMktHZlJoclUtZ204Y3BpekVQYUc0ejNrMXdOMFh1UGNwaXVDZ2lWVFRwcw?oc=5",
+   "title": "Delta County bans new data centers for a year",
+   "judge_score": 9,
+   "at": "2026-07-23T13:08:33Z"
   }
  ]
 }
