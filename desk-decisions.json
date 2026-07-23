@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbnlRYmNEWDZvRWRfb1VzSHFjQkR1T1lCNkt5ZnN3WmxMdnZmdmxrYzFwWlZqTHVvWHFISnhuRW9wSjhKaHU2c2g1cmNBTW5ubERIdHZSOUdoTW04c1BRY2pZZUl0WUo5VlViejg3QnVObFZaSko2QkZwZ3F5Z1FUXw?oc=5",
-   "title": "Michigan data center opposition surges in new report",
-   "at": "2026-07-10T11:28:40+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicate of the already-killed 'Report Finds Rising Anti-Data Center Sentiment Across Michigan Communities' story."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTll5UTJURmdKRzZyek5SZFRvQVVkb09pd25YZVlrVVR5VU9Ha0VsUG40aU5JNmpTWE1MeVFOeXlWUy05RFNBTERpRW43SzR1TUh1UFdyZml2d0FTRkhTRG4xZXhnRWdjVk9wc1RHal9MRlBNdU5fOEtDRTI4VUcxeF9QZ1hFYTF1Z3ktQVhEaWxpVzY1UDBIY2dQT0ZnRDk5VDNXTmFaajBfU25zSmd5WllZQjRJM28?oc=5",
    "title": "Northern Michigan township advances data center moratorium",
    "at": "2026-07-10T11:28:40+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-07-23T06:37:32+00:00",
    "by": "news_judge",
    "note": "score 2/10: National story about Georgia with no Michigan angle or impact."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT1NnRGw0RHhXUE0xbzVCcFNQZE9PRHhld0IzcVJpNDY4UGlyNHU2STV4Nm5nWVpuR0FhdFdEZEFjRklvNDZQM3p4WDRqUWR0YVNmWWFLRkpEdHVGSXJyRDRKelBocWxmcUpkUFJ1STFrWHBEVDdFbWtTUldwbkZ1Z2xibDdFOWtzTDU0UFJaOEF4N3pxLUIzZ1cwRQ?oc=5",
+   "title": "Michigan keeps data center freeze after rejecting developer's ask",
+   "at": "2026-07-23T09:31:24+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Headline is vague and lacks specifics—no named municipality, developer, or decision-making body identified, making it impossible to verify whether this is a con"
   }
  ],
  "auto_published": [

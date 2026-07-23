@@ -1,26 +1,7 @@
 {
- "updated_at": "2026-07-23T06:37:32Z",
+ "updated_at": "2026-07-23T09:31:24+00:00",
  "generator": "grok-wire-agent",
  "items": [
-  {
-   "iso": "2026-07-21T20:00:00+00:00",
-   "region": "metro",
-   "cat": "Washtenaw Co.",
-   "tag": "Money",
-   "title": "Saline Township Clears Bigger Tax Break for $43B Oracle Data Center",
-   "dek": "Board voted 5-0 to scrap the $4.8 billion valuation cap after the attorney warned it would breach a consent judgment, leaving only a clawback in place while residents fear lost tax revenue.",
-   "source": "Planet Detroit",
-   "url": "https://planetdetroit.org/2026/07/data-center-news-saline-township/",
-   "breaking": false,
-   "lead": false,
-   "id": "0abb34200abd",
-   "kind": "story",
-   "filed_at": "2026-07-22T11:59:12+00:00",
-   "accuracy": "checked-rewritten",
-   "headline_rewritten": true,
-   "judge_score": 9,
-   "judge_note": "Board voted 5-0 to remove the cap entirely—a concrete reversal of the earlier 89% slash story, now Oracle gets the full break."
-  },
   {
    "title": "Oxford posts draft data center rules for July 23 discussion",
    "dek": "Township officials will present a starting-point draft at the planning commission meeting after enacting a one-year moratorium in February. No data center proposals have been submitted.",
@@ -54,5 +35,5 @@
    "judge_note": "Document-based agenda preview for Oxford's July 23 planning meeting on draft zoning rules following their moratorium."
   }
  ],
- "accuracy_checked_at": "2026-07-23T06:37:28+00:00"
+ "accuracy_checked_at": "2026-07-23T09:31:21+00:00"
 }
