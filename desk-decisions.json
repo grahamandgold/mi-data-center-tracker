@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.circleofblue.org/2025/world/tech-giants-announce-7b-data-center-michigans-first-hyperscale-campus/",
-   "title": "OpenAI-Oracle Data Center to Draw 1.4 Gigawatts from DTE in Saline",
-   "at": "2026-07-10T15:59:18+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Rehashes the already-live Saline tax abatement story with national framing but reports the same Oracle/OpenAI deal and 12-year tax cut."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fSmxFNVRrQ3l4WWlyeW1aMHdTWnh4TzVnT2dxRldId3ZENmluMzhMeWhxUmxaV3l4eDFaSVo4YVE1RThxMkpCbVZFcjhWZjZQcWhNcHNIZTdUb2J1Nk1oZmlEY2NuSUdtVUZpLThHMVVFVzA?oc=5",
-   "title": "Grand Rapids joins nationwide protest against AI power hunger",
-   "at": "2026-07-10T15:59:18+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Scheduled protest event is thin; more about national coordination than Michigan-specific development or decision."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vZDNBRV9lY1dnbW5ONEpvV0t2Ukd3Z0dLLUVfM25FcnVCSnYtbFBWck52WnlwTUZHbk9ybnp4d2J5NlhTaGRtU2hlTVJiM1dxamxHbEdrWFdST185ZkpHREgyZThUaDNXUGVscGFQMjZwa2lxZ3NQX2JMUQ?oc=5",
    "title": "Grand Rapids joins nationwide protest against AI data center buildout",
    "at": "2026-07-10T17:55:37+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-07-23T13:08:33+00:00",
    "by": "news_judge",
    "note": "score 3/10, duplicate: This appears to be a rehash of 'Michigan keeps data center freeze after rejecting developer's ask' from the killed list, reporting the same regulatory decision."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcjRoWUc0VWRuQ09Ec09fMHhZSVNUVWJJLXhFWF8wNEhMZ1kwOUdrQ0VDb1RFMjZjMUUxWHBCVEo4VklEVmhyYVJfMDVPYzM2YXhHbmtTZFFWUXNSTHNVTWVVR19MaXZXLWJ1OGN4ekkxVVpFaDNmOHpaUTgtMUY5WjdidXdLRmtsaUN3WlBwaXdtZEwyZEw0NEhpNWtnYlp0X3pnNDdzZmtQM2ZQYU04c3F4RQ?oc=5",
+   "title": "Irondale's 'AI Love' festival draws backlash over data center ties",
+   "at": "2026-07-23T17:03:46+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Soft community reaction story about a festival name change and online criticism, lacks concrete development or official action."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRUxZYTRnX2g1ejF6RklMMnozSVN5bUNFSi14V1V1UUZYXzRTVWh2RlNvbURxUEFUTjlvN2ozQk9IeGFOZVJVOExZRzVPVlRyc01ncXVpMmpNbXB3Mjc1cmZtTkN0SjhDZGtHX2ZWTUlFZVJibE42N0dBcUpEMVNWZmVZWlhpVzFEWmZoYWJMcDM5Um92TVFuUGl3TdIBoAFBVV95cUxPS2FLcEszR2pvbWVZYnl2R2theVlhLVFEM0h1Ujc1eEpzSXd0WW5WTl9wV28xWnlkWTFJVFRGS09rRExsSXpiSm11TVZLMzlwaWthU1pjcU1fRzdOTjlXd0lyTFR4cE8zd2lqb0xaMm1uRm9KQTdVd1hsMnpvbC13VUd3cmFLUjlqQWsxdUtXN0hlcnJmRUU0bm1NajdXTmtp?oc=5",
+   "title": "Williamstown Township residents grill data center plans at hearing",
+   "at": "2026-07-23T17:03:46+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicate: already-live story 'Williamston Township residents grill officials on data center plans' covers this same hearing event."
   }
  ],
  "auto_published": [
