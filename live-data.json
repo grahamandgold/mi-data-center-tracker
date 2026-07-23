@@ -1,7 +1,41 @@
 {
- "updated_at": "2026-07-23T03:58:02+00:00",
+ "updated_at": "2026-07-23T06:37:32Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Williamston Township shelves data center zoning rules for now",
+   "dek": "Williamston Township postponed action on new data center regulations, leaving residents without clear limits on where massive facilities can locate. The delay keeps uncertainty high for nearby homes and farms over noise, power lines, and water use. Local officials gave no timeline for when rules might return.",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUWJjd2Y2bkRDVnVtTHhNY0ZuT0U1QVpwekRNcE05OC1yOEpOYTJNQzkzaUlUTXp2bng0S3pkaVc3SkFSTElwSnUwcXNJNGUtcVM5cHIwS0ZqXzFvTlo3R3JNMUxaa1BuSjJsZGJnbm55dHFfOTNqdnRIWEhpQzBxYlAtRXpWQlFIWUI1bEdMSElvU2xEU2ZLdUN30gGuAUFVX3lxTE9IcWJPVzVHUjVQajA3SFZyaThhbUQ4ZmI1NWFxaU5GSUIxZ1NiWk1kWUg4bTlUc1BQdjhOdHdQTnhZcWpuckc4MzlfaFphaVpnamh3cDBySzIybFNCX1o3QjdiYmNLZzdjQWZqcWNMazNXQUZUNGhPcWJuYmVzYzRsamhYNjZqeUVBMmFxbVhaSFhDQXRSa1RrRVFUWFd6MEV3N0oyYk9NYnZtdUlmQQ?oc=5",
+   "source": "WILX",
+   "region": "mid",
+   "cat": "STATEWIDE",
+   "county": "Ingham",
+   "tag": "Local Government",
+   "iso": "2026-07-23T03:13:00Z",
+   "id": "f334a2a49789",
+   "origin": "google-news",
+   "source_title": "Williamstown Township tables proposed data center regulations - WILX",
+   "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUWJjd2Y2bkRDVnVtTHhNY0ZuT0U1QVpwekRNcE05OC1yOEpOYTJNQzkzaUlUTXp2bng0S3pkaVc3SkFSTElwSnUwcXNJNGUtcVM5cHIwS0ZqXzFvTlo3R3JNMUxaa1BuSjJsZGJnbm55dHFfOTNqdnRIWEhpQzBxYlAtRXpWQlFIWUI1bEdMSElvU2xEU2ZLdUN30gGuAUFVX3lxTE9IcWJPVzVHUjVQajA3SFZyaThhbUQ4ZmI1NWFxaU5GSUIxZ1NiWk1kWUg4bTlUc1BQdjhOdHdQTnhZcWpuckc4MzlfaFphaVpnamh3cDBySzIybFNCX1o3QjdiYmNLZzdjQWZqcWNMazNXQUZUNGhPcWJuYmVzYzRsamhYNjZqeUVBMmFxbVhaSFhDQXRSa1RrRVFUWFd6MEV3N0oyYk9NYnZtdUlmQQ?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
+  {
+   "title": "Williamston Township residents grill officials on data center plans",
+   "dek": "Hundreds turned out for a public hearing on data centers in Williamston Township, pressing the board on traffic, noise, and electric rates. No vote was taken, but the session showed strong local opposition to letting projects move forward without strict controls. The township now has more time to decide its next step.",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS2FLcEszR2pvbWVZYnl2R2theVlhLVFEM0h1Ujc1eEpzSXd0WW5WTl9wV28xWnlkWTFJVFRGS09rRExsSXpiSm11TVZLMzlwaWthU1pjcU1fRzdOTjlXd0lyTFR4cE8zd2lqb0xaMm1uRm9KQTdVd1hsMnpvbC13VUd3cmFLUjlqQWsxdUtXN0hlcnJmRUU0bm1NajdXTmtp0gGgAUFVX3lxTE9LYUtwSzNHam9tZVlieXZHa2F5WWEtUUQzSHVSNzV4SnNJd3RZblZOX3BXbzFaeWRZMUlUVEZLT2tETGxJemJKbXVNVkszOXBpa2FTWmNxTV9HN05OOVd3SXJMVHhwTzN3aWpvTFoybW5Gb0pBN1V3WGwyem9sLXdVR3dyYUtSOWpBazF1S1c3SGVycmZFRTRubU1qN1dOa2k?oc=5",
+   "source": "WLNS 6 News",
+   "region": "mid",
+   "cat": "STATEWIDE",
+   "county": "Ingham",
+   "tag": "Local Government",
+   "iso": "2026-07-22T23:39:03Z",
+   "id": "a7368d096a23",
+   "origin": "google-news",
+   "source_title": "Williamston Township holds public hearing on data centers - WLNS 6 News",
+   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS2FLcEszR2pvbWVZYnl2R2theVlhLVFEM0h1Ujc1eEpzSXd0WW5WTl9wV28xWnlkWTFJVFRGS09rRExsSXpiSm11TVZLMzlwaWthU1pjcU1fRzdOTjlXd0lyTFR4cE8zd2lqb0xaMm1uRm9KQTdVd1hsMnpvbC13VUd3cmFLUjlqQWsxdUtXN0hlcnJmRUU0bm1NajdXTmtp0gGgAUFVX3lxTE9LYUtwSzNHam9tZVlieXZHa2F5WWEtUUQzSHVSNzV4SnNJd3RZblZOX3BXbzFaeWRZMUlUVEZLT2tETGxJemJKbXVNVkszOXBpa2FTWmNxTV9HN05OOVd3SXJMVHhwTzN3aWpvTFoybW5Gb0pBN1V3WGwyem9sLXdVR3dyYUtSOWpBazF1S1c3SGVycmZFRTRubU1qN1dOa2k?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Ann Arbor-area township writes new rules ahead of Big Tech data center",
    "dek": "Pittsfield Township is drafting zoning and performance standards for a potential hyperscale project that could draw hundreds of megawatts. Residents 30 minutes away will feel the impact on local roads, water use and electric rates if the rules are too loose or too strict. The township wants guardrails in place before any formal application lands.",
@@ -154,40 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdHZTei1RclhNZW50WFhKTHdFQXRoRkhzS2lxaXhFd0RCckVsUlJxc0lQMmh6MmpJYldKXzVuck5YS0toNVJNVlhTOG4tOU96YUVmczcyTE0xX2VDQll6VWZkZGlCNmxWdzMzODdtcGR4NTFhVGdyWXlqQ2VVa3U3NDJXUzNvcTVMN1NmYkpXb05ILWc?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Tech giants agree to pay for power infrastructure as Michigan shields ratepayers",
-   "dek": "The agreement aims to prevent ratepayers from footing the full bill for new transmission lines and upgrades. Michigan officials secured commitments from major tech companies amid rising power demand. The deal could shape how future projects are funded across the state.",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSEdLcUhERV9POXRlZGlkemVlSFEyM19IOE8wdmFUZC16TnpDd0c0eThWTnZIY3YzNTlaX3pVd2w2MVFrYjdhTjJxdTUyWXhPbHlsdjkyVTdvcTVFdXd4WUpYN0pSOVpLSVhsTDFiTXVfc3Z0OUhSVTdJa2Zib2RsbjBWeHl6LWZ0ZjJPcA?oc=5",
-   "source": "TechInformed",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Power & Grid",
-   "iso": "2026-07-21T14:08:22Z",
-   "id": "1e72882c6666",
-   "origin": "google-news",
-   "source_title": "Michigan secures Big Tech pledge on data-center grid costs - TechInformed",
-   "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSEdLcUhERV9POXRlZGlkemVlSFEyM19IOE8wdmFUZC16TnpDd0c0eThWTnZIY3YzNTlaX3pVd2w2MVFrYjdhTjJxdTUyWXhPbHlsdjkyVTdvcTVFdXd4WUpYN0pSOVpLSVhsTDFiTXVfc3Z0OUhSVTdJa2Zib2RsbjBWeHl6LWZ0ZjJPcA?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
-  },
-  {
-   "title": "Township removes ceiling on incentives for power-hungry server farm",
-   "dek": "After earlier resistance, Saline Township dropped its proposed limit on how large a tax break a data-center project can receive. The move opens the door to bigger incentives for a project that could draw hundreds of megawatts and reshape local tax rolls. Residents 30 minutes away will feel the impact through school funding, road wear, and water demand tied to the campus.",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XTzNoQWRnZDRDLWJabWJMdVNTeEhmbHJ5MDlEM2hJb0dSU1laZjRMNENINklOSnFweTBJMUw1TXE4N3NNWE8ydmNlSzRXZlg3UGZGb0MyZ042dm4zRkVGOFBuWXRpWGJoU1l6dWJ5Wm1BZFk5anc?oc=5",
-   "source": "Planet Detroit",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Money",
-   "iso": "2026-07-21T13:40:12Z",
-   "id": "1bd823c0e560",
-   "origin": "google-news",
-   "source_title": "Data center news: Saline Township reverses course, drops cap on data center tax break - Planet Detroit",
-   "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XTzNoQWRnZDRDLWJabWJMdVNTeEhmbHJ5MDlEM2hJb0dSU1laZjRMNENINklOSnFweTBJMUw1TXE4N3NNWE8ydmNlSzRXZlg3UGZGb0MyZ042dm4zRkVGOFBuWXRpWGJoU1l6dWJ5Wm1BZFk5anc?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
   }
  ],
  "national": {
@@ -207,6 +207,20 @@
  "meetings": [
   {
    "iso": "2026-07-23",
+   "body": "Oxford Township Planning Commission",
+   "topic": "Discussion of draft data center ordinance; no action expected, public input sought",
+   "region": "SE Michigan",
+   "regionKey": "metro",
+   "county": "Oakland",
+   "time": "6:30 PM",
+   "status": "Planning commission",
+   "urgent": false,
+   "link": "https://oxfordtwpmi.gov/",
+   "linkLabel": "Agenda",
+   "stream": null
+  },
+  {
+   "iso": "2026-07-23",
    "body": "Charter Township of Oxford Planning Commission",
    "topic": "Discussion of draft data center ordinance; no action or plans submitted",
    "region": "SE Michigan",
@@ -217,20 +231,6 @@
    "urgent": false,
    "link": "https://www.facebook.com/CharterTwpofOxford/posts/regarding-the-proposed-draft-data-center-ordinance-that-will-be-discussed-at-the/",
    "linkLabel": "Agenda/Notice",
-   "stream": null
-  },
-  {
-   "iso": "2026-07-23",
-   "body": "Oxford Township Planning Commission",
-   "topic": "First discussion of draft data center ordinance; no action expected",
-   "region": "SE Michigan",
-   "regionKey": "metro",
-   "county": "Oakland",
-   "time": "6:30 PM",
-   "status": "Planning commission",
-   "urgent": false,
-   "link": "https://oxfordtwpmi.gov/",
-   "linkLabel": "Agenda",
    "stream": null
   }
  ],

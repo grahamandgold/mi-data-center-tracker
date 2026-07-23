@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTHJDejQ1Y251dGh2Rm5XMDNzUWlaQ2ZfeE9MdlVmTVY3NTM3UGNCdWNWWUdtWS1fTm5NQjlDVE9Sb1dJZDhYVFJGX1hhb2JZdkpCY0xLNm1hTGZfUEVHRm5lbjRIcmxqQjBvRTFqVWhVa3BSaC1HZHk2N2Rub3RaanV5X29jTzY5Rno5cTlRWnZFSjBYTWNn0gGcAUFVX3lxTE90SkxVV3p4VGhLd00tQVhfNmRMVTBRXzU5cU5QU3hNa3BaemVIVldXWTdvUFFDSUVCTW1ucVVuOTZqVWlTZGlkTUIyX2F3NjVoOWxVY3lCenc3VnplLU1FVWFfR1BwYnl4NVo2eUFPWlUxdTZTbzhCN0dsUVNUUUltd0Q1XzZEZGktLUFIWi1HWWpYQXFTUzZBQTJVbg?oc=5",
-   "title": "Data center power fears shape Michigan Senate primary race",
-   "at": "2026-07-10T11:28:40+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: Campaign rhetoric about data centers in a primary race; no concrete policy action, filing, or vote—just candidate positioning."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbnlRYmNEWDZvRWRfb1VzSHFjQkR1T1lCNkt5ZnN3WmxMdnZmdmxrYzFwWlZqTHVvWHFISnhuRW9wSjhKaHU2c2g1cmNBTW5ubERIdHZSOUdoTW04c1BRY2pZZUl0WUo5VlViejg3QnVObFZaSko2QkZwZ3F5Z1FUXw?oc=5",
    "title": "Michigan data center opposition surges in new report",
    "at": "2026-07-10T11:28:40+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-07-23T03:58:05+00:00",
    "by": "news_judge",
    "note": "score 4/10: Generic campaign debate on data center power costs without a specific policy proposal, vote, or filing; overlaps thematically with already-killed gubernatorial "
+  },
+  {
+   "url": "https://www.walb.com/video/2026/07/22/openai-announces-plans-new-data-center-effingham-county/",
+   "title": "OpenAI Unveils Plans for Major Data Center in Georgia's Effingham County",
+   "at": "2026-07-23T06:37:32+00:00",
+   "by": "news_judge",
+   "note": "score 2/10: National story about Georgia with no Michigan angle or impact."
   }
  ],
  "auto_published": [
@@ -2097,6 +2097,18 @@
    "title": "Ann Arbor-area township writes new rules ahead of Big Tech data center",
    "judge_score": 7,
    "at": "2026-07-22T19:39:34Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS2FLcEszR2pvbWVZYnl2R2theVlhLVFEM0h1Ujc1eEpzSXd0WW5WTl9wV28xWnlkWTFJVFRGS09rRExsSXpiSm11TVZLMzlwaWthU1pjcU1fRzdOTjlXd0lyTFR4cE8zd2lqb0xaMm1uRm9KQTdVd1hsMnpvbC13VUd3cmFLUjlqQWsxdUtXN0hlcnJmRUU0bm1NajdXTmtp0gGgAUFVX3lxTE9LYUtwSzNHam9tZVlieXZHa2F5WWEtUUQzSHVSNzV4SnNJd3RZblZOX3BXbzFaeWRZMUlUVEZLT2tETGxJemJKbXVNVkszOXBpa2FTWmNxTV9HN05OOVd3SXJMVHhwTzN3aWpvTFoybW5Gb0pBN1V3WGwyem9sLXdVR3dyYUtSOWpBazF1S1c3SGVycmZFRTRubU1qN1dOa2k?oc=5",
+   "title": "Williamston Township residents grill officials on data center plans",
+   "judge_score": 7,
+   "at": "2026-07-23T06:37:32Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUWJjd2Y2bkRDVnVtTHhNY0ZuT0U1QVpwekRNcE05OC1yOEpOYTJNQzkzaUlUTXp2bng0S3pkaVc3SkFSTElwSnUwcXNJNGUtcVM5cHIwS0ZqXzFvTlo3R3JNMUxaa1BuSjJsZGJnbm55dHFfOTNqdnRIWEhpQzBxYlAtRXpWQlFIWUI1bEdMSElvU2xEU2ZLdUN30gGuAUFVX3lxTE9IcWJPVzVHUjVQajA3SFZyaThhbUQ4ZmI1NWFxaU5GSUIxZ1NiWk1kWUg4bTlUc1BQdjhOdHdQTnhZcWpuckc4MzlfaFphaVpnamh3cDBySzIybFNCX1o3QjdiYmNLZzdjQWZqcWNMazNXQUZUNGhPcWJuYmVzYzRsamhYNjZqeUVBMmFxbVhaSFhDQXRSa1RrRVFUWFd6MEV3N0oyYk9NYnZtdUlmQQ?oc=5",
+   "title": "Williamston Township shelves data center zoning rules for now",
+   "judge_score": 8,
+   "at": "2026-07-23T06:37:32Z"
   }
  ]
 }
