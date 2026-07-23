@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTll5UTJURmdKRzZyek5SZFRvQVVkb09pd25YZVlrVVR5VU9Ha0VsUG40aU5JNmpTWE1MeVFOeXlWUy05RFNBTERpRW43SzR1TUh1UFdyZml2d0FTRkhTRG4xZXhnRWdjVk9wc1RHal9MRlBNdU5fOEtDRTI4VUcxeF9QZ1hFYTF1Z3ktQVhEaWxpVzY1UDBIY2dQT0ZnRDk5VDNXTmFaajBfU25zSmd5WllZQjRJM28?oc=5",
-   "title": "Northern Michigan township advances data center moratorium",
-   "at": "2026-07-10T11:28:40+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Too vague—'northern Michigan township' without naming which one makes this unverifiable speculation or thin aggregation rather than a concrete development."
-  },
-  {
    "url": "https://wtvbam.com/2026/07/09/957539/",
    "title": "Girard Township Confines All Data Centers to Its One Industrial Parcel",
    "at": "2026-07-10T13:31:31+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-07-23T09:31:24+00:00",
    "by": "news_judge",
    "note": "score 3/10: Headline is vague and lacks specifics—no named municipality, developer, or decision-making body identified, making it impossible to verify whether this is a con"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbHlFWWdSVllDVzNYSnJ4RV9jNVFvMTR0Vy1rNGlVemNqMnM1RHJwaXFqUlpYYkhVelNHVkhRb3c2bUV2RmF0UnQ4eTF3aS0zeXM3d2xVUWdwa1RScnhyZy1jTGh5YWtuRkJzbG40MmxDUm9DZ1Z4WDJlam9zVTVSUWVoX3Njb0RHRzR6Z2RyN3prbERVaXg0enEyLVNaSEZaNlBj?oc=5",
+   "title": "Williamston residents pack hearing to question data center plans",
+   "at": "2026-07-23T11:27:23+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This is the same Williamston Township public hearing already covered in 'Williamston Township residents grill officials on data center plans.'"
   }
  ],
  "auto_published": [
@@ -2109,6 +2109,12 @@
    "title": "Williamston Township shelves data center zoning rules for now",
    "judge_score": 8,
    "at": "2026-07-23T06:37:32Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYkdwbFYyam9yOVNYZ3JBUzNXY1pXMVZMQUVnZEVLbXRfRHNKaWoweTlscUNLbGt3YU1Rd1BXZDdyRVhPZU5yVmt0S21vWjR3RkQ5Sjd4UDRveS12ZWtMVm1uQ1ZLQklGNm04QkxEMVZZUjYtYXp3V1JPZGQtY05MQVBLNGJzMEszYXB0T0JqdWNqX1N3eHQzUEp1RElrWmJKYjQ4WG5wRkpFQ0V0N3JYTmkwS0ZhMFFvUG01dXhMUzNkQQ?oc=5",
+   "title": "MLive map shows every active data center fight across Michigan",
+   "judge_score": 6,
+   "at": "2026-07-23T11:27:23Z"
   }
  ]
 }

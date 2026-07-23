@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-23T09:31:21+00:00",
+ "updated_at": "2026-07-23T11:27:23Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "MLive map shows every active data center fight across Michigan",
+   "dek": "The new dashboard lets residents track proposals, hearings, and moratoria by township and county. It surfaces stakes like megawatts demanded and potential tax deals in real time. Users can see how projects near them compare to battles elsewhere in the state.",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYkdwbFYyam9yOVNYZ3JBUzNXY1pXMVZMQUVnZEVLbXRfRHNKaWoweTlscUNLbGt3YU1Rd1BXZDdyRVhPZU5yVmt0S21vWjR3RkQ5Sjd4UDRveS12ZWtMVm1uQ1ZLQklGNm04QkxEMVZZUjYtYXp3V1JPZGQtY05MQVBLNGJzMEszYXB0T0JqdWNqX1N3eHQzUEp1RElrWmJKYjQ4WG5wRkpFQ0V0N3JYTmkwS0ZhMFFvUG01dXhMUzNkQQ?oc=5",
+   "source": "MLive.com",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Explainers",
+   "iso": "2026-07-23T11:04:00Z",
+   "id": "455bf278cc9b",
+   "origin": "google-news",
+   "source_title": "MLive interactive dashboard tracks the data center battle raging across Michigan - MLive.com",
+   "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYkdwbFYyam9yOVNYZ3JBUzNXY1pXMVZMQUVnZEVLbXRfRHNKaWoweTlscUNLbGt3YU1Rd1BXZDdyRVhPZU5yVmt0S21vWjR3RkQ5Sjd4UDRveS12ZWtMVm1uQ1ZLQklGNm04QkxEMVZZUjYtYXp3V1JPZGQtY05MQVBLNGJzMEszYXB0T0JqdWNqX1N3eHQzUEp1RElrWmJKYjQ4WG5wRkpFQ0V0N3JYTmkwS0ZhMFFvUG01dXhMUzNkQQ?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
   {
    "title": "Williamston Township shelves data center zoning rules for now",
    "dek": "Williamston Township postponed action on new data center regulations, leaving residents without clear limits on where massive facilities can locate. The delay keeps uncertainty high for nearby homes and farms over noise, power lines, and water use. Local officials gave no timeline for when rules might return.",
@@ -171,23 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOdUJWS1dYYUJvdDNUWGpuTk8wa0hKZmlGcWhJZW51YXBZaWhUSTZZVjhFR3pjNUNqVU8wcjFMd2VxMjNaLWhrbjhvS09vcHlXN3QzVG9HQ1U3NXFZY01mbWtyenRodXJULTFOY2NHT0JONV9ta1hiYUNVb2NPWTN6VFg1cGtOX1RkUHJZUXRSZmVCOFRUS1NPZ0xBend2c1Fkak4zeTd4T3RlbWI3eXQ2WFV6T25pTVp3Mk1fLVZabWVlWXQ0RW5XaXRMYkEyYU5TUzNIdy1FNHNmNlZHclR4RE9sOVRvdEhwZzJkeWZIcGkxanVpdHAtZ1YxX2w0UEhnUExWMDNnUUNjQlRiU1k3Uk56MG5CZw?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 9
-  },
-  {
-   "title": "GOP chair floats ban on utility deals that shield data centers from rate hikes",
-   "dek": "Michigan Republican Party chair says he may back legislation stopping DTE and Consumers Energy from shifting data-center power costs onto households. The move would affect how billions in new grid upgrades get paid for across the state. Ratepayers in both utility territories would see the biggest difference if the ban passes.",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdHZTei1RclhNZW50WFhKTHdFQXRoRkhzS2lxaXhFd0RCckVsUlJxc0lQMmh6MmpJYldKXzVuck5YS0toNVJNVlhTOG4tOU96YUVmczcyTE0xX2VDQll6VWZkZGlCNmxWdzMzODdtcGR4NTFhVGdyWXlqQ2VVa3U3NDJXUzNvcTVMN1NmYkpXb05ILWc?oc=5",
-   "source": "Yahoo",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Power & Grid",
-   "iso": "2026-07-21T18:47:10Z",
-   "id": "f3d546ba1366",
-   "origin": "google-news",
-   "source_title": "Michigan GOP chair says he might support ban on DTE, Consumers giving - Yahoo",
-   "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdHZTei1RclhNZW50WFhKTHdFQXRoRkhzS2lxaXhFd0RCckVsUlJxc0lQMmh6MmpJYldKXzVuck5YS0toNVJNVlhTOG4tOU96YUVmczcyTE0xX2VDQll6VWZkZGlCNmxWdzMzODdtcGR4NTFhVGdyWXlqQ2VVa3U3NDJXUzNvcTVMN1NmYkpXb05ILWc?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {
