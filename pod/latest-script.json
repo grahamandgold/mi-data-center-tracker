@@ -1,241 +1,185 @@
 {
- "title": "Mornings with Graham & Emmy",
- "teaser": "DTE profits from data centers could mean higher rates for Michigan households.",
+ "title": "Evenings with Graham & Emmy",
+ "teaser": "Garfield hits pause on data centers after a sloppy filing sparks bigger questions on power and water.",
  "lines": [
   {
    "host": "Graham",
-   "text": "Good morning, and welcome to Mornings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
+   "text": "Good evening and welcome to Evenings with Graham & Emmy, the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
   },
   {
    "host": "Emmy",
-   "text": "And I'm Emmy."
+   "text": "And I'm Emmy. Tonight we're starting with a township that just slammed the brakes on new projects after one incomplete application landed on their desk."
   },
   {
    "host": "Graham",
-   "text": "Today we're digging into how data center expansion is shaping up as a major earnings driver for DTE Energy and what that could mean for everyday ratepayers across the state."
+   "text": "That's right, Emmy. Garfield Township supervisors voted today to block new data centers for at least a year. The move came after a project filing arrived that was missing key details on power lines, water use, and more."
   },
   {
    "host": "Emmy",
-   "text": "That sounds like the kind of story that hits right in the wallet, Graham. Let's start there."
+   "text": "What exactly was sloppy about it? Was it just paperwork or something bigger that got residents worried?"
   },
   {
    "host": "Graham",
-   "text": "DTE's Q2 preview out today flags data-center growth as a key part of their earnings picture."
+   "text": "The application was incomplete on several fronts, including how the facility would connect to the grid and draw from local water supplies. Supervisors decided they needed time to write proper rules before anything big locks in."
   },
   {
    "host": "Emmy",
-   "text": "So the utility sees this as a positive for their bottom line, but how does that translate to customers?"
+   "text": "This feels like part of a bigger pattern we've seen across the state. How many other places have done something similar lately?"
   },
   {
    "host": "Graham",
-   "text": "More demand on the grid often means new infrastructure costs or higher rates passed along to households."
+   "text": "Quite a few. Delta County just passed its own one-year ban after residents raised noise and grid concerns. Calhoun County is debating the same thing over power strain and whether jobs will actually benefit locals. Wixom extended its pause, and Williamston Township shelved its zoning rules for now."
   },
   {
    "host": "Emmy",
-   "text": "We've seen charges tied to similar projects already in parts of their territory, right?"
+   "text": "Why are so many rural and suburban townships hitting pause at once? Is it the scale of these projects or something specific about Michigan's grid?"
   },
   {
    "host": "Graham",
-   "text": "Exactly. Ratepayers in those areas have already felt added fees linked to earlier builds."
+   "text": "It's the combination. A single hyperscale campus can pull hundreds of megawatts and millions of gallons of water daily. That kind of demand hits ratepayers through higher bills or new infrastructure costs, especially in DTE territory where several projects are clustering."
   },
   {
    "host": "Emmy",
-   "text": "How long has this tension between data centers and utilities been building in Michigan?"
+   "text": "We've heard about DTE's earnings getting a boost from data centers. Does that mean households end up paying more to support the growth?"
   },
   {
    "host": "Graham",
-   "text": "It's been ramping up over the past couple of years as hyperscale projects started landing in the Midwest."
+   "text": "Often yes. Yesterday's Q2 preview from DTE highlighted data-center demand as a profit driver, but that expansion usually means added charges passed along. Michigan ratepayers have already seen similar costs from earlier projects in the service area."
   },
   {
    "host": "Emmy",
-   "text": "Who are the main players pushing these projects forward?"
+   "text": "What about the land itself? Are we talking prime farmland or just empty fields in most of these cases?"
   },
   {
    "host": "Graham",
-   "text": "Big tech firms like Oracle alongside local utilities and economic development groups."
+   "text": "It varies, but many proposals sit near residential areas or working farms. In Garfield the site is close enough that neighbors are already asking about property values and long-term water availability."
   },
   {
    "host": "Emmy",
-   "text": "And on the other side, who is raising the alarms about costs?"
+   "text": "So the one-year freeze gives the township breathing room to draft rules. What kinds of standards are they likely looking at?"
   },
   {
    "host": "Graham",
-   "text": "Township officials, residents, and county commissioners worried about power strain and local resources."
+   "text": "Noise limits, setbacks from homes, water-use caps, and maybe requirements for the company to cover some grid upgrades instead of passing everything to ratepayers. Other townships that paused earlier are using this time for exactly that."
   },
   {
    "host": "Emmy",
-   "text": "What does a big data center actually pull in terms of electricity?"
+   "text": "Who are the main players pushing back versus pushing forward in these fights?"
   },
   {
    "host": "Graham",
-   "text": "Hundreds of megawatts in many cases, which is enough to power tens of thousands of homes."
+   "text": "Residents and local boards are usually the ones raising red flags on resources and taxes. Companies like Oracle and their supporters argue for jobs and economic development, and we've seen lobbying flip positions, like in Saline Township recently."
   },
   {
    "host": "Emmy",
-   "text": "That kind of load has to affect planning for the whole grid."
+   "text": "That Saline reversal on tax incentives for the Oracle project happened yesterday too. How does that fit into the bigger picture?"
   },
   {
    "host": "Graham",
-   "text": "It does, and utilities like DTE have to decide whether to build new generation or transmission to keep up."
+   "text": "It shows the tension. The board restored the company's shot at a big tax break after earlier limits. That could mean forgoing years of property-tax revenue on a multibillion-dollar facility that would still pull heavy power and water from the DTE area."
   },
   {
    "host": "Emmy",
-   "text": "Water use is another big piece I've heard about."
+   "text": "And Augusta Township is nearing its own vote on zoning and tax terms for a similar-scale project. What happens if that one goes through?"
   },
   {
    "host": "Graham",
-   "text": "Cooling systems can draw millions of gallons daily, which raises flags in areas already managing resources carefully."
+   "text": "It would add another large load in the same DTE territory as Saline, affecting how much new demand hits ratepayers and whether the township gets meaningful revenue in return."
   },
   {
    "host": "Emmy",
-   "text": "How does that intersect with farmland and rural towns?"
+   "text": "Down in Cass County, Dowagiac residents are already dealing with noise from an operating facility. How common is that complaint becoming?"
   },
   {
    "host": "Graham",
-   "text": "Many proposed sites sit on or near agricultural land, so there's competition for both power and water."
+   "text": "It's one of the first real-world examples we're seeing. The humming from cooling systems is disrupting sleep, and people are exploring legal options, including possible class-action steps."
   },
   {
    "host": "Emmy",
-   "text": "What kind of tax revenue are communities hoping to see in return?"
+   "text": "With all these local pauses stacking up, is there any statewide coordination or is every township basically on its own?"
   },
   {
    "host": "Graham",
-   "text": "Some deals include incentives or abatements that limit how much new revenue actually stays local for years."
+   "text": "Mostly on their own right now. MLive just launched a new map that tracks every active fight by township and county, showing megawatts demanded and tax deals in real time. It helps residents compare what's happening near them to battles elsewhere."
   },
   {
    "host": "Emmy",
-   "text": "That sounds like a trade-off residents are starting to question more openly."
+   "text": "That sounds useful for folks trying to follow the sprawl. What should listeners watch for in the next few weeks?"
   },
   {
    "host": "Graham",
-   "text": "It is, especially when promised jobs don't always materialize at the scale first discussed."
+   "text": "The outcome of Augusta's vote, whether Calhoun moves forward with its moratorium, and how Garfield actually uses its pause to write rules. Those decisions will set precedents for the next round of proposals."
   },
   {
    "host": "Emmy",
-   "text": "What's the next step for DTE customers watching this play out?"
+   "text": "And if more townships follow suit, could that slow the overall buildout or just push projects to more willing counties?"
   },
   {
    "host": "Graham",
-   "text": "Rate cases and infrastructure filings will likely spell out how costs get allocated in the months ahead."
-  },
-  {
-   "host": "Emmy",
-   "text": "And for local governments debating projects right now?"
+   "text": "It could do both. Companies may target places with fewer restrictions, but the cumulative strain on the grid and water resources is becoming harder to ignore statewide."
   },
   {
    "host": "Graham",
-   "text": "They're weighing moratoria and zoning changes to buy time for better rules."
+   "text": "Let's move to some quick hits from the last day or so. Starting with DTE customers potentially facing bigger bills as data centers boost utility profits."
   },
   {
    "host": "Emmy",
-   "text": "That brings us to some of the other moves happening today and yesterday."
+   "text": "Right, the Q2 preview showed data-center growth as a key earnings driver. That demand often means higher rates or new costs passed to households, and we've already seen added charges from similar projects."
   },
   {
    "host": "Graham",
-   "text": "Let's hit the quick ones. In Calhoun County today, commissioners are debating a year-long halt on new data centers."
+   "text": "Next, Calhoun County weighing a year-long halt over jobs and power concerns. Commissioners are debating after hearing about electricity strain and whether economic gains will reach local taxpayers."
   },
   {
    "host": "Emmy",
-   "text": "Over concerns about electricity and whether the economic gains reach local taxpayers?"
+   "text": "A pause there would delay projects drawing hundreds of megawatts and millions of gallons of water. Residents in Battle Creek and surrounding areas would feel it in both future taxes and monthly utility costs."
   },
   {
    "host": "Graham",
-   "text": "That's the core of it. A pause would delay projects drawing hundreds of megawatts and millions of gallons of water."
+   "text": "Augusta Township is close to voting on Oracle-scale rules that would pull power from the same DTE territory as Saline. The outcome decides how much new load hits ratepayers and what revenue the township collects."
   },
   {
    "host": "Emmy",
-   "text": "Battle Creek residents would feel that in both future taxes and monthly bills."
+   "text": "Dowagiac in Cass County has residents reporting ongoing noise from an operating data center's cooling systems. Complaints are growing and legal options including class-action steps are being discussed."
   },
   {
    "host": "Graham",
-   "text": "Meanwhile in Augusta Township, officials are close to a vote on zoning and tax terms for a large proposal pulling power from the same DTE area as Saline."
+   "text": "Saline Township reversed its earlier limit on incentives for the Oracle campus after lobbying. Residents now face the prospect of forgoing years of property-tax revenue on a huge project."
   },
   {
    "host": "Emmy",
-   "text": "The outcome there could set the tone for how much new load hits ratepayers and what revenue the township actually collects."
+   "text": "Delta County voted to ban new data centers for a year after concerns over noise, water, and the rural grid. The moratorium gives time to write permanent zoning rules."
   },
   {
    "host": "Graham",
-   "text": "Over in Cass County, Dowagiac residents are still dealing with noise from an operating facility's cooling systems."
+   "text": "MLive's new map is live and shows every active data center fight across Michigan by township and county, including megawatts and tax deals."
   },
   {
    "host": "Emmy",
-   "text": "Persistent humming disrupting sleep, and they're looking at legal options including possible class action."
+   "text": "Wixom kept its data center pause in place to shield residents from power strain and noise risks that could raise local costs."
   },
   {
    "host": "Graham",
-   "text": "Shifting to yesterday, Saline Township reversed course and restored Oracle's shot at a big tax break."
+   "text": "And Williamston Township postponed action on new zoning rules, leaving uncertainty high for nearby homes and farms over noise, power lines, and water use."
   },
   {
    "host": "Emmy",
-   "text": "After earlier limits, the board flipped following company lobbying focused on jobs."
+   "text": "On deck for listeners who want to attend meetings, keep an eye on Augusta's upcoming vote on zoning and tax terms for that large proposal."
   },
   {
    "host": "Graham",
-   "text": "That leaves residents facing years of forgone property-tax revenue on a multibillion-dollar project."
+   "text": "Calhoun County commissioners are still debating their moratorium, so check local notices for the next public hearing."
   },
   {
    "host": "Emmy",
-   "text": "Delta County also acted yesterday, voting a one-year ban on new proposals."
+   "text": "Garfield Township will be working on its new rules during the pause, so any upcoming workshops or board sessions there are worth watching."
   },
   {
    "host": "Graham",
-   "text": "Residents there flagged noise, water, and rural grid strain, giving officials time to draft permanent zoning."
-  },
-  {
-   "host": "Emmy",
-   "text": "MLive launched a map yesterday showing every active fight across the state."
-  },
-  {
-   "host": "Graham",
-   "text": "It tracks proposals, hearings, and moratoria by township with details on megawatts and tax deals."
-  },
-  {
-   "host": "Emmy",
-   "text": "Handy for anyone wanting to compare what's happening near them."
-  },
-  {
-   "host": "Graham",
-   "text": "In Oakland County, Wixom kept its moratorium in place yesterday to protect against power strain and noise."
-  },
-  {
-   "host": "Emmy",
-   "text": "Council rejected an early end to the pause on a three-building complex."
-  },
-  {
-   "host": "Graham",
-   "text": "Williamston Township shelved its zoning rules for now, leaving uncertainty for homes and farms."
-  },
-  {
-   "host": "Emmy",
-   "text": "And Williamstown Township delayed its ordinance until August after a hearing on setbacks, noise, water, and decommissioning."
-  },
-  {
-   "host": "Graham",
-   "text": "Residents there raised wildlife and resource concerns."
-  },
-  {
-   "host": "Emmy",
-   "text": "So the pattern is clear: more places hitting pause or tightening rules while utilities see growth ahead."
-  },
-  {
-   "host": "Graham",
-   "text": "On deck, there are no public meetings scheduled for today that we've confirmed on the calendar."
-  },
-  {
-   "host": "Emmy",
-   "text": "Listeners should still check the Michigan Data Center Tracker for any last-minute additions or hearing notices."
-  },
-  {
-   "host": "Graham",
-   "text": "Full sources and the live map at the Michigan Data Center Tracker."
-  },
-  {
-   "host": "Emmy",
-   "text": "We're back tomorrow."
+   "text": "Full sources and the live map at the Michigan Data Center Tracker. We're back tomorrow."
   }
  ],
- "episode_title": "DTE Bills Loom Larger as Data Centers Drive Utility Growth",
- "show": "Mornings with Graham & Emmy",
- "daypart": "Mornings"
+ "episode_title": "Garfield Township Freezes Data Centers After Sloppy Filing Leaves Residents in Limbo",
+ "show": "Evenings with Graham & Emmy",
+ "daypart": "Evenings"
 }
