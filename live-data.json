@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-23T23:32:46+00:00",
+ "updated_at": "2026-07-24T01:01:06+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -200,34 +200,6 @@
   "id": "02d7912fe03d",
   "accuracy": "checked"
  },
- "meetings": [
-  {
-   "iso": "2026-07-23",
-   "body": "Oxford Township Planning Commission",
-   "topic": "Discussion of draft data center ordinance as starting point for public input; no action expected",
-   "region": "SE Michigan",
-   "regionKey": "metro",
-   "county": "Oakland",
-   "time": "6:30 PM",
-   "status": "Planning commission",
-   "urgent": false,
-   "link": "https://oxfordtwpmi.gov/",
-   "linkLabel": "Agenda"
-  },
-  {
-   "iso": "2026-07-23",
-   "body": "Charter Township of Oxford Planning Commission",
-   "topic": "Discussion of draft data center ordinance; no action or plans submitted",
-   "region": "SE Michigan",
-   "regionKey": "metro",
-   "county": "Oakland",
-   "time": "6:30 PM",
-   "status": "Planning commission",
-   "urgent": false,
-   "link": "https://www.facebook.com/CharterTwpofOxford/posts/regarding-the-proposed-draft-data-center-ordinance-that-will-be-discussed-at-the/",
-   "linkLabel": "Agenda/Notice",
-   "stream": null
-  }
- ],
+ "meetings": [],
  "accuracy_checked_at": "2026-07-08T08:45:16+00:00"
 }
