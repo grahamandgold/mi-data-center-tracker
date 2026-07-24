@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkNUZId2g1QUt0NHlnMGlZY3kzZmVOSzc5TDlRb3NGT2NPXzJQSHQ4bW1mTHk3dFBka3VzVnpZTGp6b3lDcDdIeHRnRkxpdW5WUnV5RkR5NTBxbGEyaG9BYXNqNWNFNEdVSEpDcE9HdF8?oc=5",
-   "title": "West Michigan residents rally against data center energy costs, grid strain",
-   "at": "2026-07-10T21:15:56+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Grand Rapids rally is the same event as the already-killed 'Grand Rapids joins nationwide protest' stories, just reworded."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObUpsTUk5VEZXeVhoYnF0aldnZGMtZ3RsellaYTQ3STVpNjd5dkxSYW5GQ0tBNFpDZ1ljVjNmSlA1cnMyNE55VzdUc2oyY3hjc3JYRjhnQ1ZjMklDaFhNeGtaQzVzS2VpQ2JuSzFtZlNnaVlGTVVTZGp0blVKRHEzSXRMMHlyTmJlZUNKaWcxNXctVUxPVTZkeGJpNA?oc=5",
-   "title": "Michigan Senate candidates split on AI data center rules",
-   "at": "2026-07-10T22:35:11+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Duplicate of killed stories about Michigan Senate hopefuls/GOP candidates debating data center rules and local control."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kZVByQktOTllaeldkZlpyZkFOU0FyY2ttRVFjdHlMZmFLY3BFVEJRTk9uMS1XU2NkSGw2ZzhwOFhoSjlCTjdRT0xoNWczbmFWV3kyS2k1YnRVc0dpSlQ5S3pfNA?oc=5",
    "title": "Electric bills drive 50 cities to rally against data center expansion on July 18",
    "at": "2026-07-10T22:35:11+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-07-24T14:04:31+00:00",
    "by": "news_judge",
    "note": "score 4/10: National trend piece with no Michigan-specific angle or development; lacks concrete local impact or decision."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMG1oUTF0cm9rRWpzWGdFMFY0WVU5SG1YWGtfN3NhQlB1X2xab2VnVXN6dWQyV05rR0VzTzg0dVdnZzdrdDdUV1F2SlI0enFNekp2N3R4SWcwVTNpWkxvczJ0eEFMeHdyZ2RWRk9UOFB6ejY4SE5FdVpRVnMyU3Bab01PRHB2czFXZF9hbGJJV01nRVdNanc?oc=5",
+   "title": "Porch video captures nonstop drone from Michigan data center",
+   "at": "2026-07-24T19:42:08+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: Essentially duplicates the already-live 'Dowagiac Residents Report Ongoing Noise From Operating Data Center' story — same issue (noise complaints from operating"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdlFoRTBXclJFazVHU2U3dU1LQmlGSkJCNEJzZE0zRkt0TGY5SkFydXZEM0ltNTJhVVpVaFA4YS0tTV85bEhtaGtxVWl2b2tIUHBLY2J2RXJRVTgzQ29pU2txMkFhRWVsTWItYVF5MTZaTjNFNkI4aW1LUERkVXpkRjJPWFpFdzJ3VHNYRENuNm43eFJhd3dOZ2tYcWdLbTlLUFRteXpicw?oc=5",
+   "title": "Ypsilanti residents keep fighting data center over noise and power costs",
+   "at": "2026-07-24T19:42:08+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Vague meeting with no decision, resolution, or concrete next step — just ongoing complaints without new development or official action."
   }
  ],
  "auto_published": [
