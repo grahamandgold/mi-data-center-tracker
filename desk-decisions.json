@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.mlive.com/environment/2026/07/northern-michigan-township-moves-toward-data-center-development-pause.html",
-   "title": "Northern Michigan Township Advances Toward Year-Long Data Center Development Freeze",
-   "at": "2026-07-10T19:46:19+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: This appears to be the already-killed Garfield Township moratorium story, merely describing a planning commission step rather than a new development."
-  },
-  {
    "url": "https://www.mlive.com/topic/data-centers/",
    "title": "U.S. Data Center Power Demand Surges as Tech Giants Accelerate AI Infrastructure Buildout",
    "at": "2026-07-10T19:46:19+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-07-23T21:16:01+00:00",
    "by": "news_judge",
    "note": "score 4/10: Anecdotal quality-of-life complaints without identifying a specific facility, decision, or actionable development; reads like a general feature rather than news"
+  },
+  {
+   "url": "https://www.cbsnews.com/detroit/news/saline-township-reverses-vote-limit-oracles-data-center-tax-break/",
+   "title": "Saline Township Restores Full Tax Break for Oracle's $43B Data Center",
+   "at": "2026-07-24T09:59:47+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: This is the same Saline Township tax break reversal already covered in 'Saline Township flips, restoring Oracle's shot at big tax break' and 'Oracle locks in fu"
   }
  ],
  "auto_published": [
@@ -2145,6 +2145,12 @@
    "title": "Augusta Township nears vote on Oracle-scale data center rules",
    "judge_score": 7,
    "at": "2026-07-24T07:12:23Z"
+  },
+  {
+   "url": "https://www.threads.com/@wxyzdetroit/post/DbJ59RgmEgJ/one-michigan-community-has-been-experiencing-the-reality-of-a-data-center-next/",
+   "title": "Dowagiac Residents Report Ongoing Noise From Operating Data Center, Explore Legal Options",
+   "judge_score": 7,
+   "at": "2026-07-24T09:59:47Z"
   }
  ]
 }

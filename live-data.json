@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-24T07:12:23Z",
+ "updated_at": "2026-07-24T09:59:47Z",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -16,6 +16,21 @@
    "origin": "google-news",
    "source_title": "Weekly Data Center Watch: Saline Reverses Tax Break Limit as Augusta Vote Nears - The Sun Times News",
    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR1RFSDRCWWNjYjl1VXdwaXQ4aDllY3loZlZTSkVQNFRucFdwYTdQcS02c2VscUVVY2hULXI2OEZXbnh1ZTRoTmlrT3J0Y0J4VXRuQnFWaEkzZVVOcjRCenhha0JEZHpvMFJtWktHSDg4TnRuSnREenZzM1ZaZVJSNV9RS2V1MFpiRllxTW5tVjZjZ1lTdXE2bXVqbVZjdUNGeENIZ1NzTDFCQmc?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
+  {
+   "iso": "2026-07-23T23:00:00+00:00",
+   "region": "west",
+   "cat": "Cass Co.",
+   "tag": "Power & Grid",
+   "title": "Dowagiac Residents Report Ongoing Noise From Operating Data Center, Explore Legal Options",
+   "dek": "Cooling systems at a local facility generate persistent humming that disrupts sleep, prompting complaints and mentions of potential class-action steps in the community.",
+   "source": "WXYZ",
+   "url": "https://www.threads.com/@wxyzdetroit/post/DbJ59RgmEgJ/one-michigan-community-has-been-experiencing-the-reality-of-a-data-center-next/",
+   "breaking": false,
+   "lead": false,
+   "id": "3388b48a2a24",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
   },
@@ -167,23 +182,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdi1fZnVSYTdyYW5qU2FMUUJaN0ItVnJ1NEpxWjBXNGxxRUhxZE85czE2WTZXRnRpMHZXWFU5VVVFSm1ZY2dwQjVlc1hCRXBtZHNVLXhOY2NadGNSdnh1enk3M0FnLVZLMHEzbzRuSElweFFZOTd4OXZmdDFicHZvbG1xU1JVNDJfLU5XZXpIUXFwSU1vRGV2MUVKUzh2aURNTVp6Xy1aeTJLMVlERDIyZ3BiSThVS2xqdFgyLXFmSWIya2JadHZTdklxcw?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
-  },
-  {
-   "title": "Lovells Township enacts year-long ban on new data centers",
-   "dek": "Crawford County officials approved a moratorium that stops any data-center applications for the next 12 months. The move gives the small northern township time to write permanent rules before large projects arrive. Locals worried about noise, water use, and tax breaks now have a temporary reprieve.",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWVFLREc3UElJdWF1MnEwVE1ZdWtUYkk3d0I4SzQwNTZpUXRrd0E0MWhHME9nUllQQThlb19GeFNEWEdaNndreG53VGFWLUZEWFZZOGdiM1lsVFZOTlVYQ2FscE1MWXdKNTN1TW5pQ0w2SWFSdFQ4TU44cDRmNTNXbzVLbi1tTkVucWFDVTdYNHRxS0VfekRWSVR0bXVDb2xPWF9EeG9FZ29MQQ?oc=5",
-   "source": "Crawford County Avalanche",
-   "region": "north",
-   "cat": "STATEWIDE",
-   "county": "Crawford",
-   "tag": "Local Government",
-   "iso": "2026-07-22T14:28:24Z",
-   "id": "abf15c28d484",
-   "origin": "google-news",
-   "source_title": "Data center moratorium approved in Lovells Township - Crawford County Avalanche",
-   "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWVFLREc3UElJdWF1MnEwVE1ZdWtUYkk3d0I4SzQwNTZpUXRrd0E0MWhHME9nUllQQThlb19GeFNEWEdaNndreG53VGFWLUZEWFZZOGdiM1lsVFZOTlVYQ2FscE1MWXdKNTN1TW5pQ0w2SWFSdFQ4TU44cDRmNTNXbzVLbi1tTkVucWFDVTdYNHRxS0VfekRWSVR0bXVDb2xPWF9EeG9FZ29MQQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {
