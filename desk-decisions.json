@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kZVByQktOTllaeldkZlpyZkFOU0FyY2ttRVFjdHlMZmFLY3BFVEJRTk9uMS1XU2NkSGw2ZzhwOFhoSjlCTjdRT0xoNWczbmFWV3kyS2k1YnRVc0dpSlQ5S3pfNA?oc=5",
-   "title": "Electric bills drive 50 cities to rally against data center expansion on July 18",
-   "at": "2026-07-10T22:35:11+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicate of killed story 'Grand Rapids joins nationwide protest against AI power hunger' — same July 18 multi-city rally event."
-  },
-  {
    "url": "https://civicmedia.us/news/2026/07/10/gop-gubernatorial-candidates-trade-personal-blows-agree-on-taxes-and-data-centers",
    "title": "GOP Debate Splits on Data Centers: Johnson Seeks Moratorium, Rivals Back Local Veto",
    "at": "2026-07-10T23:38:38+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-07-24T19:42:08+00:00",
    "by": "news_judge",
    "note": "score 4/10: Vague meeting with no decision, resolution, or concrete next step — just ongoing complaints without new development or official action."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVWhFbTN6VUJOMWl2Slh4aVUxcF8zeHJ3S28xdUJ6R0pZa1hHQTN2M0N1Z05CUmhVelBEUFFjaWZFQzg1d3JycG42SkROLTVsZmROU0M1MEZTLUtGZDV3d3g2VEFyRDBCZWFGdnNQd0x1SEFpU2ZRMl9OdTh4TTdfYW1GNmRfT3RMXzVPbUJKNk5Rb1NiaEYyNFBQS0gzbWI5Ti1CY3BR0gG6AUFVX3lxTFBDQm1uS21OYk83a05tTmhlaFNoMTd0Zmd5RFdackJXSmFhS3FjdHFZdU8weXJWTFVzNFBSbXp0SDhER0gzNkFBZmlNb2JoclRrZllnMEVqeElRdHNnMjBkMGl6dTJHTmhyZDJfU2xTcWI4M29XTXFyUTFYZldzREVTazA4djN2UFp4WDJRWlpNOTcwdGRocklMNFhfQ1lJanNOajZzdEpIU1BxSmh6VEloRVJrTmFNX0kyUQ?oc=5",
+   "title": "Michigan suburb buys more time blocking tech facilities that strain utilities",
+   "at": "2026-07-24T21:14:39+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: This is Wixom extending its existing pause, already covered in the live story 'Wixom Keeps Data Center Pause to Shield Residents from Power Strain and Noise.'"
   }
  ],
  "auto_published": [
