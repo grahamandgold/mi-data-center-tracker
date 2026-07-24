@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yZEo1RURocXVKaDhXcW8zNnh3Z1hkTkV6LWpKendDUkd0ZFB0SmVodkNFaDlZREY3eGVob0V2WXlfbWZtbk1zbk9iU00tUQ?oc=5",
-   "title": "Girard Township Adopts Strict New Rules to Control Data Center Growth",
-   "at": "2026-07-10T21:15:56+00:00",
-   "by": "news_judge",
-   "note": "score 5/10, duplicate: Appears to cover the same Girard Township zoning adoption as candidate [2], just with a vaguer headline."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GMERBS0luc20tRGxtTGZsZ1Z6YWJ2bndqSGlNYkJGdWFlSUxtNHc0UFpDQkItaHNMcHFSeHVhWVhNNmpUeFBfYVBQVlZROHk2eWQ2aV81bXBJWGQ0LWVsS0o3enRJZW50?oc=5",
-   "title": "Northern Michigan township eyes one-year data center freeze",
-   "at": "2026-07-10T21:15:56+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Generic 'northern Michigan township' moratorium matches the already-killed 'Northern Michigan township advances data center moratorium' story."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkNUZId2g1QUt0NHlnMGlZY3kzZmVOSzc5TDlRb3NGT2NPXzJQSHQ4bW1mTHk3dFBka3VzVnpZTGp6b3lDcDdIeHRnRkxpdW5WUnV5RkR5NTBxbGEyaG9BYXNqNWNFNEdVSEpDcE9HdF8?oc=5",
    "title": "West Michigan residents rally against data center energy costs, grid strain",
    "at": "2026-07-10T21:15:56+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-07-24T11:49:36+00:00",
    "by": "news_judge",
    "note": "score 5/10: Incremental operational update at one facility; robotics installation is a buildout detail but lacks the weight of a policy decision or major milestone."
+  },
+  {
+   "url": "https://thesuntimesnews.com/weekly-data-center-watch-saline-reverses-tax-break-limit-as-augusta-vote-nears/",
+   "title": "Saline Township Scraps $4.8B Cap on Oracle Tax Break After Lawsuit Warning",
+   "at": "2026-07-24T14:04:31+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: This is the same Saline Township Oracle tax break restoration already covered in the LIVE story 'Saline Township flips, restoring Oracle's shot at big tax break"
+  },
+  {
+   "url": "https://www.whitehouse.gov/ratepayer-protection-pledge/",
+   "title": "Pledge Commits Data Centers to Pay Full Power and Grid Costs",
+   "at": "2026-07-24T14:04:31+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: National trend piece with no Michigan-specific angle or development; lacks concrete local impact or decision."
   }
  ],
  "auto_published": [
@@ -2163,6 +2163,12 @@
    "title": "DTE customers may foot bigger bills as data centers boost utility profits",
    "judge_score": 6,
    "at": "2026-07-24T11:49:36Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRG5iYi14MG1ETTRqRHRCd2NoSE03bUpkLXZmR0laY0MyR1NpdS1lVFBybC1nSlVhQUk1cmpCeWd6X1lhdUpWUlJCbkpDTDV5RkhfQ3ZZaVEyTGdsNGJEZjZPZ2hBSVFLY2pxcmtSa245VXRrdXhBeGhEcmZ1WXBwbmZqeWtEZUl0ckU2cmw4czBoSUNqMDVjTlJwR0ZZbTZHZko1UlhGY0xtTWtkQkxscm9QOXF1RGZNR0ctUUdqM19mRGRjOXZodWtB?oc=5",
+   "title": "Garfield Township freezes data centers after sloppy project filing",
+   "judge_score": 8,
+   "at": "2026-07-24T14:04:31Z"
   }
  ]
 }

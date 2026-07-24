@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-24T11:49:36Z",
+ "updated_at": "2026-07-24T14:04:31Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Garfield Township freezes data centers after sloppy project filing",
+   "dek": "Garfield Township supervisors moved to block new data centers for at least a year after an incomplete application arrived. Residents near the proposed site now face uncertainty over power lines, water use and property values. The pause gives the township time to write rules before any large project locks in.",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRG5iYi14MG1ETTRqRHRCd2NoSE03bUpkLXZmR0laY0MyR1NpdS1lVFBybC1nSlVhQUk1cmpCeWd6X1lhdUpWUlJCbkpDTDV5RkhfQ3ZZaVEyTGdsNGJEZjZPZ2hBSVFLY2pxcmtSa245VXRrdXhBeGhEcmZ1WXBwbmZqeWtEZUl0ckU2cmw4czBoSUNqMDVjTlJwR0ZZbTZHZko1UlhGY0xtTWtkQkxscm9QOXF1RGZNR0ctUUdqM19mRGRjOXZodWtB?oc=5",
+   "source": "The Ticker",
+   "region": "north",
+   "cat": "STATEWIDE",
+   "county": "Grand Traverse",
+   "tag": "Local Government",
+   "iso": "2026-07-24T10:00:01Z",
+   "id": "43ef7f8dd8ca",
+   "origin": "google-news",
+   "source_title": "Garfield Township Tees Up Data Center Moratorium; Incomplete Application Submitted for Project - The Ticker",
+   "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRG5iYi14MG1ETTRqRHRCd2NoSE03bUpkLXZmR0laY0MyR1NpdS1lVFBybC1nSlVhQUk1cmpCeWd6X1lhdUpWUlJCbkpDTDV5RkhfQ3ZZaVEyTGdsNGJEZjZPZ2hBSVFLY2pxcmtSa245VXRrdXhBeGhEcmZ1WXBwbmZqeWtEZUl0ckU2cmw4czBoSUNqMDVjTlJwR0ZZbTZHZko1UlhGY0xtTWtkQkxscm9QOXF1RGZNR0ctUUdqM19mRGRjOXZodWtB?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "DTE customers may foot bigger bills as data centers boost utility profits",
    "dek": "DTE Energy’s Q2 preview highlights data-center growth as a key earnings driver for the Detroit-based utility. That expansion means more demand on the grid, which often translates into higher rates or new infrastructure costs passed to households. Michigan ratepayers have already seen added charges tied to similar projects elsewhere in the service territory.",
@@ -165,23 +182,6 @@
    "id": "a1533ca6eba3",
    "accuracy": "social-post",
    "judge_score": 6
-  },
-  {
-   "title": "Williamston Township residents grill officials on data center plans",
-   "dek": "Hundreds turned out for a public hearing on data centers in Williamston Township, pressing the board on traffic, noise, and electric rates. No vote was taken, but the session showed strong local opposition to letting projects move forward without strict controls. The township now has more time to decide its next step.",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS2FLcEszR2pvbWVZYnl2R2theVlhLVFEM0h1Ujc1eEpzSXd0WW5WTl9wV28xWnlkWTFJVFRGS09rRExsSXpiSm11TVZLMzlwaWthU1pjcU1fRzdOTjlXd0lyTFR4cE8zd2lqb0xaMm1uRm9KQTdVd1hsMnpvbC13VUd3cmFLUjlqQWsxdUtXN0hlcnJmRUU0bm1NajdXTmtp0gGgAUFVX3lxTE9LYUtwSzNHam9tZVlieXZHa2F5WWEtUUQzSHVSNzV4SnNJd3RZblZOX3BXbzFaeWRZMUlUVEZLT2tETGxJemJKbXVNVkszOXBpa2FTWmNxTV9HN05OOVd3SXJMVHhwTzN3aWpvTFoybW5Gb0pBN1V3WGwyem9sLXdVR3dyYUtSOWpBazF1S1c3SGVycmZFRTRubU1qN1dOa2k?oc=5",
-   "source": "WLNS 6 News",
-   "region": "mid",
-   "cat": "STATEWIDE",
-   "county": "Ingham",
-   "tag": "Local Government",
-   "iso": "2026-07-22T23:39:03Z",
-   "id": "a7368d096a23",
-   "origin": "google-news",
-   "source_title": "Williamston Township holds public hearing on data centers - WLNS 6 News",
-   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS2FLcEszR2pvbWVZYnl2R2theVlhLVFEM0h1Ujc1eEpzSXd0WW5WTl9wV28xWnlkWTFJVFRGS09rRExsSXpiSm11TVZLMzlwaWthU1pjcU1fRzdOTjlXd0lyTFR4cE8zd2lqb0xaMm1uRm9KQTdVd1hsMnpvbC13VUd3cmFLUjlqQWsxdUtXN0hlcnJmRUU0bm1NajdXTmtp0gGgAUFVX3lxTE9LYUtwSzNHam9tZVlieXZHa2F5WWEtUUQzSHVSNzV4SnNJd3RZblZOX3BXbzFaeWRZMUlUVEZLT2tETGxJemJKbXVNVkszOXBpa2FTWmNxTV9HN05OOVd3SXJMVHhwTzN3aWpvTFoybW5Gb0pBN1V3WGwyem9sLXdVR3dyYUtSOWpBazF1S1c3SGVycmZFRTRubU1qN1dOa2k?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {
