@@ -1,25 +1,6 @@
 {
- "updated_at": "2026-07-24T01:01:06+00:00",
+ "updated_at": "2026-07-24T04:22:29+00:00",
  "generator": "grok-wire-agent",
- "items": [
-  {
-   "iso": "2026-07-22T14:27:00+00:00",
-   "region": "metro",
-   "cat": "Washtenaw Co.",
-   "tag": "Local Government",
-   "title": "Augusta Township Planners Begin Drafting Rules for Potential Hyperscale Data Center",
-   "dek": "The planning commission reviewed a draft ordinance covering high-resource facilities like data centers and battery storage, amid a pending voter referendum on rezoning 500-plus acres for a Thor Equities project eyed by Big Tech.",
-   "source": "MLive",
-   "url": "https://www.mlive.com/news/ann-arbor/2026/07/data-center-rules-taking-shape-in-township-near-ann-arbor-eyed-for-big-tech-project.html",
-   "breaking": false,
-   "lead": true,
-   "id": "f892bf74b380",
-   "kind": "story",
-   "filed_at": "2026-07-23T13:08:06+00:00",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7,
-   "judge_note": "Planning commission reviewing draft ordinance is concrete progress in Augusta Township's ongoing data center saga, distinct from the August voter referendum alr"
-  }
- ],
- "accuracy_checked_at": "2026-07-24T01:01:06+00:00"
+ "items": [],
+ "accuracy_checked_at": "2026-07-24T04:22:29+00:00"
 }
