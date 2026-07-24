@@ -1,7 +1,41 @@
 {
- "updated_at": "2026-07-24T09:59:47Z",
+ "updated_at": "2026-07-24T11:49:36Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "DTE customers may foot bigger bills as data centers boost utility profits",
+   "dek": "DTE Energy’s Q2 preview highlights data-center growth as a key earnings driver for the Detroit-based utility. That expansion means more demand on the grid, which often translates into higher rates or new infrastructure costs passed to households. Michigan ratepayers have already seen added charges tied to similar projects elsewhere in the service territory.",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYWs0czlQb2VnNVNrdVJXYVRPZ21GRUx3NVBKT0VUUzE2dXZ6RkF6RlpNODBTNkMxQ0paNm5CemtFQ2EzMnJmdVBwbHFuNW5wRWxSNEdnN2JlbHEtaTJTbGNLWk15ZVFlX3pXUTJQRlB2aHFZNzVuMGxSQldfZEJZQUE5M3Ezcjd3elJ3M0RuZVJMOUFLbHR6QzNDWTVSUC13WUx3X2tzR2hTNk40aWhjMklKeFdvdjJ5S0E?oc=5",
+   "source": "Seeking Alpha",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Power & Grid",
+   "iso": "2026-07-24T05:38:00Z",
+   "id": "115433fc147a",
+   "origin": "google-news",
+   "source_title": "DTE Energy: Q2 Earnings Preview, A Regulated Utility With Data-Center Tailwinds (NYSE:DTE) - Seeking Alpha",
+   "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYWs0czlQb2VnNVNrdVJXYVRPZ21GRUx3NVBKT0VUUzE2dXZ6RkF6RlpNODBTNkMxQ0paNm5CemtFQ2EzMnJmdVBwbHFuNW5wRWxSNEdnN2JlbHEtaTJTbGNLWk15ZVFlX3pXUTJQRlB2aHFZNzVuMGxSQldfZEJZQUE5M3Ezcjd3elJ3M0RuZVJMOUFLbHR6QzNDWTVSUC13WUx3X2tzR2hTNk40aWhjMklKeFdvdjJ5S0E?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
+  {
+   "title": "Calhoun County weighs year-long halt on new data centers over jobs and power",
+   "dek": "Commissioners are debating a moratorium after hearing concerns about electricity strain and whether promised economic gains will reach local taxpayers. A pause would delay projects that could draw hundreds of megawatts and millions of gallons of water. Residents in Battle Creek and surrounding townships would see the decision affect both future tax revenue and monthly utility costs.",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdDZJalZ0Z0RGZWpRUDZzNUE0QUpiTWtQa3F6NEtoZ1FLeUc0eTd6cFhHUDVnalVoRUlpcWNPZS01emZTMTdJMm9xd0MzMXFkVEdYaDFSTGNqQWo4SEtOUEEzbmpGeF9MLVdIeW1YcDFpUHVGc3VMeGlMMmY4V045dzlSUmg2dUJwalRrdTFwdFhGcEdPbGoxaXpVOA?oc=5",
+   "source": "Yahoo",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Calhoun",
+   "tag": "Local Government",
+   "iso": "2026-07-24T02:16:00Z",
+   "id": "320442e7a5c3",
+   "origin": "google-news",
+   "source_title": "Calhoun County commissioners discuss data center moratorium and economic impacts - Yahoo",
+   "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdDZJalZ0Z0RGZWpRUDZzNUE0QUpiTWtQa3F6NEtoZ1FLeUc0eTd6cFhHUDVnalVoRUlpcWNPZS01emZTMTdJMm9xd0MzMXFkVEdYaDFSTGNqQWo4SEtOUEEzbmpGeF9MLVdIeW1YcDFpUHVGc3VMeGlMMmY4V045dzlSUmg2dUJwalRrdTFwdFhGcEdPbGoxaXpVOA?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Augusta Township nears vote on Oracle-scale data center rules",
    "dek": "Augusta officials are set to decide on zoning and tax terms for a large data-center proposal that would pull power from the same DTE territory as Saline. The outcome determines how much new load hits ratepayers and whether the township collects meaningful revenue. A yes vote would add to the string of projects reshaping Washtenaw County's tax base and electricity demand.",
@@ -148,40 +182,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS2FLcEszR2pvbWVZYnl2R2theVlhLVFEM0h1Ujc1eEpzSXd0WW5WTl9wV28xWnlkWTFJVFRGS09rRExsSXpiSm11TVZLMzlwaWthU1pjcU1fRzdOTjlXd0lyTFR4cE8zd2lqb0xaMm1uRm9KQTdVd1hsMnpvbC13VUd3cmFLUjlqQWsxdUtXN0hlcnJmRUU0bm1NajdXTmtp0gGgAUFVX3lxTE9LYUtwSzNHam9tZVlieXZHa2F5WWEtUUQzSHVSNzV4SnNJd3RZblZOX3BXbzFaeWRZMUlUVEZLT2tETGxJemJKbXVNVkszOXBpa2FTWmNxTV9HN05OOVd3SXJMVHhwTzN3aWpvTFoybW5Gb0pBN1V3WGwyem9sLXdVR3dyYUtSOWpBazF1S1c3SGVycmZFRTRubU1qN1dOa2k?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Ann Arbor-area township writes new rules ahead of Big Tech data center",
-   "dek": "Pittsfield Township is drafting zoning and performance standards for a potential hyperscale project that could draw hundreds of megawatts. Residents 30 minutes away will feel the impact on local roads, water use and electric rates if the rules are too loose or too strict. The township wants guardrails in place before any formal application lands.",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTnFDTlJ3VDhkZUM0TUtDcHhxY2oyQktYSFlZVDVwV0lXM05VTngtaG9uUjVFQ1Bvd2xFbTFlTDlrUlQ0am50QUw0RzluRUlaWGZubUNfaldnWnBEQ0hPeDYwcnowclZJcS0wd09Xb08xX0tQRjk4azNJWDB4a2lOY2JUSjJ6SXdSSGdxZHRiWnJ3R3ZSQld1cTNyeE90cXU5dFpON2tOSTVjWjJYZTFrem5hejlpWlAwMkF5dkI0d1I3aTZGX0xZb2lOT2w4UdIB4gFBVV95cUxQVHVfdzlqbnhNajBFbVlfTlhJVXdaUVdJNW16OEV5ZWxTblR1R0xqMjBKdXBkUnFveHJZSWwtZmM1ZnlSbkI0ZndZV0pTNXROb2xtV2MxTFRlQmcwS2RkNS1UdkZwZGZFMi0xaE5VWlNQNlo0UDkxNmJOcVU2RUxGZ1lGY0gtdTNqUzdNbUNPRU9OVGdhRnZxRENWUEQ0dkJhT2pOOTZvbkJvdmJQaU9aei1yQTVzaXNTeVBjeWxUMWRGaUxrY3d6Rzl3N09mbXFCX3lKRjc4cUt5Q0JwMkd2UkVR?oc=5",
-   "source": "MLive.com",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Local Government",
-   "iso": "2026-07-22T18:27:00Z",
-   "id": "cb32ec171168",
-   "origin": "google-news",
-   "source_title": "Data center rules taking shape in township near Ann Arbor eyed for Big Tech project - MLive.com",
-   "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTnFDTlJ3VDhkZUM0TUtDcHhxY2oyQktYSFlZVDVwV0lXM05VTngtaG9uUjVFQ1Bvd2xFbTFlTDlrUlQ0am50QUw0RzluRUlaWGZubUNfaldnWnBEQ0hPeDYwcnowclZJcS0wd09Xb08xX0tQRjk4azNJWDB4a2lOY2JUSjJ6SXdSSGdxZHRiWnJ3R3ZSQld1cTNyeE90cXU5dFpON2tOSTVjWjJYZTFrem5hejlpWlAwMkF5dkI0d1I3aTZGX0xZb2lOT2w4UdIB4gFBVV95cUxQVHVfdzlqbnhNajBFbVlfTlhJVXdaUVdJNW16OEV5ZWxTblR1R0xqMjBKdXBkUnFveHJZSWwtZmM1ZnlSbkI0ZndZV0pTNXROb2xtV2MxTFRlQmcwS2RkNS1UdkZwZGZFMi0xaE5VWlNQNlo0UDkxNmJOcVU2RUxGZ1lGY0gtdTNqUzdNbUNPRU9OVGdhRnZxRENWUEQ0dkJhT2pOOTZvbkJvdmJQaU9aei1yQTVzaXNTeVBjeWxUMWRGaUxrY3d6Rzl3N09mbXFCX3lKRjc4cUt5Q0JwMkd2UkVR?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
-  },
-  {
-   "title": "Monroe Twp hit with $300M lawsuit after banning data centers",
-   "dek": "A developer is suing Monroe Township for $300 million, claiming the local ban on data centers killed a major project. Residents could face higher taxes or legal costs if the township loses. The case highlights how local zoning fights are now drawing big-money litigation in southeast Michigan.",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdi1fZnVSYTdyYW5qU2FMUUJaN0ItVnJ1NEpxWjBXNGxxRUhxZE85czE2WTZXRnRpMHZXWFU5VVVFSm1ZY2dwQjVlc1hCRXBtZHNVLXhOY2NadGNSdnh1enk3M0FnLVZLMHEzbzRuSElweFFZOTd4OXZmdDFicHZvbG1xU1JVNDJfLU5XZXpIUXFwSU1vRGV2MUVKUzh2aURNTVp6Xy1aeTJLMVlERDIyZ3BiSThVS2xqdFgyLXFmSWIya2JadHZTdklxcw?oc=5",
-   "source": "Courier-Post",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Monroe",
-   "tag": "Local Government",
-   "iso": "2026-07-22T17:17:00Z",
-   "id": "07689b21d45c",
-   "origin": "google-news",
-   "source_title": "Developer suing Monroe Township for $300M over ban on data centers - Courier-Post",
-   "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdi1fZnVSYTdyYW5qU2FMUUJaN0ItVnJ1NEpxWjBXNGxxRUhxZE85czE2WTZXRnRpMHZXWFU5VVVFSm1ZY2dwQjVlc1hCRXBtZHNVLXhOY2NadGNSdnh1enk3M0FnLVZLMHEzbzRuSElweFFZOTd4OXZmdDFicHZvbG1xU1JVNDJfLU5XZXpIUXFwSU1vRGV2MUVKUzh2aURNTVp6Xy1aeTJLMVlERDIyZ3BiSThVS2xqdFgyLXFmSWIya2JadHZTdklxcw?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
   }
  ],
  "national": {
