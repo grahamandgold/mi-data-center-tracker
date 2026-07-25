@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.mlive.com/news/2026/07/how-michigan-established-a-tax-free-runway-for-big-techs-massive-data-centers.html",
-   "title": "Michigan's Early Tax Breaks for Data Centers Fuel Growing Resident Backlash Amid AI Boom",
-   "at": "2026-07-11T15:33:35+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Retrospective analysis of tax breaks already covered in live stories (GOP debate, general backlash pieces) without reporting a new decision, filing, or concrete"
-  },
-  {
    "url": "https://www.facebook.com/wsbtv/posts/data-center-construction-shut-down-a-company-started-construction-to-power-a-dat/1476924047801600/",
    "title": "Georgia Environmental Agency Halts Data Center Power Plant Construction Over Permit Violations",
    "at": "2026-07-11T17:33:27+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-07-25T10:13:05+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Duplicate of already-killed stories about gubernatorial candidates splitting/clashing on data center power costs and tax breaks."
+  },
+  {
+   "url": "https://www.aol.com/articles/openai-chooses-georgia-largest-ever-093000000.html",
+   "title": "OpenAI Selects Georgia Site for Largest-Ever Data Center Campus",
+   "at": "2026-07-25T13:55:22+00:00",
+   "by": "news_judge",
+   "note": "score 2/10: National story about Georgia with no Michigan angle; already killed a similar OpenAI Georgia story."
   }
  ],
  "auto_published": [
