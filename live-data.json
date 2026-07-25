@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-25T13:55:14+00:00",
+ "updated_at": "2026-07-25T15:13:02Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Senate candidates split on letting data centers drive up Michigan power bills",
+   "dek": "Democratic primary contenders laid out different plans for regulating data-center electricity demand and protecting ratepayers from new transmission costs. The exchange shows which candidates would push utilities or tech firms to cover upgrades versus spreading costs across all customers. Primary voters now have concrete differences on an issue that will hit monthly bills.",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTWlQWW5FNUpsWEJLUjREeTNwSkFBZmFjUW1HcHJRNmxHZFlDNFBsU0FmNVMtWjdndUs2djE3RHNFWUc4SmptNWM3MU5NUS1UM0tBbm1uSE9aZ19hZHJsWkRTQ2dDWlVxNFFEdFdQaGxXaHpfa3R3OHZnVDJNZFhpeHVsVXpLUmFORlpBZ2xsbnlGM280R0NNVUVjOGdYRUZ0ZTdrSFBDR0tpRW9NSEhvNU1MTnZkdlZZekFVOFdXaDBjcy1fTFNQM1pMa1VkUktSRmF3OXZLWm5OVF9vb3JsZm5fVHRPUWM5OWc?oc=5",
+   "source": "Michigan Public",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Policy",
+   "iso": "2026-07-25T14:20:00Z",
+   "id": "7ab6a662c4db",
+   "origin": "google-news",
+   "source_title": "How Michigan's Democratic U.S. Senate candidates differ on immigration, healthcare, data centers - Michigan Public",
+   "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTWlQWW5FNUpsWEJLUjREeTNwSkFBZmFjUW1HcHJRNmxHZFlDNFBsU0FmNVMtWjdndUs2djE3RHNFWUc4SmptNWM3MU5NUS1UM0tBbm1uSE9aZ19hZHJsWkRTQ2dDWlVxNFFEdFdQaGxXaHpfa3R3OHZnVDJNZFhpeHVsVXpLUmFORlpBZ2xsbnlGM280R0NNVUVjOGdYRUZ0ZTdrSFBDR0tpRW9NSEhvNU1MTnZkdlZZekFVOFdXaDBjcy1fTFNQM1pMa1VkUktSRmF3OXZLWm5OVF9vb3JsZm5fVHRPUWM5OWc?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
   {
    "title": "Indiana Michigan Power pledges to shield ratepayers from data center costs",
    "dek": "The utility serving parts of southwest Michigan signed a pledge promising residential customers will not foot the bill for new data center power lines. The move comes amid growing concern that AI-driven demand could drive up monthly electric bills across the state. Local officials and consumer groups are watching to see how the commitment holds up in rate cases.",
@@ -166,23 +183,6 @@
    "lead": false,
    "id": "9949003eddd0",
    "accuracy": "checked-rewritten",
-   "judge_score": 8
-  },
-  {
-   "title": "Williamston Township shelves data center zoning rules for now",
-   "dek": "Williamston Township postponed action on new data center regulations, leaving residents without clear limits on where massive facilities can locate. The delay keeps uncertainty high for nearby homes and farms over noise, power lines, and water use. Local officials gave no timeline for when rules might return.",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUWJjd2Y2bkRDVnVtTHhNY0ZuT0U1QVpwekRNcE05OC1yOEpOYTJNQzkzaUlUTXp2bng0S3pkaVc3SkFSTElwSnUwcXNJNGUtcVM5cHIwS0ZqXzFvTlo3R3JNMUxaa1BuSjJsZGJnbm55dHFfOTNqdnRIWEhpQzBxYlAtRXpWQlFIWUI1bEdMSElvU2xEU2ZLdUN30gGuAUFVX3lxTE9IcWJPVzVHUjVQajA3SFZyaThhbUQ4ZmI1NWFxaU5GSUIxZ1NiWk1kWUg4bTlUc1BQdjhOdHdQTnhZcWpuckc4MzlfaFphaVpnamh3cDBySzIybFNCX1o3QjdiYmNLZzdjQWZqcWNMazNXQUZUNGhPcWJuYmVzYzRsamhYNjZqeUVBMmFxbVhaSFhDQXRSa1RrRVFUWFd6MEV3N0oyYk9NYnZtdUlmQQ?oc=5",
-   "source": "WILX",
-   "region": "mid",
-   "cat": "STATEWIDE",
-   "county": "Ingham",
-   "tag": "Local Government",
-   "iso": "2026-07-23T03:13:00Z",
-   "id": "f334a2a49789",
-   "origin": "google-news",
-   "source_title": "Williamstown Township tables proposed data center regulations - WILX",
-   "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUWJjd2Y2bkRDVnVtTHhNY0ZuT0U1QVpwekRNcE05OC1yOEpOYTJNQzkzaUlUTXp2bng0S3pkaVc3SkFSTElwSnUwcXNJNGUtcVM5cHIwS0ZqXzFvTlo3R3JNMUxaa1BuSjJsZGJnbm55dHFfOTNqdnRIWEhpQzBxYlAtRXpWQlFIWUI1bEdMSElvU2xEU2ZLdUN30gGuAUFVX3lxTE9IcWJPVzVHUjVQajA3SFZyaThhbUQ4ZmI1NWFxaU5GSUIxZ1NiWk1kWUg4bTlUc1BQdjhOdHdQTnhZcWpuckc4MzlfaFphaVpnamh3cDBySzIybFNCX1o3QjdiYmNLZzdjQWZqcWNMazNXQUZUNGhPcWJuYmVzYzRsamhYNjZqeUVBMmFxbVhaSFhDQXRSa1RrRVFUWFd6MEV3N0oyYk9NYnZtdUlmQQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
   }
  ],
