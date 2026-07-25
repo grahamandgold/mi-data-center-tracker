@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-25T00:12:12+00:00",
+ "updated_at": "2026-07-25T03:52:27Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Indiana Michigan Power pledges to shield ratepayers from data center costs",
+   "dek": "The utility serving parts of southwest Michigan signed a pledge promising residential customers will not foot the bill for new data center power lines. The move comes amid growing concern that AI-driven demand could drive up monthly electric bills across the state. Local officials and consumer groups are watching to see how the commitment holds up in rate cases.",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbXhZbVNKbDVScTQ4U296dTNseEVCVEJDQkNpMFA5QXE5d0JHd19pUjhHT0R1OXRIRDE4Wkp1ZHVKVlJ0c3N2eFhuTWFJbXZrcGNRTDJmNk16NkNRajdtdUtRNk96czREeWlDMWluZkthVG5vc0lqZTdlWXhRT012YU00V3J1aVprbXc?oc=5",
+   "source": "News/Talk/Sports 94.9 WSJM",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Power & Grid",
+   "iso": "2026-07-25T02:02:33Z",
+   "id": "cd7e13b226bb",
+   "origin": "google-news",
+   "source_title": "I&M signs White House’s Ratepayer Protection Pledge - News/Talk/Sports 94.9 WSJM",
+   "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbXhZbVNKbDVScTQ4U296dTNseEVCVEJDQkNpMFA5QXE5d0JHd19pUjhHT0R1OXRIRDE4Wkp1ZHVKVlJ0c3N2eFhuTWFJbXZrcGNRTDJmNk16NkNRajdtdUtRNk96czREeWlDMWluZkthVG5vc0lqZTdlWXhRT012YU00V3J1aVprbXc?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Garfield Township freezes data centers after sloppy project filing",
    "dek": "Garfield Township supervisors moved to block new data centers for at least a year after an incomplete application arrived. Residents near the proposed site now face uncertainty over power lines, water use and property values. The pause gives the township time to write rules before any large project locks in.",
@@ -167,21 +184,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUWJjd2Y2bkRDVnVtTHhNY0ZuT0U1QVpwekRNcE05OC1yOEpOYTJNQzkzaUlUTXp2bng0S3pkaVc3SkFSTElwSnUwcXNJNGUtcVM5cHIwS0ZqXzFvTlo3R3JNMUxaa1BuSjJsZGJnbm55dHFfOTNqdnRIWEhpQzBxYlAtRXpWQlFIWUI1bEdMSElvU2xEU2ZLdUN30gGuAUFVX3lxTE9IcWJPVzVHUjVQajA3SFZyaThhbUQ4ZmI1NWFxaU5GSUIxZ1NiWk1kWUg4bTlUc1BQdjhOdHdQTnhZcWpuckc4MzlfaFphaVpnamh3cDBySzIybFNCX1o3QjdiYmNLZzdjQWZqcWNMazNXQUZUNGhPcWJuYmVzYzRsamhYNjZqeUVBMmFxbVhaSFhDQXRSa1RrRVFUWFd6MEV3N0oyYk9NYnZtdUlmQQ?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
-  },
-  {
-   "iso": "2026-07-23T03:13:00+00:00",
-   "region": "mid",
-   "cat": "Ingham Co.",
-   "tag": "Local Government",
-   "title": "Williamstown Township Delays Data Center Zoning Rules Until August",
-   "dek": "Planning commissioners tabled a proposed ordinance addressing setbacks, noise, water use and decommissioning after a public hearing where residents raised concerns about impacts on wildlife and resources.",
-   "source": "WILX",
-   "url": "https://www.wilx.com/2026/07/23/williamstown-township-tables-proposed-data-center-regulations/",
-   "breaking": false,
-   "lead": false,
-   "id": "a1533ca6eba3",
-   "accuracy": "social-post",
-   "judge_score": 6
   }
  ],
  "national": {
