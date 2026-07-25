@@ -1,27 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://civicmedia.us/news/2026/07/10/gop-gubernatorial-candidates-trade-personal-blows-agree-on-taxes-and-data-centers",
-   "title": "GOP Debate Splits on Data Centers: Johnson Seeks Moratorium, Rivals Back Local Veto",
-   "at": "2026-07-10T23:38:38+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Duplicate of killed stories about GOP/Senate candidates debating data center rules; same debate event with slightly different framing."
-  },
-  {
-   "url": "https://www.nprillinois.org/economy-business/2026-07-10/data-centers-have-moved-into-rural-america-so-have-the-concerns",
-   "title": "Rural Residents Most Worried About Data Centers Raising Power Costs and Using Farmland",
-   "at": "2026-07-10T23:38:38+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece with generic survey findings, no Michigan-specific development or decision."
-  },
-  {
-   "url": "https://www.detroitnews.com/story/news/local/michigan/2026/06/25/michigan-detroit-chamber-commission-data-center-development-regulations/90680723007/",
-   "title": "U.S. Data Center Power Demand Surges as Tech Giants Accelerate AI Infrastructure",
-   "at": "2026-07-11T01:04:20+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece with no Michigan-specific decision, filing, or development."
-  },
-  {
    "url": "https://www.9and10news.com/2026/07/10/haring-township-to-vote-on-six-month-data-center-moratorium/",
    "title": "Haring Township Board to Weigh Six-Month Data Center Pause",
    "at": "2026-07-11T04:22:36+00:00",
@@ -1399,6 +1378,27 @@
    "at": "2026-07-24T21:14:39+00:00",
    "by": "news_judge",
    "note": "score 3/10, duplicate: This is Wixom extending its existing pause, already covered in the live story 'Wixom Keeps Data Center Pause to Shield Residents from Power Strain and Noise.'"
+  },
+  {
+   "url": "https://www.easternecho.com/article/2026/07/ypsilanti-data-center-fight-continues-after-township-meeting",
+   "title": "Ypsilanti Township Residents Continue Pushback on Proposed Data Center After Latest Meeting",
+   "at": "2026-07-25T00:12:33+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Vague rehash of ongoing Ypsilanti opposition with no concrete new development, decision, or scheduled action reported."
+  },
+  {
+   "url": "https://gandernewsroom.com/news/politics/how-many-ai-data-centers-are-planned-in-michigan-we-counted/",
+   "title": "Gander Newsroom Launches Updated Directory Tracking Over 30 Michigan Data Center Proposals",
+   "at": "2026-07-25T00:12:33+00:00",
+   "by": "news_judge",
+   "note": "score 2/10: Self-promotional announcement of a directory resource rather than news about an actual data center development or decision."
+  },
+  {
+   "url": "https://upnorthlive.com/news/nation-world/white-house-expands-pledge-to-keep-electric-bills-under-control-amid-data-center-boom-ratepayer-protection-pledge-trump-tech-companies-artificial-intelligence",
+   "title": "White House Expands Ratepayer Protection Pledge as Data Center Power Demand Grows",
+   "at": "2026-07-25T00:12:33+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: National trend piece on White House pledge expansion; no Michigan-specific decision or development despite data center relevance."
   }
  ],
  "auto_published": [
