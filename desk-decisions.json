@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.9and10news.com/2026/07/10/haring-township-to-vote-on-six-month-data-center-moratorium/",
-   "title": "Haring Township Board to Weigh Six-Month Data Center Pause",
-   "at": "2026-07-11T04:22:36+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicate of already-live 'Haring Township set to halt all data center proposals for six months' — same six-month pause decision."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUXNmSWpxZGN1TC1KUDFjd0d2SUJZV09OOGZvc3FGY2xDbmt6MmZaZ0p5b1RYWXlMZmowdjBGTWJOOFJPWjl3Z25Pb1V6eXZ1a0JsSHh6ZkFBaDBTaTBBaExFNnM4U0cyUGRWQ2x3eS1xRHBmRXhTQXNUODlXV1RtUg?oc=5",
    "title": "Taylor residents push their own rules for a proposed data center",
    "at": "2026-07-11T04:22:36+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-07-25T00:12:33+00:00",
    "by": "news_judge",
    "note": "score 4/10: National trend piece on White House pledge expansion; no Michigan-specific decision or development despite data center relevance."
+  },
+  {
+   "url": "https://www.woodtv.com/news/nexstar-media-wire/data-centers-to-use-1-5-of-us-power-by-2035-report/",
+   "title": "U.S. Data Centers Projected to Consume One-Fifth of National Electricity by 2035 Amid AI Boom",
+   "at": "2026-07-25T06:26:08+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece projecting future demand with no Michigan-specific angle or actionable development for local readers tracking the buildout."
   }
  ],
  "auto_published": [
