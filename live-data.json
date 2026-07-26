@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-26T16:10:38+00:00",
+ "updated_at": "2026-07-26T17:36:42Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Chippewa County pushes to freeze new data centers",
+   "dek": "County leaders are weighing a temporary moratorium that would halt any fresh data-center proposals while they study impacts on land, power and local services. Residents in the eastern Upper Peninsula could see development pressure shift or stall depending on the outcome. The move comes as data-center interest grows across Michigan's rural counties.",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUW0zTVRVbXV0c01DMno5SnhHSVY2VE8xdXFORnZrdlI5U202WEE4djVDNlAxWmRUNkpvOXNSUnFFUEpsaU9aYkE1eGc1Zm1UWDRTSGQ2aHFweXZwNkVqX0IyMExwc1JWSHBoVl83YTYtbWwwQU11eGpkbnVzVjZwUHdjOE16NmUxZDlnQWExUlgyeDhtM3E4NmRCbTZUaFdNNHFBVWNQaE5hakhaOWEtRXRRS1Q3X3JieEN0bmpnallldFRpTU9SNTZyZjVqbmdwTGRpXzAtenV6LU5LZEF3clpkQlg5RUZiVUV3SU1kWTZ1RXM?oc=5",
+   "source": "Leader-Telegram",
+   "region": "north",
+   "cat": "STATEWIDE",
+   "county": "Chippewa",
+   "tag": "Local Government",
+   "iso": "2026-07-26T17:21:01Z",
+   "id": "2954c455d025",
+   "origin": "google-news",
+   "source_title": "Chippewa County looks to temporary moratorium on data centers - Leader-Telegram",
+   "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUW0zTVRVbXV0c01DMno5SnhHSVY2VE8xdXFORnZrdlI5U202WEE4djVDNlAxWmRUNkpvOXNSUnFFUEpsaU9aYkE1eGc1Zm1UWDRTSGQ2aHFweXZwNkVqX0IyMExwc1JWSHBoVl83YTYtbWwwQU11eGpkbnVzVjZwUHdjOE16NmUxZDlnQWExUlgyeDhtM3E4NmRCbTZUaFdNNHFBVWNQaE5hakhaOWEtRXRRS1Q3X3JieEN0bmpnallldFRpTU9SNTZyZjVqbmdwTGRpXzAtenV6LU5LZEF3clpkQlg5RUZiVUV3SU1kWTZ1RXM?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Senate candidates split on letting data centers drive up Michigan power bills",
    "dek": "Democratic primary contenders laid out different plans for regulating data-center electricity demand and protecting ratepayers from new transmission costs. The exchange shows which candidates would push utilities or tech firms to cover upgrades versus spreading costs across all customers. Primary voters now have concrete differences on an issue that will hit monthly bills.",
@@ -169,21 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYkdwbFYyam9yOVNYZ3JBUzNXY1pXMVZMQUVnZEVLbXRfRHNKaWoweTlscUNLbGt3YU1Rd1BXZDdyRVhPZU5yVmt0S21vWjR3RkQ5Sjd4UDRveS12ZWtMVm1uQ1ZLQklGNm04QkxEMVZZUjYtYXp3V1JPZGQtY05MQVBLNGJzMEszYXB0T0JqdWNqX1N3eHQzUEp1RElrWmJKYjQ4WG5wRkpFQ0V0N3JYTmkwS0ZhMFFvUG01dXhMUzNkQQ?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
-  },
-  {
-   "iso": "2026-07-23T08:00:00+00:00",
-   "region": "metro",
-   "cat": "Oakland Co.",
-   "tag": "Local Government",
-   "title": "Wixom Keeps Data Center Pause to Shield Residents from Power Strain and Noise",
-   "dek": "City council rejected an early end to the moratorium on a three-building complex, citing risks to health and local resources that could raise resident costs.",
-   "source": "The Cooldown",
-   "url": "https://www.thecooldown.com/green-business/wixom-michigan-officials-reject-data-center-request/",
-   "breaking": false,
-   "lead": false,
-   "id": "9949003eddd0",
-   "accuracy": "checked-rewritten",
-   "judge_score": 8
   }
  ],
  "national": {
