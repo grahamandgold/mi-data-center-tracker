@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-27T18:59:41+00:00",
+ "updated_at": "2026-07-27T20:27:59Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Utica extends data center ban, shielding residents from new builds",
+   "dek": "Utica City Council voted to prolong its existing moratorium on data centers. The move keeps large-scale projects out of the Macomb County city for now, protecting local power and water capacity from sudden demand spikes. Residents avoid immediate tax shifts or infrastructure strain tied to hyperscale facilities.",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX1FJbUlLSnlBcXV3U3NPVXNwUGxPS2RiNUlVZTZWUnpDcjBHMHFjd0hyMER1TDYtV2F1MUlqb1BwSzZQQVQ4aG9ORzY1SVhIRzZRWXpObkNCYWxmN1RUeWFBS0dENnhncDRlc2VMLTJ0Wmpqa1pGQ2dxZkx4blhySlpJZTJqVURHMWRPaVpKemtKYXVMTVFVdWtSWlhxVzdSQVRVYklmM25DZEJzNkpUSzN3?oc=5",
+   "source": "C&G Newspapers",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Macomb",
+   "tag": "Local Government",
+   "iso": "2026-07-27T19:20:08Z",
+   "id": "7f192c306bb1",
+   "origin": "google-news",
+   "source_title": "Utica City Council approves extending data center moratorium - C&G Newspapers",
+   "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX1FJbUlLSnlBcXV3U3NPVXNwUGxPS2RiNUlVZTZWUnpDcjBHMHFjd0hyMER1TDYtV2F1MUlqb1BwSzZQQVQ4aG9ORzY1SVhIRzZRWXpObkNCYWxmN1RUeWFBS0dENnhncDRlc2VMLTJ0Wmpqa1pGQ2dxZkx4blhySlpJZTJqVURHMWRPaVpKemtKYXVMTVFVdWtSWlhxVzdSQVRVYklmM25DZEJzNkpUSzN3?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "St. Clair County residents weigh data center noise against promised jobs",
    "dek": "Times Herald opinion piece highlights growing tension in eastern Michigan over constant humming from new facilities. Local officials face pressure to balance tax revenue and construction work against complaints that the sound disrupts daily life. The debate reflects broader questions about how much industrial growth communities will accept for economic gains.",
@@ -169,23 +186,6 @@
    "id": "3388b48a2a24",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Saline Township flips, restoring Oracle's shot at big tax break",
-   "dek": "The board reversed its earlier limit on incentives for the proposed Oracle campus. Residents now face the prospect of forgoing years of property-tax revenue on a multibillion-dollar project that would draw heavy power and water. The change came after lobbying from the company and supporters who argue the facility would bring jobs.",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV2xHSlR2c2c5c2dLU1RWNTRyTXhua3Aweks1bzFKZlNuaW5pZFFnMmFzendBVHJLbFFDckh4RzlmWmRDUVRIM29uQjNvd3R6cU5xNHpCeG84ZW13S0IxWGdPV3BVWTAzS3g1NTZnb1dsZEpsZkRIZkZ6MXJKTWN0TWpNVm4ydnBPMmIxNVpxV1VDUEI1dlJrTERWRVJEVmYwalRGWWJB?oc=5",
-   "source": "CBS News",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Money",
-   "iso": "2026-07-23T19:42:54Z",
-   "id": "1365b994c555",
-   "origin": "google-news",
-   "source_title": "Saline Township reverses vote to limit Oracle's data center tax break - CBS News",
-   "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV2xHSlR2c2c5c2dLU1RWNTRyTXhua3Aweks1bzFKZlNuaW5pZFFnMmFzendBVHJLbFFDckh4RzlmWmRDUVRIM29uQjNvd3R6cU5xNHpCeG84ZW13S0IxWGdPV3BVWTAzS3g1NTZnb1dsZEpsZkRIZkZ6MXJKTWN0TWpNVm4ydnBPMmIxNVpxV1VDUEI1dlJrTERWRVJEVmYwalRGWWJB?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 9
   }
  ],
  "national": {
