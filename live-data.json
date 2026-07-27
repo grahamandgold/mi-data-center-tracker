@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-27T21:43:02+00:00",
+ "updated_at": "2026-07-27T23:13:57Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Teacher cuffed at Michigan meeting for clapping against data center",
+   "dek": "A teacher was arrested after clapping during public comments opposing a data center proposal at a city commission meeting in Michigan's Upper Peninsula. The incident highlights how heated local fights over data centers have become. Residents worry about noise, power rates, and water use from the projects.",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbFh6Qlpzem96eFlZdXJCbzFsRzJVcHdTbUhHQmQ3S01zV0RGd1MtUTRNbjF2WUVPN0IwaWRweGU0N2VIaXd1ckR5U0QxN29FZDlLV18zSnlRcFpQQkRNTkVZdDVfSVNFRUFPenFFTEZJRG16bEZRa2wyVGxFeldVWndLV2JhazU3dm5Ta0x0Y1c4UzNkYzVSemNLUkFQWEJOU25iUWRRVmNyTk1IOGtnclRDZW5qMDlWem5DV0lFTFZZNnZ1SURleGtnVkJlSjktMlpocmNPbHgyUURh0gHwAUFVX3lxTE1IZ3NybUU1UWUzNVVDSXJqYkllRmlKcUFqNjBaaUJTZlgtWjFjZmRhZHFBX3RRem5wVU1WWU5mc2NXWmhLeUtsYTJPSzU5Ui1QcExLOHdaS3Fock9Zakw2TnltdUE1NlZyXzgtMUxOZmxBMnRiV2FnNS1fYUtGRy1Lb1BGOHNicEFwaUt6R3B5enY0YUNyaTZmeTc0MDlzbGNIX1BnZ00xZVVmLVUzUTlYTm5UUndfYlAxUlhPVGJER2RCUVZoVjFpZzJlZk1fbUNSUlBNR0xjd2poNmRiUGVrZjk5eDBGM0QwTi05V0NYcg?oc=5",
+   "source": "Upper Michigan's Source",
+   "region": "north",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Local Government",
+   "iso": "2026-07-27T22:05:00Z",
+   "id": "408957526ba1",
+   "origin": "google-news",
+   "source_title": "Teacher arrested for repeatedly clapping in favor of data center opponents during city commission meeting - Upper Michigan's Source",
+   "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbFh6Qlpzem96eFlZdXJCbzFsRzJVcHdTbUhHQmQ3S01zV0RGd1MtUTRNbjF2WUVPN0IwaWRweGU0N2VIaXd1ckR5U0QxN29FZDlLV18zSnlRcFpQQkRNTkVZdDVfSVNFRUFPenFFTEZJRG16bEZRa2wyVGxFeldVWndLV2JhazU3dm5Ta0x0Y1c4UzNkYzVSemNLUkFQWEJOU25iUWRRVmNyTk1IOGtnclRDZW5qMDlWem5DV0lFTFZZNnZ1SURleGtnVkJlSjktMlpocmNPbHgyUURh0gHwAUFVX3lxTE1IZ3NybUU1UWUzNVVDSXJqYkllRmlKcUFqNjBaaUJTZlgtWjFjZmRhZHFBX3RRem5wVU1WWU5mc2NXWmhLeUtsYTJPSzU5Ui1QcExLOHdaS3Fock9Zakw2TnltdUE1NlZyXzgtMUxOZmxBMnRiV2FnNS1fYUtGRy1Lb1BGOHNicEFwaUt6R3B5enY0YUNyaTZmeTc0MDlzbGNIX1BnZ00xZVVmLVUzUTlYTm5UUndfYlAxUlhPVGJER2RCUVZoVjFpZzJlZk1fbUNSUlBNR0xjd2poNmRiUGVrZjk5eDBGM0QwTi05V0NYcg?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Utica extends data center ban, shielding residents from new builds",
    "dek": "Utica City Council voted to prolong its existing moratorium on data centers. The move keeps large-scale projects out of the Macomb County city for now, protecting local power and water capacity from sudden demand spikes. Residents avoid immediate tax shifts or infrastructure strain tied to hyperscale facilities.",
@@ -169,21 +186,6 @@
    "origin": "google-news",
    "source_title": "Weekly Data Center Watch: Saline Reverses Tax Break Limit as Augusta Vote Nears - The Sun Times News",
    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR1RFSDRCWWNjYjl1VXdwaXQ4aDllY3loZlZTSkVQNFRucFdwYTdQcS02c2VscUVVY2hULXI2OEZXbnh1ZTRoTmlrT3J0Y0J4VXRuQnFWaEkzZVVOcjRCenhha0JEZHpvMFJtWktHSDg4TnRuSnREenZzM1ZaZVJSNV9RS2V1MFpiRllxTW5tVjZjZ1lTdXE2bXVqbVZjdUNGeENIZ1NzTDFCQmc?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
-  },
-  {
-   "iso": "2026-07-23T23:00:00+00:00",
-   "region": "west",
-   "cat": "Cass Co.",
-   "tag": "Power & Grid",
-   "title": "Dowagiac Residents Report Ongoing Noise From Operating Data Center, Explore Legal Options",
-   "dek": "Cooling systems at a local facility generate persistent humming that disrupts sleep, prompting complaints and mentions of potential class-action steps in the community.",
-   "source": "WXYZ",
-   "url": "https://www.threads.com/@wxyzdetroit/post/DbJ59RgmEgJ/one-michigan-community-has-been-experiencing-the-reality-of-a-data-center-next/",
-   "breaking": false,
-   "lead": false,
-   "id": "3388b48a2a24",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
   }
