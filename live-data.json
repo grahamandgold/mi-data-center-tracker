@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-27T15:27:38+00:00",
+ "updated_at": "2026-07-27T17:20:07Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "St. Clair County residents weigh data center noise against promised jobs",
+   "dek": "Times Herald opinion piece highlights growing tension in eastern Michigan over constant humming from new facilities. Local officials face pressure to balance tax revenue and construction work against complaints that the sound disrupts daily life. The debate reflects broader questions about how much industrial growth communities will accept for economic gains.",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNazVZcFZOMTIwR0wxcE9QRkZGdFJIUVh4VExqT2luTjFvZXhBTjBzc1VGRWVKcnJ4ZzRHcnJNUzZGdXotYUFJNkVZOXF4ZHpJYmpVR3lXR1YxMHo0QmpMZTlqSFF0WU51TG9GYzBIa2JxNE1MSmVtVnllTVhJZm1JcC03azNBUkpiMWVnV3Z0cVN1ekxxMDNRVFE1N0I0Mkp3QlhXRDl2Sk9iNWpsai0zLVAwdVVCa2tLd3d6eFJkSWlrcDYxOW93VQ?oc=5",
+   "source": "Times Herald",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "St. Clair",
+   "tag": "Local Government",
+   "iso": "2026-07-27T14:10:14Z",
+   "id": "12cfe4bdf9cc",
+   "origin": "google-news",
+   "source_title": "Michigan data centers: Noise vs. growth | Opinion - Times Herald",
+   "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNazVZcFZOMTIwR0wxcE9QRkZGdFJIUVh4VExqT2luTjFvZXhBTjBzc1VGRWVKcnJ4ZzRHcnJNUzZGdXotYUFJNkVZOXF4ZHpJYmpVR3lXR1YxMHo0QmpMZTlqSFF0WU51TG9GYzBIa2JxNE1MSmVtVnllTVhJZm1JcC03azNBUkpiMWVnV3Z0cVN1ekxxMDNRVFE1N0I0Mkp3QlhXRDl2Sk9iNWpsai0zLVAwdVVCa2tLd3d6eFJkSWlrcDYxOW93VQ?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
   {
    "title": "Dowagiac data center noise pushes residents to sue for buyouts",
    "dek": "Neighbors say the constant hum from the facility sounds like a vacuum running nonstop and violates local noise rules. The company has already been fined and is now offering to purchase affected homes. Michigan readers nearby face the same quality-of-life hit if more projects move in without stronger sound limits.",
@@ -167,23 +184,6 @@
    "origin": "google-news",
    "source_title": "Saline Township reverses vote to limit Oracle's data center tax break - CBS News",
    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV2xHSlR2c2c5c2dLU1RWNTRyTXhua3Aweks1bzFKZlNuaW5pZFFnMmFzendBVHJLbFFDckh4RzlmWmRDUVRIM29uQjNvd3R6cU5xNHpCeG84ZW13S0IxWGdPV3BVWTAzS3g1NTZnb1dsZEpsZkRIZkZ6MXJKTWN0TWpNVm4ydnBPMmIxNVpxV1VDUEI1dlJrTERWRVJEVmYwalRGWWJB?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 9
-  },
-  {
-   "title": "Delta County bans new data centers for a year",
-   "dek": "The county board voted to halt all data center proposals after residents raised concerns over noise, water use and strain on the rural grid. The one-year moratorium gives local officials time to write permanent zoning rules before any large projects can move forward. Power and water demands from even one hyperscale campus could affect rates and wells for years in this sparsely populated area.",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNXzlpNDlnRnJZZ3VqYnd0ZTJXdWkyNXg1OVBKaG9pYVA0b2dxbzdQZ0ZmVWFKY0xFUmFnRHN1OGw3NF9KWU92LXpFMVlqSkkyQlNMSGJxMG9LZ1A0N01nZmR2VHN1aXZKZHdPN00yVlBuWE02X0pMdHBaSkExMktHZlJoclUtZ204Y3BpekVQYUc0ejNrMXdOMFh1UGNwaXVDZ2lWVFRwcw?oc=5",
-   "source": "DailyPress.net",
-   "region": "north",
-   "cat": "STATEWIDE",
-   "county": "Delta",
-   "tag": "Local Government",
-   "iso": "2026-07-23T12:04:10Z",
-   "id": "94ec547f452f",
-   "origin": "google-news",
-   "source_title": "Delta County Board passes moratorium on data centers - DailyPress.net",
-   "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNXzlpNDlnRnJZZ3VqYnd0ZTJXdWkyNXg1OVBKaG9pYVA0b2dxbzdQZ0ZmVWFKY0xFUmFnRHN1OGw3NF9KWU92LXpFMVlqSkkyQlNMSGJxMG9LZ1A0N01nZmR2VHN1aXZKZHdPN00yVlBuWE02X0pMdHBaSkExMktHZlJoclUtZ204Y3BpekVQYUc0ejNrMXdOMFh1UGNwaXVDZ2lWVFRwcw?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 9
   }

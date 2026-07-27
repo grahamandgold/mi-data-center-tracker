@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeUdLVXhNS1QzTmZXeF9VYjNyNjlEdW9lQVgyU0RLeEVzYjlBX0lsYXVUUWpaQlViS2ExMGxZWENUNzViWUNleklTWnFuYW9PMG5ZQ2ZEemRaRWtuNGNlSEt0TWppbVZOdEhLMDg2ZnlYejdieEt1WE5sZm9jVjBxclZmak1XNDM1OWRsekQxVEQ0ZkFUckdOQk51VE1LdDV3MDdVLTE1Wm1jUktsOFp5VXpwS2dKcGZhMXY3SUlSWTRKVVJ4eWpF0gHbAUFVX3lxTE41bWlRMmRNMVAwdktOdDd0MEVSeXlULXd4b0djbUZTZFE5ZkM1cXgxVWdMaEs3cjZObTBMUkY1VGRPS2F6Vlo5aEMwck9oaGprV1JDRmNWTDRMUkJMRWVPQXhpYjFNa080ckVaSlZEMGVfWEU1Vnh3YVpmcFVFbEhzN2ZfbEl0YVpsN3F0T2xVczU1NjFrdUxMZkRNU0NkMDdQNEdqRGFCVWJsaW5PV2tpWVcyWGpseGZyYjhCNjJWSU0tTlFsU0poV0F4RS1qbm5Ec2ItSTVMaURkOA?oc=5",
-   "title": "Big Tech lobbying pays off: Michigan data centers eye major tax breaks",
-   "at": "2026-07-12T10:57:40+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Speculative 'could be' framing about potential future tax breaks lacks the concrete development or decision that would make it newsworthy."
-  },
-  {
    "url": "https://www.mlive.com/news/2026/07/data-center-tax-breaks-cost-michigan-at-least-13m-but-are-shrouded-in-secrecy.html",
    "title": "Michigan Data Center Tax Breaks Wipe Out at Least $13 Million in State Revenue",
    "at": "2026-07-12T12:05:35+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-07-27T15:27:42+00:00",
    "by": "news_judge",
    "note": "score 3/10: Thin earnings preview that speculates on data centers as a 'potential bright spot' without reporting any actual financial decision or result."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVkhFbHpIWGxwWmphNUQ1THFHSVhaWVhhcHVhbkc4a1VFeFpNUXVKbjc1ZjNMeTRrazk3VnVoQjllb05xdHJCaXJSMjdzc0Y4cEgtNHVZa3hXTnVNNjhFODFjbWwtdC1jWnZBOHo1NTI4eWZxNTc1Rk96NVpKbi1naW1UYkI1NE03eE5IS2l6Q1ZLdHc2cjlDdUNoVE5JelZSSzVQV21nbU1LTjhQejhhd1diSFR2eU5sVzJBWUEzZy1UYjU1a2NF?oc=5",
+   "title": "Dowagiac neighbors describe nonstop drone from nearby AI facility",
+   "at": "2026-07-27T17:20:07+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicate of already-live Dowagiac noise story and multiple killed Dowagiac noise rehashes; opinion piece adds no new development."
   }
  ],
  "auto_published": [
@@ -2193,6 +2193,12 @@
    "title": "Dowagiac data center noise pushes residents to sue for buyouts",
    "judge_score": 8,
    "at": "2026-07-27T12:34:57Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNazVZcFZOMTIwR0wxcE9QRkZGdFJIUVh4VExqT2luTjFvZXhBTjBzc1VGRWVKcnJ4ZzRHcnJNUzZGdXotYUFJNkVZOXF4ZHpJYmpVR3lXR1YxMHo0QmpMZTlqSFF0WU51TG9GYzBIa2JxNE1MSmVtVnllTVhJZm1JcC03azNBUkpiMWVnV3Z0cVN1ekxxMDNRVFE1N0I0Mkp3QlhXRDl2Sk9iNWpsai0zLVAwdVVCa2tLd3d6eFJkSWlrcDYxOW93VQ?oc=5",
+   "title": "St. Clair County residents weigh data center noise against promised jobs",
+   "judge_score": 6,
+   "at": "2026-07-27T17:20:07Z"
   }
  ]
 }
