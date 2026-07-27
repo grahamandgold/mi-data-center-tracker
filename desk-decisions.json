@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://flatheadbeacon.com/2026/07/10/missoula-county-adopts-temporary-moratorium-on-data-centers/",
-   "title": "Missoula County Pauses All New Data Centers for Up to One Year",
-   "at": "2026-07-11T21:01:21+00:00",
-   "by": "news_judge",
-   "note": "score 2/10: Montana county moratorium has no Michigan angle and is a generic national trend piece for a Michigan-focused tracker."
-  },
-  {
    "url": "https://www.aol.com/news/debate-over-data-centers-texas-003900181.html",
    "title": "Texas Data Center Debate Highlights Stakes for Power Grids and Local Economies Nationwide",
    "at": "2026-07-11T22:01:59+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-07-26T09:36:41+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece about Virginia grid vulnerabilities with no Michigan angle or specific local impact."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQa2VQVG5YbHlndlFMT214cjFfSVBNa0RJX0cxanFjZVlqOHBNNV91RGQ2ODJrMXlEaXJWN0xsSVgweWZfNXYxY3pGbjJrRXk2RXNrMTlOeU1yMndCYm1Lc0c2MzQwMkZ4aE1QQW5xTU1KRW1mODdnaW5YRFNNZWlrN2pZRjlBUGNvVk9XNm1FQTlVS0xMUXVLQU9yNEo4Qld4aWhub1Bqb1lxc0JCZ1U3WjdXb2pzaWttN1c0STk5emx5UTd2MTVMd1BqTzA?oc=5",
+   "title": "Dowagiac data center noise keeps residents awake at night",
+   "at": "2026-07-27T08:57:31+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicate of already-live 'Dowagiac Residents Report Ongoing Noise From Operating Data Center, Explore Legal Options' — same facility, same noise complaints, ju"
   }
  ],
  "auto_published": [
