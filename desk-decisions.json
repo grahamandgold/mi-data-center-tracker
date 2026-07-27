@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.aol.com/news/debate-over-data-centers-texas-003900181.html",
-   "title": "Texas Data Center Debate Highlights Stakes for Power Grids and Local Economies Nationwide",
-   "at": "2026-07-11T22:01:59+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece about Texas with generic framing about U.S. tensions; no Michigan-specific development or decision."
-  },
-  {
    "url": "https://wausaupilotandreview.com/2026/07/10/wausaus-first-data-center-zoning-rules-head-to-council-as-wisconsin-communities-scramble-to-respond/",
    "title": "Wausau Advances First Data Center Zoning Rules as Wisconsin Communities Respond",
    "at": "2026-07-11T22:59:08+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-07-27T08:57:31+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Duplicate of already-live 'Dowagiac Residents Report Ongoing Noise From Operating Data Center, Explore Legal Options' — same facility, same noise complaints, ju"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcWE0NDNUQWFiajdNLVlvWXZ5eXZqdVI1VG05VEV0bHdDQkFWWWQ0eDlTVnJJbXpDMjZuaGx0NE4tQXF6NDNxUlVFQXk5a3hTV3l0YlVOM1c0c04zRnZ2V0ZwVl84aWtYdDlWNWNzam5EdF9ibXdnSTh3WmhDRDZFclpuYkFoNnNVQUR6akFtNUdqeDNhSXdWSmRSR0V3cnRwRVI5ODkyV0ctYUlIVllpd3d5dkdfcE1ycGhTblNWT3o5TFJ6bkE?oc=5",
+   "title": "Dowagiac residents record data center hum that never stops",
+   "at": "2026-07-27T12:34:57+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: Rehashes the same Dowagiac noise complaints already covered in the live story about residents exploring legal options and the killed story about 24/7 hum keepin"
   }
  ],
  "auto_published": [
@@ -2187,6 +2187,12 @@
    "title": "Chippewa County pushes to freeze new data centers",
    "judge_score": 7,
    "at": "2026-07-26T17:36:42Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQVlZtTnRtclpzbDdnWjdXNFMwNTJxLUwyblVkLWp4X3JRQVVjX2NDalcxa3VfWW10cmhqc1FtNmdweFh6M0duNDBvR2lPUWltZ0YzOUxxeUxwYVQ0N0dMbUtxeEE2U01Pd0JSUjA2QXdzLVNMZ185c05SRDlCb0dNNGQxejNrclB6eExjTW9URHk4T1VhNm9ESmhXbVhzRHczLTRPd0ZBSU5WcTNBLWU1UTk3Rm85OVBOYzRKNzNyTVhUTjl2TVZHZm9EdmJwZml3MEdpR3NuYzVZZWN0eHNXaU9mMFlPSEpiVkRNeTBTQXF4UTRGYkJwWi00NlViNnFrX1FlRlNWRURLVHVfajY1WXIwd1Bjcmt3c285bWs1elpJUXNzaXZHeTFrb2JQMEE4Zy1tMVczYlUxbTFsNXRTVlVTYlh5eFYzR0M3MVdHMlhYOGlQbjZQNWFYem9zZURhdTlGaWR3RHo3dkdKdndUMTJQUkdvdnJBMVN6b1ZJOE9Idw?oc=5",
+   "title": "Dowagiac data center noise pushes residents to sue for buyouts",
+   "judge_score": 8,
+   "at": "2026-07-27T12:34:57Z"
   }
  ]
 }

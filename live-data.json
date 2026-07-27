@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-27T08:57:27+00:00",
+ "updated_at": "2026-07-27T12:34:57Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Dowagiac data center noise pushes residents to sue for buyouts",
+   "dek": "Neighbors say the constant hum from the facility sounds like a vacuum running nonstop and violates local noise rules. The company has already been fined and is now offering to purchase affected homes. Michigan readers nearby face the same quality-of-life hit if more projects move in without stronger sound limits.",
+   "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQVlZtTnRtclpzbDdnWjdXNFMwNTJxLUwyblVkLWp4X3JRQVVjX2NDalcxa3VfWW10cmhqc1FtNmdweFh6M0duNDBvR2lPUWltZ0YzOUxxeUxwYVQ0N0dMbUtxeEE2U01Pd0JSUjA2QXdzLVNMZ185c05SRDlCb0dNNGQxejNrclB6eExjTW9URHk4T1VhNm9ESmhXbVhzRHczLTRPd0ZBSU5WcTNBLWU1UTk3Rm85OVBOYzRKNzNyTVhUTjl2TVZHZm9EdmJwZml3MEdpR3NuYzVZZWN0eHNXaU9mMFlPSEpiVkRNeTBTQXF4UTRGYkJwWi00NlViNnFrX1FlRlNWRURLVHVfajY1WXIwd1Bjcmt3c285bWs1elpJUXNzaXZHeTFrb2JQMEE4Zy1tMVczYlUxbTFsNXRTVlVTYlh5eFYzR0M3MVdHMlhYOGlQbjZQNWFYem9zZURhdTlGaWR3RHo3dkdKdndUMTJQUkdvdnJBMVN6b1ZJOE9Idw?oc=5",
+   "source": "Tom's Hardware",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Cass",
+   "tag": "Local Government",
+   "iso": "2026-07-27T12:02:21Z",
+   "id": "b71cbe3b8200",
+   "origin": "google-news",
+   "source_title": "'It sounds like someone set up a vacuum, like in your living room': Michigan residents sue AI data center emitting noise 24/7 — company fined for industrial noise ordinance violations, offers to buy h",
+   "source_url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQVlZtTnRtclpzbDdnWjdXNFMwNTJxLUwyblVkLWp4X3JRQVVjX2NDalcxa3VfWW10cmhqc1FtNmdweFh6M0duNDBvR2lPUWltZ0YzOUxxeUxwYVQ0N0dMbUtxeEE2U01Pd0JSUjA2QXdzLVNMZ185c05SRDlCb0dNNGQxejNrclB6eExjTW9URHk4T1VhNm9ESmhXbVhzRHczLTRPd0ZBSU5WcTNBLWU1UTk3Rm85OVBOYzRKNzNyTVhUTjl2TVZHZm9EdmJwZml3MEdpR3NuYzVZZWN0eHNXaU9mMFlPSEpiVkRNeTBTQXF4UTRGYkJwWi00NlViNnFrX1FlRlNWRURLVHVfajY1WXIwd1Bjcmt3c285bWs1elpJUXNzaXZHeTFrb2JQMEE4Zy1tMVczYlUxbTFsNXRTVlVTYlh5eFYzR0M3MVdHMlhYOGlQbjZQNWFYem9zZURhdTlGaWR3RHo3dkdKdndUMTJQUkdvdnJBMVN6b1ZJOE9Idw?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "Chippewa County pushes to freeze new data centers",
    "dek": "County leaders are weighing a temporary moratorium that would halt any fresh data-center proposals while they study impacts on land, power and local services. Residents in the eastern Upper Peninsula could see development pressure shift or stall depending on the outcome. The move comes as data-center interest grows across Michigan's rural counties.",
@@ -169,23 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNXzlpNDlnRnJZZ3VqYnd0ZTJXdWkyNXg1OVBKaG9pYVA0b2dxbzdQZ0ZmVWFKY0xFUmFnRHN1OGw3NF9KWU92LXpFMVlqSkkyQlNMSGJxMG9LZ1A0N01nZmR2VHN1aXZKZHdPN00yVlBuWE02X0pMdHBaSkExMktHZlJoclUtZ204Y3BpekVQYUc0ejNrMXdOMFh1UGNwaXVDZ2lWVFRwcw?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 9
-  },
-  {
-   "title": "MLive map shows every active data center fight across Michigan",
-   "dek": "The new dashboard lets residents track proposals, hearings, and moratoria by township and county. It surfaces stakes like megawatts demanded and potential tax deals in real time. Users can see how projects near them compare to battles elsewhere in the state.",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYkdwbFYyam9yOVNYZ3JBUzNXY1pXMVZMQUVnZEVLbXRfRHNKaWoweTlscUNLbGt3YU1Rd1BXZDdyRVhPZU5yVmt0S21vWjR3RkQ5Sjd4UDRveS12ZWtMVm1uQ1ZLQklGNm04QkxEMVZZUjYtYXp3V1JPZGQtY05MQVBLNGJzMEszYXB0T0JqdWNqX1N3eHQzUEp1RElrWmJKYjQ4WG5wRkpFQ0V0N3JYTmkwS0ZhMFFvUG01dXhMUzNkQQ?oc=5",
-   "source": "MLive.com",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Explainers",
-   "iso": "2026-07-23T11:04:00Z",
-   "id": "455bf278cc9b",
-   "origin": "google-news",
-   "source_title": "MLive interactive dashboard tracks the data center battle raging across Michigan - MLive.com",
-   "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYkdwbFYyam9yOVNYZ3JBUzNXY1pXMVZMQUVnZEVLbXRfRHNKaWoweTlscUNLbGt3YU1Rd1BXZDdyRVhPZU5yVmt0S21vWjR3RkQ5Sjd4UDRveS12ZWtMVm1uQ1ZLQklGNm04QkxEMVZZUjYtYXp3V1JPZGQtY05MQVBLNGJzMEszYXB0T0JqdWNqX1N3eHQzUEp1RElrWmJKYjQ4WG5wRkpFQ0V0N3JYTmkwS0ZhMFFvUG01dXhMUzNkQQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {
