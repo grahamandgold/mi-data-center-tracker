@@ -1,10 +1,10 @@
 {
- "title": "Evenings with Graham & Emmy",
- "teaser": "Chippewa County leaders consider a one-year moratorium on new data centers today.",
+ "title": "Mornings with Graham & Emmy",
+ "teaser": "Dowagiac neighbors sue over nonstop data center noise, seeking buyouts amid statewide siting fights.",
  "lines": [
   {
    "host": "Graham",
-   "text": "Good evening and welcome to Evenings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
+   "text": "Good morning, and welcome to Mornings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
   },
   {
    "host": "Emmy",
@@ -12,223 +12,199 @@
   },
   {
    "host": "Graham",
-   "text": "Tonight we're starting with breaking news out of the eastern Upper Peninsula."
+   "text": "It's Monday, July 27, and we're starting with a story hitting close to home for folks in southwest Michigan."
   },
   {
    "host": "Emmy",
-   "text": "Chippewa County is the latest rural area to hit pause on new data centers."
+   "text": "That's right — today we're talking about the Dowagiac data center where residents say the constant hum is driving them to sue for buyouts."
   },
   {
    "host": "Graham",
-   "text": "Exactly. County leaders are weighing a temporary moratorium that would stop fresh proposals while they study impacts on land, power, and local services."
+   "text": "Exactly. Neighbors describe it like a vacuum running nonstop, violating local noise rules. The company was already fined and is now offering to buy affected homes."
   },
   {
    "host": "Emmy",
-   "text": "This comes as interest grows across Michigan's rural counties. Why Chippewa now, and what does it tell us about the bigger picture?"
+   "text": "Graham, walk me through why this feels like more than just one noisy facility."
   },
   {
    "host": "Graham",
-   "text": "It's part of a clear pattern we've seen this week. Delta County already voted a one-year ban on Thursday after residents raised noise, water, and grid concerns."
+   "text": "Well, data centers need massive cooling systems, and those fans create low-frequency hums that travel far, especially in quiet rural spots like Dowagiac."
   },
   {
    "host": "Emmy",
-   "text": "Garfield Township did the same on Friday after a sloppy project filing. Calhoun County is debating a year-long halt over jobs versus power strain."
+   "text": "So how long has this been building? Have we seen similar complaints before in Michigan?"
   },
   {
    "host": "Graham",
-   "text": "Right. These aren't isolated votes. They're responses to hyperscale projects that can pull hundreds of megawatts and millions of gallons of water daily."
+   "text": "This isn't brand new — cooling noise has popped up around other projects, but Dowagiac is the first where it's escalated to buyout offers after a fine."
   },
   {
    "host": "Emmy",
-   "text": "So what's the history here? Why are so many townships and counties moving at once?"
+   "text": "Who are the main players here? The company, the township, the residents?"
   },
   {
    "host": "Graham",
-   "text": "Rural Michigan has cheap land and available power in some spots, which attracts tech firms building for AI demand. But locals are realizing the trade-offs hit fast."
+   "text": "Residents are leading the push with complaints and now legal action. The operator has tried fines and buyouts to quiet things down, while local officials enforce the noise ordinances."
   },
   {
    "host": "Emmy",
-   "text": "Power is the big one. How does one of these facilities affect electric bills?"
+   "text": "What does this mean for people's daily lives — sleep, property values, that sort of thing?"
   },
   {
    "host": "Graham",
-   "text": "A single large campus can equal the load of a small city. Utilities then need new lines or upgrades, and those costs often get spread across all ratepayers unless special deals are struck."
+   "text": "Folks report disrupted sleep and constant background noise that makes normal living tough. Nearby homes could see values drop if the issue spreads."
   },
   {
    "host": "Emmy",
-   "text": "We've seen that tension in other stories this week. Indiana Michigan Power pledged on Saturday not to pass data center costs to residential customers in southwest Michigan."
+   "text": "And how does this tie into the bigger picture of water use and farmland we've heard about?"
   },
   {
    "host": "Graham",
-   "text": "Yes, and DTE's Q2 preview on Friday highlighted data center growth as a profit driver, which raises questions about who pays for the added infrastructure."
+   "text": "Data centers pull huge amounts of water for cooling and take up land that was often farmland. Noise is just the latest quality-of-life hit on top of those pressures."
   },
   {
    "host": "Emmy",
-   "text": "What about water? These places use massive amounts for cooling."
+   "text": "Graham, what happens next if more projects skip stronger sound rules?"
   },
   {
    "host": "Graham",
-   "text": "Cooling towers can draw millions of gallons a day. In rural areas that rely on wells or limited municipal systems, that creates real competition with farms and homes."
+   "text": "Other Michigan towns could face the same lawsuits or demands for buyouts. It might push counties to add noise limits when they review applications."
   },
   {
    "host": "Emmy",
-   "text": "And farmland itself. These projects often go on open land that could stay agricultural."
+   "text": "Any sense of how widespread these noise rules are right now?"
   },
   {
    "host": "Graham",
-   "text": "Exactly. Once built, the tax base shifts, but so does the character of the township. Residents worry about noise from cooling systems too."
+   "text": "Most places rely on general ordinances, but after cases like this, we're seeing more townships draft specific decibel or setback requirements for cooling equipment."
   },
   {
    "host": "Emmy",
-   "text": "We heard about that in Dowagiac on Thursday. People are already dealing with humming from an operating facility and exploring legal options."
+   "text": "Does the buyout offer change the dynamic for residents who want to stay?"
   },
   {
    "host": "Graham",
-   "text": "That ongoing noise complaint shows the issues don't end at construction. They continue for years."
+   "text": "It gives some an exit, but others worry it sets a precedent where companies just pay to expand rather than fix the noise at the source."
   },
   {
    "host": "Emmy",
-   "text": "So what happens next in Chippewa? They study impacts and then what?"
+   "text": "And for the utility side, does this affect power demand or rates at all?"
   },
   {
    "host": "Graham",
-   "text": "They'll likely draft permanent zoning rules, decide on setbacks, noise limits, and tax agreements. Other counties that paused are doing the same right now."
+   "text": "Not directly, but every new facility adds load that ties back to the rate debates we've seen elsewhere this week."
   },
   {
    "host": "Emmy",
-   "text": "Could development just shift to places without moratoriums?"
+   "text": "Fair point. So what's the takeaway for listeners in other rural counties?"
   },
   {
    "host": "Graham",
-   "text": "That's the risk. Some projects might look at Washtenaw County or other areas still open, like the Oracle proposal in Augusta Township that's up for a vote soon."
+   "text": "Pay attention to how your township handles noise standards now — it could determine whether you end up with the same hum outside your window."
   },
   {
    "host": "Emmy",
-   "text": "Augusta is deciding on zoning and tax terms for a large DTE-connected project. The outcome there will show how much revenue townships can actually capture."
+   "text": "Alright, let's shift to the rest of the week's developments. Yesterday Chippewa County started weighing a temporary moratorium on new data centers."
   },
   {
    "host": "Graham",
-   "text": "Meanwhile Saline Township reversed an earlier limit on incentives for Oracle after company lobbying. That flip shows how these decisions can swing quickly."
+   "text": "Right — leaders there want time to study land, power, and service impacts before more proposals come in."
   },
   {
    "host": "Emmy",
-   "text": "And the Senate candidates weighed in yesterday on protecting ratepayers from transmission costs. Different plans on whether utilities or tech firms should cover upgrades."
+   "text": "That could stall things in the eastern Upper Peninsula if it passes."
   },
   {
    "host": "Graham",
-   "text": "Primary voters now see concrete differences on an issue that directly hits monthly bills."
+   "text": "Exactly, and it shows how rural counties are reacting as interest grows."
   },
   {
    "host": "Emmy",
-   "text": "Stepping back, how many places have paused so far?"
+   "text": "On Saturday, Senate candidates laid out different ideas on regulating data-center power demand and protecting ratepayers from transmission costs."
   },
   {
    "host": "Graham",
-   "text": "At least five counties or townships in the last week alone. It's a fast-moving local response to rapid interest."
+   "text": "Yes, the exchange highlighted real differences on whether utilities or tech firms should cover upgrades or if costs spread to everyone."
   },
   {
    "host": "Emmy",
-   "text": "What should listeners watch for in Chippewa over the next month?"
+   "text": "Primary voters now have clear contrasts on an issue that hits monthly bills."
   },
   {
    "host": "Graham",
-   "text": "Public hearings on the moratorium language, resident input sessions, and any new applications that test the pause."
+   "text": "Also Saturday, Indiana Michigan Power pledged that residential customers won't pay for new data-center power lines in their southwest Michigan territory."
   },
   {
    "host": "Emmy",
-   "text": "And across the state, how utilities respond in rate cases will matter a lot."
+   "text": "That's a direct response to concerns about AI-driven demand pushing up bills."
   },
   {
    "host": "Graham",
-   "text": "Agreed. Now let's move to the other stories from this week in quick hits."
+   "text": "Consumer groups are watching to see how it holds in future rate cases."
   },
   {
    "host": "Emmy",
-   "text": "Starting with the Senate primary. Democratic candidates split on data center power costs yesterday."
+   "text": "Moving to Friday, Garfield Township blocked new data centers for at least a year after an incomplete application."
   },
   {
    "host": "Graham",
-   "text": "They laid out different approaches to regulating demand and shielding ratepayers from new transmission expenses."
+   "text": "Residents there now have breathing room to address power lines, water, and property values."
   },
   {
    "host": "Emmy",
-   "text": "That gives voters clear contrasts on who pays when AI demand spikes."
+   "text": "The pause lets them write rules before anything locks in."
   },
   {
    "host": "Graham",
-   "text": "Next, Indiana Michigan Power's pledge on Saturday."
+   "text": "DTE's Q2 preview that same day flagged data-center growth as a key earnings driver."
   },
   {
    "host": "Emmy",
-   "text": "The utility serving southwest Michigan promised residential customers won't foot the bill for new data center lines."
+   "text": "Which often means more grid demand and potential costs passed to households."
   },
   {
    "host": "Graham",
-   "text": "Consumer groups are watching to see if that holds in future rate cases."
+   "text": "Calhoun County commissioners are also debating a year-long halt over electricity strain and whether jobs will benefit local taxpayers."
   },
   {
    "host": "Emmy",
-   "text": "DTE's earnings preview on Friday highlighted data centers as a profit driver."
+   "text": "A pause would delay projects drawing hundreds of megawatts and millions of gallons of water."
   },
   {
    "host": "Graham",
-   "text": "More demand means more infrastructure pressure, and Michigan ratepayers have already seen added charges from similar projects."
+   "text": "Augusta Township is nearing a vote on zoning and tax terms for a large proposal pulling from the same DTE area as Saline."
   },
   {
    "host": "Emmy",
-   "text": "Calhoun County is also debating a year-long moratorium over electricity strain and whether jobs will benefit local taxpayers."
+   "text": "The outcome will shape how much new load hits ratepayers and what revenue the township sees."
   },
   {
    "host": "Graham",
-   "text": "A pause there would delay projects drawing hundreds of megawatts and millions of gallons of water."
+   "text": "On Thursday we heard more from Dowagiac residents about ongoing noise and legal options, including possible class-action steps."
   },
   {
    "host": "Emmy",
-   "text": "Augusta Township is nearing a vote on rules for an Oracle-scale project pulling from the same DTE territory as Saline."
+   "text": "That lines up with today's buyout news."
   },
   {
    "host": "Graham",
-   "text": "The decision will shape how much new load hits ratepayers and what revenue the township keeps."
+   "text": "Also Thursday, Saline Township reversed an earlier limit and restored Oracle's shot at a big tax break."
   },
   {
    "host": "Emmy",
-   "text": "Dowagiac residents reported ongoing noise from an operating data center on Thursday."
+   "text": "After company lobbying, residents now face forgoing years of property-tax revenue on a multibillion-dollar project."
   },
   {
    "host": "Graham",
-   "text": "Cooling systems are causing sleep issues, and some are exploring legal steps."
+   "text": "Supporters point to jobs, but the power and water draw remains a concern."
   },
   {
    "host": "Emmy",
-   "text": "Saline Township flipped its position on tax breaks for the Oracle campus after lobbying."
+   "text": "No major public meetings listed for today on our tracker."
   },
   {
    "host": "Graham",
-   "text": "Residents now face the prospect of forgoing years of property tax revenue on a multibillion-dollar project."
-  },
-  {
-   "host": "Emmy",
-   "text": "And Delta County already enacted its one-year ban on Thursday."
-  },
-  {
-   "host": "Graham",
-   "text": "That gives officials time to write permanent zoning before any large projects move forward."
-  },
-  {
-   "host": "Emmy",
-   "text": "Lots of local action this week."
-  },
-  {
-   "host": "Graham",
-   "text": "Now for on deck."
-  },
-  {
-   "host": "Emmy",
-   "text": "We're not tracking any major public meetings scheduled for tomorrow yet."
-  },
-  {
-   "host": "Graham",
-   "text": "Listeners can check the Michigan Data Center Tracker for updates as agendas post."
+   "text": "We'll keep watching township boards for any last-minute agendas."
   },
   {
    "host": "Emmy",
@@ -239,7 +215,7 @@
    "text": "We're back tomorrow."
   }
  ],
- "episode_title": "Chippewa County Weighs Data Center Freeze as Rural Michigan Pushes Back on Power and Water",
- "show": "Evenings with Graham & Emmy",
- "daypart": "Evenings"
+ "episode_title": "Dowagiac Noise Battle: Residents Push for Buyouts as Data Center Hum Disrupts Lives",
+ "show": "Mornings with Graham & Emmy",
+ "daypart": "Mornings"
 }
