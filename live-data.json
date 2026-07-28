@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-28T12:23:53+00:00",
+ "updated_at": "2026-07-28T15:02:46Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "DTE lands big data-center contracts even after missing earnings targets",
+   "dek": "DTE’s latest quarterly slides show new data-center deals are driving growth despite an earnings miss. Those deals will shape future power rates and grid investments across southeast Michigan. Ratepayers ultimately pay for the infrastructure needed to serve the new load.",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd0VzM2NaOE42REdZRm1nd3VMd0xkbDFOblBDVzBFM3Uyc0s0ZzNncFd3T1lWal90bGhVaGx3WFpud25TRU5FN2liQUl1bkMyal9raWE4bDlrRVB1c3l1OEh1anpOVHhWdFZsLXI3aXB5UGNSS0dJY1UtbERyM3Z6eC1ldzlacnZZa2xKX2ZLaE9LNlNGNWxQWjFuMXhuVkJSREtuTjE2RTdQX3FPOHlaNjA1UXVOTDU5ZnpJSVREb2pZWFB3OUE?oc=5",
+   "source": "Investing.com",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Wayne",
+   "tag": "Power & Grid",
+   "iso": "2026-07-28T14:29:43Z",
+   "id": "c12392f460ae",
+   "origin": "google-news",
+   "source_title": "DTE Q2 2026 slides: data center deals fuel growth despite earnings miss - Investing.com",
+   "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd0VzM2NaOE42REdZRm1nd3VMd0xkbDFOblBDVzBFM3Uyc0s0ZzNncFd3T1lWal90bGhVaGx3WFpud25TRU5FN2liQUl1bkMyal9raWE4bDlrRVB1c3l1OEh1anpOVHhWdFZsLXI3aXB5UGNSS0dJY1UtbERyM3Z6eC1ldzlacnZZa2xKX2ZLaE9LNlNGNWxQWjFuMXhuVkJSREtuTjE2RTdQX3FPOHlaNjA1UXVOTDU5ZnpJSVREb2pZWFB3OUE?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Teacher cuffed at Michigan meeting for clapping against data center",
    "dek": "A teacher was arrested after clapping during public comments opposing a data center proposal at a city commission meeting in Michigan's Upper Peninsula. The incident highlights how heated local fights over data centers have become. Residents worry about noise, power rates, and water use from the projects.",
@@ -169,23 +186,6 @@
    "origin": "google-news",
    "source_title": "Calhoun County commissioners discuss data center moratorium and economic impacts - Yahoo",
    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdDZJalZ0Z0RGZWpRUDZzNUE0QUpiTWtQa3F6NEtoZ1FLeUc0eTd6cFhHUDVnalVoRUlpcWNPZS01emZTMTdJMm9xd0MzMXFkVEdYaDFSTGNqQWo4SEtOUEEzbmpGeF9MLVdIeW1YcDFpUHVGc3VMeGlMMmY4V045dzlSUmg2dUJwalRrdTFwdFhGcEdPbGoxaXpVOA?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
-  },
-  {
-   "title": "Augusta Township nears vote on Oracle-scale data center rules",
-   "dek": "Augusta officials are set to decide on zoning and tax terms for a large data-center proposal that would pull power from the same DTE territory as Saline. The outcome determines how much new load hits ratepayers and whether the township collects meaningful revenue. A yes vote would add to the string of projects reshaping Washtenaw County's tax base and electricity demand.",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR1RFSDRCWWNjYjl1VXdwaXQ4aDllY3loZlZTSkVQNFRucFdwYTdQcS02c2VscUVVY2hULXI2OEZXbnh1ZTRoTmlrT3J0Y0J4VXRuQnFWaEkzZVVOcjRCenhha0JEZHpvMFJtWktHSDg4TnRuSnREenZzM1ZaZVJSNV9RS2V1MFpiRllxTW5tVjZjZ1lTdXE2bXVqbVZjdUNGeENIZ1NzTDFCQmc?oc=5",
-   "source": "The Sun Times News",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Local Government",
-   "iso": "2026-07-24T01:48:39Z",
-   "id": "1652f7509680",
-   "origin": "google-news",
-   "source_title": "Weekly Data Center Watch: Saline Reverses Tax Break Limit as Augusta Vote Nears - The Sun Times News",
-   "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR1RFSDRCWWNjYjl1VXdwaXQ4aDllY3loZlZTSkVQNFRucFdwYTdQcS02c2VscUVVY2hULXI2OEZXbnh1ZTRoTmlrT3J0Y0J4VXRuQnFWaEkzZVVOcjRCenhha0JEZHpvMFJtWktHSDg4TnRuSnREenZzM1ZaZVJSNV9RS2V1MFpiRllxTW5tVjZjZ1lTdXE2bXVqbVZjdUNGeENIZ1NzTDFCQmc?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
   }

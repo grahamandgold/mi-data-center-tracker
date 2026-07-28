@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://example.com/national-data-center-power-2026",
-   "title": "U.S. Data Center Power Demand Surges as Tech Giants Accelerate AI Infrastructure Buildout",
-   "at": "2026-07-13T10:41:32+00:00",
-   "by": "news_judge",
-   "note": "score 2/10: National trend piece with no Michigan-specific development, already killed in similar form twice."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPeXY5V0d6ODVScnNiVEFGcEUxb0cxMnl4dUVObkpMS1lES19mcThiRy1YOU5NNDJBeUpZSk9CblUwSkE0czI1aGJZV2x4U1dVa0t2YjhaSWllNGZIYmVFV2RKZ2VfdkFzeExQMVVaQjBxS3hKQmdneWJiem5XSjRhNF9IeWN1dkgyMDRhMEdMUDZLcVd3RXJ0ZEZjdTFVUmtRemRVaEFLTE05TTFBa3RFUzhreXRMX2RFVzRQYzZZd2cwSlBRYlBKb1VNUlVYLUtSQlR2dGV3cGV3T2RVTG5oQjhzMzVqVEdRUkhHeHRyQVVlbFQ3OGdCaHZHbDU4bERzVGQxZExJdFExR0Nab0VtMmxiRzMzUV91ekF5U3FabWpwRU1zQ1BJYzR6bWlaMS0xQmhITmJmM1hvMV9VQk8xRG4wY29TbFMwclQw?oc=5",
    "title": "Dowagiac residents to grill data center developers at Monday forum",
    "at": "2026-07-13T13:33:06+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-07-28T12:23:57+00:00",
    "by": "news_judge",
    "note": "score 3/10, duplicate: Duplicate of already-live 'Senate candidates split on letting data centers drive up Michigan power bills' and killed 'Gubernatorial hopefuls clash over who pays"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTVZyeFlpS2xwRXUzVnlVcW9ZclZZTmktZEMyblhQelZuTHlVSXJtcUdjdVo3N25leF8wNzh5bzlIZHJWSW5DWFplRUtYcmVmSnA4NDAzN0tKMFhQSl9XdUFLdnVtb1BuSGhwbHpxZ2x4c2x1WXlWakljU2NlVU9NY2t2QmxfTE91NGNqOEFnMVV3cm4ySjEzNVJ6ZjV3YlNRZ1l0MGJmMXY2UlF2X0N3TUxRSlpURTlx?oc=5",
+   "title": "Michigan grid faces blackout risk as AI data centers pile on demand",
+   "at": "2026-07-28T15:02:46+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: National trend piece about grid stress and heat waves with only generic Michigan tie-in, lacks specific local development or decision."
   }
  ],
  "auto_published": [
@@ -2211,6 +2211,12 @@
    "title": "Teacher cuffed at Michigan meeting for clapping against data center",
    "judge_score": 7,
    "at": "2026-07-27T23:13:57Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd0VzM2NaOE42REdZRm1nd3VMd0xkbDFOblBDVzBFM3Uyc0s0ZzNncFd3T1lWal90bGhVaGx3WFpud25TRU5FN2liQUl1bkMyal9raWE4bDlrRVB1c3l1OEh1anpOVHhWdFZsLXI3aXB5UGNSS0dJY1UtbERyM3Z6eC1ldzlacnZZa2xKX2ZLaE9LNlNGNWxQWjFuMXhuVkJSREtuTjE2RTdQX3FPOHlaNjA1UXVOTDU5ZnpJSVREb2pZWFB3OUE?oc=5",
+   "title": "DTE lands big data-center contracts even after missing earnings targets",
+   "judge_score": 7,
+   "at": "2026-07-28T15:02:46Z"
   }
  ]
 }
