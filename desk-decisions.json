@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaWhYSS1wcVAzZUhxOUE5bVUzeDRiNklFLXFlbzU3RFU3NFhJZGlsZnNHN0xTd3BNVUlNT2phUHNjV1JoMFZOejE5UEEwVnlpTGpJNS0zWDN2cVdjR0lzNGotbEFYT3JYbFNEUTVldWs1MjVUUG0xekY4Z2ZScDJjNEx0LXFZUVZJTEJXV0JObGt5QlFyM2FhQTh3dTBhazEySFUzbg?oc=5",
-   "title": "Green Oak Township adds new zoning layer to control power-hungry facilities",
-   "at": "2026-07-13T16:08:17+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Duplicate of already-live 'Green Oak Township creates new zoning rules for power-hungry data centers' — same zoning action, just reworded."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc2FiTFRld1k1ckRYOHpfYkF0V2xCeDYyemtQalVBN2Y0eG1LeFJmSWlPczZSdDRYcmRpZzNnNkpzRldyR3BsOW41enk5Ukp4TmpOWXlqRFBFWGNMbXJKZ0lYWmJOYWxlREFtR3VtSUEwUnZQSnRvMEtCc1htc01jTzktSzhhY1A0Q0tObDZXYllQempZN3NVWjRaaTlyUHJjNHBfZUs2SjBFM0hVZDdRR2N4bE5OYXk5Z0o2Y2k3cUxjdw?oc=5",
    "title": "Dowagiac neighbors finally confront data center over months of nonstop noise",
    "at": "2026-07-13T16:08:17+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-07-28T16:47:31+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Duplicates multiple already-live stories about Dowagiac residents suing over data center noise, including the specific lawsuit for buyouts."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWFJ3Qk16V1Z3U25GLW8wQWlYZlBaZ0FhRXprUUNBLWUxbUJ3QTNMdXZKWG9wWDljVmNLVGRDNmFPX0xhTkxWRVh4TV9tOTJkS2ZBcnNUUTVNUmlQM2JFY25CMnppbEFXSXNZWkpJVUtUOS1zZ0VzbXhOcWx5ODdTNkJFdXZ3R2NFU3NJMTgxdm9hYXZpTUo2UkQ0d1k4bDVSVU14RVJGT1RYMDJjZ1J5Z3BPQi1tajBGUlZoZ01ZeExjRlFRZ3lQTHpYdXpucWxmNjVZNGZEN2FlWmxET2tvdm1XMXFDVXU1SzZnQ0x3bnFUSTNoZnc?oc=5",
+   "title": "Challenger wins Ann Arbor mayor race on promise to seize grid from private utility",
+   "at": "2026-07-28T18:21:21+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Election result is real news, but the data-center angle appears secondary to a broader municipal-utility campaign theme; lacks concrete data-center decision or "
   }
  ],
  "auto_published": [
