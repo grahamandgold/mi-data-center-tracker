@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-16T12:18:36+00:00",
+ "updated_at": "2026-07-28T12:51:23+00:00",
  "map_points": [
   {
    "name": "Saline Township campus (Stargate)",
@@ -1344,6 +1344,22 @@
    "verified_date": "2026-07-09",
    "confidence": "Confirmed",
    "note": "One-year moratorium approved July 9, 2026. Approximate centroid coordinates."
+  },
+  {
+   "name": "Holly Township moratorium",
+   "municipality": "Holly Township",
+   "county": "Oakland",
+   "status": "Moratorium",
+   "layer": "moratoria",
+   "developer": "",
+   "power_mw": "",
+   "latitude": 42.81139,
+   "longitude": -83.625,
+   "source_url": "https://www.mlive.com/news/detroit/2026/07/oakland-county-community-extends-data-center-moratorium.html",
+   "source_name": "MLive",
+   "verified_date": "2026-07-24",
+   "confidence": "Confirmed",
+   "note": "Extended existing moratorium through Feb 15, 2027, at July 15 board meeting. Approximate township center."
   }
  ],
  "map_meta": {
