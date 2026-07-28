@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPeXY5V0d6ODVScnNiVEFGcEUxb0cxMnl4dUVObkpMS1lES19mcThiRy1YOU5NNDJBeUpZSk9CblUwSkE0czI1aGJZV2x4U1dVa0t2YjhaSWllNGZIYmVFV2RKZ2VfdkFzeExQMVVaQjBxS3hKQmdneWJiem5XSjRhNF9IeWN1dkgyMDRhMEdMUDZLcVd3RXJ0ZEZjdTFVUmtRemRVaEFLTE05TTFBa3RFUzhreXRMX2RFVzRQYzZZd2cwSlBRYlBKb1VNUlVYLUtSQlR2dGV3cGV3T2RVTG5oQjhzMzVqVEdRUkhHeHRyQVVlbFQ3OGdCaHZHbDU4bERzVGQxZExJdFExR0Nab0VtMmxiRzMzUV91ekF5U3FabWpwRU1zQ1BJYzR6bWlaMS0xQmhITmJmM1hvMV9VQk8xRG4wY29TbFMwclQw?oc=5",
-   "title": "Dowagiac residents to grill data center developers at Monday forum",
-   "at": "2026-07-13T13:33:06+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: This is the same Monday forum in Dowagiac already live: 'Dowagiac residents get first look at data center plans Monday.'"
-  },
-  {
-   "url": "https://www.metrotimes.com/news/dowagiac-residents-get-their-chance-to-confront-data-center-operators-after-months-of-noise/",
-   "title": "Dowagiac Residents to Confront Data Center Operator Over Noise at Monday Forum",
-   "at": "2026-07-13T16:08:17+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Duplicate of already-live 'Dowagiac residents get first look at data center plans Monday' and killed 'Dowagiac residents to grill data center developers at Mond"
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaWhYSS1wcVAzZUhxOUE5bVUzeDRiNklFLXFlbzU3RFU3NFhJZGlsZnNHN0xTd3BNVUlNT2phUHNjV1JoMFZOejE5UEEwVnlpTGpJNS0zWDN2cVdjR0lzNGotbEFYT3JYbFNEUTVldWs1MjVUUG0xekY4Z2ZScDJjNEx0LXFZUVZJTEJXV0JObGt5QlFyM2FhQTh3dTBhazEySFUzbg?oc=5",
    "title": "Green Oak Township adds new zoning layer to control power-hungry facilities",
    "at": "2026-07-13T16:08:17+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-07-28T15:02:46+00:00",
    "by": "news_judge",
    "note": "score 4/10: National trend piece about grid stress and heat waves with only generic Michigan tie-in, lacks specific local development or decision."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaXdub2NDLTRjRS1UWlh6OS01OXpvNkEzcTVxbVVTVlNCWnFNRm9HU3JmalFhb2xvSHMxVnlndGY5a3lPRmRfYlYyQjJOVldZWUZQazhHVG5mS0ZpNGlpYUo4a0xxZFhZMUlIekctel9qOFNJNUdVaTlmWFBnSmxDRFhCWm82QUxZOExhWW9xTXM1VTlDTndVVWFxcml2RFJpbUotaDRYVVl0ZlBSOXFxbHJrZ3B4Ql9QV0x5RGxMZlVDa0ZWWHJhMUZ3Wlh0SUpIRUZMZnVSQzlyUVpTcFZVTnBXY1BOS1l6TTAxYw?oc=5",
+   "title": "DTE says data-center contracts will offset earnings miss",
+   "at": "2026-07-28T16:47:31+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: Duplicates the already-live story about DTE landing big data-center contracts after missing earnings targets — same earnings call and contract announcement."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdG9idVRGS1J6bjdnWXpxb2lsT1JhWFN2YjdfSWlzR1JOaVIwNllOODlTQU9MOHE0S0NQTEkwb3VvQm1KbUQwOURhbVNVeTVaUnlBV1pMdm9ndE5IQlZVbGhBVVBfb0x2YmFjd3F3OWVBQWJ1UzNwSHJFREw2cHBFeFZhOU9oaEluTTNxeGRFeVA?oc=5",
+   "title": "Michigan neighbors sue data center over nonstop noise",
+   "at": "2026-07-28T16:47:31+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicates multiple already-live stories about Dowagiac residents suing over data center noise, including the specific lawsuit for buyouts."
   }
  ],
  "auto_published": [
