@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.wlns.com/lansing/lansing-city-council-to-discuss-temporary-data-center-ban/amp/",
-   "title": "Lansing weighs six-month halt on data centers after Deep Green backlash",
-   "at": "2026-07-12T22:05:48+00:00",
-   "by": "news_judge",
-   "note": "score 4/10, duplicate: Same Lansing July 13 hearing and six-month pause already covered in live story 'Lansing hearing set on six-month data center pause after $120M project withdrawa"
-  },
-  {
    "url": "https://example.com/national-data-center-power-2026",
    "title": "U.S. Data Center Power Demand Surges as Tech Giants Accelerate AI Infrastructure Buildout",
    "at": "2026-07-13T10:41:32+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-07-28T07:18:50+00:00",
    "by": "news_judge",
    "note": "score 3/10: Thin rehash of already-covered noise complaints from Dowagiac and other locations without reporting a new specific event, filing, or official action."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNWtBX0ZIWGowRHJiZ09YcFNWbGFyTGt2S3VEMjEzUFpIUVVkVnJVQ1JjQTJfejhnXzBJejlOQmFwTW9zTnpWWTNGSGxNSVRuT2IyQ05taGdycXF4Rm5rYXBPbklSemFRNkE4RXEya1JXQVktT2dUaEJ6aVB4T0VxSmVtejdRSTdYQkNsbVBhbkdjMkZMS1ZCQXEyS1ZMak1LeXhrbUJUSF9yLTRBTHhB?oc=5",
+   "title": "Michigan governor candidates clash over data center power costs",
+   "at": "2026-07-28T12:23:57+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: Duplicate of already-live 'Senate candidates split on letting data centers drive up Michigan power bills' and killed 'Gubernatorial hopefuls clash over who pays"
   }
  ],
  "auto_published": [
