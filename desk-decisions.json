@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc2FiTFRld1k1ckRYOHpfYkF0V2xCeDYyemtQalVBN2Y0eG1LeFJmSWlPczZSdDRYcmRpZzNnNkpzRldyR3BsOW41enk5Ukp4TmpOWXlqRFBFWGNMbXJKZ0lYWmJOYWxlREFtR3VtSUEwUnZQSnRvMEtCc1htc01jTzktSzhhY1A0Q0tObDZXYllQempZN3NVWjRaaTlyUHJjNHBfZUs2SjBFM0hVZDdRR2N4bE5OYXk5Z0o2Y2k3cUxjdw?oc=5",
-   "title": "Dowagiac neighbors finally confront data center over months of nonstop noise",
-   "at": "2026-07-13T16:08:17+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Duplicate of already-live 'Dowagiac residents get first look at data center plans Monday' — same public forum/confrontation event in Dowagiac."
-  },
-  {
    "url": "https://www.reuters.com/legal/litigation/white-house-rally-utilities-data-centers-over-ai-power-costs-2026-07-13/",
    "title": "White House plans voluntary pledge with utilities and data centers to curb AI-driven power cost spikes",
    "at": "2026-07-13T18:19:49+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-07-28T18:21:21+00:00",
    "by": "news_judge",
    "note": "score 4/10: Election result is real news, but the data-center angle appears secondary to a broader municipal-utility campaign theme; lacks concrete data-center decision or "
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTFAwR0lYMzlCSFQteWFNT3NnNm44X1ZpTEp1NG5oNkdYNkRsc0owaEJ4ZmFaMi1yVEhLN1VhVVlJU29XbUc4XzktRm9QRDJUM0lGUFBpTXU2ZXZkN1RTZ2cydEV6Ymt3OUZTZXhpYTZ4U2xoSHo5OVpwX21WVGtLeHRUU291UTl4R1ZuZXF6ZzJWblNoTUJfUFZ4X1BmbzliZmVJS1VKamItS3pCZ3dFNU5UTFR4bFpuNzhYdkRnU05pZw?oc=5",
+   "title": "Protesters warn Trump that Michigan families will pay data center power bills",
+   "at": "2026-07-28T21:17:49+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicate of killed story 'Data center opponents shout down Trump at Michigan rally' — same protest event at same Trump appearance, just reworded."
   }
  ],
  "auto_published": [
