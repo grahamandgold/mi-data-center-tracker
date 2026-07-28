@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.facebook.com/wsbtv/videos/data-center-construction-shut-down-a-company-started-construction-to-power-a-dat/4099069066998888/",
-   "title": "Georgia Environmental Agency Halts Data Center Power Construction Over Missing Permits",
-   "at": "2026-07-12T16:30:51+00:00",
-   "by": "news_judge",
-   "note": "score 2/10: Georgia story with no Michigan angle; already killed a nearly identical Georgia headline about this same Newton County halt."
-  },
-  {
-   "url": "https://mitechnews.com/artificial-intelligence/oracle-seeks-michigan-tax-break-for-43-billion-saline-ai-data-center/",
-   "title": "Oracle Asks Michigan for Tax Break on $43 Billion Saline AI Data Center",
-   "at": "2026-07-12T22:05:48+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Same Oracle/Saline tax break request already covered in killed story 'Oracle pushes Saline to skip taxes on $43B AI campus.'"
-  },
-  {
    "url": "https://www.eaton.com/us/en-us/markets/data-centers.html",
    "title": "U.S. Data Center Power Demand Surges as Tech Giants Accelerate AI Infrastructure",
    "at": "2026-07-12T22:05:48+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-07-28T00:59:24+00:00",
    "by": "news_judge",
    "note": "score 4/10: Protest at a rally is a thin news event that illustrates existing tension rather than reporting a concrete development, decision, or filing in Michigan's data c"
+  },
+  {
+   "url": "https://www.wxyz.com/news/voices/neighbors-say-noise-from-michigan-data-center-is-24-7-and-upending-their-lives",
+   "title": "Dowagiac Residents Sue Data Center Operator Over Constant High-Pitched Noise",
+   "at": "2026-07-28T04:18:41+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: Duplicate of already-live 'Dowagiac data center noise pushes residents to sue for buyouts' — same lawsuit, same facility, same noise complaint."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSGdzcm1FNVFlMzVVQ0lyamJJZUZpSnFBajYwWmlCU2ZYLVoxY2ZkYWRxQV90UXpucFVNVllOZnNjV1poS3lLbGEyT0s1OVItUHBMSzh3WktxaHJPWWpMNk55bXVBNTZWcl84LTFMTmZsQTJ0YldhZzUtX2FLRkctS29QRjhzYnBBcGlLekdweXp2NGFDcmk2Znk3NDA5c2xjSF9QZ2dNMWVVZi1VM1E5WE5uVFJ3X2JQMVJYT1RiREdkQlFWaFYxaWcyZWZNX21DUlJQTUdMY3dqaDZkYlBla2Y5OXgwRjNEME4tOVdDWHLSAfABQVVfeXFMTUhnc3JtRTVRZTM1VUNJcmpiSWVGaUpxQWo2MFppQlNmWC1aMWNmZGFkcUFfdFF6bnBVTVZZTmZzY1daaEt5S2xhMk9LNTlSLVBwTEs4d1pLcWhyT1lqTDZOeW11QTU2VnJfOC0xTE5mbEEydGJXYWc1LV9hS0ZHLUtvUEY4c2JwQXBpS3pHcHl6djRhQ3JpNmZ5NzQwOXNsY0hfUGdnTTFlVWYtVTNROVhOblRSd19iUDFSWE9UYkRHZEJRVmhWMWlnMmVmTV9tQ1JSUE1HTGN3amg2ZGJQZWtmOTl4MEYzRDBOLTlXQ1hy?oc=5",
+   "title": "Upper Michigan teacher cuffed after clapping for data-center opponents",
+   "at": "2026-07-28T04:18:41+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicate of already-live 'Teacher cuffed at Michigan meeting for clapping against data center' — same arrest incident at same meeting, just reworded with 'Uppe"
   }
  ],
  "auto_published": [
