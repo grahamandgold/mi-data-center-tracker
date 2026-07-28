@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.eaton.com/us/en-us/markets/data-centers.html",
-   "title": "U.S. Data Center Power Demand Surges as Tech Giants Accelerate AI Infrastructure",
-   "at": "2026-07-12T22:05:48+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: National trend piece already killed as 'U.S. Data Center Power Demand Surges as Tech Giants Accelerate AI Infrastructure.'"
-  },
-  {
    "url": "https://www.wlns.com/lansing/lansing-city-council-to-discuss-temporary-data-center-ban/amp/",
    "title": "Lansing weighs six-month halt on data centers after Deep Green backlash",
    "at": "2026-07-12T22:05:48+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-07-28T04:18:41+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Duplicate of already-live 'Teacher cuffed at Michigan meeting for clapping against data center' — same arrest incident at same meeting, just reworded with 'Uppe"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONGY1LWR5c0k2cUJYY3lNeEl0cUlPbUg2SE5rbW4wX2ZtWTlZT0VaRkpoenlGUXFTN01xVHg2V2YwelFKemxaaURFeDNMODRTcWRPSDlSR1U1aG9wbmxZRU1PYTlOS1F6eUVzMURUb29QaFMwTEVUU09ZQ0d6ZlRjTC1EZXdGN1NmQzRObU1lLVppOHFTOE5sZU0ybHFkVndNM1g3WWJTREdHTnI4OUE4?oc=5",
+   "title": "Michigan data centers' constant hum sparks resident noise complaints",
+   "at": "2026-07-28T07:18:50+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Thin rehash of already-covered noise complaints from Dowagiac and other locations without reporting a new specific event, filing, or official action."
   }
  ],
  "auto_published": [
