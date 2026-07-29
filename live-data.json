@@ -1,7 +1,41 @@
 {
- "updated_at": "2026-07-29T17:25:21Z",
+ "updated_at": "2026-07-29T18:34:19Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Township leaders threatened as data center land battle explodes online",
+   "dek": "A viral clip sparked threats against township leaders weighing a data center proposal. The episode shows how raw local fights over power use and land are getting. Officials must still decide on the project amid the backlash.",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUEthaWdBdXJLYXJ2dGpuenZfaXktYjJZNnk5dXpCbWZYQmFSNzNRaGpTMlJ1eXNfS3hCcVBHd0pNRk9RMlhleUhIZ2tjV1VjMHJtUmNUUnpBRGVlNHUtWnpvTEpKQ1E5eERtT0prUi1DU1hXR1dfbzIwanhvWGpkcEFTVnNIeGlEa2FrMDB6bjBoQWpHN1UtX2pud2tzT1RhN09VNk9TaXd2X01USWg5V3dnRUxhdFRlVkVFUTFmUnQtNzh0Zmc3SlctendjMVJBcWNjV2pXSC05VE1XN0RkOTVTaWlXaXpEVTJ4Ui1zYw?oc=5",
+   "source": "Livingston Daily",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Livingston",
+   "tag": "Local Government",
+   "iso": "2026-07-29T17:21:00Z",
+   "id": "16c08134e980",
+   "origin": "google-news",
+   "source_title": "Tyrone Twp. officials face death threats after viral data center clip - Livingston Daily",
+   "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUEthaWdBdXJLYXJ2dGpuenZfaXktYjJZNnk5dXpCbWZYQmFSNzNRaGpTMlJ1eXNfS3hCcVBHd0pNRk9RMlhleUhIZ2tjV1VjMHJtUmNUUnpBRGVlNHUtWnpvTEpKQ1E5eERtT0prUi1DU1hXR1dfbzIwanhvWGpkcEFTVnNIeGlEa2FrMDB6bjBoQWpHN1UtX2pud2tzT1RhN09VNk9TaXd2X01USWg5V3dnRUxhdFRlVkVFUTFmUnQtNzh0Zmc3SlctendjMVJBcWNjV2pXSC05VE1XN0RkOTVTaWlXaXpEVTJ4Ui1zYw?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
+  {
+   "title": "Mason County residents push back on data center plans",
+   "dek": "A commission heard from opponents and the public on a proposed center's power and land impacts. Local pushback could force changes or delays to the project. The hearing gives residents a direct say before bigger decisions.",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQT0FnLXRJbmotRUV6elVLajNBSEJPdko2eFF4Slo0NklaQUFKUlBMa2NzdjJIWnAzaDJ0OG1BU3VwNGgwcUFROFFEMHI1ODROM25PU3RLb2tVdlBtT1kyR21tQ0FzUkJtcFJiMjZIVVZ1MExnbDQ2RmtGTmF2Mk1qWkZuVW5vQ2xSbEJ0cnRsRzF4eG13SkJ2Q0ZfWUxtRkdybFY4UTUtV3B2V0xyWmI4ZW1sX013d1FPNWhZVjQ2WUhnUkR4c0huY2g5c3pzSGlWT3RzOVRoMGhFN0ZjNlJSZHMtcDdTejJNN2s5NzZCWXI?oc=5",
+   "source": "WV News",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Mason",
+   "tag": "Local Government",
+   "iso": "2026-07-29T17:13:00Z",
+   "id": "0af0b2c6ccf8",
+   "origin": "google-news",
+   "source_title": "Mason County Commission hears presentation from data center opponent, and public comments - WV News",
+   "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQT0FnLXRJbmotRUV6elVLajNBSEJPdko2eFF4Slo0NklaQUFKUlBMa2NzdjJIWnAzaDJ0OG1BU3VwNGgwcUFROFFEMHI1ODROM25PU3RLb2tVdlBtT1kyR21tQ0FzUkJtcFJiMjZIVVZ1MExnbDQ2RmtGTmF2Mk1qWkZuVW5vQ2xSbEJ0cnRsRzF4eG13SkJ2Q0ZfWUxtRkdybFY4UTUtV3B2V0xyWmI4ZW1sX013d1FPNWhZVjQ2WUhnUkR4c0huY2g5c3pzSGlWT3RzOVRoMGhFN0ZjNlJSZHMtcDdTejJNN2s5NzZCWXI?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Tech industry pours $300K into congressional primary over data center stakes",
    "dek": "A super PAC linked to artificial intelligence interests spent nearly $300,000 in a Michigan congressional primary. The money targets a race where data center policy is an emerging issue. Voters in the district will decide the outcome next week.",
@@ -154,40 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNazVZcFZOMTIwR0wxcE9QRkZGdFJIUVh4VExqT2luTjFvZXhBTjBzc1VGRWVKcnJ4ZzRHcnJNUzZGdXotYUFJNkVZOXF4ZHpJYmpVR3lXR1YxMHo0QmpMZTlqSFF0WU51TG9GYzBIa2JxNE1MSmVtVnllTVhJZm1JcC03azNBUkpiMWVnV3Z0cVN1ekxxMDNRVFE1N0I0Mkp3QlhXRDl2Sk9iNWpsai0zLVAwdVVCa2tLd3d6eFJkSWlrcDYxOW93VQ?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
-  },
-  {
-   "title": "Dowagiac data center noise pushes residents to sue for buyouts",
-   "dek": "Neighbors say the constant hum from the facility sounds like a vacuum running nonstop and violates local noise rules. The company has already been fined and is now offering to purchase affected homes. Michigan readers nearby face the same quality-of-life hit if more projects move in without stronger sound limits.",
-   "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQVlZtTnRtclpzbDdnWjdXNFMwNTJxLUwyblVkLWp4X3JRQVVjX2NDalcxa3VfWW10cmhqc1FtNmdweFh6M0duNDBvR2lPUWltZ0YzOUxxeUxwYVQ0N0dMbUtxeEE2U01Pd0JSUjA2QXdzLVNMZ185c05SRDlCb0dNNGQxejNrclB6eExjTW9URHk4T1VhNm9ESmhXbVhzRHczLTRPd0ZBSU5WcTNBLWU1UTk3Rm85OVBOYzRKNzNyTVhUTjl2TVZHZm9EdmJwZml3MEdpR3NuYzVZZWN0eHNXaU9mMFlPSEpiVkRNeTBTQXF4UTRGYkJwWi00NlViNnFrX1FlRlNWRURLVHVfajY1WXIwd1Bjcmt3c285bWs1elpJUXNzaXZHeTFrb2JQMEE4Zy1tMVczYlUxbTFsNXRTVlVTYlh5eFYzR0M3MVdHMlhYOGlQbjZQNWFYem9zZURhdTlGaWR3RHo3dkdKdndUMTJQUkdvdnJBMVN6b1ZJOE9Idw?oc=5",
-   "source": "Tom's Hardware",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Cass",
-   "tag": "Local Government",
-   "iso": "2026-07-27T12:02:21Z",
-   "id": "b71cbe3b8200",
-   "origin": "google-news",
-   "source_title": "'It sounds like someone set up a vacuum, like in your living room': Michigan residents sue AI data center emitting noise 24/7 — company fined for industrial noise ordinance violations, offers to buy h",
-   "source_url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQVlZtTnRtclpzbDdnWjdXNFMwNTJxLUwyblVkLWp4X3JRQVVjX2NDalcxa3VfWW10cmhqc1FtNmdweFh6M0duNDBvR2lPUWltZ0YzOUxxeUxwYVQ0N0dMbUtxeEE2U01Pd0JSUjA2QXdzLVNMZ185c05SRDlCb0dNNGQxejNrclB6eExjTW9URHk4T1VhNm9ESmhXbVhzRHczLTRPd0ZBSU5WcTNBLWU1UTk3Rm85OVBOYzRKNzNyTVhUTjl2TVZHZm9EdmJwZml3MEdpR3NuYzVZZWN0eHNXaU9mMFlPSEpiVkRNeTBTQXF4UTRGYkJwWi00NlViNnFrX1FlRlNWRURLVHVfajY1WXIwd1Bjcmt3c285bWs1elpJUXNzaXZHeTFrb2JQMEE4Zy1tMVczYlUxbTFsNXRTVlVTYlh5eFYzR0M3MVdHMlhYOGlQbjZQNWFYem9zZURhdTlGaWR3RHo3dkdKdndUMTJQUkdvdnJBMVN6b1ZJOE9Idw?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
-  },
-  {
-   "title": "Chippewa County pushes to freeze new data centers",
-   "dek": "County leaders are weighing a temporary moratorium that would halt any fresh data-center proposals while they study impacts on land, power and local services. Residents in the eastern Upper Peninsula could see development pressure shift or stall depending on the outcome. The move comes as data-center interest grows across Michigan's rural counties.",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUW0zTVRVbXV0c01DMno5SnhHSVY2VE8xdXFORnZrdlI5U202WEE4djVDNlAxWmRUNkpvOXNSUnFFUEpsaU9aYkE1eGc1Zm1UWDRTSGQ2aHFweXZwNkVqX0IyMExwc1JWSHBoVl83YTYtbWwwQU11eGpkbnVzVjZwUHdjOE16NmUxZDlnQWExUlgyeDhtM3E4NmRCbTZUaFdNNHFBVWNQaE5hakhaOWEtRXRRS1Q3X3JieEN0bmpnallldFRpTU9SNTZyZjVqbmdwTGRpXzAtenV6LU5LZEF3clpkQlg5RUZiVUV3SU1kWTZ1RXM?oc=5",
-   "source": "Leader-Telegram",
-   "region": "north",
-   "cat": "STATEWIDE",
-   "county": "Chippewa",
-   "tag": "Local Government",
-   "iso": "2026-07-26T17:21:01Z",
-   "id": "2954c455d025",
-   "origin": "google-news",
-   "source_title": "Chippewa County looks to temporary moratorium on data centers - Leader-Telegram",
-   "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUW0zTVRVbXV0c01DMno5SnhHSVY2VE8xdXFORnZrdlI5U202WEE4djVDNlAxWmRUNkpvOXNSUnFFUEpsaU9aYkE1eGc1Zm1UWDRTSGQ2aHFweXZwNkVqX0IyMExwc1JWSHBoVl83YTYtbWwwQU11eGpkbnVzVjZwUHdjOE16NmUxZDlnQWExUlgyeDhtM3E4NmRCbTZUaFdNNHFBVWNQaE5hakhaOWEtRXRRS1Q3X3JieEN0bmpnallldFRpTU9SNTZyZjVqbmdwTGRpXzAtenV6LU5LZEF3clpkQlg5RUZiVUV3SU1kWTZ1RXM?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {

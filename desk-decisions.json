@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.govtech.com/artificial-intelligence/data-center-tax-breaks-cost-michigan-13m-in-revenue",
-   "title": "Michigan Data Centers Skipped $13M in Taxes on $212M Purchases",
-   "at": "2026-07-14T00:56:51+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Thin rehash of the 2015 tax break story already killed twice ('Michigan Data Center Tax Breaks Wipe Out at Least $13 Million' and 'Big Tech Lobbying Pays Off as"
-  },
-  {
-   "url": "https://apnews.com/article/data-centers-power-demand-ai-2026",
-   "title": "U.S. Data Center Power Demand Surges as Tech Giants Accelerate AI Infrastructure",
-   "at": "2026-07-14T00:56:51+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: National trend piece already killed twice under identical headline ('U.S. Data Center Power Demand Surges as Tech Giants Accelerate AI Infrastructure' and with "
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOUmFnU0lPSDZUMC1MTm5uTEtXMWQ5STJXZ3JCaHlXeXN4a0tXY3plRHVPRjlSeDBtVUwyQW9hakZRdS00UVhma3VDZmZhcXdhQXJsTHhIVEJZVkw2VmdxYU0zM1EzTmZjeF83OE1zZDJSTEVNMTY0SnJiVFJHWElkWkRzRGxvS1phU3RLV2Z2Q2FmX3FYcXcwRHc1d3F1U3VSNlRaMGZfZXZBSkRJRjJBbEtrQnVlbW9hY1dJLXgyeTJtRmg0NXV1eTkyMG05X1ZZeVgzVUVEX2xJUjZaN1BOa0lyckFNeHZoclZqZUMwR2Q?oc=5",
    "title": "Lowell residents step up fight against Microsoft data center",
    "at": "2026-07-14T04:11:31+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-07-29T17:25:21+00:00",
    "by": "news_judge",
    "note": "score 4/10, duplicate: Duplicate of already-live 'Senate candidates split on letting data centers drive up Michigan power bills' — same candidate-survey story on power costs, just gub"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQLUpVM2h5WE9TUXV0a0pieGVyWGNiUUZpY0JiY0hsOFltSG0wellVME9zUW5kUWRFUU9JbzlwRzdidWxjcXRDNGJONmlDSG93ejdNbVFVa1dwX2tHWHdsUmpyTGhmYUh3UUh0VFZCM1JxMEtWZGZ1YjNqX3ZaMUltZTBZTHNLZnJTNDhtdW5naEtac29yNXJvZkpwY0d3ZTZJOGJ3c0Y5ZUp4ZmxoN3ZRcXZyX0tlcXAweThZMzhaNElqcFZ6azZGQVBwN2p3Z3pRX1k4WXNPZTIydDktZElWYnd6TklBZE5rbkgtR2VyZjJnWjdrN0JKa2NVYw?oc=5",
+   "title": "Houghton County towns prep rules before data centers arrive",
+   "at": "2026-07-29T18:34:19+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: This is the same Houghton County rulemaking effort already live in 'Houghton County readies rules before data centers arrive'—just reworded as 'towns prep rules"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTDZpbUdxYjgzd1IyYVkzb0J5MzBNb2VaYURPTFd1RmMxd2ZLZkdZZXBrNUx4bWVXUzRva283eUlxWURYSmNhdnlOSDUwaGktaTNyZmp6ZzYtcUdJWUhkbmxnR3NBNUVxdlpiVTQyR3VRUWY2WV9QQVQ3aFd0XzhKYm9LSXBlZ2tTOU42U0IzQ1A?oc=5",
+   "title": "Data centers split Michigan Dems ahead of primary",
+   "at": "2026-07-29T18:34:19+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Thin political trend piece about candidate positions without reporting a specific filing, debate, or vote; overlaps thematically with the already-live $300K pri"
   }
  ],
  "auto_published": [
@@ -2247,6 +2247,18 @@
    "title": "Tech industry pours $300K into congressional primary over data center stakes",
    "judge_score": 8,
    "at": "2026-07-29T17:25:21Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQT0FnLXRJbmotRUV6elVLajNBSEJPdko2eFF4Slo0NklaQUFKUlBMa2NzdjJIWnAzaDJ0OG1BU3VwNGgwcUFROFFEMHI1ODROM25PU3RLb2tVdlBtT1kyR21tQ0FzUkJtcFJiMjZIVVZ1MExnbDQ2RmtGTmF2Mk1qWkZuVW5vQ2xSbEJ0cnRsRzF4eG13SkJ2Q0ZfWUxtRkdybFY4UTUtV3B2V0xyWmI4ZW1sX013d1FPNWhZVjQ2WUhnUkR4c0huY2g5c3pzSGlWT3RzOVRoMGhFN0ZjNlJSZHMtcDdTejJNN2s5NzZCWXI?oc=5",
+   "title": "Mason County residents push back on data center plans",
+   "judge_score": 7,
+   "at": "2026-07-29T18:34:19Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUEthaWdBdXJLYXJ2dGpuenZfaXktYjJZNnk5dXpCbWZYQmFSNzNRaGpTMlJ1eXNfS3hCcVBHd0pNRk9RMlhleUhIZ2tjV1VjMHJtUmNUUnpBRGVlNHUtWnpvTEpKQ1E5eERtT0prUi1DU1hXR1dfbzIwanhvWGpkcEFTVnNIeGlEa2FrMDB6bjBoQWpHN1UtX2pud2tzT1RhN09VNk9TaXd2X01USWg5V3dnRUxhdFRlVkVFUTFmUnQtNzh0Zmc3SlctendjMVJBcWNjV2pXSC05VE1XN0RkOTVTaWlXaXpEVTJ4Ui1zYw?oc=5",
+   "title": "Township leaders threatened as data center land battle explodes online",
+   "judge_score": 6,
+   "at": "2026-07-29T18:34:19Z"
   }
  ]
 }
