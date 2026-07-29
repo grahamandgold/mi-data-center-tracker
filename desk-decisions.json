@@ -1,27 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTWs0TWowY0NacklXOFl1TmhUSnA5ako2NEM5LUs1YW41NGNzSlczNzlDdWFnRFR3SEtEM2w1OHNxSTdpZzNNQ1lXU1FDLW8zcktIOUlFdnNBVEZFSUdjZkRjRGI2ZzgtQm5DaE02OHFkSTBtT0JfVXhza2hIU09LWFhEakFWY3pBYUpJTW44by1vMEFSVWE5Q3FUTlRBRUdnTFZCZ0pwNGZaZ0Z1dU03NlRyMNIBswFBVV95cUxPTWs0TWowY0NacklXOFl1TmhUSnA5ako2NEM5LUs1YW41NGNzSlczNzlDdWFnRFR3SEtEM2w1OHNxSTdpZzNNQ1lXU1FDLW8zcktIOUlFdnNBVEZFSUdjZkRjRGI2ZzgtQm5DaE02OHFkSTBtT0JfVXhza2hIU09LWFhEakFWY3pBYUpJTW44by1vMEFSVWE5Q3FUTlRBRUdnTFZCZ0pwNGZaZ0Z1dU03NlRyMA?oc=5",
-   "title": "Lansing enacts six-month freeze on all new data center proposals",
-   "at": "2026-07-14T06:37:43+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: The Lansing six-month freeze vote is already live in the first item."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRDFiQUYyWXRaU1luVzI2T0llNXhBVnpaOUlnai1hcnJ2LXhkRFZiaHFIVjZKUlE5MnBhdFhyU2R6WnRnR29HQUlVS0Z4cVBNYW96RUY5S0NOeFVpbTE2NTNkVC1PMTU2bG1WYVgtaGg2dGo1VnZFT3Z5TW92NlctSktydFJjMWZZa2hrOUhta2NCYmlyWWRQX1RtSHpCM3R6eWdDdGFUR09MZWQwRmc1Q09LWlV6ZXVpTXpCTmIzcmtjU1hQdVVQY2ZCNE12RjFF?oc=5",
-   "title": "Dowagiac residents slam hyperscale project over noise and water drain",
-   "at": "2026-07-14T06:37:43+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Dowagiac noise and water complaints already killed twice; no new meeting, vote, or filing reported."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOR1hla20tYndiRkJHa3BCbGtQYU5QMnczSmpTcUgxb3oxS3pQcDM3QTZUQlRhRkoyVEt3aTg5anJwU183QXZuemNXVWRGM294LXBnbGV4dVNtS0VOV2t3eEtMYnh4SFV4b1htZ2l4MlBoNGhxSDN0dmVEdjVnUTdwVWJfdmFhZnRYZG95aW1PR3BWeWtrbHFwSXFsZko4VGVTRGZwWjF4cXkxMHVDVWV3N1liTy11eFNscWlVQktnT3VBd0lmTFVmSmI0SHR5T2tlVUJhWE9LNlMxMFZrallJSHNrQmNUMFVHZk1XaGo0bnhIRG1WTnY1WGZFWmxHQnNFdVkxSTQxYmVaYVlORTVqb1J6aWplWGdreUt3Tks5TGU3VzBtX2xjQkFCbDlDckxpWU1heXQwNWtuaGE3NzRvdURKRlNJSlVaeGFQeEFXa3JmbUgwNjh0dHdDYVlRcHM?oc=5",
-   "title": "Dowagiac residents grill hyperscale CEO over noise and water use",
-   "at": "2026-07-14T11:10:49+00:00",
-   "by": "news_judge",
-   "note": "score 4/10, duplicate: This is the same Dowagiac Monday forum/meeting already covered in multiple killed stories and the live 'Dowagiac residents get first look at data center plans M"
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQi1NUHBQMEpJcFdtNzlWSzA4OXlmYmFWb0lleENMLUpMbTRqVlRXOHZJYlFiZzhBVkxVZXJBNkJmNDJGemZoMTVneXBLR3lCZ2ZscjJEXzhiX3pCcTM3d0k1c29UYnlGTkxPclRScHJyWDlmOVFTaG16VktFbFU4VWlGX2t6UHZyTS1VZUFza3c?oc=5",
    "title": "Lansing bans new data centers for six months",
    "at": "2026-07-14T12:51:29+00:00",
@@ -1399,6 +1378,27 @@
    "at": "2026-07-29T21:06:55+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece with no Michigan-specific development, decision, or concrete action."
+  },
+  {
+   "url": "https://www.dropsitenews.com/p/data-centers-michigan-democrats-primary-el-sayed-stevens",
+   "title": "Michigan Senate Hopefuls Split on Data Center Costs to Residents",
+   "at": "2026-07-29T23:35:44+00:00",
+   "by": "news_judge",
+   "note": "score 4/10, duplicate: Duplicate of already-live 'Data Center Battles Loom for Michigan Senate Primary Candidates' — same race, same candidate positions on data centers."
+  },
+  {
+   "url": "https://www.newsweek.com/michigan-residents-sue-ai-data-center-noise-not-alone-12254427",
+   "title": "Dowagiac Residents File Lawsuit Alleging Constant Noise From Nearby AI Data Center",
+   "at": "2026-07-29T23:35:44+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicate of killed 'Dowagiac Residents Sue Data Center Operator Over Constant High-Pitched Noise' and related noise lawsuit stories — same lawsuit, same facili"
+  },
+  {
+   "url": "https://example.com/national-data-center-power",
+   "title": "U.S. Data Center Power Demand Surges as Tech Giants Accelerate AI Infrastructure",
+   "at": "2026-07-29T23:35:44+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicate of killed 'U.S. Data Center Power Demand Surges as Tech Giants Accelerate AI Infrastructure' — identical national trend story."
   }
  ],
  "auto_published": [
