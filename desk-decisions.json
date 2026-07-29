@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.reuters.com/legal/litigation/white-house-rally-utilities-data-centers-over-ai-power-costs-2026-07-13/",
-   "title": "White House plans voluntary pledge with utilities and data centers to curb AI-driven power cost spikes",
-   "at": "2026-07-13T18:19:49+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National voluntary pledge story with thin Michigan relevance; speculative on impact and lacks concrete local action or decision."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeFgwbEJFbjR4bVI4M0NONDlzWnBaMWdUTjJUVl9BRURsallBSnhBSWNqWGM2RHdWcjhWbElnY2k1dzNFTW5EQWIyUXBpZlpoeVZGVlBWX0RqRzlYbGlaSmllS1EzLXlkd2JhS3VlZmVNME5FOE4zSUtYMjh6YV8zNHdOOHFaY1hqdlhJ?oc=5",
    "title": "Warren may block new data centers for a year",
    "at": "2026-07-13T22:32:05+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-07-28T21:17:49+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Duplicate of killed story 'Data center opponents shout down Trump at Michigan rally' — same protest event at same Trump appearance, just reworded."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRS1PdndrOHVSVElXcnBheW5xUmhRaWg0Zk1fWDF6NElESDVIdEJMUDNRSGdBSjZna3EzSGd4MWJDOU1SNVdHVFEzUE9XMHVhd01RYmtLY3NZM3JlMEZHaU5UcGtNYkpfdVhqZWhxR3FHaDVQQzlOdHVXUWF2Y1Q0aWtiWmgwRDE3S1Qtam1jcGN0VGE2bkpVQzhkNA?oc=5",
+   "title": "Governor candidates split on tax breaks and data-center growth",
+   "at": "2026-07-29T11:42:20+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Candidate Q&A on policy positions is softer than actual policy decisions or votes; overlaps thematically with already-live Senate candidate split story but cove"
   }
  ],
  "auto_published": [
@@ -2223,6 +2223,12 @@
    "title": "Bellevue residents demand answers on data center water and power use",
    "judge_score": 6,
    "at": "2026-07-29T06:16:34Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOc005dnYtQ3plZUxGa1NZaFlCRHhHWmEzVmpVNnNHOExIaXVrd3B3SmdQS0hFLThHOUo2RElfbWxWakVsaXdfczNEd2QyQTFsVmRzUHBIcWxCVVh0OUJCeGpCclA1T3pnek1HTFZtNXozTndacVdpbVd4SXE4VWE0Z3pVTXhDLVdaUDUycVlvdTRZUFlmTVN2NDBUbEFNR0ZCRWRWamF1eE0xazhIenBvNDg3VGxoSVM4SUtkdWF1TzBlcmd3MHdHV0xEWDBMSjZockJ6MEZnOWlwR1BCMm1wUi1VRFRmLXZhcUUxcA?oc=5",
+   "title": "DTE queue for data centers tops 8GW after Oracle, Google deals",
+   "judge_score": 8,
+   "at": "2026-07-29T11:42:20Z"
   }
  ]
 }

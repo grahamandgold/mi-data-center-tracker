@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-29T09:24:11+00:00",
+ "updated_at": "2026-07-29T11:42:20Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "DTE queue for data centers tops 8GW after Oracle, Google deals",
+   "dek": "DTE Electric now lists more than 8 gigawatts of proposed data-center load, driven by signed agreements with Oracle and Google. The surge means higher power demand that will shape rates and grid upgrades for southeast Michigan customers. Residents will feel the effects through future bills and decisions on where new transmission lines and substations are built.",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOc005dnYtQ3plZUxGa1NZaFlCRHhHWmEzVmpVNnNHOExIaXVrd3B3SmdQS0hFLThHOUo2RElfbWxWakVsaXdfczNEd2QyQTFsVmRzUHBIcWxCVVh0OUJCeGpCclA1T3pnek1HTFZtNXozTndacVdpbVd4SXE4VWE0Z3pVTXhDLVdaUDUycVlvdTRZUFlmTVN2NDBUbEFNR0ZCRWRWamF1eE0xazhIenBvNDg3VGxoSVM4SUtkdWF1TzBlcmd3MHdHV0xEWDBMSjZockJ6MEZnOWlwR1BCMm1wUi1VRFRmLXZhcUUxcA?oc=5",
+   "source": "Data Center Dynamics",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Power & Grid",
+   "iso": "2026-07-29T10:20:39Z",
+   "id": "6db1822a2afb",
+   "origin": "google-news",
+   "source_title": "Michigan utility DTE data center pipeline increases to more than 8GW, on the back of deals with Oracle and Google - Data Center Dynamics",
+   "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOc005dnYtQ3plZUxGa1NZaFlCRHhHWmEzVmpVNnNHOExIaXVrd3B3SmdQS0hFLThHOUo2RElfbWxWakVsaXdfczNEd2QyQTFsVmRzUHBIcWxCVVh0OUJCeGpCclA1T3pnek1HTFZtNXozTndacVdpbVd4SXE4VWE0Z3pVTXhDLVdaUDUycVlvdTRZUFlmTVN2NDBUbEFNR0ZCRWRWamF1eE0xazhIenBvNDg3VGxoSVM4SUtkdWF1TzBlcmd3MHdHV0xEWDBMSjZockJ6MEZnOWlwR1BCMm1wUi1VRFRmLXZhcUUxcA?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "Bellevue residents demand answers on data center water and power use",
    "dek": "Neighbors in Bellevue want concrete numbers on how much electricity and water the proposed facility would pull from local supplies. Eaton County residents worry higher utility rates and strained wells could follow if the project moves ahead without more transparency. The push for details comes as data centers across Michigan seek big new connections to the grid.",
@@ -171,23 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRG5iYi14MG1ETTRqRHRCd2NoSE03bUpkLXZmR0laY0MyR1NpdS1lVFBybC1nSlVhQUk1cmpCeWd6X1lhdUpWUlJCbkpDTDV5RkhfQ3ZZaVEyTGdsNGJEZjZPZ2hBSVFLY2pxcmtSa245VXRrdXhBeGhEcmZ1WXBwbmZqeWtEZUl0ckU2cmw4czBoSUNqMDVjTlJwR0ZZbTZHZko1UlhGY0xtTWtkQkxscm9QOXF1RGZNR0ctUUdqM19mRGRjOXZodWtB?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
-  },
-  {
-   "title": "DTE customers may foot bigger bills as data centers boost utility profits",
-   "dek": "DTE Energy’s Q2 preview highlights data-center growth as a key earnings driver for the Detroit-based utility. That expansion means more demand on the grid, which often translates into higher rates or new infrastructure costs passed to households. Michigan ratepayers have already seen added charges tied to similar projects elsewhere in the service territory.",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYWs0czlQb2VnNVNrdVJXYVRPZ21GRUx3NVBKT0VUUzE2dXZ6RkF6RlpNODBTNkMxQ0paNm5CemtFQ2EzMnJmdVBwbHFuNW5wRWxSNEdnN2JlbHEtaTJTbGNLWk15ZVFlX3pXUTJQRlB2aHFZNzVuMGxSQldfZEJZQUE5M3Ezcjd3elJ3M0RuZVJMOUFLbHR6QzNDWTVSUC13WUx3X2tzR2hTNk40aWhjMklKeFdvdjJ5S0E?oc=5",
-   "source": "Seeking Alpha",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Power & Grid",
-   "iso": "2026-07-24T05:38:00Z",
-   "id": "115433fc147a",
-   "origin": "google-news",
-   "source_title": "DTE Energy: Q2 Earnings Preview, A Regulated Utility With Data-Center Tailwinds (NYSE:DTE) - Seeking Alpha",
-   "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYWs0czlQb2VnNVNrdVJXYVRPZ21GRUx3NVBKT0VUUzE2dXZ6RkF6RlpNODBTNkMxQ0paNm5CemtFQ2EzMnJmdVBwbHFuNW5wRWxSNEdnN2JlbHEtaTJTbGNLWk15ZVFlX3pXUTJQRlB2aHFZNzVuMGxSQldfZEJZQUE5M3Ezcjd3elJ3M0RuZVJMOUFLbHR6QzNDWTVSUC13WUx3X2tzR2hTNk40aWhjMklKeFdvdjJ5S0E?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {
