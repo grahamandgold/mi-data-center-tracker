@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-29T21:06:51+00:00",
+ "updated_at": "2026-07-29T22:31:56Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "St. Joseph candidate pushes moratorium to block data centers",
+   "dek": "A candidate for St. Joseph County Council is calling for a temporary halt on data-center proposals. Residents would face sudden spikes in power bills and water use if large facilities arrive without local rules. The push comes as other Michigan counties scramble to write their own limits before projects land.",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcTY1YTM3OXZIYnd4eU0tZTc5WHFMQjJ1Q3MwUXlCUDBEaFJBMTNteUhTT0kwb0JhLXptSmpzX2daaFNFaThaUzNXRjZfTU9wcWJ2eFBYSUFkdEw5ZEwya1BrQzE4aGItNVdLZXY4QlpWTFpBS1hTM3ZqSGU0eXRuVk1qS2lKNGVLVzVlN3BQeGRlWnpZVktudTB5dVo?oc=5",
+   "source": "WNDU",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "St. Joseph",
+   "tag": "Local Government",
+   "iso": "2026-07-29T21:40:00Z",
+   "id": "3439ebd23afe",
+   "origin": "google-news",
+   "source_title": "St. Joseph County Council candidate calls for data center moratorium - WNDU",
+   "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcTY1YTM3OXZIYnd4eU0tZTc5WHFMQjJ1Q3MwUXlCUDBEaFJBMTNteUhTT0kwb0JhLXptSmpzX2daaFNFaThaUzNXRjZfTU9wcWJ2eFBYSUFkdEw5ZEwya1BrQzE4aGItNVdLZXY4QlpWTFpBS1hTM3ZqSGU0eXRuVk1qS2lKNGVLVzVlN3BQeGRlWnpZVktudTB5dVo?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
   {
    "title": "Township leaders threatened as data center land battle explodes online",
    "dek": "A viral clip sparked threats against township leaders weighing a data center proposal. The episode shows how raw local fights over power use and land are getting. Officials must still decide on the project amid the backlash.",
@@ -167,23 +184,6 @@
    "origin": "google-news",
    "source_title": "Teacher arrested for repeatedly clapping in favor of data center opponents during city commission meeting - Upper Michigan's Source",
    "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbFh6Qlpzem96eFlZdXJCbzFsRzJVcHdTbUhHQmQ3S01zV0RGd1MtUTRNbjF2WUVPN0IwaWRweGU0N2VIaXd1ckR5U0QxN29FZDlLV18zSnlRcFpQQkRNTkVZdDVfSVNFRUFPenFFTEZJRG16bEZRa2wyVGxFeldVWndLV2JhazU3dm5Ta0x0Y1c4UzNkYzVSemNLUkFQWEJOU25iUWRRVmNyTk1IOGtnclRDZW5qMDlWem5DV0lFTFZZNnZ1SURleGtnVkJlSjktMlpocmNPbHgyUURh0gHwAUFVX3lxTE1IZ3NybUU1UWUzNVVDSXJqYkllRmlKcUFqNjBaaUJTZlgtWjFjZmRhZHFBX3RRem5wVU1WWU5mc2NXWmhLeUtsYTJPSzU5Ui1QcExLOHdaS3Fock9Zakw2TnltdUE1NlZyXzgtMUxOZmxBMnRiV2FnNS1fYUtGRy1Lb1BGOHNicEFwaUt6R3B5enY0YUNyaTZmeTc0MDlzbGNIX1BnZ00xZVVmLVUzUTlYTm5UUndfYlAxUlhPVGJER2RCUVZoVjFpZzJlZk1fbUNSUlBNR0xjd2poNmRiUGVrZjk5eDBGM0QwTi05V0NYcg?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
-  },
-  {
-   "title": "Utica extends data center ban, shielding residents from new builds",
-   "dek": "Utica City Council voted to prolong its existing moratorium on data centers. The move keeps large-scale projects out of the Macomb County city for now, protecting local power and water capacity from sudden demand spikes. Residents avoid immediate tax shifts or infrastructure strain tied to hyperscale facilities.",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX1FJbUlLSnlBcXV3U3NPVXNwUGxPS2RiNUlVZTZWUnpDcjBHMHFjd0hyMER1TDYtV2F1MUlqb1BwSzZQQVQ4aG9ORzY1SVhIRzZRWXpObkNCYWxmN1RUeWFBS0dENnhncDRlc2VMLTJ0Wmpqa1pGQ2dxZkx4blhySlpJZTJqVURHMWRPaVpKemtKYXVMTVFVdWtSWlhxVzdSQVRVYklmM25DZEJzNkpUSzN3?oc=5",
-   "source": "C&G Newspapers",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Macomb",
-   "tag": "Local Government",
-   "iso": "2026-07-27T19:20:08Z",
-   "id": "7f192c306bb1",
-   "origin": "google-news",
-   "source_title": "Utica City Council approves extending data center moratorium - C&G Newspapers",
-   "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX1FJbUlLSnlBcXV3U3NPVXNwUGxPS2RiNUlVZTZWUnpDcjBHMHFjd0hyMER1TDYtV2F1MUlqb1BwSzZQQVQ4aG9ORzY1SVhIRzZRWXpObkNCYWxmN1RUeWFBS0dENnhncDRlc2VMLTJ0Wmpqa1pGQ2dxZkx4blhySlpJZTJqVURHMWRPaVpKemtKYXVMTVFVdWtSWlhxVzdSQVRVYklmM25DZEJzNkpUSzN3?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
   }
