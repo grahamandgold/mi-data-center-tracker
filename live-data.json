@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-29T14:27:16+00:00",
+ "updated_at": "2026-07-29T16:04:42Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Houghton County readies rules before data centers arrive",
+   "dek": "Houghton, Hancock and Portage Township officials are drafting zoning and permitting standards now. Early action could limit power and water demands on rural Upper Peninsula grids and aquifers. Residents want protections before any large projects are proposed.",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTF9NTFp6ZjNLMVloZFk5ckpIV2F2OXh3NDBEYm15RTRkVFpobTlORVJ4V0ctWDlJYnZFbzZjRDdWZnIyMUR6eFc0WUIwc0p0eXM4Q2VHU0RaZmEwZUIyUzhEVlV4aW1rZUhyV3FwR1YtZVpLUXE5bkpDWWVFb08yLWV2aTUxYkhiN195cHBzYVlCZVFlc2FWTG0xVnZ1aHNpTEdRQXZMcDQxUERJX2NaU3pwdENpNDY2UTJ4NDZVb1dhRkVQUVVWWGs1Zm94UllwaTVKaGt2N3RVWGotejRFWFp3bTZHdw?oc=5",
+   "source": "The Keweenaw Report",
+   "region": "north",
+   "cat": "STATEWIDE",
+   "county": "Houghton",
+   "tag": "Local Government",
+   "iso": "2026-07-29T15:01:46Z",
+   "id": "b2e1a2f16629",
+   "origin": "google-news",
+   "source_title": "Houghton, Hancock, and Portage Township seeking to address data center developments before the industry can arrive - The Keweenaw Report",
+   "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTF9NTFp6ZjNLMVloZFk5ckpIV2F2OXh3NDBEYm15RTRkVFpobTlORVJ4V0ctWDlJYnZFbzZjRDdWZnIyMUR6eFc0WUIwc0p0eXM4Q2VHU0RaZmEwZUIyUzhEVlV4aW1rZUhyV3FwR1YtZVpLUXE5bkpDWWVFb08yLWV2aTUxYkhiN195cHBzYVlCZVFlc2FWTG0xVnZ1aHNpTEdRQXZMcDQxUERJX2NaU3pwdENpNDY2UTJ4NDZVb1dhRkVQUVVWWGs1Zm94UllwaTVKaGt2N3RVWGotejRFWFp3bTZHdw?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "DTE queue for data centers tops 8GW after Oracle, Google deals",
    "dek": "DTE Electric now lists more than 8 gigawatts of proposed data-center load, driven by signed agreements with Oracle and Google. The surge means higher power demand that will shape rates and grid upgrades for southeast Michigan customers. Residents will feel the effects through future bills and decisions on where new transmission lines and substations are built.",
@@ -171,23 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbXhZbVNKbDVScTQ4U296dTNseEVCVEJDQkNpMFA5QXE5d0JHd19pUjhHT0R1OXRIRDE4Wkp1ZHVKVlJ0c3N2eFhuTWFJbXZrcGNRTDJmNk16NkNRajdtdUtRNk96czREeWlDMWluZkthVG5vc0lqZTdlWXhRT012YU00V3J1aVprbXc?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Garfield Township freezes data centers after sloppy project filing",
-   "dek": "Garfield Township supervisors moved to block new data centers for at least a year after an incomplete application arrived. Residents near the proposed site now face uncertainty over power lines, water use and property values. The pause gives the township time to write rules before any large project locks in.",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRG5iYi14MG1ETTRqRHRCd2NoSE03bUpkLXZmR0laY0MyR1NpdS1lVFBybC1nSlVhQUk1cmpCeWd6X1lhdUpWUlJCbkpDTDV5RkhfQ3ZZaVEyTGdsNGJEZjZPZ2hBSVFLY2pxcmtSa245VXRrdXhBeGhEcmZ1WXBwbmZqeWtEZUl0ckU2cmw4czBoSUNqMDVjTlJwR0ZZbTZHZko1UlhGY0xtTWtkQkxscm9QOXF1RGZNR0ctUUdqM19mRGRjOXZodWtB?oc=5",
-   "source": "The Ticker",
-   "region": "north",
-   "cat": "STATEWIDE",
-   "county": "Grand Traverse",
-   "tag": "Local Government",
-   "iso": "2026-07-24T10:00:01Z",
-   "id": "43ef7f8dd8ca",
-   "origin": "google-news",
-   "source_title": "Garfield Township Tees Up Data Center Moratorium; Incomplete Application Submitted for Project - The Ticker",
-   "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRG5iYi14MG1ETTRqRHRCd2NoSE03bUpkLXZmR0laY0MyR1NpdS1lVFBybC1nSlVhQUk1cmpCeWd6X1lhdUpWUlJCbkpDTDV5RkhfQ3ZZaVEyTGdsNGJEZjZPZ2hBSVFLY2pxcmtSa245VXRrdXhBeGhEcmZ1WXBwbmZqeWtEZUl0ckU2cmw4czBoSUNqMDVjTlJwR0ZZbTZHZko1UlhGY0xtTWtkQkxscm9QOXF1RGZNR0ctUUdqM19mRGRjOXZodWtB?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
   }
  ],
  "national": {
