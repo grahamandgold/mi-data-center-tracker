@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-29T16:04:42Z",
+ "updated_at": "2026-07-29T17:25:21Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Tech industry pours $300K into congressional primary over data center stakes",
+   "dek": "A super PAC linked to artificial intelligence interests spent nearly $300,000 in a Michigan congressional primary. The money targets a race where data center policy is an emerging issue. Voters in the district will decide the outcome next week.",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSjJsS0tTWE5IMkJUV3dpOUxiRC1TTVNzc0tBTTJFQjFaWm5tY0V4WU5reGZ6LV9jTDFOcG1LelhBa2Q5UV9XYnVFQkpUNjJUWE41Q1pHS2VyWGFnZURiRU12N2k1Q3hBaU9vcFIwZThEUzJlYVhzdjloM0xlOE0tRkZTWlJXU2dXWmFETDlrVk5OUjMxRmhmNjNrRlFLZGlTWXZBZTc5bm1xQi1mQWlvU2J4b05DNUFoOEs4all3?oc=5",
+   "source": "Detroit Free Press",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Money",
+   "iso": "2026-07-29T16:28:00Z",
+   "id": "c605f22004a1",
+   "origin": "google-news",
+   "source_title": "Super PAC tied to AI spends $295K on US House race in Michigan - Detroit Free Press",
+   "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSjJsS0tTWE5IMkJUV3dpOUxiRC1TTVNzc0tBTTJFQjFaWm5tY0V4WU5reGZ6LV9jTDFOcG1LelhBa2Q5UV9XYnVFQkpUNjJUWE41Q1pHS2VyWGFnZURiRU12N2k1Q3hBaU9vcFIwZThEUzJlYVhzdjloM0xlOE0tRkZTWlJXU2dXWmFETDlrVk5OUjMxRmhmNjNrRlFLZGlTWXZBZTc5bm1xQi1mQWlvU2J4b05DNUFoOEs4all3?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "Houghton County readies rules before data centers arrive",
    "dek": "Houghton, Hancock and Portage Township officials are drafting zoning and permitting standards now. Early action could limit power and water demands on rural Upper Peninsula grids and aquifers. Residents want protections before any large projects are proposed.",
@@ -18,6 +35,23 @@
    "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTF9NTFp6ZjNLMVloZFk5ckpIV2F2OXh3NDBEYm15RTRkVFpobTlORVJ4V0ctWDlJYnZFbzZjRDdWZnIyMUR6eFc0WUIwc0p0eXM4Q2VHU0RaZmEwZUIyUzhEVlV4aW1rZUhyV3FwR1YtZVpLUXE5bkpDWWVFb08yLWV2aTUxYkhiN195cHBzYVlCZVFlc2FWTG0xVnZ1aHNpTEdRQXZMcDQxUERJX2NaU3pwdENpNDY2UTJ4NDZVb1dhRkVQUVVWWGs1Zm94UllwaTVKaGt2N3RVWGotejRFWFp3bTZHdw?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
+  },
+  {
+   "title": "Detroit News urges Michigan to set data center rules now",
+   "dek": "The editorial board argues the state should welcome data centers but only with strong local protections. It points to electricity costs and water strain already hitting other states. Michigan communities still have time to write their own standards before projects land.",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZzVQeTBBTXJpMjE5TTJPa3VZb19EQ2tGaWVrVFBjZndKYlUwMkt5NXhrUUtoQk5rWExnQkowdEdwX1lsWE1XOXp0Yml6MkNrSG9MRjlXckk1UVE5alRzUlUwV1BwcW5HMDN4djhEVWM4RHRJUlk3ZEhBREFtSVpfejFKdGxvME4wZW9oN3JuOEl4a05TWER4eFFjOEhFay1RbXpsUW1BeWJqR0ZKd2YzbEYyZUhRcXpQRGRwQnBFMmhGU0hnVUVxUjAxbw?oc=5",
+   "source": "The Detroit News",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Policy",
+   "iso": "2026-07-29T14:39:00Z",
+   "id": "b3924fd389ea",
+   "origin": "google-news",
+   "source_title": "With the right guardrails, data centers should be embraced | Opinion - The Detroit News",
+   "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZzVQeTBBTXJpMjE5TTJPa3VZb19EQ2tGaWVrVFBjZndKYlUwMkt5NXhrUUtoQk5rWExnQkowdEdwX1lsWE1XOXp0Yml6MkNrSG9MRjlXckk1UVE5alRzUlUwV1BwcW5HMDN4djhEVWM4RHRJUlk3ZEhBREFtSVpfejFKdGxvME4wZW9oN3JuOEl4a05TWER4eFFjOEhFay1RbXpsUW1BeWJqR0ZKd2YzbEYyZUhRcXpQRGRwQnBFMmhGU0hnVUVxUjAxbw?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
   },
   {
    "title": "DTE queue for data centers tops 8GW after Oracle, Google deals",
@@ -152,40 +186,6 @@
    "origin": "google-news",
    "source_title": "Chippewa County looks to temporary moratorium on data centers - Leader-Telegram",
    "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUW0zTVRVbXV0c01DMno5SnhHSVY2VE8xdXFORnZrdlI5U202WEE4djVDNlAxWmRUNkpvOXNSUnFFUEpsaU9aYkE1eGc1Zm1UWDRTSGQ2aHFweXZwNkVqX0IyMExwc1JWSHBoVl83YTYtbWwwQU11eGpkbnVzVjZwUHdjOE16NmUxZDlnQWExUlgyeDhtM3E4NmRCbTZUaFdNNHFBVWNQaE5hakhaOWEtRXRRS1Q3X3JieEN0bmpnallldFRpTU9SNTZyZjVqbmdwTGRpXzAtenV6LU5LZEF3clpkQlg5RUZiVUV3SU1kWTZ1RXM?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
-  },
-  {
-   "title": "Senate candidates split on letting data centers drive up Michigan power bills",
-   "dek": "Democratic primary contenders laid out different plans for regulating data-center electricity demand and protecting ratepayers from new transmission costs. The exchange shows which candidates would push utilities or tech firms to cover upgrades versus spreading costs across all customers. Primary voters now have concrete differences on an issue that will hit monthly bills.",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTWlQWW5FNUpsWEJLUjREeTNwSkFBZmFjUW1HcHJRNmxHZFlDNFBsU0FmNVMtWjdndUs2djE3RHNFWUc4SmptNWM3MU5NUS1UM0tBbm1uSE9aZ19hZHJsWkRTQ2dDWlVxNFFEdFdQaGxXaHpfa3R3OHZnVDJNZFhpeHVsVXpLUmFORlpBZ2xsbnlGM280R0NNVUVjOGdYRUZ0ZTdrSFBDR0tpRW9NSEhvNU1MTnZkdlZZekFVOFdXaDBjcy1fTFNQM1pMa1VkUktSRmF3OXZLWm5OVF9vb3JsZm5fVHRPUWM5OWc?oc=5",
-   "source": "Michigan Public",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Policy",
-   "iso": "2026-07-25T14:20:00Z",
-   "id": "7ab6a662c4db",
-   "origin": "google-news",
-   "source_title": "How Michigan's Democratic U.S. Senate candidates differ on immigration, healthcare, data centers - Michigan Public",
-   "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTWlQWW5FNUpsWEJLUjREeTNwSkFBZmFjUW1HcHJRNmxHZFlDNFBsU0FmNVMtWjdndUs2djE3RHNFWUc4SmptNWM3MU5NUS1UM0tBbm1uSE9aZ19hZHJsWkRTQ2dDWlVxNFFEdFdQaGxXaHpfa3R3OHZnVDJNZFhpeHVsVXpLUmFORlpBZ2xsbnlGM280R0NNVUVjOGdYRUZ0ZTdrSFBDR0tpRW9NSEhvNU1MTnZkdlZZekFVOFdXaDBjcy1fTFNQM1pMa1VkUktSRmF3OXZLWm5OVF9vb3JsZm5fVHRPUWM5OWc?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
-  },
-  {
-   "title": "Indiana Michigan Power pledges to shield ratepayers from data center costs",
-   "dek": "The utility serving parts of southwest Michigan signed a pledge promising residential customers will not foot the bill for new data center power lines. The move comes amid growing concern that AI-driven demand could drive up monthly electric bills across the state. Local officials and consumer groups are watching to see how the commitment holds up in rate cases.",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbXhZbVNKbDVScTQ4U296dTNseEVCVEJDQkNpMFA5QXE5d0JHd19pUjhHT0R1OXRIRDE4Wkp1ZHVKVlJ0c3N2eFhuTWFJbXZrcGNRTDJmNk16NkNRajdtdUtRNk96czREeWlDMWluZkthVG5vc0lqZTdlWXhRT012YU00V3J1aVprbXc?oc=5",
-   "source": "News/Talk/Sports 94.9 WSJM",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Power & Grid",
-   "iso": "2026-07-25T02:02:33Z",
-   "id": "cd7e13b226bb",
-   "origin": "google-news",
-   "source_title": "I&M signs White House’s Ratepayer Protection Pledge - News/Talk/Sports 94.9 WSJM",
-   "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbXhZbVNKbDVScTQ4U296dTNseEVCVEJDQkNpMFA5QXE5d0JHd19pUjhHT0R1OXRIRDE4Wkp1ZHVKVlJ0c3N2eFhuTWFJbXZrcGNRTDJmNk16NkNRajdtdUtRNk96czREeWlDMWluZkthVG5vc0lqZTdlWXhRT012YU00V3J1aVprbXc?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
   }
