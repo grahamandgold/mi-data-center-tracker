@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://bridgemi.com/business-watch/as-data-centers-grow-in-michigan-officials-ask-how-many-tax-breaks-are-enough/",
-   "title": "Saline Township Must Grant $147M Annual Tax Cut for Oracle-OpenAI Data Center",
-   "at": "2026-07-14T06:37:43+00:00",
-   "by": "news_judge",
-   "note": "score 4/10, duplicate: Same Saline Township tax break decision already live, just reframed as court-ordered."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPSnpIeHdFUE9QWGdTOEVVaktWdkRvTHBWZDJZM2h3UXdsM1I1SEVzLWxId1N2Y3RCVEVraVNCQWxsUWNLZzRQdDZqN3R3NjRQa3IxbmdlLXdhQmRkbTNzUmx3c1Vnd1l1WEV2Zmp2dnAxZW50ekV3MG9OUURaTHpCbEVTOHlNb04xUndhWU85NkMteHpiUldHcF9raERyNGEyaXNldVl3RGF1YVNMb01GeUZpWHNCdXFVaHIxRXFGTC1FUm1lRUtnV1RWZjFuZGV2QnBORTAyc0R0bjAzaVBkOXl0YzJaRUx6bVZRNWIzUEFKbVQ2M2ZIZUVzNHFHSF9nd3h3ejFSSUh6aGs?oc=5",
-   "title": "Lowell residents keep fighting Microsoft data center over land and power",
-   "at": "2026-07-14T06:37:43+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Rehashes the Lowell Township first vote already live and the ongoing opposition already killed; no new development."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTWs0TWowY0NacklXOFl1TmhUSnA5ako2NEM5LUs1YW41NGNzSlczNzlDdWFnRFR3SEtEM2w1OHNxSTdpZzNNQ1lXU1FDLW8zcktIOUlFdnNBVEZFSUdjZkRjRGI2ZzgtQm5DaE02OHFkSTBtT0JfVXhza2hIU09LWFhEakFWY3pBYUpJTW44by1vMEFSVWE5Q3FUTlRBRUdnTFZCZ0pwNGZaZ0Z1dU03NlRyMNIBswFBVV95cUxPTWs0TWowY0NacklXOFl1TmhUSnA5ako2NEM5LUs1YW41NGNzSlczNzlDdWFnRFR3SEtEM2w1OHNxSTdpZzNNQ1lXU1FDLW8zcktIOUlFdnNBVEZFSUdjZkRjRGI2ZzgtQm5DaE02OHFkSTBtT0JfVXhza2hIU09LWFhEakFWY3pBYUpJTW44by1vMEFSVWE5Q3FUTlRBRUdnTFZCZ0pwNGZaZ0Z1dU03NlRyMA?oc=5",
    "title": "Lansing enacts six-month freeze on all new data center proposals",
    "at": "2026-07-14T06:37:43+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-07-29T19:56:09+00:00",
    "by": "news_judge",
    "note": "score 4/10: New York policy development with potential Michigan relevance but lacks direct Michigan connection or concrete local impact."
+  },
+  {
+   "url": "https://www.mlive.com/politics/2026/07/people-pay-the-bill-protesters-object-data-centers-during-trumps-michigan-speech.html",
+   "title": "Protesters Disrupt Trump Speech With Anti-Data Center Signs in Milford",
+   "at": "2026-07-29T21:06:55+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: Same Trump rally disruption already covered in killed story 'Protesters warn Trump that Michigan families will pay data center power bills' and 'Data center opp"
+  },
+  {
+   "url": "https://www.detroitnews.com/story/opinion/2026/07/29/with-the-right-guardrails-data-centers-should-be-embraced-opinion/91074488007/",
+   "title": "U.S. Data Center Power Demand Surges as Tech Giants Accelerate AI Infrastructure",
+   "at": "2026-07-29T21:06:55+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece with no Michigan-specific development, decision, or concrete action."
   }
  ],
  "auto_published": [
