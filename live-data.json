@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-29T18:34:19Z",
+ "updated_at": "2026-07-29T19:56:09Z",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -105,6 +105,21 @@
    "judge_score": 8
   },
   {
+   "iso": "2026-07-29T09:00:00+00:00",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "tag": "Policy",
+   "title": "Data Center Battles Loom for Michigan Senate Primary Candidates",
+   "dek": "El-Sayed and Stevens seek the Democratic nomination in the Aug. 4 primary; the winner could shape federal rules on projects already sparking local fights over sites and impacts.",
+   "source": "Michigan Public",
+   "url": "https://www.michiganpublic.org/politics-government/2026-07-25/how-michigans-democratic-u-s-senate-candidates-differ-on-immigration-healthcare-data-centers",
+   "breaking": false,
+   "lead": false,
+   "id": "a8f413dea47b",
+   "accuracy": "checked-rewritten",
+   "judge_score": 6
+  },
+  {
    "title": "Bellevue residents demand answers on data center water and power use",
    "dek": "Neighbors in Bellevue want concrete numbers on how much electricity and water the proposed facility would pull from local supplies. Eaton County residents worry higher utility rates and strained wells could follow if the project moves ahead without more transparency. The push for details comes as data centers across Michigan seek big new connections to the grid.",
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMk02M1RsU2twZ1JzUEdOSjhScnF4VTJYUUdLSnFQRGhyYnd2XzRXeExWU0tOdU4yMTIwQTk2WFZ5RWE2SWJNZTFoWkI1SGk1V3VyMjJXS2haMWJ1QnVMU0hGNjFhTFFQNzhGTElKRkFXRnJjajQwd3M1SGdDdEdkQlctWFBsX1JPcW5ZMEwxSUxINGFDeXFLbF83bm1HVUJWTFV6ZzdxRmVRODNTME5iQTcyUVpxSjN1WmNNbmJGUFJ3SjZJcUlHUkx1V1FEMkJ2UmkzZUFfX3JwcnhpQ21aelBn?oc=5",
@@ -171,23 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX1FJbUlLSnlBcXV3U3NPVXNwUGxPS2RiNUlVZTZWUnpDcjBHMHFjd0hyMER1TDYtV2F1MUlqb1BwSzZQQVQ4aG9ORzY1SVhIRzZRWXpObkNCYWxmN1RUeWFBS0dENnhncDRlc2VMLTJ0Wmpqa1pGQ2dxZkx4blhySlpJZTJqVURHMWRPaVpKemtKYXVMTVFVdWtSWlhxVzdSQVRVYklmM25DZEJzNkpUSzN3?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "St. Clair County residents weigh data center noise against promised jobs",
-   "dek": "Times Herald opinion piece highlights growing tension in eastern Michigan over constant humming from new facilities. Local officials face pressure to balance tax revenue and construction work against complaints that the sound disrupts daily life. The debate reflects broader questions about how much industrial growth communities will accept for economic gains.",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNazVZcFZOMTIwR0wxcE9QRkZGdFJIUVh4VExqT2luTjFvZXhBTjBzc1VGRWVKcnJ4ZzRHcnJNUzZGdXotYUFJNkVZOXF4ZHpJYmpVR3lXR1YxMHo0QmpMZTlqSFF0WU51TG9GYzBIa2JxNE1MSmVtVnllTVhJZm1JcC03azNBUkpiMWVnV3Z0cVN1ekxxMDNRVFE1N0I0Mkp3QlhXRDl2Sk9iNWpsai0zLVAwdVVCa2tLd3d6eFJkSWlrcDYxOW93VQ?oc=5",
-   "source": "Times Herald",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "St. Clair",
-   "tag": "Local Government",
-   "iso": "2026-07-27T14:10:14Z",
-   "id": "12cfe4bdf9cc",
-   "origin": "google-news",
-   "source_title": "Michigan data centers: Noise vs. growth | Opinion - Times Herald",
-   "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNazVZcFZOMTIwR0wxcE9QRkZGdFJIUVh4VExqT2luTjFvZXhBTjBzc1VGRWVKcnJ4ZzRHcnJNUzZGdXotYUFJNkVZOXF4ZHpJYmpVR3lXR1YxMHo0QmpMZTlqSFF0WU51TG9GYzBIa2JxNE1MSmVtVnllTVhJZm1JcC03azNBUkpiMWVnV3Z0cVN1ekxxMDNRVFE1N0I0Mkp3QlhXRDl2Sk9iNWpsai0zLVAwdVVCa2tLd3d6eFJkSWlrcDYxOW93VQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {

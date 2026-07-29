@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOUmFnU0lPSDZUMC1MTm5uTEtXMWQ5STJXZ3JCaHlXeXN4a0tXY3plRHVPRjlSeDBtVUwyQW9hakZRdS00UVhma3VDZmZhcXdhQXJsTHhIVEJZVkw2VmdxYU0zM1EzTmZjeF83OE1zZDJSTEVNMTY0SnJiVFJHWElkWkRzRGxvS1phU3RLV2Z2Q2FmX3FYcXcwRHc1d3F1U3VSNlRaMGZfZXZBSkRJRjJBbEtrQnVlbW9hY1dJLXgyeTJtRmg0NXV1eTkyMG05X1ZZeVgzVUVEX2xJUjZaN1BOa0lyckFNeHZoclZqZUMwR2Q?oc=5",
-   "title": "Lowell residents step up fight against Microsoft data center",
-   "at": "2026-07-14T04:11:31+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Another packed meeting in Lowell with the same opposition themes already covered; no new decision or filing, just continued resistance."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcDctb3NKYTAzSGJ0bUs3bk5DX202YnUyY2V1enhBZ3JJRkg5Sy00RTZ0U3IzTHBNa3dyNkhsQS1qZjFOWDhnMTYyOFcxeUQ5cnZveldGMkw2LXBkLVluSWlvYW5Yck5VNkVqWEJhZjFzOXFMbUF6T1NodGhHV3IyQkNITFdtVmFtY0ljbHk1Y012UHFLR2F3bW4zOTROY2hwZXBhYXlTQm9oY1lVNDFBMlZoTGJZZmxwd1hpVg?oc=5",
-   "title": "Dowagiac data center draws fire over noise and water drain",
-   "at": "2026-07-14T04:11:31+00:00",
-   "by": "news_judge",
-   "note": "score 5/10: The company met the public to defend expansion plans—incremental follow-up to the Monday forum already live, but adds expansion angle and water strain detail."
-  },
-  {
    "url": "https://bridgemi.com/business-watch/as-data-centers-grow-in-michigan-officials-ask-how-many-tax-breaks-are-enough/",
    "title": "Saline Township Must Grant $147M Annual Tax Cut for Oracle-OpenAI Data Center",
    "at": "2026-07-14T06:37:43+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-07-29T18:34:19+00:00",
    "by": "news_judge",
    "note": "score 4/10: Thin political trend piece about candidate positions without reporting a specific filing, debate, or vote; overlaps thematically with the already-live $300K pri"
+  },
+  {
+   "url": "https://bridgemi.com/michigan-government/where-michigan-governor-candidates-stand-on-data-centers-the-environment/",
+   "title": "Gubernatorial Candidates Split on Data Center Incentives, Local Control and Resource Protections",
+   "at": "2026-07-29T19:56:09+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: Rehashes the same gubernatorial candidate positions already killed as 'Governor candidates clash over data center power costs' and 'Michigan gov hopefuls split "
+  },
+  {
+   "url": "https://rbj.net/2026/07/29/hochul-data-center-moratorium-power-concerns-henrietta/",
+   "title": "Hochul Tells NY Data Centers to Pay for Power or Supply Their Own",
+   "at": "2026-07-29T19:56:09+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: New York policy development with potential Michigan relevance but lacks direct Michigan connection or concrete local impact."
   }
  ],
  "auto_published": [
@@ -2259,6 +2259,12 @@
    "title": "Township leaders threatened as data center land battle explodes online",
    "judge_score": 6,
    "at": "2026-07-29T18:34:19Z"
+  },
+  {
+   "url": "https://www.michiganpublic.org/politics-government/2026-07-25/how-michigans-democratic-u-s-senate-candidates-differ-on-immigration-healthcare-data-centers",
+   "title": "Data Center Battles Loom for Michigan Senate Primary Candidates",
+   "judge_score": 6,
+   "at": "2026-07-29T19:56:09Z"
   }
  ]
 }
