@@ -1,173 +1,249 @@
 {
- "title": "Evenings with Graham & Emmy",
- "teaser": "DTE lands big data center deals despite earnings miss—what it means for your electric bill tonight.",
+ "title": "Mornings with Graham & Emmy",
+ "teaser": "DTE's queue hits 8GW with Oracle and Google deals—what it means for bills and local resources.",
  "lines": [
   {
    "host": "Graham",
-   "text": "Good evening, and welcome to Evenings with Graham & Emmy—the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
+   "text": "Good morning and welcome to Mornings with Graham & Emmy—the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
   },
   {
    "host": "Emmy",
-   "text": "And I'm Emmy."
+   "text": "And I'm Emmy. Today we're diving into the biggest power demand spike yet from these projects."
   },
   {
    "host": "Graham",
-   "text": "Tonight we're diving into DTE's latest moves—new data center contracts that are shaping growth even after an earnings miss, and what that could mean for rates across southeast Michigan."
+   "text": "That's right—DTE Electric just reported its queue for proposed data center load has topped 8 gigawatts after signing deals with Oracle and Google."
   },
   {
    "host": "Emmy",
-   "text": "That's the one that stood out to me today, Graham. DTE missed earnings targets but still landed these big deals. How does that even work?"
+   "text": "Eight gigawatts is enormous. Graham, help me put that in perspective—what does that kind of demand actually look like for southeast Michigan?"
   },
   {
    "host": "Graham",
-   "text": "From their quarterly slides released today, the utility is pointing to these data center contracts as a key growth driver going forward. They're expecting the new load to boost revenue over time."
+   "text": "It's enough to power hundreds of thousands of homes at peak times. This surge is driven by those two big signed agreements, and it means utilities like DTE will need major grid upgrades including new transmission lines and substations."
   },
   {
    "host": "Emmy",
-   "text": "But ratepayers end up paying for the infrastructure, right? Can you walk me through how that plays out historically in Michigan?"
+   "text": "And residents will feel that through future electric bills, right? Who ultimately pays for all this new infrastructure?"
   },
   {
    "host": "Graham",
-   "text": "Exactly. Utilities like DTE recover costs for new transmission and generation through rate cases. We've seen this pattern before with other large industrial loads—upgrades get built, and those expenses get spread across all customers unless regulators push back."
+   "text": "Ratepayers do, at least in part. The story notes that decisions on where those lines and substations go will directly shape costs for southeast Michigan customers."
   },
   {
    "host": "Emmy",
-   "text": "So what's different this time with data centers? Are we talking gigawatts here, or smaller projects?"
+   "text": "This isn't the first time we've seen big tech interest here. What's the history behind Michigan becoming a target for these facilities?"
   },
   {
    "host": "Graham",
-   "text": "The deals announced today are significant enough that DTE is already factoring them into future grid investments. That means more power lines, substations, and potentially new generation capacity in southeast Michigan."
+   "text": "Data centers have been eyeing the state for a while because of available land, cooling potential in some areas, and access to the grid. But the AI boom has accelerated everything, with companies like Oracle and Google now locking in capacity."
   },
   {
    "host": "Emmy",
-   "text": "And that ties right into the water and farmland concerns we've heard in other parts of the state. How do these projects usually affect local resources?"
+   "text": "And that acceleration is showing up in other places too. We saw Bellevue residents pushing for answers on water and power use just today."
   },
   {
    "host": "Graham",
-   "text": "Data centers need massive amounts of electricity and often cooling water. In rural areas that's led to fights over farmland conversion and aquifer strain. Here in DTE territory it's more about the electric grid, but the same principle applies—sudden demand spikes force infrastructure changes."
+   "text": "Exactly. Neighbors there want concrete numbers on how much electricity and water a proposed facility would pull from local supplies, worrying about higher rates and strained wells."
   },
   {
    "host": "Emmy",
-   "text": "Who are the main players pushing these deals? Is it mostly hyperscalers like the big tech firms?"
+   "text": "That ties right into the bigger picture—rural towns and farmland could see real strain if these projects scale without more transparency."
   },
   {
    "host": "Graham",
-   "text": "Primarily yes—large tech companies looking for reliable power near existing transmission. DTE has positioned itself as ready to serve that load, which is why the contracts are highlighted even with the earnings miss."
+   "text": "Yes, and it's not just Bellevue. Across the state we're hearing similar concerns about noise, water, and power from facilities already operating or proposed."
   },
   {
    "host": "Emmy",
-   "text": "What happens next for ratepayers? Are we looking at immediate bill increases, or is this more long-term?"
+   "text": "Like the Dowagiac situation where residents are suing over constant humming that sounds like a nonstop vacuum."
   },
   {
    "host": "Graham",
-   "text": "It'll play out in upcoming rate cases. DTE has already noted that data center growth is an earnings driver, which often translates to requests for higher rates or new charges to cover the buildout. Regulators will have to decide how much gets passed along."
+   "text": "The company there has already been fined and is now offering buyouts for affected homes. It shows how quality-of-life issues can escalate quickly."
   },
   {
    "host": "Emmy",
-   "text": "We've seen towns pushing back with moratoriums lately. Does today's news change the pressure on local officials?"
+   "text": "And then there's the Upper Peninsula teacher who got cuffed at a meeting just for clapping against a proposal."
   },
   {
    "host": "Graham",
-   "text": "It could. If DTE is locking in more load, communities near new substations or lines might see renewed interest from developers. That often accelerates the local debates we've covered."
+   "text": "That incident from Monday highlights how heated these local fights have become, with residents worried about noise, rates, and water all at once."
   },
   {
    "host": "Emmy",
-   "text": "And the noise and buyout issues in places like Dowagiac—does that scale up with bigger DTE-backed projects?"
+   "text": "So what happens next with this 8 gigawatt queue? Are we looking at rate cases or new transmission projects soon?"
   },
   {
    "host": "Graham",
-   "text": "Larger facilities tend to bring louder cooling systems and more 24/7 operations. The pattern from other states shows residents pushing for stricter sound rules or even relocation offers once the hum starts."
+   "text": "DTE will have to file for approvals on upgrades, and those will go through the public process where customers can weigh in. The deals with Oracle and Google are already signed, so the pressure is on to deliver the power."
   },
   {
    "host": "Emmy",
-   "text": "How many Michigan townships have already hit pause on this kind of growth?"
+   "text": "Meanwhile DTE missed earnings targets but still landed these big contracts. How does that play into future rate decisions?"
   },
   {
    "host": "Graham",
-   "text": "At least a handful in the past week alone—Utica extended its ban, Chippewa County is considering a freeze, Garfield Township blocked new proposals for a year. It's becoming a common tool while they study the impacts."
+   "text": "The quarterly slides show the data center deals are driving growth despite the miss. Ratepayers end up paying for the infrastructure needed to serve that new load."
   },
   {
    "host": "Emmy",
-   "text": "What about the Senate candidates' split on this? Does DTE's news give voters more to chew on?"
+   "text": "That brings us to the Senate candidates who split on this exact issue over the weekend—how to regulate demand and protect ratepayers from new transmission costs."
   },
   {
    "host": "Graham",
-   "text": "The Democratic primary contenders outlined different approaches on Saturday—some want utilities or tech firms to cover more of the transmission costs, others are open to spreading it across ratepayers. Primary voters now have clear contrasts on an issue that hits monthly bills."
+   "text": "Democratic primary contenders outlined different plans, with some wanting utilities or tech firms to cover more upgrades and others open to spreading costs across all customers."
   },
   {
    "host": "Emmy",
-   "text": "Indiana Michigan Power made that pledge to shield residents. Is DTE under similar pressure?"
+   "text": "Primary voters now have clear differences on something that will hit monthly bills. And Indiana Michigan Power made a pledge to shield residential customers from data center power line costs."
   },
   {
    "host": "Graham",
-   "text": "Not yet publicly, but consumer groups are watching. Indiana Michigan's commitment came amid the same AI-driven demand concerns. DTE's rate cases will likely face the same questions."
+   "text": "That's for parts of southwest Michigan. They're promising residents won't foot the bill, and consumer groups are watching how that holds up in actual rate cases."
   },
   {
    "host": "Emmy",
-   "text": "Bottom line for southeast Michigan tonight—what should listeners watch for in the coming months?"
+   "text": "Some communities are pushing back with moratoriums, like Utica extending its ban and Chippewa County weighing a freeze on new proposals."
   },
   {
    "host": "Graham",
-   "text": "Keep an eye on DTE's next filings and any new rate requests tied to these contracts. Local planning commissions will also be busy as the load growth ripples outward."
+   "text": "Utica's move keeps large-scale projects out for now to protect local power and water capacity. Chippewa is studying impacts on land, power, and services before allowing more."
   },
   {
    "host": "Emmy",
-   "text": "Thanks for grounding that, Graham. Let's move to quick hits."
+   "text": "St. Clair County is weighing the constant humming against promised jobs, and an opinion piece there captured the tension perfectly."
   },
   {
    "host": "Graham",
-   "text": "Yesterday a teacher was arrested at a city commission meeting in the Upper Peninsula after clapping during public comments against a data center proposal."
+   "text": "Local officials everywhere are under pressure to balance tax revenue and construction work against complaints that the sound disrupts daily life."
   },
   {
    "host": "Emmy",
-   "text": "That shows how tense these fights have gotten. Residents are worried about noise, rates, and water use—what happens when emotions run that high?"
+   "text": "So across the board it's about transparency and who bears the costs—whether it's bills, water, or noise."
   },
   {
    "host": "Graham",
-   "text": "It highlights the divide between project supporters and neighbors. Similar tensions popped up in St. Clair County, where an opinion piece weighed constant humming against promised jobs."
+   "text": "And with the queue now over 8 gigawatts, those decisions will shape southeast Michigan for years."
   },
   {
    "host": "Emmy",
-   "text": "And in Dowagiac, neighbors are suing over nonstop noise that sounds like a vacuum running. The company got fined and is now offering buyouts."
+   "text": "What should listeners watch for in the coming weeks?"
   },
   {
    "host": "Graham",
-   "text": "That's a direct quality-of-life hit. Utica extended its moratorium yesterday to protect power and water capacity from sudden spikes."
+   "text": "More details on where the new transmission lines will go, any rate filings from DTE, and updates from places like Bellevue and the Upper Peninsula."
   },
   {
    "host": "Emmy",
-   "text": "Chippewa County is also weighing a temporary freeze on new proposals while they study land, power, and service impacts."
+   "text": "And of course the live map at the Michigan Data Center Tracker will show the latest proposals."
   },
   {
    "host": "Graham",
-   "text": "Garfield Township did the same on Friday after a sloppy project filing—blocking new centers for at least a year."
+   "text": "Let's move to quick hits on the other stories from this week."
   },
   {
    "host": "Emmy",
-   "text": "On the candidate side, Indiana Michigan Power pledged on Saturday to shield ratepayers from data center costs. That's a concrete step amid the broader debate."
+   "text": "Starting with Bellevue—residents are demanding hard numbers on water and power use for the proposed facility."
   },
   {
    "host": "Graham",
-   "text": "DTE's own preview shows data centers boosting profits, which could mean bigger bills for customers unless regulators intervene."
+   "text": "Eaton County neighbors are concerned about higher utility rates and strained wells if the project advances without more details."
   },
   {
    "host": "Emmy",
-   "text": "Now for On Deck—any meetings listeners can attend this week?"
+   "text": "That push comes right as data centers statewide are seeking big new grid connections."
   },
   {
    "host": "Graham",
-   "text": "No major public hearings scheduled for tonight, but several township boards are expected to discuss data center rules later this week. We'll track those agendas and let you know."
+   "text": "Next, DTE landed those major contracts even after missing earnings targets, with the deals expected to shape future rates and investments."
   },
   {
    "host": "Emmy",
-   "text": "Full sources and the live map at the Michigan Data Center Tracker. We're back tomorrow."
+   "text": "Ratepayers will ultimately pay for the infrastructure, as we discussed."
   },
   {
    "host": "Graham",
-   "text": "Thanks for listening—stay informed on how these projects reshape Michigan."
+   "text": "Moving to Monday, a teacher was arrested at a Michigan meeting in the Upper Peninsula just for clapping during public comments opposing a data center."
+  },
+  {
+   "host": "Emmy",
+   "text": "It really shows how tense these local debates have gotten over noise, power, and water."
+  },
+  {
+   "host": "Graham",
+   "text": "Utica City Council voted to extend its moratorium, keeping large projects out of Macomb County for now."
+  },
+  {
+   "host": "Emmy",
+   "text": "That protects local capacity from sudden demand spikes and avoids immediate tax or infrastructure strain."
+  },
+  {
+   "host": "Graham",
+   "text": "In St. Clair County, residents are debating the noise from new facilities against the promised jobs and tax revenue."
+  },
+  {
+   "host": "Emmy",
+   "text": "The Times Herald piece captured that exact tension in eastern Michigan."
+  },
+  {
+   "host": "Graham",
+   "text": "Dowagiac neighbors are suing over the nonstop hum that violates noise rules, and the company is offering home buyouts after being fined."
+  },
+  {
+   "host": "Emmy",
+   "text": "Nearby residents could face the same issues if more projects move in without stronger sound limits."
+  },
+  {
+   "host": "Graham",
+   "text": "Chippewa County leaders are considering a temporary moratorium to study impacts on land, power, and services."
+  },
+  {
+   "host": "Emmy",
+   "text": "That could stall or shift development pressure in the eastern Upper Peninsula."
+  },
+  {
+   "host": "Graham",
+   "text": "And on Saturday the Senate candidates laid out different approaches to regulating data center electricity demand."
+  },
+  {
+   "host": "Emmy",
+   "text": "Some want tech firms or utilities to cover more costs, others are open to spreading them across ratepayers."
+  },
+  {
+   "host": "Graham",
+   "text": "Indiana Michigan Power pledged that residential customers won't pay for new data center power lines in their service area."
+  },
+  {
+   "host": "Emmy",
+   "text": "Consumer groups will be watching closely as rate cases move forward."
+  },
+  {
+   "host": "Graham",
+   "text": "Now for on deck—what meetings are coming up that listeners can attend?"
+  },
+  {
+   "host": "Emmy",
+   "text": "The tracker doesn't list any major public hearings for tonight or tomorrow based on the latest agendas."
+  },
+  {
+   "host": "Graham",
+   "text": "Folks should keep checking the Michigan Data Center Tracker for updates on local commission or planning meetings, especially around Bellevue and other active proposals."
+  },
+  {
+   "host": "Emmy",
+   "text": "Those are the best places to get the latest numbers on water, power, and potential impacts."
+  },
+  {
+   "host": "Graham",
+   "text": "Full sources and the live map at the Michigan Data Center Tracker."
+  },
+  {
+   "host": "Emmy",
+   "text": "We're back tomorrow."
   }
  ],
- "episode_title": "DTE's New Data Center Contracts: Power Bills and Grid Strain Ahead",
- "show": "Evenings with Graham & Emmy",
- "daypart": "Evenings"
+ "episode_title": "DTE's 8GW Data Center Surge: Power Bills, Water Strain, and What's Next for Michigan Towns",
+ "show": "Mornings with Graham & Emmy",
+ "daypart": "Mornings"
 }
