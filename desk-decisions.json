@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQi1NUHBQMEpJcFdtNzlWSzA4OXlmYmFWb0lleENMLUpMbTRqVlRXOHZJYlFiZzhBVkxVZXJBNkJmNDJGemZoMTVneXBLR3lCZ2ZscjJEXzhiX3pCcTM3d0k1c29UYnlGTkxPclRScHJyWDlmOVFTaG16VktFbFU4VWlGX2t6UHZyTS1VZUFza3c?oc=5",
-   "title": "Lansing bans new data centers for six months",
-   "at": "2026-07-14T12:51:29+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: This is the same Lansing six-month freeze already live, just reworded with 'bans' instead of 'votes freeze.'"
-  },
-  {
    "url": "https://www.detroitnews.com/story/tech/2026/07/14/new-york-state-data-center-moratorium/90911807007/",
    "title": "New York Becomes First State to Impose Data Center Moratorium",
    "at": "2026-07-14T15:01:51+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-07-29T23:35:44+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Duplicate of killed 'U.S. Data Center Power Demand Surges as Tech Giants Accelerate AI Infrastructure' — identical national trend story."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcExrbEZzTTJlQVhrdVJNbnlLNl9mQnQyMzBweDBQOE04N0E1OElmNjd1MGo5VVdVNWNLOUF4dlhMeWFWV3Y4X2ZkNElKaWhlanpOUHBkWElXRWxlSnlFQkV1b2NrOFNyMkRTLW43aVBGR2FnYzFhdGdhcWFnLUk3V0NxRG8tYjdvQk5sZUQ1LVAwY0NuWnZ3NlE0UjdFaWNxZ0QwX2xRUzc4SFVxUkgzeGtBRmhJSXJIUjFCdnNUc2tqRlR1RFZjWWlEMGlySnptbzkxZUxyNXVONmdSMzlOX3BnTWE?oc=5",
+   "title": "Lowell anti-data center activists identify billboard vandals",
+   "at": "2026-07-30T00:59:39+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Thin follow-up on vandalism incident rather than a substantive development in the data center debate itself."
   }
  ],
  "auto_published": [
@@ -2271,6 +2271,12 @@
    "title": "St. Joseph candidate pushes moratorium to block data centers",
    "judge_score": 6,
    "at": "2026-07-29T22:31:56Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbldQM2RFeW1ZNm83blJ2OGduOEFEZFI4UHBfV3dCd1ZBdGx4aDRHNUdYSU9ReWZEdFNjeXo0dmhlSHlpUlFWRkhkeEtxODdTYklFWlJhVFhOb1BUSVZUYXVmZ2RBNjZwS3VsY1I1NW45ZkdHZ0k1N01xSUxQSEhOWDhTY3FGUWp1YzZTVFAzeDRwdnBxMkM5XzZLRzE?oc=5",
+   "title": "Walberg flags robotics job risks tied to Dowagiac data center",
+   "judge_score": 6,
+   "at": "2026-07-30T00:59:39Z"
   }
  ]
 }

@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-29T23:35:31+00:00",
+ "updated_at": "2026-07-30T00:59:39Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Walberg flags robotics job risks tied to Dowagiac data center",
+   "dek": "U.S. Rep. Tim Walberg is raising alarms over potential robotics work linked to a planned data center in Dowagiac. The warning comes as residents weigh local job gains against automation concerns. Cass County voters will track how the project affects employment and training needs.",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbldQM2RFeW1ZNm83blJ2OGduOEFEZFI4UHBfV3dCd1ZBdGx4aDRHNUdYSU9ReWZEdFNjeXo0dmhlSHlpUlFWRkhkeEtxODdTYklFWlJhVFhOb1BUSVZUYXVmZ2RBNjZwS3VsY1I1NW45ZkdHZ0k1N01xSUxQSEhOWDhTY3FGUWp1YzZTVFAzeDRwdnBxMkM5XzZLRzE?oc=5",
+   "source": "Moody on the Market",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Cass",
+   "tag": "Local Government",
+   "iso": "2026-07-30T00:02:07Z",
+   "id": "ae23b815349d",
+   "origin": "google-news",
+   "source_title": "Walberg warns about robotics work tied to Dowagiac data center - Moody on the Market",
+   "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbldQM2RFeW1ZNm83blJ2OGduOEFEZFI4UHBfV3dCd1ZBdGx4aDRHNUdYSU9ReWZEdFNjeXo0dmhlSHlpUlFWRkhkeEtxODdTYklFWlJhVFhOb1BUSVZUYXVmZ2RBNjZwS3VsY1I1NW45ZkdHZ0k1N01xSUxQSEhOWDhTY3FGUWp1YzZTVFAzeDRwdnBxMkM5XzZLRzE?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
   {
    "title": "St. Joseph candidate pushes moratorium to block data centers",
    "dek": "A candidate for St. Joseph County Council is calling for a temporary halt on data-center proposals. Residents would face sudden spikes in power bills and water use if large facilities arrive without local rules. The push comes as other Michigan counties scramble to write their own limits before projects land.",
@@ -167,23 +184,6 @@
    "origin": "google-news",
    "source_title": "DTE Q2 2026 slides: data center deals fuel growth despite earnings miss - Investing.com",
    "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd0VzM2NaOE42REdZRm1nd3VMd0xkbDFOblBDVzBFM3Uyc0s0ZzNncFd3T1lWal90bGhVaGx3WFpud25TRU5FN2liQUl1bkMyal9raWE4bDlrRVB1c3l1OEh1anpOVHhWdFZsLXI3aXB5UGNSS0dJY1UtbERyM3Z6eC1ldzlacnZZa2xKX2ZLaE9LNlNGNWxQWjFuMXhuVkJSREtuTjE2RTdQX3FPOHlaNjA1UXVOTDU5ZnpJSVREb2pZWFB3OUE?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
-  },
-  {
-   "title": "Teacher cuffed at Michigan meeting for clapping against data center",
-   "dek": "A teacher was arrested after clapping during public comments opposing a data center proposal at a city commission meeting in Michigan's Upper Peninsula. The incident highlights how heated local fights over data centers have become. Residents worry about noise, power rates, and water use from the projects.",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbFh6Qlpzem96eFlZdXJCbzFsRzJVcHdTbUhHQmQ3S01zV0RGd1MtUTRNbjF2WUVPN0IwaWRweGU0N2VIaXd1ckR5U0QxN29FZDlLV18zSnlRcFpQQkRNTkVZdDVfSVNFRUFPenFFTEZJRG16bEZRa2wyVGxFeldVWndLV2JhazU3dm5Ta0x0Y1c4UzNkYzVSemNLUkFQWEJOU25iUWRRVmNyTk1IOGtnclRDZW5qMDlWem5DV0lFTFZZNnZ1SURleGtnVkJlSjktMlpocmNPbHgyUURh0gHwAUFVX3lxTE1IZ3NybUU1UWUzNVVDSXJqYkllRmlKcUFqNjBaaUJTZlgtWjFjZmRhZHFBX3RRem5wVU1WWU5mc2NXWmhLeUtsYTJPSzU5Ui1QcExLOHdaS3Fock9Zakw2TnltdUE1NlZyXzgtMUxOZmxBMnRiV2FnNS1fYUtGRy1Lb1BGOHNicEFwaUt6R3B5enY0YUNyaTZmeTc0MDlzbGNIX1BnZ00xZVVmLVUzUTlYTm5UUndfYlAxUlhPVGJER2RCUVZoVjFpZzJlZk1fbUNSUlBNR0xjd2poNmRiUGVrZjk5eDBGM0QwTi05V0NYcg?oc=5",
-   "source": "Upper Michigan's Source",
-   "region": "north",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Local Government",
-   "iso": "2026-07-27T22:05:00Z",
-   "id": "408957526ba1",
-   "origin": "google-news",
-   "source_title": "Teacher arrested for repeatedly clapping in favor of data center opponents during city commission meeting - Upper Michigan's Source",
-   "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbFh6Qlpzem96eFlZdXJCbzFsRzJVcHdTbUhHQmQ3S01zV0RGd1MtUTRNbjF2WUVPN0IwaWRweGU0N2VIaXd1ckR5U0QxN29FZDlLV18zSnlRcFpQQkRNTkVZdDVfSVNFRUFPenFFTEZJRG16bEZRa2wyVGxFeldVWndLV2JhazU3dm5Ta0x0Y1c4UzNkYzVSemNLUkFQWEJOU25iUWRRVmNyTk1IOGtnclRDZW5qMDlWem5DV0lFTFZZNnZ1SURleGtnVkJlSjktMlpocmNPbHgyUURh0gHwAUFVX3lxTE1IZ3NybUU1UWUzNVVDSXJqYkllRmlKcUFqNjBaaUJTZlgtWjFjZmRhZHFBX3RRem5wVU1WWU5mc2NXWmhLeUtsYTJPSzU5Ui1QcExLOHdaS3Fock9Zakw2TnltdUE1NlZyXzgtMUxOZmxBMnRiV2FnNS1fYUtGRy1Lb1BGOHNicEFwaUt6R3B5enY0YUNyaTZmeTc0MDlzbGNIX1BnZ00xZVVmLVUzUTlYTm5UUndfYlAxUlhPVGJER2RCUVZoVjFpZzJlZk1fbUNSUlBNR0xjd2poNmRiUGVrZjk5eDBGM0QwTi05V0NYcg?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
   }
