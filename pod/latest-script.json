@@ -1,10 +1,10 @@
 {
- "title": "Evenings with Graham & Emmy",
- "teaser": "Candidate's pause call in St. Joseph highlights power, water and land stakes across the state.",
+ "title": "Mornings with Graham & Emmy",
+ "teaser": "Crypto cash bankrolls new AI campus while locals push zoning changes and power concerns",
  "lines": [
   {
    "host": "Graham",
-   "text": "Good evening, and welcome to Evenings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
+   "text": "Good morning, and welcome to Mornings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
   },
   {
    "host": "Emmy",
@@ -12,190 +12,226 @@
   },
   {
    "host": "Graham",
-   "text": "Tonight we're zeroing in on a candidate in St. Joseph County calling for a temporary halt on data-center proposals right as similar battles flare up from the U.P. to southeast Michigan."
+   "text": "It's Thursday morning, July 30, and our big story today is how one company just sold Bitcoin to fast-track an AI data center right here in Michigan."
   },
   {
    "host": "Emmy",
-   "text": "Graham, walk us through what this St. Joseph candidate is actually proposing and why it landed today."
+   "text": "That sounds like a new twist on financing these projects. What's the bigger picture behind the cash-out?"
   },
   {
    "host": "Graham",
-   "text": "According to WNDU reporting, the candidate for St. Joseph County Council wants a moratorium to give local officials time to write rules before any large facilities arrive. The concern is sudden spikes in power bills and water use for residents if projects move forward without limits."
+   "text": "Hyperscale sold 100 Bitcoin today specifically to speed construction on its planned Michigan AI campus. The move ties directly into new power lines and tax questions for residents near the site."
   },
   {
    "host": "Emmy",
-   "text": "That sounds familiar from other places. How does this fit into the bigger picture of what's happening statewide right now?"
+   "text": "Why would a company lean on crypto holdings like that? Is this becoming more common?"
   },
   {
    "host": "Graham",
-   "text": "It's part of a pattern. Houghton County officials are already drafting zoning and permitting standards to cap power and water demands on rural grids and aquifers before any projects are even proposed. Mason County residents just pushed back hard at a commission hearing over the same issues."
+   "text": "It shows how volatile crypto assets are now being used to finance local data-center growth instead of traditional loans. The project is moving faster because of it."
   },
   {
    "host": "Emmy",
-   "text": "What exactly are residents worried about when it comes to their electric bills and water supplies?"
+   "text": "And the residents nearby — what exactly are they looking at with those new power lines and tax questions?"
   },
   {
    "host": "Graham",
-   "text": "DTE Electric's queue for data-center load has topped 8 gigawatts after deals with Oracle and Google. That kind of demand means higher rates and new transmission lines or substations that ratepayers ultimately pay for. Water use is the other big unknown in places where wells and aquifers are already stretched."
+   "text": "They'll see infrastructure upgrades and potential shifts in local tax burdens tied straight to the campus. It's the kind of direct impact that gets people organized fast."
   },
   {
    "host": "Emmy",
-   "text": "And the land angle? Farmland and small towns seem to be right in the crosshairs."
+   "text": "That connects to the bigger fight we've been tracking across the state. How long has this tension between data centers and communities been building?"
   },
   {
    "host": "Graham",
-   "text": "Exactly. Proposals often target agricultural or rural parcels because they're cheaper and have space for the huge buildings and cooling systems. Township leaders in Livingston County are facing online threats after a viral clip about one such project, showing how personal these fights are getting."
+   "text": "It's been simmering for months as proposals land in rural areas. Places like Cass County are already seeing groups form to shape zoning before more projects arrive."
   },
   {
    "host": "Emmy",
-   "text": "Threats against local officials? That feels like a new level of intensity."
+   "text": "What are those Cass County residents specifically worried about protecting?"
   },
   {
    "host": "Graham",
-   "text": "It does. Officials still have to decide on the project amid the backlash, but the episode highlights how raw the debate over power use and land has become in just the past few weeks."
+   "text": "Farmland and quiet roads, mainly. They're pushing zoning changes after the Dowagiac project to decide how much industrial load the county accepts."
   },
   {
    "host": "Emmy",
-   "text": "What happens next in St. Joseph if the moratorium idea gains traction?"
+   "text": "And with power demand surging, how might this affect electric bills for everyone else?"
   },
   {
    "host": "Graham",
-   "text": "Other counties are already scrambling to write their own limits before projects land. If St. Joseph moves forward, it could set a template that slows or reshapes proposals elsewhere while giving residents more say on where facilities go and what protections are required."
+   "text": "DTE's queue for data centers just topped 8 gigawatts after Oracle and Google deals. That kind of load means grid upgrades that eventually show up in rates for southeast Michigan customers."
   },
   {
    "host": "Emmy",
-   "text": "The Detroit News editorial today urged the state to welcome data centers but only with strong local protections. How does that line up with what we're seeing on the ground?"
+   "text": "Eight gigawatts is a lot of power. What does that scale look like in practical terms for towns?"
   },
   {
    "host": "Graham",
-   "text": "The board points to electricity costs and water strain already hitting other states and says Michigan communities still have time to write standards. It matches the local push we're hearing in Houghton, Mason, and now St. Joseph."
+   "text": "It drives decisions on new transmission lines and substations. Residents will feel it through future bills and where those lines get built."
   },
   {
    "host": "Emmy",
-   "text": "Any sense of how much power these facilities actually pull compared to what a typical town uses?"
+   "text": "Water use is another big piece. How are communities preparing for that strain?"
   },
   {
    "host": "Graham",
-   "text": "One gigawatt is enough to power roughly 800,000 average homes, so 8 gigawatts queued at DTE is massive. That load will shape future rates and grid investments across southeast Michigan for years."
+   "text": "Houghton County and nearby townships are already drafting zoning and permitting standards to limit demands on rural grids and aquifers before any large projects are even proposed."
   },
   {
    "host": "Emmy",
-   "text": "And the money flowing into politics around this?"
+   "text": "That's proactive. What happens if they don't move fast enough?"
   },
   {
    "host": "Graham",
-   "text": "A super PAC tied to artificial intelligence interests spent nearly $300,000 in a Michigan congressional primary where data center policy is emerging as an issue. Voters decide next week, so the stakes are real for whoever wins."
+   "text": "Other counties are scrambling too. St. Joseph County has a candidate pushing a temporary moratorium to block proposals and avoid sudden spikes in power bills and water use."
   },
   {
    "host": "Emmy",
-   "text": "How are candidates in the Democratic Senate primary responding to these local fights?"
+   "text": "And there's been some real heat online. What went down with those threats against township leaders?"
   },
   {
    "host": "Graham",
-   "text": "El-Sayed and Stevens are both seeking the nomination in the Aug. 4 primary, and the winner could influence federal rules on projects already sparking fights over sites and impacts."
+   "text": "A viral clip sparked threats against leaders weighing a data center proposal in one township. It shows how raw these local fights over power and land are getting."
   },
   {
    "host": "Emmy",
-   "text": "Yesterday Bellevue residents were demanding concrete numbers on water and power use for a proposed facility in Eaton County. Is that the same pattern?"
+   "text": "Officials still have to decide though. How are they handling the backlash?"
   },
   {
    "host": "Graham",
-   "text": "Yes. Neighbors want specifics on how much electricity and water the project would pull, worried about higher utility rates and strained wells if it moves ahead without transparency."
+   "text": "They have to move forward amid the noise while residents demand a say. Mason County just held a hearing where opponents spoke directly on power and land impacts."
   },
   {
    "host": "Emmy",
-   "text": "DTE also landed big contracts even after missing earnings targets. What does that tell us?"
+   "text": "That hearing could force changes or delays. What are the job angles people are weighing?"
   },
   {
    "host": "Graham",
-   "text": "The deals are driving growth despite the miss, but ratepayers will pay for the infrastructure needed to serve the new load. Those contracts will shape future power rates across the region."
+   "text": "U.S. Rep. Tim Walberg is flagging potential robotics work tied to the Dowagiac project. Voters in Cass County will be watching how it affects local employment and training needs."
   },
   {
    "host": "Emmy",
-   "text": "So the common thread is communities trying to get ahead of the curve before projects lock in."
+   "text": "So it's not just jobs versus no jobs — it's what kind of jobs and whether automation changes the picture."
   },
   {
    "host": "Graham",
-   "text": "That's right. Early action on zoning and permitting is the main tool right now, whether in the U.P. or downstate."
+   "text": "Exactly. Meanwhile, a super PAC linked to AI interests spent nearly $300,000 in a Michigan congressional primary where data center policy is emerging as an issue."
   },
   {
    "host": "Emmy",
-   "text": "Graham, what should listeners keep an eye on in the coming days?"
+   "text": "Outside money flowing in this early shows how high the stakes are seen nationally."
   },
   {
    "host": "Graham",
-   "text": "The Aug. 4 primary will give voters a direct say on candidates who could shape federal policy, and local hearings like the one in Mason County show residents still have a voice before bigger decisions."
+   "text": "The Detroit News editorial board is urging the state to welcome data centers but only with strong local protections, pointing to electricity costs and water strain already hitting other states."
   },
   {
    "host": "Emmy",
-   "text": "Any other quick developments worth noting from today?"
+   "text": "Michigan still has time to write its own standards. What do you see happening next on the regulatory side?"
   },
   {
    "host": "Graham",
-   "text": "Tech industry money is clearly flowing into races where data center policy matters, and editorial voices like the Detroit News are urging proactive state and local rules."
+   "text": "Counties like Houghton are moving early with rules. Others will likely follow as proposals keep landing and residents push for limits on power and water demands."
   },
   {
    "host": "Emmy",
-   "text": "Let's shift to a couple more quick hits. The threats against township leaders in Livingston County—what's the latest there?"
+   "text": "And with the Bitcoin move accelerating one project, does that change the timeline for these local fights?"
   },
   {
    "host": "Graham",
-   "text": "A viral clip sparked the backlash, and officials must still decide on the project amid the online firestorm. It shows how heated these land-use debates have become."
+   "text": "It could. Faster construction means communities near that site will see impacts sooner, which might speed up zoning pushes elsewhere."
   },
   {
    "host": "Emmy",
-   "text": "And in Mason County, the commission heard from opponents on power and land impacts."
+   "text": "Let's shift to quick hits. Cass County groups are organizing for zoning changes — what's the goal there?"
   },
   {
    "host": "Graham",
-   "text": "Local pushback could force changes or delays. Residents got a direct say at the hearing, which is exactly the kind of input that can reshape proposals."
+   "text": "They're preparing to protect farmland and roads before more proposals hit, following the Dowagiac example. County decisions will set the industrial load limit."
   },
   {
    "host": "Emmy",
-   "text": "Houghton County is getting ahead by drafting rules now."
+   "text": "Walberg raising alarms on robotics jobs — how are voters supposed to track that?"
   },
   {
    "host": "Graham",
-   "text": "Houghton, Hancock and Portage Township officials are working on zoning and permitting standards to limit demands on rural grids and aquifers before any large projects arrive."
+   "text": "They're watching employment and training needs closely as the project moves forward."
   },
   {
    "host": "Emmy",
-   "text": "That proactive approach seems to be catching on."
+   "text": "St. Joseph candidate wants a moratorium. What's the concern if nothing changes?"
   },
   {
    "host": "Graham",
-   "text": "It does, especially as DTE's queue keeps growing."
+   "text": "Sudden spikes in power bills and water use without local rules in place."
   },
   {
    "host": "Emmy",
-   "text": "One more quick one—the super PAC spending in the congressional primary."
+   "text": "Township leaders facing threats after a viral clip — how raw are these debates getting?"
   },
   {
    "host": "Graham",
-   "text": "Nearly $300,000 dropped into a race where data center policy is an emerging issue. Voters weigh in next week."
+   "text": "Raw enough that officials are deciding projects amid real backlash from residents."
   },
   {
    "host": "Emmy",
-   "text": "On deck for listeners, are there any meetings coming up they can actually attend?"
+   "text": "Mason County hearing drew opponents on power and land. What could come next?"
   },
   {
    "host": "Graham",
-   "text": "The Aug. 4 primary is the big one on the calendar, and we recommend checking the Michigan Data Center Tracker for any last-minute local hearings that pop up this week or next."
+   "text": "Local pushback might force changes or delays before bigger decisions."
   },
   {
    "host": "Emmy",
-   "text": "Nothing specific on the immediate docket, but the tracker is the best place to stay current."
+   "text": "Tech PAC spending big in a primary. What's the race about?"
   },
   {
    "host": "Graham",
-   "text": "Full sources and the live map at the Michigan Data Center Tracker. We're back tomorrow."
+   "text": "Data center policy is the emerging issue voters will decide next week."
   },
   {
    "host": "Emmy",
-   "text": "Thanks for listening, everyone. Stay informed on these local decisions—they're shaping Michigan's energy future."
+   "text": "Houghton County drafting rules early. Why act now?"
+  },
+  {
+   "host": "Graham",
+   "text": "To limit power and water demands on Upper Peninsula grids and aquifers before projects arrive."
+  },
+  {
+   "host": "Emmy",
+   "text": "Detroit News calling for state rules with protections. What's the message?"
+  },
+  {
+   "host": "Graham",
+   "text": "Welcome the centers but write strong local standards first, before other states' problems hit here."
+  },
+  {
+   "host": "Emmy",
+   "text": "DTE queue at 8 gigawatts after Oracle and Google. How will that shape southeast Michigan?"
+  },
+  {
+   "host": "Graham",
+   "text": "Higher demand means rate impacts and decisions on where new lines and substations go."
+  },
+  {
+   "host": "Emmy",
+   "text": "On deck, are there any meetings listeners can attend this week?"
+  },
+  {
+   "host": "Graham",
+   "text": "No major public hearings listed for today or tomorrow on the tracker, but we'll keep an eye on county agendas as they post."
+  },
+  {
+   "host": "Emmy",
+   "text": "Sounds good. Full sources and the live map at the Michigan Data Center Tracker."
+  },
+  {
+   "host": "Graham",
+   "text": "We're back tomorrow."
   }
  ],
- "episode_title": "St. Joseph Moratorium Push Signals Wider Michigan Data Center Fights",
- "show": "Evenings with Graham & Emmy",
- "daypart": "Evenings"
+ "episode_title": "Bitcoin Sale Speeds Michigan AI Data Center as Counties Draft Rules",
+ "show": "Mornings with Graham & Emmy",
+ "daypart": "Mornings"
 }
