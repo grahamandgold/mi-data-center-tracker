@@ -1,27 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONDVIMGJ4STVYbnRkLXpVYkxxQ0p4S2c4alhicElnU3BNR3ptRmFVTmVvWTlMck1Ta3Z2N0tvZFJfLVhyck8xQ1ZCcDhETGJ5b1R4allXaG05OUtpcnZkRDRQbkFOLWN0SVNFbllZZFRrUXE1cDd0ZDNiMmh4N09POGo4NHBGYTMyZ3FUS1g1UzQ?oc=5",
-   "title": "Oracle pushes Saline officials into legal corner over $43B tax break",
-   "at": "2026-07-14T17:44:28+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Same Saline tax break story already killed multiple times by News Director; no new decision or development reported."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVVczWFItUThOS0hoS2Iwc1l5cG02OXlSMllORVJPVEJFTEIzMThwX0E1S3Z6NXN1SlJ2SERTbk9UYlpKbTUxc2ExeUVYQmI2VFNlVmljUHBXUVhOZ3J0Mk5sTlI1MlY4bVFiNDZIcERaTWoydHhkdFZWZVpXcFc4WG9sZEg?oc=5",
-   "title": "Warren eyes data-center ban after storm blackouts hit residents",
-   "at": "2026-07-14T17:44:28+00:00",
-   "by": "news_judge",
-   "note": "score 5/10: Warren follow-up adds storm/blackout angle but no new council action beyond the 'may pause' already live; speculative on county weighing halt."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNNDRNdFNQMWJGeWFldS11RXRybkZYREVkU0tFUzZEa0QtUVNSTkllMXRLbGpuaXFjVnF4bUV6Zy10TXl3UTRIaUN0TjExdDgtWW5XTUNsZmd4YVViOVhISEZVSHpVSEJHNVVmZWJGUGdiYzFjS0hEWV9fOXZjSnl1NEc4Y1hTZ0xDQWc0N05CZHQ3eWZINmFSc3prTS04ZFFSdlh5ZERjSmM3Ym1ZeTRjaVpHcWN4YmcxMmtkN2NsZGxBeVZqeTV0Umo5UXZHcFdWM0lXOVQ5dnA2TEc3dU0yRXdBd0xiWUFTd3IzVFFVT1JqVWdLOFlSY1hRb0NxMUhqc0FFUVZJakc2T2FqQzRtYXUtNUZZM3J3QUJERjJKWGJnd1lN?oc=5",
-   "title": "Hyperscale Data Center faces questions at Benton Harbor meeting",
-   "at": "2026-07-14T19:39:18+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: This is the same Benton Harbor meeting already live as 'Hyperscale developer faces Benton Harbor residents over noise and traffic.'"
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX1VJam1WUUJ0YVJ0MmdFUjVITFEyT0NjTTNGU2lZdFdrTHVUYUpaRm1EaHBVRks4eUF2NE9hX0lQRjNUWGtSZVA3ZWt3c3dveHBfd25zUlpMM0Q3MlVXSkVzQjlSaDlrbXZzQ01RR1RuajFrTW83NGNuV2xSSXVlMFpWeEQ5QXhpRlVmc1d0ZjRzUDlPVlFyNnZ0dFcwcE9yeTdTZXZ6ZVZMY29xWEFiQzVBNmdYeU9FSm9Yem5sMkxscFZFY3BPNdIB3AFBVV95cUxNOVRJSGQycEVqMWY4STRiRUhUSEdINk1SOFM3QlVTanAwLUczRk9wNjB5NE1vVDdCZmpaUVlRaE93anpMODd1NFFwbFBkQ2lTS1ZiOWJSa3k0OW1JSC1DeVROdWFfdnA4WFBrLW90Y2psVlNPWXh4ZlVFbUxZWl9uRy1vM29aWjF0bHFYWk1VZEZlTHVtMWVHV0dDYlhWUFlzdWhBTlpFakRyeHQxNGpwYVdsWTJ6Zl9fbnJRNGhkZnlER1M5NDNnTzVfTnhzbFpsR0poQjRnZHJYZ29j?oc=5",
    "title": "Michigan homes lose peace and quiet to round-the-clock data center din",
    "at": "2026-07-14T19:39:18+00:00",
@@ -1399,6 +1378,27 @@
    "at": "2026-07-30T11:58:30+00:00",
    "by": "news_judge",
    "note": "score 3/10, duplicate: Duplicate of already-killed 'Michigan Senate Hopefuls Split on Data Center Costs to Residents' and 'Data centers split Michigan Dems ahead of primary' — same pr"
+  },
+  {
+   "url": "https://www.brookings.edu/articles/data-center-moratoriums-are-not-a-substitute-for-oversight/",
+   "title": "Moratoriums on data centers stall in most states despite local wins",
+   "at": "2026-07-30T14:25:30+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece with thin Michigan relevance; no specific Michigan decision or development reported."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOR2ZfZDBzSmVBbDBnWWVzaFNoM1lrWkY3NTJfdU9qMjRoZERxc2FyRDFySmtScTZRN2djclZrNGdHVFZraVNzZG5wZUtqalJTcnZrWHNRTm1tVkQ2WkdXN2F4YVU5dWVYbFNfVUxFT1N6VGZ3U2dsclphR0dtb0hYU0lVakQ0ZjNZUVdSV0Y2bHNFcnR0MVNnOWZyTUktd0ZJbmFYdkRXeUl0dEtlLUhJY1UxNEpuNFUxaGFLeElfVkxlTExkc2w1Z3FWdWlwU0lqZ0FKSFFDVGVMMjRYeVVSQkhjU3FXS2c?oc=5",
+   "title": "Data centers emerge as flashpoint in Michigan Senate primary",
+   "at": "2026-07-30T14:25:30+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicates already-live 'Data Center Battles Loom for Michigan Senate Primary Candidates' — same Senate primary clash angle."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSGlvakpyRTA0UzRTbmxZTFBJVjM5cmZUaUNfTjdJNTd0ZnpVNWNWUzRnYlFONUNUWk81X25NRUZ2bWstRWwwT2ZTaHd0MVpYVkp6cWhoYkhRZ0F2OGFmRmM4aHh3cWRibGs5aEJ1VVZZNXh5V3JyUk00TlpKZDhQUjh3dUk5cUtHbXdoR2ZsR0lTNXZYOXg1VzdBOXkxZi1WSHllZEkwV01vdWR2M1J3Szc3R2Z4eEx4VC1wSUQ4Tk5KSWtYNWxaSGluQkZWRlpVeXh2eQ?oc=5",
+   "title": "Company dumps 100 Bitcoin to bankroll artificial intelligence construction site",
+   "at": "2026-07-30T14:25:30+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicates already-live 'Hyperscale cashes out Bitcoin to bankroll Michigan AI campus' — same Bitcoin liquidation for Michigan AI facility."
   }
  ],
  "auto_published": [
@@ -2289,6 +2289,12 @@
    "title": "Hyperscale cashes out Bitcoin to bankroll Michigan AI campus",
    "judge_score": 6,
    "at": "2026-07-30T11:58:30Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc2liZ0tQZ2M3aTlpNXFuYm92dUVfaHhDS3pWVGwtcGpCUDVpcVU1dHVEbW9ram1lMXdvZDNXeDdIR3gyZ3praFp4YlFYNTItV2Jod2ZOb0VhazZCem1JU2x0Q0lVVUJJZWM4OWdsMmFUTGZGcWhzMDZMczNETnpwRzhXNGJNWlhIT08wejVmTjRjTWNKMUpuUDZrR1k?oc=5",
+   "title": "Saline data center backers funded Haley Stevens",
+   "judge_score": 7,
+   "at": "2026-07-30T14:25:30Z"
   }
  ]
 }

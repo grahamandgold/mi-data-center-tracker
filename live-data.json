@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-30T11:58:30Z",
+ "updated_at": "2026-07-30T14:25:30Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Saline data center backers funded Haley Stevens",
+   "dek": "Executives tied to the controversial Saline project donated to the congresswoman's campaign. Residents near the proposed site may see tax breaks or power strain tied to the same players. The donations raise questions about local influence in Washtenaw County.",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc2liZ0tQZ2M3aTlpNXFuYm92dUVfaHhDS3pWVGwtcGpCUDVpcVU1dHVEbW9ram1lMXdvZDNXeDdIR3gyZ3praFp4YlFYNTItV2Jod2ZOb0VhazZCem1JU2x0Q0lVVUJJZWM4OWdsMmFUTGZGcWhzMDZMczNETnpwRzhXNGJNWlhIT08wejVmTjRjTWNKMUpuUDZrR1k?oc=5",
+   "source": "Michigan Enjoyer",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Money",
+   "iso": "2026-07-30T13:53:08Z",
+   "id": "f015dfbf9fbc",
+   "origin": "google-news",
+   "source_title": "Executives Behind Controversial Saline Data Center Donated to Haley Stevens - Michigan Enjoyer",
+   "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc2liZ0tQZ2M3aTlpNXFuYm92dUVfaHhDS3pWVGwtcGpCUDVpcVU1dHVEbW9ram1lMXdvZDNXeDdIR3gyZ3praFp4YlFYNTItV2Jod2ZOb0VhazZCem1JU2x0Q0lVVUJJZWM4OWdsMmFUTGZGcWhzMDZMczNETnpwRzhXNGJNWlhIT08wejVmTjRjTWNKMUpuUDZrR1k?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Hyperscale cashes out Bitcoin to bankroll Michigan AI campus",
    "dek": "The company sold 100 BTC to speed construction of its planned Michigan AI data center. Residents near the site will see new power lines and tax questions tied directly to the project. The move shows how crypto holdings are now financing local data-center growth.",
@@ -171,21 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOc005dnYtQ3plZUxGa1NZaFlCRHhHWmEzVmpVNnNHOExIaXVrd3B3SmdQS0hFLThHOUo2RElfbWxWakVsaXdfczNEd2QyQTFsVmRzUHBIcWxCVVh0OUJCeGpCclA1T3pnek1HTFZtNXozTndacVdpbVd4SXE4VWE0Z3pVTXhDLVdaUDUycVlvdTRZUFlmTVN2NDBUbEFNR0ZCRWRWamF1eE0xazhIenBvNDg3VGxoSVM4SUtkdWF1TzBlcmd3MHdHV0xEWDBMSjZockJ6MEZnOWlwR1BCMm1wUi1VRFRmLXZhcUUxcA?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
-  },
-  {
-   "iso": "2026-07-29T09:00:00+00:00",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "tag": "Policy",
-   "title": "Data Center Battles Loom for Michigan Senate Primary Candidates",
-   "dek": "El-Sayed and Stevens seek the Democratic nomination in the Aug. 4 primary; the winner could shape federal rules on projects already sparking local fights over sites and impacts.",
-   "source": "Michigan Public",
-   "url": "https://www.michiganpublic.org/politics-government/2026-07-25/how-michigans-democratic-u-s-senate-candidates-differ-on-immigration-healthcare-data-centers",
-   "breaking": false,
-   "lead": false,
-   "id": "a8f413dea47b",
-   "accuracy": "checked-rewritten",
-   "judge_score": 6
   }
  ],
  "national": {
