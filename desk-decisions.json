@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://ypsitownship.org/government/boards___commissions/board_of_trustees/data_center_information.php",
-   "title": "UM-Los Alamos computing site spans 144 acres in Ypsilanti as water moratorium holds",
-   "at": "2026-07-14T22:34:28+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Same U-M/Los Alamos 144-acre Ypsilanti site and water moratorium as candidate [3], just reworded."
-  },
-  {
    "url": "https://bridgemi.com/michigan-government/jocelyn-benson-none-of-my-family-is-profiting-from-data-centers/",
    "title": "Secretary of State Jocelyn Benson Clarifies No Family Financial Ties to Michigan Data Centers",
    "at": "2026-07-14T23:29:09+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-07-30T19:45:06+00:00",
    "by": "news_judge",
    "note": "score 1/10, duplicate: This is the same Bitcoin liquidation event already covered in multiple killed stories (Company dumps 100 Bitcoin, Hyperscale sells 100 BTC, Hyperscale Data cash"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQmQyejhJZDFCbU43RDZNcEplaWFiVE1IOG5YLVNRaDFQbUtpZGRNYktyeDhTMWZNYk9LODZGcmE5eXJFTENUSDlTNUs4XzU5ZU1jQkNEcHZJQ00xNXFWTUhIeExCMWZWeVRIQVh5RlF3a21tN3RZTDRmN1dqMF9FaGhQb2M2QdIBiwFBVV95cUxOOE9VX2hCQVEySFhETWtOdXdiR182MkFZVS05QzhUdnY2U0I2bDViV19fM01uM1JQX3B4ZlVENVpHMUphajlnRTZOT2lFaHhKWXU0TnBLZ0hKcERDS2lhZDZpc0dnOU9WcE92QkY3SVJnRjdQLU5taHBJQXkzNTUyTGtoR2ZrQ2NMTk1r?oc=5",
+   "title": "FOX explainer breaks down how Michigan data centers will hit the grid",
+   "at": "2026-07-30T21:19:38+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Explainer/educational piece about general grid impacts lacks a specific new development, filing, or decision."
   }
  ],
  "auto_published": [
@@ -2319,6 +2319,12 @@
    "title": "Michigan residents to hear power, jobs, tax details at August data center session",
    "judge_score": 7,
    "at": "2026-07-30T19:45:06Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUG1mRnFVOUxQUDZLeU80YWVNcUtDTzkwTGlRRXA4TW9QQUp1X1FzNnBjZlFFSW9uSWlUbXNfb2czSEtZSVhvLUFWdjdieXp0VVFveHJWSTBZYXFIZ2JpeHpZQzRfMDZ0bmcwR3lBdGVxTURLYmctRmthWUp5Yi1xRVR5c2VNR2txMFFSdXFmdF9JOEs1MjFMUWFmbW02ZFRhVGlpb3c1R1NQYVZDVkg3X2FYcw?oc=5",
+   "title": "El-Sayed slams Saline data center plan over power and water costs",
+   "judge_score": 6,
+   "at": "2026-07-30T21:19:38Z"
   }
  ]
 }

@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-30T19:45:06Z",
+ "updated_at": "2026-07-30T21:19:38Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "El-Sayed slams Saline data center plan over power and water costs",
+   "dek": "Democratic Senate candidate Abdul El-Sayed used a C-SPAN appearance to criticize the Oracle-OpenAI project in Saline, citing its expected draw on the electric grid and local water supplies. He argued the tax breaks and infrastructure strain would fall on Michigan residents while benefits flow elsewhere. The remarks sharpen the debate ahead of the August primary.",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUG1mRnFVOUxQUDZLeU80YWVNcUtDTzkwTGlRRXA4TW9QQUp1X1FzNnBjZlFFSW9uSWlUbXNfb2czSEtZSVhvLUFWdjdieXp0VVFveHJWSTBZYXFIZ2JpeHpZQzRfMDZ0bmcwR3lBdGVxTURLYmctRmthWUp5Yi1xRVR5c2VNR2txMFFSdXFmdF9JOEs1MjFMUWFmbW02ZFRhVGlpb3c1R1NQYVZDVkg3X2FYcw?oc=5",
+   "source": "C-SPAN",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Policy",
+   "iso": "2026-07-30T20:35:28Z",
+   "id": "1ddbb907a55c",
+   "origin": "google-news",
+   "source_title": "Candidate Abdul El-Sayed (D-MI) Remarks on Data Center in Saline, MI - C-SPAN",
+   "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUG1mRnFVOUxQUDZLeU80YWVNcUtDTzkwTGlRRXA4TW9QQUp1X1FzNnBjZlFFSW9uSWlUbXNfb2czSEtZSVhvLUFWdjdieXp0VVFveHJWSTBZYXFIZ2JpeHpZQzRfMDZ0bmcwR3lBdGVxTURLYmctRmthWUp5Yi1xRVR5c2VNR2txMFFSdXFmdF9JOEs1MjFMUWFmbW02ZFRhVGlpb3c1R1NQYVZDVkg3X2FYcw?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
   {
    "title": "Michigan residents to hear power, jobs, tax details at August data center session",
    "dek": "The session will outline a proposed data center project and its local impacts. Michigan residents near the site may face questions about power use, jobs, and tax effects. The event gives the public a direct chance to hear details before decisions advance.",
@@ -171,23 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUEthaWdBdXJLYXJ2dGpuenZfaXktYjJZNnk5dXpCbWZYQmFSNzNRaGpTMlJ1eXNfS3hCcVBHd0pNRk9RMlhleUhIZ2tjV1VjMHJtUmNUUnpBRGVlNHUtWnpvTEpKQ1E5eERtT0prUi1DU1hXR1dfbzIwanhvWGpkcEFTVnNIeGlEa2FrMDB6bjBoQWpHN1UtX2pud2tzT1RhN09VNk9TaXd2X01USWg5V3dnRUxhdFRlVkVFUTFmUnQtNzh0Zmc3SlctendjMVJBcWNjV2pXSC05VE1XN0RkOTVTaWlXaXpEVTJ4Ui1zYw?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
-  },
-  {
-   "title": "Mason County residents push back on data center plans",
-   "dek": "A commission heard from opponents and the public on a proposed center's power and land impacts. Local pushback could force changes or delays to the project. The hearing gives residents a direct say before bigger decisions.",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQT0FnLXRJbmotRUV6elVLajNBSEJPdko2eFF4Slo0NklaQUFKUlBMa2NzdjJIWnAzaDJ0OG1BU3VwNGgwcUFROFFEMHI1ODROM25PU3RLb2tVdlBtT1kyR21tQ0FzUkJtcFJiMjZIVVZ1MExnbDQ2RmtGTmF2Mk1qWkZuVW5vQ2xSbEJ0cnRsRzF4eG13SkJ2Q0ZfWUxtRkdybFY4UTUtV3B2V0xyWmI4ZW1sX013d1FPNWhZVjQ2WUhnUkR4c0huY2g5c3pzSGlWT3RzOVRoMGhFN0ZjNlJSZHMtcDdTejJNN2s5NzZCWXI?oc=5",
-   "source": "WV News",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Mason",
-   "tag": "Local Government",
-   "iso": "2026-07-29T17:13:00Z",
-   "id": "0af0b2c6ccf8",
-   "origin": "google-news",
-   "source_title": "Mason County Commission hears presentation from data center opponent, and public comments - WV News",
-   "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQT0FnLXRJbmotRUV6elVLajNBSEJPdko2eFF4Slo0NklaQUFKUlBMa2NzdjJIWnAzaDJ0OG1BU3VwNGgwcUFROFFEMHI1ODROM25PU3RLb2tVdlBtT1kyR21tQ0FzUkJtcFJiMjZIVVZ1MExnbDQ2RmtGTmF2Mk1qWkZuVW5vQ2xSbEJ0cnRsRzF4eG13SkJ2Q0ZfWUxtRkdybFY4UTUtV3B2V0xyWmI4ZW1sX013d1FPNWhZVjQ2WUhnUkR4c0huY2g5c3pzSGlWT3RzOVRoMGhFN0ZjNlJSZHMtcDdTejJNN2s5NzZCWXI?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {
