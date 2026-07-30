@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeXlDb2dtdXZ1eE1kZjhRZW9ud3dTUUtnRThzcDhoaldBRWNTcXhQWmptYVFMdnA2NjR5TXFsYjVPWC1xemVsbHhvUEV0OGQySDhFRWVBWm1BMDl1RTQzQVl1NTh5RjFJc09COTZUTnpEYnlkRFRBdm5RNlItMmFtQ2d6RFVLWjY2eUJGa1JpU0czMU5lOXhTTEhaTEhHaHZUVlZwdU1mSmxiWC14bGc?oc=5",
-   "title": "Huron Valley unions demand statewide data center freeze",
-   "at": "2026-07-14T22:34:28+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Labor group statement adds a voice but no concrete action, filing, or decision; advocacy without a specific governmental step."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdlVrNzJsZGRfOUcyV3dHZ3YwUlVuTFNLcnN5eDY5MENwMXVKZXJDaTM5RVNyeWRLS2cxUHpBRVo4MF9oSFFrcUpiQmhGWEpnU084dVlUbUp3WFBIajA4NTV2b3FTM2Ytb3JETnFpNS1YWjdfd0tWSGQ0OFNDdGd3NWl2OHJpM21KN2hDY2ppM1NHaTBLLVRGM2pfRFB1WVlrMm9SY3h3MGw?oc=5",
    "title": "Benson says no family money tied to Michigan data centers",
    "at": "2026-07-14T22:34:28+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-07-30T16:09:14+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: This is the same Bitcoin liquidation story already live as 'Hyperscale cashes out Bitcoin to bankroll Michigan AI campus' and killed as 'Company dumps 100 Bitco"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRzY4RHJIbVhIeE95RE42R21zRGFwWXlJYm1CTnctNWI5cjhSNHo0NS0xUU5ZanVURFlhcm5sXzZGdW5DaHdJUTVXMjhVUnhmQVpjZ01tdU1ZRzZxVlMtM1BUNEY1RGVCOG5fWXN0MEJEb2FYcHZmc241VWlGZnpEeHB5cWdnLWNscDYwWURUeWktdTVHM1h6bFJ6X1ktTHlWS2R0c0swRUI?oc=5",
+   "title": "Hyperscale Data cashes in Bitcoin to bankroll Michigan AI campus",
+   "at": "2026-07-30T17:59:31+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicate of already-live 'Hyperscale cashes out Bitcoin to bankroll Michigan AI campus' and killed 'Company dumps 100 Bitcoin to bankroll artificial intelligen"
   }
  ],
  "auto_published": [
@@ -2301,6 +2301,12 @@
    "title": "Court rules in Shelby data center annexation fight",
    "judge_score": 8,
    "at": "2026-07-30T16:09:14Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbHVjWGdoOEU1REdZUmdGMENHS1RISG9oX1llSnRINTkyemVvdFB3bTloTzNFVHByaTRXRll0MXAtT0ZlV1RfNVc3UEw2RmpBLTBia3lyNTZIN0JGWmdIUU1zYUdUbk52VUlEekU0T1JQejRUOTlzWDJmT2YwZmVLVmIzNU50anF2Tm45dTF5ZVUzbXdxMGo5aHp6ZGNFV0RfUm5mbDBDaVJkeU1tanh3QkNUbXZ1LTF1YmpyQUZQLVRTbmtjQmFFemJn0gHeAUFVX3lxTE92bjZELWJlSWR4TE1FQ1V3WjZIYWdQbmEtc2NwTzFYcFpFYmtJcVM0dGpwMFNvejU4OUxfZzRHd3IxNGV2TExsUDJYX1pFRkY1MU1seWRIZHE4ZlZwWUUxQ2t4QTlvODZTa2xZNjFSZHQ1WTFySFBHUTdiVDZoYngzSmJQc0pxa1N4Ulh3cHlrbEVXVkVNWFE2TGlHUzZpbzZQWUlFQ0lxNWF2LU1YeG1UY01rUkM5QjBGSDJ0RHZwUThkWFBHbmdjUkFrZEhTbkVxS2w4MklsZG9HZUgyQQ?oc=5",
+   "title": "Tech giants seek approval to dump treated water from Michigan facility into river",
+   "judge_score": 8,
+   "at": "2026-07-30T17:59:31Z"
   }
  ]
 }

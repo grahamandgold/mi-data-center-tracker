@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-30T16:09:14Z",
+ "updated_at": "2026-07-30T17:59:31Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Tech giants seek approval to dump treated water from Michigan facility into river",
+   "dek": "The companies behind a massive proposed data center near Saline have filed for a state permit to release treated wastewater directly into the river. Residents downstream could see changes in water quality and flow if the discharge is approved. The filing puts a concrete environmental price tag on the project that has already drawn local scrutiny over power and land use.",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbHVjWGdoOEU1REdZUmdGMENHS1RISG9oX1llSnRINTkyemVvdFB3bTloTzNFVHByaTRXRll0MXAtT0ZlV1RfNVc3UEw2RmpBLTBia3lyNTZIN0JGWmdIUU1zYUdUbk52VUlEekU0T1JQejRUOTlzWDJmT2YwZmVLVmIzNU50anF2Tm45dTF5ZVUzbXdxMGo5aHp6ZGNFV0RfUm5mbDBDaVJkeU1tanh3QkNUbXZ1LTF1YmpyQUZQLVRTbmtjQmFFemJn0gHeAUFVX3lxTE92bjZELWJlSWR4TE1FQ1V3WjZIYWdQbmEtc2NwTzFYcFpFYmtJcVM0dGpwMFNvejU4OUxfZzRHd3IxNGV2TExsUDJYX1pFRkY1MU1seWRIZHE4ZlZwWUUxQ2t4QTlvODZTa2xZNjFSZHQ1WTFySFBHUTdiVDZoYngzSmJQc0pxa1N4Ulh3cHlrbEVXVkVNWFE2TGlHUzZpbzZQWUlFQ0lxNWF2LU1YeG1UY01rUkM5QjBGSDJ0RHZwUThkWFBHbmdjUkFrZEhTbkVxS2w4MklsZG9HZUgyQQ?oc=5",
+   "source": "MLive.com",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Water",
+   "iso": "2026-07-30T17:02:00Z",
+   "id": "a81ce3bcd577",
+   "origin": "google-news",
+   "source_title": "OpenAI, Oracle data center seeks permit to discharge wastewater into Saline River - MLive.com",
+   "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbHVjWGdoOEU1REdZUmdGMENHS1RISG9oX1llSnRINTkyemVvdFB3bTloTzNFVHByaTRXRll0MXAtT0ZlV1RfNVc3UEw2RmpBLTBia3lyNTZIN0JGWmdIUU1zYUdUbk52VUlEekU0T1JQejRUOTlzWDJmT2YwZmVLVmIzNU50anF2Tm45dTF5ZVUzbXdxMGo5aHp6ZGNFV0RfUm5mbDBDaVJkeU1tanh3QkNUbXZ1LTF1YmpyQUZQLVRTbmtjQmFFemJn0gHeAUFVX3lxTE92bjZELWJlSWR4TE1FQ1V3WjZIYWdQbmEtc2NwTzFYcFpFYmtJcVM0dGpwMFNvejU4OUxfZzRHd3IxNGV2TExsUDJYX1pFRkY1MU1seWRIZHE4ZlZwWUUxQ2t4QTlvODZTa2xZNjFSZHQ1WTFySFBHUTdiVDZoYngzSmJQc0pxa1N4Ulh3cHlrbEVXVkVNWFE2TGlHUzZpbzZQWUlFQ0lxNWF2LU1YeG1UY01rUkM5QjBGSDJ0RHZwUThkWFBHbmdjUkFrZEhTbkVxS2w4MklsZG9HZUgyQQ?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "Saline data center backers funded Haley Stevens",
    "dek": "Executives tied to the controversial Saline project donated to the congresswoman's campaign. Residents near the proposed site may see tax breaks or power strain tied to the same players. The donations raise questions about local influence in Washtenaw County.",
@@ -171,23 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTF9NTFp6ZjNLMVloZFk5ckpIV2F2OXh3NDBEYm15RTRkVFpobTlORVJ4V0ctWDlJYnZFbzZjRDdWZnIyMUR6eFc0WUIwc0p0eXM4Q2VHU0RaZmEwZUIyUzhEVlV4aW1rZUhyV3FwR1YtZVpLUXE5bkpDWWVFb08yLWV2aTUxYkhiN195cHBzYVlCZVFlc2FWTG0xVnZ1aHNpTEdRQXZMcDQxUERJX2NaU3pwdENpNDY2UTJ4NDZVb1dhRkVQUVVWWGs1Zm94UllwaTVKaGt2N3RVWGotejRFWFp3bTZHdw?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Detroit News urges Michigan to set data center rules now",
-   "dek": "The editorial board argues the state should welcome data centers but only with strong local protections. It points to electricity costs and water strain already hitting other states. Michigan communities still have time to write their own standards before projects land.",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZzVQeTBBTXJpMjE5TTJPa3VZb19EQ2tGaWVrVFBjZndKYlUwMkt5NXhrUUtoQk5rWExnQkowdEdwX1lsWE1XOXp0Yml6MkNrSG9MRjlXckk1UVE5alRzUlUwV1BwcW5HMDN4djhEVWM4RHRJUlk3ZEhBREFtSVpfejFKdGxvME4wZW9oN3JuOEl4a05TWER4eFFjOEhFay1RbXpsUW1BeWJqR0ZKd2YzbEYyZUhRcXpQRGRwQnBFMmhGU0hnVUVxUjAxbw?oc=5",
-   "source": "The Detroit News",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Policy",
-   "iso": "2026-07-29T14:39:00Z",
-   "id": "b3924fd389ea",
-   "origin": "google-news",
-   "source_title": "With the right guardrails, data centers should be embraced | Opinion - The Detroit News",
-   "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZzVQeTBBTXJpMjE5TTJPa3VZb19EQ2tGaWVrVFBjZndKYlUwMkt5NXhrUUtoQk5rWExnQkowdEdwX1lsWE1XOXp0Yml6MkNrSG9MRjlXckk1UVE5alRzUlUwV1BwcW5HMDN4djhEVWM4RHRJUlk3ZEhBREFtSVpfejFKdGxvME4wZW9oN3JuOEl4a05TWER4eFFjOEhFay1RbXpsUW1BeWJqR0ZKd2YzbEYyZUhRcXpQRGRwQnBFMmhGU0hnVUVxUjAxbw?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {
