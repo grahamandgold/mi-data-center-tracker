@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOd3JnbW0xaTEweGd6N19vZm9DblZZZjlIa21fSnl4dGZEVWN0S1NQcE0yWFlTNWtFcjAteHNqYzdhbUU3blRrY3pjcnlUXzRqdHJON3MyNGEyYUxxbUt1QXBkX2drVGNkMTFCc2ROc1Btcmd5YnozWFY1Y2ZsU25WTm8wc3IzcjhCWmNCS0JFTDR0bElGeHVBZE1MTml1ekVXcS0zQ1RWb0N3bnMzZDJfVm45cFNQNzZ3VXdmUmV2alVocjlkZVhReXkxdXA4TGYyWG1JeWZ0UUl2cWdvbkpF?oc=5",
-   "title": "Voters grill congressman on whether data centers will spike electricity bills, rents",
-   "at": "2026-07-14T16:23:02+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Thin event coverage—constituent questions at a town hall lack concrete policy action, filing, or decision; speculative concerns about bills and rents without ne"
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONDVIMGJ4STVYbnRkLXpVYkxxQ0p4S2c4alhicElnU3BNR3ptRmFVTmVvWTlMck1Ta3Z2N0tvZFJfLVhyck8xQ1ZCcDhETGJ5b1R4allXaG05OUtpcnZkRDRQbkFOLWN0SVNFbllZZFRrUXE1cDd0ZDNiMmh4N09POGo4NHBGYTMyZ3FUS1g1UzQ?oc=5",
    "title": "Oracle pushes Saline officials into legal corner over $43B tax break",
    "at": "2026-07-14T17:44:28+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-07-30T04:13:23+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: This is the same Dowagiac noise lawsuit already killed multiple times under various headlines (neighbors sue, residents file lawsuit, constant noise allegations"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM1h2dWNRSVNINEwwQTFObVBWWm9mY0NMN1VWb2lyTkVoOE5QUElhOFlkN2Q2aUs5T0hIWTFXOEtXTFBtSzBYc3YxS2xpekFSemtnSnJGSGkyODRzRklsRG5jZHFyYTJId182c0xObENxZTlIWFFnYkFWY0RTNHh4M19ibWF6a1lZeDhZbDRMVGRkd0s4REYwUVpRcFVmWGpJM2gtR2RnQS1ubzNpaUFuSER0N3c?oc=5",
+   "title": "Michigan primary candidates split on data-center tax breaks and power use",
+   "at": "2026-07-30T11:58:30+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: Duplicate of already-killed 'Michigan Senate Hopefuls Split on Data Center Costs to Residents' and 'Data centers split Michigan Dems ahead of primary' — same pr"
   }
  ],
  "auto_published": [
@@ -2283,6 +2283,12 @@
    "title": "Cass County residents organize to shape future data center rules",
    "judge_score": 7,
    "at": "2026-07-30T04:13:23Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbFdvX2x4NzhTY1ZPRGxCWjZ0cVFzM1RhaWFPUjBLc3R6dVo4R01KNjhUZjZ6UWdkbEd2ZmlvUGpOM2JGTUFDNFdXRFFkUkpNMm1TY1k5UnVMRGs2S19SUU1HWEpEZ1Uwa3k0YWpRb3hhZlZjN2FUa0ZRYXZDQkJ6Z0tzRmFCeE5m?oc=5",
+   "title": "Hyperscale cashes out Bitcoin to bankroll Michigan AI campus",
+   "judge_score": 6,
+   "at": "2026-07-30T11:58:30Z"
   }
  ]
 }

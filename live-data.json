@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-30T10:01:10+00:00",
+ "updated_at": "2026-07-30T11:58:30Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Hyperscale cashes out Bitcoin to bankroll Michigan AI campus",
+   "dek": "The company sold 100 BTC to speed construction of its planned Michigan AI data center. Residents near the site will see new power lines and tax questions tied directly to the project. The move shows how crypto holdings are now financing local data-center growth.",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbFdvX2x4NzhTY1ZPRGxCWjZ0cVFzM1RhaWFPUjBLc3R6dVo4R01KNjhUZjZ6UWdkbEd2ZmlvUGpOM2JGTUFDNFdXRFFkUkpNMm1TY1k5UnVMRGs2S19SUU1HWEpEZ1Uwa3k0YWpRb3hhZlZjN2FUa0ZRYXZDQkJ6Z0tzRmFCeE5m?oc=5",
+   "source": "Crypto Briefing",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Money",
+   "iso": "2026-07-30T11:02:20Z",
+   "id": "f83718a44378",
+   "origin": "google-news",
+   "source_title": "Hyperscale Data sells 100 Bitcoin to fund AI data center buildout in Michigan - Crypto Briefing",
+   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbFdvX2x4NzhTY1ZPRGxCWjZ0cVFzM1RhaWFPUjBLc3R6dVo4R01KNjhUZjZ6UWdkbEd2ZmlvUGpOM2JGTUFDNFdXRFFkUkpNMm1TY1k5UnVMRGs2S19SUU1HWEpEZ1Uwa3k0YWpRb3hhZlZjN2FUa0ZRYXZDQkJ6Z0tzRmFCeE5m?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
   {
    "title": "Cass County residents organize to shape future data center rules",
    "dek": "Local groups are preparing to push zoning changes before more proposals land. The moves follow the Dowagiac project and aim to protect farmland and quiet roads. County decisions will decide how much industrial load the area accepts.",
@@ -168,23 +185,6 @@
    "lead": false,
    "id": "a8f413dea47b",
    "accuracy": "checked-rewritten",
-   "judge_score": 6
-  },
-  {
-   "title": "Bellevue residents demand answers on data center water and power use",
-   "dek": "Neighbors in Bellevue want concrete numbers on how much electricity and water the proposed facility would pull from local supplies. Eaton County residents worry higher utility rates and strained wells could follow if the project moves ahead without more transparency. The push for details comes as data centers across Michigan seek big new connections to the grid.",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMk02M1RsU2twZ1JzUEdOSjhScnF4VTJYUUdLSnFQRGhyYnd2XzRXeExWU0tOdU4yMTIwQTk2WFZ5RWE2SWJNZTFoWkI1SGk1V3VyMjJXS2haMWJ1QnVMU0hGNjFhTFFQNzhGTElKRkFXRnJjajQwd3M1SGdDdEdkQlctWFBsX1JPcW5ZMEwxSUxINGFDeXFLbF83bm1HVUJWTFV6ZzdxRmVRODNTME5iQTcyUVpxSjN1WmNNbmJGUFJ3SjZJcUlHUkx1V1FEMkJ2UmkzZUFfX3JwcnhpQ21aelBn?oc=5",
-   "source": "Bellevue Herald Leader",
-   "region": "mid",
-   "cat": "STATEWIDE",
-   "county": "Eaton",
-   "tag": "Local Government",
-   "iso": "2026-07-29T06:00:00Z",
-   "id": "4b8e4edea48b",
-   "origin": "google-news",
-   "source_title": "Area residents seek more details on data center proposal - Bellevue Herald Leader",
-   "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMk02M1RsU2twZ1JzUEdOSjhScnF4VTJYUUdLSnFQRGhyYnd2XzRXeExWU0tOdU4yMTIwQTk2WFZ5RWE2SWJNZTFoWkI1SGk1V3VyMjJXS2haMWJ1QnVMU0hGNjFhTFFQNzhGTElKRkFXRnJjajQwd3M1SGdDdEdkQlctWFBsX1JPcW5ZMEwxSUxINGFDeXFLbF83bm1HVUJWTFV6ZzdxRmVRODNTME5iQTcyUVpxSjN1WmNNbmJGUFJ3SjZJcUlHUkx1V1FEMkJ2UmkzZUFfX3JwcnhpQ21aelBn?oc=5",
-   "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
   }
  ],
