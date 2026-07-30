@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdlVrNzJsZGRfOUcyV3dHZ3YwUlVuTFNLcnN5eDY5MENwMXVKZXJDaTM5RVNyeWRLS2cxUHpBRVo4MF9oSFFrcUpiQmhGWEpnU084dVlUbUp3WFBIajA4NTV2b3FTM2Ytb3JETnFpNS1YWjdfd0tWSGQ0OFNDdGd3NWl2OHJpM21KN2hDY2ppM1NHaTBLLVRGM2pfRFB1WVlrMm9SY3h3MGw?oc=5",
-   "title": "Benson says no family money tied to Michigan data centers",
-   "at": "2026-07-14T22:34:28+00:00",
-   "by": "news_judge",
-   "note": "score 5/10: Official statement from Benson responding to allegations is a new development distinct from the earlier criticism story already live."
-  },
-  {
    "url": "https://ypsitownship.org/government/boards___commissions/board_of_trustees/data_center_information.php",
    "title": "UM-Los Alamos computing site spans 144 acres in Ypsilanti as water moratorium holds",
    "at": "2026-07-14T22:34:28+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-07-30T17:59:31+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Duplicate of already-live 'Hyperscale cashes out Bitcoin to bankroll Michigan AI campus' and killed 'Company dumps 100 Bitcoin to bankroll artificial intelligen"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPek5mTXlaUlB1dnBWaW5JaExXaVl5YXNVR2JVQUd0REhpLUNVZ1pVbFo1TV9LcGdYLUdjaG9rNnk5ZGhxV09tSzNzTWIyU09jNm5yanJxT0xuUkNIandXOUdURzVGb1dTMHZ6LUVfYmJzM2hNcFNWRTBCRkVxWkJheW5HSWFfLWQ0ZFVYTUVXZktnazBuc3FRN0M4a2V1RVUtZ2VHdG1JNXRZVExsa2RPekdpMmdRRm4zazJ0V3ROdTI?oc=5",
+   "title": "Hyperscale Data cashes in 100 BTC to push Michigan AI campus ahead",
+   "at": "2026-07-30T19:45:06+00:00",
+   "by": "news_judge",
+   "note": "score 1/10, duplicate: This is the same Bitcoin liquidation event already covered in multiple killed stories (Company dumps 100 Bitcoin, Hyperscale sells 100 BTC, Hyperscale Data cash"
   }
  ],
  "auto_published": [
@@ -2307,6 +2307,18 @@
    "title": "Tech giants seek approval to dump treated water from Michigan facility into river",
    "judge_score": 8,
    "at": "2026-07-30T17:59:31Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNmRrdjJpUExCT3cydHFwbXZIVEd6b29hOVRHTkFtXzFqUUppMWhEMmNJSDY4N3ZkZkpvdFQwWXVyOUVuM3BLOWxLazZDRGFyWVFwUGhXeU9nckNDLWU3LTNYNnVMRjlMRmhFRjNienRqUnpoQnNkMF91SG5wSS1XSG9YLVBaN2FIMWZYYjlNV2J6YlppU2gzcThFU0FJQkItTGtOUjhjMXFidw?oc=5",
+   "title": "Council hopeful wants power-grid pause to block server farms until rural impact known",
+   "judge_score": 6,
+   "at": "2026-07-30T19:45:06Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPWXA2S3FEQXBjNzZzNk50NEJpS2RIWUFWTUthRlhqbVM2a1QwenFWbDR2UTl6QnNBMmFjZVVfeGZkc28yYzdRRjFIQk5HSUJPUDFMcXljdGNFQTRiVDAybGV1Q0t6b3VrcGVKNDY3S0FOVXNhUGpLb0JwaC1pd3Nibk01N1NPNnZkLU9Jd2pqSmtoVm5aLWFYZm1HZUx3ck16Ym9JMVhXSl9OR3FaM2R2TENwMXd1R2xsTFFia1dzNGJXVkxUZHk2U2EyZlRlS1NhLVB3b1RwUU1GLTR4RTcxa2kzR3ZoTV80cUVXdU54UG03aXZoQzItQVdDaw?oc=5",
+   "title": "Michigan residents to hear power, jobs, tax details at August data center session",
+   "judge_score": 7,
+   "at": "2026-07-30T19:45:06Z"
   }
  ]
 }
