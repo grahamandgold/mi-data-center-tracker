@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-30T00:59:39Z",
+ "updated_at": "2026-07-30T04:13:23Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Cass County residents organize to shape future data center rules",
+   "dek": "Local groups are preparing to push zoning changes before more proposals land. The moves follow the Dowagiac project and aim to protect farmland and quiet roads. County decisions will decide how much industrial load the area accepts.",
+   "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNd3JGWmJ0ZS05bHY3S0J5S3AzYnBwV2Ntb3I4RnBwekhsWWpZMFgzR3RZaXZXVm1fSkxKaEdKd2Y3TFpUY1lhc0RvOEZueTB6S1FhbEZFREdQQmFXTndNUjItdk5jTzR2N0k4cF9weXFqZW9aNzlmU3BvQmg5QTdrZFZ2bnhtb015alBNUEJmTWZkcmNYcXM0ZjVwcW5qTkxYTmdMOVlrOTNzSWd0UExiU3ZYMEJCdC14bVZfVGJQM3RkVTN2NlFtLXZtTERRay1fWTA4OFlEM2JOWjBXTUNpaHNhV0pIU29MUF8yczNTR19fUGctRjdRTVNNa2dodmlTdzRobkdhWVdBQ3hMbWtucGFhcVZKbkI1amRlUFlLdmkyMUw2WUltN01QMkFrV205cy1vM19BbGxpNXl3X2lqNTVMazQ0UldOZ0pheU11WFBQZW8?oc=5",
+   "source": "WSBT",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Cass",
+   "tag": "Local Government",
+   "iso": "2026-07-30T01:45:46Z",
+   "id": "8b86e16d87c7",
+   "origin": "google-news",
+   "source_title": "Residents prepare to act on future data center proposals in Cass County - WSBT",
+   "source_url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNd3JGWmJ0ZS05bHY3S0J5S3AzYnBwV2Ntb3I4RnBwekhsWWpZMFgzR3RZaXZXVm1fSkxKaEdKd2Y3TFpUY1lhc0RvOEZueTB6S1FhbEZFREdQQmFXTndNUjItdk5jTzR2N0k4cF9weXFqZW9aNzlmU3BvQmg5QTdrZFZ2bnhtb015alBNUEJmTWZkcmNYcXM0ZjVwcW5qTkxYTmdMOVlrOTNzSWd0UExiU3ZYMEJCdC14bVZfVGJQM3RkVTN2NlFtLXZtTERRay1fWTA4OFlEM2JOWjBXTUNpaHNhV0pIU29MUF8yczNTR19fUGctRjdRTVNNa2dodmlTdzRobkdhWVdBQ3hMbWtucGFhcVZKbkI1amRlUFlLdmkyMUw2WUltN01QMkFrV205cy1vM19BbGxpNXl3X2lqNTVMazQ0UldOZ0pheU11WFBQZW8?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Walberg flags robotics job risks tied to Dowagiac data center",
    "dek": "U.S. Rep. Tim Walberg is raising alarms over potential robotics work linked to a planned data center in Dowagiac. The warning comes as residents weigh local job gains against automation concerns. Cass County voters will track how the project affects employment and training needs.",
@@ -169,23 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMk02M1RsU2twZ1JzUEdOSjhScnF4VTJYUUdLSnFQRGhyYnd2XzRXeExWU0tOdU4yMTIwQTk2WFZ5RWE2SWJNZTFoWkI1SGk1V3VyMjJXS2haMWJ1QnVMU0hGNjFhTFFQNzhGTElKRkFXRnJjajQwd3M1SGdDdEdkQlctWFBsX1JPcW5ZMEwxSUxINGFDeXFLbF83bm1HVUJWTFV6ZzdxRmVRODNTME5iQTcyUVpxSjN1WmNNbmJGUFJ3SjZJcUlHUkx1V1FEMkJ2UmkzZUFfX3JwcnhpQ21aelBn?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
-  },
-  {
-   "title": "DTE lands big data-center contracts even after missing earnings targets",
-   "dek": "DTE’s latest quarterly slides show new data-center deals are driving growth despite an earnings miss. Those deals will shape future power rates and grid investments across southeast Michigan. Ratepayers ultimately pay for the infrastructure needed to serve the new load.",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd0VzM2NaOE42REdZRm1nd3VMd0xkbDFOblBDVzBFM3Uyc0s0ZzNncFd3T1lWal90bGhVaGx3WFpud25TRU5FN2liQUl1bkMyal9raWE4bDlrRVB1c3l1OEh1anpOVHhWdFZsLXI3aXB5UGNSS0dJY1UtbERyM3Z6eC1ldzlacnZZa2xKX2ZLaE9LNlNGNWxQWjFuMXhuVkJSREtuTjE2RTdQX3FPOHlaNjA1UXVOTDU5ZnpJSVREb2pZWFB3OUE?oc=5",
-   "source": "Investing.com",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Wayne",
-   "tag": "Power & Grid",
-   "iso": "2026-07-28T14:29:43Z",
-   "id": "c12392f460ae",
-   "origin": "google-news",
-   "source_title": "DTE Q2 2026 slides: data center deals fuel growth despite earnings miss - Investing.com",
-   "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd0VzM2NaOE42REdZRm1nd3VMd0xkbDFOblBDVzBFM3Uyc0s0ZzNncFd3T1lWal90bGhVaGx3WFpud25TRU5FN2liQUl1bkMyal9raWE4bDlrRVB1c3l1OEh1anpOVHhWdFZsLXI3aXB5UGNSS0dJY1UtbERyM3Z6eC1ldzlacnZZa2xKX2ZLaE9LNlNGNWxQWjFuMXhuVkJSREtuTjE2RTdQX3FPOHlaNjA1UXVOTDU5ZnpJSVREb2pZWFB3OUE?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {
