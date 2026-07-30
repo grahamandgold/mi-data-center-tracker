@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX1VJam1WUUJ0YVJ0MmdFUjVITFEyT0NjTTNGU2lZdFdrTHVUYUpaRm1EaHBVRks4eUF2NE9hX0lQRjNUWGtSZVA3ZWt3c3dveHBfd25zUlpMM0Q3MlVXSkVzQjlSaDlrbXZzQ01RR1RuajFrTW83NGNuV2xSSXVlMFpWeEQ5QXhpRlVmc1d0ZjRzUDlPVlFyNnZ0dFcwcE9yeTdTZXZ6ZVZMY29xWEFiQzVBNmdYeU9FSm9Yem5sMkxscFZFY3BPNdIB3AFBVV95cUxNOVRJSGQycEVqMWY4STRiRUhUSEdINk1SOFM3QlVTanAwLUczRk9wNjB5NE1vVDdCZmpaUVlRaE93anpMODd1NFFwbFBkQ2lTS1ZiOWJSa3k0OW1JSC1DeVROdWFfdnA4WFBrLW90Y2psVlNPWXh4ZlVFbUxZWl9uRy1vM29aWjF0bHFYWk1VZEZlTHVtMWVHV0dDYlhWUFlzdWhBTlpFakRyeHQxNGpwYVdsWTJ6Zl9fbnJRNGhkZnlER1M5NDNnTzVfTnhzbFpsR0poQjRnZHJYZ29j?oc=5",
-   "title": "Michigan homes lose peace and quiet to round-the-clock data center din",
-   "at": "2026-07-14T19:39:18+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Generic rehash of the Dowagiac noise complaints already covered multiple times in killed stories; no new event or decision reported."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb2FuT3NUdGItOGVxR3YwODdnSnFmRl90ZkhtbWtPanM3UEhlTkxLaEpwOFZPbXJiNjluVS1OYzlrQVVkUXpoTmVhOG43QzhkNUpScEFCRjJnNVNFb0xvTDIxUlhfZEpVUUlMdW16RVpoUzhiV3NxMjNjSkxQeWtBajRMMUg2QzZQTVJxaFpwd0lrOWRJeHBsajRpYWh2c09z?oc=5",
-   "title": "Dowagiac neighbors demand Hyperscale fix noise and traffic from its new site",
-   "at": "2026-07-14T21:08:49+00:00",
-   "by": "news_judge",
-   "note": "score 4/10, duplicate: This is the same Dowagiac/Hyperscale noise confrontation already covered in the live story 'Hyperscale developer faces Benton Harbor residents over noise and tr"
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeXlDb2dtdXZ1eE1kZjhRZW9ud3dTUUtnRThzcDhoaldBRWNTcXhQWmptYVFMdnA2NjR5TXFsYjVPWC1xemVsbHhvUEV0OGQySDhFRWVBWm1BMDl1RTQzQVl1NTh5RjFJc09COTZUTnpEYnlkRFRBdm5RNlItMmFtQ2d6RFVLWjY2eUJGa1JpU0czMU5lOXhTTEhaTEhHaHZUVlZwdU1mSmxiWC14bGc?oc=5",
    "title": "Huron Valley unions demand statewide data center freeze",
    "at": "2026-07-14T22:34:28+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-07-30T14:25:30+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Duplicates already-live 'Hyperscale cashes out Bitcoin to bankroll Michigan AI campus' — same Bitcoin liquidation for Michigan AI facility."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZl84V250LW9SLWdBS0RoUGc2dkh4ZlZUVU0yMXZBLXRmQzlwRV96dTVYdUlhV3RnaTZVbGtUMmZKYzhmbG5TTVN5LWhLYnhkV2Z6NXlSOTFGaUZ1YlhUYWtPWVdLQnBkNjAwN3B3dkdYZ0tQSDdnQ1BRdVJPVEt3bmpEZEFlZ0taR0hLVTg2OEczUHE0WGM2X3lzSQ?oc=5",
+   "title": "Surveillance expansion and infrastructure strain collide as official warns residents",
+   "at": "2026-07-30T16:09:14+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: An official's comments linking data centers to surveillance are speculative and lack a concrete action, filing, or decision."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdFNkUDRNbVpBeWxMYzd1UGlGU1hMdlJBRmRlOGQxY0RXaGszNHhOT0ZGZEtVQ2R1N0hFdmJHV2FWWmhtYWZjdHI5ZXdjODd4MjJfMzhhMndGQVhTYkt5YkF5TGRxU3JoM1k1Vk9LOVRybFV3ZC1oalNpbTF3Z1Ffbm5NY3dvc191Q01ueTdxajBUOUhRcEdMZXRvenlyWkRBVmF4UTBUMlhJTGx1b1NxTXYzdW0xQjhTdVdXY25lX2NiZWFxZ0E?oc=5",
+   "title": "Hyperscale sells 100 BTC to bankroll Michigan AI campus",
+   "at": "2026-07-30T16:09:14+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This is the same Bitcoin liquidation story already live as 'Hyperscale cashes out Bitcoin to bankroll Michigan AI campus' and killed as 'Company dumps 100 Bitco"
   }
  ],
  "auto_published": [
@@ -2295,6 +2295,12 @@
    "title": "Saline data center backers funded Haley Stevens",
    "judge_score": 7,
    "at": "2026-07-30T14:25:30Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYUw4Zi13UEtKQ1F4N1B4cS1nWE1mV3R6VjZveWNhYkpnYTA2R0djYW4tYTZ3dDFEcnJFUWZLQ0JhaTM1eFVSNDFhM2Jtel9aOG1vc0pXSTUyQml2NUNHMFR0NUpEa1VpR3hRcV9jSnh3VklzRkIzYW56MV9WbzRySXo5RlpkNGNDbnZHa0hWcUhzRGdVOE9ETV9wTlhEQjE5M3pLZ3dUVUI0VWxwNGxzeUZSZUNkLWhUVFpfTWRBb25YUVF6YTUwdmI2MnBTNnFi?oc=5",
+   "title": "Court rules in Shelby data center annexation fight",
+   "judge_score": 8,
+   "at": "2026-07-30T16:09:14Z"
   }
  ]
 }

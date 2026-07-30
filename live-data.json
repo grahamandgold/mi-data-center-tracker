@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-30T14:25:30Z",
+ "updated_at": "2026-07-30T16:09:14Z",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -18,6 +18,23 @@
    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc2liZ0tQZ2M3aTlpNXFuYm92dUVfaHhDS3pWVGwtcGpCUDVpcVU1dHVEbW9ram1lMXdvZDNXeDdIR3gyZ3praFp4YlFYNTItV2Jod2ZOb0VhazZCem1JU2x0Q0lVVUJJZWM4OWdsMmFUTGZGcWhzMDZMczNETnpwRzhXNGJNWlhIT08wejVmTjRjTWNKMUpuUDZrR1k?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
+  },
+  {
+   "title": "Court rules in Shelby data center annexation fight",
+   "dek": "A judge has issued a decision on whether the site can bypass county oversight. Macomb County residents now face clearer rules on how future projects can be approved. The outcome affects local control and potential tax revenue.",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYUw4Zi13UEtKQ1F4N1B4cS1nWE1mV3R6VjZveWNhYkpnYTA2R0djYW4tYTZ3dDFEcnJFUWZLQ0JhaTM1eFVSNDFhM2Jtel9aOG1vc0pXSTUyQml2NUNHMFR0NUpEa1VpR3hRcV9jSnh3VklzRkIzYW56MV9WbzRySXo5RlpkNGNDbnZHa0hWcUhzRGdVOE9ETV9wTlhEQjE5M3pLZ3dUVUI0VWxwNGxzeUZSZUNkLWhUVFpfTWRBb25YUVF6YTUwdmI2MnBTNnFi?oc=5",
+   "source": "Shelby News",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Macomb",
+   "tag": "Local Government",
+   "iso": "2026-07-30T13:52:00Z",
+   "id": "ff5122b631d3",
+   "origin": "google-news",
+   "source_title": "Court issues judgement in data center annexation case - Shelby News",
+   "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYUw4Zi13UEtKQ1F4N1B4cS1nWE1mV3R6VjZveWNhYkpnYTA2R0djYW4tYTZ3dDFEcnJFUWZLQ0JhaTM1eFVSNDFhM2Jtel9aOG1vc0pXSTUyQml2NUNHMFR0NUpEa1VpR3hRcV9jSnh3VklzRkIzYW56MV9WbzRySXo5RlpkNGNDbnZHa0hWcUhzRGdVOE9ETV9wTlhEQjE5M3pLZ3dUVUI0VWxwNGxzeUZSZUNkLWhUVFpfTWRBb25YUVF6YTUwdmI2MnBTNnFi?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
   },
   {
    "title": "Hyperscale cashes out Bitcoin to bankroll Michigan AI campus",
@@ -171,23 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZzVQeTBBTXJpMjE5TTJPa3VZb19EQ2tGaWVrVFBjZndKYlUwMkt5NXhrUUtoQk5rWExnQkowdEdwX1lsWE1XOXp0Yml6MkNrSG9MRjlXckk1UVE5alRzUlUwV1BwcW5HMDN4djhEVWM4RHRJUlk3ZEhBREFtSVpfejFKdGxvME4wZW9oN3JuOEl4a05TWER4eFFjOEhFay1RbXpsUW1BeWJqR0ZKd2YzbEYyZUhRcXpQRGRwQnBFMmhGU0hnVUVxUjAxbw?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
-  },
-  {
-   "title": "DTE queue for data centers tops 8GW after Oracle, Google deals",
-   "dek": "DTE Electric now lists more than 8 gigawatts of proposed data-center load, driven by signed agreements with Oracle and Google. The surge means higher power demand that will shape rates and grid upgrades for southeast Michigan customers. Residents will feel the effects through future bills and decisions on where new transmission lines and substations are built.",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOc005dnYtQ3plZUxGa1NZaFlCRHhHWmEzVmpVNnNHOExIaXVrd3B3SmdQS0hFLThHOUo2RElfbWxWakVsaXdfczNEd2QyQTFsVmRzUHBIcWxCVVh0OUJCeGpCclA1T3pnek1HTFZtNXozTndacVdpbVd4SXE4VWE0Z3pVTXhDLVdaUDUycVlvdTRZUFlmTVN2NDBUbEFNR0ZCRWRWamF1eE0xazhIenBvNDg3VGxoSVM4SUtkdWF1TzBlcmd3MHdHV0xEWDBMSjZockJ6MEZnOWlwR1BCMm1wUi1VRFRmLXZhcUUxcA?oc=5",
-   "source": "Data Center Dynamics",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Power & Grid",
-   "iso": "2026-07-29T10:20:39Z",
-   "id": "6db1822a2afb",
-   "origin": "google-news",
-   "source_title": "Michigan utility DTE data center pipeline increases to more than 8GW, on the back of deals with Oracle and Google - Data Center Dynamics",
-   "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOc005dnYtQ3plZUxGa1NZaFlCRHhHWmEzVmpVNnNHOExIaXVrd3B3SmdQS0hFLThHOUo2RElfbWxWakVsaXdfczNEd2QyQTFsVmRzUHBIcWxCVVh0OUJCeGpCclA1T3pnek1HTFZtNXozTndacVdpbVd4SXE4VWE0Z3pVTXhDLVdaUDUycVlvdTRZUFlmTVN2NDBUbEFNR0ZCRWRWamF1eE0xazhIenBvNDg3VGxoSVM4SUtkdWF1TzBlcmd3MHdHV0xEWDBMSjZockJ6MEZnOWlwR1BCMm1wUi1VRFRmLXZhcUUxcA?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
   }
  ],
  "national": {
