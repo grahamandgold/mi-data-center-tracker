@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-30T22:39:50+00:00",
+ "updated_at": "2026-07-31T00:12:27Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "District C race hinges on pausing AI server farms until power, zoning rules catch up",
+   "dek": "The two contenders for District C on the county council say local rules are not ready for large AI projects. They want a pause while the county studies power demand and zoning. The race could set the tone for other southwest Michigan townships.",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQmZ3Q2I4eVRlNXc0TnBaMmhPTmY0NmR4Y2FjdU53c1RhTVItNVZPcERVV3o2S3pyTUljaVdkbEluOXJvcVhGdGZ4MWlMT3l1M3FkMTFnS2ZzdnBSd3dhM1pfTUZoUWpIYnlkV2J6MG5PMXlSd0FlSUY0eWxOeGJvM0phcThpeWRiVl9tMnNFSEJKUnVSaFVDMllNTXVMVFpaWXpFVHFERWVuMnJwU002ZWl30gHGAUFVX3lxTE5ua1NfdVFNdURqVUh6MlhPdjR6Szhwc2ZTYjdEaXJWTF9UQ1lMU1Njemd1T2ZCc29aTXkwemdVVTFnTWg3Q25CeFRyeENqTXhmbXhxZU1RMmdnV3JlYjBCdDFUbk9Qb3d4cWlRNnZzSUR2YlFaei1RMTRuY2J6TkJ6QlRCTk1aV1RJdG5TaWxwekViUmRkMHFSTmlKdkVKbnM0b2h2OUlRZmZvZHdjMzlEWG5yeTJUUDVzVkdtVGdpRkthLVBUUQ?oc=5",
+   "source": "WNDU",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "St. Joseph",
+   "tag": "Local Government",
+   "iso": "2026-07-30T23:21:00Z",
+   "id": "79c8e84d795c",
+   "origin": "google-news",
+   "source_title": "Both candidates for St. Joseph County Council District C call for data center moratorium - WNDU",
+   "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQmZ3Q2I4eVRlNXc0TnBaMmhPTmY0NmR4Y2FjdU53c1RhTVItNVZPcERVV3o2S3pyTUljaVdkbEluOXJvcVhGdGZ4MWlMT3l1M3FkMTFnS2ZzdnBSd3dhM1pfTUZoUWpIYnlkV2J6MG5PMXlSd0FlSUY0eWxOeGJvM0phcThpeWRiVl9tMnNFSEJKUnVSaFVDMllNTXVMVFpaWXpFVHFERWVuMnJwU002ZWl30gHGAUFVX3lxTE5ua1NfdVFNdURqVUh6MlhPdjR6Szhwc2ZTYjdEaXJWTF9UQ1lMU1Njemd1T2ZCc29aTXkwemdVVTFnTWg3Q25CeFRyeENqTXhmbXhxZU1RMmdnV3JlYjBCdDFUbk9Qb3d4cWlRNnZzSUR2YlFaei1RMTRuY2J6TkJ6QlRCTk1aV1RJdG5TaWxwekViUmRkMHFSTmlKdkVKbnM0b2h2OUlRZmZvZHdjMzlEWG5yeTJUUDVzVkdtVGdpRkthLVBUUQ?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
   {
    "title": "El-Sayed slams Saline data center plan over power and water costs",
    "dek": "Democratic Senate candidate Abdul El-Sayed used a C-SPAN appearance to criticize the Oracle-OpenAI project in Saline, citing its expected draw on the electric grid and local water supplies. He argued the tax breaks and infrastructure strain would fall on Michigan residents while benefits flow elsewhere. The remarks sharpen the debate ahead of the August primary.",
@@ -169,23 +186,6 @@
    "origin": "google-news",
    "source_title": "St. Joseph County Council candidate calls for data center moratorium - WNDU",
    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcTY1YTM3OXZIYnd4eU0tZTc5WHFMQjJ1Q3MwUXlCUDBEaFJBMTNteUhTT0kwb0JhLXptSmpzX2daaFNFaThaUzNXRjZfTU9wcWJ2eFBYSUFkdEw5ZEwya1BrQzE4aGItNVdLZXY4QlpWTFpBS1hTM3ZqSGU0eXRuVk1qS2lKNGVLVzVlN3BQeGRlWnpZVktudTB5dVo?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
-  },
-  {
-   "title": "Township leaders threatened as data center land battle explodes online",
-   "dek": "A viral clip sparked threats against township leaders weighing a data center proposal. The episode shows how raw local fights over power use and land are getting. Officials must still decide on the project amid the backlash.",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUEthaWdBdXJLYXJ2dGpuenZfaXktYjJZNnk5dXpCbWZYQmFSNzNRaGpTMlJ1eXNfS3hCcVBHd0pNRk9RMlhleUhIZ2tjV1VjMHJtUmNUUnpBRGVlNHUtWnpvTEpKQ1E5eERtT0prUi1DU1hXR1dfbzIwanhvWGpkcEFTVnNIeGlEa2FrMDB6bjBoQWpHN1UtX2pud2tzT1RhN09VNk9TaXd2X01USWg5V3dnRUxhdFRlVkVFUTFmUnQtNzh0Zmc3SlctendjMVJBcWNjV2pXSC05VE1XN0RkOTVTaWlXaXpEVTJ4Ui1zYw?oc=5",
-   "source": "Livingston Daily",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Livingston",
-   "tag": "Local Government",
-   "iso": "2026-07-29T17:21:00Z",
-   "id": "16c08134e980",
-   "origin": "google-news",
-   "source_title": "Tyrone Twp. officials face death threats after viral data center clip - Livingston Daily",
-   "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUEthaWdBdXJLYXJ2dGpuenZfaXktYjJZNnk5dXpCbWZYQmFSNzNRaGpTMlJ1eXNfS3hCcVBHd0pNRk9RMlhleUhIZ2tjV1VjMHJtUmNUUnpBRGVlNHUtWnpvTEpKQ1E5eERtT0prUi1DU1hXR1dfbzIwanhvWGpkcEFTVnNIeGlEa2FrMDB6bjBoQWpHN1UtX2pud2tzT1RhN09VNk9TaXd2X01USWg5V3dnRUxhdFRlVkVFUTFmUnQtNzh0Zmc3SlctendjMVJBcWNjV2pXSC05VE1XN0RkOTVTaWlXaXpEVTJ4Ui1zYw?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
   }

@@ -1,27 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://bridgemi.com/michigan-government/jocelyn-benson-none-of-my-family-is-profiting-from-data-centers/",
-   "title": "Secretary of State Jocelyn Benson Clarifies No Family Financial Ties to Michigan Data Centers",
-   "at": "2026-07-14T23:29:09+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicate of killed story 'Benson says no family money tied to Michigan data centers' — same denial, same topic."
-  },
-  {
-   "url": "https://www.facebook.com/WSBTNews/posts/icymirepresentatives-from-a-dowagiac-data-center-accused-of-keeping-neighbors-up/1498242059014428/",
-   "title": "Dowagiac Data Center Operator Addresses Resident Noise Complaints at City Council",
-   "at": "2026-07-14T23:29:09+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Duplicate of multiple killed Dowagiac stories about residents confronting/grilling the operator over noise — same ongoing issue, same meeting format."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeEs2eTFTVkhVWDEzVG41UVdIc0RzRUVFYzk2OVZjTUhnOGEwRHhnd2tFWWJDMlJTMmVhbE9zZ2JqaGJhUklmdFl5cVRaX21fOENVamQ5SUZfMHl3dXBMMU92YWNRR0EwMGlja19hMV8wdzI4OFVyVGNndGMzWm01TTliRXIweE1XcXZvQzZ2WE5jTmp5ZVlaUnp6WFIzaGN6eW5qcDR3b1RwdHpubFlOcjJfS29PS0V1cVHSAc4BQVVfeXFMTjBWbEl3c3VoTWFoZ2FJYThFVUVjRF9tSFdxUWlfNFVGYnlVTF9FaThCbHVGSW10T0ROT21vM0dGbjl6a3dqMkRjb0NSUHB5bUtvX21YeThscEtrangyaVMzOWRDQUh6YkxPbGJJNEhoZGhpbEY2TnowRW9sUUIxT2p4WnljZmZTRjQ3bUtXY0xBcHVKajdaZUozcUxFVG5ENUdydGw4QVl1T3dfaDdTc1BnQ1NodG1DXzd1ZG15aWZoUnY5ZG9FOTN3RlROb0E?oc=5",
-   "title": "Wixom residents push back as council weighs data center rules",
-   "at": "2026-07-14T23:29:09+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicate of already-live 'Wixom residents get say on new data center rules tonight' — same council hearing, same ordinance debate."
-  },
-  {
    "url": "https://www.wxyz.com/news/data-centers/wixom-residents-to-weigh-in-on-data-center-ordinance-as-city-council-meets-tuesday-night",
    "title": "Wixom Residents Set to Speak on Proposed Data Center Regulations at Council Meeting",
    "at": "2026-07-15T00:54:53+00:00",
@@ -1399,6 +1378,27 @@
    "at": "2026-07-30T21:19:38+00:00",
    "by": "news_judge",
    "note": "score 4/10: Explainer/educational piece about general grid impacts lacks a specific new development, filing, or decision."
+  },
+  {
+   "url": "https://www.nytimes.com/2026/07/29/climate/trump-federal-data-centers.html",
+   "title": "Trump Administration Moves to Repurpose Federal Land for Massive AI Data Centers and Power Plants",
+   "at": "2026-07-31T00:12:27+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National policy announcement about Kentucky site with only generic mention of local opposition; no Michigan-specific development."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVTRRWWpobHJDTGc2Q2E2QUw0SUs0cC1CQ0J5MkYzSG9sNWRvdUxSQU1seXRWcU9pLXZiWjhmRjBtTUd3UjB2SU9MTDhjOV9DVFM5bEExUFVrRzBVWWlJQ2Mwa0hGLXhMOWFJUHNjNU9PUXpJX2I5eTMzdkJoRDVNTnZyc0gwV1ZqcUdQRHhaLTBPUHJrNzFIR0MtSklPUnYxWVJUUmZ3bm04T2I5Rm13a0pJZVhhdzh6NGRDVmJTU0ZHQVBYNjdLa1NhWnZSSEtqRG5mMXZVMmJQQ2c1?oc=5",
+   "title": "Crypto mine backer pitches AI facilities as Michigan locals recall noise, power complaints",
+   "at": "2026-07-31T00:12:27+00:00",
+   "by": "news_judge",
+   "note": "score 5/10: Incremental follow-up connecting past crypto mine complaints to current AI facility discussion, but no new decision or filing reported."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VYzhUT0RUVzlsSkpGYko4ckY1ZWRCNEFJRWxFUTE3V09oU3U4TzRrSF9jQURObGFOempKZV9WcDdtdl9FaG9uQ3hKZDhDUk5oYjBSZHJTZ2xzeDg3ZTl0Wm0weS1MMGdfOTFaM3lXQVFnVnZNZ1cxY0hfdTlCZw?oc=5",
+   "title": "El-Sayed says Saline Township data center is the wrong project for Michigan",
+   "at": "2026-07-31T00:12:27+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: El-Sayed criticizing the Saline data center is already live in the first ALREADY-LIVE item; same candidate, same project, same criticism."
   }
  ],
  "auto_published": [
@@ -2325,6 +2325,12 @@
    "title": "El-Sayed slams Saline data center plan over power and water costs",
    "judge_score": 6,
    "at": "2026-07-30T21:19:38Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQmZ3Q2I4eVRlNXc0TnBaMmhPTmY0NmR4Y2FjdU53c1RhTVItNVZPcERVV3o2S3pyTUljaVdkbEluOXJvcVhGdGZ4MWlMT3l1M3FkMTFnS2ZzdnBSd3dhM1pfTUZoUWpIYnlkV2J6MG5PMXlSd0FlSUY0eWxOeGJvM0phcThpeWRiVl9tMnNFSEJKUnVSaFVDMllNTXVMVFpaWXpFVHFERWVuMnJwU002ZWl30gHGAUFVX3lxTE5ua1NfdVFNdURqVUh6MlhPdjR6Szhwc2ZTYjdEaXJWTF9UQ1lMU1Njemd1T2ZCc29aTXkwemdVVTFnTWg3Q25CeFRyeENqTXhmbXhxZU1RMmdnV3JlYjBCdDFUbk9Qb3d4cWlRNnZzSUR2YlFaei1RMTRuY2J6TkJ6QlRCTk1aV1RJdG5TaWxwekViUmRkMHFSTmlKdkVKbnM0b2h2OUlRZmZvZHdjMzlEWG5yeTJUUDVzVkdtVGdpRkthLVBUUQ?oc=5",
+   "title": "District C race hinges on pausing AI server farms until power, zoning rules catch up",
+   "judge_score": 6,
+   "at": "2026-07-31T00:12:27Z"
   }
  ]
 }
