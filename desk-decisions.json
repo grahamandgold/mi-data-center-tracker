@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.mlive.com/news/ann-arbor/2026/07/township-near-ann-arbor-approves-much-smaller-tax-break-for-43b-oracle-openai-data-center.html",
-   "title": "Saline Township Approves Smaller Tax Break for $43 Billion Oracle Data Center",
-   "at": "2026-07-15T11:13:16+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: This is the same Saline Township Oracle tax break vote already live as 'Saline Township caps Oracle tax break at $4.8B after rejecting bigger cut.'"
-  },
-  {
    "url": "https://www.facebook.com/mlive/posts/wixom-city-council-will-review-and-vote-on-two-data-center-issues-one-is-to-set-/1498865178937614/",
    "title": "Wixom City Council Set to Review Data Center Moratorium and Related Proposals",
    "at": "2026-07-15T11:13:16+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-07-31T06:52:42+00:00",
    "by": "news_judge",
    "note": "score 4/10: Thin trend piece aggregating campaign positions already covered in live stories (District C race, El-Sayed opposition) without reporting a new filing, debate, p"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ3AtaEdoZVpzSFZHekh2QWFZTHp1Y2Vfc2JRR2pTcDk5dnZ4bWVMUDNlY2h2T2FNUFVNVHZiSWktdHBiYmV2SFRvQlBnVEdsOXMxcmJnY3NtY2x2aFdEZTZ1YjRCU2JJS2hFN1JoZXF5a2o3LTRTNkEzTTg1RllmLWgxNjhwZE1zNVB4M3JSYjJJQmtabXNoNVprRGJhUi0yVkIzR3M4RmdycWJ5SUVLMkJmQS0yMzRyamNj?oc=5",
+   "title": "$6M crypto liquidation fast-tracks Michigan data center, hastening grid strain",
+   "at": "2026-07-31T09:51:06+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This is the same Bitcoin liquidation story already live as 'Hyperscale cashes out Bitcoin to bankroll Michigan AI campus' and killed multiple times in various r"
   }
  ],
  "auto_published": [
