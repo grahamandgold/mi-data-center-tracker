@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-31T00:12:27Z",
+ "updated_at": "2026-07-31T04:04:52Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Saline data center seeks river discharge permit amid local pushback",
+   "dek": "A permit application for discharging into the Saline River is now open for public comment, tied to a major data center project. Residents in Washtenaw County face potential impacts on local water quality and usage from the facility's operations. The filing highlights ongoing tensions over infrastructure demands in the township.",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcU1VckVMMXNVQnVZcVlZWDJBUUVEcTQ0dmlyUkJuVG5JWWJsTTBlalZtUTR3NTdwQ05DcnBQSWVDVVhvbTZGWVl2NDdNTm00NGtWbEdURTJzeVBsRHFfdUM0N2hFUzJlZ3ZWWmtvUFppOGw0aTRqekxtaWpDY0dOVF9tNE44ZDEzTWV4THJfalc4UWJiMUFYUGN5Ujl4NkF2VDZz?oc=5",
+   "source": "The Sun Times News",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Water",
+   "iso": "2026-07-30T23:55:53Z",
+   "id": "d8243005f728",
+   "origin": "google-news",
+   "source_title": "Weekly Data Center Watch: Saline River Discharge Permit Opens for Comment - The Sun Times News",
+   "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcU1VckVMMXNVQnVZcVlZWDJBUUVEcTQ0dmlyUkJuVG5JWWJsTTBlalZtUTR3NTdwQ05DcnBQSWVDVVhvbTZGWVl2NDdNTm00NGtWbEdURTJzeVBsRHFfdUM0N2hFUzJlZ3ZWWmtvUFppOGw0aTRqekxtaWpDY0dOVF9tNE44ZDEzTWV4THJfalc4UWJiMUFYUGN5Ujl4NkF2VDZz?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "District C race hinges on pausing AI server farms until power, zoning rules catch up",
    "dek": "The two contenders for District C on the county council say local rules are not ready for large AI projects. They want a pause while the county studies power demand and zoning. The race could set the tone for other southwest Michigan townships.",
@@ -169,23 +186,6 @@
    "origin": "google-news",
    "source_title": "Walberg warns about robotics work tied to Dowagiac data center - Moody on the Market",
    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbldQM2RFeW1ZNm83blJ2OGduOEFEZFI4UHBfV3dCd1ZBdGx4aDRHNUdYSU9ReWZEdFNjeXo0dmhlSHlpUlFWRkhkeEtxODdTYklFWlJhVFhOb1BUSVZUYXVmZ2RBNjZwS3VsY1I1NW45ZkdHZ0k1N01xSUxQSEhOWDhTY3FGUWp1YzZTVFAzeDRwdnBxMkM5XzZLRzE?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
-  },
-  {
-   "title": "St. Joseph candidate pushes moratorium to block data centers",
-   "dek": "A candidate for St. Joseph County Council is calling for a temporary halt on data-center proposals. Residents would face sudden spikes in power bills and water use if large facilities arrive without local rules. The push comes as other Michigan counties scramble to write their own limits before projects land.",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcTY1YTM3OXZIYnd4eU0tZTc5WHFMQjJ1Q3MwUXlCUDBEaFJBMTNteUhTT0kwb0JhLXptSmpzX2daaFNFaThaUzNXRjZfTU9wcWJ2eFBYSUFkdEw5ZEwya1BrQzE4aGItNVdLZXY4QlpWTFpBS1hTM3ZqSGU0eXRuVk1qS2lKNGVLVzVlN3BQeGRlWnpZVktudTB5dVo?oc=5",
-   "source": "WNDU",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "St. Joseph",
-   "tag": "Local Government",
-   "iso": "2026-07-29T21:40:00Z",
-   "id": "3439ebd23afe",
-   "origin": "google-news",
-   "source_title": "St. Joseph County Council candidate calls for data center moratorium - WNDU",
-   "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcTY1YTM3OXZIYnd4eU0tZTc5WHFMQjJ1Q3MwUXlCUDBEaFJBMTNteUhTT0kwb0JhLXptSmpzX2daaFNFaThaUzNXRjZfTU9wcWJ2eFBYSUFkdEw5ZEwya1BrQzE4aGItNVdLZXY4QlpWTFpBS1hTM3ZqSGU0eXRuVk1qS2lKNGVLVzVlN3BQeGRlWnpZVktudTB5dVo?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
   }

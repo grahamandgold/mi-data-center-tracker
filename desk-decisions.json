@@ -1,41 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.wxyz.com/news/data-centers/wixom-residents-to-weigh-in-on-data-center-ordinance-as-city-council-meets-tuesday-night",
-   "title": "Wixom Residents Set to Speak on Proposed Data Center Regulations at Council Meeting",
-   "at": "2026-07-15T00:54:53+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicate of already-live 'Wixom residents get say on new data center rules tonight' — same council meeting and ordinance vote."
-  },
-  {
-   "url": "https://www.facebook.com/theithacavoice/posts/gov-hochul-signed-a-data-center-moratorium-its-unclear-if-it-will-halt-terawulfs/1658741369586196/",
-   "title": "New York Governor Signs One-Year Moratorium on New Data Center Permits",
-   "at": "2026-07-15T00:54:53+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: National New York story with thin Michigan angle; speculative connection to Lansing project already covered."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMFZsSXdzdWhNYWhnYUlhOEVVRWNEX21IV3FRaV80VUZieVVMX0VpOEJsdUZJbXRPRE5PbW8zR0ZuOXprd2oyRGNvQ1JQcHltS29fbVh5OGxwS2tqeDJpUzM5ZENBSHpiTE9sYkk0SGhkaGlsRjZOejBFb2xRQjFPanhaeWNmZlNGNDdtS1djTEFwdUpqN1plSjNxTEVUbkQ1R3J0bDhBWXVPd19oN1NzUGdDU2h0bUNfN3VkbXlpZmhSdjlkb0U5M3dGVE5vQdIBzgFBVV95cUxOMFZsSXdzdWhNYWhnYUlhOEVVRWNEX21IV3FRaV80VUZieVVMX0VpOEJsdUZJbXRPRE5PbW8zR0ZuOXprd2oyRGNvQ1JQcHltS29fbVh5OGxwS2tqeDJpUzM5ZENBSHpiTE9sYkk0SGhkaGlsRjZOejBFb2xRQjFPanhaeWNmZlNGNDdtS1djTEFwdUpqN1plSjNxTEVUbkQ1R3J0bDhBWXVPd19oN1NzUGdDU2h0bUNfN3VkbXlpZmhSdjlkb0U5M3dGVE5vQQ?oc=5",
-   "title": "Wixom council faces resident heat over data center rules",
-   "at": "2026-07-15T00:54:53+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicate of already-live 'Wixom residents get say on new data center rules tonight' — same zoning decision and resident meeting."
-  },
-  {
-   "url": "https://www.reuters.com/world/new-york-becomes-first-state-impose-data-center-moratorium-2026-07-14/",
-   "title": "New York Governor Hochul Signs First Statewide Moratorium on Large New Data Centers",
-   "at": "2026-07-15T04:12:36+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Already killed twice as 'New York Becomes First State to Impose Data Center Moratorium' and 'New York Governor Signs One-Year Moratorium on New Data Center Perm"
-  },
-  {
-   "url": "https://example.com",
-   "title": "No major non-Michigan data center developments reported in the last 24 hours",
-   "at": "2026-07-15T06:38:46+00:00",
-   "by": "news_judge",
-   "note": "score 1/10: Non-story placeholder confirming absence of national news; pure noise with no actionable information."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSkwxdVdRM0FJT2hady0tOHVvQ2ZtYlBYZDJTRUZfTlE1OXViUGhpUEQtUmprX1JESi1HcmxFVExFR1VZa013bW1Vaml2eFVDT2JDdEN6T21UcjNGRUVKLXFUOXdDRkNfNDhRellySjhDTEVBNEFXdHIwdnV3TnJjVTZOcUpycEdqdjRiY1hKNU1mZGtzVnRqQlhneW5xNUVIU2hxUFRfLV95a1lrMTFIUlVaU2ZjLXlteFpFUVBfNjltNVNOXzJtRUh4cTl3Uk02WldsT2hR0gHqAUFVX3lxTE9acnl3aWJ2UWdkYUtweU9lU1VfaXNzaXYwZFNTNXljeU1LYktrOFVYQndrclRfUlUzbk1sYWt4OXlVYU02XzBfNm1GaVN3bEJYNWdPbDJ5YzRqT2dQWmNnU051andEUDhmb1ZuUC11b3ZQTnI1NHBpaVUzOERyYmxadVVTSjhQZzNoLUkwa3RJZ3JTZlM4dnF2WE5iekRGNTlHTDZBLVA1elpKREprWFlzMGxIUmo3Y19lTEpwSm5xaE5GNlRRclRwa0tBSzg3cHd1V1RtV3FUeXVPWEJ0Nm9ZcjY2NXc3WEdKdw?oc=5",
    "title": "Saline Township caps Oracle tax break at $4.8 billion",
    "at": "2026-07-15T06:38:46+00:00",
@@ -1399,6 +1364,41 @@
    "at": "2026-07-31T00:12:27+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: El-Sayed criticizing the Saline data center is already live in the first ALREADY-LIVE item; same candidate, same project, same criticism."
+  },
+  {
+   "url": "https://www.motherjones.com/politics/2026/07/data-centers-michigan-will-lawrence/",
+   "title": "Progressive Candidate Makes Data Center Opposition Central to Lansing-Area Campaign",
+   "at": "2026-07-31T04:04:52+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Campaign positioning piece that rehashes existing opposition across multiple townships without reporting a new filing, vote, or concrete development."
+  },
+  {
+   "url": "https://www.aol.com/articles/ai-data-centers-michigan-grid-204758000.html",
+   "title": "Michigan Grid Not Built for Gigawatt Data Centers, Expert Says",
+   "at": "2026-07-31T04:04:52+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Generic expert commentary on grid capacity without a specific project decision, filing, or timeline—reads like national trend analysis."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZjZsdThicjdVeVFxb3VybVA5S0VrNUllUV9fODg4aEJzdDA3aEpiR1cyejY5R19TNVExd01vRDJZdUt6ODYxN0N3XzY5UGxtOGhFSm5Wdy0xbDB1RjU4aVNyeGQ1NDBnUUpkaHRIT1hkTkFzSS0wTHRmSW9PMVdhNFJlT1lKWVotRzM3OQ?oc=5",
+   "title": "Hyperscale Data sells Bitcoin to fund $3B Michigan AI campus",
+   "at": "2026-07-31T04:04:52+00:00",
+   "by": "news_judge",
+   "note": "score 1/10, duplicate: Same Bitcoin sale and Michigan AI campus already covered in 'Hyperscale cashes out Bitcoin to bankroll Michigan AI campus.'"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQVVkc0JlQ0FOSk1oZEF6Y1Noc1ctM1pXSzFqTXFGNXNUcjBkeHNHcWsyTVdCYldkZ1luVGw3WTVsN1NLTDFYUTVvWmJ6Nmo4dEtESEFWWVY4ckpIaHh6emc1eHVYTFlSS0RKTGVLWkx4TkhLcWxQMFl2VzdxVmxKOTAtSWZNb015U01oOVlTWXVaSU1yNmRtaEFTUWd4cXE3ME9MRzVxV2tTQ2U3T3AwOTBHMkdRZWl0alRHOHhaNGZGMmhIdUFLdA?oc=5",
+   "title": "El-Sayed slams Saline Township data center as undemocratic",
+   "at": "2026-07-31T04:04:52+00:00",
+   "by": "news_judge",
+   "note": "score 1/10, duplicate: El-Sayed criticism of Saline project already live in 'El-Sayed slams Saline data center plan over power and water costs.'"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPaFZPMXAyMzljY1ExTzJoWXVKLV9uUnZRTHU1bmVfd2FzaDJubTFUYmNKUHQyWllKWENPb0RDY2xCa1VVSXJ0SjRCUUJqXy1wZUZ1QUlNZzFFNGoySXhEMXlQMGUyWmRNUHplXzdtSHF4M2YtbDNGMm9uSTF5cUQxTmRoYzNtMThTNnNMaFBUVTZOMFM1cy05SUZWTGhIaXpreUU1Q1dJVHl0aDVia1V5dzQ3WWtFOFNnQVdjVjg0c3pSZ09UaWg1QWdmMUdiUTdaWE1qQmxFaTdiMXdaNXpGTEgwamZXNU84NGItQ3dKMnJTSWdLZnd5MHczcFhLNVdCckwwR01hSW5meHhBVVI3Nk45UHhCQW9vaUNpcUpZSG1lLWdVVjFZcmRMU3Vsc2FrejhqSFZ2SWVCVHhIdHZLQUY3QVhIR29yZTFienZudDZsMWNtQnRMTjBQVUN3a1ZzT0NN?oc=5",
+   "title": "Cass County residents gear up to fight new data center plans",
+   "at": "2026-07-31T04:04:52+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Cass County organizing already covered in 'Cass County residents organize to shape future data center rules.'"
   }
  ],
  "auto_published": [
@@ -2331,6 +2331,12 @@
    "title": "District C race hinges on pausing AI server farms until power, zoning rules catch up",
    "judge_score": 6,
    "at": "2026-07-31T00:12:27Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcU1VckVMMXNVQnVZcVlZWDJBUUVEcTQ0dmlyUkJuVG5JWWJsTTBlalZtUTR3NTdwQ05DcnBQSWVDVVhvbTZGWVl2NDdNTm00NGtWbEdURTJzeVBsRHFfdUM0N2hFUzJlZ3ZWWmtvUFppOGw0aTRqekxtaWpDY0dOVF9tNE44ZDEzTWV4THJfalc4UWJiMUFYUGN5Ujl4NkF2VDZz?oc=5",
+   "title": "Saline data center seeks river discharge permit amid local pushback",
+   "judge_score": 7,
+   "at": "2026-07-31T04:04:52Z"
   }
  ]
 }
