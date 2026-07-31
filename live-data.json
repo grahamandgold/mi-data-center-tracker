@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-31T18:26:37+00:00",
+ "updated_at": "2026-07-31T20:05:48Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "El-Sayed rallies at Saline data center site to blast AI power deals",
+   "dek": "The Senate candidate used the Saline project as a backdrop to attack tax breaks and grid strain from hyperscale builds. Residents 30 minutes away face higher electric rates if the campus pulls hundreds of megawatts without new generation. The stop highlights how local projects are now central to the Democratic primary debate.",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNlFlRnBpaWNjZkh4UkdGMmNZUUZpbm1RUjZaNmVrWkVmbWo5SVJkZzc4NjZrUVg0Qnpmc2xyMk5qczhYMGtJNmMzNkR0dm4yc2EzMXlsYkhVNXBXOXdWc2JiY0FYZHNEQWY3Yk9KcGg5VnhpRjVIVERWS3RHRVhGRHB5bXl0ejZTbktXYkNwcE9XcGc3S3gxdGN5aS1UZkVVOTRtZWhrWWc4SlVIZTdIMXkyZXlqa3M?oc=5",
+   "source": "Abdul for U.S. Senate",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Policy",
+   "iso": "2026-07-31T18:30:55Z",
+   "id": "b9d437a8f06b",
+   "origin": "google-news",
+   "source_title": "ICYMI: Dr. Abdul El-Sayed Joins Press Conference at “The Barn” Data Center in Saline - Abdul for U.S. Senate",
+   "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNlFlRnBpaWNjZkh4UkdGMmNZUUZpbm1RUjZaNmVrWkVmbWo5SVJkZzc4NjZrUVg0Qnpmc2xyMk5qczhYMGtJNmMzNkR0dm4yc2EzMXlsYkhVNXBXOXdWc2JiY0FYZHNEQWY3Yk9KcGg5VnhpRjVIVERWS3RHRVhGRHB5bXl0ejZTbktXYkNwcE9XcGc3S3gxdGN5aS1UZkVVOTRtZWhrWWc4SlVIZTdIMXkyZXlqa3M?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
   {
    "title": "Dowagiac data center noise torments nearby homes day and night",
    "dek": "Neighbors describe a constant high-pitched whine from the facility that runs around the clock. The complaints are now shaping how Cass County will handle future proposals. Residents want rules that protect sleep and property values before more projects arrive.",
@@ -171,23 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYUw4Zi13UEtKQ1F4N1B4cS1nWE1mV3R6VjZveWNhYkpnYTA2R0djYW4tYTZ3dDFEcnJFUWZLQ0JhaTM1eFVSNDFhM2Jtel9aOG1vc0pXSTUyQml2NUNHMFR0NUpEa1VpR3hRcV9jSnh3VklzRkIzYW56MV9WbzRySXo5RlpkNGNDbnZHa0hWcUhzRGdVOE9ETV9wTlhEQjE5M3pLZ3dUVUI0VWxwNGxzeUZSZUNkLWhUVFpfTWRBb25YUVF6YTUwdmI2MnBTNnFi?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
-  },
-  {
-   "title": "Hyperscale cashes out Bitcoin to bankroll Michigan AI campus",
-   "dek": "The company sold 100 BTC to speed construction of its planned Michigan AI data center. Residents near the site will see new power lines and tax questions tied directly to the project. The move shows how crypto holdings are now financing local data-center growth.",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbFdvX2x4NzhTY1ZPRGxCWjZ0cVFzM1RhaWFPUjBLc3R6dVo4R01KNjhUZjZ6UWdkbEd2ZmlvUGpOM2JGTUFDNFdXRFFkUkpNMm1TY1k5UnVMRGs2S19SUU1HWEpEZ1Uwa3k0YWpRb3hhZlZjN2FUa0ZRYXZDQkJ6Z0tzRmFCeE5m?oc=5",
-   "source": "Crypto Briefing",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Money",
-   "iso": "2026-07-30T11:02:20Z",
-   "id": "f83718a44378",
-   "origin": "google-news",
-   "source_title": "Hyperscale Data sells 100 Bitcoin to fund AI data center buildout in Michigan - Crypto Briefing",
-   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbFdvX2x4NzhTY1ZPRGxCWjZ0cVFzM1RhaWFPUjBLc3R6dVo4R01KNjhUZjZ6UWdkbEd2ZmlvUGpOM2JGTUFDNFdXRFFkUkpNMm1TY1k5UnVMRGs2S19SUU1HWEpEZ1Uwa3k0YWpRb3hhZlZjN2FUa0ZRYXZDQkJ6Z0tzRmFCeE5m?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {

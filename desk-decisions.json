@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPc3Q3OGhjUVFyN2RSVDNLMUk0b3FkNUdlaEozSUI5MGNTT0EyVlk4dHltaGZGSHcyU3dBVFdTMnFxU1lXcDBmdUFsVHBSLVBUT2hsUEI2VFhDNTktZmI2MGJNZlJmSFRPQ0dObWtMY05XV1FwT0pwZXNmMmF5RFRkbw?oc=5",
-   "title": "Jackson set to vote on one-year data-center freeze",
-   "at": "2026-07-15T15:00:01+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicate of already-live 'Jackson halts all new data centers after council vote' — same Jackson freeze, different framing."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYzVJY3ExbktTS1d4eXE4YWVLN0V3MlRrZS1TMmVaVE9qdW9hMWpjRndWTE41Rm5Oa3lZTm91cEpTWGs5U0Q0T0YxYXVld1lJcmx2U2FKNDJ0R3QwdU5XMEZMT2Z1c1plbWFxamExOFhEcFhPYjNTVzVYSk9aYk1IRm8wY0ZvOFdyVzNRQg?oc=5",
    "title": "Oracle data center tax break capped well below request",
    "at": "2026-07-15T15:00:01+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-07-31T18:26:47+00:00",
    "by": "news_judge",
    "note": "score 1/10, duplicate: Identical to already-killed 'Hyperscale cashes out Bitcoin to bankroll Michigan AI campus' and multiple other killed Bitcoin sale stories."
+  },
+  {
+   "url": "https://example.com/national-data-center-power-2026",
+   "title": "U.S. Data Center Power Demand Surges as Tech Giants Accelerate AI Infrastructure Buildout",
+   "at": "2026-07-31T20:05:48+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece about grid operators' projections lacks Michigan-specific decision or development."
   }
  ],
  "auto_published": [
@@ -2349,6 +2349,12 @@
    "title": "Dowagiac data center noise torments nearby homes day and night",
    "judge_score": 6,
    "at": "2026-07-31T16:51:38Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNlFlRnBpaWNjZkh4UkdGMmNZUUZpbm1RUjZaNmVrWkVmbWo5SVJkZzc4NjZrUVg0Qnpmc2xyMk5qczhYMGtJNmMzNkR0dm4yc2EzMXlsYkhVNXBXOXdWc2JiY0FYZHNEQWY3Yk9KcGg5VnhpRjVIVERWS3RHRVhGRHB5bXl0ejZTbktXYkNwcE9XcGc3S3gxdGN5aS1UZkVVOTRtZWhrWWc4SlVIZTdIMXkyZXlqa3M?oc=5",
+   "title": "El-Sayed rallies at Saline data center site to blast AI power deals",
+   "judge_score": 6,
+   "at": "2026-07-31T20:05:48Z"
   }
  ]
 }
