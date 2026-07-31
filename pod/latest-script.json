@@ -1,205 +1,269 @@
 {
- "title": "Mornings with Graham & Emmy",
- "teaser": "Public comment opens today on Saline data center river discharge amid local pushback.",
+ "title": "Evenings with Graham & Emmy",
+ "teaser": "Coldwater hears data center details tonight while power, water and tax fights spread across Michigan.",
  "lines": [
   {
    "host": "Graham",
-   "text": "Good morning and welcome to Mornings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
+   "text": "Good evening, and welcome to Evenings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
   },
   {
    "host": "Emmy",
-   "text": "And I'm Emmy."
+   "text": "And I'm Emmy. Tonight Coldwater residents finally get their first public look at the proposed data centers, and the questions about power, water and tax breaks are front and center."
   },
   {
    "host": "Graham",
-   "text": "It's Friday, July 31, and our big story today is the fresh public comment period that just opened on a permit to discharge treated wastewater from the proposed Saline data center into the Saline River."
+   "text": "That's right, Emmy. The joint meeting between Coldwater City Council and planners is happening right now, giving folks a chance to hear the details before anything moves forward."
   },
   {
    "host": "Emmy",
-   "text": "Right, Graham. This feels like the latest flashpoint in a project that's already drawn plenty of attention over power and land use."
+   "text": "What exactly are residents pushing to learn at this session?"
   },
   {
    "host": "Graham",
-   "text": "Exactly. The application is tied to the Oracle-OpenAI backed facility in Washtenaw County, and residents downstream are now weighing in on potential changes to water quality and flow."
+   "text": "They're focused on how much electricity and water these projects would pull from local resources and what kind of tax incentives the companies are asking for."
   },
   {
    "host": "Emmy",
-   "text": "What do we know so far about how this discharge would actually work?"
+   "text": "That makes sense. These facilities can be massive, right? How does this fit into the bigger picture we've seen in other towns?"
   },
   {
    "host": "Graham",
-   "text": "The filing shows treated wastewater from the facility's cooling systems would go straight into the river after processing. It's the first concrete environmental price tag we've seen on the project."
+   "text": "It's part of a wave of proposals hitting multiple communities at once. Similar concerns have already surfaced in nearby townships, with people worried about the strain on the grid and local water supplies."
   },
   {
    "host": "Emmy",
-   "text": "And locals are already voicing concerns about that, right?"
+   "text": "And what about the farmland angle? A lot of these sites seem to go on agricultural land."
   },
   {
    "host": "Graham",
-   "text": "They are. The Sun Times News reports ongoing tensions in the township over infrastructure demands, with residents worried about water usage and quality impacts in an area that already relies on the river for other needs."
+   "text": "Exactly. Residents in Coldwater and surrounding areas are asking how much prime farmland might be taken out of production and what that means for the local economy long term."
   },
   {
    "host": "Emmy",
-   "text": "This isn't the first time we've seen these kinds of fights in Michigan townships. How does Saline fit into the bigger pattern?"
+   "text": "Who are the main players here? Is it just the city council and one developer, or are there multiple companies involved?"
   },
   {
    "host": "Graham",
-   "text": "It's part of a wave of proposals where hyperscale projects land in rural or semi-rural spots. We've seen similar pushback elsewhere over farmland conversion and road strain, but water is the new flashpoint here because of the river discharge request."
+   "text": "It's the council and planners briefing everyone, but the projects tie into larger companies eyeing Michigan sites. Local officials are already fielding questions from residents about the scale and the deals on the table."
   },
   {
    "host": "Emmy",
-   "text": "Who are the main players pushing this one forward?"
+   "text": "What happens if the community pushes back hard tonight?"
   },
   {
    "host": "Graham",
-   "text": "The companies behind the massive proposed facility near Saline filed the permit. Yesterday MLive noted it puts a direct environmental cost on the table after earlier scrutiny on power and land."
+   "text": "The meeting is the starting point. Officials will take the feedback and decide how to move forward, whether that means adjusting plans, adding conditions or slowing things down."
   },
   {
    "host": "Emmy",
-   "text": "And power is still a huge piece, isn't it?"
+   "text": "We've seen power demand become a flashpoint elsewhere. How big could the electric bill impact be for regular ratepayers?"
   },
   {
    "host": "Graham",
-   "text": "It is. The project is expected to draw heavily on the electric grid, which ties into yesterday's comments from Democratic Senate candidate Abdul El-Sayed."
+   "text": "That's the core worry. A single large facility can pull hundreds of megawatts, and without new generation coming online fast enough, that load can push rates higher for everyone on the system."
   },
   {
    "host": "Emmy",
-   "text": "What did he say on C-SPAN?"
+   "text": "Water is another big one. How are towns thinking about that resource?"
   },
   {
    "host": "Graham",
-   "text": "He criticized the plan over expected grid and water strain, arguing that tax breaks and infrastructure costs would hit Michigan residents while benefits flow elsewhere."
+   "text": "Cooling these data centers requires a lot of water. In places like Saline, there's already a permit application open for river discharge, which has residents asking about quality and quantity impacts."
   },
   {
    "host": "Emmy",
-   "text": "That sharpens the debate right before the August primary, doesn't it?"
+   "text": "So this Coldwater meeting feels like a test case for how other communities might handle similar proposals."
   },
   {
    "host": "Graham",
-   "text": "It does. The remarks highlight how these projects can become campaign issues when local resources are on the line."
+   "text": "It really does. What residents say tonight could influence how planners in nearby townships approach their own reviews."
   },
   {
    "host": "Emmy",
-   "text": "What about electric bills specifically? How might this affect ratepayers?"
+   "text": "Any sense of the timeline after tonight?"
   },
   {
    "host": "Graham",
-   "text": "Large data centers can increase overall demand, which often leads to higher costs passed along unless new generation or efficiency measures keep pace. The Saline filing doesn't detail exact numbers, but it's the kind of load that planners watch closely."
+   "text": "The council will likely take comments, review the details internally, and then decide on next steps, which could include more public hearings or negotiations with the developers."
   },
   {
    "host": "Emmy",
-   "text": "And water usage beyond the discharge?"
+   "text": "And the tax breaks piece — how much of that burden shifts to local taxpayers if the incentives are approved?"
   },
   {
    "host": "Graham",
-   "text": "Cooling systems at these scales pull significant volumes. The permit focuses on what goes back into the river after treatment, but upstream withdrawal is part of the same conversation residents are having."
+   "text": "That's the trade-off people are debating. The incentives are meant to attract jobs and investment, but critics argue the lost revenue has to be made up somewhere, often through higher property taxes or reduced services."
   },
   {
    "host": "Emmy",
-   "text": "Farmland and towns — how does this project intersect with those?"
+   "text": "What kind of jobs are we talking about? Are these high-paying roles or mostly construction work?"
   },
   {
    "host": "Graham",
-   "text": "The site is in a township setting where preserving open land has been a priority. Adding a major facility can shift tax bases and traffic patterns, which is why local zoning fights keep popping up."
+   "text": "The pitch usually includes both construction jobs during the build and ongoing operations roles, but residents want to see the actual numbers and whether those positions go to local workers."
   },
   {
    "host": "Emmy",
-   "text": "What happens next with this permit?"
+   "text": "This all sounds familiar from other spots. How many communities are dealing with this right now?"
   },
   {
    "host": "Graham",
-   "text": "The public comment window is open now. Officials will review input before deciding on approval, which could set precedents for similar requests in other river-adjacent sites."
+   "text": "It's heating up across southwest Michigan and beyond, with meetings and permit filings popping up in several counties at the same time."
   },
   {
    "host": "Emmy",
-   "text": "Any sense of how long that process might take?"
+   "text": "Do you think tonight's session will set any kind of precedent?"
   },
   {
    "host": "Graham",
-   "text": "State environmental reviews like this typically run several weeks to months depending on comments received and any required studies."
+   "text": "It could. If Coldwater comes out with clear conditions or a pause, other towns might follow the same playbook."
   },
   {
    "host": "Emmy",
-   "text": "Meanwhile, there's also the District C county council race heating up over these exact issues."
+   "text": "And if it goes smoothly?"
   },
   {
    "host": "Graham",
-   "text": "Yes, both contenders in that southwest Michigan district say local rules aren't ready for large AI projects and want a pause while the county studies power demand and zoning."
+   "text": "Then developers might see a path forward and accelerate plans in other locations that are watching closely."
   },
   {
    "host": "Emmy",
-   "text": "That could set the tone for other townships, right?"
+   "text": "Either way, it feels like the start of a longer conversation."
   },
   {
    "host": "Graham",
-   "text": "It could. The race is being watched as a bellwether for how communities balance growth with resource limits."
+   "text": "Absolutely. We'll be tracking how the feedback shapes the next moves."
   },
   {
    "host": "Emmy",
-   "text": "Shifting to quick hits, another story from yesterday involves Michigan residents getting a chance to hear power, jobs, and tax details at an August session."
+   "text": "Let's shift to some of the other developments from today and yesterday."
   },
   {
    "host": "Graham",
-   "text": "That's right. The public event will outline a proposed project and its local impacts, giving neighbors direct answers before decisions move forward."
+   "text": "Verrus is pushing ahead with a Michigan project even while its Salem plans stay uncertain. Local officials there are already answering questions about power demand and potential tax deals."
   },
   {
    "host": "Emmy",
-   "text": "And in Shelby, a court ruled on the data center annexation fight."
+   "text": "Which town might land it? Any hints on size?"
   },
   {
    "host": "Graham",
-   "text": "A judge issued a decision on whether the site can bypass county oversight. Macomb County residents now have clearer rules on future approvals and potential tax revenue."
+   "text": "Nothing specific yet on the site or scale, but communities across the state are watching to see where the next big facility lands."
   },
   {
    "host": "Emmy",
-   "text": "Over in Cass County, residents are organizing to shape future rules."
+   "text": "That uncertainty is keeping everyone on edge."
   },
   {
    "host": "Graham",
-   "text": "Local groups are preparing zoning changes after the Dowagiac project to protect farmland and roads. County decisions will determine how much industrial load the area accepts."
+   "text": "On the political side, Senate candidate Abdul El-Sayed rallied at the Saline site to criticize AI power deals and tax breaks."
   },
   {
    "host": "Emmy",
-   "text": "A hyperscale company sold Bitcoin to fund its Michigan AI campus."
+   "text": "What was his main argument?"
   },
   {
    "host": "Graham",
-   "text": "They cashed out 100 BTC to speed construction. Neighbors will see new power lines and tax questions tied to that financing move."
+   "text": "He said the grid strain and infrastructure costs would hit Michigan residents while the benefits go elsewhere, and he used the Saline project as the backdrop."
   },
   {
    "host": "Emmy",
-   "text": "And executives tied to the Saline project donated to Congresswoman Haley Stevens."
+   "text": "Residents 30 minutes away could see higher electric rates if the campus pulls hundreds of megawatts without new generation."
   },
   {
    "host": "Graham",
-   "text": "The donations raise questions about influence in Washtenaw County as the project advances."
+   "text": "That's the point he hammered, and it shows how these local projects are now part of the broader Democratic primary conversation ahead of the August vote."
   },
   {
    "host": "Emmy",
-   "text": "On deck, are there any meetings listeners can attend soon?"
+   "text": "Noise complaints are also shaping the debate. In Dowagiac, neighbors say a constant high-pitched whine from an existing facility runs day and night."
   },
   {
    "host": "Graham",
-   "text": "The August data center session we mentioned is one to watch — check the Michigan Data Center Tracker for exact dates and locations as they firm up."
+   "text": "Those complaints are now influencing how Cass County will handle future proposals, with residents pushing for rules that protect sleep and property values."
   },
   {
    "host": "Emmy",
-   "text": "Any others popping up this week?"
+   "text": "That kind of real-world impact could change how new projects get approved."
   },
   {
    "host": "Graham",
-   "text": "Nothing confirmed beyond that right now, but the tracker is the best spot for real-time updates on township and county sessions."
+   "text": "A U.S. representative is also calling for a Commerce Department review of Chinese robots at the Hyperscale Data Michigan site, raising supply-chain security questions."
   },
   {
    "host": "Emmy",
-   "text": "Sounds good. Full sources and the live map at the Michigan Data Center Tracker."
+   "text": "Could that lead to delays or new federal scrutiny for residents near the project?"
   },
   {
    "host": "Graham",
-   "text": "We're back tomorrow."
+   "text": "It might. Local construction jobs could be affected depending on how the review plays out."
+  },
+  {
+   "host": "Emmy",
+   "text": "From yesterday, Saline has a river discharge permit application open for public comment tied to a major project."
+  },
+  {
+   "host": "Graham",
+   "text": "Residents in Washtenaw County are watching for impacts on water quality and usage, and the filing underscores the ongoing infrastructure tensions."
+  },
+  {
+   "host": "Emmy",
+   "text": "The District C county council race is also tied to this. Both contenders want to pause large AI projects until power and zoning rules catch up."
+  },
+  {
+   "host": "Graham",
+   "text": "They argue local rules aren't ready yet, and the outcome could set the tone for other southwest Michigan townships facing similar proposals."
+  },
+  {
+   "host": "Emmy",
+   "text": "El-Sayed also slammed the Saline plan on C-SPAN yesterday over power and water costs, saying tax breaks and strain would fall on residents."
+  },
+  {
+   "host": "Graham",
+   "text": "That sharpens the debate right before the primary."
+  },
+  {
+   "host": "Emmy",
+   "text": "And there's an August session coming up where residents can hear power, jobs and tax details on a proposed project."
+  },
+  {
+   "host": "Graham",
+   "text": "That gives people a direct chance to ask questions before decisions advance."
+  },
+  {
+   "host": "Emmy",
+   "text": "A council hopeful in another area wants to halt proposals until rural impacts on power and land are clearer."
+  },
+  {
+   "host": "Graham",
+   "text": "Voters will decide whether that protects resources or slows growth."
+  },
+  {
+   "host": "Emmy",
+   "text": "Plenty to watch. Let's look ahead to meetings listeners can actually attend."
+  },
+  {
+   "host": "Graham",
+   "text": "The big one is that August data center session where the project details on power, jobs and taxes will be laid out for the public."
+  },
+  {
+   "host": "Emmy",
+   "text": "The Saline River discharge permit is also open for comment right now, so residents can weigh in on water impacts."
+  },
+  {
+   "host": "Graham",
+   "text": "And the District C race continues to shape the conversation around pauses and zoning studies."
+  },
+  {
+   "host": "Emmy",
+   "text": "We'll keep you posted on exact dates and locations as they firm up."
+  },
+  {
+   "host": "Graham",
+   "text": "Full sources and the live map at the Michigan Data Center Tracker. We're back tomorrow."
   }
  ],
- "episode_title": "Saline River Permit Opens as Data Center Water Fight Intensifies",
- "show": "Mornings with Graham & Emmy",
- "daypart": "Mornings"
+ "episode_title": "Coldwater Residents Get First Look at Data Center Plans as Statewide Scrutiny Grows",
+ "show": "Evenings with Graham & Emmy",
+ "daypart": "Evenings"
 }
