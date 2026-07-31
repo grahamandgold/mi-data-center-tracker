@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.facebook.com/mlive/posts/wixom-city-council-will-review-and-vote-on-two-data-center-issues-one-is-to-set-/1498865178937614/",
-   "title": "Wixom City Council Set to Review Data Center Moratorium and Related Proposals",
-   "at": "2026-07-15T11:13:16+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Thin agenda preview without concrete details; Wixom already had a live story about residents speaking tonight, this adds little new substance."
-  },
-  {
    "url": "https://www.usnews.com/news/best-states/michigan/articles/2025-10-31/tech-giants-announce-7b-data-center-michigans-first-hyperscale-campus",
    "title": "U.S. Data Center Power Demand Surges as Tech Giants Accelerate AI Infrastructure Buildout",
    "at": "2026-07-15T11:13:16+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-07-31T09:51:06+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: This is the same Bitcoin liquidation story already live as 'Hyperscale cashes out Bitcoin to bankroll Michigan AI campus' and killed multiple times in various r"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOFRSY1c5U3NXeXM2bWdvLXFCY0pwcTBJS2R2YmU4MW1RZVVpNlBld0ZWTVMya1A5YzREU1p2TWp3RWhRMTh2MzUzamdReExiek55ZGJzdnlpUmVUdks4QTV2N1hEb0dwUFdJbXBrNjYzQTU1X1JVRnJTZjQyeTVNbXdoZU10cDM1?oc=5",
+   "title": "Bitcoin sale funds massive AI facility in Michigan, raising power and tax concerns",
+   "at": "2026-07-31T12:07:20+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This is a rehash of the already-killed Bitcoin/Hyperscale stories about cashing out crypto to fund the Michigan AI campus—same event, same concerns, just reword"
   }
  ],
  "auto_published": [
