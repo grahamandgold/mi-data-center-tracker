@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPT1hvbDFMUDNxWXllQVhfOWV6VnVIcnBVaFhwamxKU05xWkNrNFNnWEMyeU1hZ2ZwNzNiaFB3eFBQb3ZYSnBha0xRY0xxMW5zLTNPWlg1YjV3b3NPc2t6QjVrWlZCZkRydXBwd2tXc2FvYnlqVVJPUldfeHBHRjlZRUZhdlZfRFNaaUF0dmY4UFc0OWpKVjJIbzVmYy10ampvZ0trbmxhQ01ISkFjSk1nMlVXZzE3Tl9UX2UxTU9XU0hSRXFfUXplYmNkWmg4dm8?oc=5",
-   "title": "Whitmer demands data centers sign pledge shielding Michigan ratepayers from bill spikes",
-   "at": "2026-07-15T19:48:22+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicate of already-live 'Whitmer urges data centers to sign pledge shielding ratepayers'—same governor's voluntary pledge announcement."
-  },
-  {
-   "url": "https://www.mlive.com/politics/2026/07/whitmer-calls-on-data-centers-to-sign-pledge-they-wont-increase-utility-bills.html",
-   "title": "Whitmer Urges Data Center Operators to Pledge No Rate Hikes for Residents",
-   "at": "2026-07-15T21:10:31+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicate of already-live 'Whitmer urges data centers to sign pledge shielding ratepayers' — same pledge announcement."
-  },
-  {
    "url": "https://www.govtech.com/products/michigan-city-rejects-data-center-waiver-request",
    "title": "Wixom Keeps Data Center Moratorium After Health and Noise Warnings",
    "at": "2026-07-15T21:10:31+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-07-31T21:18:37+00:00",
    "by": "news_judge",
    "note": "score 9/10, duplicate: Same discharge permit request as live story 'Saline data center seeks river discharge permit' and candidate [1], just different framing."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbk5Wdnd3VWprWG5ITGJ5WVZySTRfT2drenUzT3ZIWm1SdUJZX3dvUzIxYW9JREIyZ3ZiMnk5N29tUkxMVGpmcXF3NnpyNnlPN2t0Vm50NjVucGo5blJyU0VfNDdUbHRNVmtPRzhCVmRFcjFKd3RoakJYUHpUcEpGVkd1ZmpvNXFVbE5IQndqZEIxV2xqRFEwUF9WRUpzR3lHWlVYRFZzTzhlYzM1ZjZraUY1clZrOVpCdmNlV3N0UFZoUWdHM0VldTg3Qks?oc=5",
+   "title": "Michigan residents lose sleep to nonstop roar from computer warehouse next door",
+   "at": "2026-07-31T22:35:51+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: This is the same Dowagiac/Cass County noise complaint story already live, just reworded."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYXhsQ1NZYlYxaWhTNzl5SkVmNXJCY3Zid3FFUGcwVHZUYUZ0VTNyY1dGUWxFc2dic19nQlkxeEhiX0ZHRHJNMGcyTS1vT3k4M3RaSmljQ1FhLXdBbk93c3JJYWV6aGgyR2ZrQ3NjdEh2Q09ncnI4d3NMWnBRWHUxU3ZnR0p1NnVRYkdDZTZucnZxTGV4N00zNHdlbTFjc05DUTk0YVd1aVZVd0d1QmFLMUNDRnFtbTZyZVBjTHBBT0FoTG5iVnJ5RC12b3I3UGtTYXdnMDlkUDZFRXM?oc=5",
+   "title": "Oracle and OpenAI data center seeks OK to dump wastewater into Saline River",
+   "at": "2026-07-31T22:35:51+00:00",
+   "by": "news_judge",
+   "note": "score 4/10, duplicate: Same Saline river discharge permit already covered in two live stories, no new development reported."
   }
  ],
  "auto_published": [
@@ -2355,6 +2355,18 @@
    "title": "El-Sayed rallies at Saline data center site to blast AI power deals",
    "judge_score": 6,
    "at": "2026-07-31T20:05:48Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNk5VRE10X21VdXBVSVlNcHhYdUd4Nnh4UExkcDcyYW5oNVVaTDlLT09hS19MQ1U3cUw4S3A1OHZXc3R1TTE0UzBWRWw2N2I1RUJTTGZ4UHNCRjNCaWdzNXVsbE5tS2p6cGZfQV92UWdkVGUzNnZEZk9pd25abGtHWGlFMTE0cFQwWGN1aWtNcm5MUVZvRmlDVEZwdHQzWjhJb201WmJNc0VqMG1sbWt5TUxWbHE?oc=5",
+   "title": "Verrus pushes ahead on Michigan data center while Salem site stalls",
+   "judge_score": 6,
+   "at": "2026-07-31T22:35:51Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1DV3RESUN5NTkxNWxUNmc2QUNXSFIyaXZVYkdtZ04yYjRLa2preGxCQzJDOExyYzQwSUhSVklDUEtfcmROOFVqdU5QODJfZw?oc=5",
+   "title": "Coldwater residents get first look at data center plans at joint meeting",
+   "judge_score": 7,
+   "at": "2026-07-31T22:35:51Z"
   }
  ]
 }
