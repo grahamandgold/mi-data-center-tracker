@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-31T15:02:33Z",
+ "updated_at": "2026-07-31T16:51:38Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Dowagiac data center noise torments nearby homes day and night",
+   "dek": "Neighbors describe a constant high-pitched whine from the facility that runs around the clock. The complaints are now shaping how Cass County will handle future proposals. Residents want rules that protect sleep and property values before more projects arrive.",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fUVktWkIwYVNXVXF5dDFETU5BQXBhSlhkZHFzU21XakdGaDNwa0p6UDV1VHFzaEN3MTIxYkhfYVo2bUlPOVk4bzNlenJhdnJheU9kVWVWYkRvT3dpMmlSTjllTEZYbC1RdXg5SzRqTk9zNkYwamc?oc=5",
+   "source": "Mix 95.7",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Cass",
+   "tag": "Local Government",
+   "iso": "2026-07-31T16:00:43Z",
+   "id": "12f6697c8e3e",
+   "origin": "google-news",
+   "source_title": "A Dowagiac Data Center Runs 24/7 And Neighbors Say It Screams Like A Demon - Mix 95.7",
+   "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fUVktWkIwYVNXVXF5dDFETU5BQXBhSlhkZHFzU21XakdGaDNwa0p6UDV1VHFzaEN3MTIxYkhfYVo2bUlPOVk4bzNlenJhdnJheU9kVWVWYkRvT3dpMmlSTjllTEZYbC1RdXg5SzRqTk9zNkYwamc?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
   {
    "title": "Congressman calls for review of Chinese robots at Michigan data center site",
    "dek": "A U.S. representative wants Commerce to examine Hyperscale Data's use of foreign equipment on its Michigan campus. The move raises questions about supply-chain security and local construction jobs. Residents near the project could see delays or new federal scrutiny.",
@@ -171,23 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbFdvX2x4NzhTY1ZPRGxCWjZ0cVFzM1RhaWFPUjBLc3R6dVo4R01KNjhUZjZ6UWdkbEd2ZmlvUGpOM2JGTUFDNFdXRFFkUkpNMm1TY1k5UnVMRGs2S19SUU1HWEpEZ1Uwa3k0YWpRb3hhZlZjN2FUa0ZRYXZDQkJ6Z0tzRmFCeE5m?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
-  },
-  {
-   "title": "Cass County residents organize to shape future data center rules",
-   "dek": "Local groups are preparing to push zoning changes before more proposals land. The moves follow the Dowagiac project and aim to protect farmland and quiet roads. County decisions will decide how much industrial load the area accepts.",
-   "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNd3JGWmJ0ZS05bHY3S0J5S3AzYnBwV2Ntb3I4RnBwekhsWWpZMFgzR3RZaXZXVm1fSkxKaEdKd2Y3TFpUY1lhc0RvOEZueTB6S1FhbEZFREdQQmFXTndNUjItdk5jTzR2N0k4cF9weXFqZW9aNzlmU3BvQmg5QTdrZFZ2bnhtb015alBNUEJmTWZkcmNYcXM0ZjVwcW5qTkxYTmdMOVlrOTNzSWd0UExiU3ZYMEJCdC14bVZfVGJQM3RkVTN2NlFtLXZtTERRay1fWTA4OFlEM2JOWjBXTUNpaHNhV0pIU29MUF8yczNTR19fUGctRjdRTVNNa2dodmlTdzRobkdhWVdBQ3hMbWtucGFhcVZKbkI1amRlUFlLdmkyMUw2WUltN01QMkFrV205cy1vM19BbGxpNXl3X2lqNTVMazQ0UldOZ0pheU11WFBQZW8?oc=5",
-   "source": "WSBT",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Cass",
-   "tag": "Local Government",
-   "iso": "2026-07-30T01:45:46Z",
-   "id": "8b86e16d87c7",
-   "origin": "google-news",
-   "source_title": "Residents prepare to act on future data center proposals in Cass County - WSBT",
-   "source_url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNd3JGWmJ0ZS05bHY3S0J5S3AzYnBwV2Ntb3I4RnBwekhsWWpZMFgzR3RZaXZXVm1fSkxKaEdKd2Y3TFpUY1lhc0RvOEZueTB6S1FhbEZFREdQQmFXTndNUjItdk5jTzR2N0k4cF9weXFqZW9aNzlmU3BvQmg5QTdrZFZ2bnhtb015alBNUEJmTWZkcmNYcXM0ZjVwcW5qTkxYTmdMOVlrOTNzSWd0UExiU3ZYMEJCdC14bVZfVGJQM3RkVTN2NlFtLXZtTERRay1fWTA4OFlEM2JOWjBXTUNpaHNhV0pIU29MUF8yczNTR19fUGctRjdRTVNNa2dodmlTdzRobkdhWVdBQ3hMbWtucGFhcVZKbkI1amRlUFlLdmkyMUw2WUltN01QMkFrV205cy1vM19BbGxpNXl3X2lqNTVMazQ0UldOZ0pheU11WFBQZW8?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {

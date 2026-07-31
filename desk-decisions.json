@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRzlva195c19OWm1tNl9YcXZBdFN5UllpOFBLelUzLTZ1bkFsRENZbDNmNzlBOE54ZDBwR3FpbWF5WHhEcVNPV0VETnJkSXhMWVBqUExLOEpyZENaMEpad2ZXUlptTWZ4aHB2YXhYcDVWNVFNSV9CeC1MLXJHOVo1UzlJY2VPLUpZVjNSMlROT0VKYVUwYmFPbElMdEd5S1BpeDVOV1pwWQ?oc=5",
-   "title": "Project Tango candidate faces heat over Michigan data center ties",
-   "at": "2026-07-15T12:55:13+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: Vague political story with no concrete development—no vote, filing, or official action reported, just campaign-trail 'heat' over unspecified connections."
-  },
-  {
-   "url": "https://www.stocktitan.net/news/GPUS/hyperscale-data-expects-to-sign-ai-data-center-and-neocloud-services-k3drivpnzz34.html",
-   "title": "Hyperscale Data Eyes AI Compute Deal at Michigan Campus",
-   "at": "2026-07-15T15:00:01+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Vague future expectation ('expects to sign in coming weeks') without a concrete deal or announcement; speculative rather than confirmed."
-  },
-  {
    "url": "https://www.wilx.com/video/2026/07/14/lansing-city-council-approves-182-day-moratorium-new-data-centers/",
    "title": "Lansing Approves 182-Day Pause on New Data Centers",
    "at": "2026-07-15T15:00:01+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-07-31T15:02:33+00:00",
    "by": "news_judge",
    "note": "score 4/10: Thin rehash of the already-killed 'Michigan primary candidates split on data-center tax breaks' story, just repackaged as fact-checking rather than new substanc"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU3hINU0xNTRLSkpxY05yZ1pmU3E2ZWZjZjF0Vy1TTjN6V3ZMTG1iZ0E0T3M3MW94ZkRadnowWG01QmUweWlqbGN6ZXVKWExZWFJjRkVOTFhhYnlZcEJKSjY1TGQ5dmZ1MWxRMzdWU2Zud25rLWtkLV9COWhTTzU2MW9ERjQxMnZhSU5qSnpqVGtYUGxZSVA0ZHJR?oc=5",
+   "title": "Michigan Senate primary tests candidates on data center power deals",
+   "at": "2026-07-31T16:51:38+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Thin campaign-trail rehash that recycles already-covered positions without reporting a new debate, poll, or endorsement."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOekRLSzNaWDd5WHVpbkJzWXM4TVFmRlhWVnA1UHRtUHZsRnd1Y0N1VE1YbmxjZEg0WFR4OF84cW9fdTVHb3BkRGZZWmpZN3lyRUVUTTBvUjk2MFBUSU1pamExdEI5RWZyTHE0SE10UHNOdXJveDVzZ1hJT0tYaWpzXzFzSjh0TGJkdTR1ekVQNko4Z2gxSVV6UWgyblFsTkZqTFowSFFn?oc=5",
+   "title": "Cass County neighbors ready to block new data centers",
+   "at": "2026-07-31T16:51:38+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicates the already-live 'Cass County residents organize to shape future data center rules' story—same organizing effort, same county, same goal."
   }
  ],
  "auto_published": [
@@ -2343,6 +2343,12 @@
    "title": "Congressman calls for review of Chinese robots at Michigan data center site",
    "judge_score": 7,
    "at": "2026-07-31T15:02:33Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fUVktWkIwYVNXVXF5dDFETU5BQXBhSlhkZHFzU21XakdGaDNwa0p6UDV1VHFzaEN3MTIxYkhfYVo2bUlPOVk4bzNlenJhdnJheU9kVWVWYkRvT3dpMmlSTjllTEZYbC1RdXg5SzRqTk9zNkYwamc?oc=5",
+   "title": "Dowagiac data center noise torments nearby homes day and night",
+   "judge_score": 6,
+   "at": "2026-07-31T16:51:38Z"
   }
  ]
 }
