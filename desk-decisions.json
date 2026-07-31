@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.usnews.com/news/best-states/michigan/articles/2025-10-31/tech-giants-announce-7b-data-center-michigans-first-hyperscale-campus",
-   "title": "U.S. Data Center Power Demand Surges as Tech Giants Accelerate AI Infrastructure Buildout",
-   "at": "2026-07-15T11:13:16+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece with no Michigan-specific development or decision."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRzlva195c19OWm1tNl9YcXZBdFN5UllpOFBLelUzLTZ1bkFsRENZbDNmNzlBOE54ZDBwR3FpbWF5WHhEcVNPV0VETnJkSXhMWVBqUExLOEpyZENaMEpad2ZXUlptTWZ4aHB2YXhYcDVWNVFNSV9CeC1MLXJHOVo1UzlJY2VPLUpZVjNSMlROT0VKYVUwYmFPbElMdEd5S1BpeDVOV1pwWQ?oc=5",
    "title": "Project Tango candidate faces heat over Michigan data center ties",
    "at": "2026-07-15T12:55:13+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-07-31T12:07:20+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: This is a rehash of the already-killed Bitcoin/Hyperscale stories about cashing out crypto to fund the Michigan AI campus—same event, same concerns, just reword"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc0x5aEVielNhNkhKNXJIQ0R5MmozUmVyX3MxcWlIYkhueDBLSUZPMGs5bllqMWUzQk1HMzJKWVBkbTh2dkF0bnItQzFpa051emhieVJDbmN3SmxuMGNvMkF5Y3VjTVhqSDBidE9fMjhxZ3pMMTBJbkkyX3dzdlZRTF82Y3I2QkpkMlUwaDJta0o3TGkwWkJjOHdkZ1NqRzlUZXNkOGdLS0RYekVLS1hkT3ZB?oc=5",
+   "title": "Who pays for Michigan data centers? Fact-checkers examine Senate hopefuls' claims",
+   "at": "2026-07-31T15:02:33+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Thin rehash of the already-killed 'Michigan primary candidates split on data-center tax breaks' story, just repackaged as fact-checking rather than new substanc"
   }
  ],
  "auto_published": [
@@ -2337,6 +2337,12 @@
    "title": "Saline data center seeks river discharge permit amid local pushback",
    "judge_score": 7,
    "at": "2026-07-31T04:04:52Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNVVMa2FvUlprNFZVTjFVYmpBOFl5cTRMTjhYdHpPQ0UzTDE4d1NJSVdqRWhxR1dqVVdrYW5ab3VGSXozZHZTWF9SRS16V1FOV0JydlE1MHhkd2JHelVoVERoNzhLdVdxT3hSM2NUd2xUZ0dIWFVGTjhGR3lLeUcybk5uZVZmal9ybG5QSnBkR2JZVjdwc2VyYk5GZjY3VzhYZ0VWbHlYcXZjZmVjVVdTWXNDbDFoZnE1djJCWUFrUEJkTzBSQm8tbUlwTllzQ2IyTUNCWnZLNA?oc=5",
+   "title": "Congressman calls for review of Chinese robots at Michigan data center site",
+   "judge_score": 7,
+   "at": "2026-07-31T15:02:33Z"
   }
  ]
 }

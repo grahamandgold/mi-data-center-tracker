@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-07-31T12:07:17+00:00",
+ "updated_at": "2026-07-31T15:02:33Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Congressman calls for review of Chinese robots at Michigan data center site",
+   "dek": "A U.S. representative wants Commerce to examine Hyperscale Data's use of foreign equipment on its Michigan campus. The move raises questions about supply-chain security and local construction jobs. Residents near the project could see delays or new federal scrutiny.",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNVVMa2FvUlprNFZVTjFVYmpBOFl5cTRMTjhYdHpPQ0UzTDE4d1NJSVdqRWhxR1dqVVdrYW5ab3VGSXozZHZTWF9SRS16V1FOV0JydlE1MHhkd2JHelVoVERoNzhLdVdxT3hSM2NUd2xUZ0dIWFVGTjhGR3lLeUcybk5uZVZmal9ybG5QSnBkR2JZVjdwc2VyYk5GZjY3VzhYZ0VWbHlYcXZjZmVjVVdTWXNDbDFoZnE1djJCWUFrUEJkTzBSQm8tbUlwTllzQ2IyTUNCWnZLNA?oc=5",
+   "source": "AI Insider",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Policy",
+   "iso": "2026-07-31T12:35:46Z",
+   "id": "609c568ce480",
+   "origin": "google-news",
+   "source_title": "US Congressman Seeks Commerce Review of Hyperscale Data's Use of Chinese Robots in Michigan Project - AI Insider",
+   "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNVVMa2FvUlprNFZVTjFVYmpBOFl5cTRMTjhYdHpPQ0UzTDE4d1NJSVdqRWhxR1dqVVdrYW5ab3VGSXozZHZTWF9SRS16V1FOV0JydlE1MHhkd2JHelVoVERoNzhLdVdxT3hSM2NUd2xUZ0dIWFVGTjhGR3lLeUcybk5uZVZmal9ybG5QSnBkR2JZVjdwc2VyYk5GZjY3VzhYZ0VWbHlYcXZjZmVjVVdTWXNDbDFoZnE1djJCWUFrUEJkTzBSQm8tbUlwTllzQ2IyTUNCWnZLNA?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Saline data center seeks river discharge permit amid local pushback",
    "dek": "A permit application for discharging into the Saline River is now open for public comment, tied to a major data center project. Residents in Washtenaw County face potential impacts on local water quality and usage from the facility's operations. The filing highlights ongoing tensions over infrastructure demands in the township.",
@@ -171,23 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNd3JGWmJ0ZS05bHY3S0J5S3AzYnBwV2Ntb3I4RnBwekhsWWpZMFgzR3RZaXZXVm1fSkxKaEdKd2Y3TFpUY1lhc0RvOEZueTB6S1FhbEZFREdQQmFXTndNUjItdk5jTzR2N0k4cF9weXFqZW9aNzlmU3BvQmg5QTdrZFZ2bnhtb015alBNUEJmTWZkcmNYcXM0ZjVwcW5qTkxYTmdMOVlrOTNzSWd0UExiU3ZYMEJCdC14bVZfVGJQM3RkVTN2NlFtLXZtTERRay1fWTA4OFlEM2JOWjBXTUNpaHNhV0pIU29MUF8yczNTR19fUGctRjdRTVNNa2dodmlTdzRobkdhWVdBQ3hMbWtucGFhcVZKbkI1amRlUFlLdmkyMUw2WUltN01QMkFrV205cy1vM19BbGxpNXl3X2lqNTVMazQ0UldOZ0pheU11WFBQZW8?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Walberg flags robotics job risks tied to Dowagiac data center",
-   "dek": "U.S. Rep. Tim Walberg is raising alarms over potential robotics work linked to a planned data center in Dowagiac. The warning comes as residents weigh local job gains against automation concerns. Cass County voters will track how the project affects employment and training needs.",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbldQM2RFeW1ZNm83blJ2OGduOEFEZFI4UHBfV3dCd1ZBdGx4aDRHNUdYSU9ReWZEdFNjeXo0dmhlSHlpUlFWRkhkeEtxODdTYklFWlJhVFhOb1BUSVZUYXVmZ2RBNjZwS3VsY1I1NW45ZkdHZ0k1N01xSUxQSEhOWDhTY3FGUWp1YzZTVFAzeDRwdnBxMkM5XzZLRzE?oc=5",
-   "source": "Moody on the Market",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Cass",
-   "tag": "Local Government",
-   "iso": "2026-07-30T00:02:07Z",
-   "id": "ae23b815349d",
-   "origin": "google-news",
-   "source_title": "Walberg warns about robotics work tied to Dowagiac data center - Moody on the Market",
-   "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbldQM2RFeW1ZNm83blJ2OGduOEFEZFI4UHBfV3dCd1ZBdGx4aDRHNUdYSU9ReWZEdFNjeXo0dmhlSHlpUlFWRkhkeEtxODdTYklFWlJhVFhOb1BUSVZUYXVmZ2RBNjZwS3VsY1I1NW45ZkdHZ0k1N01xSUxQSEhOWDhTY3FGUWp1YzZTVFAzeDRwdnBxMkM5XzZLRzE?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {
