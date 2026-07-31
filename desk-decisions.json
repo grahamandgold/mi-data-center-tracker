@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.wilx.com/video/2026/07/14/lansing-city-council-approves-182-day-moratorium-new-data-centers/",
-   "title": "Lansing Approves 182-Day Pause on New Data Centers",
-   "at": "2026-07-15T15:00:01+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicate of already-killed 'Lansing bans new data centers for six months' — same city, same moratorium decision."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNdFVIZWhlOGRwYjMzY210VnBFSTVqNW1YZF9SN0N4YnJQS1lCam9qMHRJWjJhWWFnOGVuS0I0RS1fajJWLVBuV0JId09Na2xsYnpSdVFKeVk0TTlzTXMtY3EwUWRjSFFZQWh5MHFlcWxDUEJQY1dWaWtnQkhHbzhaWjlkUElPZEJuc3RKc0hSODg0bTI0c0hqaWxucUgtcFdEb3BGVkNkR1dTTzNOQ2VsZHZZUkt4b2NkOTFhV2VYRUFaU2pkR1VUSTJTSktaS0djOW5hTm9Vcm5PR1lpYmJTUGJUSV9KNWpiU2JpUkFLYXJqRHhNeU1pZHFadjlld2JMclBKQUpZbmlMdy13RGxydUdwSnFVenM0SG5mT3p2aWY1UEVL?oc=5",
-   "title": "Hyperscale Data lands first AI tenant at Michigan site",
-   "at": "2026-07-15T15:00:01+00:00",
-   "by": "news_judge",
-   "note": "score 4/10, duplicate: Duplicate of candidate [0] — same Hyperscale Data AI tenant announcement at Michigan site, just reworded."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPc3Q3OGhjUVFyN2RSVDNLMUk0b3FkNUdlaEozSUI5MGNTT0EyVlk4dHltaGZGSHcyU3dBVFdTMnFxU1lXcDBmdUFsVHBSLVBUT2hsUEI2VFhDNTktZmI2MGJNZlJmSFRPQ0dObWtMY05XV1FwT0pwZXNmMmF5RFRkbw?oc=5",
    "title": "Jackson set to vote on one-year data-center freeze",
    "at": "2026-07-15T15:00:01+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-07-31T16:51:38+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Duplicates the already-live 'Cass County residents organize to shape future data center rules' story—same organizing effort, same county, same goal."
+  },
+  {
+   "url": "https://www.governor.ny.gov/executive-order/no-62-establishing-temporary-moratorium-data-centers-new-york-while-state-develops",
+   "title": "New York Pauses New Data Centers to Curb 12 GW Power and Water Demands",
+   "at": "2026-07-31T18:26:47+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: National trend piece from New York with no Michigan-specific development or impact."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5Y1hRT19mNnRJZy1rWW5id2lqWkxBOUlJZlZjSVowbVFjZUhnUHlSdEp4Z2o5a2w4dU9hM0lFNm9GT3pzZ0FhWWVvWlhHQTNDMDVxZGRydURUWnh3ZHV5WGU0WS1ZOVJBLTUzNjRid2RuakQtUURqWEZuaUNNVFk?oc=5",
+   "title": "Hyperscale Data sells Bitcoin to bankroll Michigan AI campus",
+   "at": "2026-07-31T18:26:47+00:00",
+   "by": "news_judge",
+   "note": "score 1/10, duplicate: Identical to already-killed 'Hyperscale cashes out Bitcoin to bankroll Michigan AI campus' and multiple other killed Bitcoin sale stories."
   }
  ],
  "auto_published": [
