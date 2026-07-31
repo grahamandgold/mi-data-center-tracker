@@ -1,27 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYzVJY3ExbktTS1d4eXE4YWVLN0V3MlRrZS1TMmVaVE9qdW9hMWpjRndWTE41Rm5Oa3lZTm91cEpTWGs5U0Q0T0YxYXVld1lJcmx2U2FKNDJ0R3QwdU5XMEZMT2Z1c1plbWFxamExOFhEcFhPYjNTVzVYSk9aYk1IRm8wY0ZvOFdyVzNRQg?oc=5",
-   "title": "Oracle data center tax break capped well below request",
-   "at": "2026-07-15T15:00:01+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicate of already-live 'Saline Township caps Oracle tax break at $4.8B' — same tax-cap decision, reworded."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOalA3QmF3cTRiZFFZYzdLWXNqMkU2NTB2X1VJMG5wdHRlLXFuaXBfSlQwc3JldkRzRk5CLUtDQkJoVHprNl9NYW1iWVhyTnJvM3FJWEIzU2E5ZzlTU3d5eWJuZmM5alhXU1FLcEZaSmY5Ym5DMFhaTnh5aTk0VGs4TkNXLWhVbXY4SVBXYlJqc24yTXNiWWpHV3UzekM2cWZRekNHWWNFSk9hRU5jZTlIU1N6RWNUS185NmlZQ2syVThoS2tucEpQUVB2c3BtQnPSAc8BQVVfeXFMTmpQN0Jhd3E0YmRRWWM3S1lzajJFNjUwdl9VSTBucHR0ZS1xbmlwX0pUMHNyZXZEc0ZOQi1LQ0JCaFR6azZfTWFtYllYck5ybzNxSVhCM1NhOWc5U1N3eXlibmZjOWpYV1NRS3BGWkpmOWJuQzBYWk54eWk5NFRrOE5DVy1oVW12OElQV2JSanNuMk1zYllqR1d1M3pDNnFmUXpDR1ljRUpPYUVOY2U5SFNTekVjVEtfOTZpWUNrMlU4aEtrbnBKUFFQdnNwbUJz?oc=5",
-   "title": "Wixom keeps moratorium after rejecting data-center waiver",
-   "at": "2026-07-15T18:15:12+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: This is the same Wixom waiver rejection and moratorium continuation already covered in the first ALREADY-LIVE item."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM0MzUFZZUjJ5blk3ZTZ0ZXRwam1uS0tMZTV0cEFKZy1uckZyVEZ5cE81R0FHY3QwYWp4enhHQl9oQ2hvVHNXRWJVdkVwRi1qcXV0ZDZZYk02emFkeHctNFVzcHF6Qjg3LURtQzIzZ1lKLUxnQ2F0em1sUHVCRXc2aDlCRDVqc1h5Z1JreUUtMW5DN2dMRU0tSlRuRDJoQ2oybldiYjR4SQ?oc=5",
-   "title": "Wixom keeps its data center moratorium after rejecting a developer's waiver bid",
-   "at": "2026-07-15T19:48:22+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicate of already-live 'Wixom keeps data center moratorium after rejecting waiver request'—same council vote and waiver rejection."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPT1hvbDFMUDNxWXllQVhfOWV6VnVIcnBVaFhwamxKU05xWkNrNFNnWEMyeU1hZ2ZwNzNiaFB3eFBQb3ZYSnBha0xRY0xxMW5zLTNPWlg1YjV3b3NPc2t6QjVrWlZCZkRydXBwd2tXc2FvYnlqVVJPUldfeHBHRjlZRUZhdlZfRFNaaUF0dmY4UFc0OWpKVjJIbzVmYy10ampvZ0trbmxhQ01ISkFjSk1nMlVXZzE3Tl9UX2UxTU9XU0hSRXFfUXplYmNkWmg4dm8?oc=5",
    "title": "Whitmer demands data centers sign pledge shielding Michigan ratepayers from bill spikes",
    "at": "2026-07-15T19:48:22+00:00",
@@ -1399,6 +1378,27 @@
    "at": "2026-07-31T20:05:48+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece about grid operators' projections lacks Michigan-specific decision or development."
+  },
+  {
+   "url": "https://bridgemi.com/michigan-government/fact-checks-john-james-perry-johnson-on-tax-cuts-data-centers-and-more/",
+   "title": "Johnson Overstates Tax Savings for Michigan Families by $1,300",
+   "at": "2026-07-31T21:18:37+00:00",
+   "by": "news_judge",
+   "note": "score 2/10: State income tax debate unrelated to data center buildout; off-topic for this tracker."
+  },
+  {
+   "url": "https://www.glc.org/dailynews/20260721-openai-seeks-permit-wasteawater-discharge-saline-river",
+   "title": "Treated Wastewater from OpenAI Data Center May Enter Saline River",
+   "at": "2026-07-31T21:18:37+00:00",
+   "by": "news_judge",
+   "note": "score 9/10, duplicate: Same Saline river discharge permit already covered in live story 'Saline data center seeks river discharge permit amid local pushback.'"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaXdDR0JrWTY3YmVPMFZlbGFKOGktXzdBaWthOWZCQnhKTy02aUJfUWpHMjVLUE5KT2d2TGNVRWliM1psdWc1SmdwUWJQS2d0VUNKbFlIR1dJZU9HUEFmYXh0VHYtUTBpXzdWeUtwY19DVlcxUTZCRklHYVRpSmVUSTl5SG9iRnZHa1JDSUVmX1ZBZ3R1dmtEamF2YW5VUjU3VEdCY2N1bDlaZG5iQmc?oc=5",
+   "title": "Michigan facility wants river discharge OK; anglers demand volume, quality details",
+   "at": "2026-07-31T21:18:37+00:00",
+   "by": "news_judge",
+   "note": "score 9/10, duplicate: Same discharge permit request as live story 'Saline data center seeks river discharge permit' and candidate [1], just different framing."
   }
  ],
  "auto_published": [
