@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://bridgemi.com/business-watch/massive-data-center-wins-local-tax-break-but-9-times-smaller-than-requested/",
-   "title": "Saline Township OKs $4.8B-based tax break for $43B Oracle-OpenAI data center",
-   "at": "2026-07-16T01:04:11+00:00",
-   "by": "news_judge",
-   "note": "score 4/10, duplicate: This is the same Saline Township tax break decision already covered in the LIVE story 'OpenAI lands smaller tax break from Saline on data center campus' and mul"
-  },
-  {
-   "url": "https://www.facebook.com/wwmtnews/posts/the-governor-whose-administration-has-welcomed-data-centers-and-who-broke-ground/1474906784675006/",
-   "title": "Data Center Electricity Demand Projected to Drive Major Share of Michigan Grid Growth by 2030",
-   "at": "2026-07-16T04:19:43+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: State-level trend analysis about grid growth projections lacks a specific decision, filing, or action."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQzZpUHQ0alFPUTVFZUU1cWNzeEctMkp6alVTRFZHMkxnVk9BLTFhMGcxdkMtQk12emdQeHJsRnZIZWFuMHhiaThSQ253b3NhZUZoWlc2SV93cGFOakRCV1JqUHRITHVNcE9pQmtMWHJlWnlTU0VvYzRtZ1BtdldhTU42ZVZLQktWZzZwbnFrTVlHMThFdmYtLU9MOHUtSzFic3p6V1V3UzM3aHIwTzBOUmJsRXQxSW9lNXpWZGln?oc=5",
    "title": "U-M's $1.25B data center plan draws fire from nearby residents",
    "at": "2026-07-16T04:19:43+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-01T06:37:58+00:00",
    "by": "news_judge",
    "note": "score 3/10, duplicate: Duplicate: 'Cass County neighbors ready to block new data centers' already killed; same organizing effort, just reworded."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxONVVEZHJ4aklFTFM4Z0stVzRIdlNiMDN2Tl9QOUZwemtic1BraE9RbEllMjFwZndLcWFoeEdTZnZUbUtab2V4Y2dSVmdsNXEtWklFTXQ4YnBZdElSLV9IbDFyRVNRcE1xeUxCcms3NFJsLUZaQXdaeS1Ca2NPZzQ1YTludHpEdzNoQk9ld2d5bkxzaFB2dzVKQUdOM3VZQ2hfdVlIbS1NU0VxcldVbzlnSlNUVFh2VHlkaGhZUktFTm9VbXRYS0lNM2IwYW5haUdaNGs2dVVmS2h5a0lmMHE0SXh2Nm1hLWg0enE3ZmZFd1E1ckxhUlhaTkxEVjBHdVFPM29PcWd3a1N2X3FpQXQta0hsWXhnVVE5dE9LX1dQdGdOSHU4UnpUZUFqTnlmeUFCMHFWa2ZhRU0xbHlmTF9RbF9XVmFmbExIdGFPQVNTemhnX1doMG5uYw?oc=5",
+   "title": "Neighbors organize early to control tax breaks and utility costs before data centers arrive",
+   "at": "2026-08-01T11:01:26+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Organizing effort is real but pre-emptive with no concrete filing, hearing, or official action yet; similar to killed 'Cass County residents gear up to fight' s"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd1JRTzJfaXlGU2tRclR1QzZvejB2M0pJQVJnUzh4SFFORktrVTFpQUp2bldaMWQtX2JNNXhrODN6UHZ0aUZFWEpHMUcyWklNUnlGN3hCWDZkRkNZeF9xN2dZc0VkOHYxc1JmWjZLQk56M2V1OUd0QmZZVldXMjJMSWhodw?oc=5",
+   "title": "Hyperscale Data sells Bitcoin holdings to bankroll Michigan AI campus",
+   "at": "2026-08-01T11:01:26+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Same Bitcoin liquidation event already killed three times ('Hyperscale Data sells Bitcoin to fund $3B Michigan AI campus', 'Hyperscale Data sells Bitcoin to ban"
   }
  ],
  "auto_published": [
