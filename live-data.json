@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-01T18:32:39+00:00",
+ "updated_at": "2026-08-01T19:47:25Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "John James: let Michigan towns decide data center rules",
+   "dek": "U.S. Senate candidate John James told The Detroit News he would leave data-center siting and tax decisions to local officials rather than impose state rules. The stance matters in townships like Saline and Coldwater where residents are already fighting over power use, water draw and tax breaks. Voters in the Aug. 4 primary will see whether the position helps or hurts him in data-center-heavy counties.",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeW5PYjllaTNNWDhNRDQ1WDItV2ZTVFB4YjhNNXJsanNwX3h1VFVjMHZVZkZDRE1EM29NSGt5akVIWmhMTXp5UXZVMTN2UFZVVTNIdkVDMEozWGItUFdtRlNwbm0tMVZ1MTlDblRyWnlLQ2tKMVBsS25taHBBbS01MEFvRkZha0NTRDh4aWkzYVpIanZjNENPMC1CcXVPM2YyX3FVSW8xWlF1d19iNDNuZlhGVWVOUXdsTmNuVVFERmtPeU0ycU1hNUZFZUNiSmFLTlFzSEhaMF9OZw?oc=5",
+   "source": "The Detroit News",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Policy",
+   "iso": "2026-08-01T19:25:00Z",
+   "id": "1c17870711c5",
+   "origin": "google-news",
+   "source_title": "John James says he would let local leaders set data center policy - The Detroit News",
+   "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeW5PYjllaTNNWDhNRDQ1WDItV2ZTVFB4YjhNNXJsanNwX3h1VFVjMHZVZkZDRE1EM29NSGt5akVIWmhMTXp5UXZVMTN2UFZVVTNIdkVDMEozWGItUFdtRlNwbm0tMVZ1MTlDblRyWnlLQ2tKMVBsS25taHBBbS01MEFvRkZha0NTRDh4aWkzYVpIanZjNENPMC1CcXVPM2YyX3FVSW8xWlF1d19iNDNuZlhGVWVOUXdsTmNuVVFERmtPeU0ycU1hNUZFZUNiSmFLTlFzSEhaMF9OZw?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
   {
    "title": "Genesee County delays vote on data center environmental clearance",
    "dek": "The economic development corporation postponed a key environmental approval for a proposed data center. Flint-area residents now face more uncertainty over traffic, power needs, and industrial noise from the project. The delay gives the public extra weeks to review impacts before any final decision.",
@@ -169,23 +186,6 @@
    "origin": "google-news",
    "source_title": "Both candidates for St. Joseph County Council District C call for data center moratorium - WNDU",
    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQmZ3Q2I4eVRlNXc0TnBaMmhPTmY0NmR4Y2FjdU53c1RhTVItNVZPcERVV3o2S3pyTUljaVdkbEluOXJvcVhGdGZ4MWlMT3l1M3FkMTFnS2ZzdnBSd3dhM1pfTUZoUWpIYnlkV2J6MG5PMXlSd0FlSUY0eWxOeGJvM0phcThpeWRiVl9tMnNFSEJKUnVSaFVDMllNTXVMVFpaWXpFVHFERWVuMnJwU002ZWl30gHGAUFVX3lxTE5ua1NfdVFNdURqVUh6MlhPdjR6Szhwc2ZTYjdEaXJWTF9UQ1lMU1Njemd1T2ZCc29aTXkwemdVVTFnTWg3Q25CeFRyeENqTXhmbXhxZU1RMmdnV3JlYjBCdDFUbk9Qb3d4cWlRNnZzSUR2YlFaei1RMTRuY2J6TkJ6QlRCTk1aV1RJdG5TaWxwekViUmRkMHFSTmlKdkVKbnM0b2h2OUlRZmZvZHdjMzlEWG5yeTJUUDVzVkdtVGdpRkthLVBUUQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
-  },
-  {
-   "title": "El-Sayed slams Saline data center plan over power and water costs",
-   "dek": "Democratic Senate candidate Abdul El-Sayed used a C-SPAN appearance to criticize the Oracle-OpenAI project in Saline, citing its expected draw on the electric grid and local water supplies. He argued the tax breaks and infrastructure strain would fall on Michigan residents while benefits flow elsewhere. The remarks sharpen the debate ahead of the August primary.",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUG1mRnFVOUxQUDZLeU80YWVNcUtDTzkwTGlRRXA4TW9QQUp1X1FzNnBjZlFFSW9uSWlUbXNfb2czSEtZSVhvLUFWdjdieXp0VVFveHJWSTBZYXFIZ2JpeHpZQzRfMDZ0bmcwR3lBdGVxTURLYmctRmthWUp5Yi1xRVR5c2VNR2txMFFSdXFmdF9JOEs1MjFMUWFmbW02ZFRhVGlpb3c1R1NQYVZDVkg3X2FYcw?oc=5",
-   "source": "C-SPAN",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Policy",
-   "iso": "2026-07-30T20:35:28Z",
-   "id": "1ddbb907a55c",
-   "origin": "google-news",
-   "source_title": "Candidate Abdul El-Sayed (D-MI) Remarks on Data Center in Saline, MI - C-SPAN",
-   "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUG1mRnFVOUxQUDZLeU80YWVNcUtDTzkwTGlRRXA4TW9QQUp1X1FzNnBjZlFFSW9uSWlUbXNfb2czSEtZSVhvLUFWdjdieXp0VVFveHJWSTBZYXFIZ2JpeHpZQzRfMDZ0bmcwR3lBdGVxTURLYmctRmthWUp5Yi1xRVR5c2VNR2txMFFSdXFmdF9JOEs1MjFMUWFmbW02ZFRhVGlpb3c1R1NQYVZDVkg3X2FYcw?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
   }
