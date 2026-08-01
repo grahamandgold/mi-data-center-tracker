@@ -1,269 +1,201 @@
 {
- "title": "Evenings with Graham & Emmy",
- "teaser": "Coldwater hears data center details tonight while power, water and tax fights spread across Michigan.",
+ "title": "Mornings with Graham & Emmy",
+ "teaser": "Genesee hits pause on a data center as Michigan communities push for rules on power, water and noise.",
  "lines": [
   {
    "host": "Graham",
-   "text": "Good evening, and welcome to Evenings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
+   "text": "Good morning and welcome to Mornings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
   },
   {
    "host": "Emmy",
-   "text": "And I'm Emmy. Tonight Coldwater residents finally get their first public look at the proposed data centers, and the questions about power, water and tax breaks are front and center."
+   "text": "And I'm Emmy."
   },
   {
    "host": "Graham",
-   "text": "That's right, Emmy. The joint meeting between Coldwater City Council and planners is happening right now, giving folks a chance to hear the details before anything moves forward."
+   "text": "It's Saturday, August 1, and our big story today is Genesee County putting the brakes on a key environmental vote for a proposed data center."
   },
   {
    "host": "Emmy",
-   "text": "What exactly are residents pushing to learn at this session?"
+   "text": "That delay is the latest sign that these projects are hitting real resistance in communities worried about what they mean for daily life."
   },
   {
    "host": "Graham",
-   "text": "They're focused on how much electricity and water these projects would pull from local resources and what kind of tax incentives the companies are asking for."
+   "text": "Exactly. The economic development corporation postponed the environmental clearance vote, so Flint-area residents now have extra weeks to dig into traffic, power needs, and industrial noise."
   },
   {
    "host": "Emmy",
-   "text": "That makes sense. These facilities can be massive, right? How does this fit into the bigger picture we've seen in other towns?"
+   "text": "Why does this matter so much right now? We've seen similar pushes in other places."
   },
   {
    "host": "Graham",
-   "text": "It's part of a wave of proposals hitting multiple communities at once. Similar concerns have already surfaced in nearby townships, with people worried about the strain on the grid and local water supplies."
+   "text": "Data centers have been landing in Michigan because of available land and power, but the scale is new. A single large facility can pull hundreds of megawatts, which is like adding a small city to the grid."
   },
   {
    "host": "Emmy",
-   "text": "And what about the farmland angle? A lot of these sites seem to go on agricultural land."
+   "text": "And that power has to come from somewhere. Does that mean higher bills for everyone nearby?"
   },
   {
    "host": "Graham",
-   "text": "Exactly. Residents in Coldwater and surrounding areas are asking how much prime farmland might be taken out of production and what that means for the local economy long term."
+   "text": "It can. Utilities often pass along the cost of upgrades, and if the demand spikes fast without new generation, rates can rise for residential customers too."
   },
   {
    "host": "Emmy",
-   "text": "Who are the main players here? Is it just the city council and one developer, or are there multiple companies involved?"
+   "text": "Water is another big piece, right? Cooling these places takes a lot."
   },
   {
    "host": "Graham",
-   "text": "It's the council and planners briefing everyone, but the projects tie into larger companies eyeing Michigan sites. Local officials are already fielding questions from residents about the scale and the deals on the table."
+   "text": "Yes, evaporative cooling can use millions of gallons a day. In places drawing from rivers or aquifers, that raises questions about supply for farms and homes."
   },
   {
    "host": "Emmy",
-   "text": "What happens if the community pushes back hard tonight?"
+   "text": "And farmland gets turned into industrial sites. How has that played out in other townships?"
   },
   {
    "host": "Graham",
-   "text": "The meeting is the starting point. Officials will take the feedback and decide how to move forward, whether that means adjusting plans, adding conditions or slowing things down."
+   "text": "We've seen several communities hit pause to write new rules. Otsego just voted a full year-long ban on new proposals so they can study noise and grid strain first."
   },
   {
    "host": "Emmy",
-   "text": "We've seen power demand become a flashpoint elsewhere. How big could the electric bill impact be for regular ratepayers?"
+   "text": "That breathing room seems to be the pattern. What happens next in Genesee?"
   },
   {
    "host": "Graham",
-   "text": "That's the core worry. A single large facility can pull hundreds of megawatts, and without new generation coming online fast enough, that load can push rates higher for everyone on the system."
+   "text": "The extra review period lets the public submit comments on impacts before any final decision. Local officials will have to weigh job promises against those resident concerns."
   },
   {
    "host": "Emmy",
-   "text": "Water is another big one. How are towns thinking about that resource?"
+   "text": "Who are the main players pushing for or against these projects?"
   },
   {
    "host": "Graham",
-   "text": "Cooling these data centers requires a lot of water. In places like Saline, there's already a permit application open for river discharge, which has residents asking about quality and quantity impacts."
+   "text": "Economic development groups and developers highlight construction jobs and long-term tax revenue. Residents and some local leaders focus on protecting quality of life and infrastructure capacity."
   },
   {
    "host": "Emmy",
-   "text": "So this Coldwater meeting feels like a test case for how other communities might handle similar proposals."
+   "text": "And the noise complaints we've heard elsewhere — like in Dowagiac — are they showing up in Genesee too?"
   },
   {
    "host": "Graham",
-   "text": "It really does. What residents say tonight could influence how planners in nearby townships approach their own reviews."
+   "text": "The delay specifically mentions industrial noise as one of the issues residents want more time to review, so yes, it's on the table."
   },
   {
    "host": "Emmy",
-   "text": "Any sense of the timeline after tonight?"
+   "text": "How many other places are in similar holding patterns right now?"
   },
   {
    "host": "Graham",
-   "text": "The council will likely take comments, review the details internally, and then decide on next steps, which could include more public hearings or negotiations with the developers."
+   "text": "At least a handful have enacted temporary bans or required extra studies. It seems like the conversation is shifting from 'yes or no' to 'under what conditions.'"
   },
   {
    "host": "Emmy",
-   "text": "And the tax breaks piece — how much of that burden shifts to local taxpayers if the incentives are approved?"
+   "text": "What could tip the scale one way or the other in Genesee?"
   },
   {
    "host": "Graham",
-   "text": "That's the trade-off people are debating. The incentives are meant to attract jobs and investment, but critics argue the lost revenue has to be made up somewhere, often through higher property taxes or reduced services."
+   "text": "If the public comments show strong opposition or if power and water studies come back with big red flags, the project could face stricter conditions or rejection. Developers might also scale back plans."
   },
   {
    "host": "Emmy",
-   "text": "What kind of jobs are we talking about? Are these high-paying roles or mostly construction work?"
+   "text": "And if it moves forward, what timeline are we talking?"
   },
   {
    "host": "Graham",
-   "text": "The pitch usually includes both construction jobs during the build and ongoing operations roles, but residents want to see the actual numbers and whether those positions go to local workers."
-  },
-  {
-   "host": "Emmy",
-   "text": "This all sounds familiar from other spots. How many communities are dealing with this right now?"
+   "text": "The extra weeks of review push any final vote later into the summer or fall, giving everyone more runway to prepare."
   },
   {
    "host": "Graham",
-   "text": "It's heating up across southwest Michigan and beyond, with meetings and permit filings popping up in several counties at the same time."
+   "text": "Let's move to quick hits. Yesterday in Saline, Senate candidate El-Sayed rallied at a data center site to criticize tax breaks and grid strain."
   },
   {
    "host": "Emmy",
-   "text": "Do you think tonight's session will set any kind of precedent?"
+   "text": "He used the project as a backdrop to argue that hyperscale builds are driving up electric rates for residents 30 minutes away."
   },
   {
    "host": "Graham",
-   "text": "It could. If Coldwater comes out with clear conditions or a pause, other towns might follow the same playbook."
+   "text": "That stop shows how local projects are now part of the broader primary debate."
   },
   {
    "host": "Emmy",
-   "text": "And if it goes smoothly?"
+   "text": "Also yesterday, neighbors near the Dowagiac facility described a constant high-pitched whine running day and night."
   },
   {
    "host": "Graham",
-   "text": "Then developers might see a path forward and accelerate plans in other locations that are watching closely."
+   "text": "Those complaints are already influencing how Cass County plans to handle future proposals, with calls for stronger noise protections."
   },
   {
    "host": "Emmy",
-   "text": "Either way, it feels like the start of a longer conversation."
+   "text": "A U.S. representative is asking Commerce to review Chinese robots at the Hyperscale Data Michigan site."
   },
   {
    "host": "Graham",
-   "text": "Absolutely. We'll be tracking how the feedback shapes the next moves."
+   "text": "The concern is supply-chain security and whether it affects local construction jobs. It could bring new federal scrutiny."
   },
   {
    "host": "Emmy",
-   "text": "Let's shift to some of the other developments from today and yesterday."
+   "text": "On Thursday, the Saline data center applied for a river discharge permit, now open for public comment."
   },
   {
    "host": "Graham",
-   "text": "Verrus is pushing ahead with a Michigan project even while its Salem plans stay uncertain. Local officials there are already answering questions about power demand and potential tax deals."
+   "text": "Residents in Washtenaw County are watching potential water quality and usage impacts closely."
   },
   {
    "host": "Emmy",
-   "text": "Which town might land it? Any hints on size?"
+   "text": "Also on Thursday, the District C county council race is shaping up around whether to pause AI server farms until power and zoning rules are ready."
   },
   {
    "host": "Graham",
-   "text": "Nothing specific yet on the site or scale, but communities across the state are watching to see where the next big facility lands."
+   "text": "Both contenders say the county needs time to study demand before approving more large projects."
   },
   {
    "host": "Emmy",
-   "text": "That uncertainty is keeping everyone on edge."
+   "text": "Today, Otsego city council voted a one-year halt on all new data center proposals."
   },
   {
    "host": "Graham",
-   "text": "On the political side, Senate candidate Abdul El-Sayed rallied at the Saline site to criticize AI power deals and tax breaks."
+   "text": "That gives residents near potential sites time to help shape rules protecting neighborhoods from noise and grid strain."
   },
   {
    "host": "Emmy",
-   "text": "What was his main argument?"
+   "text": "Mason County is pitching itself as the home for Michigan's official state data center."
   },
   {
    "host": "Graham",
-   "text": "He said the grid strain and infrastructure costs would hit Michigan residents while the benefits go elsewhere, and he used the Saline project as the backdrop."
+   "text": "Local leaders see construction jobs and tax revenue, but residents would face questions on power and land use if it advances."
   },
   {
    "host": "Emmy",
-   "text": "Residents 30 minutes away could see higher electric rates if the campus pulls hundreds of megawatts without new generation."
+   "text": "Coldwater is holding a joint meeting today for residents to get their first look at proposed data center plans."
   },
   {
    "host": "Graham",
-   "text": "That's the point he hammered, and it shows how these local projects are now part of the broader Democratic primary conversation ahead of the August vote."
+   "text": "People want details on power and water draw plus any tax breaks on the table, especially with similar fights nearby."
   },
   {
    "host": "Emmy",
-   "text": "Noise complaints are also shaping the debate. In Dowagiac, neighbors say a constant high-pitched whine from an existing facility runs day and night."
+   "text": "Verrus is pushing ahead on a Michigan project even while its Salem plans remain uncertain."
   },
   {
    "host": "Graham",
-   "text": "Those complaints are now influencing how Cass County will handle future proposals, with residents pushing for rules that protect sleep and property values."
+   "text": "The company hasn't named the exact site or size, but officials are already fielding questions on power demand and tax deals."
   },
   {
    "host": "Emmy",
-   "text": "That kind of real-world impact could change how new projects get approved."
+   "text": "On deck, are there any meetings listeners can attend in the coming days?"
   },
   {
    "host": "Graham",
-   "text": "A U.S. representative is also calling for a Commerce Department review of Chinese robots at the Hyperscale Data Michigan site, raising supply-chain security questions."
+   "text": "Nothing on the calendar yet for the weekend, but we'll keep an eye on Genesee as the public comment window opens and any follow-up sessions get scheduled."
   },
   {
    "host": "Emmy",
-   "text": "Could that lead to delays or new federal scrutiny for residents near the project?"
-  },
-  {
-   "host": "Graham",
-   "text": "It might. Local construction jobs could be affected depending on how the review plays out."
-  },
-  {
-   "host": "Emmy",
-   "text": "From yesterday, Saline has a river discharge permit application open for public comment tied to a major project."
-  },
-  {
-   "host": "Graham",
-   "text": "Residents in Washtenaw County are watching for impacts on water quality and usage, and the filing underscores the ongoing infrastructure tensions."
-  },
-  {
-   "host": "Emmy",
-   "text": "The District C county council race is also tied to this. Both contenders want to pause large AI projects until power and zoning rules catch up."
-  },
-  {
-   "host": "Graham",
-   "text": "They argue local rules aren't ready yet, and the outcome could set the tone for other southwest Michigan townships facing similar proposals."
-  },
-  {
-   "host": "Emmy",
-   "text": "El-Sayed also slammed the Saline plan on C-SPAN yesterday over power and water costs, saying tax breaks and strain would fall on residents."
-  },
-  {
-   "host": "Graham",
-   "text": "That sharpens the debate right before the primary."
-  },
-  {
-   "host": "Emmy",
-   "text": "And there's an August session coming up where residents can hear power, jobs and tax details on a proposed project."
-  },
-  {
-   "host": "Graham",
-   "text": "That gives people a direct chance to ask questions before decisions advance."
-  },
-  {
-   "host": "Emmy",
-   "text": "A council hopeful in another area wants to halt proposals until rural impacts on power and land are clearer."
-  },
-  {
-   "host": "Graham",
-   "text": "Voters will decide whether that protects resources or slows growth."
-  },
-  {
-   "host": "Emmy",
-   "text": "Plenty to watch. Let's look ahead to meetings listeners can actually attend."
-  },
-  {
-   "host": "Graham",
-   "text": "The big one is that August data center session where the project details on power, jobs and taxes will be laid out for the public."
-  },
-  {
-   "host": "Emmy",
-   "text": "The Saline River discharge permit is also open for comment right now, so residents can weigh in on water impacts."
-  },
-  {
-   "host": "Graham",
-   "text": "And the District C race continues to shape the conversation around pauses and zoning studies."
-  },
-  {
-   "host": "Emmy",
-   "text": "We'll keep you posted on exact dates and locations as they firm up."
+   "text": "Coldwater's briefing today is one to watch if you're in that area."
   },
   {
    "host": "Graham",
    "text": "Full sources and the live map at the Michigan Data Center Tracker. We're back tomorrow."
   }
  ],
- "episode_title": "Coldwater Residents Get First Look at Data Center Plans as Statewide Scrutiny Grows",
- "show": "Evenings with Graham & Emmy",
- "daypart": "Evenings"
+ "episode_title": "Genesee County Delays Data Center Vote, Giving Residents More Time to Weigh Power and Nois",
+ "show": "Mornings with Graham & Emmy",
+ "daypart": "Mornings"
 }
