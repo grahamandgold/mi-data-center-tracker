@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.govtech.com/products/michigan-city-rejects-data-center-waiver-request",
-   "title": "Wixom Keeps Data Center Moratorium After Health and Noise Warnings",
-   "at": "2026-07-15T21:10:31+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicate of already-live 'Wixom keeps data center moratorium after rejecting waiver request' — same council decision and moratorium continuation."
-  },
-  {
    "url": "https://www.freep.com/story/news/politics/2026/07/15/whitmer-data-center-pledge-safeguarding-water-energy/90929332007/",
    "title": "Tech Giants Accelerate Hyperscale Builds as Power Demand Spikes Nationwide",
    "at": "2026-07-15T21:10:31+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-07-31T22:35:51+00:00",
    "by": "news_judge",
    "note": "score 4/10, duplicate: Same Saline river discharge permit already covered in two live stories, no new development reported."
+  },
+  {
+   "url": "https://www.wsj.com/topics/industry/data-centers",
+   "title": "New York Enacts First Statewide Pause on New Data Center Construction",
+   "at": "2026-08-01T03:42:27+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece about New York policy with no Michigan-specific decision, development, or impact."
   }
  ],
  "auto_published": [
@@ -2367,6 +2367,12 @@
    "title": "Coldwater residents get first look at data center plans at joint meeting",
    "judge_score": 7,
    "at": "2026-07-31T22:35:51Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOd25MbmJrQXU5QWJ6WnE3V2xqS2tGUTlTeEw5OG9BMTdQX0dhNTJCS0ZNU21FcllEOF9QX1JoX0lDNVBscHRNVnQxTERPQ0hKbWlrQXdfZFcyaDItX0Jsb21jVXJmdl9GMTdIM2VpMEJQTm9xVzFia3BhOEdJR1UtVFVQV0djaWxVckRRc0NqOTNrekZuWk5VVlI5NmEzS19odmNyY3FsWHhxYjh3SE1PVmVvYVpYbWNaWGdZRlhwN3oyZTZIdzNReUprVTBJYkxnTjVFRVVPV2hoUWR4UFVBbGVSQWg5UkFxcWNKZnBWMzgyQQ?oc=5",
+   "title": "Mason County bids to host Michigan's official state data center",
+   "judge_score": 7,
+   "at": "2026-08-01T03:42:27Z"
   }
  ]
 }
