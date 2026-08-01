@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-01T06:37:59Z",
+ "updated_at": "2026-08-01T09:12:34Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Genesee County delays vote on data center environmental clearance",
+   "dek": "The economic development corporation postponed a key environmental approval for a proposed data center. Flint-area residents now face more uncertainty over traffic, power needs, and industrial noise from the project. The delay gives the public extra weeks to review impacts before any final decision.",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRF9saG83czZLZGxIUlRQdmVPSVlTQ0lXZncxWXFJSUl2NDFPSDFzOWRJREk0UWlNTnZDV0s2eUVmQ0tnc1ZHQXNyN0dtM0VIc3A1Nkstb0dSOG9GTTBRb3FGVF85c1U1c2lEVW44Mm5NQW5PNWYwTmlxTGNfYWt1MHlvTlFzMXkyYkNkd2lnbFhQcUhDUHJEUHNNSE9CeXRWMlphR3dYTG5mZHhDTTdCTFdmNzcwMTYwd3RRaWt4VDMyM2hHY0VyeGJoaE5HaHh2RUZxM1ZQZVpVRnp5MjI0QzZMUGVuZl9ldFpRQg?oc=5",
+   "source": "TheDailyNewsOnline.com",
+   "region": "mid",
+   "cat": "STATEWIDE",
+   "county": "Genesee",
+   "tag": "Local Government",
+   "iso": "2026-08-01T07:00:00Z",
+   "id": "098f2c398130",
+   "origin": "google-news",
+   "source_title": "GCEDC appears to delay environmental approval vote for data center - TheDailyNewsOnline.com",
+   "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRF9saG83czZLZGxIUlRQdmVPSVlTQ0lXZncxWXFJSUl2NDFPSDFzOWRJREk0UWlNTnZDV0s2eUVmQ0tnc1ZHQXNyN0dtM0VIc3A1Nkstb0dSOG9GTTBRb3FGVF85c1U1c2lEVW44Mm5NQW5PNWYwTmlxTGNfYWt1MHlvTlFzMXkyYkNkd2lnbFhQcUhDUHJEUHNNSE9CeXRWMlphR3dYTG5mZHhDTTdCTFdmNzcwMTYwd3RRaWt4VDMyM2hHY0VyeGJoaE5HaHh2RUZxM1ZQZVpVRnp5MjI0QzZMUGVuZl9ldFpRQg?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Otsego bans new data centers for a year",
    "dek": "Otsego city council voted to halt all data center proposals for 12 months. Residents near potential sites now have breathing room before any large power or water demands hit local infrastructure. The pause gives the community time to shape rules that protect neighborhoods from noise and grid strain.",
@@ -171,23 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUG1mRnFVOUxQUDZLeU80YWVNcUtDTzkwTGlRRXA4TW9QQUp1X1FzNnBjZlFFSW9uSWlUbXNfb2czSEtZSVhvLUFWdjdieXp0VVFveHJWSTBZYXFIZ2JpeHpZQzRfMDZ0bmcwR3lBdGVxTURLYmctRmthWUp5Yi1xRVR5c2VNR2txMFFSdXFmdF9JOEs1MjFMUWFmbW02ZFRhVGlpb3c1R1NQYVZDVkg3X2FYcw?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
-  },
-  {
-   "title": "Michigan residents to hear power, jobs, tax details at August data center session",
-   "dek": "The session will outline a proposed data center project and its local impacts. Michigan residents near the site may face questions about power use, jobs, and tax effects. The event gives the public a direct chance to hear details before decisions advance.",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPWXA2S3FEQXBjNzZzNk50NEJpS2RIWUFWTUthRlhqbVM2a1QwenFWbDR2UTl6QnNBMmFjZVVfeGZkc28yYzdRRjFIQk5HSUJPUDFMcXljdGNFQTRiVDAybGV1Q0t6b3VrcGVKNDY3S0FOVXNhUGpLb0JwaC1pd3Nibk01N1NPNnZkLU9Jd2pqSmtoVm5aLWFYZm1HZUx3ck16Ym9JMVhXSl9OR3FaM2R2TENwMXd1R2xsTFFia1dzNGJXVkxUZHk2U2EyZlRlS1NhLVB3b1RwUU1GLTR4RTcxa2kzR3ZoTV80cUVXdU54UG03aXZoQzItQVdDaw?oc=5",
-   "source": "Daily Tribune Media",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Local Government",
-   "iso": "2026-07-30T18:30:00Z",
-   "id": "c4805361798d",
-   "origin": "google-news",
-   "source_title": "PNK Group, former NYC mayor to host Aug. 1 data center meeting - Daily Tribune Media",
-   "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPWXA2S3FEQXBjNzZzNk50NEJpS2RIWUFWTUthRlhqbVM2a1QwenFWbDR2UTl6QnNBMmFjZVVfeGZkc28yYzdRRjFIQk5HSUJPUDFMcXljdGNFQTRiVDAybGV1Q0t6b3VrcGVKNDY3S0FOVXNhUGpLb0JwaC1pd3Nibk01N1NPNnZkLU9Jd2pqSmtoVm5aLWFYZm1HZUx3ck16Ym9JMVhXSl9OR3FaM2R2TENwMXd1R2xsTFFia1dzNGJXVkxUZHk2U2EyZlRlS1NhLVB3b1RwUU1GLTR4RTcxa2kzR3ZoTV80cUVXdU54UG03aXZoQzItQVdDaw?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {
