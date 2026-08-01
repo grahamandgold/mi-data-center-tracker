@@ -1,27 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.freep.com/story/news/politics/2026/07/15/whitmer-data-center-pledge-safeguarding-water-energy/90929332007/",
-   "title": "Tech Giants Accelerate Hyperscale Builds as Power Demand Spikes Nationwide",
-   "at": "2026-07-15T21:10:31+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece about power demand and hyperscale builds with no Michigan-specific development or decision."
-  },
-  {
-   "url": "https://www.reuters.com/legal/litigation/where-authorities-are-restricting-data-centres-amid-ai-boom-2026-07-14/",
-   "title": "New York Governor Imposes First Statewide Moratorium on Hyperscale Data Centers",
-   "at": "2026-07-15T22:33:47+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: New York moratorium already killed twice; not Michigan-relevant."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbzI0MS1DdGpSZlBPZlNQODNneF9KcDV2aEFUZ3FCNFcxTThXUzJnUWx5cUdNWWRIRjZNZWhwZFA3NEVhUWx0RllGUzN6TmhIMzdEOUxNR3RZX3FwSkpaUjRCNk9GcklKdUFfSUV0M25lUlpWZDJoZFNmWEdSV0hhVnJJbHVxbzFhT3o5Ym5JS3AzRGxYQ3B0ZllBeVZxejhXUzNfN2ItSVNMZGtTOHRIbkp3?oc=5",
-   "title": "Oracle gets 1/9th the tax break it wanted in Saline Twp",
-   "at": "2026-07-15T22:33:47+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Saline Township Oracle tax break already live in two versions covering this same approval."
-  },
-  {
    "url": "https://bridgemi.com/business-watch/massive-data-center-wins-local-tax-break-but-9-times-smaller-than-requested/",
    "title": "Saline Township OKs $4.8B-based tax break for $43B Oracle-OpenAI data center",
    "at": "2026-07-16T01:04:11+00:00",
@@ -1399,6 +1378,27 @@
    "at": "2026-08-01T03:42:27+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece about New York policy with no Michigan-specific decision, development, or impact."
+  },
+  {
+   "url": "https://wtvbam.com/2026/07/31/965846/",
+   "title": "Coldwater Skips Moratorium to Lock In Strict Data Center Limits",
+   "at": "2026-08-01T06:37:58+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Thin rehash: Coldwater joint meeting was already live; this appears to be speculative follow-up about 'fast-tracking' rules without evidence of actual vote or f"
+  },
+  {
+   "url": "https://www.kucoin.com/news/flash/kentucky-s-4-8b-ai-data-campus-faces-lawsuit-and-moratorium",
+   "title": "Kentucky Town Enacts One-Year Pause on Large AI Data Centers",
+   "at": "2026-08-01T06:37:58+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece from Kentucky with no Michigan angle beyond illustrating broader resistance."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNSjBUbkQ5RE1kOUJmR1hTdzhOdHZOZzd5OEVTRE5iUmhqeXZZSVp2aDM5Q09Eck9JcGpKWVZfS1d1S2oyUlFPcW5VM0QtcWxjd1hSckpaSmJKcnJ5S2VDNTNXN05vYlUtLUgwM21hdFNiaHFoSlZ6OUMzNTdDSFlkeDRSVXQwX1U0cEtUMnpRclN1NDd6aUwzSV9RSF9ZZW5vUWg5YmFETXJBeF9TTERid3hsa3RaWkF0ZHZJOFlwVjJtY2ZTZm5aOHBwU2FSNGRNXzZvWXJ6eDM1Sk9mWGszN21iZjVHVlZfdlNsQUIxSmd1ZGR3UDF4ZWxWd0RtZTZrX0xwMTBHUGlSaXZ0RmNFMV9sa1dkdjVoc25ocmJVUXZtX0xURmlORms5ZEZiOEJrVWh4aWVNSzQ4cm9mX0NlWThyNnJWRm9seHJqZUxjTzZzOWExQzNEaFlSWQ?oc=5",
+   "title": "Cass County residents gear up to fight data center zoning",
+   "at": "2026-08-01T06:37:58+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: Duplicate: 'Cass County neighbors ready to block new data centers' already killed; same organizing effort, just reworded."
   }
  ],
  "auto_published": [
@@ -2373,6 +2373,12 @@
    "title": "Mason County bids to host Michigan's official state data center",
    "judge_score": 7,
    "at": "2026-08-01T03:42:27Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcHdTWnpPWmtjcGdBR2RpMi1fcFpiZlpPMjNOdTFqNEJmV2N1czlVekdsaWF3cjZ3Vk5ZUmVTdUNLRWVGSk9RTlBTdlFjekFLb2VGWmlGdk52VWV6bDYtNmlBVEJKdlpxLWktRjlOZmh4enMwLTVNWnhUUG1IVGxRQTBJQ3R0Ul9rbEkzckZLZE5VNEREOG1RNDBuUXlIWldOOFhGeG1aX2NCOU5QT0UxTmFQWVJBbGRPbDVGSG1BenZ3YnFLbDQ3R2ZiLTdwcmpnRkh6TEJRRVM0bWtRZXl3Y0x2RVcycklI?oc=5",
+   "title": "Otsego bans new data centers for a year",
+   "judge_score": 8,
+   "at": "2026-08-01T06:37:59Z"
   }
  ]
 }

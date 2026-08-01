@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-01T03:42:27Z",
+ "updated_at": "2026-08-01T06:37:59Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Otsego bans new data centers for a year",
+   "dek": "Otsego city council voted to halt all data center proposals for 12 months. Residents near potential sites now have breathing room before any large power or water demands hit local infrastructure. The pause gives the community time to shape rules that protect neighborhoods from noise and grid strain.",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcHdTWnpPWmtjcGdBR2RpMi1fcFpiZlpPMjNOdTFqNEJmV2N1czlVekdsaWF3cjZ3Vk5ZUmVTdUNLRWVGSk9RTlBTdlFjekFLb2VGWmlGdk52VWV6bDYtNmlBVEJKdlpxLWktRjlOZmh4enMwLTVNWnhUUG1IVGxRQTBJQ3R0Ul9rbEkzckZLZE5VNEREOG1RNDBuUXlIWldOOFhGeG1aX2NCOU5QT0UxTmFQWVJBbGRPbDVGSG1BenZ3YnFLbDQ3R2ZiLTdwcmpnRkh6TEJRRVM0bWtRZXl3Y0x2RVcycklI?oc=5",
+   "source": "hometownsource.com",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Allegan",
+   "tag": "Local Government",
+   "iso": "2026-08-01T05:00:00Z",
+   "id": "4680a4bc046e",
+   "origin": "google-news",
+   "source_title": "Otsego Council passes 1-year data centers moratorium - hometownsource.com",
+   "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcHdTWnpPWmtjcGdBR2RpMi1fcFpiZlpPMjNOdTFqNEJmV2N1czlVekdsaWF3cjZ3Vk5ZUmVTdUNLRWVGSk9RTlBTdlFjekFLb2VGWmlGdk52VWV6bDYtNmlBVEJKdlpxLWktRjlOZmh4enMwLTVNWnhUUG1IVGxRQTBJQ3R0Ul9rbEkzckZLZE5VNEREOG1RNDBuUXlIWldOOFhGeG1aX2NCOU5QT0UxTmFQWVJBbGRPbDVGSG1BenZ3YnFLbDQ3R2ZiLTdwcmpnRkh6TEJRRVM0bWtRZXl3Y0x2RVcycklI?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "Mason County bids to host Michigan's official state data center",
    "dek": "Local leaders are pitching the county as the site for a major state-backed facility that could bring construction jobs and long-term tax revenue. Residents would also face questions about power demand and land use if the project advances. The effort puts a rural western Michigan county in competition with larger metro areas for the economic prize.",
@@ -171,23 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPWXA2S3FEQXBjNzZzNk50NEJpS2RIWUFWTUthRlhqbVM2a1QwenFWbDR2UTl6QnNBMmFjZVVfeGZkc28yYzdRRjFIQk5HSUJPUDFMcXljdGNFQTRiVDAybGV1Q0t6b3VrcGVKNDY3S0FOVXNhUGpLb0JwaC1pd3Nibk01N1NPNnZkLU9Jd2pqSmtoVm5aLWFYZm1HZUx3ck16Ym9JMVhXSl9OR3FaM2R2TENwMXd1R2xsTFFia1dzNGJXVkxUZHk2U2EyZlRlS1NhLVB3b1RwUU1GLTR4RTcxa2kzR3ZoTV80cUVXdU54UG03aXZoQzItQVdDaw?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Council hopeful wants power-grid pause to block server farms until rural impact known",
-   "dek": "A council hopeful wants to halt data center proposals until impacts on power and land are clearer. Voters in the county will weigh whether the pause protects rural resources or slows economic growth. The stance could shape the race and future zoning fights.",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNmRrdjJpUExCT3cydHFwbXZIVEd6b29hOVRHTkFtXzFqUUppMWhEMmNJSDY4N3ZkZkpvdFQwWXVyOUVuM3BLOWxLazZDRGFyWVFwUGhXeU9nckNDLWU3LTNYNnVMRjlMRmhFRjNienRqUnpoQnNkMF91SG5wSS1XSG9YLVBaN2FIMWZYYjlNV2J6YlppU2gzcThFU0FJQkItTGtOUjhjMXFidw?oc=5",
-   "source": "95.3 MNC",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "St. Joseph",
-   "tag": "Local Government",
-   "iso": "2026-07-30T18:00:05Z",
-   "id": "c819cd3c6437",
-   "origin": "google-news",
-   "source_title": "St. Joseph County Council candidate calls for moratorium on data centers - 95.3 MNC",
-   "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNmRrdjJpUExCT3cydHFwbXZIVEd6b29hOVRHTkFtXzFqUUppMWhEMmNJSDY4N3ZkZkpvdFQwWXVyOUVuM3BLOWxLazZDRGFyWVFwUGhXeU9nckNDLWU3LTNYNnVMRjlMRmhFRjNienRqUnpoQnNkMF91SG5wSS1XSG9YLVBaN2FIMWZYYjlNV2J6YlppU2gzcThFU0FJQkItTGtOUjhjMXFidw?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {
