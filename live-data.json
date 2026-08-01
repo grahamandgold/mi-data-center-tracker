@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-01T15:39:41+00:00",
+ "updated_at": "2026-08-01T17:13:58+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -204,6 +204,21 @@
   "id": "02d7912fe03d",
   "accuracy": "checked"
  },
- "meetings": [],
+ "meetings": [
+  {
+   "iso": "2026-08-03",
+   "body": "Delta County Planning Commission",
+   "topic": "Data Center Subcommittee Update and zoning ordinance discussion",
+   "region": "Northern Michigan",
+   "regionKey": "north",
+   "county": "Delta",
+   "time": "6:00 PM",
+   "status": "Planning commission",
+   "urgent": false,
+   "link": "https://deltacountymi.gov/",
+   "linkLabel": "Agenda Center",
+   "stream": ""
+  }
+ ],
  "accuracy_checked_at": "2026-07-08T08:45:16+00:00"
 }

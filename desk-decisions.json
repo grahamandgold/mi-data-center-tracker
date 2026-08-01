@@ -1,27 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeFAtSU1LM19lYmItdm91OC1KQWxRTVA3aUxOYl85M0hlNWlZdndSUXV2MHd5V2xiNXhIazhFVDAxcFdBUzljakp0bmhDMGRxVmNQMlRWNEtHSjZFSjBrQmVEbVJVSEQ0UzFsRU9lZEFUdDFLX2o2V0pYa3BsNHlGNlhtZVNneXQzU18zRWxaNGFBYlU5ZVJRbXNpSW9VNGNBSVNuSXMxNFZrSjUyR0VuUjBlMEtKSGoxX21UakVvVWNpbi1fRXZERTVGYUdzZHBzZjJGV1lqZW_SAewBQVVfeXFMTjR0SV8xWEFWbXdBWGVoYl83eVl5cjBpSHlSaldaeVBSSGEwY0xvcjk1NktoX1RyWW9KZ19kclVSZnhycXZTOU9SLWV4WkhuWHdDeTNDYkpWSEFSVlhodzh2TFlucG9PTjFkdmFSYlVpWmlQd2hVRzBWLUNXd2J3dDRTNVMtS1dLWC1xUk5qbF9wZzVfT2VhYVlpQm5kdHNaNzg2M1IxQU9rR1lvcEE0V2lMMlFNck5TeHBnVWhzNm9qYS0xcjE1Yi1OVzB4WlNLTVJpZmdvcnNpcFpBRWNiNHNjVmI5cDRJRFE3OVU?oc=5",
-   "title": "Ypsilanti residents keep fighting UM-Los Alamos data center plan",
-   "at": "2026-07-16T07:05:56+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Ongoing resident opposition without a new concrete development, meeting, or decision; the U-M data center fight is already live and this appears to be a general"
-  },
-  {
-   "url": "https://www.wbur.org/hereandnow/2026/07/15/ai-data-centers",
-   "title": "New York and Monterey Park Ban New Data Centers as Opposition Spreads",
-   "at": "2026-07-16T09:23:27+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece aggregating already-covered New York moratorium with California city action; no Michigan development or impact reported."
-  },
-  {
-   "url": "https://planetdetroit.org/2026/07/whitmer-data-center-pledge/",
-   "title": "Whitmer Seeks Laws to Block Data Center Rate Hikes, Backs Voluntary Corporate Pledge",
-   "at": "2026-07-16T13:05:41+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Thin rehash combining the already-live voluntary pledge story with vague legislative speculation that lacks concrete bill text, filing, or hearing date."
-  },
-  {
    "url": "https://www.mlive.com/news/2026/07/new-york-is-the-first-state-to-approve-an-ai-data-center-ban.html",
    "title": "New York Becomes First State to Ban New AI Data Centers",
    "at": "2026-07-16T13:05:41+00:00",
@@ -1399,6 +1378,27 @@
    "at": "2026-08-01T12:08:12+00:00",
    "by": "news_judge",
    "note": "score 4/10, duplicate: Same permit application and public comment period already covered in 'Saline data center seeks river discharge permit amid local pushback' — no new development "
+  },
+  {
+   "url": "https://www.eenews.net/articles/michigan-senate-primary-puts-data-center-politics-to-the-test/",
+   "title": "Senate Primary Tests Data Center Crackdown as Campaign Issue",
+   "at": "2026-08-01T17:14:24+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Speculative campaign-trend piece about whether data center opposition will work as an electoral strategy, not a concrete development."
+  },
+  {
+   "url": "https://www.salemreporter.com/2026/07/31/while-salem-project-is-uncertain-verrus-advances-data-center-in-michigan/",
+   "title": "Verrus Clears Hurdle for Large Michigan Data Center While Salem Fights 75-Acre Plan",
+   "at": "2026-08-01T17:14:24+00:00",
+   "by": "news_judge",
+   "note": "score 5/10, duplicate: Duplicate of already-live 'Verrus pushes ahead on Michigan data center while Salem site stalls' — same Lyon/Salem developments, just reworded."
+  },
+  {
+   "url": "https://www.miningjournal.net/opinion/letters-to-the-editor/2026/08/we-need-a-better-conversation-about-data-centers/",
+   "title": "Letter Urges Thoughtful Planning on Data Centers in the UP",
+   "at": "2026-08-01T17:14:24+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Opinion letter calling for better planning is soft commentary, not a concrete action or filing."
   }
  ],
  "auto_published": [
