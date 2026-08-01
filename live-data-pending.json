@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-01T22:05:39+00:00",
+ "updated_at": "2026-08-01T23:10:01+00:00",
  "generator": "grok-wire-agent",
  "items": [
   {
@@ -41,5 +41,5 @@
    "judge_note": "Concrete new development: a specific committee in Chippewa County is seeking a moratorium with defined dates and scope across six towns."
   }
  ],
- "accuracy_checked_at": "2026-08-01T22:05:39+00:00"
+ "accuracy_checked_at": "2026-08-01T23:10:01+00:00"
 }
