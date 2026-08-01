@@ -93,11 +93,13 @@
   {
    "id": "L002",
    "trigger": "story-selection",
-   "rule": "Only use stories from the past 8-12 hours; discard older items.",
+   "rule": "Only use stories from the past 6-12 hours; discard older items.",
    "applies_to": "all",
-   "weight": 1.0,
+   "weight": 2.5,
    "examples": [
-    "Lawmakers in 20+ States Propose Rules on Data Centers"
+    "Lawmakers in 20+ States Propose Rules on Data Centers",
+    "Delta County Planners Approve Year-Long Pause",
+    "Detroit Planners Begin Crafting Rules"
    ],
    "retired": false
   },
@@ -108,54 +110,105 @@
    "applies_to": "wire",
    "weight": 1.5,
    "examples": [
-    "Dowagiac Residents Report Persistent Noise From Nearby Data Center"
+    "Dowagiac Residents Report Persistent Noise (Vice linking to MLive)"
    ],
    "retired": false
   },
   {
    "id": "L004",
-   "trigger": "headline",
-   "rule": "Headlines must include context, stakes, and impact; never use the word 'update'.",
-   "applies_to": "all",
-   "weight": 2.0,
+   "trigger": "story-selection",
+   "rule": "Meeting stories should be pulled from the queue once their scheduled time has passed.",
+   "applies_to": "wire",
+   "weight": 1.0,
    "examples": [
-    "Saline Twp Board Agenda Includes Data Center Update"
+    "Board meeting scheduled for 7pm pulled after event concludes"
    ],
    "retired": false
   },
   {
    "id": "L005",
-   "trigger": "social-posts",
-   "rule": "Limit to a few posts per day; source only from notable political leaders with balanced D/R mix.",
+   "trigger": "headline",
+   "rule": "Headlines must include context, stakes, and impact; never use the word 'update' or meeting jargon.",
    "applies_to": "all",
-   "weight": 1.5,
+   "weight": 3.0,
    "examples": [
-    "Democratic Senate candidates clash over AI data center regulation"
+    "Saline Twp Board Agenda Includes Data Center Update",
+    "Saline Board to Review IFEC Application",
+    "Delta County Planning Commission Backs 12-Month Moratorium"
    ],
    "retired": false
   },
   {
    "id": "L006",
-   "trigger": "sourcing",
-   "rule": "Verify all links and sources before use; reject non-functional or fabricated references.",
+   "trigger": "headline",
+   "rule": "Headlines must differ from source headlines; rewrite to add unique angle and impact.",
    "applies_to": "all",
-   "weight": 1.5,
+   "weight": 3.0,
    "examples": [
-    "U.S. Data Center Power Demand Surges as Tech Giants Accelerate AI Infr"
+    "Adrian enacts year-long pause on new data center proposals",
+    "Saline Township weighs 12-year tax break for Oracle's $43 billion proj",
+    "Girard Township passes strict new zoning rules"
    ],
    "retired": false
   },
   {
    "id": "L007",
+   "trigger": "headline",
+   "rule": "Headlines must explain why readers 30-60 miles away should care; avoid boring procedural language.",
+   "applies_to": "all",
+   "weight": 2.0,
+   "examples": [
+    "Tonight in Saline Twp: Data Center Update on agenda",
+    "Saline Board to Review IFEC Application"
+   ],
+   "retired": false
+  },
+  {
+   "id": "L008",
+   "trigger": "social-posts",
+   "rule": "Limit to a few posts per day; source only from notable political leaders with balanced D/R mix.",
+   "applies_to": "all",
+   "weight": 2.0,
+   "examples": [
+    "Democratic Senate candidates clash over AI data center regulation",
+    "Haley Stevens non-answer on data centers"
+   ],
+   "retired": false
+  },
+  {
+   "id": "L009",
    "trigger": "social-posts",
    "rule": "Ignore random or non-notable social media rants; only quote established voices.",
    "applies_to": "all",
    "weight": 1.0,
    "examples": [
-    "John James criticized for data center builder donations amid attacks"
+    "John James criticized for data center builder donations (random X post)"
+   ],
+   "retired": false
+  },
+  {
+   "id": "L010",
+   "trigger": "sourcing",
+   "rule": "Verify all links and sources before use; reject non-functional or fabricated references.",
+   "applies_to": "all",
+   "weight": 1.5,
+   "examples": [
+    "U.S. Data Center Power Demand Surges (broken link)"
+   ],
+   "retired": false
+  },
+  {
+   "id": "L011",
+   "trigger": "story-selection",
+   "rule": "Research backstory and context from other media reports; add details beyond agenda items or press releases.",
+   "applies_to": "all",
+   "weight": 2.0,
+   "examples": [
+    "Tonight in Saline Twp: Data Center Update (needed previous meeting context)",
+    "Saline Twp Board Agenda (what happened at last meeting?)"
    ],
    "retired": false
   }
  ],
- "rules_compiled_at": "2026-07-08T20:29:13+00:00"
+ "rules_compiled_at": "2026-08-01T09:51:54+00:00"
 }
