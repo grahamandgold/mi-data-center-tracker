@@ -1,27 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.mlive.com/news/2026/07/new-york-is-the-first-state-to-approve-an-ai-data-center-ban.html",
-   "title": "New York Becomes First State to Ban New AI Data Centers",
-   "at": "2026-07-16T13:05:41+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: New York moratorium already killed twice; not Michigan-relevant and adds no new development beyond what was previously rejected."
-  },
-  {
-   "url": "https://www.mlive.com/news/detroit/2026/07/wixom-city-council-rejects-data-center-waiver-moratorium-stays-in-place.html",
-   "title": "Wixom Council Rejects Waiver Request, Keeps Data Center Moratorium in Place",
-   "at": "2026-07-16T15:11:30+00:00",
-   "by": "news_judge",
-   "note": "score 4/10, duplicate: Duplicate of already-killed 'Wixom keeps moratorium after rejecting data-center waiver' and 'Wixom keeps its data center moratorium after rejecting a developer'"
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa2piaGE0V2Jxc192bVYxcGk0YkpRSnBzTlJBUHRMSHN6NldIMnFrTHlhUXMzSTZ6RWV2NWhkY3cxX0toWVc3eXhlTm9ETHU3enpVaHpZeTA5QWxWVkVVWVVhVGFfbkdqNGtOSmxBQ19aOUN0b1RuMUZtNnhBdTF6T2ZnYW1FLUc0V3VOdzNyLWY3YjV2a3VvMVU1S19aLTk0MlFFZGhmd0FpVzZIWVJnZi1mMFNlQdIBuwFBVV95cUxQU0xyNUNFVTlxbHV6dDlMMVFaRGV2UnFJWW9yanNQaDV4b0Jtc2JYYXhqcnl0WDJiM2tjZzRuNVFnUlVXS05DRVJGWXZoWVJtUTFYRHM4OHZfdy15YXhLTmt0MnNhMEduRDlpRXBNYW1PNFoxT2NKUzBCc1pZY2lIZll6eW1xeHk0WFRIM1Y5U09FM3JkYkFyQlc1SEVRWUdPeG9zU1U2R3JGczZVNTZzdldPbDVOU292dk9B?oc=5",
-   "title": "Michigan farmland towns battle new AI data center projects",
-   "at": "2026-07-16T15:11:30+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Generic trend piece aggregating multiple fights without naming specific new developments or decisions; lacks concrete news pegs."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUUx0OTgwRnJvMXFiak01dXBUTUhGcWJpTVk2dTdOdElFQXVleTNjQkthMnh2OFpfd3R5UUhoNEtncXNSdWVlMlBsWkFwd3NuemhpZjBNQnNKdy1Gc1g2aU9mbGwtYjJ5RUxLSm5vS0FlR3Q3VEJLQno5WFM2SVBMSnN1VGFoU0tIWWo4VkJiLVJQSlBlM0pmYUpqUGY0UTN4ZFlMNFd1eEhWc2ZqVHNFdjlSeUZmVzZUQjc4Nk53bUdVVk1uTTV3OGRyWTlkMGtYS0tNeS00WQ?oc=5",
    "title": "Whitmer data center pledge promises to shield Michigan ratepayers and water",
    "at": "2026-07-16T15:11:30+00:00",
@@ -1399,6 +1378,27 @@
    "at": "2026-08-01T17:14:24+00:00",
    "by": "news_judge",
    "note": "score 3/10: Opinion letter calling for better planning is soft commentary, not a concrete action or filing."
+  },
+  {
+   "url": "https://www.wxyz.com/news/region/washtenaw-county/saline-river-at-center-of-permit-request-tied-to-oracle-openai-data-center-in-saline-township",
+   "title": "Oracle and OpenAI seek state permit to discharge treated wastewater from Saline Township data center into Saline River",
+   "at": "2026-08-01T21:04:08+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicate of already-live 'Saline data center seeks river discharge permit amid local pushback' — same permit filing, same project."
+  },
+  {
+   "url": "https://www.politico.com/news/2026/07/08/trump-data-centers-water-supreme-court-00958383",
+   "title": "Court ruling allows more data centers to bypass federal water permits in sensitive areas",
+   "at": "2026-08-01T21:04:08+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece with no Michigan-specific development or decision."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSjZWXy1NMEk2QVpQZURXUUh2SDlUamRTN0lqandaWUFhd3JMZVA3SEJTUzRjMDVMUkRwTnJmRC1oLVBLUGhrdnJXMVVYcEZYV3JvZE16TWNRRG50RmZPVWxoaDI4bnM1b05uWXRDTzJLaEM5YmQzcTdSbFotZkRaVTdsNFJQY21VbW9XMUNJUE1kUnNORVdROHh3bmJKNUFKb2hnQ1RjOElTa2owenNHeUFTdE1QZy1rVUFDVHVnNUl3bFN5UjI5UWd1UnNVYW15bUMzZkpEUVJLdGtz?oc=5",
+   "title": "Michigan congressman seeks pause on server farms amid power grid concerns",
+   "at": "2026-08-01T21:04:08+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Thin speculation about a possible moratorium with no concrete action taken; John James already covered on town-level rules but this appears incomplete and vague"
   }
  ],
  "auto_published": [
