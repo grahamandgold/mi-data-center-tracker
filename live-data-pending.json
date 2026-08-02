@@ -1,26 +1,6 @@
 {
- "updated_at": "2026-08-02T01:09:23+00:00",
+ "updated_at": "2026-08-02T04:59:18Z",
  "generator": "grok-wire-agent",
- "items": [
-  {
-   "iso": "2026-07-31T16:00:00+00:00",
-   "region": "north",
-   "cat": "Chippewa Co.",
-   "tag": "Local Government",
-   "title": "Chippewa County Proposes 10-Month Data Center Pause Over Water and Power Use",
-   "dek": "The Planning and Zoning Committee seeks a moratorium from September 2026 to July 2027 that would cover six towns after residents raised concerns about energy consumption, water demand, noise, and property values.",
-   "source": "Civic Media",
-   "url": "https://civicmedia.us/news/2026/07/31/chippewa-county-data-center-moratorium",
-   "breaking": false,
-   "lead": true,
-   "id": "41098e086064",
-   "kind": "story",
-   "filed_at": "2026-08-01T06:37:36+00:00",
-   "accuracy": "checked-rewritten",
-   "headline_rewritten": true,
-   "judge_score": 7,
-   "judge_note": "Concrete new development: a specific committee in Chippewa County is seeking a moratorium with defined dates and scope across six towns."
-  }
- ],
- "accuracy_checked_at": "2026-08-02T01:09:19+00:00"
+ "items": [],
+ "accuracy_checked_at": "2026-08-02T04:59:14+00:00"
 }

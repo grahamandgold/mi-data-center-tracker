@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-02T01:09:16+00:00",
+ "updated_at": "2026-08-02T04:59:18Z",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -18,6 +18,21 @@
    "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeW5PYjllaTNNWDhNRDQ1WDItV2ZTVFB4YjhNNXJsanNwX3h1VFVjMHZVZkZDRE1EM29NSGt5akVIWmhMTXp5UXZVMTN2UFZVVTNIdkVDMEozWGItUFdtRlNwbm0tMVZ1MTlDblRyWnlLQ2tKMVBsS25taHBBbS01MEFvRkZha0NTRDh4aWkzYVpIanZjNENPMC1CcXVPM2YyX3FVSW8xWlF1d19iNDNuZlhGVWVOUXdsTmNuVVFERmtPeU0ycU1hNUZFZUNiSmFLTlFzSEhaMF9OZw?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
+  },
+  {
+   "iso": "2026-08-01T19:00:00+00:00",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "tag": "Money",
+   "title": "Dowagiac Campus to Supply 20 Megawatts of AI Compute Under 10-Year Deal",
+   "dek": "Hyperscale Data will reallocate power at its 415 East Prairie Ronde Street site from Bitcoin mining to a new 20-megawatt AI hosting contract that could generate more than $1.2 billion over the full term, with residents still litigating noise from the facility.",
+   "source": "Startup Fortune",
+   "url": "https://startupfortune.com/hyperscale-data-sells-100-bitcoin-to-bankroll-its-michigan-ai-data-center-pivot/",
+   "breaking": false,
+   "lead": false,
+   "id": "2dc97ee8d994",
+   "accuracy": "checked-rewritten",
+   "judge_score": 8
   },
   {
    "title": "Genesee County delays vote on data center environmental clearance",
@@ -171,23 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcU1VckVMMXNVQnVZcVlZWDJBUUVEcTQ0dmlyUkJuVG5JWWJsTTBlalZtUTR3NTdwQ05DcnBQSWVDVVhvbTZGWVl2NDdNTm00NGtWbEdURTJzeVBsRHFfdUM0N2hFUzJlZ3ZWWmtvUFppOGw0aTRqekxtaWpDY0dOVF9tNE44ZDEzTWV4THJfalc4UWJiMUFYUGN5Ujl4NkF2VDZz?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "District C race hinges on pausing AI server farms until power, zoning rules catch up",
-   "dek": "The two contenders for District C on the county council say local rules are not ready for large AI projects. They want a pause while the county studies power demand and zoning. The race could set the tone for other southwest Michigan townships.",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQmZ3Q2I4eVRlNXc0TnBaMmhPTmY0NmR4Y2FjdU53c1RhTVItNVZPcERVV3o2S3pyTUljaVdkbEluOXJvcVhGdGZ4MWlMT3l1M3FkMTFnS2ZzdnBSd3dhM1pfTUZoUWpIYnlkV2J6MG5PMXlSd0FlSUY0eWxOeGJvM0phcThpeWRiVl9tMnNFSEJKUnVSaFVDMllNTXVMVFpaWXpFVHFERWVuMnJwU002ZWl30gHGAUFVX3lxTE5ua1NfdVFNdURqVUh6MlhPdjR6Szhwc2ZTYjdEaXJWTF9UQ1lMU1Njemd1T2ZCc29aTXkwemdVVTFnTWg3Q25CeFRyeENqTXhmbXhxZU1RMmdnV3JlYjBCdDFUbk9Qb3d4cWlRNnZzSUR2YlFaei1RMTRuY2J6TkJ6QlRCTk1aV1RJdG5TaWxwekViUmRkMHFSTmlKdkVKbnM0b2h2OUlRZmZvZHdjMzlEWG5yeTJUUDVzVkdtVGdpRkthLVBUUQ?oc=5",
-   "source": "WNDU",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "St. Joseph",
-   "tag": "Local Government",
-   "iso": "2026-07-30T23:21:00Z",
-   "id": "79c8e84d795c",
-   "origin": "google-news",
-   "source_title": "Both candidates for St. Joseph County Council District C call for data center moratorium - WNDU",
-   "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQmZ3Q2I4eVRlNXc0TnBaMmhPTmY0NmR4Y2FjdU53c1RhTVItNVZPcERVV3o2S3pyTUljaVdkbEluOXJvcVhGdGZ4MWlMT3l1M3FkMTFnS2ZzdnBSd3dhM1pfTUZoUWpIYnlkV2J6MG5PMXlSd0FlSUY0eWxOeGJvM0phcThpeWRiVl9tMnNFSEJKUnVSaFVDMllNTXVMVFpaWXpFVHFERWVuMnJwU002ZWl30gHGAUFVX3lxTE5ua1NfdVFNdURqVUh6MlhPdjR6Szhwc2ZTYjdEaXJWTF9UQ1lMU1Njemd1T2ZCc29aTXkwemdVVTFnTWg3Q25CeFRyeENqTXhmbXhxZU1RMmdnV3JlYjBCdDFUbk9Qb3d4cWlRNnZzSUR2YlFaei1RMTRuY2J6TkJ6QlRCTk1aV1RJdG5TaWxwekViUmRkMHFSTmlKdkVKbnM0b2h2OUlRZmZvZHdjMzlEWG5yeTJUUDVzVkdtVGdpRkthLVBUUQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {

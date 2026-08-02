@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM0FSLXplMFpqLTdia1l4cDY3YklKZ1M4bUFkc1F1WWZBU3hrRXdtUGJVU042aDVoS01ndGg4RTVmLVNjS1VYUEZlTzVNVmhOOHdsRDVpZFBqdHNhZThjRGNKQU5EMUV0OGZiMFJxbjNZQ1BpRzBXTTNTdUdqQVdvR3pnUzh2V0c3NElnUUhubVI0aUJWQ1oxVmk1bTJEeHFwLUJBYlBMRkFjRUl1Sl9HUEVRZnFib1nSAcsBQVVfeXFMTXpNZ2lCNFFBYUhBQ2V2RzFKUVRHYXdSLTlGbXJ5eEJNUTFleVIweTRsTFJaVHp4c3dJZVNlVlJ1NHczNEFpb1ZGWnVCUlpkNkpEVkJXZko4MXNoTDZIVVI3UVNrLXhndWJYMXlmZWU1cVhSSk9sN1g3VTBXUXFxMXktX0EtNjZKb2JOS3k3VE5CVEFWX1V2Z2p4aGdhYXg4UXhTQlpVQUtnTFNJeUItNUtSLWZHMnhWZHR3eWI5MHVOX2EycmtFZE9obUU?oc=5",
-   "title": "Michigan data center proposals now top dozens as buildout accelerates",
-   "at": "2026-07-16T16:51:43+00:00",
-   "by": "news_judge",
-   "note": "score 5/10: MLive tally/roundup provides incremental value by documenting the scope of proposals statewide, but no specific new decision or vote."
-  },
-  {
    "url": "https://civicmedia.us/news/2026/07/16/massive-data-center-wins-local-tax-break-but-9-times-smaller-than-requested",
    "title": "Saline Township Slashes Data Center Tax Break to Under $20M a Year",
    "at": "2026-07-16T18:14:53+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-02T01:09:23+00:00",
    "by": "news_judge",
    "note": "score 4/10: Campaign position from a state Senate candidate on federal moratorium; similar to [0] but different race and candidate, still just campaign rhetoric without con"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONUEtV1VGWE9MOUYyWUZwREpaNjBCV2JzNnpTQVZwQ01iOHBVdFRoQnhqdzFDTzlxNGVzeDJndGMzNlBXdFlWQW1zWTRtd05NS1lDNGdsWldTWVc3dVgtamcyMU1VVVlsT2EwTVg4a3VYdThfbGQ4a1RMYTlhRXhJQkF1Wk5QVTEyVWJGRmlvMUFPaFZheWE2M0Q4X2dac3VHSW5oc25tcW9Eem8?oc=5",
+   "title": "Hyperscale Data sells Bitcoin stash to fund Michigan AI center switch",
+   "at": "2026-08-02T04:59:18+00:00",
+   "by": "news_judge",
+   "note": "score 1/10, duplicate: Duplicate of killed story 'Hyperscale Data sells Bitcoin to bankroll Michigan AI campus' and 'Hyperscale Data sells Bitcoin holdings to bankroll Michigan AI cam"
   }
  ],
  "auto_published": [
@@ -2391,6 +2391,12 @@
    "title": "John James: let Michigan towns decide data center rules",
    "judge_score": 6,
    "at": "2026-08-01T19:47:25Z"
+  },
+  {
+   "url": "https://startupfortune.com/hyperscale-data-sells-100-bitcoin-to-bankroll-its-michigan-ai-data-center-pivot/",
+   "title": "Dowagiac Campus to Supply 20 Megawatts of AI Compute Under 10-Year Deal",
+   "judge_score": 8,
+   "at": "2026-08-02T04:59:18Z"
   }
  ]
 }
