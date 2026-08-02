@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://michiganadvance.com/2026/07/15/whitmer-rolls-out-data-center-plan-calls-on-lawmakers-to-pass-laws-protecting-energy-customers/",
-   "title": "Whitmer Asks Data Centers to Pledge No Rate Hikes for Michigan Families",
-   "at": "2026-07-16T18:14:53+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Identical to already-live 'Whitmer urges data centers to sign pledge shielding ratepayers' and killed stories about the same pledge announcement."
-  },
-  {
    "url": "https://www.baltimoresun.com/2026/07/16/trump-blasts-hochul-new-york-over-moratorium-on-data-center-construction/",
    "title": "Trump: Hochul's Data Center Pause Sends Jobs and Tax Revenue to Other States",
    "at": "2026-07-16T18:14:53+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-02T07:37:57+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece about populist backlash lacks Michigan-specific development or decision; too broad and speculative for a Michigan data center tracker."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdk9EZjRxY0ptWXRycjU2UFF2VlpCQjdWVDNWNW5Vc0tqMTZrZ2dtZ05Kc0JMNVBQVVNJaUxuT1JuQzdOcUF4amhKOUlmd3VJSnY3NHpnWG9SYVpfamZzV1lPdm9uSzlvN3pBWWI2SG1iNnc2OFNaZVg0RWlLSXlsNzlqdy1rRXVVaUlfMHlmcW5od2JJWkRzdU9LNXRITVk1R0pOV21iS0FkaGp1dzdPSlFPc3FENlZ40gG-AUFVX3lxTE1BajE3Q0ZCam9zdmZmNmY1SXF4ejhtWVJ6bHdyOXEwd1U1cjVXX2RxRk1iazFGRkxQWDlGd3V1cG5OUFo4cXZtQ0ZkLVdXZFJlQ0k1NWI1TlE1TVp1S0RGc2x2Z0J1LWQwSTM4NVJ3MXVWMkhVYy1VYW02cW9TSE1EOGJKWmFhWFFnN25RNE1zTkszZkJBXzl3bW1tcVBrcFB6cG5ja1BtLThNak4zMlduU2J4dDdtTnU2S25hRXc?oc=5",
+   "title": "Michigan Senate hopeful pushes nationwide AI data center freeze",
+   "at": "2026-08-02T10:05:36+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicate of killed story 'DSA House candidate calls for federal moratorium on AI data centers' and 'Michigan Senate hopeful backs nationwide halt on AI data ce"
   }
  ],
  "auto_published": [
