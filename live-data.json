@@ -1,7 +1,22 @@
 {
- "updated_at": "2026-08-02T14:41:51+00:00",
+ "updated_at": "2026-08-02T16:09:15Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "iso": "2026-08-02T12:00:00Z",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "tag": "Policy",
+   "title": "Poll: 55% of Michigan primary voters oppose nearby data centers",
+   "dek": "Opposition hits 63% among likely Democratic primary voters as candidates clash over who pays higher electric bills and water use.",
+   "source": "The Cooldown",
+   "url": "https://www.thecooldown.com/green-business/data-centers-michigan-democratic-primary-candidates/",
+   "breaking": false,
+   "lead": true,
+   "id": "d19df0428616",
+   "accuracy": "checked-rewritten",
+   "judge_score": 7
+  },
   {
    "title": "John James: let Michigan towns decide data center rules",
    "dek": "U.S. Senate candidate John James told The Detroit News he would leave data-center siting and tax decisions to local officials rather than impose state rules. The stance matters in townships like Saline and Coldwater where residents are already fighting over power use, water draw and tax breaks. Voters in the Aug. 4 primary will see whether the position helps or hurts him in data-center-heavy counties.",
@@ -167,23 +182,6 @@
    "origin": "google-news",
    "source_title": "US Congressman Seeks Commerce Review of Hyperscale Data's Use of Chinese Robots in Michigan Project - AI Insider",
    "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNVVMa2FvUlprNFZVTjFVYmpBOFl5cTRMTjhYdHpPQ0UzTDE4d1NJSVdqRWhxR1dqVVdrYW5ab3VGSXozZHZTWF9SRS16V1FOV0JydlE1MHhkd2JHelVoVERoNzhLdVdxT3hSM2NUd2xUZ0dIWFVGTjhGR3lLeUcybk5uZVZmal9ybG5QSnBkR2JZVjdwc2VyYk5GZjY3VzhYZ0VWbHlYcXZjZmVjVVdTWXNDbDFoZnE1djJCWUFrUEJkTzBSQm8tbUlwTllzQ2IyTUNCWnZLNA?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
-  },
-  {
-   "title": "Saline data center seeks river discharge permit amid local pushback",
-   "dek": "A permit application for discharging into the Saline River is now open for public comment, tied to a major data center project. Residents in Washtenaw County face potential impacts on local water quality and usage from the facility's operations. The filing highlights ongoing tensions over infrastructure demands in the township.",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcU1VckVMMXNVQnVZcVlZWDJBUUVEcTQ0dmlyUkJuVG5JWWJsTTBlalZtUTR3NTdwQ05DcnBQSWVDVVhvbTZGWVl2NDdNTm00NGtWbEdURTJzeVBsRHFfdUM0N2hFUzJlZ3ZWWmtvUFppOGw0aTRqekxtaWpDY0dOVF9tNE44ZDEzTWV4THJfalc4UWJiMUFYUGN5Ujl4NkF2VDZz?oc=5",
-   "source": "The Sun Times News",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Water",
-   "iso": "2026-07-30T23:55:53Z",
-   "id": "d8243005f728",
-   "origin": "google-news",
-   "source_title": "Weekly Data Center Watch: Saline River Discharge Permit Opens for Comment - The Sun Times News",
-   "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcU1VckVMMXNVQnVZcVlZWDJBUUVEcTQ0dmlyUkJuVG5JWWJsTTBlalZtUTR3NTdwQ05DcnBQSWVDVVhvbTZGWVl2NDdNTm00NGtWbEdURTJzeVBsRHFfdUM0N2hFUzJlZ3ZWWmtvUFppOGw0aTRqekxtaWpDY0dOVF9tNE44ZDEzTWV4THJfalc4UWJiMUFYUGN5Ujl4NkF2VDZz?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
   }
