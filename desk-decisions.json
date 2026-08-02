@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://civicmedia.us/news/2026/07/16/massive-data-center-wins-local-tax-break-but-9-times-smaller-than-requested",
-   "title": "Saline Township Slashes Data Center Tax Break to Under $20M a Year",
-   "at": "2026-07-16T18:14:53+00:00",
-   "by": "news_judge",
-   "note": "score 9/10, duplicate: Same Saline Township tax-break decision already covered in killed story 'Saline Township OKs $4.8B-based tax break for $43B Oracle-OpenAI data center' and 'Orac"
-  },
-  {
    "url": "https://michiganadvance.com/2026/07/15/whitmer-rolls-out-data-center-plan-calls-on-lawmakers-to-pass-laws-protecting-energy-customers/",
    "title": "Whitmer Asks Data Centers to Pledge No Rate Hikes for Michigan Families",
    "at": "2026-07-16T18:14:53+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-02T04:59:18+00:00",
    "by": "news_judge",
    "note": "score 1/10, duplicate: Duplicate of killed story 'Hyperscale Data sells Bitcoin to bankroll Michigan AI campus' and 'Hyperscale Data sells Bitcoin holdings to bankroll Michigan AI cam"
+  },
+  {
+   "url": "https://www.politico.com/news/2026/08/01/data-centers-have-a-politics-problem-and-industry-knows-it-01020412",
+   "title": "Data Center Industry Faces Growing Populist Backlash Over Local Impacts and Costs",
+   "at": "2026-08-02T07:37:57+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece about populist backlash lacks Michigan-specific development or decision; too broad and speculative for a Michigan data center tracker."
   }
  ],
  "auto_published": [
