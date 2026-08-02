@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.baltimoresun.com/2026/07/16/trump-blasts-hochul-new-york-over-moratorium-on-data-center-construction/",
-   "title": "Trump: Hochul's Data Center Pause Sends Jobs and Tax Revenue to Other States",
-   "at": "2026-07-16T18:14:53+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National political commentary on New York's moratorium, not a Michigan development; thin relevance despite mentioning competing states."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON09oMXczZHFDaGVzN082T3ZtM3p0ejdXLUdOdzZlYzR5YWlxY3JsR1RQa1RSYzk4Z0RZR3J5bVRvS3hNcGg5dmJxaktLejc5U1NIbnA2dGVWMXJjcDZGenpPUlgxaDhCMFN2T1JzRHpNTnpvMEJwTzFXYndPYkV2MkpDS0VjaG9Ya1R0MVp5SGoyek9CV0NRZUs0ci1qMURNOWhHWjRVWURfa0E2SXU3cnpBYjk3ZnVJaFZiZVE2U3d4QQ?oc=5",
    "title": "Dowagiac neighbors sue over nonstop data center noise",
    "at": "2026-07-16T18:14:53+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-02T10:05:36+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Duplicate of killed story 'DSA House candidate calls for federal moratorium on AI data centers' and 'Michigan Senate hopeful backs nationwide halt on AI data ce"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LbkhaRXZtZVFQWDdmV2R0QnduenQ5Rmd6bWxfQ0lTajh1Y0htTlg4TVZGNDZUZDVVX2V1QlBDSmNYRHRzLS14eGdKN2YwWXowMFYwSjE2V3hob3YybEEwSHRhRmM0XzBhdDRtamVUc1E3U3RCX3pTeQ?oc=5",
+   "title": "John James wants towns, not state, to decide data-center rules",
+   "at": "2026-08-02T11:29:22+00:00",
+   "by": "news_judge",
+   "note": "score 1/10, duplicate: This is the same John James position on local control already live in the first item of the ALREADY LIVE list."
   }
  ],
  "auto_published": [
