@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.detroitnews.com/story/news/politics/2026/07/15/michigan-gretchen-whitmer-data-center-pledge-moratorium-oracle-openai-chatgpt/90931035007/",
-   "title": "U.S. Data Center Power Demand Surges as Tech Giants Accelerate AI Infrastructure Buildout",
-   "at": "2026-07-16T21:12:50+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece with no Michigan-specific development or decision."
-  },
-  {
    "url": "https://www.reuters.com/world/us/americans-are-angry-about-data-centers-politicians-are-feeling-pressure-2026-07-16/",
    "title": "Nationwide backlash grows as politicians face pressure over data center expansion",
    "at": "2026-07-16T22:32:32+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-02T18:37:19+00:00",
    "by": "news_judge",
    "note": "score 3/10, duplicate: This is the same Michigan Dem primary/corporate power battle story already killed by the News Director, just with a slightly different headline formulation."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYnI5Nl9samNsNG4weHR1eWZQMUlTVVlSOE1BdTc3dkJxZXlUZHBNOVBpTHF0UjZ2TVg0bk9mc0x4eVZYdXdJQ09SWFRsRUs4QXRCNEdUckhhUUE0alNXSmN6ci1CMWpzU2p6eHE3NVlGdTM5Nm1qYWZQTGIzMGFWSngtdjllSk93Y0hTdHdvQWNybkxad2hGTFR1ZzIzTEZWbGZSYS1qX1ZxTU9OU18tWmFaMWxVaHVZdlJ0eWNzQWh3cUpJNzhyeENEejdjUQ?oc=5",
+   "title": "Dowagiac data center runs nonstop, neighbors call the noise 'demon screams'",
+   "at": "2026-08-02T20:15:41+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This is a rehash of the already-live story 'Dowagiac data center noise torments nearby homes day and night' — same facility, same noise complaints, just more co"
   }
  ],
  "auto_published": [
