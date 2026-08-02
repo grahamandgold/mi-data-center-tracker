@@ -1,27 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUUx0OTgwRnJvMXFiak01dXBUTUhGcWJpTVk2dTdOdElFQXVleTNjQkthMnh2OFpfd3R5UUhoNEtncXNSdWVlMlBsWkFwd3NuemhpZjBNQnNKdy1Gc1g2aU9mbGwtYjJ5RUxLSm5vS0FlR3Q3VEJLQno5WFM2SVBMSnN1VGFoU0tIWWo4VkJiLVJQSlBlM0pmYUpqUGY0UTN4ZFlMNFd1eEhWc2ZqVHNFdjlSeUZmVzZUQjc4Nk53bUdVVk1uTTV3OGRyWTlkMGtYS0tNeS00WQ?oc=5",
-   "title": "Whitmer data center pledge promises to shield Michigan ratepayers and water",
-   "at": "2026-07-16T15:11:30+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicate of already-live 'Whitmer urges data centers to sign pledge shielding ratepayers' — same voluntary pledge announcement, just reworded with water added."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMWhRbUVyb0tUQzFzcHltUjJiSFFQeUZtdTg2OHhkYXZkQ1o2ejROUzJ1NnA2YlZTd3BJZmxIeUUtSXJnT0Vub1hPa3dFN0RlSy1NYmVkdDMyZXNoa0xXZ1JST0txYW1pdzlEZzZISGh6aGhPXzJzQVNfOW1haTlwUlRDdm5rTVVwMERwdHZXcFFJMTA?oc=5",
-   "title": "Michigan utility blocks water hookup for giant Google data center",
-   "at": "2026-07-16T15:11:30+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicate of already-live 'Utility denies water to Google-scale Michigan data center' — same utility water denial, same project."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVTJwTDhEejNLQTNBaXNDSzBVTGJxTXdCRHIwMWY5RjlTa2FVclgwQmFabGFydGtxRGVkSFRuVk9UWC1PenpLNUIwWGlqY21Samp4SWhkZWp3bzNWVTlENVlDdGMtSTR0MjN3MUlYc0IteGZGUkk4U3hZTnlXUGtydDdodGF0VUZhbjZublJGcU5JbUxJNERLaFJHclVQYmhmeklEWEMyeVFRSFA5T3NkUldZOEJFaTdKSW04U0pQRTlmTHVyV2FIVFcyN1dJMkVNZzRPaThoYWU?oc=5",
-   "title": "Oracle-backed $16B campus draws fresh protests over water and taxes",
-   "at": "2026-07-16T16:51:43+00:00",
-   "by": "news_judge",
-   "note": "score 4/10, duplicate: Rehashes the already-live Oracle/OpenAI Saline tax break story and general opposition themes without reporting a new decision or development."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM0FSLXplMFpqLTdia1l4cDY3YklKZ1M4bUFkc1F1WWZBU3hrRXdtUGJVU042aDVoS01ndGg4RTVmLVNjS1VYUEZlTzVNVmhOOHdsRDVpZFBqdHNhZThjRGNKQU5EMUV0OGZiMFJxbjNZQ1BpRzBXTTNTdUdqQVdvR3pnUzh2V0c3NElnUUhubVI0aUJWQ1oxVmk1bTJEeHFwLUJBYlBMRkFjRUl1Sl9HUEVRZnFib1nSAcsBQVVfeXFMTXpNZ2lCNFFBYUhBQ2V2RzFKUVRHYXdSLTlGbXJ5eEJNUTFleVIweTRsTFJaVHp4c3dJZVNlVlJ1NHczNEFpb1ZGWnVCUlpkNkpEVkJXZko4MXNoTDZIVVI3UVNrLXhndWJYMXlmZWU1cVhSSk9sN1g3VTBXUXFxMXktX0EtNjZKb2JOS3k3VE5CVEFWX1V2Z2p4aGdhYXg4UXhTQlpVQUtnTFNJeUItNUtSLWZHMnhWZHR3eWI5MHVOX2EycmtFZE9obUU?oc=5",
    "title": "Michigan data center proposals now top dozens as buildout accelerates",
    "at": "2026-07-16T16:51:43+00:00",
@@ -1399,6 +1378,27 @@
    "at": "2026-08-01T21:04:08+00:00",
    "by": "news_judge",
    "note": "score 4/10: Thin speculation about a possible moratorium with no concrete action taken; John James already covered on town-level rules but this appears incomplete and vague"
+  },
+  {
+   "url": "https://www.foxnews.com/politics/dsa-candidate-pushes-federal-ai-datacenter-moratorium-michigan-early-voting-underway",
+   "title": "DSA House candidate calls for federal moratorium on AI data centers",
+   "at": "2026-08-02T01:09:23+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Campaign position from a DSA House candidate on a national policy issue; lacks concrete Michigan development or decision."
+  },
+  {
+   "url": "https://www.detroitnews.com/story/news/politics/2026/08/01/john-james-data-center-moratorium-michigan-governor-race-perry-johnson/91134570007/",
+   "title": "Michigan candidates debate federal role in AI data center regulation",
+   "at": "2026-08-02T01:09:23+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Thin national trend piece aggregating candidate positions without specific Michigan action or development."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01czk4VUQyRUt1WnoyeWlwN2YtUkMxM0swREZXMTNFQ1BwNlpCNUhaeFpOdng3eHlHaDdhX3ZidHVrLWkwWk5KR1JOSGI0NFEyb1JQemJR?oc=5",
+   "title": "Michigan Senate hopeful backs nationwide halt on AI data centers",
+   "at": "2026-08-02T01:09:23+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Campaign position from a state Senate candidate on federal moratorium; similar to [0] but different race and candidate, still just campaign rhetoric without con"
   }
  ],
  "auto_published": [
