@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON09oMXczZHFDaGVzN082T3ZtM3p0ejdXLUdOdzZlYzR5YWlxY3JsR1RQa1RSYzk4Z0RZR3J5bVRvS3hNcGg5dmJxaktLejc5U1NIbnA2dGVWMXJjcDZGenpPUlgxaDhCMFN2T1JzRHpNTnpvMEJwTzFXYndPYkV2MkpDS0VjaG9Ya1R0MVp5SGoyek9CV0NRZUs0ci1qMURNOWhHWjRVWURfa0E2SXU3cnpBYjk3ZnVJaFZiZVE2U3d4QQ?oc=5",
-   "title": "Dowagiac neighbors sue over nonstop data center noise",
-   "at": "2026-07-16T18:14:53+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Same lawsuit already covered in live story 'Dowagiac residents sue over nonstop noise from Hyperscale data center.'"
-  },
-  {
    "url": "https://www.insurancejournal.com/news/midwest/2026/07/16/877913.htm",
    "title": "Michigan AI Data Center Projects Ignite Farmland and Resource Concerns",
    "at": "2026-07-16T19:44:14+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-02T11:29:22+00:00",
    "by": "news_judge",
    "note": "score 1/10, duplicate: This is the same John James position on local control already live in the first item of the ALREADY LIVE list."
+  },
+  {
+   "url": "https://www.wsj.com/tech/ai/americas-data-center-build-out-is-falling-way-behind-schedule-e408a9a8",
+   "title": "U.S. Data Center Construction Lags Behind Ambitious Schedules Amid Power and Permitting Hurdles",
+   "at": "2026-08-02T12:37:36+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece with generic industry-wide statistics; no Michigan-specific decision, filing, or development."
   }
  ],
  "auto_published": [
