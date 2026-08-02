@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.insurancejournal.com/news/midwest/2026/07/16/877913.htm",
-   "title": "Michigan AI Data Center Projects Ignite Farmland and Resource Concerns",
-   "at": "2026-07-16T19:44:14+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: The story is a national trend piece with a focus on general concerns rather than specific new developments or decisions."
-  },
-  {
    "url": "https://www.michiganpublic.org/environment-climate-change/2026-07-15/saline-township-approves-smaller-than-planned-tax-breaks-for-open-ai-data-center",
    "title": "Saline Township Cuts Tax Break for AI Data Center to Keep More Revenue",
    "at": "2026-07-16T21:12:50+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-02T12:37:36+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece with generic industry-wide statistics; no Michigan-specific decision, filing, or development."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc200eFBEYV9XODZWc3YyUXlsMHBkUmd2a1RRUlhHajlpaW9xWllndEEtTDAtOVZOZkN3NE55TEhyY3hSaFFya3M0OEh3RTRwYldlaDlJbi1yY09qWjVXLXpFSHNITk9vc2l6cGdDaFBiZmdXSXZsLXJsOFdFXzNTVUxvVzA0d1MxRGtLbVBaU0RlUWc?oc=5",
+   "title": "Data center fights turn Michigan Dem primary into corporate power battle",
+   "at": "2026-08-02T14:41:54+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: National/state trend piece about data centers becoming a campaign issue rather than reporting a specific filing, vote, or concrete development in Michigan's dat"
   }
  ],
  "auto_published": [
