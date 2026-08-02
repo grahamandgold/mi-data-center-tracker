@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-02T16:09:15Z",
+ "updated_at": "2026-08-02T17:35:45+00:00",
  "generator": "grok-wire-agent",
  "items": [
   {
@@ -24,5 +24,5 @@
    "judge_note": "Concrete new development with six gubernatorial candidates taking official positions on data center policy that directly affects Michigan communities; substanti"
   }
  ],
- "accuracy_checked_at": "2026-08-02T16:09:12+00:00"
+ "accuracy_checked_at": "2026-08-02T17:35:46+00:00"
 }
