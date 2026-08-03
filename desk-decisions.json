@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.wzzm13.com/article/news/local/6-data-center-companies-sign-new-pledge-gov-whitmer-releases-plan-calling-them-to-cover-own-costs/69-85edbbe6-ab6b-45a5-83da-3f3e7d491034",
-   "title": "Six Data Center Firms Sign Whitmer Pledge on Costs and Jobs",
-   "at": "2026-07-17T06:42:10+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: This reports the same six-firm pledge event already covered in the LIVE story 'Six data center firms pledge to cover their own power costs under Whitmer plan.'"
-  },
-  {
-   "url": "https://www.rtoinsider.com/136813-michigan-gov-seeks-pledge-from-data-center-developers/",
-   "title": "U.S. Data Center Power Demand Surges as Tech Giants Accelerate AI Infrastructure",
-   "at": "2026-07-17T06:42:10+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: National trend piece on data center power demand already killed as 'Data Center Electricity Demand Projected to Drive Major Share of Michigan Grid Growth by 203"
-  },
-  {
    "url": "https://www.wemu.org/michigan-news/2026-07-16/whitmer-data-center-proposal-echoes-legislative-democrat-plans",
    "title": "Whitmer Plan Seeks to Block Data Center Costs from Hitting Resident Bills",
    "at": "2026-07-17T09:17:36+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-03T17:27:34+00:00",
    "by": "news_judge",
    "note": "score 4/10: Opinion piece offering commentary on existing BX data center developments rather than reporting a new filing, decision, or official action."
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/hyperscale-data-establishes-bitcoin-backed-defi-financing-program-through-morpho-protocol-current-borrowings-approximately-30-million-at-4-9-to-support-michigan-ai-data-center-expansion-302840711.html",
+   "title": "Hyperscale Data Secures Bitcoin-Backed Financing to Advance Michigan AI Campus",
+   "at": "2026-08-03T22:14:52+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Bitcoin financing for Michigan AI campus already killed multiple times under various headlines (Hyperscale Bitcoin holdings/loans/stash stories)."
+  },
+  {
+   "url": "https://mrsc.org/stay-informed/mrsc-insight/august-2026/data-centers",
+   "title": "Washington Data Centers Slash Local Tax Rates but Strain Power Grids and Water",
+   "at": "2026-08-03T22:14:52+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Washington state case study offers national context but lacks Michigan-specific relevance or actionable local angle."
   }
  ],
  "auto_published": [

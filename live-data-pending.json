@@ -1,6 +1,26 @@
 {
- "updated_at": "2026-08-03T21:35:17+00:00",
+ "updated_at": "2026-08-03T22:14:52+00:00",
  "generator": "grok-wire-agent",
- "items": [],
- "accuracy_checked_at": "2026-08-03T20:45:42+00:00"
+ "items": [
+  {
+   "iso": "2026-08-02T12:00:00Z",
+   "region": "metro",
+   "cat": "Washtenaw Co.",
+   "tag": "Local Government",
+   "title": "Saline Township Data Center for Oracle and OpenAI Now Tops $43 Billion",
+   "dek": "Related Digital keeps building the 1.4-gigawatt facility, with costs rising from $4.8 billion and more than 2,500 short-term construction jobs expected, while residents voice opposition.",
+   "source": "Spectrum Local News",
+   "url": "https://spectrumlocalnews.com/mi/michigan/news/2026/08/02/related-digital-saline-township-data-center-construction-progress",
+   "breaking": false,
+   "lead": false,
+   "id": "a4e6e5490e04",
+   "kind": "story",
+   "filed_at": "2026-08-03T22:14:26+00:00",
+   "accuracy": "checked-rewritten",
+   "headline_rewritten": true,
+   "judge_score": 8,
+   "judge_note": "Major new development: project cost has ballooned from $4.8B to $43B, a concrete and dramatic escalation at the Oracle/OpenAI Saline site."
+  }
+ ],
+ "accuracy_checked_at": "2026-08-03T22:14:47+00:00"
 }
