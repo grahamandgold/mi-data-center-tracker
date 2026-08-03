@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HN0kxRTIwcnVwcUwwWDNnOHlWajJnSmFBVUEzX2VkVDhRdUM2VHR6NnVBbGpEOVA3MTJVejRMNnBUOTVNN2NjSV95dTBfeHY3b0pLZGlWQkVLb3RubjBQRGxsT3Y5SzZ1OXFEdkE5RTNqeHFJMnc?oc=5",
-   "title": "Farmland protection debate erupts over new Michigan AI data center site",
-   "at": "2026-07-16T22:32:32+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Vague story lacking specifics—no location, company, vote, or filing identified; reads like generic farmland concern rehash."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZEdEV1ZFSTNVYkV6al9WNE5VSWdkcjdlakM0NFFsS0w5Z1FfS0dYTTJOWDR3QzVhUno1YkFKWGZhSGlIbjhvSjd0em9HOFpNSDZJMDNZdThEX3ZjbkUxelJjY1F3RUhVX2hmOHRWcldrenFDbUFTNS1ReDhkM2VTRnFjaEtDTEczNmpsOVE5cEhwdw?oc=5",
-   "title": "Whitmer gets six data-center firms to pledge they will pay their own power and water bills",
-   "at": "2026-07-16T23:30:27+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: This is the same voluntary pledge/agreement already covered in the first ALREADY-LIVE story ('Six data center firms pledge to cover their own power costs under "
-  },
-  {
    "url": "https://www.bridgemi.com/business-watch/massive-data-center-wins-local-tax-break-but-9-times-smaller-than-requested",
    "title": "Saline Township Grants Smaller Tax Break to Massive OpenAI Data Center Project",
    "at": "2026-07-17T01:06:16+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-03T08:49:46+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece with no specific Michigan decision, development, or official action; generic protest/recall framing already covered by existing Michigan-sp"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQXzRYakhBa0lfeTA5V3dvcHRRTmtEbXhnd2duNGJIMWZkdllSRGNXOXVVTEthUjBXNVp2dUlxSVZaNWR6ZEhrQ0tlckMybDVTbFlyaUMteFkyYl9VLVdnMC1NbDExckl0WVBGVHd5aWNwM0VEMi1LNFBRSVRVcmwzcTB6YnJHaEhKV1EtMjQ4d29ERklmbnNGMzNROWprTm5jV2Jjb2gzcWhFMFREUHBmQ1pOblNxR18yOTg2b01jN2dkbXhsQXc4VktEajhxeVhSemxMTXB1OS0waFJqZ2dWTk03ZWlUR2g5cmZQNU9Id1NSMGZYUzNZck9KVXNnMEE3N0czaFBNeHRqODEyMm95b2xQTzZMWHcwekVwTmRSdG5UT3JwaXBiUW1xclNFcVVwRDk2WGNpTWduYWotYlBMdEp2Xy1Ec0hEYTlGVkFOOWJrYlVEWXo5bW11dElBQQ?oc=5",
+   "title": "Hyperscale Data borrows $30M in Bitcoin to grow Michigan AI site",
+   "at": "2026-08-03T12:34:41+00:00",
+   "by": "news_judge",
+   "note": "score 4/10, duplicate: Same Hyperscale Data Bitcoin financing story already killed twice under different headlines."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQejByWXVTbUpoWXQtb2FtSUNKNXFnY1V5WWszMGpfQWlfcndTTkFQTFU5N2VMT3QxLUZ3WWpZV3d5S2Q3a3ZILTYxV0JYT29XR0pmR1lINnBwZVN4Mm4yNVhFaWNXbF9tQmNUeFpfOEdIdkROM09RWDJ2ZERpLVZvcFA2UFNmOGFvSHp4SW9PbWl1dDUtZjVfUmlNUQ?oc=5",
+   "title": "Michigan data centers push forward on power deals and local fights",
+   "at": "2026-08-03T12:34:41+00:00",
+   "by": "news_judge",
+   "note": "score 5/10: Weekly roundup format provides incremental aggregation of ongoing developments but lacks a single concrete new event."
   }
  ],
  "auto_published": [
