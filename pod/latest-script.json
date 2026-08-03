@@ -1,10 +1,10 @@
 {
- "title": "Evenings with Graham & Emmy",
- "teaser": "55% of primary voters oppose data centers nearby — the debate over bills and water heats up.",
+ "title": "Mornings with Graham & Emmy",
+ "teaser": "55% of primary voters oppose data centers nearby—what it means for bills, water and towns.",
  "lines": [
   {
    "host": "Graham",
-   "text": "Good evening and welcome to Evenings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
+   "text": "Good morning, and welcome to Mornings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
   },
   {
    "host": "Emmy",
@@ -12,202 +12,246 @@
   },
   {
    "host": "Graham",
-   "text": "Tonight a new poll shows most Michigan primary voters want nothing to do with data centers in their own backyards, and the candidates are already fighting over who foots the bill."
+   "text": "It's Monday, August 3rd, and yesterday's new poll is showing real pushback from voters on these projects landing close to home."
   },
   {
    "host": "Emmy",
-   "text": "That poll from today really lands, Graham. Fifty-five percent statewide say they oppose data centers nearby, and it jumps to sixty-three percent among likely Democratic primary voters."
+   "text": "Yeah, 55 percent statewide opposition, jumping to 63 percent among likely Democratic primary voters. That's the big story we're digging into today."
   },
   {
    "host": "Graham",
-   "text": "Exactly. The survey highlights the split over higher electric bills and water use, and it comes as candidates stake out very different positions ahead of the August fourth primary."
+   "text": "Exactly. This isn't just one poll—it's reflecting fights that have been building for months in places like Saline, Coldwater, and now Genesee County."
   },
   {
    "host": "Emmy",
-   "text": "So why is this opposition so strong right now? What's driving the numbers?"
+   "text": "Graham, walk me through why this opposition is spiking right now. Is it the power bills, the water, or something else?"
   },
   {
    "host": "Graham",
-   "text": "The concerns are pretty consistent across the state. Residents worry about who pays when these facilities pull hundreds of megawatts from the grid, and they worry about water draw in places that already face drought stress."
+   "text": "It's all of it. Data centers pull massive electricity—hundreds of megawatts for big ones—and that can mean higher rates for everyone if new generation isn't added fast enough."
   },
   {
    "host": "Emmy",
-   "text": "And farmland and small towns feel it too. Once a site goes in, the tax breaks and noise complaints follow."
+   "text": "And the water angle? I've heard residents worry about wells and rivers drying up."
   },
   {
    "host": "Graham",
-   "text": "Right. We've seen this play out in Saline Township, Coldwater, and now Genesee County. The poll just puts statewide numbers on what local meetings have been hearing for months."
+   "text": "Right. Cooling systems need a lot of water, and in rural townships that already manage tight supplies, folks are asking who pays for upgrades or restrictions."
   },
   {
    "host": "Emmy",
-   "text": "How does this affect electric rates for regular households? I mean, if a data center takes a big chunk of power, does the rest of us pay more?"
+   "text": "Farmland is another piece, isn't it? These campuses take up space that could stay agricultural."
   },
   {
    "host": "Graham",
-   "text": "That's the core fight. Without new generation coming online fast enough, utilities often spread the cost across all customers. The poll shows voters are connecting those dots."
+   "text": "Yes, and towns are split—some see tax revenue and jobs, others see noise, traffic, and strain on local grids that weren't built for this scale."
   },
   {
    "host": "Emmy",
-   "text": "And water? Data centers use a lot for cooling, right?"
+   "text": "The poll breaks it down by party too. Why do you think Democrats are showing stronger opposition at 63 percent?"
   },
   {
    "host": "Graham",
-   "text": "They do, especially the larger ones. In rural townships that rely on wells or limited municipal supplies, that's a direct pressure point."
+   "text": "Candidates are making it a primary issue. Abdul El-Sayed held a rally Friday in Saline blasting tax breaks and grid strain, saying residents 30 minutes away could see higher rates."
   },
   {
    "host": "Emmy",
-   "text": "So the sixty-three percent among Democratic primary voters — is that because the candidates are making it a campaign issue?"
+   "text": "And on the other side, John James told The Detroit News on Saturday he'd leave siting and tax decisions to local officials instead of state rules."
   },
   {
    "host": "Graham",
-   "text": "It looks that way. Abdul El-Sayed held a rally Friday at the Saline site blasting tax breaks and grid strain. John James, the Republican Senate candidate, said yesterday he wants local officials to decide siting and taxes instead of state rules."
+   "text": "That's a key difference. James is betting voters in data-center counties like those around Coldwater want local control, while El-Sayed is hitting the power and tax deals directly."
   },
   {
    "host": "Emmy",
-   "text": "James wants to leave it to towns like Saline and Coldwater. That stance could play differently in data-center-heavy counties."
+   "text": "Does the poll suggest one approach is resonating more?"
   },
   {
    "host": "Graham",
-   "text": "Exactly. Voters there are already litigating noise, power use, and tax incentives. The August fourth primary will test whether his hands-off approach helps or hurts."
+   "text": "It shows broad skepticism overall, with Democrats more opposed. The August 4 primary will test whether James's local-control stance helps or hurts him in those areas."
   },
   {
    "host": "Emmy",
-   "text": "And El-Sayed is using the same projects as proof that state-level deals are hurting residents thirty minutes away with higher rates."
+   "text": "What about the history here? How long have these clashes been going on?"
   },
   {
    "host": "Graham",
-   "text": "Both sides are framing the same facilities differently. One side says local control protects communities; the other says it lets big projects slip through without enough oversight."
+   "text": "It's accelerated this year. We've seen pauses in places like Otsego just this weekend, and earlier fights in Saline and Coldwater over the same issues—power, water, and who gets the tax breaks."
   },
   {
    "host": "Emmy",
-   "text": "What happens next on the ground? We have several towns already hitting pause or delay."
+   "text": "So the poll isn't coming out of nowhere—it's the result of months of public meetings and noise complaints."
   },
   {
    "host": "Graham",
-   "text": "Otsego city council voted Saturday to ban new data centers for a full year. That gives residents breathing room on noise and grid strain."
+   "text": "Right. Dowagiac residents have been dealing with constant high-pitched whine from an existing facility, and that experience is shaping how Cass County looks at new proposals."
   },
   {
    "host": "Emmy",
-   "text": "Genesee County also delayed its environmental clearance vote on Saturday. Extra weeks for public review on traffic, power, and industrial noise."
+   "text": "What happens next after this poll? Do we see more towns following Otsego's one-year ban?"
   },
   {
    "host": "Graham",
-   "text": "And Coldwater residents got their first public briefing Friday on proposed projects. They're asking the same questions about power draw, water, and tax breaks."
+   "text": "Possibly. Genesee County already delayed an environmental vote on Saturday, giving residents extra time to review traffic, power, and noise impacts."
   },
   {
    "host": "Emmy",
-   "text": "Meanwhile Dowagiac is shifting power from Bitcoin mining to a twenty-megawatt AI contract under a ten-year deal. That could bring over a billion dollars, but neighbors are still fighting the noise."
+   "text": "And Mason County is pitching itself for the state's official data center. How does that fit with the opposition trend?"
   },
   {
    "host": "Graham",
-   "text": "The facility at 415 East Prairie Ronde Street is already running around the clock, and residents describe a constant high-pitched whine."
+   "text": "It's the flip side—some rural counties want the construction jobs and tax revenue, but they'll still face the same questions on power demand and land use if it moves forward."
   },
   {
    "host": "Emmy",
-   "text": "That noise issue is shaping how Cass County handles future proposals. People want rules that protect sleep and property values."
+   "text": "Verrus is pushing ahead on a Michigan project while its Salem plans stall. Any word on where that lands?"
   },
   {
    "host": "Graham",
-   "text": "Verrus is still pushing ahead on one Michigan site even while its Salem plans stall. Local officials are fielding questions about power and tax deals."
+   "text": "Not the exact site yet, but local officials are already fielding questions about power and tax deals. Communities are watching closely."
   },
   {
    "host": "Emmy",
-   "text": "And Mason County is bidding to host the state's official data center. Rural western Michigan competing with bigger metro areas for jobs and tax revenue."
+   "text": "Coldwater residents got their first look at plans on Friday. What stood out in that meeting?"
   },
   {
    "host": "Graham",
-   "text": "If it lands there, residents will face the same questions about land use and power demand that we've seen everywhere else."
+   "text": "Mainly the same concerns: how much power and water the projects pull and what tax breaks are offered. Similar fights are heating up in nearby townships."
   },
   {
    "host": "Emmy",
-   "text": "So the poll numbers feel like they're reflecting real fatigue after months of these fights."
+   "text": "So the poll captures a statewide mood, but the real action stays local."
   },
   {
    "host": "Graham",
-   "text": "They do. And with the primary just two days away, candidates are racing to show they understand the stakes for everyday ratepayers and neighbors."
+   "text": "That's the takeaway. Voters want more say, and candidates are responding with different prescriptions."
   },
   {
    "host": "Emmy",
-   "text": "What should listeners watch for in the coming weeks?"
+   "text": "Will we see more polling or candidate events on this before the primary?"
   },
   {
    "host": "Graham",
-   "text": "More local meetings, more candidate stops at project sites, and probably more towns considering their own pauses or zoning changes."
+   "text": "Likely. The tracker will keep an eye on it—full sources at the Michigan Data Center Tracker."
   },
   {
    "host": "Emmy",
-   "text": "The bigger picture is that data centers are no longer just an economic development story. They're now a pocketbook and quality-of-life issue for voters."
+   "text": "Alright, let's hit the other stories from the weekend quickly."
   },
   {
    "host": "Graham",
-   "text": "And the poll shows most primary voters have already made up their minds on that."
+   "text": "Saturday brought a big shift at the Dowagiac campus—Hyperscale Data is moving from Bitcoin mining to a 20-megawatt AI contract under a 10-year deal."
   },
   {
    "host": "Emmy",
-   "text": "Let's move to the other stories from this week. John James told the Detroit News yesterday he'd leave data-center siting and tax decisions to local officials."
+   "text": "That could generate over $1.2 billion, but residents are still litigating the noise from the site."
   },
   {
    "host": "Graham",
-   "text": "He specifically mentioned townships like Saline and Coldwater where fights over power, water, and tax breaks are already underway."
+   "text": "Exactly. The reallocation shows how fast these facilities can pivot to AI demand."
   },
   {
    "host": "Emmy",
-   "text": "That position will get tested in those data-center-heavy counties on Tuesday."
+   "text": "Genesee County postponed its environmental clearance vote on Saturday too."
   },
   {
    "host": "Graham",
-   "text": "Dowagiac's hyperscale site is reallocating twenty megawatts from Bitcoin to AI hosting. The ten-year deal could generate more than one point two billion dollars."
+   "text": "Yes, giving Flint-area residents more weeks to weigh in on traffic, power, and industrial noise."
   },
   {
    "host": "Emmy",
-   "text": "But the noise litigation from residents continues, so the community impact is still front and center."
+   "text": "Otsego city council voted Saturday for a full one-year ban on new data centers."
   },
   {
    "host": "Graham",
-   "text": "Genesee County postponed its environmental approval vote on Saturday. Flint-area residents now have extra weeks to review traffic, power, and noise concerns."
+   "text": "That pause lets residents shape rules on noise and grid strain before anything big hits."
   },
   {
    "host": "Emmy",
-   "text": "Otsego enacted a one-year ban on new proposals Saturday. That pause lets the community shape rules before infrastructure gets strained."
+   "text": "Mason County is bidding to host the state's official data center."
   },
   {
    "host": "Graham",
-   "text": "Mason County is pitching itself for Michigan's official state data center. Construction jobs and tax revenue are the draw, but power and land-use questions remain."
+   "text": "Local leaders see construction jobs and tax revenue, but power demand and land use questions remain for residents."
   },
   {
    "host": "Emmy",
-   "text": "Coldwater held a joint meeting Friday to brief residents on proposed data centers. Power, water, and tax breaks were the main topics."
+   "text": "Coldwater had its joint meeting Friday to brief the public on proposed centers."
   },
   {
    "host": "Graham",
-   "text": "Verrus is moving forward with its Michigan project while Salem plans stay uncertain. Local officials are already answering questions about demand and deals."
+   "text": "Residents there are focused on power, water, and tax breaks—same as everywhere else."
   },
   {
    "host": "Emmy",
-   "text": "El-Sayed rallied Friday at the Saline site to criticize tax breaks and grid strain. He highlighted how projects thirty minutes away could raise rates for others."
+   "text": "Verrus is advancing its Michigan project despite uncertainty in Salem."
   },
   {
    "host": "Graham",
-   "text": "And the Dowagiac noise complaints from Friday are now influencing how Cass County will handle future proposals."
+   "text": "No exact site disclosed yet, but communities are already asking about the demands."
   },
   {
    "host": "Emmy",
-   "text": "Neighbors want protections for sleep and property values before more facilities arrive."
+   "text": "El-Sayed rallied Friday at the Saline site against the AI power deals."
   },
   {
    "host": "Graham",
-   "text": "Now let's look ahead. On deck for tomorrow, Monday August third, the Delta County Planning Commission meets on its Data Center Subcommittee update and zoning ordinance discussion."
+   "text": "He highlighted tax breaks and potential rate hikes for nearby residents."
   },
   {
    "host": "Emmy",
-   "text": "That's one listeners can actually attend if they're in the area or want to follow the local rules being shaped."
+   "text": "And John James's local-control stance from Saturday."
   },
   {
    "host": "Graham",
-   "text": "Full sources and the live map at the Michigan Data Center Tracker. We're back tomorrow."
+   "text": "He wants towns like Saline and Coldwater to decide siting and taxes themselves."
+  },
+  {
+   "host": "Emmy",
+   "text": "Dowagiac noise complaints are still shaping Cass County's approach."
+  },
+  {
+   "host": "Graham",
+   "text": "Neighbors describe nonstop high-pitched whine, pushing for stronger rules on future projects."
+  },
+  {
+   "host": "Emmy",
+   "text": "That's a solid round of quick hits. Now, what's on deck for listeners?"
+  },
+  {
+   "host": "Graham",
+   "text": "Tonight, Monday August 3, the Delta County Planning Commission has its Data Center Subcommittee update and zoning ordinance discussion."
+  },
+  {
+   "host": "Emmy",
+   "text": "That sounds like a good one for anyone in the western UP wanting to weigh in on rules."
+  },
+  {
+   "host": "Graham",
+   "text": "Exactly—agendas like that are where the local decisions get shaped."
+  },
+  {
+   "host": "Emmy",
+   "text": "Anything else coming up this week we should flag?"
+  },
+  {
+   "host": "Graham",
+   "text": "We'll keep tracking the primary fallout and any new meetings. The tracker has the live map."
+  },
+  {
+   "host": "Emmy",
+   "text": "Perfect. Full sources and the live map at the Michigan Data Center Tracker."
+  },
+  {
+   "host": "Graham",
+   "text": "We're back tomorrow."
+  },
+  {
+   "host": "Emmy",
+   "text": "Thanks for listening—stay informed on Michigan's data center buildout."
   }
  ],
- "episode_title": "Voters Say No to Nearby Data Centers as Candidates Clash Over Costs",
- "show": "Evenings with Graham & Emmy",
- "daypart": "Evenings"
+ "episode_title": "Michigan Voters Say No to Nearby Data Centers: 55% Oppose, With Higher Resistance Among De",
+ "show": "Mornings with Graham & Emmy",
+ "daypart": "Mornings"
 }
