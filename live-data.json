@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-03T19:09:06+00:00",
+ "updated_at": "2026-08-03T20:45:45Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Washtenaw residents file recall bids against seven officials over data centers",
+   "dek": "A local opponent has turned in signatures to recall seven elected officials in the Ann Arbor area. The effort stems from fights over proposed data-center projects and their effects on power, water and taxes. Voters 30 miles away will watch whether the recalls reach the ballot and shift local control.",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeE9TZ3BOLTllTi16MU1MS1pXem1GZXlrWUxlV3B3b3c4aXE1dEs3SEpKenhwaEFXRi1JY0dxb21uNzZKOVZxaUdSSW9QZ0twRVRmZVphRmo2cExRMWxwR3dwMHg2RzZYZDlQTHBBbnRaWVZtZDFYZFByQVZQQlY4UlBhUEZVNndBa0xmYWNRMERSRWR0LThiNWQ0NC1yQXBKTG5oV3Nwb2l0VERRZ0h4Mk9SMXk4a1o5NGJZNGhmZWEyQWtBVU1XSzB1R3hPeE0xVzJMTkp4cjPSAewBQVVfeXFMT3lKZUFGVzViSDdDSlVCMkJEaGxBa1FWTnNnZHhWR0hmaWhZTGlOYlBOUUxFWnJGUFhZXzZySUlPNTkxMXdlaWpjZFdBWUlDQkFiMHlreTN2cWNUSlhlWkpJb3BJVWZsX2poSnAyUlRsXzB3QTNjb2FtV3FGX1FBMy1nc2hZaDlhZW1DVmhwTFBwY0hvWHJEdlNrOXRLV2RJd0dsU2FQaG03bXNLcDNlc2hRTkJaUk1qWTBDbktYdHc2RWVWLW9hNWlIZDNhcVhZSEszQkh0U2RiOFlEcTN4OTlwMlppS2wzWGVMTFg?oc=5",
+   "source": "MLive.com",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Local Government",
+   "iso": "2026-08-03T19:57:00Z",
+   "id": "69413c9b6eb9",
+   "origin": "google-news",
+   "source_title": "Data center opponent submits recall signatures targeting 7 elected officials near Ann Arbor - MLive.com",
+   "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeE9TZ3BOLTllTi16MU1MS1pXem1GZXlrWUxlV3B3b3c4aXE1dEs3SEpKenhwaEFXRi1JY0dxb21uNzZKOVZxaUdSSW9QZ0twRVRmZVphRmo2cExRMWxwR3dwMHg2RzZYZDlQTHBBbnRaWVZtZDFYZFByQVZQQlY4UlBhUEZVNndBa0xmYWNRMERSRWR0LThiNWQ0NC1yQXBKTG5oV3Nwb2l0VERRZ0h4Mk9SMXk4a1o5NGJZNGhmZWEyQWtBVU1XSzB1R3hPeE0xVzJMTkp4cjPSAewBQVVfeXFMT3lKZUFGVzViSDdDSlVCMkJEaGxBa1FWTnNnZHhWR0hmaWhZTGlOYlBOUUxFWnJGUFhZXzZySUlPNTkxMXdlaWpjZFdBWUlDQkFiMHlreTN2cWNUSlhlWkpJb3BJVWZsX2poSnAyUlRsXzB3QTNjb2FtV3FGX1FBMy1nc2hZaDlhZW1DVmhwTFBwY0hvWHJEdlNrOXRLV2RJd0dsU2FQaG03bXNLcDNlc2hRTkJaUk1qWTBDbktYdHc2RWVWLW9hNWlIZDNhcVhZSEszQkh0U2RiOFlEcTN4OTlwMlppS2wzWGVMTFg?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "DTE says data centers key to holding down Michigan power rates",
    "dek": "DTE Energy tied future rate stability to landing large data-center loads in its latest filing. The utility's pipeline of big projects has stayed steady even as power demand forecasts rise. Michigan households could see the impact in bills if those campuses come online or stall.",
@@ -163,23 +180,6 @@
    "origin": "google-news",
    "source_title": "While Salem project is uncertain, Verrus advances data center in Michigan - Salem Reporter",
    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNk5VRE10X21VdXBVSVlNcHhYdUd4Nnh4UExkcDcyYW5oNVVaTDlLT09hS19MQ1U3cUw4S3A1OHZXc3R1TTE0UzBWRWw2N2I1RUJTTGZ4UHNCRjNCaWdzNXVsbE5tS2p6cGZfQV92UWdkVGUzNnZEZk9pd25abGtHWGlFMTE0cFQwWGN1aWtNcm5MUVZvRmlDVEZwdHQzWjhJb201WmJNc0VqMG1sbWt5TUxWbHE?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
-  },
-  {
-   "title": "El-Sayed rallies at Saline data center site to blast AI power deals",
-   "dek": "The Senate candidate used the Saline project as a backdrop to attack tax breaks and grid strain from hyperscale builds. Residents 30 minutes away face higher electric rates if the campus pulls hundreds of megawatts without new generation. The stop highlights how local projects are now central to the Democratic primary debate.",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNlFlRnBpaWNjZkh4UkdGMmNZUUZpbm1RUjZaNmVrWkVmbWo5SVJkZzc4NjZrUVg0Qnpmc2xyMk5qczhYMGtJNmMzNkR0dm4yc2EzMXlsYkhVNXBXOXdWc2JiY0FYZHNEQWY3Yk9KcGg5VnhpRjVIVERWS3RHRVhGRHB5bXl0ejZTbktXYkNwcE9XcGc3S3gxdGN5aS1UZkVVOTRtZWhrWWc4SlVIZTdIMXkyZXlqa3M?oc=5",
-   "source": "Abdul for U.S. Senate",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Policy",
-   "iso": "2026-07-31T18:30:55Z",
-   "id": "b9d437a8f06b",
-   "origin": "google-news",
-   "source_title": "ICYMI: Dr. Abdul El-Sayed Joins Press Conference at “The Barn” Data Center in Saline - Abdul for U.S. Senate",
-   "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNlFlRnBpaWNjZkh4UkdGMmNZUUZpbm1RUjZaNmVrWkVmbWo5SVJkZzc4NjZrUVg0Qnpmc2xyMk5qczhYMGtJNmMzNkR0dm4yc2EzMXlsYkhVNXBXOXdWc2JiY0FYZHNEQWY3Yk9KcGg5VnhpRjVIVERWS3RHRVhGRHB5bXl0ejZTbktXYkNwcE9XcGc3S3gxdGN5aS1UZkVVOTRtZWhrWWc4SlVIZTdIMXkyZXlqa3M?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
   }
