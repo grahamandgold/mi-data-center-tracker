@@ -1,7 +1,22 @@
 {
- "updated_at": "2026-08-03T12:34:37+00:00",
+ "updated_at": "2026-08-03T15:28:44Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "iso": "2026-08-03T10:00:00+00:00",
+   "region": "west",
+   "cat": "Kent Co.",
+   "tag": "Policy",
+   "title": "U.S. Rep. Scholten Introduces Federal Bills Requiring Data Center Water, Energy Reporting and Efficiency Standards",
+   "dek": "The Grand Rapids Democrat's legislation would mandate annual surveys of data center operators' resource use and update Defense Department cooling requirements to protect water supplies amid Michigan projects.",
+   "source": "Michigan Advance",
+   "url": "https://michiganadvance.com/2026/08/03/michigan-data-centers-the-weekly-download-3-2-2-2-2-2-2/",
+   "breaking": false,
+   "lead": true,
+   "id": "4a355bff1cfa",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "iso": "2026-08-02T12:00:00Z",
    "region": "statewide",
@@ -167,23 +182,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fUVktWkIwYVNXVXF5dDFETU5BQXBhSlhkZHFzU21XakdGaDNwa0p6UDV1VHFzaEN3MTIxYkhfYVo2bUlPOVk4bzNlenJhdnJheU9kVWVWYkRvT3dpMmlSTjllTEZYbC1RdXg5SzRqTk9zNkYwamc?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
-  },
-  {
-   "title": "Congressman calls for review of Chinese robots at Michigan data center site",
-   "dek": "A U.S. representative wants Commerce to examine Hyperscale Data's use of foreign equipment on its Michigan campus. The move raises questions about supply-chain security and local construction jobs. Residents near the project could see delays or new federal scrutiny.",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNVVMa2FvUlprNFZVTjFVYmpBOFl5cTRMTjhYdHpPQ0UzTDE4d1NJSVdqRWhxR1dqVVdrYW5ab3VGSXozZHZTWF9SRS16V1FOV0JydlE1MHhkd2JHelVoVERoNzhLdVdxT3hSM2NUd2xUZ0dIWFVGTjhGR3lLeUcybk5uZVZmal9ybG5QSnBkR2JZVjdwc2VyYk5GZjY3VzhYZ0VWbHlYcXZjZmVjVVdTWXNDbDFoZnE1djJCWUFrUEJkTzBSQm8tbUlwTllzQ2IyTUNCWnZLNA?oc=5",
-   "source": "AI Insider",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Policy",
-   "iso": "2026-07-31T12:35:46Z",
-   "id": "609c568ce480",
-   "origin": "google-news",
-   "source_title": "US Congressman Seeks Commerce Review of Hyperscale Data's Use of Chinese Robots in Michigan Project - AI Insider",
-   "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNVVMa2FvUlprNFZVTjFVYmpBOFl5cTRMTjhYdHpPQ0UzTDE4d1NJSVdqRWhxR1dqVVdrYW5ab3VGSXozZHZTWF9SRS16V1FOV0JydlE1MHhkd2JHelVoVERoNzhLdVdxT3hSM2NUd2xUZ0dIWFVGTjhGR3lLeUcybk5uZVZmal9ybG5QSnBkR2JZVjdwc2VyYk5GZjY3VzhYZ0VWbHlYcXZjZmVjVVdTWXNDbDFoZnE1djJCWUFrUEJkTzBSQm8tbUlwTllzQ2IyTUNCWnZLNA?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {

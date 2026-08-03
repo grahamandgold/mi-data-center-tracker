@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.bridgemi.com/business-watch/massive-data-center-wins-local-tax-break-but-9-times-smaller-than-requested",
-   "title": "Saline Township Grants Smaller Tax Break to Massive OpenAI Data Center Project",
-   "at": "2026-07-17T01:06:16+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicate of already-live 'OpenAI lands smaller tax break from Saline on data center campus' — same tax break approval decision."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQelJFM3IwRWlsZUwwV19Cb3dXU0FkNEpfQ1NaWEdsWjJJRUJ2eU43VWN4SExUVkdWRGNZb2JGOEJvdXN0TjRidGJGcDlRTy1jVXdZV3VOSlFLOUFjNnhYd3owR2k0LXFkcXFQMWYyckRXTGVHVkNxQkZ3X0pmTV9vemQxVzhoQ2hjak5zN2UtYi1ldEg2eDBlREJ6RDJkSDItNW5HSWxJcHRkQWY4UFVLdjZPUTg?oc=5",
-   "title": "Whitmer urges data centers to cover their own infrastructure costs",
-   "at": "2026-07-17T01:06:16+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicate of already-live 'Six data center firms pledge to cover their own power costs under Whitmer plan' — same pledge announcement and six-firm commitment."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTm1RTmJOaXNOcTJFNjRYTGFveGw3Ujhuc2dGaDN0c1RPdWZhV25Pc3RfZmRKU0tQYjd2WFc1RGJuQlBNVHN3Ums4QkRqUWQ1WjVwZUE5eGZtOEhadnBDUnpFajNYemZrRzVnaHllRk9kM1RjTjE1WVNkS29MTWxLY2drSnBINVNkSndrSTR3VEtabjE0MXdRX0VPVkh6ZVk?oc=5",
    "title": "Oracle seeks 12-year tax break on $43B Saline Township campus",
    "at": "2026-07-17T01:06:16+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-03T12:34:41+00:00",
    "by": "news_judge",
    "note": "score 5/10: Weekly roundup format provides incremental aggregation of ongoing developments but lacks a single concrete new event."
+  },
+  {
+   "url": "https://www.eenews.net/articles/primaries-test-power-of-data-center-politics-solar-spending/",
+   "title": "Michigan Senate Candidates Differ on Data Center Costs and Union Rules",
+   "at": "2026-08-03T15:28:44+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Campaign positioning ahead of primary adds little new substance beyond the already-live El-Sayed rally story and general candidate debate pieces already killed."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mNUZaNThHamN1TDVYS0k3VlR0c2lsN25CM1dReGVMTGduMlFrbHdOeVFOUGNnLTlUSXpmQ3RPemMwOUdtaWhKOVFuUnU5dmt1bW8yM05tN1lpTkVwX0FkTDM1b9IBY0FVX3lxTE1mNUZaNThHamN1TDVYS0k3VlR0c2lsN25CM1dReGVMTGduMlFrbHdOeVFOUGNnLTlUSXpmQ3RPemMwOUdtaWhKOVFuUnU5dmt1bW8yM05tN1lpTkVwX0FkTDM1bw?oc=5",
+   "title": "Bitcoin loans bankroll Hyperscale push into Michigan AI data centers",
+   "at": "2026-08-03T15:28:44+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This is the same $30M Bitcoin loan financing already killed twice under different headlines ('Hyperscale Data sells Bitcoin stash' and 'borrows $30M in Bitcoin'"
   }
  ],
  "auto_published": [
@@ -2403,6 +2403,12 @@
    "title": "Poll: 55% of Michigan primary voters oppose nearby data centers",
    "judge_score": 7,
    "at": "2026-08-02T16:09:15Z"
+  },
+  {
+   "url": "https://michiganadvance.com/2026/08/03/michigan-data-centers-the-weekly-download-3-2-2-2-2-2-2/",
+   "title": "U.S. Rep. Scholten Introduces Federal Bills Requiring Data Center Water, Energy Reporting and Efficiency Standards",
+   "judge_score": 8,
+   "at": "2026-08-03T15:28:44Z"
   }
  ]
 }
