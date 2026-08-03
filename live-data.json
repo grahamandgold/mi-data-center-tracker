@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-03T15:28:44Z",
+ "updated_at": "2026-08-03T17:27:34Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "DTE says data centers key to holding down Michigan power rates",
+   "dek": "DTE Energy tied future rate stability to landing large data-center loads in its latest filing. The utility's pipeline of big projects has stayed steady even as power demand forecasts rise. Michigan households could see the impact in bills if those campuses come online or stall.",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSnVaVllpSTlNaVBPbWhhWXBFcEM4YzNzaEtEaWktLW5FSHQxTDhSUG5lTDlESk1DdVRndmZNNWV2Ni1Hb0pOQ2dYYnRkTENvNmdObV9mNGpOVGFleUFyUXJrbG9KT000VjhIZUVJQ1lHdnVYVEtGUUk5VlIxaVBpVW5WdnVfOTdsWm5nZTZQMlBCdHN1eWpJYzRqVGhKRDktQ0E?oc=5",
+   "source": "Utility Dive",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Power & Grid",
+   "iso": "2026-08-03T16:39:39Z",
+   "id": "19ff3e39f218",
+   "origin": "google-news",
+   "source_title": "DTE ties rate stability to data center projects as large-load pipeline remains steady - Utility Dive",
+   "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSnVaVllpSTlNaVBPbWhhWXBFcEM4YzNzaEtEaWktLW5FSHQxTDhSUG5lTDlESk1DdVRndmZNNWV2Ni1Hb0pOQ2dYYnRkTENvNmdObV9mNGpOVGFleUFyUXJrbG9KT000VjhIZUVJQ1lHdnVYVEtGUUk5VlIxaVBpVW5WdnVfOTdsWm5nZTZQMlBCdHN1eWpJYzRqVGhKRDktQ0E?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "iso": "2026-08-03T10:00:00+00:00",
    "region": "west",
@@ -163,23 +180,6 @@
    "origin": "google-news",
    "source_title": "ICYMI: Dr. Abdul El-Sayed Joins Press Conference at “The Barn” Data Center in Saline - Abdul for U.S. Senate",
    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNlFlRnBpaWNjZkh4UkdGMmNZUUZpbm1RUjZaNmVrWkVmbWo5SVJkZzc4NjZrUVg0Qnpmc2xyMk5qczhYMGtJNmMzNkR0dm4yc2EzMXlsYkhVNXBXOXdWc2JiY0FYZHNEQWY3Yk9KcGg5VnhpRjVIVERWS3RHRVhGRHB5bXl0ejZTbktXYkNwcE9XcGc3S3gxdGN5aS1UZkVVOTRtZWhrWWc4SlVIZTdIMXkyZXlqa3M?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
-  },
-  {
-   "title": "Dowagiac data center noise torments nearby homes day and night",
-   "dek": "Neighbors describe a constant high-pitched whine from the facility that runs around the clock. The complaints are now shaping how Cass County will handle future proposals. Residents want rules that protect sleep and property values before more projects arrive.",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fUVktWkIwYVNXVXF5dDFETU5BQXBhSlhkZHFzU21XakdGaDNwa0p6UDV1VHFzaEN3MTIxYkhfYVo2bUlPOVk4bzNlenJhdnJheU9kVWVWYkRvT3dpMmlSTjllTEZYbC1RdXg5SzRqTk9zNkYwamc?oc=5",
-   "source": "Mix 95.7",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Cass",
-   "tag": "Local Government",
-   "iso": "2026-07-31T16:00:43Z",
-   "id": "12f6697c8e3e",
-   "origin": "google-news",
-   "source_title": "A Dowagiac Data Center Runs 24/7 And Neighbors Say It Screams Like A Demon - Mix 95.7",
-   "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fUVktWkIwYVNXVXF5dDFETU5BQXBhSlhkZHFzU21XakdGaDNwa0p6UDV1VHFzaEN3MTIxYkhfYVo2bUlPOVk4bzNlenJhdnJheU9kVWVWYkRvT3dpMmlSTjllTEZYbC1RdXg5SzRqTk9zNkYwamc?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
   }

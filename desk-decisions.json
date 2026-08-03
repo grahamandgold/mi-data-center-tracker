@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTm1RTmJOaXNOcTJFNjRYTGFveGw3Ujhuc2dGaDN0c1RPdWZhV25Pc3RfZmRKU0tQYjd2WFc1RGJuQlBNVHN3Ums4QkRqUWQ1WjVwZUE5eGZtOEhadnBDUnpFajNYemZrRzVnaHllRk9kM1RjTjE1WVNkS29MTWxLY2drSnBINVNkSndrSTR3VEtabjE0MXdRX0VPVkh6ZVk?oc=5",
-   "title": "Oracle seeks 12-year tax break on $43B Saline Township campus",
-   "at": "2026-07-17T01:06:16+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Duplicate of killed 'Oracle gets 1/9th the tax break it wanted in Saline Twp' and 'Saline Township OKs $4.8B-based tax break for $43B Oracle-OpenAI data center'"
-  },
-  {
    "url": "https://www.wzzm13.com/article/news/local/6-data-center-companies-sign-new-pledge-gov-whitmer-releases-plan-calling-them-to-cover-own-costs/69-85edbbe6-ab6b-45a5-83da-3f3e7d491034",
    "title": "Six Data Center Firms Sign Whitmer Pledge on Costs and Jobs",
    "at": "2026-07-17T06:42:10+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-03T15:28:44+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: This is the same $30M Bitcoin loan financing already killed twice under different headlines ('Hyperscale Data sells Bitcoin stash' and 'borrows $30M in Bitcoin'"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVTk3czI4NnliYm1URjZXbTl5eUtsZzhaOHR1VnMxVVlwZ291cjFZTVl5b21rN2ZIWmotSEdxZ2QzTlVDMmM5dUJGcXAzM1ZRUE1FMXYyUXR3OHJtUkZfOUdhWXRwc0lMZjdPWFpndVZ3WTZ5RmpRa0Zyc2NBVW5VYzBPWnljd3dwTGZROU9ZQ0FZZw?oc=5",
+   "title": "Op-ed urges scrutiny of BX data-center plans in Michigan",
+   "at": "2026-08-03T17:27:34+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Opinion piece offering commentary on existing BX data center developments rather than reporting a new filing, decision, or official action."
   }
  ],
  "auto_published": [
@@ -2409,6 +2409,12 @@
    "title": "U.S. Rep. Scholten Introduces Federal Bills Requiring Data Center Water, Energy Reporting and Efficiency Standards",
    "judge_score": 8,
    "at": "2026-08-03T15:28:44Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSnVaVllpSTlNaVBPbWhhWXBFcEM4YzNzaEtEaWktLW5FSHQxTDhSUG5lTDlESk1DdVRndmZNNWV2Ni1Hb0pOQ2dYYnRkTENvNmdObV9mNGpOVGFleUFyUXJrbG9KT000VjhIZUVJQ1lHdnVYVEtGUUk5VlIxaVBpVW5WdnVfOTdsWm5nZTZQMlBCdHN1eWpJYzRqVGhKRDktQ0E?oc=5",
+   "title": "DTE says data centers key to holding down Michigan power rates",
+   "judge_score": 7,
+   "at": "2026-08-03T17:27:34Z"
   }
  ]
 }
