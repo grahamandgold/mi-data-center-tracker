@@ -1,28 +1,6 @@
 {
- "updated_at": "2026-08-03T01:10:10+00:00",
+ "updated_at": "2026-08-03T05:08:19+00:00",
  "generator": "grok-wire-agent",
- "items": [
-  {
-   "title": "Michigan governor candidates split on data-center rules and costs",
-   "dek": "Six candidates for governor laid out positions on how much local governments should control data-center siting and tax breaks. Their answers affect whether towns near you will face sudden spikes in electricity bills or new water restrictions. Voters across the state will decide the issue in Tuesday’s primary.",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWUgtejZTRkl6aXpWTTBvNTZCMmFCMy03ODlUbGlEZzBiSkNBWmVKUU1WVklzVjlOUjE0WlFOZi13RTRycmpxSlViNTFfdzZ0UEVJTy1mdmp3bkowVHo0WDBLRTNsLWJ1UzA4anVFYzBhdDhTTnVxLW5NcGkxekVmY000dklhZ0U?oc=5",
-   "source": "AOL.com",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Policy",
-   "iso": "2026-08-01T16:26:23Z",
-   "kind": "story",
-   "id": "54220cdffdc8",
-   "filed_at": "2026-08-02T07:37:20Z",
-   "origin": "google-news",
-   "headline_rewritten": true,
-   "source_title": "What Michigan's 2026 candidates say about data centers | Opinion - AOL.com",
-   "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWUgtejZTRkl6aXpWTTBvNTZCMmFCMy03ODlUbGlEZzBiSkNBWmVKUU1WVklzVjlOUjE0WlFOZi13RTRycmpxSlViNTFfdzZ0UEVJTy1mdmp3bkowVHo0WDBLRTNsLWJ1UzA4anVFYzBhdDhTTnVxLW5NcGkxekVmY000dklhZ0U?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8,
-   "judge_note": "Concrete new development with six gubernatorial candidates taking official positions on data center policy that directly affects Michigan communities; substanti"
-  }
- ],
- "accuracy_checked_at": "2026-08-03T01:10:10+00:00"
+ "items": [],
+ "accuracy_checked_at": "2026-08-03T05:08:20+00:00"
 }
