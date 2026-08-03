@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.reuters.com/world/us/americans-are-angry-about-data-centers-politicians-are-feeling-pressure-2026-07-16/",
-   "title": "Nationwide backlash grows as politicians face pressure over data center expansion",
-   "at": "2026-07-16T22:32:32+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece with Michigan examples, no specific new decision or development reported."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HN0kxRTIwcnVwcUwwWDNnOHlWajJnSmFBVUEzX2VkVDhRdUM2VHR6NnVBbGpEOVA3MTJVejRMNnBUOTVNN2NjSV95dTBfeHY3b0pLZGlWQkVLb3RubjBQRGxsT3Y5SzZ1OXFEdkE5RTNqeHFJMnc?oc=5",
    "title": "Farmland protection debate erupts over new Michigan AI data center site",
    "at": "2026-07-16T22:32:32+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-02T20:15:41+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: This is a rehash of the already-live story 'Dowagiac data center noise torments nearby homes day and night' — same facility, same noise complaints, just more co"
+  },
+  {
+   "url": "https://www.politico.com/news/magazine/2026/08/02/the-new-luddites-01017824",
+   "title": "National Backlash Against Data Centers Grows as Local Officials Face Recall Efforts",
+   "at": "2026-08-03T08:49:46+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece with no specific Michigan decision, development, or official action; generic protest/recall framing already covered by existing Michigan-sp"
   }
  ],
  "auto_published": [
