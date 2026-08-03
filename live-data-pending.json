@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-03T22:14:52+00:00",
+ "updated_at": "2026-08-03T23:41:22+00:00",
  "generator": "grok-wire-agent",
  "items": [
   {
@@ -22,5 +22,5 @@
    "judge_note": "Major new development: project cost has ballooned from $4.8B to $43B, a concrete and dramatic escalation at the Oracle/OpenAI Saline site."
   }
  ],
- "accuracy_checked_at": "2026-08-03T22:14:47+00:00"
+ "accuracy_checked_at": "2026-08-03T23:41:20+00:00"
 }

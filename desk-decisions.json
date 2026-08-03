@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.wemu.org/michigan-news/2026-07-16/whitmer-data-center-proposal-echoes-legislative-democrat-plans",
-   "title": "Whitmer Plan Seeks to Block Data Center Costs from Hitting Resident Bills",
-   "at": "2026-07-17T09:17:36+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Rehashes the already-live Whitmer pledge plan and legislative bills requiring data centers to cover their own power costs."
-  },
-  {
    "url": "https://bridgemi.com/business-watch/massive-data-center-wins-local-tax-break-but-9-times-smaller-than-requested",
    "title": "Saline Township Grants Smaller Tax Break to Oracle-OpenAI Data Center Project",
    "at": "2026-07-17T11:10:44+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-03T22:14:52+00:00",
    "by": "news_judge",
    "note": "score 3/10: Washington state case study offers national context but lacks Michigan-specific relevance or actionable local angle."
+  },
+  {
+   "url": "https://www.texastribune.org/2026/08/03/texas-data-center-project-audit-greg-abbott/",
+   "title": "Texas Governor Orders Pause on New Data Center Approvals Pending Grid Audits",
+   "at": "2026-08-03T23:41:22+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece from Texas with no Michigan angle or direct impact on Michigan data center buildout."
   }
  ],
  "auto_published": [
