@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-03T23:41:15+00:00",
+ "updated_at": "2026-08-04T03:29:39Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Lowell residents lose Microsoft data center after council cites secrecy",
+   "dek": "The Lowell City Council stopped all talks with Microsoft over a proposed data center, saying the company failed to share enough details on power needs and local impacts. Residents in Kent County now face uncertainty over potential jobs, tax revenue, and strain on the electric grid. The decision blocks one of the few large-scale data center projects actively discussed in West Michigan this year.",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOY2xGMmd4MXgzSHprdTVNM21mODBLVWNsM1hWU0Z0WkdBclUxZXk3VVVFWEpxV1BUZzlnTkVreWc4U3NtMTBmYWFneHY1OTY2SFlzdGFiTkR3ZUVtWmNiVHlTVGpJNGxFVDMwODRuWUxEM0hINkM3dktTVHpTazF6dTdrWW5VVUloc3A4czJlLUtjVUJETjF0a2hoeExpVXhEUUtQV2hHazllc2l1WEJPVzFMeGdJT2c1YjJpNVN4NXpCMFVGTkVLTTBxY0lDWVN3R2xj?oc=5",
+   "source": "WZZM13.com",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Kent",
+   "tag": "Local Government",
+   "iso": "2026-08-04T03:07:00Z",
+   "id": "f7b3f7c932c9",
+   "origin": "google-news",
+   "source_title": "Microsoft data center talks halted by Lowell City Council - WZZM13.com",
+   "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOY2xGMmd4MXgzSHprdTVNM21mODBLVWNsM1hWU0Z0WkdBclUxZXk3VVVFWEpxV1BUZzlnTkVreWc4U3NtMTBmYWFneHY1OTY2SFlzdGFiTkR3ZUVtWmNiVHlTVGpJNGxFVDMwODRuWUxEM0hINkM3dktTVHpTazF6dTdrWW5VVUloc3A4czJlLUtjVUJETjF0a2hoeExpVXhEUUtQV2hHazllc2l1WEJPVzFMeGdJT2c1YjJpNVN4NXpCMFVGTkVLTTBxY0lDWVN3R2xj?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "Washtenaw residents file recall bids against seven officials over data centers",
    "dek": "A local opponent has turned in signatures to recall seven elected officials in the Ann Arbor area. The effort stems from fights over proposed data-center projects and their effects on power, water and taxes. Voters 30 miles away will watch whether the recalls reach the ballot and shift local control.",
@@ -165,23 +182,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1DV3RESUN5NTkxNWxUNmc2QUNXSFIyaXZVYkdtZ04yYjRLa2preGxCQzJDOExyYzQwSUhSVklDUEtfcmROOFVqdU5QODJfZw?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Verrus pushes ahead on Michigan data center while Salem site stalls",
-   "dek": "Verrus is moving forward with a Michigan project even as its Salem plans remain uncertain. The company has not disclosed the exact site or size, but local officials are already fielding questions about power demand and tax deals. Michigan communities are watching to see which town lands the next big facility.",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNk5VRE10X21VdXBVSVlNcHhYdUd4Nnh4UExkcDcyYW5oNVVaTDlLT09hS19MQ1U3cUw4S3A1OHZXc3R1TTE0UzBWRWw2N2I1RUJTTGZ4UHNCRjNCaWdzNXVsbE5tS2p6cGZfQV92UWdkVGUzNnZEZk9pd25abGtHWGlFMTE0cFQwWGN1aWtNcm5MUVZvRmlDVEZwdHQzWjhJb201WmJNc0VqMG1sbWt5TUxWbHE?oc=5",
-   "source": "Salem Reporter",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Local Government",
-   "iso": "2026-07-31T21:31:55Z",
-   "id": "94179395e190",
-   "origin": "google-news",
-   "source_title": "While Salem project is uncertain, Verrus advances data center in Michigan - Salem Reporter",
-   "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNk5VRE10X21VdXBVSVlNcHhYdUd4Nnh4UExkcDcyYW5oNVVaTDlLT09hS19MQ1U3cUw4S3A1OHZXc3R1TTE0UzBWRWw2N2I1RUJTTGZ4UHNCRjNCaWdzNXVsbE5tS2p6cGZfQV92UWdkVGUzNnZEZk9pd25abGtHWGlFMTE0cFQwWGN1aWtNcm5MUVZvRmlDVEZwdHQzWjhJb201WmJNc0VqMG1sbWt5TUxWbHE?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {
@@ -198,21 +198,6 @@
   "id": "02d7912fe03d",
   "accuracy": "checked"
  },
- "meetings": [
-  {
-   "iso": "2026-08-03",
-   "body": "Delta County Planning Commission",
-   "topic": "Data Center Subcommittee Update and zoning ordinance discussion",
-   "region": "Northern Michigan",
-   "regionKey": "north",
-   "county": "Delta",
-   "time": "6:00 PM",
-   "status": "Planning commission",
-   "urgent": false,
-   "link": "https://deltacountymi.gov/",
-   "linkLabel": "Agenda Center",
-   "stream": ""
-  }
- ],
+ "meetings": [],
  "accuracy_checked_at": "2026-07-08T08:45:16+00:00"
 }
