@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.detroitnews.com/story/news/politics/2026/07/16/the-fight-over-ai-data-centers-is-playing-out-in-michigan-communities/90941978007/",
-   "title": "U.S. Data Center Power Demand Surges as Tech Giants Accelerate AI Infrastructure Buildout",
-   "at": "2026-07-17T12:45:26+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece with no Michigan-specific development, decision, or new information; already killed multiple times in similar forms."
-  },
-  {
    "url": "https://www.usnews.com/news/politics/articles/2026-07-16/americans-are-angry-about-data-centers-politicians-are-feeling-the-pressure",
    "title": "Americans' Anger Over Data Center Expansion Puts Pressure on Politicians Nationwide",
    "at": "2026-07-17T14:50:38+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-04T14:35:17+00:00",
    "by": "news_judge",
    "note": "score 4/10: National utility infrastructure plan with no Michigan-specific angle or decision; generic capacity projection."
+  },
+  {
+   "url": "https://www.datacenterdynamics.com/en/news/crow-and-cleanarc-target-245mw-data-center-at-dallas-market-center-in-texas/",
+   "title": "Crow Holdings, CleanArc Plan 245MW Data Center Replacing Dallas Market Hall",
+   "at": "2026-08-04T18:13:35+00:00",
+   "by": "news_judge",
+   "note": "score 2/10: Dallas development with no Michigan connection; irrelevant to Michigan data center tracker audience."
   }
  ],
  "auto_published": [
