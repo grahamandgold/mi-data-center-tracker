@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-04T14:35:18Z",
+ "updated_at": "2026-08-04T16:29:11Z",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -16,6 +16,23 @@
    "origin": "google-news",
    "source_title": "Did Whitmer Push Saline Data Center Without Proper Permits? - Michigan Enjoyer",
    "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YbVNZaEFrZnVIbUNGdGEyQ2pYZFhnOTV6UHZ2SEZaR0VSdmlHX2ktdkFuT2FlLXNfcnNkRzBiRC1SU0xIRGxPNFJ6VDE0MktBSlBlY01lYmxMblR0MDBPWmdXMVZYdw?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
+  {
+   "title": "City halts utilities deal, leaving township's data center without water supply",
+   "dek": "Lowell city officials suspended sewer and water negotiations with Lowell Township, halting progress on a proposed data center. Kent County residents now face uncertainty over whether the project can secure the infrastructure it needs. The move signals growing local resistance to data centers that could strain resources and raise utility rates.",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcDdkZzJ3ZHl5VjBNdW9IY1VfVGlKVmlVTmFfbGsxdXNob29yWHFIVWJzQ1NCazZ1UzlQSEhFRE9qMnJHOFFLWi1Ka0pSb1k5WGE2Y0cwaTFPa0dITGd1S0MySEd1VXlCQ1liM1FlcjhfQS1sVTVwNVpSZlkxZkJ2bGMxRjYzMlhkdTN0RDFHT1BvdUpvajNDenRqUEEyMXFwcjAtX2d5MjJyd3gxM2tla3lnUmpsSDM0cElJZWhuUVRYU0NnN0dJNnFma9IBywFBVV95cUxQcDdkZzJ3ZHl5VjBNdW9IY1VfVGlKVmlVTmFfbGsxdXNob29yWHFIVWJzQ1NCazZ1UzlQSEhFRE9qMnJHOFFLWi1Ka0pSb1k5WGE2Y0cwaTFPa0dITGd1S0MySEd1VXlCQ1liM1FlcjhfQS1sVTVwNVpSZlkxZkJ2bGMxRjYzMlhkdTN0RDFHT1BvdUpvajNDenRqUEEyMXFwcjAtX2d5MjJyd3gxM2tla3lnUmpsSDM0cElJZWhuUVRYU0NnN0dJNnFmaw?oc=5",
+   "source": "WOODTV.com",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Kent",
+   "tag": "Water",
+   "iso": "2026-08-04T10:48:08Z",
+   "id": "f4d5888e42e3",
+   "origin": "google-news",
+   "source_title": "In blow to proposed data center, Lowell suspends water, sewer talks with Lowell Township - WOODTV.com",
+   "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcDdkZzJ3ZHl5VjBNdW9IY1VfVGlKVmlVTmFfbGsxdXNob29yWHFIVWJzQ1NCazZ1UzlQSEhFRE9qMnJHOFFLWi1Ka0pSb1k5WGE2Y0cwaTFPa0dITGd1S0MySEd1VXlCQ1liM1FlcjhfQS1sVTVwNVpSZlkxZkJ2bGMxRjYzMlhkdTN0RDFHT1BvdUpvajNDenRqUEEyMXFwcjAtX2d5MjJyd3gxM2tla3lnUmpsSDM0cElJZWhuUVRYU0NnN0dJNnFma9IBywFBVV95cUxQcDdkZzJ3ZHl5VjBNdW9IY1VfVGlKVmlVTmFfbGsxdXNob29yWHFIVWJzQ1NCazZ1UzlQSEhFRE9qMnJHOFFLWi1Ka0pSb1k5WGE2Y0cwaTFPa0dITGd1S0MySEd1VXlCQ1liM1FlcjhfQS1sVTVwNVpSZlkxZkJ2bGMxRjYzMlhkdTN0RDFHT1BvdUpvajNDenRqUEEyMXFwcjAtX2d5MjJyd3gxM2tla3lnUmpsSDM0cElJZWhuUVRYU0NnN0dJNnFmaw?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
   },
@@ -165,23 +182,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRF9saG83czZLZGxIUlRQdmVPSVlTQ0lXZncxWXFJSUl2NDFPSDFzOWRJREk0UWlNTnZDV0s2eUVmQ0tnc1ZHQXNyN0dtM0VIc3A1Nkstb0dSOG9GTTBRb3FGVF85c1U1c2lEVW44Mm5NQW5PNWYwTmlxTGNfYWt1MHlvTlFzMXkyYkNkd2lnbFhQcUhDUHJEUHNNSE9CeXRWMlphR3dYTG5mZHhDTTdCTFdmNzcwMTYwd3RRaWt4VDMyM2hHY0VyeGJoaE5HaHh2RUZxM1ZQZVpVRnp5MjI0QzZMUGVuZl9ldFpRQg?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Otsego bans new data centers for a year",
-   "dek": "Otsego city council voted to halt all data center proposals for 12 months. Residents near potential sites now have breathing room before any large power or water demands hit local infrastructure. The pause gives the community time to shape rules that protect neighborhoods from noise and grid strain.",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcHdTWnpPWmtjcGdBR2RpMi1fcFpiZlpPMjNOdTFqNEJmV2N1czlVekdsaWF3cjZ3Vk5ZUmVTdUNLRWVGSk9RTlBTdlFjekFLb2VGWmlGdk52VWV6bDYtNmlBVEJKdlpxLWktRjlOZmh4enMwLTVNWnhUUG1IVGxRQTBJQ3R0Ul9rbEkzckZLZE5VNEREOG1RNDBuUXlIWldOOFhGeG1aX2NCOU5QT0UxTmFQWVJBbGRPbDVGSG1BenZ3YnFLbDQ3R2ZiLTdwcmpnRkh6TEJRRVM0bWtRZXl3Y0x2RVcycklI?oc=5",
-   "source": "hometownsource.com",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Allegan",
-   "tag": "Local Government",
-   "iso": "2026-08-01T05:00:00Z",
-   "id": "4680a4bc046e",
-   "origin": "google-news",
-   "source_title": "Otsego Council passes 1-year data centers moratorium - hometownsource.com",
-   "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcHdTWnpPWmtjcGdBR2RpMi1fcFpiZlpPMjNOdTFqNEJmV2N1czlVekdsaWF3cjZ3Vk5ZUmVTdUNLRWVGSk9RTlBTdlFjekFLb2VGWmlGdk52VWV6bDYtNmlBVEJKdlpxLWktRjlOZmh4enMwLTVNWnhUUG1IVGxRQTBJQ3R0Ul9rbEkzckZLZE5VNEREOG1RNDBuUXlIWldOOFhGeG1aX2NCOU5QT0UxTmFQWVJBbGRPbDVGSG1BenZ3YnFLbDQ3R2ZiLTdwcmpnRkh6TEJRRVM0bWtRZXl3Y0x2RVcycklI?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
   }
  ],
  "national": {
