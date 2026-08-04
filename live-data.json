@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-04T09:23:40+00:00",
+ "updated_at": "2026-08-04T11:42:04Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Wayne County sees $6B data center proposal land on the table",
+   "dek": "A major new campus plan would bring thousands of construction jobs but also heavy electricity demand. Wayne County residents could see tax revenue gains alongside grid strain. Local officials have not yet scheduled a formal review.",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVDVSZjhFZ20ta05RM3gyWmdtWFNTUHhrQk5KcWg1cE9IUmZmWFRaN21nNE5keVNxbzcxQW9pVXp5eFBxTV84LS1xS002TXdSYWNYYmJVZWQ3RHpZOE53NkYzd0VoYVNxY3NyR1oybC0yVG1VTTNFV0k5elpaX1hvY3FoZFhKMnNoaFpzMV9saEJKamoycTZybzRuWQ?oc=5",
+   "source": "28/22 News",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Wayne",
+   "tag": "Money",
+   "iso": "2026-08-04T03:12:42Z",
+   "id": "94a43913215b",
+   "origin": "google-news",
+   "source_title": "$6B data center plan unveiled in Wayne County | 28/22 News - 28/22 News",
+   "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVDVSZjhFZ20ta05RM3gyWmdtWFNTUHhrQk5KcWg1cE9IUmZmWFRaN21nNE5keVNxbzcxQW9pVXp5eFBxTV84LS1xS002TXdSYWNYYmJVZWQ3RHpZOE53NkYzd0VoYVNxY3NyR1oybC0yVG1VTTNFV0k5elpaX1hvY3FoZFhKMnNoaFpzMV9saEJKamoycTZybzRuWQ?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Lowell residents lose Microsoft data center after council cites secrecy",
    "dek": "The Lowell City Council stopped all talks with Microsoft over a proposed data center, saying the company failed to share enough details on power needs and local impacts. Residents in Kent County now face uncertainty over potential jobs, tax revenue, and strain on the electric grid. The decision blocks one of the few large-scale data center projects actively discussed in West Michigan this year.",
@@ -163,23 +180,6 @@
    "origin": "google-news",
    "source_title": "When Mason County pursued Michigan's state data center - shorelinemedia.net",
    "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOd25MbmJrQXU5QWJ6WnE3V2xqS2tGUTlTeEw5OG9BMTdQX0dhNTJCS0ZNU21FcllEOF9QX1JoX0lDNVBscHRNVnQxTERPQ0hKbWlrQXdfZFcyaDItX0Jsb21jVXJmdl9GMTdIM2VpMEJQTm9xVzFia3BhOEdJR1UtVFVQV0djaWxVckRRc0NqOTNrekZuWk5VVlI5NmEzS19odmNyY3FsWHhxYjh3SE1PVmVvYVpYbWNaWGdZRlhwN3oyZTZIdzNReUprVTBJYkxnTjVFRVVPV2hoUWR4UFVBbGVSQWg5UkFxcWNKZnBWMzgyQQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
-  },
-  {
-   "title": "Coldwater residents get first look at data center plans at joint meeting",
-   "dek": "Coldwater City Council and planners will brief the public on proposed data centers. Residents want to know how much power and water the projects would pull and what tax breaks are on the table. The session comes as similar fights heat up in nearby townships.",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1DV3RESUN5NTkxNWxUNmc2QUNXSFIyaXZVYkdtZ04yYjRLa2preGxCQzJDOExyYzQwSUhSVklDUEtfcmROOFVqdU5QODJfZw?oc=5",
-   "source": "WTVB",
-   "region": "mid",
-   "cat": "STATEWIDE",
-   "county": "Branch",
-   "tag": "Local Government",
-   "iso": "2026-07-31T22:29:41Z",
-   "id": "c370a9a9b035",
-   "origin": "google-news",
-   "source_title": "Coldwater City Council and Planning Commission to hold joint data center informational meeting - WTVB",
-   "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1DV3RESUN5NTkxNWxUNmc2QUNXSFIyaXZVYkdtZ04yYjRLa2preGxCQzJDOExyYzQwSUhSVklDUEtfcmROOFVqdU5QODJfZw?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
   }

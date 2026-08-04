@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.mlive.com/news/2026/07/how-many-data-center-projects-have-been-proposed-in-michigan-the-total-grows.html",
-   "title": "U.S. Data Center Power Demand Surges as Tech Giants Accelerate AI Infrastructure",
-   "at": "2026-07-17T11:10:44+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece with no Michigan-specific development; generic context that adds little to Michigan data center tracking."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNY3RhQVhwckNkUi03QjRlQkNrSDhHZThvRU1WMS1YNEZjY3dRejlDZnRKc2lFTWlaeGhlTm5uemVPVy00aUtRTjJzY1FjbVpXeFFVaWZoUFVlT3pPaFBLWUw0R3JRRW0taUdGa0xsd1Z4ZUotSDFZZWNPLXJneWhnWWg2TDBvWEh3eEtLcGdJbGZVQQ?oc=5",
    "title": "Whitmer demands data-center firms cover their own power and water costs",
    "at": "2026-07-17T11:10:44+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-04T09:23:43+00:00",
    "by": "news_judge",
    "note": "score 4/10: Officials denying rumors is reactive and thin; no actual filing, proposal, or development to report—just clarification that nothing is happening."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRnZRTmxYS25SWEFyNGk1enJDN2wwWERvbzlCcjRnaVJmX0FQYVl4TkN1bDJPUW1DdjV1TTV2LU9YRE5ZVWFSRThpaFZ6MGdoeWVSTTlVdUtSVklUbEVTSGVhVXhkdWVEQXBFcjVidFlBckpVTXVCWkc0dENFUHJXbGhZd3RWN3U0LXF2RWw4TVMwbG80dkRzRGR2UlJxOHFpcXVseHBnQUdibmNSRmRmR2Fmb21mRjdDOXFBRkZ4VzZKUEZWQ1RLR1ZzTTIyZExtb2c?oc=5",
+   "title": "Michigan governor hopefuls pitch plans to win over residents wary of data centers",
+   "at": "2026-08-04T11:42:04+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Speculative 2026 campaign positioning piece without specific policy announcements or concrete developments; thin political trend coverage."
   }
  ],
  "auto_published": [
@@ -2427,6 +2427,12 @@
    "title": "Lowell residents lose Microsoft data center after council cites secrecy",
    "judge_score": 8,
    "at": "2026-08-04T03:29:39Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVDVSZjhFZ20ta05RM3gyWmdtWFNTUHhrQk5KcWg1cE9IUmZmWFRaN21nNE5keVNxbzcxQW9pVXp5eFBxTV84LS1xS002TXdSYWNYYmJVZWQ3RHpZOE53NkYzd0VoYVNxY3NyR1oybC0yVG1VTTNFV0k5elpaX1hvY3FoZFhKMnNoaFpzMV9saEJKamoycTZybzRuWQ?oc=5",
+   "title": "Wayne County sees $6B data center proposal land on the table",
+   "judge_score": 7,
+   "at": "2026-08-04T11:42:04Z"
   }
  ]
 }
