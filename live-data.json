@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-04T11:42:04Z",
+ "updated_at": "2026-08-04T14:35:18Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Governor faces scrutiny over billion-dollar facility lacking local approvals",
+   "dek": "A new report questions whether Gov. Whitmer advanced a major data center project in Saline Township before all required local permits were secured. Residents in Washtenaw County and nearby areas could see big changes in power demand, water use and tax revenue if the project moves forward. The claim puts the governor's office on the defensive just as primary voters head to the polls.",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YbVNZaEFrZnVIbUNGdGEyQ2pYZFhnOTV6UHZ2SEZaR0VSdmlHX2ktdkFuT2FlLXNfcnNkRzBiRC1SU0xIRGxPNFJ6VDE0MktBSlBlY01lYmxMblR0MDBPWmdXMVZYdw?oc=5",
+   "source": "Michigan Enjoyer",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Policy",
+   "iso": "2026-08-04T13:58:01Z",
+   "id": "cab6dba42adb",
+   "origin": "google-news",
+   "source_title": "Did Whitmer Push Saline Data Center Without Proper Permits? - Michigan Enjoyer",
+   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YbVNZaEFrZnVIbUNGdGEyQ2pYZFhnOTV6UHZ2SEZaR0VSdmlHX2ktdkFuT2FlLXNfcnNkRzBiRC1SU0xIRGxPNFJ6VDE0MktBSlBlY01lYmxMblR0MDBPWmdXMVZYdw?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "Wayne County sees $6B data center proposal land on the table",
    "dek": "A major new campus plan would bring thousands of construction jobs but also heavy electricity demand. Wayne County residents could see tax revenue gains alongside grid strain. Local officials have not yet scheduled a formal review.",
@@ -165,23 +182,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcHdTWnpPWmtjcGdBR2RpMi1fcFpiZlpPMjNOdTFqNEJmV2N1czlVekdsaWF3cjZ3Vk5ZUmVTdUNLRWVGSk9RTlBTdlFjekFLb2VGWmlGdk52VWV6bDYtNmlBVEJKdlpxLWktRjlOZmh4enMwLTVNWnhUUG1IVGxRQTBJQ3R0Ul9rbEkzckZLZE5VNEREOG1RNDBuUXlIWldOOFhGeG1aX2NCOU5QT0UxTmFQWVJBbGRPbDVGSG1BenZ3YnFLbDQ3R2ZiLTdwcmpnRkh6TEJRRVM0bWtRZXl3Y0x2RVcycklI?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
-  },
-  {
-   "title": "Mason County bids to host Michigan's official state data center",
-   "dek": "Local leaders are pitching the county as the site for a major state-backed facility that could bring construction jobs and long-term tax revenue. Residents would also face questions about power demand and land use if the project advances. The effort puts a rural western Michigan county in competition with larger metro areas for the economic prize.",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOd25MbmJrQXU5QWJ6WnE3V2xqS2tGUTlTeEw5OG9BMTdQX0dhNTJCS0ZNU21FcllEOF9QX1JoX0lDNVBscHRNVnQxTERPQ0hKbWlrQXdfZFcyaDItX0Jsb21jVXJmdl9GMTdIM2VpMEJQTm9xVzFia3BhOEdJR1UtVFVQV0djaWxVckRRc0NqOTNrekZuWk5VVlI5NmEzS19odmNyY3FsWHhxYjh3SE1PVmVvYVpYbWNaWGdZRlhwN3oyZTZIdzNReUprVTBJYkxnTjVFRVVPV2hoUWR4UFVBbGVSQWg5UkFxcWNKZnBWMzgyQQ?oc=5",
-   "source": "shorelinemedia.net",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Mason",
-   "tag": "Local Government",
-   "iso": "2026-08-01T03:00:00Z",
-   "id": "b7632e1f1811",
-   "origin": "google-news",
-   "source_title": "When Mason County pursued Michigan's state data center - shorelinemedia.net",
-   "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOd25MbmJrQXU5QWJ6WnE3V2xqS2tGUTlTeEw5OG9BMTdQX0dhNTJCS0ZNU21FcllEOF9QX1JoX0lDNVBscHRNVnQxTERPQ0hKbWlrQXdfZFcyaDItX0Jsb21jVXJmdl9GMTdIM2VpMEJQTm9xVzFia3BhOEdJR1UtVFVQV0djaWxVckRRc0NqOTNrekZuWk5VVlI5NmEzS19odmNyY3FsWHhxYjh3SE1PVmVvYVpYbWNaWGdZRlhwN3oyZTZIdzNReUprVTBJYkxnTjVFRVVPV2hoUWR4UFVBbGVSQWg5UkFxcWNKZnBWMzgyQQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {
