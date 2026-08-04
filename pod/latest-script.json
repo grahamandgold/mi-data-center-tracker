@@ -1,133 +1,205 @@
 {
- "title": "Mornings with Graham & Emmy",
- "teaser": "New federal bills on water and energy reporting land amid 55% statewide opposition to local projects.",
+ "title": "Evenings with Graham & Emmy",
+ "teaser": "New federal reporting rules proposed as 55% of primary voters oppose nearby data centers.",
  "lines": [
   {
    "host": "Graham",
-   "text": "Good morning and welcome to Mornings with Graham & Emmy, the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
+   "text": "Good evening, and welcome to Evenings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
   },
   {
    "host": "Emmy",
-   "text": "And I'm Emmy. Today we're digging into a fresh push from Washington that could reshape how these projects get built right here at home."
+   "text": "And I'm Emmy. Tonight we start with fresh federal legislation from a West Michigan congresswoman and a poll showing most primary voters want nothing to do with these projects in their backyards."
   },
   {
    "host": "Graham",
-   "text": "That's right, Emmy. Yesterday U.S. Representative Hillary Scholten introduced federal legislation requiring annual reporting on data centers' water and energy use, plus updates to Defense Department cooling standards to safeguard water supplies."
+   "text": "Exactly, Emmy. U.S. Rep. Hillary Scholten introduced two bills Monday that would force data center operators to report their water and energy use every year."
   },
   {
    "host": "Emmy",
-   "text": "This comes just a day after a poll showed 55 percent of Michigan primary voters oppose data centers near their homes, with even higher numbers among Democrats. Why is she stepping in now, Graham?"
+   "text": "Why now? We've seen months of local fights over power, water, and taxes. What does her legislation actually do?"
   },
   {
    "host": "Graham",
-   "text": "Scholten represents Grand Rapids and has watched the local fights play out in Kent County and beyond. Her bills aim to create transparency that local officials say they've been missing when companies pitch these campuses."
+   "text": "It mandates annual surveys of resource consumption and updates Defense Department cooling standards to better protect water supplies. The goal is transparency so communities know what they're signing up for."
   },
   {
    "host": "Emmy",
-   "text": "So what exactly would the reporting cover? Is this just paperwork or does it change how projects get approved?"
+   "text": "That sounds like it could help towns decide. But is this just federal paperwork, or could it actually slow projects here in Michigan?"
   },
   {
    "host": "Graham",
-   "text": "It mandates yearly surveys of resource consumption and ties into broader efficiency rules. The idea is to give communities real numbers on power draw and water use before they commit tax breaks or grid upgrades."
+   "text": "It would create a national baseline. Right now siting is almost entirely local, so the bills wouldn't override townships, but the data could fuel lawsuits or stricter local rules."
   },
   {
    "host": "Emmy",
-   "text": "That sounds like it could help places like Lowell, where the council just killed talks with Microsoft over secrecy on those exact issues. How does this federal step connect to those local decisions?"
+   "text": "Interesting. We've also got that poll from Sunday showing 55 percent of Michigan primary voters oppose data centers near them, jumping to 63 percent among likely Democrats."
   },
   {
    "host": "Graham",
-   "text": "It doesn't override local zoning, but it could arm residents and officials with data they can use in their own reviews. We've seen similar pushes in other states where towns felt blindsided by the scale of demand."
+   "text": "Yes, and that opposition lines up with the water and rate concerns Scholten is trying to address. Voters are clearly paying attention as projects multiply."
   },
   {
    "host": "Emmy",
-   "text": "And the poll from Sunday really drives home the stakes. Fifty-five percent opposition statewide, jumping to 63 percent among likely Democratic primary voters. What are people most worried about?"
+   "text": "Who are the main players pushing back locally? Townships like Saline and Lowell have been vocal."
   },
   {
    "host": "Graham",
-   "text": "Electric bills, water availability, and whether the tax revenue actually offsets the strain on local infrastructure. Candidates are already clashing over who ends up paying if these big loads come online."
+   "text": "Residents and some officials cite farmland loss, higher electric bills, and strained water systems. On the other side, utilities like DTE argue big loads help stabilize rates for everyone."
   },
   {
    "host": "Emmy",
-   "text": "DTE Energy said yesterday that landing these data centers is key to holding rates steady. If projects stall, does that mean higher bills for everyone else?"
+   "text": "DTE said yesterday that data centers are key to holding down power rates. How does that square with the poll numbers?"
   },
   {
    "host": "Graham",
-   "text": "That's the utility's argument in their latest filing. They see the big loads as a way to spread costs, but residents in places like Washtenaw County are already filing recalls over exactly those concerns."
+   "text": "The utility sees steady demand growth and wants those large customers on the grid. Critics worry the opposite: that one big campus could drive up costs for households if infrastructure upgrades get passed along."
   },
   {
    "host": "Emmy",
-   "text": "Seven officials facing recall bids there after yesterday's signature turn-in. How far back does this tension go in Michigan?"
+   "text": "What about Senate candidate John James? He weighed in Saturday saying let Michigan towns decide siting and taxes."
   },
   {
    "host": "Graham",
-   "text": "It's been building for months across multiple counties. Townships have paused projects, voters are organizing, and now we're seeing federal attention because the local fights are getting intense."
+   "text": "James told The Detroit News he'd keep decisions local rather than impose state rules. That stance could resonate in places like Saline Township where residents are already battling over permits."
   },
   {
    "host": "Emmy",
-   "text": "What happens next with Scholten's bills? Do they have a real shot or is this more messaging?"
+   "text": "Scholten is a Democrat from Grand Rapids pushing federal standards. James is the Republican Senate candidate favoring local control. How do those positions play with today's primary voters?"
   },
   {
    "host": "Graham",
-   "text": "They're newly introduced, so the immediate impact is spotlighting the issue. Any movement would likely take months, but it signals to Michigan communities that Washington is watching the resource demands."
+   "text": "The poll shows broad skepticism, so both approaches get tested. Voters in data-center counties will see whether local control or federal guardrails feels like the better protection."
   },
   {
    "host": "Emmy",
-   "text": "Meanwhile on the ground, Wayne County just got a six-billion-dollar proposal today that could bring thousands of construction jobs but also heavy electricity needs. Local officials haven't scheduled a review yet."
+   "text": "What happens next with Scholten's bills? Do they have a real shot in Congress?"
   },
   {
    "host": "Graham",
-   "text": "That's a massive scale. Tax revenue gains are possible, but so is grid strain that could affect rates for nearby homes."
+   "text": "They just dropped Monday, so early days. Supporters hope the reporting requirements become a model that states copy. Opponents may argue it adds red tape without solving local issues."
   },
   {
    "host": "Emmy",
-   "text": "And in Genesee County they delayed an environmental vote on Saturday, giving residents more time to review traffic, power, and noise impacts."
+   "text": "And the water angle feels especially relevant after Lowell's moves this week."
   },
   {
    "host": "Graham",
-   "text": "Extra weeks for public input there, which matches what we've seen in other spots where communities want breathing room."
+   "text": "Exactly. We'll get to those local stories in a minute, but the bigger picture is that federal transparency could give residents the facts they say have been missing."
   },
   {
    "host": "Emmy",
-   "text": "Otsego went further on Saturday and banned new data centers for a full year. That pause lets them shape rules around noise and infrastructure before anything moves forward."
+   "text": "History-wise, Michigan has seen data centers come in quietly for years. Now the scale is different with AI demand."
   },
   {
    "host": "Graham",
-   "text": "Dowagiac is shifting an existing site from Bitcoin mining to a twenty-megawatt AI contract under a ten-year deal that could top a billion dollars, though noise litigation from residents continues."
+   "text": "Right. Earlier projects were smaller; today's proposals run hundreds of megawatts and touch multiple counties. That jump in size is why the fights feel more urgent."
   },
   {
    "host": "Emmy",
-   "text": "And U.S. Senate candidate John James said Saturday he'd leave siting and tax decisions to local officials rather than add state rules. How does that land with voters in counties already fighting these projects?"
+   "text": "So if these bills pass, would we finally get numbers on how much a typical Michigan data center pulls from the grid and aquifers?"
   },
   {
    "host": "Graham",
-   "text": "It puts the focus back on townships like Saline and Coldwater where power, water, and tax break debates are already active. Primary voters decide today whether that resonates."
+   "text": "That's the idea. Annual public data could show trends over time and let planners compare projects before approvals."
   },
   {
    "host": "Emmy",
-   "text": "With the poll showing broad opposition, local control might be exactly what many want right now."
+   "text": "What about farmland conversion? Some residents worry prime ag land gets paved over."
   },
   {
    "host": "Graham",
-   "text": "Exactly. The federal reporting could complement that by giving everyone better facts to work with."
+   "text": "The bills don't directly address land use, but better energy and water data might highlight projects that need massive new infrastructure, indirectly protecting rural areas."
   },
   {
    "host": "Emmy",
-   "text": "So pulling it together, Scholten's move and the Sunday poll both point to a moment where transparency and local say are front and center."
+   "text": "And tax revenue is the carrot. Wayne County's $6 billion proposal yesterday promised thousands of construction jobs."
   },
   {
    "host": "Graham",
-   "text": "And with projects still landing like the Wayne County proposal, those conversations aren't slowing down."
+   "text": "Yes, but locals still weigh that against long-term grid strain. The conversation always circles back to who pays if demand spikes."
   },
   {
    "host": "Emmy",
-   "text": "No major meetings on the calendar for tonight or tomorrow that we've confirmed, but we'll keep watching the tracker for any updates."
+   "text": "What should listeners watch for in the coming weeks?"
+  },
+  {
+   "host": "Graham",
+   "text": "How other members of Congress react to Scholten's bills and whether the poll numbers shift after today's primary results come in."
+  },
+  {
+   "host": "Emmy",
+   "text": "Fair enough. Let's turn to the other stories making news this week."
+  },
+  {
+   "host": "Graham",
+   "text": "Starting with today: a new report questions whether Governor Whitmer advanced a big facility in Saline Township before all local permits were locked in."
+  },
+  {
+   "host": "Emmy",
+   "text": "Residents in Washtenaw County could see major shifts in power demand and tax revenue. The timing puts the governor's office on the defensive right as voters head to the polls."
+  },
+  {
+   "host": "Graham",
+   "text": "Also today, Lowell city officials suspended sewer and water talks with the township, halting progress on another proposed center."
+  },
+  {
+   "host": "Emmy",
+   "text": "That leaves Kent County residents wondering if the project can ever secure the infrastructure it needs. Signals growing pushback on resource strain."
+  },
+  {
+   "host": "Graham",
+   "text": "Yesterday we saw a $6 billion campus plan land in Wayne County, promising construction jobs but heavy electricity demand."
+  },
+  {
+   "host": "Emmy",
+   "text": "Local officials haven't scheduled a formal review yet. Tax gains versus grid pressure will be the debate there."
+  },
+  {
+   "host": "Graham",
+   "text": "Same day, the Lowell City Council ended all talks with Microsoft over secrecy concerns on power needs and impacts."
+  },
+  {
+   "host": "Emmy",
+   "text": "That blocks one of the bigger West Michigan projects discussed this year. Uncertainty now for jobs and rates in Kent County."
+  },
+  {
+   "host": "Graham",
+   "text": "Washtenaw residents filed recall signatures against seven officials over data center fights."
+  },
+  {
+   "host": "Emmy",
+   "text": "The effort targets power, water, and tax issues. Voters thirty miles away will watch if those recalls reach the ballot."
+  },
+  {
+   "host": "Graham",
+   "text": "DTE's filing yesterday tied future rate stability to securing large data center loads."
+  },
+  {
+   "host": "Emmy",
+   "text": "Their project pipeline stays steady even as forecasts rise. Households could feel it in bills either way."
+  },
+  {
+   "host": "Graham",
+   "text": "And on Saturday, Hyperscale Data shifted power at its Dowagiac site from Bitcoin to a 20-megawatt AI deal worth over a billion dollars long term."
+  },
+  {
+   "host": "Emmy",
+   "text": "Residents are still litigating noise complaints from the facility. The switch shows how these sites can pivot uses quickly."
+  },
+  {
+   "host": "Graham",
+   "text": "No major public meetings on the calendar for tonight or tomorrow that we've confirmed yet."
+  },
+  {
+   "host": "Emmy",
+   "text": "Listeners should check the Michigan Data Center Tracker for any last-minute additions."
   },
   {
    "host": "Graham",
    "text": "Full sources and the live map at the Michigan Data Center Tracker. We're back tomorrow."
   }
  ],
- "episode_title": "Scholten Pushes Federal Data Center Oversight as Michigan Voters Push Back",
- "show": "Mornings with Graham & Emmy",
- "daypart": "Mornings"
+ "episode_title": "Scholten's Federal Data Center Bills Meet Michigan Voter Pushback",
+ "show": "Evenings with Graham & Emmy",
+ "daypart": "Evenings"
 }
