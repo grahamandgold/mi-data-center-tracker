@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://bridgemi.com/business-watch/massive-data-center-wins-local-tax-break-but-9-times-smaller-than-requested",
-   "title": "Saline Township Grants Smaller Tax Break to Oracle-OpenAI Data Center Project",
-   "at": "2026-07-17T11:10:44+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Duplicate of already-live 'OpenAI lands smaller tax break from Saline on data center campus' and killed 'Saline Township Slashes Data Center Tax Break' stories "
-  },
-  {
    "url": "https://www.mlive.com/news/2026/07/how-many-data-center-projects-have-been-proposed-in-michigan-the-total-grows.html",
    "title": "U.S. Data Center Power Demand Surges as Tech Giants Accelerate AI Infrastructure",
    "at": "2026-07-17T11:10:44+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-03T23:41:22+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece from Texas with no Michigan angle or direct impact on Michigan data center buildout."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM1Ywc3lqM1NxXzVHYVJNZjVPODkzemdnZVdfWDlvWXdSekRYSlV1U1dDRl93bm5MZm01Y05Ic3VYZFR5SkJSemJ4dWY3YUpXTGZmVjlTbHdJaEZkRVM3UzJtMDh4akNUeHhYYnVrOE15S1h2QlJMQ05GT2EyUFUyM053bzRtWFhmLXIzUGVyZm1ZQ01CUmc?oc=5",
+   "title": "Officials quash rumors: No one has filed to build server facility in Livingston County",
+   "at": "2026-08-04T09:23:43+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Officials denying rumors is reactive and thin; no actual filing, proposal, or development to report—just clarification that nothing is happening."
   }
  ],
  "auto_published": [
