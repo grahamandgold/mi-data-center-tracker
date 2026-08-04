@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaWRyYlVFclhtbFdwdXlzaVpGX2RBUVVMcUNDQmM3VlZBbUhxV1NFdnhYUS1xRGlUVEVMSGtjWHFCWFdKSXYzV1oxSkxJendrQ21UQ2E4ZklkVGdyME9WN0VkZ09KS0R6VWN1dy1uaDZHeWRtMzFWNm55WThMVnp4SENNNlFVNWJvUVA0VkNNYU11Ym81RTlIcnRoX1NLLU9Lb0FmVFRMWk14REpnTE9IZUJSN1JFODN2ZlVSSVdoSWI?oc=5",
-   "title": "Whitmer pushes data centers to cover their own power and water costs",
-   "at": "2026-07-17T17:41:55+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: This is the same Whitmer pledge/plan already covered in multiple LIVE and KILLED stories, just reworded with slightly different framing."
-  },
-  {
    "url": "https://www.usatoday.com/story/opinion/columnist/2026/07/16/new-york-ai-data-center-moratorium-hochul/90918402007/",
    "title": "New York Halts New Data Center Permits in First Statewide Pause",
    "at": "2026-07-17T19:23:32+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-04T21:51:45+00:00",
    "by": "news_judge",
    "note": "score 3/10: National AI trend commentary pegged to Altman's general statements, lacks specific Michigan decision, filing, or concrete development."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOLTZ4dklRdDV1cFNWVnFtLW1FWjAybUdHVjM1eDNiU0ZqbFo0eHFoSkxOeTlaOFZZOUVDWmRMX0d3YnhvYlJ1M05kMVFOY1MzUTZpMmVYa3B0dzVmSWNKaFh1R0FjQm12SW0wcWlmck1EdXNKOFNQNG1mMnpkaEtvbldzQ3RMVWI2eERzMUJFcVlabEd3SlBjVzV1VG9scVhWUVNHa29ySU5jSVNXSmprVzkzV0xLVGplYW1ULU5tSXMwVU5ISl9mR3FwSzNEQmR2cDY5bU55dkFWSmhm?oc=5",
+   "title": "Michigan voters rage at data center ads flooding their feeds",
+   "at": "2026-08-04T23:12:04+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Vague story about campaign ads and voter sentiment without reporting a specific filing, vote, poll result, or spending disclosure that would make it concrete ne"
   }
  ],
  "auto_published": [
