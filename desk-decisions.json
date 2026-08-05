@@ -1,41 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUHJUVVpHSDlSZThhR1gxM0RreGRneEtBaHNnU0huMFVWaHA4MXI2N2dmQVVoYms3ck5FZlY2VlV5RzVUSW5LWnNwZGQtRWxRVVFSM1owY3dWSHRGYUt6cWdEclp6VGFDZTMzTXZOYTBjQWVPUDBOT2tBbXhSTHBHVjRZX2lhejFTb21uZVRNTFpiM3lpeC14SVpFdFRiUUhmamZ2SUYxcjh5cmVVemVQbUpRbG4?oc=5",
-   "title": "Roseville residents clash over data centers with none even proposed yet",
-   "at": "2026-07-17T21:25:16+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Speculative opposition to hypothetical projects with no actual filing, proposal, or official action—interesting as a trend indicator but lacks concrete developm"
-  },
-  {
-   "url": "https://www.google.com/search?q=data+center+news+US+-Michigan+July+2026",
-   "title": "No major non-Michigan U.S. data center developments reported in the last 24 hours",
-   "at": "2026-07-17T22:27:14+00:00",
-   "by": "news_judge",
-   "note": "score 2/10: Meta-story about absence of news; no actionable information for Michigan readers."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVkd3eGtHdDFUV25rQnh5b19SLVBXOS1uc0VrckNhNzhvaTgyNnpBVVp6ak5KcXRBMGFwMXBJcS1MZ3lYcloxaXBYc0dxWjk3Zzg2NFp2eFRfYXlQY0RCbWFIV1RGdFlHamoxVjFrZmhrNEVFZGFzMkRKZnVrTXFibFNZSTRkUDQ?oc=5",
-   "title": "Lake Township halts data center plans for half a year",
-   "at": "2026-07-17T22:27:14+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Same Lake Township six-month moratorium already live in the queue."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaGdlMnBaVGZhR0tHZkR6Z1RvbTBIX3NhMGk2VlY2UHp1TjZVZXN2ZTlOUUlPejdTVTUwQUYxaWgyQ1hJQVY4R3FVV0xfVGJUNmdxSkdCYTBMLXUxVnBPd2xfNlpzajlDMm1McU1VZm9qQm5Zbnp3UWE1LTF1ZndkTUdaclVRdWRwM25ZaGpfUTJUYUxHTllHVi1Za1Awd1A2ajRXSFdMVQ?oc=5",
-   "title": "Governor candidates clash on who pays for data-center power",
-   "at": "2026-07-17T23:29:21+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Campaign debate framing of an already-covered policy issue (Whitmer's cost-coverage push) without a new concrete development or filing."
-  },
-  {
-   "url": "https://www.michigansthumb.com/news/article/lake-township-moratorium-22349310.php",
-   "title": "Lake Township Enacts Six-Month Pause on New Data Center Approvals",
-   "at": "2026-07-18T01:00:51+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Same Lake Township six-month moratorium already live and killed multiple times."
-  },
-  {
    "url": "https://www.michamber.com/news/governors-data-center-proposal-reflects-key-recommendations-from-independent-analysis/",
    "title": "Whitmer Plan Seeks to Protect Ratepayers and Resources from Data Center Growth",
    "at": "2026-07-18T01:00:51+00:00",
@@ -1399,6 +1364,41 @@
    "at": "2026-08-05T16:48:21+00:00",
    "by": "news_judge",
    "note": "score 2/10: Appears to rehash the already-killed Dowagiac/crypto noise story without a new development or decision."
+  },
+  {
+   "url": "https://bridgemi.com/michigan-government/michigan-democratic-senate-primary-results-abdul-el-sayed-haley-stevens/",
+   "title": "El-Sayed Edges Stevens in Michigan Senate Primary",
+   "at": "2026-08-05T22:18:20+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: General Senate primary result with no data center angle mentioned in the summary; Michigan-relevant but not data-center-tracker material."
+  },
+  {
+   "url": "https://www.eenews.net/articles/data-center-foes-win-big-in-tuesdays-primaries/",
+   "title": "William Lawrence Wins Michigan House Primary After Campaigning Against Data Center Expansion",
+   "at": "2026-08-05T22:18:20+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Same event as already-live 'Lawrence beats Stevens in MI-7 after vowing to block data centers' — identical primary win, just reworded."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORXltVHNIQVJWZ2RBelV3WUhtcHNWQUptdXU0RXhiUGY3Rm5Eb19qZF8waGJvTTVWTzB5bEhWb01oeVRGZnpUR2hmc2dCVG53QWNlQXBGaWZkZkswbkZXamZUYUNtcHRmdmtCX0xsNnF4Tzd6N0hXUlZMckVtOWZqNmV2dzZEVTFGUlZtemMxdUZ2YlZ0cDZYbkZ3ZTk?oc=5",
+   "title": "Data center opponents sweep key Michigan primaries",
+   "at": "2026-08-05T22:18:20+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Vague multi-race roundup with no specific new results beyond what's already covered; reads like thin aggregation rather than concrete reporting."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQllZbVR6UHlHTzNfZEdRSUFJMGxrRDk5b2FtSVI3S2tBSC1sdnFVd2w1WV9nbjlOa1k0b055bFZSMVFCWUZMTU91ME04dXdaNmVvZGJIRnBxVnBfTkVTNno1V29zMkMzX0daZ3NPU0ZyUENrdF9xTnJsYTEtR1FRQWNUYjVVOEFtQmRYa3dlRFd1VmN5YVVZVlVpdVNUaElsWC1QTjlLYW4xUjU4dUN3RkJmUXZzSWJERlQxd3hURFRSMjU0WGtBaUxUd21SM3otbFNDMWY4RkdRa3JwSnhuYWZn?oc=5",
+   "title": "Lawrence beats big money in House primary by opposing data centers",
+   "at": "2026-08-05T22:18:20+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Same Lawrence primary victory already live; this is just another angle on the identical event."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSUtVdnZTSnVJMDJna2dGTXZ1eWtwTDMzRlRUM1NqUHJLT2tIblJCelg1ZU8tU2ttdVZaSm9rSENTVWZuUUtNQWVKeFJEaV96cmVRS2xMbUV5OW9ielAtZ016aGRQVHZ3NEVmUnV0Sm5BVzlhVmtEYlFqNkNjUk96SEctNTJhU05kZlJCanFjRTByckVZQmd5MHZTN1JZdV9NbmV0UzJXaTc4enBkS3g1cTBLUk5MVl9mLWc1NUpJdXZ6MzR6bzFkOC16elBSSnpFYnRCMDVNQjjSAewBQVVfeXFMTkk4c2FmMzkyVFIyOVRsVkZOaDNtcU9CZXFCMDdqZURRejBqYVdhbmlqZ21xek5wNmhxRUpXOHY3bTI1NWdnWk1ReXBTUFF3M3JDYTd2eV9kaDlkb0dtcFgtWUtYRlVYX0dXcGVUY2tMV0R2WXFSdF9rV3YtMmRONi1wS3pldFZIUEJmMzh2di04NEF4SG03QnRrdmd0cjNMUnpMa2t3RlhlWl9WcGRWRVhQUFV1X2l4V25VNUVrSDM3cjVmdjI3SFROampZcDBaMl81ekJxdmR2Sm9vUElMY3MzVVBNZ1VSR3Z0MG0?oc=5",
+   "title": "Washtenaw voters crush $1B data center plan by 90%",
+   "at": "2026-08-05T22:18:20+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Same Washtenaw rezoning vote already live as 'Washtenaw voters kill $1B data center rezoning in rural township' — identical ballot measure."
   }
  ],
  "auto_published": [
