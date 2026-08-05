@@ -1,10 +1,10 @@
 {
- "title": "Mornings with Graham & Emmy",
- "teaser": "New federal oversight push meets 55% Michigan opposition to nearby centers.",
+ "title": "Evenings with Graham & Emmy",
+ "teaser": "Monroe Twp fights a $300M suit over its data center ban—what it means for power, water and towns nearby.",
  "lines": [
   {
    "host": "Graham",
-   "text": "Good morning and welcome to Mornings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
+   "text": "Good evening, and welcome to Evenings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
   },
   {
    "host": "Emmy",
@@ -12,202 +12,194 @@
   },
   {
    "host": "Graham",
-   "text": "It's Wednesday morning, August 5, and our big story today centers on U.S. Rep. Hillary Scholten introducing federal legislation to require data center operators to report water and energy use while updating efficiency standards."
+   "text": "Tonight we're looking at Monroe Township's push in federal court to end a $300 million lawsuit from a data center developer after the township banned new facilities."
   },
   {
    "host": "Emmy",
-   "text": "That comes right after a Sunday poll showed 55 percent of Michigan primary voters oppose data centers near their homes, with even higher numbers among Democrats."
+   "text": "That sounds like a big one. Why is this case drawing attention from people 30 miles away in southeast Michigan?"
   },
   {
    "host": "Graham",
-   "text": "Exactly, so let's unpack what this federal move means against the backdrop of local resistance we're seeing play out across the state right now."
+   "text": "Because the outcome could decide whether other local governments can keep these projects out when they pull huge amounts of power and water."
   },
   {
    "host": "Emmy",
-   "text": "Graham, walk me through the bills themselves. What exactly would they do?"
+   "text": "Walk me through what happened. The township banned new data centers, the developer sued for $300 million, and now Monroe wants the judge to toss the whole thing?"
   },
   {
    "host": "Graham",
-   "text": "Scholten's legislation would mandate annual surveys of how much power and water data centers actually consume, and it would push the Defense Department to tighten cooling requirements to safeguard water supplies, especially relevant here in Michigan with multiple projects under discussion."
+   "text": "Exactly. The developer claims the ban blocks a project that was already in the works. Monroe says local zoning rules give them the right to decide what lands in their community."
   },
   {
    "host": "Emmy",
-   "text": "Why introduce this now? Is it tied to the growing number of local fights we've covered?"
+   "text": "How did we get here? When did these projects start showing up in Michigan townships?"
   },
   {
    "host": "Graham",
-   "text": "It lines up with the timing. The poll from Sunday showed clear voter concern over electric bills and water use, and we've seen concrete actions like Augusta Township residents voting today to kill a farmland rezoning for a data center."
+   "text": "Over the last few years, companies have been scouting rural spots for the massive facilities needed to run AI and cloud computing. They need steady power in the hundreds of megawatts and lots of water for cooling."
   },
   {
    "host": "Emmy",
-   "text": "That vote in Augusta keeps the land agricultural and avoids the noise, power, and water demands. How does a federal reporting requirement change the game for places like that?"
+   "text": "What does that kind of demand do to the local grid and residents' bills?"
   },
   {
    "host": "Graham",
-   "text": "It adds transparency at the national level, so operators can't keep impacts hidden. Local voters already used their voices in Augusta to block the shift to industrial use, and similar scrutiny is happening elsewhere."
+   "text": "One large data center can use as much electricity as a small city. Utilities sometimes have to upgrade lines or build new generation, and those costs can show up in monthly bills for everyone in the region."
   },
   {
    "host": "Emmy",
-   "text": "Independence Township also acted today with a moratorium on new proposals while they write rules. That gives Oakland County residents time to figure out limits on power, water, and land use."
+   "text": "And water? I've heard cooling towers use millions of gallons."
   },
   {
    "host": "Graham",
-   "text": "Right, and that moratorium creates a template other townships might follow. The federal bills could complement that by forcing data on resource use that communities can then use in their own planning."
+   "text": "Yes, and in areas already watching drought or aquifer levels, that raises real concerns for farmers and homeowners who rely on the same sources."
   },
   {
    "host": "Emmy",
-   "text": "What about the history here? How long have these local battles been building?"
+   "text": "What about farmland? These projects often want flat open land that used to grow crops."
   },
   {
    "host": "Graham",
-   "text": "They've been escalating this week and last. Yesterday Lowell City Council ended talks with Microsoft over secrecy on power needs, and the city halted utilities negotiations with the township, leaving the project without water supply."
+   "text": "Right. Once rezoned industrial, that ground is usually lost for agriculture. Nearby towns worry about noise, traffic, and property values shifting too."
   },
   {
    "host": "Emmy",
-   "text": "That uncertainty in Kent County hits jobs, taxes, and grid strain all at once. And we had the Wayne County $6 billion proposal surface yesterday too."
+   "text": "So Monroe's ban is trying to protect all of that. Why is the developer fighting so hard with a $300 million claim?"
   },
   {
    "host": "Graham",
-   "text": "Yes, that one would bring construction jobs but heavy electricity demand. Officials there haven't scheduled a formal review yet, so residents are watching for tax revenue versus potential rate impacts."
+   "text": "They argue the township changed the rules after investments were made, and they want compensation or the project allowed. The case is testing how much say locals really have."
   },
   {
    "host": "Emmy",
-   "text": "Meanwhile, yesterday's report on the governor facing scrutiny over a Saline Township project advancing without all local approvals. How does that fit the bigger picture of local control?"
+   "text": "If the judge sides with the township and dismisses the suit, what happens next for other communities watching this?"
   },
   {
    "host": "Graham",
-   "text": "It puts the spotlight on whether state-level support can move forward without township sign-off, and it comes as primary voters head to the polls with those resource concerns top of mind."
+   "text": "It could give other townships more confidence to pass similar bans or moratoriums without fearing big lawsuits. If the developer wins, it might chill local efforts to push back."
   },
   {
    "host": "Emmy",
-   "text": "The poll numbers are striking — 63 percent opposition among likely Democratic primary voters. What does that tell us about where the pressure is coming from?"
+   "text": "We've seen several other places reject projects this week. Is this lawsuit connected to that wave of opposition?"
   },
   {
    "host": "Graham",
-   "text": "It shows broad skepticism on who pays higher electric bills and handles water use. DTE Energy noted yesterday that landing large data-center loads is key to holding down rates long-term, so the stakes for households are real either way."
+   "text": "Not directly, but the same worries about power, water, and land are showing up everywhere. Monroe's case could become a template or a warning."
   },
   {
    "host": "Emmy",
-   "text": "And the Washtenaw recalls filed Monday against seven officials over these same issues. Voters 30 miles away will be watching if those reach the ballot."
+   "text": "Any sense of timeline? When might we hear a ruling?"
   },
   {
    "host": "Graham",
-   "text": "That recall effort stems directly from fights over power, water, and taxes. It shows how these projects are mobilizing residents at the hyper-local level."
+   "text": "Federal cases like this can take months. Both sides are filing motions now, so the next few weeks will show how strong each argument looks."
   },
   {
    "host": "Emmy",
-   "text": "So the federal bills could give communities more data to push back or negotiate. But what happens next with Scholten's legislation?"
+   "text": "For listeners 30 miles away, why should they pay attention even if they're not in Monroe?"
   },
   {
    "host": "Graham",
-   "text": "It would go through Congress, likely facing debates on federal versus state roles. In the meantime, more townships are pausing like Independence did today, buying time to set their own standards."
+   "text": "Because the grid is regional. A big new load in one township can affect reliability and rates across southeast Michigan, and a precedent here travels fast."
   },
   {
    "host": "Emmy",
-   "text": "And the farmland protection angle in Augusta today really highlights the land-use tension. How many other agricultural areas might see similar votes?"
+   "text": "Got it. Let's shift to some of the other results that came in today and yesterday."
   },
   {
    "host": "Graham",
-   "text": "It's a pattern we're tracking statewide. The poll suggests residents 30 to 60 miles from any project are paying attention because grid strain and water demands don't stay hyper-local."
+   "text": "A candidate who ran against data center growth beat the incumbent in a Democratic primary for state House. That win moves the debate into Lansing for that district."
   },
   {
    "host": "Emmy",
-   "text": "If the bills pass, annual reporting could reveal whether these centers are efficient enough to justify the infrastructure asks. What are the odds it moves quickly?"
+   "text": "Voters clearly sent a signal there. How might that change things at the state level?"
   },
   {
    "host": "Graham",
-   "text": "Hard to say, but the timing with the poll and these local wins like Augusta gives it momentum. Lawmakers will be watching how communities respond in the coming weeks."
+   "text": "The new representative can push bills on power demand, tax incentives, or local control. It gives opponents a stronger voice in committee hearings."
   },
   {
    "host": "Emmy",
-   "text": "Shifting to quick hits, Graham, let's start with today's Augusta Township vote. Residents overturned that rezoning and blocked the project outright."
+   "text": "Washtenaw voters also turned down a billion-dollar rezoning in a rural township near Ann Arbor."
   },
   {
    "host": "Graham",
-   "text": "Yes, and it directly spares Washtenaw County taxpayers and homeowners the noise, power, and water demands that would have followed."
+   "text": "Yes, residents blocked the project over concerns about farmland loss and heavy infrastructure strain. The vote keeps the land agricultural for now."
   },
   {
    "host": "Emmy",
-   "text": "Also today, Independence Township approved a moratorium stopping new proposals while rules get written. That's a pause for Oakland County residents to decide limits."
+   "text": "And in the congressional race, Will Lawrence defeated Haley Stevens in the MI-7 primary after campaigning hard against large data centers."
   },
   {
    "host": "Graham",
-   "text": "It gives them breathing room on how much power, water, and land these projects can use going forward."
+   "text": "That result sends the issue to Washington. The new representative can raise questions about federal tax breaks and grid impacts that cross state lines."
   },
   {
    "host": "Emmy",
-   "text": "Yesterday in Lowell, the city council stopped all Microsoft talks citing secrecy on power needs and local impacts."
+   "text": "Holland-area voters rejected a project at the ballot box too, ending months of debate over noise and power use."
   },
   {
    "host": "Graham",
-   "text": "That blocks one of the few large-scale projects discussed in West Michigan this year, leaving Kent County residents with uncertainty on jobs and grid strain."
+   "text": "The defeat shows that even after site plans advance, organized local opposition can still stop things. Nearby townships are watching that precedent closely."
   },
   {
    "host": "Emmy",
-   "text": "Same day, Lowell city officials suspended sewer and water negotiations with the township, halting progress on that data center."
+   "text": "In Mason, voters narrowed the city council field in a race where the data center fight was front and center."
   },
   {
    "host": "Graham",
-   "text": "It signals growing resistance to projects that could strain resources and raise utility rates for residents."
+   "text": "Eight candidates remain. The November winners will decide whether the proposed project in Ingham County moves ahead or stays on hold."
   },
   {
    "host": "Emmy",
-   "text": "Also yesterday, a new report questions whether Gov. Whitmer advanced the Saline Township project before all local permits were secured."
+   "text": "Another primary win went to a moratorium supporter, pushing the statewide fight into Congress as well."
   },
   {
    "host": "Graham",
-   "text": "Residents in Washtenaw County could see big changes in power demand, water use, and tax revenue if it moves ahead."
+   "text": "Voters in districts facing new proposals now have someone who made blocking unchecked growth a campaign promise."
   },
   {
    "host": "Emmy",
-   "text": "And the Wayne County $6 billion proposal landed on the table yesterday, promising thousands of construction jobs but heavy electricity demand."
+   "text": "Yesterday, Augusta Township voters overturned a rezoning that would have put a data center on farmland."
   },
   {
    "host": "Graham",
-   "text": "Local officials haven't scheduled a formal review yet, so the balance of tax gains versus grid strain is still up in the air."
+   "text": "That keeps the property agricultural and avoids the noise, power, and water demands that would have come with it."
   },
   {
    "host": "Emmy",
-   "text": "Monday's DTE filing tied future rate stability to landing those large data-center loads."
+   "text": "Independence Township approved a moratorium stopping new proposals while they write rules."
   },
   {
    "host": "Graham",
-   "text": "Their pipeline stayed steady even as demand forecasts rise, meaning Michigan households could feel it in bills depending on whether campuses come online or stall."
+   "text": "The pause gives Oakland County residents time to figure out acceptable limits on power, water, and land use. Other towns may copy the approach."
   },
   {
    "host": "Emmy",
-   "text": "And the Washtenaw recall bids filed Monday against seven officials over these projects."
+   "text": "And a report questioned whether Governor Whitmer advanced a big project in Saline Township before all local permits were in place."
   },
   {
    "host": "Graham",
-   "text": "The effort comes from fights on power, water, and taxes, and voters elsewhere will watch if they reach the ballot."
+   "text": "That puts the governor's office on the defensive right after primary day. Washtenaw County residents could see major changes in power and water if it proceeds."
   },
   {
    "host": "Emmy",
-   "text": "Now for on deck, Graham, any public meetings coming up that listeners should know about?"
+   "text": "Quite a week of pushback. Any meetings listeners can attend in the next day or two?"
   },
   {
    "host": "Graham",
-   "text": "No major data center hearings are listed on the tracker for today or tomorrow, but township boards often add items quickly."
+   "text": "We don't have any major public meetings on the tracker for tomorrow or the immediate days ahead."
   },
   {
    "host": "Emmy",
-   "text": "Residents should check their local calendars or the Michigan Data Center Tracker for any last-minute agendas on rezonings or moratorium extensions."
-  },
-  {
-   "host": "Graham",
-   "text": "That's the practical next step while these federal bills and local votes play out."
-  },
-  {
-   "host": "Emmy",
-   "text": "Full sources and the live map at the Michigan Data Center Tracker."
+   "text": "Fair enough. Full sources and the live map at the Michigan Data Center Tracker."
   },
   {
    "host": "Graham",
    "text": "We're back tomorrow."
   }
  ],
- "episode_title": "Scholten's Federal Bills on Data Center Reporting Amid Voter Pushback",
- "show": "Mornings with Graham & Emmy",
- "daypart": "Mornings"
+ "episode_title": "Monroe Township Seeks to Dismiss $300M Data Center Lawsuit",
+ "show": "Evenings with Graham & Emmy",
+ "daypart": "Evenings"
 }
