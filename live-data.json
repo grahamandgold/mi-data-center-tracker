@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-05T07:18:52Z",
+ "updated_at": "2026-08-05T10:11:02Z",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -18,6 +18,23 @@
    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ0swaGI0TWNvV3kzQ2xkLUo0TWJKZThpcU9xMVFFMWxkb2FHM2dHcTNOSmlzcXRPWXpjQnpEVUhQYUs2VHAxLVlXX1dDV2ZVWHZvcXR3aVF6V2tKcE1uOTVMQ3VjdThuYnQ4VGRvV1dqWS1UMWE1cER0WnQ0cFNKSnpRTGx6V0hxM1JTYzFzdDlfOFhDdFNacHNTQQ?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 9
+  },
+  {
+   "title": "Independence Township passes moratorium blocking new data centers",
+   "dek": "Independence Township supervisors approved a moratorium that stops new data center proposals while rules are written. The pause gives the community time to decide how much power, water and land these projects can use. Oakland County residents now have a template for slowing builds in their own towns.",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb1ZJeXNTZUp2djZZR0pnazc2NkZWNXFXMFJVUUdPNnNXV3otXzh5RlhRZHFxamdkU0FKZzJiSVMtM3pGekstU2hFTXJMeGVOd1hLLVlxWHZaN2VFdmhxeGtKcG4xVk1PR3kxT21naU5PS0d3d0FCNENodW94SmMtTkRCLVBGVV9QLW44MVFqZkRSMGVFTDF3SXpNUDU0UQ?oc=5",
+   "source": "Clarkston News",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Oakland",
+   "tag": "Local Government",
+   "iso": "2026-08-05T04:04:07Z",
+   "id": "605a41fedf99",
+   "origin": "google-news",
+   "source_title": "Independence Twp. green lights moratorium on data centers - Clarkston News",
+   "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb1ZJeXNTZUp2djZZR0pnazc2NkZWNXFXMFJVUUdPNnNXV3otXzh5RlhRZHFxamdkU0FKZzJiSVMtM3pGekstU2hFTXJMeGVOd1hLLVlxWHZaN2VFdmhxeGtKcG4xVk1PR3kxT21naU5PS0d3d0FCNENodW94SmMtTkRCLVBGVV9QLW44MVFqZkRSMGVFTDF3SXpNUDU0UQ?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
   },
   {
    "title": "Governor faces scrutiny over billion-dollar facility lacking local approvals",
@@ -167,21 +184,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeW5PYjllaTNNWDhNRDQ1WDItV2ZTVFB4YjhNNXJsanNwX3h1VFVjMHZVZkZDRE1EM29NSGt5akVIWmhMTXp5UXZVMTN2UFZVVTNIdkVDMEozWGItUFdtRlNwbm0tMVZ1MTlDblRyWnlLQ2tKMVBsS25taHBBbS01MEFvRkZha0NTRDh4aWkzYVpIanZjNENPMC1CcXVPM2YyX3FVSW8xWlF1d19iNDNuZlhGVWVOUXdsTmNuVVFERmtPeU0ycU1hNUZFZUNiSmFLTlFzSEhaMF9OZw?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
-  },
-  {
-   "iso": "2026-08-01T19:00:00+00:00",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "tag": "Money",
-   "title": "Dowagiac Campus to Supply 20 Megawatts of AI Compute Under 10-Year Deal",
-   "dek": "Hyperscale Data will reallocate power at its 415 East Prairie Ronde Street site from Bitcoin mining to a new 20-megawatt AI hosting contract that could generate more than $1.2 billion over the full term, with residents still litigating noise from the facility.",
-   "source": "Startup Fortune",
-   "url": "https://startupfortune.com/hyperscale-data-sells-100-bitcoin-to-bankroll-its-michigan-ai-data-center-pivot/",
-   "breaking": false,
-   "lead": false,
-   "id": "2dc97ee8d994",
-   "accuracy": "checked-rewritten",
-   "judge_score": 8
   }
  ],
  "national": {

@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVmpyaU9YVjJBcU5DX3I1Z0NzOFBGWUpWRGoyUVhsMFZnRmNDWkl6cXRHWTc5SkltNHphOFFxTUp3cHlhbU1acDl3QnI0elJJUHU1dDZONkF0RTZhTVZ3OUZydE1hNWw1QnI3b0loV1ByVGdSdWhkUnViUjlHWFZreWlPcGI4MTRISzFHSFkyYkpGX0ZfTkhGYUNEU1ZWd2t2dnZpczktMl9ZazZaQU9zQTBSeGNSVVFfWF9rQjlxMlhMM1k?oc=5",
-   "title": "Protesters set July 18 rallies against Michigan data centers",
-   "at": "2026-07-17T19:23:32+00:00",
-   "by": "news_judge",
-   "note": "score 5/10: Concrete upcoming event (July 18 rallies) but protests themselves are not decisions or approvals—agenda-preview tier."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtTjFkcHVDTEFQdUJkakNwY2FXelA5anhCQjRVa0plVktQa1FRSmt2Ymp3N3BpbE1LQnc5ay1Rb0xYek92NWhjQmF3ZkZ6MmdSMDhaVVd6cDZvUDRyc3lOYw?oc=5",
    "title": "Dowagiac residents sue data center over constant noise",
    "at": "2026-07-17T19:23:32+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-05T04:18:38+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: This is the same Lowell/Microsoft data center termination already live under 'Lowell residents lose Microsoft data center after council cites secrecy,' just rew"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUHJCaTRHRzNOR0hwWVllMl9DdENnaDI0S0UydVkzclFIOXk0OGhHQXVlZ3pTOE1qLVk1V1lWdldpT3JNTHAxV2d2WTFMVDJjY0hnVmVzTWRqOHZBUjlKS1VpT2k4TnQ3RWctb1FYRW1LcElrUGRFNGk0QWF3bzNrcXdJTndFUQ?oc=5",
+   "title": "Michigan crypto-AI site runs nonstop, neighbors call the roar obnoxious",
+   "at": "2026-08-05T10:11:02+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This is the same noise complaint story already killed ('Dowagiac data center runs nonstop, neighbors call the noise demon screams'), just with slightly differen"
   }
  ],
  "auto_published": [
@@ -2451,6 +2451,12 @@
    "title": "Augusta Twp voters kill farmland rezoning for data center",
    "judge_score": 9,
    "at": "2026-08-05T07:18:52Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb1ZJeXNTZUp2djZZR0pnazc2NkZWNXFXMFJVUUdPNnNXV3otXzh5RlhRZHFxamdkU0FKZzJiSVMtM3pGekstU2hFTXJMeGVOd1hLLVlxWHZaN2VFdmhxeGtKcG4xVk1PR3kxT21naU5PS0d3d0FCNENodW94SmMtTkRCLVBGVV9QLW44MVFqZkRSMGVFTDF3SXpNUDU0UQ?oc=5",
+   "title": "Independence Township passes moratorium blocking new data centers",
+   "judge_score": 8,
+   "at": "2026-08-05T10:11:02Z"
   }
  ]
 }
