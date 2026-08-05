@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.usatoday.com/story/opinion/columnist/2026/07/16/new-york-ai-data-center-moratorium-hochul/90918402007/",
-   "title": "New York Halts New Data Center Permits in First Statewide Pause",
-   "at": "2026-07-17T19:23:32+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National New York story with no Michigan angle beyond generic 'model for other states' framing."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVmpyaU9YVjJBcU5DX3I1Z0NzOFBGWUpWRGoyUVhsMFZnRmNDWkl6cXRHWTc5SkltNHphOFFxTUp3cHlhbU1acDl3QnI0elJJUHU1dDZONkF0RTZhTVZ3OUZydE1hNWw1QnI3b0loV1ByVGdSdWhkUnViUjlHWFZreWlPcGI4MTRISzFHSFkyYkpGX0ZfTkhGYUNEU1ZWd2t2dnZpczktMl9ZazZaQU9zQTBSeGNSVVFfWF9rQjlxMlhMM1k?oc=5",
    "title": "Protesters set July 18 rallies against Michigan data centers",
    "at": "2026-07-17T19:23:32+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-04T23:12:04+00:00",
    "by": "news_judge",
    "note": "score 4/10: Vague story about campaign ads and voter sentiment without reporting a specific filing, vote, poll result, or spending disclosure that would make it concrete ne"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQjFFMExZUWthNFVVMGxxajRiNXlFQVlwcktXaHRnSHFFTU1QcFNQTHlDNU1QOGdZYUF5Q2staVpSUlpBQjFVSGxIUjNIdE1rbzBQWk80bWV0RlZWd21GcjN3TGhqenBvVWwyS05rQWh2NzNheldzUTRScTNBWnBqTFVMdzZFendzS0ZzMVFySThQS09y?oc=5",
+   "title": "Lowell kills data center talks, ending project negotiations",
+   "at": "2026-08-05T04:18:38+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This is the same Lowell/Microsoft data center termination already live under 'Lowell residents lose Microsoft data center after council cites secrecy,' just rew"
   }
  ],
  "auto_published": [
