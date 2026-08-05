@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-05T12:25:38+00:00",
+ "updated_at": "2026-08-05T14:58:58Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Michigan voters elect moratorium backer, pushing data center fight into Congress",
+   "dek": "A candidate who campaigned against unchecked data center growth won a key Michigan House primary. The result moves local fights over power demand and tax breaks onto the national stage. Residents in districts facing new projects now have a stronger voice in Washington on grid costs and water use.",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdDVNZjNfcGI0T3psZ0hmVGtXV3I3WUJsMlRrYzhkeVZydHZsYmVHeGZaUExfMllaUjAwSVVobnBISnE5WGVKY2pWS1JrcldFRGdkTkFlMWQtYV8zU08tMlpZRkF5RENOZG1ITmJaMUpCVHpYOFA3Ym9ZeDJhS2JWaU50VWZSOWlLUWNwSDFFMXh5WWFUY1B6NWhxa1pWb3F1Szk1bTZYc1BocjZvM2xENXpabVp5SGk1YzRnd2tURm9URDVqbGtxZk1Kd0hqZF9neGw0Nkl3aE5kQQ?oc=5",
+   "source": "Tech Times",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Policy",
+   "iso": "2026-08-05T14:51:58Z",
+   "id": "dfeea395deb2",
+   "origin": "google-news",
+   "source_title": "Moratorium Candidate Wins House Toss-Up: Michigan Primary Shifts Data Center Fight to Congress - Tech Times",
+   "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdDVNZjNfcGI0T3psZ0hmVGtXV3I3WUJsMlRrYzhkeVZydHZsYmVHeGZaUExfMllaUjAwSVVobnBISnE5WGVKY2pWS1JrcldFRGdkTkFlMWQtYV8zU08tMlpZRkF5RENOZG1ITmJaMUpCVHpYOFA3Ym9ZeDJhS2JWaU50VWZSOWlLUWNwSDFFMXh5WWFUY1B6NWhxa1pWb3F1Szk1bTZYc1BocjZvM2xENXpabVp5SGk1YzRnd2tURm9URDVqbGtxZk1Kd0hqZF9neGw0Nkl3aE5kQQ?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Augusta Twp voters kill farmland rezoning for data center",
    "dek": "Residents overturned a rezoning that would have allowed a data center on agricultural land. The vote keeps the property from shifting to industrial use and blocks the project from moving forward. Washtenaw County taxpayers and nearby homeowners avoid the noise, power, and water demands that would have followed.",
@@ -167,23 +184,6 @@
    "id": "d19df0428616",
    "accuracy": "checked-rewritten",
    "judge_score": 7
-  },
-  {
-   "title": "John James: let Michigan towns decide data center rules",
-   "dek": "U.S. Senate candidate John James told The Detroit News he would leave data-center siting and tax decisions to local officials rather than impose state rules. The stance matters in townships like Saline and Coldwater where residents are already fighting over power use, water draw and tax breaks. Voters in the Aug. 4 primary will see whether the position helps or hurts him in data-center-heavy counties.",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeW5PYjllaTNNWDhNRDQ1WDItV2ZTVFB4YjhNNXJsanNwX3h1VFVjMHZVZkZDRE1EM29NSGt5akVIWmhMTXp5UXZVMTN2UFZVVTNIdkVDMEozWGItUFdtRlNwbm0tMVZ1MTlDblRyWnlLQ2tKMVBsS25taHBBbS01MEFvRkZha0NTRDh4aWkzYVpIanZjNENPMC1CcXVPM2YyX3FVSW8xWlF1d19iNDNuZlhGVWVOUXdsTmNuVVFERmtPeU0ycU1hNUZFZUNiSmFLTlFzSEhaMF9OZw?oc=5",
-   "source": "The Detroit News",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Policy",
-   "iso": "2026-08-01T19:25:00Z",
-   "id": "1c17870711c5",
-   "origin": "google-news",
-   "source_title": "John James says he would let local leaders set data center policy - The Detroit News",
-   "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeW5PYjllaTNNWDhNRDQ1WDItV2ZTVFB4YjhNNXJsanNwX3h1VFVjMHZVZkZDRE1EM29NSGt5akVIWmhMTXp5UXZVMTN2UFZVVTNIdkVDMEozWGItUFdtRlNwbm0tMVZ1MTlDblRyWnlLQ2tKMVBsS25taHBBbS01MEFvRkZha0NTRDh4aWkzYVpIanZjNENPMC1CcXVPM2YyX3FVSW8xWlF1d19iNDNuZlhGVWVOUXdsTmNuVVFERmtPeU0ycU1hNUZFZUNiSmFLTlFzSEhaMF9OZw?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {
