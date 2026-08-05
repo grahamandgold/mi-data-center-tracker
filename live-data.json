@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-05T04:18:35+00:00",
+ "updated_at": "2026-08-05T07:18:52Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Augusta Twp voters kill farmland rezoning for data center",
+   "dek": "Residents overturned a rezoning that would have allowed a data center on agricultural land. The vote keeps the property from shifting to industrial use and blocks the project from moving forward. Washtenaw County taxpayers and nearby homeowners avoid the noise, power, and water demands that would have followed.",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ0swaGI0TWNvV3kzQ2xkLUo0TWJKZThpcU9xMVFFMWxkb2FHM2dHcTNOSmlzcXRPWXpjQnpEVUhQYUs2VHAxLVlXX1dDV2ZVWHZvcXR3aVF6V2tKcE1uOTVMQ3VjdThuYnQ4VGRvV1dqWS1UMWE1cER0WnQ0cFNKSnpRTGx6V0hxM1JTYzFzdDlfOFhDdFNacHNTQQ?oc=5",
+   "source": "WEMU",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Local Government",
+   "iso": "2026-08-05T05:01:00Z",
+   "id": "12d116e57b08",
+   "origin": "google-news",
+   "source_title": "Augusta Township voters overturn Data Center rezoning - WEMU",
+   "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ0swaGI0TWNvV3kzQ2xkLUo0TWJKZThpcU9xMVFFMWxkb2FHM2dHcTNOSmlzcXRPWXpjQnpEVUhQYUs2VHAxLVlXX1dDV2ZVWHZvcXR3aVF6V2tKcE1uOTVMQ3VjdThuYnQ4VGRvV1dqWS1UMWE1cER0WnQ0cFNKSnpRTGx6V0hxM1JTYzFzdDlfOFhDdFNacHNTQQ?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 9
+  },
   {
    "title": "Governor faces scrutiny over billion-dollar facility lacking local approvals",
    "dek": "A new report questions whether Gov. Whitmer advanced a major data center project in Saline Township before all required local permits were secured. Residents in Washtenaw County and nearby areas could see big changes in power demand, water use and tax revenue if the project moves forward. The claim puts the governor's office on the defensive just as primary voters head to the polls.",
@@ -165,23 +182,6 @@
    "id": "2dc97ee8d994",
    "accuracy": "checked-rewritten",
    "judge_score": 8
-  },
-  {
-   "title": "Genesee County delays vote on data center environmental clearance",
-   "dek": "The economic development corporation postponed a key environmental approval for a proposed data center. Flint-area residents now face more uncertainty over traffic, power needs, and industrial noise from the project. The delay gives the public extra weeks to review impacts before any final decision.",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRF9saG83czZLZGxIUlRQdmVPSVlTQ0lXZncxWXFJSUl2NDFPSDFzOWRJREk0UWlNTnZDV0s2eUVmQ0tnc1ZHQXNyN0dtM0VIc3A1Nkstb0dSOG9GTTBRb3FGVF85c1U1c2lEVW44Mm5NQW5PNWYwTmlxTGNfYWt1MHlvTlFzMXkyYkNkd2lnbFhQcUhDUHJEUHNNSE9CeXRWMlphR3dYTG5mZHhDTTdCTFdmNzcwMTYwd3RRaWt4VDMyM2hHY0VyeGJoaE5HaHh2RUZxM1ZQZVpVRnp5MjI0QzZMUGVuZl9ldFpRQg?oc=5",
-   "source": "TheDailyNewsOnline.com",
-   "region": "mid",
-   "cat": "STATEWIDE",
-   "county": "Genesee",
-   "tag": "Local Government",
-   "iso": "2026-08-01T07:00:00Z",
-   "id": "098f2c398130",
-   "origin": "google-news",
-   "source_title": "GCEDC appears to delay environmental approval vote for data center - TheDailyNewsOnline.com",
-   "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRF9saG83czZLZGxIUlRQdmVPSVlTQ0lXZncxWXFJSUl2NDFPSDFzOWRJREk0UWlNTnZDV0s2eUVmQ0tnc1ZHQXNyN0dtM0VIc3A1Nkstb0dSOG9GTTBRb3FGVF85c1U1c2lEVW44Mm5NQW5PNWYwTmlxTGNfYWt1MHlvTlFzMXkyYkNkd2lnbFhQcUhDUHJEUHNNSE9CeXRWMlphR3dYTG5mZHhDTTdCTFdmNzcwMTYwd3RRaWt4VDMyM2hHY0VyeGJoaE5HaHh2RUZxM1ZQZVpVRnp5MjI0QzZMUGVuZl9ldFpRQg?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {
