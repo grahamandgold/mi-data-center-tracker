@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.michamber.com/news/governors-data-center-proposal-reflects-key-recommendations-from-independent-analysis/",
-   "title": "Whitmer Plan Seeks to Protect Ratepayers and Resources from Data Center Growth",
-   "at": "2026-07-18T01:00:51+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Rehashes the Whitmer plan already covered in multiple live and killed stories about pledges and cost coverage."
-  },
-  {
    "url": "https://www.hawaiitribune-herald.com/2026/07/17/nation-world-news/americans-are-angry-about-data-centers-politicians-are-feeling-the-pressure/",
    "title": "Nationwide Backlash Grows as Data Center Plans Spark Political Pressure",
    "at": "2026-07-18T01:00:51+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-05T22:18:20+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Same Washtenaw rezoning vote already live as 'Washtenaw voters kill $1B data center rezoning in rural township' — identical ballot measure."
+  },
+  {
+   "url": "https://www.foxcarolinanews.com/2026/08/05/live-oral-arguments-begin-over-proposed-data-center-spartanburg-county/",
+   "title": "South Carolina regulators hear arguments on proposed large data center project",
+   "at": "2026-08-05T23:31:49+00:00",
+   "by": "news_judge",
+   "note": "score 2/10: National story from South Carolina with no Michigan angle or relevance to Michigan data center tracking."
   }
  ],
  "auto_published": [
