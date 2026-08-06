@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbTJuejgtajVHU08tc3M4cXdPZHoxVkk4NUgxQlZrVHdKa1dENk45MG1VTXUyWFZYakZmNjQ1T01wYnloS2xEOFloOFFmNGoxN0VyNnZBWUVwMlQ1Qm1PcXk1eEp6WDdZMjVLNmpWSmVBaEkxOVpvdWVOSVB2M3QtWGFxSQ?oc=5",
-   "title": "Lake Township enacts six-month freeze on data centers",
-   "at": "2026-07-18T01:00:51+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Identical Lake Township moratorium, just reworded from candidate [0]."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOT2pscU14ZktkRVNlU0QwR2hIMHo0eEJxYkhOMlQwWDJDRERSUjBmdktaQXpxZ3VMX2xZRU9KUVdrbnQwUDFWdXFLbGFFcHV6c2JPV1NSNkYyek9ZTjU2X3p4aWlxX3JmMm1aeWtheWdBTEJCU3RsVEt2TDFIU3dtVnFxM3I1OURCb1FBUW1rS1FpWEhlWFBtLTU4VVdiX2prQkRuZElBNHNtT1ZOX3JLN2RRYzBIakkxYzE2eUtwMVVKUnJQRDMxM0J4WG1aUFRV?oc=5",
-   "title": "Hyperscale Data starts robot work at its Michigan site",
-   "at": "2026-07-18T04:08:01+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Thin development—robotics installation at existing facility is operational detail, not a concrete approval, filing, or decision affecting Michigan communities."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOci1HYkdqbkhTaU91ci1BRzFRakZMbndSRmRMMnVhcXV6NEZzTzhKcDFSWUlxc1VPT0l6YmctMlBwTjNuWjQwZTBvZjJRUTZJbm1sb05GN0xza2JlR3dGdlAwbUZXSzZES2hWNXZlZEZIaXhnUk41bXZyOE5wX1FmdUtWM3lGZ2pFTHpsU0NyYWFIc3FLNTR3Y19mYUdfWVhGWjNwOWRKWkkwbDY5Zk9JalFkajFKUy16QkRtdG9BSzJTbWJpSk1KUXZWUEkyOVpS?oc=5",
    "title": "Hyperscale Data starts robot installation at Michigan site",
    "at": "2026-07-18T06:31:35+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-06T00:55:53+00:00",
    "by": "news_judge",
    "note": "score 3/10: Texas planning commission vote is a national story with no Michigan connection, falling into the 'national trend piece' category that Michigan readers tracking "
+  },
+  {
+   "url": "https://www.aol.com/articles/paulding-county-approves-data-center-030732000.html",
+   "title": "Paulding County Pauses Data Centers Until 2027 After Resident Protests",
+   "at": "2026-08-06T10:13:55+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Georgia county moratorium is a national trend piece with no Michigan connection."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSDhFR2lJdjhTV2pWWDBFQlJORl9DY1RqMUdzNVRTRFo0MkZrTXlkWDNXbW5EdnpCX3dmNk5EX2l3cmV0dzJJY2lMTGMtdGJfVm1LR3pTTEFfN1plRHVFd1NaVWxEbDRaRklIZjZ1MXJXUGloeVlET0hEM0dNTnB6X1BGS2dqOWZ1dUtRdUZXNFRxaldXSk1qTkhqVVNWWmJTVjJERnRlV0V5c296THpkWlJhWmVXdUJzZXRqZ1daUnJrYXcyZ3R1eDVlQzhLdlZJTS04?oc=5",
+   "title": "Rural Michigan residents block data center after grassroots push",
+   "at": "2026-08-06T10:13:55+00:00",
+   "by": "news_judge",
+   "note": "score 2/10: Vague summary with no specific township, vote, or timeline—reads like generic engagement bait."
   }
  ],
  "auto_published": [
@@ -2499,6 +2499,12 @@
    "title": "Monroe Twp moves to kill $300M lawsuit over its data center ban",
    "judge_score": 7,
    "at": "2026-08-05T20:38:14Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeU1NVGJnZk12eTZTVVBGdUp0eDlBVXFmcDVhbXQ0VGdBc2hfbWxrcW1qRGVpTk5VQXJzRnkybUNSQng0ZExWZ1dKQ19BNFNPSTV5UXZXWmlfbzdJb3JKUXJjMTZxTmRWTDVjT08wM1p4Y051eXBiUlVHZWpDVXM3RnpzcEpHZ0RPOTZRVG5iZXBSQ240TFI0SjJWSlNiWGpwcUstRjR1MjFSamhqSWVoN202RzE0UQ?oc=5",
+   "title": "Pittsfield Township tightens data center zoning to curb sprawl",
+   "judge_score": 6,
+   "at": "2026-08-06T10:13:55Z"
   }
  ]
 }
