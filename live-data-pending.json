@@ -1,6 +1,44 @@
 {
- "updated_at": "2026-08-06T10:13:55Z",
+ "updated_at": "2026-08-06T11:51:48+00:00",
  "generator": "grok-wire-agent",
- "items": [],
+ "items": [
+  {
+   "title": "Pittsfield draft rules set 10-acre minimums, 500-foot buffers for data centers after public survey",
+   "dek": "Pittsfield Charter Township Planning Commission holds a public hearing tonight on a draft ordinance that would restrict High Resource Demand Facilities like data centers to industrial zones only, with minimum lot sizes of 10 acres for large-scale projects and 500-foot setbacks from homes, schools and parks. A May-June survey drew over 300 responses.",
+   "url": "https://www.pittsfield-mi.gov/2449/Data-Center-Ordinance",
+   "source": "Pittsfield Charter Township Planning Commission agenda",
+   "region": "Southeast Michigan",
+   "county": "Washtenaw",
+   "cat": "Meetings",
+   "tag": "Agenda watch",
+   "iso": "2026-08-06T11:51:48+00:00",
+   "kind": "agenda",
+   "id": "8956afff7092",
+   "filed_at": "2026-08-06T11:51:48+00:00",
+   "accuracy": "document-based",
+   "findings": "Draft ordinance defines HRDFs by thresholds including >10 MW electric demand, >100 gpm average daily water use and >50,000 gallons/day sanitary discharge | Large-scale data centers require 10-acre minimum lots, 60% max coverage, 45-foot height limit and 500-foot setbacks from residential zones or schools | All HRDFs allowed as conditional use in Industrial zones only and must go through process with mandatory pre-application conference, community engagement plan and neighborhood meetings 21-60 days before hearings | Township collected public input during May and June 2026 through a Public Survey, receiving over 300 responses | Moratorium on new data centers adopted in 2025, set to expire November 2026",
+   "perspective": "The township board adopted a temporary moratorium in 2025 while staff prepared the draft over the past six months to address topics such as energy use, water conservation, noise, traffic, environmental protection, mitigation, and long-term site management. The June 18 Planning Commission discussion of the language drew no public comment. Tonight's hearing at 6:30 pm in Morris Hall allows public in",
+   "documents": [
+    {
+     "label": "Agenda page",
+     "url": "https://www.pittsfield-mi.gov/2449/Data-Center-Ordinance"
+    },
+    {
+     "label": "Data Center Ordinance",
+     "url": "https://www.pittsfield-mi.gov/DocumentCenter/View/13073/Data-Center-Draft-Ordinance-5-22-26"
+    },
+    {
+     "label": "Public Survey Summary",
+     "url": "https://www.pittsfield-mi.gov/DocumentCenter/View/14021/Data-Centers-Survey-Response-Summary"
+    },
+    {
+     "label": "public hearing",
+     "url": "https://www.pittsfield-mi.gov/DocumentCenter/View/14196/RZ-25-04-Data-Center-Ordinance-PHN---signed-2026-07-19"
+    }
+   ],
+   "depth_score": 10,
+   "extraction_method": "plain"
+  }
+ ],
  "accuracy_checked_at": "2026-08-06T10:13:51+00:00"
 }

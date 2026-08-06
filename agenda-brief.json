@@ -1,8 +1,16 @@
 {
- "generated_at": "2026-08-03T21:35:17+00:00",
+ "generated_at": "2026-08-06T11:51:48+00:00",
  "for_dates": [
-  "2026-08-03",
-  "2026-08-04"
+  "2026-08-06",
+  "2026-08-07"
  ],
- "items": []
+ "items": [
+  {
+   "iso": "2026-08-06",
+   "time": "6:30 PM",
+   "meeting": "Pittsfield Charter Township Planning Commission",
+   "bullet": "Over 300 survey responses collected as Pittsfield holds hearing tonight on data center ordinance with 10-acre minimums and 500-foot buffers.",
+   "link": "https://www.pittsfield-mi.gov/2449/Data-Center-Ordinance"
+  }
+ ]
 }
