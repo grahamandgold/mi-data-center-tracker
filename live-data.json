@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-06T04:21:49+00:00",
+ "updated_at": "2026-08-06T07:21:01+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -205,6 +205,20 @@
   "accuracy": "checked"
  },
  "meetings": [
+  {
+   "iso": "2026-08-06",
+   "body": "Warren City Council",
+   "topic": "Education session on data centers and water concerns",
+   "region": "SE Michigan",
+   "regionKey": "metro",
+   "county": "Macomb",
+   "time": "7:00 AM",
+   "status": "Board meeting",
+   "urgent": false,
+   "link": "https://www.cityofwarren.org/government/city-council/",
+   "linkLabel": "Agenda",
+   "stream": "https://vimeo.com/tvwarren"
+  },
   {
    "iso": "2026-08-06",
    "body": "Pittsfield Charter Township Planning Commission",
