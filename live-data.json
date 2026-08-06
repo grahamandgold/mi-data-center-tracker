@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-05T23:31:47+00:00",
+ "updated_at": "2026-08-06T00:55:50+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -204,6 +204,35 @@
   "id": "02d7912fe03d",
   "accuracy": "checked"
  },
- "meetings": [],
+ "meetings": [
+  {
+   "iso": "2026-08-06",
+   "body": "Pittsfield Charter Township Planning Commission",
+   "topic": "Public hearing on proposed Data Center Ordinance (RZ 25-04) to regulate high-resource facilities",
+   "region": "SE Michigan",
+   "regionKey": "metro",
+   "county": "Washtenaw",
+   "time": "6:30 PM",
+   "status": "Public hearing",
+   "urgent": true,
+   "link": "https://www.pittsfield-mi.gov/2449/Data-Center-Ordinance",
+   "linkLabel": "Agenda",
+   "stream": ""
+  },
+  {
+   "iso": "2026-08-06",
+   "body": "Michigan Public Service Commission",
+   "topic": "Regular commission meeting; potential discussion of utility matters including data center-related filings",
+   "region": "Mid-Michigan",
+   "regionKey": "mid",
+   "county": "Ingham",
+   "time": "1:00 PM",
+   "status": "Board meeting",
+   "urgent": false,
+   "link": "https://www.michigan.gov/mpsc/commission/events/2026/08/06/august-6-2026-commission-meeting",
+   "linkLabel": "Agenda",
+   "stream": ""
+  }
+ ],
  "accuracy_checked_at": "2026-07-08T08:45:16+00:00"
 }

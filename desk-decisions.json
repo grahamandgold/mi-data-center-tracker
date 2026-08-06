@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.hawaiitribune-herald.com/2026/07/17/nation-world-news/americans-are-angry-about-data-centers-politicians-are-feeling-the-pressure/",
-   "title": "Nationwide Backlash Grows as Data Center Plans Spark Political Pressure",
-   "at": "2026-07-18T01:00:51+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: National trend piece already killed as 'Nationwide backlash grows' and 'Americans' Anger Over Data Center Expansion.'"
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbTJuejgtajVHU08tc3M4cXdPZHoxVkk4NUgxQlZrVHdKa1dENk45MG1VTXUyWFZYakZmNjQ1T01wYnloS2xEOFloOFFmNGoxN0VyNnZBWUVwMlQ1Qm1PcXk1eEp6WDdZMjVLNmpWSmVBaEkxOVpvdWVOSVB2M3QtWGFxSQ?oc=5",
    "title": "Lake Township enacts six-month freeze on data centers",
    "at": "2026-07-18T01:00:51+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-05T23:31:49+00:00",
    "by": "news_judge",
    "note": "score 2/10: National story from South Carolina with no Michigan angle or relevance to Michigan data center tracking."
+  },
+  {
+   "url": "https://www.cbsnews.com/texas/video/westlake-data-center-plan-advances-after-hours-of-emotional-testimony/",
+   "title": "Westlake Planning Commission Advances Controversial Data Center Proposal After Public Testimony",
+   "at": "2026-08-06T00:55:53+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Texas planning commission vote is a national story with no Michigan connection, falling into the 'national trend piece' category that Michigan readers tracking "
   }
  ],
  "auto_published": [
