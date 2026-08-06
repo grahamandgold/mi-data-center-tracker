@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOci1HYkdqbkhTaU91ci1BRzFRakZMbndSRmRMMnVhcXV6NEZzTzhKcDFSWUlxc1VPT0l6YmctMlBwTjNuWjQwZTBvZjJRUTZJbm1sb05GN0xza2JlR3dGdlAwbUZXSzZES2hWNXZlZEZIaXhnUk41bXZyOE5wX1FmdUtWM3lGZ2pFTHpsU0NyYWFIc3FLNTR3Y19mYUdfWVhGWjNwOWRKWkkwbDY5Zk9JalFkajFKUy16QkRtdG9BSzJTbWJpSk1KUXZWUEkyOVpS?oc=5",
-   "title": "Hyperscale Data starts robot installation at Michigan site",
-   "at": "2026-07-18T06:31:35+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: This is the same robot deployment event already killed as 'Hyperscale Data starts robot work at its Michigan site,' just reworded."
-  },
-  {
-   "url": "https://www.newsweek.com/national-day-of-protest-against-data-centers-on-july-18map-list-of-cities-12150084",
-   "title": "Protests Set for July 18 Over Data Center Power Bills and Water Use",
-   "at": "2026-07-18T08:24:11+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Already killed as 'Protesters set July 18 rallies against Michigan data centers' — same event, national framing doesn't change it."
-  },
-  {
    "url": "https://dailyenergyinsider.com/news/53068-michigan-governor-unveils-action-plan-to-make-data-centers-pay-their-own-way/",
    "title": "Whitmer Plan: Data Centers Must Pay Full Costs or Families See No Rate Hikes",
    "at": "2026-07-18T10:03:25+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-06T10:13:55+00:00",
    "by": "news_judge",
    "note": "score 2/10: Vague summary with no specific township, vote, or timeline—reads like generic engagement bait."
+  },
+  {
+   "url": "https://www.politico.com/news/2026/08/05/data-center-foes-win-big-in-tuesdays-primaries-01025481",
+   "title": "Data Center Foes Score Primary Victories in Michigan and Kansas",
+   "at": "2026-08-06T12:28:56+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: Rehashes already-live primary victories (Lawrence, data center opponent wins) as a national trend piece without new Michigan developments."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RdW13UlI2UTREWGZ2VmhoMVZuMVVrNldsRjVkOUJpMnpUcEhSMjBPcEczRmNiOGRiWWsySnhEaWlSQldPNjJ3Y1o1b2tFNGJTZWlCR3J4LU1RR1AyMmdqMEZoMkRubVN3Z1E?oc=5",
+   "title": "Pittsfield Township tightens data center zoning to shield nearby homes",
+   "at": "2026-08-06T12:28:56+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Already live: 'Pittsfield Township tightens data center zoning to curb sprawl' covers this exact zoning action."
   }
  ],
  "auto_published": [
