@@ -1,7 +1,45 @@
 {
- "updated_at": "2026-08-07T03:57:05Z",
+ "updated_at": "2026-08-07T05:48:10+00:00",
  "generator": "grok-wire-agent",
  "items": [
+  {
+   "iso": "2026-08-06T11:00:00Z",
+   "region": "metro",
+   "cat": "Washtenaw Co.",
+   "tag": "Water",
+   "title": "Comments Open on Data Center Wastewater Permit for Saline River",
+   "dek": "Residents can weigh in on treated effluent from the data center, which would use 20,000 gallons daily and must meet water-quality standards before entering the river.",
+   "source": "The Saline Post",
+   "url": "https://thesalinepost.com/g/saline-mi/n/383083/public-invited-comment-data-center-wastewater-treatment-plant",
+   "breaking": false,
+   "lead": true,
+   "id": "6b3cbcb04848",
+   "kind": "story",
+   "filed_at": "2026-08-07T05:47:46+00:00",
+   "accuracy": "checked-rewritten",
+   "headline_rewritten": true,
+   "judge_score": 7,
+   "judge_note": "Concrete new development: a public comment period opens on a specific wastewater permit with quantified discharge details for a Michigan data center."
+  },
+  {
+   "iso": "2026-08-06T14:00:00Z",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "tag": "Power & Grid",
+   "title": "Coldwater Senator Says Data Centers Must Pay More for Electricity",
+   "dek": "Sen. Jonathan Lindsey argues AI facilities should cover more than their fair share of power costs as over 50 Michigan communities enact moratoriums over grid and water strain.",
+   "source": "WTVB",
+   "url": "https://wtvbam.com/2026/08/06/967509/",
+   "breaking": false,
+   "lead": false,
+   "id": "efdebfbd776a",
+   "kind": "story",
+   "filed_at": "2026-08-07T05:47:46+00:00",
+   "accuracy": "checked-rewritten",
+   "headline_rewritten": true,
+   "judge_score": 6,
+   "judge_note": "Incremental but real: a named Michigan state senator takes a policy position on data center electricity costs amid documented local moratorium wave."
+  },
   {
    "iso": "2026-08-05T18:00:00Z",
    "region": "west",
@@ -21,5 +59,5 @@
    "judge_note": "Class-action lawsuit is a concrete legal action with specific allegations—a clear escalation beyond complaints."
   }
  ],
- "accuracy_checked_at": "2026-08-07T03:57:00+00:00"
+ "accuracy_checked_at": "2026-08-07T05:48:04+00:00"
 }
