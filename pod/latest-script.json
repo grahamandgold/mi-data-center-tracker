@@ -1,10 +1,10 @@
 {
- "title": "Mornings with Graham & Emmy",
- "teaser": "Neighbors describe nonstop noise from a Cass County facility as residents push back statewide.",
+ "title": "Evenings with Graham & Emmy",
+ "teaser": "Nessel demands answers on data center power deals and what it means for your electric bills.",
  "lines": [
   {
    "host": "Graham",
-   "text": "Good morning, and welcome to Mornings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
+   "text": "Good evening, and welcome to Evenings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
   },
   {
    "host": "Emmy",
@@ -12,282 +12,242 @@
   },
   {
    "host": "Graham",
-   "text": "It's Friday morning, August 7, and we're starting with a story out of Dowagiac that shows the real-world costs hitting homeowners even after these projects are built."
+   "text": "Tonight we're digging into Attorney General Dana Nessel's move today to demand answers from the Public Service Commission on how it's handling those massive power deals for proposed data centers."
   },
   {
    "host": "Emmy",
-   "text": "Yesterday's reports from Cass County really hit home, Graham. Neighbors say the noise from that data center runs nonstop, and it's disturbing their daily lives."
+   "text": "Right, and this feels like it's tapping into something bigger that's been building for a while now."
   },
   {
    "host": "Graham",
-   "text": "Exactly. The facility operates around the clock, and residents describe the sound as constant and disruptive. Local officials have no immediate fix, so nearby homeowners are left absorbing the impact."
+   "text": "Exactly. Nessel is pressing the PSC to justify its approach to surging electricity demand from these projects, warning that residents could see higher utility bills if regulators greenlight large new loads without stronger oversight."
   },
   {
    "host": "Emmy",
-   "text": "Why does this keep happening, Graham? We hear about these projects promising jobs and tax revenue, but once they're up and running, what recourse do people actually have?"
+   "text": "So why is this coming up now? What's the history here with data centers and the grid?"
   },
   {
    "host": "Graham",
-   "text": "That's the core issue here. This complaint highlights quality-of-life costs that arrive with data-center projects even after approval. It's not just Dowagiac—similar concerns are bubbling up across the state."
+   "text": "Data centers have been ramping up proposals across the state for a couple years, drawn by cheap land and power availability. Utilities like DTE and Consumers Energy have been fielding requests for hundreds of megawatts at a time, which is way beyond typical industrial loads."
   },
   {
    "host": "Emmy",
-   "text": "How does nonstop noise affect property values or just basic living? I mean, can people even sleep or enjoy their yards?"
+   "text": "And the PSC is the one that approves those rate cases and big load additions, right?"
   },
   {
    "host": "Graham",
-   "text": "Residents are reporting exactly that—constant disturbance with no quick solution from township or county leaders. It leaves folks wondering if the promised benefits outweigh these daily burdens."
+   "text": "Yes, and Nessel's letter today signals she's concerned the commission might be moving too fast without enough scrutiny on who pays for upgrades and how rates get adjusted."
   },
   {
    "host": "Emmy",
-   "text": "And this ties into the bigger picture of power and water demands too, right? Even if noise is the immediate complaint, these facilities strain the grid and local resources."
+   "text": "What does that actually mean for people's electric bills if these deals go through unchecked?"
   },
   {
    "host": "Graham",
-   "text": "Precisely. A single large data center can pull massive electricity loads, which often means higher utility rates for everyone in the area if the grid isn't upgraded fast enough."
+   "text": "The big risk is that new infrastructure costs get spread across all ratepayers, not just the data center operators. A single gigawatt-scale campus can require hundreds of millions in transmission and generation upgrades, and those expenses eventually show up in monthly statements."
   },
   {
    "host": "Emmy",
-   "text": "What about water use? I've heard these places need enormous amounts for cooling—does that hit farms or towns downstream?"
+   "text": "I've heard water is another big piece too. How does power tie into that?"
   },
   {
    "host": "Graham",
-   "text": "It can. Farmland and rural communities are often the ones competing for that water, and once a project is built, reversing course is tough."
+   "text": "Cooling these facilities takes enormous amounts of water, so the same utilities under strain for electricity are also dealing with water system demands. Any new cluster will lean on those same networks."
   },
   {
    "host": "Emmy",
-   "text": "So what's the history of these fights? It feels like every week we're hearing about another township pushing back."
+   "text": "And farmland and towns? How are those impacted in the bigger picture?"
   },
   {
    "host": "Graham",
-   "text": "The pattern is clear: communities approve projects for economic reasons, then deal with the side effects afterward. Dowagiac is the latest example where residents are now living with the reality."
+   "text": "Many proposals target rural areas with open land, which can mean converting farmland and adding traffic and noise. Local governments have been pushing back with zoning changes because they see the long-term costs landing on residents."
   },
   {
    "host": "Emmy",
-   "text": "Who are the main players here? Is it mostly residents versus developers, or are local officials caught in the middle?"
+   "text": "Who are the main players besides Nessel and the PSC?"
   },
   {
    "host": "Graham",
-   "text": "It's a mix—homeowners raising alarms, developers defending operations, and officials without immediate tools to intervene. That leaves the burden on neighbors."
+   "text": "The utilities themselves, data center developers, and increasingly local officials and residents in places like Washtenaw and Cass counties. It's become a statewide conversation about balancing economic development with infrastructure limits."
   },
   {
    "host": "Emmy",
-   "text": "What happens next for Dowagiac specifically? Any chance of mitigation like sound barriers or reduced hours?"
+   "text": "What happens next after this letter from Nessel?"
   },
   {
    "host": "Graham",
-   "text": "Nothing immediate is on the table according to reports. It may take sustained pressure or new regulations to force changes."
+   "text": "The PSC will likely have to respond with more detailed justifications or new rules on how they evaluate these loads. It could slow some approvals or force developers to cover more of the upgrade costs upfront."
   },
   {
    "host": "Emmy",
-   "text": "And how does this influence other townships watching? Does one noisy facility make neighbors elsewhere more skeptical of new proposals?"
+   "text": "Is this the first time we've seen this level of pushback from the attorney general's office?"
   },
   {
    "host": "Graham",
-   "text": "It does. We've seen similar pushback in places like Pittsfield Township, where they're now tightening zoning rules after residents flagged noise, traffic, and power issues."
+   "text": "It's one of the strongest signals yet from state leadership that the growth isn't going unchecked. Earlier this week we saw voters and primaries reflecting the same concerns at the local level."
   },
   {
    "host": "Emmy",
-   "text": "That zoning move sounds proactive. How might it affect future projects near Ann Arbor?"
+   "text": "So this could set a precedent for how future projects get reviewed?"
   },
   {
    "host": "Graham",
-   "text": "The changes would apply to new builds and could become a model for other Washtenaw County areas. Taxpayers there are also worried about utility rate hikes if the grid gets strained."
+   "text": "That's the hope from critics. Stronger oversight might mean fewer surprises on bills and more transparency on exactly what these facilities will draw from the grid and water systems."
   },
   {
    "host": "Emmy",
-   "text": "Shifting to the legal side, there's that Monroe Township case from Wednesday trying to dismiss a $300 million lawsuit over their data center ban."
+   "text": "Any sense of how many projects are currently in the pipeline?"
   },
   {
    "host": "Graham",
-   "text": "Right. The township wants the federal judge to toss the developer's suit, and the outcome could decide how much power local governments have to block big power- and water-intensive projects."
+   "text": "Dozens of proposals statewide, with several in southeast Michigan alone. The PSC has been handling them case by case, but today's move suggests they may need a more coordinated framework."
   },
   {
    "host": "Emmy",
-   "text": "Why should folks 30 miles away care about a ban in Monroe?"
+   "text": "What about emissions and on-site power alternatives that came up in other stories today?"
   },
   {
    "host": "Graham",
-   "text": "Because the ruling sets a precedent for southeast Michigan. If the ban holds, it strengthens other communities' hands; if it falls, more projects could move forward."
+   "text": "Those are part of the same conversation. Some developers are pitching behind-the-meter generation to bypass grid delays, but that raises its own questions about air quality and noise that regulators will have to weigh."
   },
   {
    "host": "Emmy",
-   "text": "Voter pushback is also showing up at the ballot box this week. Washtenaw residents voted down a billion-dollar rezoning on Wednesday."
+   "text": "Bottom line for listeners thirty or sixty miles away who aren't near a proposed site?"
   },
   {
    "host": "Graham",
-   "text": "They blocked large-scale development that would have used heavy power and water on what was farmland. Opposition focused on infrastructure strain."
+   "text": "Your electric bill and water rates could still be affected because the grid is interconnected. What gets approved in one corner of the state ripples outward."
   },
   {
    "host": "Emmy",
-   "text": "And in western Michigan, Holland-area voters rejected a project outright at the ballot."
+   "text": "And if the PSC tightens up, does that mean projects get canceled or just delayed?"
   },
   {
    "host": "Graham",
-   "text": "That defeat came after months of debate over noise, power, and property values. It proves local opposition can stop plans even late in the process."
+   "text": "Probably a mix. Some may find ways to pay for their own infrastructure or scale down, while others might relocate or wait for clearer rules."
   },
   {
    "host": "Emmy",
-   "text": "Augusta Township did the same—overturned rezoning for a data center on agricultural land."
+   "text": "This feels like it's shifting from local zoning fights to state-level policy."
   },
   {
    "host": "Graham",
-   "text": "Yes, keeping it from industrial use and avoiding the noise, power, and water demands that would have followed for Washtenaw County taxpayers."
+   "text": "That's the evolution we're seeing. Nessel's involvement brings it into a broader regulatory arena."
   },
   {
    "host": "Emmy",
-   "text": "On the political front, a data center opponent won a Democratic primary for state House on Wednesday."
+   "text": "How soon could we see changes from this?"
   },
   {
    "host": "Graham",
-   "text": "That victory moves the fight over power and water demands into the legislature for that district."
+   "text": "The PSC response could come in weeks or months, depending on how they prioritize it. In the meantime, developers and utilities are watching closely."
   },
   {
    "host": "Emmy",
-   "text": "And in the congressional race, Will Lawrence beat Haley Stevens in MI-7 after campaigning against large data centers."
+   "text": "Thanks for laying that out. Let's move to some of the other stories from today and this week."
   },
   {
    "host": "Graham",
-   "text": "The win shifts debates over power demand, tax breaks, and land use into Congress, giving voters in Washtenaw and nearby counties a stronger voice in Washington."
+   "text": "OpenAI offered help today hardening cybersecurity on Michigan water utilities after a hack tied to data center growth strains."
   },
   {
    "host": "Emmy",
-   "text": "Another primary win for a moratorium backer also pushes the issue nationally."
+   "text": "That's interesting because any new data center cluster will depend on those same utilities. What does the offer actually involve?"
   },
   {
    "host": "Graham",
-   "text": "It highlights growing voter concern and moves local grid-cost fights onto a bigger stage."
+   "text": "Technical assistance on security protocols for systems already under pressure from AI power and water demands. It's a direct response to a recent attack that exposed vulnerabilities."
   },
   {
    "host": "Emmy",
-   "text": "In Mason, the city council primary was dominated by a proposed data center, with eight candidates left."
+   "text": "Next up, a Michigan firm is pitching on-site power generation to dodge grid delays for AI campuses."
   },
   {
    "host": "Graham",
-   "text": "November winners there will decide if the Ingham County project advances, with electricity rates and zoning as key divides."
+   "text": "They say they can deliver the massive loads without waiting on utility upgrades, mirroring tactics used elsewhere, but it raises questions about emissions and who pays when the grid is strained."
   },
   {
    "host": "Emmy",
-   "text": "Pittsfield's zoning tightening from yesterday could set a template—what do you think other townships will watch most closely?"
+   "text": "Detroit released new rules today after a report showed data centers could add hundreds of megawatts on an already tight grid."
   },
   {
    "host": "Graham",
-   "text": "How the rules handle future power demand and whether they protect against sprawl without killing all economic upside."
+   "text": "The assessment flags impacts even for suburbs thirty miles away served by DTE, and the rules would set size limits plus require developers to pay for upgrades."
   },
   {
    "host": "Emmy",
-   "text": "Overall, it feels like a wave of local resistance this week. What's the through line?"
+   "text": "Yesterday in Dowagiac, neighbors complained about nonstop noise from a Cass County facility."
   },
   {
    "host": "Graham",
-   "text": "Communities are realizing the trade-offs on noise, bills, water, and farmland only after projects advance, and voters are using every tool—ballot, primaries, lawsuits—to push back."
+   "text": "Residents describe constant sound with no immediate fix from local officials, showing the quality-of-life costs that hit after projects are built."
   },
   {
    "host": "Emmy",
-   "text": "What happens next across the state? More zoning changes or court battles?"
+   "text": "On Thursday, Pittsfield Township started tightening zoning near Ann Arbor to curb sprawl, noise, traffic, and power demand."
   },
   {
    "host": "Graham",
-   "text": "Likely both. The Monroe case and these election results will shape whether towns keep the ability to say no."
+   "text": "Those changes could become a template for other Washtenaw County townships and affect future projects."
   },
   {
    "host": "Emmy",
-   "text": "For listeners 30 or 60 miles away, why track Dowagiac specifically?"
+   "text": "Wednesday saw Monroe Township moving to dismiss a three-hundred-million-dollar lawsuit over its data center ban."
   },
   {
    "host": "Graham",
-   "text": "Because the noise issue shows that even approved projects can create ongoing problems, and solutions often come only after residents organize."
+   "text": "The case tests whether locals can block projects drawing heavy power and water, with southeast Michigan residents having a stake in the outcome."
   },
   {
    "host": "Emmy",
-   "text": "Any early signs of state-level response to all these local fights?"
+   "text": "Also Wednesday, a data center opponent won a Democratic primary for state House."
   },
   {
    "host": "Graham",
-   "text": "The primary wins suggest the conversation is heading to Lansing and Washington, where tax breaks and grid costs could get new scrutiny."
+   "text": "That victory moves the debate into the legislature for that district."
   },
   {
    "host": "Emmy",
-   "text": "Shifting to quick hits now. Pittsfield's zoning draft aims to curb sprawl—what's the immediate trigger?"
+   "text": "Voters near Ann Arbor rejected a billion-dollar rezoning on Wednesday too."
   },
   {
    "host": "Graham",
-   "text": "Resident alarms over noise, traffic, and power demand after yesterday's reports. It could raise utility rates if safeguards aren't added."
+   "text": "The decision blocks large-scale development that would have used heavy power and water, protecting local farmland and infrastructure."
   },
   {
    "host": "Emmy",
-   "text": "Monroe's move to kill the lawsuit—how central is the power and water question in that case?"
+   "text": "And in the congressional primary, Will Lawrence defeated Haley Stevens in MI-7 after campaigning against data centers."
   },
   {
    "host": "Graham",
-   "text": "It's at the heart: whether towns can block projects drawing massive loads. The judge's decision affects the whole region."
+   "text": "That shifts the fight over power demand and tax breaks into Congress for Washtenaw and surrounding counties."
   },
   {
    "host": "Emmy",
-   "text": "The state House primary win by a data center opponent—does that change anything locally right away?"
+   "text": "Quite a week of pushback at multiple levels."
   },
   {
    "host": "Graham",
-   "text": "It shifts the debate into the legislature for the district, giving residents a new advocate on power and water issues."
+   "text": "It is. Now for on deck."
   },
   {
    "host": "Emmy",
-   "text": "Washtenaw voters blocking the billion-dollar rezoning—what was the main farmland concern?"
+   "text": "We didn't spot any public meetings on data center topics scheduled for tonight or tomorrow based on available agendas."
   },
   {
    "host": "Graham",
-   "text": "Keeping agricultural land from industrial conversion and avoiding the heavy power and water use that would have come with it."
+   "text": "We'll keep monitoring township boards and the PSC calendar and update you if anything pops up."
   },
   {
    "host": "Emmy",
-   "text": "Lawrence's win in MI-7—how does that affect tax break discussions?"
+   "text": "Full sources and the live map at the Michigan Data Center Tracker."
   },
   {
    "host": "Graham",
-   "text": "It brings opposition to large projects and related incentives straight into Congress for Washtenaw-area voters."
-  },
-  {
-   "host": "Emmy",
-   "text": "Holland-area rejection at the ballot—does that set a precedent for other western Michigan townships?"
-  },
-  {
-   "host": "Graham",
-   "text": "It shows organized residents can stop projects late, even after site plans move forward, on noise and property value grounds."
-  },
-  {
-   "host": "Emmy",
-   "text": "Mason's council race narrowing—electricity rates are the flashpoint?"
-  },
-  {
-   "host": "Graham",
-   "text": "Yes, plus industrial zoning. The November results will decide if that Ingham County proposal advances."
-  },
-  {
-   "host": "Emmy",
-   "text": "Augusta Township's farmland rezoning defeat—any ripple effects for nearby homeowners?"
-  },
-  {
-   "host": "Graham",
-   "text": "They avoid the noise, power, and water demands that would have followed the shift to industrial use."
-  },
-  {
-   "host": "Emmy",
-   "text": "On deck this week, are there any township meetings listeners can attend?"
-  },
-  {
-   "host": "Graham",
-   "text": "No major public meetings listed on the tracker for today or the immediate weekend, but we'll update if new agendas drop."
-  },
-  {
-   "host": "Emmy",
-   "text": "Sounds like folks should keep an eye on their local boards anyway."
-  },
-  {
-   "host": "Graham",
-   "text": "Always. Full sources and the live map at the Michigan Data Center Tracker. We're back tomorrow."
+   "text": "We're back tomorrow."
   }
  ],
- "episode_title": "Dowagiac Noise Complaints Spotlight Data Center Quality-of-Life Costs",
- "show": "Mornings with Graham & Emmy",
- "daypart": "Mornings"
+ "episode_title": "AG Nessel Presses PSC on Data Center Power Deals That Could Raise Bills",
+ "show": "Evenings with Graham & Emmy",
+ "daypart": "Evenings"
 }
