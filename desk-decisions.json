@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.wemu.org/wemu-news/2026-07-18/saline-township-reverses-course-gives-full-tax-break-to-oracle-for-data-center",
-   "title": "Saline Township Grants Oracle Full Tax Break on $43 Billion Data Center",
-   "at": "2026-07-18T18:33:02+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Duplicate of already-live Oracle tax break stories; same reversal/decision already covered multiple times."
-  },
-  {
    "url": "https://www.macombdaily.com/2026/07/18/column-data-centers-and-city-improvements-and-meetings-on-the-mind/",
    "title": "Macomb Column: No Tax Dollars for Data Centers That Raise Power and Water Bills",
    "at": "2026-07-18T18:33:02+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-07T15:03:05+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece about a Chicago building conversion with no Michigan connection or concrete decision announced."
+  },
+  {
+   "url": "https://usdatacenterprojects.com/colorado/lochbuie-colorado-passes-five-year-data-center-moratorium",
+   "title": "Colorado Town Approves Five-Year Data Center Ban With No Projects Pending",
+   "at": "2026-08-07T17:07:27+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Colorado town action with no Michigan connection and no active project threat makes this a thin national trend piece for Michigan readers."
   }
  ],
  "auto_published": [
