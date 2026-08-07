@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-07T17:56:16Z",
+ "updated_at": "2026-08-07T19:08:31Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Michigan firm pitches on-site power to dodge grid delays for AI campuses",
+   "dek": "A local company says it can deliver the massive electricity loads AI data centers need without waiting on utility upgrades. The approach mirrors tactics already used elsewhere and could accelerate projects across the state. It also raises fresh questions about emissions, noise, and who pays when the grid is already strained.",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQVlGTExEdTdJS1JzaUltTVdxTVN6V2FGcDF4cW5UNzJJN0NpTFBFQjJLTjdsNmRscm1uYmtEWk5lQmw3MmgxUWhnY3BtdmFHbmIwNmstY2ZXS3U4ZURiVGVFaEVBclFxbi1lcThfXzd2OXdRMXI5dVBHX3ZPR095enVWMTFQMXEzNmRWeDJaMVVjYmhZczYzbDZ1dVF1cnZXR2oyeG9R?oc=5",
+   "source": "MITechNews",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Power & Grid",
+   "iso": "2026-08-07T17:53:36Z",
+   "id": "cc12aa11f190",
+   "origin": "google-news",
+   "source_title": "Elon Musk Found A Way Around The Grid. A Michigan Company Says It Can, Too - MITechNews",
+   "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQVlGTExEdTdJS1JzaUltTVdxTVN6V2FGcDF4cW5UNzJJN0NpTFBFQjJLTjdsNmRscm1uYmtEWk5lQmw3MmgxUWhnY3BtdmFHbmIwNmstY2ZXS3U4ZURiVGVFaEVBclFxbi1lcThfXzd2OXdRMXI5dVBHX3ZPR095enVWMTFQMXEzNmRWeDJaMVVjYmhZczYzbDZ1dVF1cnZXR2oyeG9R?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Detroit drafts data center rules after report flags power strain",
    "dek": "City planners released a new assessment showing data centers could add hundreds of megawatts of demand on an already tight grid. Residents 30 miles away in suburbs served by DTE will see higher bills if the load is not managed. The rules would set size limits and require developers to pay for grid upgrades.",
@@ -171,23 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdDVNZjNfcGI0T3psZ0hmVGtXV3I3WUJsMlRrYzhkeVZydHZsYmVHeGZaUExfMllaUjAwSVVobnBISnE5WGVKY2pWS1JrcldFRGdkTkFlMWQtYV8zU08tMlpZRkF5RENOZG1ITmJaMUpCVHpYOFA3Ym9ZeDJhS2JWaU50VWZSOWlLUWNwSDFFMXh5WWFUY1B6NWhxa1pWb3F1Szk1bTZYc1BocjZvM2xENXpabVp5SGk1YzRnd2tURm9URDVqbGtxZk1Kd0hqZF9neGw0Nkl3aE5kQQ?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Augusta Twp voters kill farmland rezoning for data center",
-   "dek": "Residents overturned a rezoning that would have allowed a data center on agricultural land. The vote keeps the property from shifting to industrial use and blocks the project from moving forward. Washtenaw County taxpayers and nearby homeowners avoid the noise, power, and water demands that would have followed.",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ0swaGI0TWNvV3kzQ2xkLUo0TWJKZThpcU9xMVFFMWxkb2FHM2dHcTNOSmlzcXRPWXpjQnpEVUhQYUs2VHAxLVlXX1dDV2ZVWHZvcXR3aVF6V2tKcE1uOTVMQ3VjdThuYnQ4VGRvV1dqWS1UMWE1cER0WnQ0cFNKSnpRTGx6V0hxM1JTYzFzdDlfOFhDdFNacHNTQQ?oc=5",
-   "source": "WEMU",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Local Government",
-   "iso": "2026-08-05T05:01:00Z",
-   "id": "12d116e57b08",
-   "origin": "google-news",
-   "source_title": "Augusta Township voters overturn Data Center rezoning - WEMU",
-   "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ0swaGI0TWNvV3kzQ2xkLUo0TWJKZThpcU9xMVFFMWxkb2FHM2dHcTNOSmlzcXRPWXpjQnpEVUhQYUs2VHAxLVlXX1dDV2ZVWHZvcXR3aVF6V2tKcE1uOTVMQ3VjdThuYnQ4VGRvV1dqWS1UMWE1cER0WnQ0cFNKSnpRTGx6V0hxM1JTYzFzdDlfOFhDdFNacHNTQQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 9
   }
  ],
  "national": {
