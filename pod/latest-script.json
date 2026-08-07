@@ -1,10 +1,10 @@
 {
- "title": "Mornings with Graham & Emmy",
- "teaser": "Pittsfield Township tightens zoning rules amid statewide pushback on power and water demands.",
+ "title": "Evenings with Graham & Emmy",
+ "teaser": "Pittsfield tightens zoning while voters reject projects and back opponents across Michigan.",
  "lines": [
   {
    "host": "Graham",
-   "text": "Good morning, and welcome to Mornings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
+   "text": "Good evening and welcome to Evenings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
   },
   {
    "host": "Emmy",
@@ -12,258 +12,178 @@
   },
   {
    "host": "Graham",
-   "text": "Today we're starting with Pittsfield Township drafting zoning changes aimed at data centers after residents raised alarms over noise, traffic and power demand."
+   "text": "It's Friday night and the big story tonight is Pittsfield Township moving to tighten its zoning rules on data centers after residents spoke up loud and clear."
   },
   {
    "host": "Emmy",
-   "text": "That sounds like a big step for a township right next to Ann Arbor. What's driving this move right now?"
+   "text": "Exactly, Graham. This feels like part of something bigger happening all over the state right now."
   },
   {
    "host": "Graham",
-   "text": "Residents have been vocal about how these facilities could strain the local grid and push up utility rates for everyone if safeguards aren't in place."
+   "text": "Let's start with Pittsfield. The township is drafting changes aimed at curbing sprawl after folks raised concerns about noise, traffic, and how much power these facilities pull."
   },
   {
    "host": "Emmy",
-   "text": "How does this fit into what's been happening across the state lately?"
+   "text": "Why Pittsfield specifically, and why now? It's right next to Ann Arbor, so the stakes feel pretty local for a lot of people."
   },
   {
    "host": "Graham",
-   "text": "It's part of a pattern where communities are stepping in to set their own rules before projects get too far along."
+   "text": "Right, and the rules would hit future projects in that area. Township leaders are looking at safeguards so the grid doesn't get strained without new protections in place."
   },
   {
    "host": "Emmy",
-   "text": "What kind of history are we looking at here with these fights?"
+   "text": "And if those safeguards aren't there, what happens to electric bills for regular ratepayers?"
   },
   {
    "host": "Graham",
-   "text": "Local governments have been weighing whether they can block projects that pull massive power and water loads, and yesterday Monroe Township asked a federal judge to toss a $300 million lawsuit from a developer after it banned new facilities."
+   "text": "That's the core worry. Large facilities can draw massive loads, and without planning, utilities might pass costs along. We've seen similar concerns in other townships where projects got proposed."
   },
   {
    "host": "Emmy",
-   "text": "That case sounds like it could set a precedent either way. Who are the main players involved?"
+   "text": "How far back does this fight go in Washtenaw County? It seems like it's been building."
   },
   {
    "host": "Graham",
-   "text": "You've got townships trying to protect residents, developers pushing for the economic upside, and utilities that have to figure out how to meet the demand without passing costs straight to ratepayers."
+   "text": "It has. Earlier this week Augusta Township voters overturned a rezoning that would have allowed a data center on farmland. That kept the land agricultural and avoided the noise, power, and water demands."
   },
   {
    "host": "Emmy",
-   "text": "And what does this mean practically for electric bills?"
+   "text": "Water is another big piece, isn't it? Cooling these places takes a lot."
   },
   {
    "host": "Graham",
-   "text": "If a big facility comes online without new infrastructure, local taxpayers could see higher rates because the grid has to handle sudden spikes in demand."
+   "text": "It does. Residents in several spots have flagged that alongside traffic and how it changes the character of rural or suburban areas."
   },
   {
    "host": "Emmy",
-   "text": "Water is another big piece, right?"
+   "text": "So Pittsfield is trying to get ahead of it with zoning tweaks. Could this become a model for other Washtenaw townships?"
   },
   {
    "host": "Graham",
-   "text": "Exactly. These centers use a lot for cooling, and places like Pittsfield are worried about long-term supply and quality for existing homes and farms."
+   "text": "That's what local observers are saying. If it works there, nearby communities might copy the approach to keep some control over where and how big these projects can get."
   },
   {
    "host": "Emmy",
-   "text": "Farmland is getting pulled into this too."
+   "text": "What about the bigger picture for towns deciding on their own land use? Is this local control winning out?"
   },
   {
    "host": "Graham",
-   "text": "Yesterday voters in Augusta Township overturned rezoning that would have turned agricultural land into a data center site, keeping it from shifting to industrial use."
+   "text": "In a lot of places it looks that way lately. Yesterday Washtenaw voters shot down a billion-dollar rezoning in a rural township, blocking heavy power and water use on what would have been farmland."
   },
   {
    "host": "Emmy",
-   "text": "That vote blocked the project outright. How are towns balancing the tax revenue these projects promise against those land-use concerns?"
+   "text": "And over in western Michigan, Holland-area voters rejected a project at the ballot box after months of debate on noise, power, and property values."
   },
   {
    "host": "Graham",
-   "text": "Residents are saying the noise, traffic and infrastructure strain outweigh the benefits, especially when it changes the character of rural areas near Ann Arbor."
+   "text": "Yes, and that defeat came even after site plans had advanced. It shows organized local opposition can stop things late in the process."
   },
   {
    "host": "Emmy",
-   "text": "Pittsfield's rules could become a template. What happens next there?"
+   "text": "Independence Township in Oakland County took a different route this week with a moratorium. How does that fit in?"
   },
   {
    "host": "Graham",
-   "text": "The changes would affect future projects and could influence other Washtenaw County townships that are watching closely."
+   "text": "Supervisors there approved a pause on new proposals while they write rules. It gives the community time to figure out acceptable levels of power, water, and land use."
   },
   {
    "host": "Emmy",
-   "text": "Are there signs this local pushback is moving beyond town halls?"
+   "text": "That sounds like a practical step. Does it set a template for other Oakland County towns?"
   },
   {
    "host": "Graham",
-   "text": "Yesterday a candidate who campaigned against data center growth won a Democratic primary for state House, shifting the fight into the legislature for that district."
+   "text": "It could. Folks watching similar proposals are seeing a clear way to slow things down and get community input first."
   },
   {
    "host": "Emmy",
-   "text": "And we saw something similar at the congressional level."
+   "text": "Now shifting to the political side, we had some primary results yesterday that tie right into this."
   },
   {
    "host": "Graham",
-   "text": "Will Lawrence defeated Haley Stevens in the MI-7 Democratic primary after vowing to block data centers, moving the debate over power demand and tax breaks into Congress."
+   "text": "We did. A candidate who campaigned against data center growth won a Democratic primary for state House, moving that fight into the legislature for that district."
   },
   {
    "host": "Emmy",
-   "text": "Voters in Washtenaw and surrounding counties now have a representative who made this central to the race."
+   "text": "And in the congressional race, Will Lawrence beat Haley Stevens in the MI-7 Democratic primary after vowing to block large projects. That puts the issue in front of Congress."
   },
   {
    "host": "Graham",
-   "text": "At the same time, Washtenaw voters killed a $1 billion rezoning in a rural township that would have allowed heavy power and water use."
+   "text": "Exactly. Voters in Washtenaw and surrounding counties now have a representative who made opposition to data centers central to the campaign."
   },
   {
    "host": "Emmy",
-   "text": "That's a direct block on large-scale development. How are people 30 miles away supposed to think about this?"
+   "text": "What does that mean for power demand and tax breaks at the federal level?"
   },
   {
    "host": "Graham",
-   "text": "They have a stake because grid costs and water decisions don't stop at township lines."
+   "text": "It shifts the conversation to Washington on grid costs and water use, especially since these projects can affect rates far beyond the immediate area."
   },
   {
    "host": "Emmy",
-   "text": "Western Michigan had its own vote yesterday."
+   "text": "Back to local courts, Monroe Township is trying to toss a $300 million lawsuit from a developer after it banned new facilities."
   },
   {
    "host": "Graham",
-   "text": "Residents in a Holland-area township rejected a proposed data center at the ballot box, ending months of debate over noise, power and property values."
+   "text": "Yes, the township wants a federal judge to dismiss the case. It centers on whether local governments can block projects that would pull huge amounts of power and water."
   },
   {
    "host": "Emmy",
-   "text": "That shows opposition can win even after site plans advance."
+   "text": "Residents 30 miles away in southeast Michigan have a stake in how that turns out, right?"
   },
   {
    "host": "Graham",
-   "text": "Nearby communities are now looking at it as a precedent."
+   "text": "They do. If the ban holds, it reinforces local authority. If it gets overturned, it could open the door for more projects elsewhere."
   },
   {
    "host": "Emmy",
-   "text": "In Ingham County, Mason voters narrowed their council field in a race shaped by a proposed data center."
+   "text": "In Mason, voters narrowed the city council field in a primary dominated by a proposed data center."
   },
   {
    "host": "Graham",
-   "text": "Eight candidates remain after the primary, and November winners will decide whether the plan moves forward amid concerns over electricity rates and zoning."
+   "text": "Eight candidates remain. The project has split residents over electricity rates and industrial zoning in Ingham County. November winners will decide if it moves forward."
   },
   {
    "host": "Emmy",
-   "text": "Another township took a different route yesterday."
+   "text": "And another primary win for a moratorium backer is pushing the whole debate into Congress too."
   },
   {
    "host": "Graham",
-   "text": "Independence Township supervisors approved a moratorium that stops new proposals while rules are written, giving Oakland County residents time to decide on power, water and land use."
+   "text": "That's right. It gives residents facing new projects a stronger voice in Washington on those grid and water issues."
   },
   {
    "host": "Emmy",
-   "text": "That pause could become a model for slowing builds elsewhere."
+   "text": "So pulling it together, Graham, what happens next across these communities?"
   },
   {
    "host": "Graham",
-   "text": "Overall it feels like communities are testing how much control they can keep over these projects."
+   "text": "More townships are likely watching Pittsfield and Independence as examples. Some may adopt similar zoning or moratoriums while the court cases and legislative races play out."
   },
   {
    "host": "Emmy",
-   "text": "What are the stakes if more townships follow Pittsfield's lead?"
+   "text": "And for folks 30 or 60 miles away who aren't directly in these townships, why should they care?"
   },
   {
    "host": "Graham",
-   "text": "Developers might face longer timelines or stricter limits, while ratepayers get more say in how costs are shared."
+   "text": "Because power demand doesn't stay local. Strain on the grid can affect rates regionally, and successful local pushback can influence how the state handles future proposals."
   },
   {
    "host": "Emmy",
-   "text": "And on the flip side, what if the Monroe lawsuit goes the other way?"
+   "text": "On deck for meetings, anything coming up this weekend or early next week?"
   },
   {
    "host": "Graham",
-   "text": "It could limit local bans and force more projects through, raising the same grid and water questions for places 30 miles away."
+   "text": "Nothing major on the public calendar right now. We'll keep tracking any special sessions or township board dates as they get posted."
   },
   {
    "host": "Emmy",
-   "text": "Pittsfield's hearing is today, so this could move quickly."
-  },
-  {
-   "host": "Graham",
-   "text": "Residents will have a chance to weigh in directly on the proposed ordinance."
-  },
-  {
-   "host": "Emmy",
-   "text": "How might this affect the bigger picture of Michigan's data center growth?"
-  },
-  {
-   "host": "Graham",
-   "text": "It adds momentum to the idea that local rules can shape where and how these facilities get built."
-  },
-  {
-   "host": "Emmy",
-   "text": "Anything else we should watch in the coming days?"
-  },
-  {
-   "host": "Graham",
-   "text": "Other Washtenaw townships are already looking at similar zoning tweaks."
-  },
-  {
-   "host": "Emmy",
-   "text": "The pattern seems clear: voters and officials want more guardrails before these projects scale up."
-  },
-  {
-   "host": "Graham",
-   "text": "That brings us to quick hits on the other stories from yesterday."
-  },
-  {
-   "host": "Emmy",
-   "text": "Let's start with the Monroe Township lawsuit. What's the latest there?"
-  },
-  {
-   "host": "Graham",
-   "text": "The township is asking a federal judge to dismiss the $300 million suit filed after it banned new data centers, testing whether locals can block big power and water users."
-  },
-  {
-   "host": "Emmy",
-   "text": "And the primary results?"
-  },
-  {
-   "host": "Graham",
-   "text": "A data center opponent won a Democratic state House primary, moving the debate into the legislature, while Will Lawrence beat Haley Stevens in MI-7 after campaigning against large projects."
-  },
-  {
-   "host": "Emmy",
-   "text": "Voter rejections kept coming."
-  },
-  {
-   "host": "Graham",
-   "text": "Washtenaw residents killed a $1 billion rezoning, Augusta Township blocked farmland rezoning, and Holland-area voters rejected a project outright."
-  },
-  {
-   "host": "Emmy",
-   "text": "Mason and Independence added their own chapters."
-  },
-  {
-   "host": "Graham",
-   "text": "Mason narrowed its council race in a data center fight, and Independence passed a moratorium to pause new proposals while rules are written."
-  },
-  {
-   "host": "Emmy",
-   "text": "That covers the wave of pushback. Now let's look at what's on deck today."
-  },
-  {
-   "host": "Graham",
-   "text": "Warren City Council has an education session on data centers and water concerns."
-  },
-  {
-   "host": "Emmy",
-   "text": "Pittsfield Charter Township Planning Commission holds a public hearing on its proposed Data Center Ordinance."
-  },
-  {
-   "host": "Graham",
-   "text": "And the Michigan Public Service Commission meets, with potential discussion of utility filings that could touch data center demand."
-  },
-  {
-   "host": "Emmy",
-   "text": "Listeners can check those agendas directly if they want to attend or weigh in."
+   "text": "Sounds good. Listeners can stay on top of it all."
   },
   {
    "host": "Graham",
    "text": "Full sources and the live map at the Michigan Data Center Tracker. We're back tomorrow."
   }
  ],
- "episode_title": "Pittsfield Cracks Down on Data Center Sprawl as Local Resistance Spreads",
- "show": "Mornings with Graham & Emmy",
- "daypart": "Mornings"
+ "episode_title": "Pittsfield Cracks Down on Data Centers as Voter Pushback Spreads",
+ "show": "Evenings with Graham & Emmy",
+ "daypart": "Evenings"
 }
