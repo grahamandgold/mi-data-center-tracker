@@ -1,25 +1,25 @@
 {
- "updated_at": "2026-08-07T22:08:59+00:00",
+ "updated_at": "2026-08-07T23:08:53Z",
  "generator": "grok-wire-agent",
  "items": [
   {
-   "iso": "2026-08-06T11:00:00Z",
-   "region": "metro",
-   "cat": "Washtenaw Co.",
-   "tag": "Water",
-   "title": "Comments Open on Data Center Wastewater Permit for Saline River",
-   "dek": "Residents can weigh in on treated effluent from the data center, which would use 20,000 gallons daily and must meet water-quality standards before entering the river.",
-   "source": "The Saline Post",
-   "url": "https://thesalinepost.com/g/saline-mi/n/383083/public-invited-comment-data-center-wastewater-treatment-plant",
+   "iso": "2026-08-07T18:00:00Z",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "tag": "Policy",
+   "title": "Michigan Bills Would Require Data Centers to Pay Their Own Power and Community Costs",
+   "dek": "Democrats' package mandates 15- to 20-year contracts, 90% clean energy, and binding local agreements so residents do not cover water, electricity, or decommissioning expenses.",
+   "source": "MultiState",
+   "url": "https://www.multistate.us/insider/2026/7/15/michigan-data-center-legislation-targets-energy-use-and-community-benefits",
    "breaking": false,
-   "lead": true,
-   "id": "6b3cbcb04848",
-   "kind": "story",
-   "filed_at": "2026-08-07T05:47:46+00:00",
+   "lead": false,
+   "id": "2799cfd22143",
+   "kind": "national",
+   "filed_at": "2026-08-07T23:08:39+00:00",
    "accuracy": "checked-rewritten",
    "headline_rewritten": true,
-   "judge_score": 7,
-   "judge_note": "Concrete new development: a public comment period opens on a specific wastewater permit with quantified discharge details for a Michigan data center."
+   "judge_score": 8,
+   "judge_note": "Concrete legislative package with specific mandates (15-20 year contracts, 90% clean energy, cost-shifting provisions) — a real filing/proposal, not just talk."
   },
   {
    "iso": "2026-08-06T14:00:00Z",
@@ -41,5 +41,5 @@
    "judge_note": "Incremental but real: a named Michigan state senator takes a policy position on data center electricity costs amid documented local moratorium wave."
   }
  ],
- "accuracy_checked_at": "2026-08-07T22:08:59+00:00"
+ "accuracy_checked_at": "2026-08-07T23:08:49+00:00"
 }

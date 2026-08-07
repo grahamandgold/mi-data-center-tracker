@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-07T22:08:59+00:00",
+ "updated_at": "2026-08-07T23:08:53Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Mason County questions if local grid can handle data center surge",
+   "dek": "Western Michigan utilities face rising demand from proposed AI facilities that could strain transmission lines and raise rates for homes and factories. Mason County residents are asking whether new power plants or upgrades will be needed and who pays. The discussion ties directly to whether data centers can locate there without blackouts or higher bills.",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPeXl3QWlTWXdxQjNMMkZxZWVSWXFISFdraXlQTGRyRUZOS0Y0ZEV1U0hFLXFNVW5MSWo2emtDbXF1ZC1qU3JvSk9vYm9lVlpEaVpUYUpzUW5iR3k1aGxMLXk1LVdsQ0FyaXlzLUVQemoydmlpbDNzdWFNdWpwVTRlRUtwaVVVRlVwUjhqQmxFR3gwRkRCbUJDM0stS2ZYU25ENV9HZ3QycEdZQ0YyQ3pBUTh3Rjc0bVpTVmdjVEluWkhBbXktTTdnRWVfVzhmbFNQSEdmZFhYRzlRcl9TLVVqdlNCQ0pBbFYwZnhiRk02b2dYZUw3LUtn?oc=5",
+   "source": "Shoreline Media Group",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Mason",
+   "tag": "Power & Grid",
+   "iso": "2026-08-07T22:01:17Z",
+   "id": "df4eac86de34",
+   "origin": "google-news",
+   "source_title": "Does western Michigan - and Mason County - have the power? - Shoreline Media Group",
+   "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPeXl3QWlTWXdxQjNMMkZxZWVSWXFISFdraXlQTGRyRUZOS0Y0ZEV1U0hFLXFNVW5MSWo2emtDbXF1ZC1qU3JvSk9vYm9lVlpEaVpUYUpzUW5iR3k1aGxMLXk1LVdsQ0FyaXlzLUVQemoydmlpbDNzdWFNdWpwVTRlRUtwaVVVRlVwUjhqQmxFR3gwRkRCbUJDM0stS2ZYU25ENV9HZ3QycEdZQ0YyQ3pBUTh3Rjc0bVpTVmdjVEluWkhBbXktTTdnRWVfVzhmbFNQSEdmZFhYRzlRcl9TLVVqdlNCQ0pBbFYwZnhiRk02b2dYZUw3LUtn?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
   {
    "title": "AG Nessel demands answers from PSC on data center power deals",
    "dek": "Michigan Attorney General Dana Nessel is pressing the Public Service Commission to justify how it handles surging electricity demand from proposed data centers. Residents could face higher utility bills if regulators approve large new loads without stronger oversight. The move signals growing political pushback against unchecked data center growth across the state.",
@@ -169,23 +186,6 @@
    "origin": "google-news",
    "source_title": "‘Organized People Can Beat Organized Money’: Lawrence Wins House Primary After Harnessing Opposition to Data Centers - Common Dreams",
    "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSOUFoWVZ3MEh1WEYwVUZoVjhnTldtX3BxanlVWnMtUkRSODJwcWpGUDB2bjdsZFd1MEVtdmRGZ1F5ck5CMU5VakNMaGJuWHRNWVZVNjJGSEpLQmhIS1FZZVd4d25nN2dQVmM0MEJBbnJpdw?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 9
-  },
-  {
-   "title": "Holland-area voters reject data-center project at the ballot box",
-   "dek": "Residents in a western Michigan township voted down a proposed data center, ending months of debate over noise, power use and property values. The defeat shows local opposition can stop projects even after site plans advance. Nearby communities watching similar proposals now see a clear precedent.",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaEVMa2F6R01za2ZSYmVaRXg3eFhMM3dJanp4T2JHY28xc2xDbnctOUt0XzhUMDBYWWNPSzlxLUxyQ2pfb2lLR3YwWWk0c2tvOVQ1bEZWYm5XVDFGNjBtZTUwcFh3QUFuVlRJRVVhUGxhQkxWYmluSHZMMzZFLU1haVluVXlYN2YwbTlVMzZmTjU3bjdQUmZGWGhzUGZQN2JNVkZlelA1Q3g2U2NyclkxRDJRZmU?oc=5",
-   "source": "The Holland Sentinel",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Ottawa",
-   "tag": "Local Government",
-   "iso": "2026-08-05T15:41:22Z",
-   "id": "8aa3576fbd60",
-   "origin": "google-news",
-   "source_title": "Watch the moment voters learned they struck down a data center - The Holland Sentinel",
-   "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaEVMa2F6R01za2ZSYmVaRXg3eFhMM3dJanp4T2JHY28xc2xDbnctOUt0XzhUMDBYWWNPSzlxLUxyQ2pfb2lLR3YwWWk0c2tvOVQ1bEZWYm5XVDFGNjBtZTUwcFh3QUFuVlRJRVVhUGxhQkxWYmluSHZMMzZFLU1haVluVXlYN2YwbTlVMzZmTjU3bjdQUmZGWGhzUGZQN2JNVkZlelA1Q3g2U2NyclkxRDJRZmU?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 9
   }
