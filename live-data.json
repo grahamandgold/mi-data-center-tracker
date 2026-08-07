@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-06T14:57:33+00:00",
+ "updated_at": "2026-08-07T00:44:41+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -204,49 +204,6 @@
   "id": "02d7912fe03d",
   "accuracy": "checked"
  },
- "meetings": [
-  {
-   "iso": "2026-08-06",
-   "body": "Warren City Council",
-   "topic": "Education session on data centers and water concerns",
-   "region": "SE Michigan",
-   "regionKey": "metro",
-   "county": "Macomb",
-   "time": "7:00 AM",
-   "status": "Board meeting",
-   "urgent": false,
-   "link": "https://www.cityofwarren.org/government/city-council/",
-   "linkLabel": "Agenda",
-   "stream": "https://vimeo.com/tvwarren"
-  },
-  {
-   "iso": "2026-08-06",
-   "body": "Pittsfield Charter Township Planning Commission",
-   "topic": "Public hearing on proposed Data Center Ordinance (RZ 25-04) to regulate high-resource facilities",
-   "region": "SE Michigan",
-   "regionKey": "metro",
-   "county": "Washtenaw",
-   "time": "6:30 PM",
-   "status": "Public hearing",
-   "urgent": true,
-   "link": "https://www.pittsfield-mi.gov/2449/Data-Center-Ordinance",
-   "linkLabel": "Agenda",
-   "stream": ""
-  },
-  {
-   "iso": "2026-08-06",
-   "body": "Michigan Public Service Commission",
-   "topic": "Regular commission meeting; potential discussion of utility matters including data center-related filings",
-   "region": "Mid-Michigan",
-   "regionKey": "mid",
-   "county": "Ingham",
-   "time": "1:00 PM",
-   "status": "Board meeting",
-   "urgent": false,
-   "link": "https://www.michigan.gov/mpsc/commission/events/2026/08/06/august-6-2026-commission-meeting",
-   "linkLabel": "Agenda",
-   "stream": ""
-  }
- ],
+ "meetings": [],
  "accuracy_checked_at": "2026-07-08T08:45:16+00:00"
 }
