@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNUJ0U0ZEQjZyWE56TzJnOEd0NmxoaEdpWE8zeExJRVJqOFRRRURqeG8yQnBNNk15MjZaYk9jSnVlVEU5SHVSQmNrTkFLaGtvaU45V1NaUDVEelVvVkEzY3pIX1FPeEJMYzRkRjVXWjJyc3pGTVRaZEJFaE9PZVRmR0xubHlMQUhsVGJ1Z2JOUjB1T1VJMkdVbXVyR2dHbHhQ?oc=5",
-   "title": "Oracle wins full tax break after Saline drops $4.8B cap on $43B campus",
-   "at": "2026-07-18T17:34:02+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: This is the same tax-cap removal already covered in 'Township removes cap on Oracle property tax exemption, risking school and road funding' — just reworded."
-  },
-  {
    "url": "https://www.wemu.org/wemu-news/2026-07-18/saline-township-reverses-course-gives-full-tax-break-to-oracle-for-data-center",
    "title": "Saline Township Grants Oracle Full Tax Break on $43 Billion Data Center",
    "at": "2026-07-18T18:33:02+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-07T10:28:57+00:00",
    "by": "news_judge",
    "note": "score 3/10, duplicate: This is a rehash of the already-killed 'El-Sayed Edges Stevens in Michigan Senate Primary' and 'Data center opponents sweep key Michigan primaries' stories — sa"
+  },
+  {
+   "url": "https://www.chicagobusiness.com/real-estate/commercial/ccb-west-adams-street-data-center-conversion-20260806/",
+   "title": "Chicago Landmark Office Building Advances Toward Partial Data Center Conversion",
+   "at": "2026-08-07T15:03:05+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece about a Chicago building conversion with no Michigan connection or concrete decision announced."
   }
  ],
  "auto_published": [
