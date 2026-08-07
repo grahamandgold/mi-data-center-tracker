@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-07T17:07:14+00:00",
+ "updated_at": "2026-08-07T17:56:16Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Detroit drafts data center rules after report flags power strain",
+   "dek": "City planners released a new assessment showing data centers could add hundreds of megawatts of demand on an already tight grid. Residents 30 miles away in suburbs served by DTE will see higher bills if the load is not managed. The rules would set size limits and require developers to pay for grid upgrades.",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMEg3YkRWcEZEX2tNTTJNTkpyMXVwM0tlempmeXkyZTR5amxja0VYcGk4SjNlVE1zNlJrV01VNzZSQy1hNUJYXzQyb3BtbWdFNTVLd1JUOW4zLXhMTHVjd0tKZUZNLVZyNVNJOXI1Qm5LVnBRR2hGbW1oXzkydkJIYnlSWUpldWFYcUxIOTRpZzlSeDIyMmRqRVFJeTVNbmlfNWhaTVVqeW5MV21qTERvNXV1ekJWX2lMN01xcmZWWVM4aFlfTVVKaXNSMDZZNmxqbllBOFNOWkJZejA?oc=5",
+   "source": "The Detroit News",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Wayne",
+   "tag": "Local Government",
+   "iso": "2026-08-07T17:18:00Z",
+   "id": "8815ce2b69ef",
+   "origin": "google-news",
+   "source_title": "Detroit weighs data center rules as report drops amid growing concerns - The Detroit News",
+   "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMEg3YkRWcEZEX2tNTTJNTkpyMXVwM0tlempmeXkyZTR5amxja0VYcGk4SjNlVE1zNlJrV01VNzZSQy1hNUJYXzQyb3BtbWdFNTVLd1JUOW4zLXhMTHVjd0tKZUZNLVZyNVNJOXI1Qm5LVnBRR2hGbW1oXzkydkJIYnlSWUpldWFYcUxIOTRpZzlSeDIyMmRqRVFJeTVNbmlfNWhaTVVqeW5MV21qTERvNXV1ekJWX2lMN01xcmZWWVM4aFlfTVVKaXNSMDZZNmxqbllBOFNOWkJZejA?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Dowagiac neighbors say data center noise runs nonstop",
    "dek": "A Cass County facility operates around the clock and residents describe the sound as constant and disturbing. The complaint highlights real-world quality-of-life costs that arrive with data-center projects even after they are built. Local officials have no immediate fix, leaving nearby homeowners to absorb the impact.",
@@ -171,23 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ0swaGI0TWNvV3kzQ2xkLUo0TWJKZThpcU9xMVFFMWxkb2FHM2dHcTNOSmlzcXRPWXpjQnpEVUhQYUs2VHAxLVlXX1dDV2ZVWHZvcXR3aVF6V2tKcE1uOTVMQ3VjdThuYnQ4VGRvV1dqWS1UMWE1cER0WnQ0cFNKSnpRTGx6V0hxM1JTYzFzdDlfOFhDdFNacHNTQQ?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 9
-  },
-  {
-   "title": "Independence Township passes moratorium blocking new data centers",
-   "dek": "Independence Township supervisors approved a moratorium that stops new data center proposals while rules are written. The pause gives the community time to decide how much power, water and land these projects can use. Oakland County residents now have a template for slowing builds in their own towns.",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb1ZJeXNTZUp2djZZR0pnazc2NkZWNXFXMFJVUUdPNnNXV3otXzh5RlhRZHFxamdkU0FKZzJiSVMtM3pGekstU2hFTXJMeGVOd1hLLVlxWHZaN2VFdmhxeGtKcG4xVk1PR3kxT21naU5PS0d3d0FCNENodW94SmMtTkRCLVBGVV9QLW44MVFqZkRSMGVFTDF3SXpNUDU0UQ?oc=5",
-   "source": "Clarkston News",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Oakland",
-   "tag": "Local Government",
-   "iso": "2026-08-05T04:04:07Z",
-   "id": "605a41fedf99",
-   "origin": "google-news",
-   "source_title": "Independence Twp. green lights moratorium on data centers - Clarkston News",
-   "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb1ZJeXNTZUp2djZZR0pnazc2NkZWNXFXMFJVUUdPNnNXV3otXzh5RlhRZHFxamdkU0FKZzJiSVMtM3pGekstU2hFTXJMeGVOd1hLLVlxWHZaN2VFdmhxeGtKcG4xVk1PR3kxT21naU5PS0d3d0FCNENodW94SmMtTkRCLVBGVV9QLW44MVFqZkRSMGVFTDF3SXpNUDU0UQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
   }
  ],
  "national": {
