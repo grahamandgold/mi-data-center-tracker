@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-07T00:44:41+00:00",
+ "updated_at": "2026-08-07T03:57:05Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Dowagiac neighbors say data center noise runs nonstop",
+   "dek": "A Cass County facility operates around the clock and residents describe the sound as constant and disturbing. The complaint highlights real-world quality-of-life costs that arrive with data-center projects even after they are built. Local officials have no immediate fix, leaving nearby homeowners to absorb the impact.",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVlVIRGR3MlBkR1BzRDZwVnRLU2lvRDF4U2d5N1Q2djgtZFpfZnFnOWR2ZG1pNjhGdnFSZkdLRFJJOGxSOXVTa1RXSmhsWGhLYmF4TW5vZlozajZ6NEtyY3FMVkxtdG5KWHRtN3FpemI0dk9QQnlPQ3RaUFFYLVhKT1FIT0pvdHZxYXVoZW02U01CN1VUWEl6N1pQRkZsNGJtcW9QaXJGYTBubXdmQkVjelZDOEl0aFVjNkZKa21tMk14a0NrUmN4Y3llRXBycGdyNXFaZzNfeU15dw?oc=5",
+   "source": "NewsBreak: Local News & Alerts",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Cass",
+   "tag": "Local Government",
+   "iso": "2026-08-06T17:19:05Z",
+   "id": "5e19bbe2a906",
+   "origin": "google-news",
+   "source_title": "A Dowagiac Data Center Runs 24/7 And Neighbors Say It Screams Like A Demon - NewsBreak: Local News & Alerts",
+   "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVlVIRGR3MlBkR1BzRDZwVnRLU2lvRDF4U2d5N1Q2djgtZFpfZnFnOWR2ZG1pNjhGdnFSZkdLRFJJOGxSOXVTa1RXSmhsWGhLYmF4TW5vZlozajZ6NEtyY3FMVkxtdG5KWHRtN3FpemI0dk9QQnlPQ3RaUFFYLVhKT1FIT0pvdHZxYXVoZW02U01CN1VUWEl6N1pQRkZsNGJtcW9QaXJGYTBubXdmQkVjelZDOEl0aFVjNkZKa21tMk14a0NrUmN4Y3llRXBycGdyNXFaZzNfeU15dw?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
   {
    "title": "Pittsfield Township tightens data center zoning to curb sprawl",
    "dek": "Pittsfield Township is drafting zoning changes aimed at data centers after residents raised alarms over noise, traffic and power demand. The rules would affect future projects near Ann Arbor and could set a template for other Washtenaw County townships. Local taxpayers may face higher utility rates if large facilities strain the grid without new safeguards.",
@@ -169,23 +186,6 @@
    "origin": "google-news",
    "source_title": "Independence Twp. green lights moratorium on data centers - Clarkston News",
    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb1ZJeXNTZUp2djZZR0pnazc2NkZWNXFXMFJVUUdPNnNXV3otXzh5RlhRZHFxamdkU0FKZzJiSVMtM3pGekstU2hFTXJMeGVOd1hLLVlxWHZaN2VFdmhxeGtKcG4xVk1PR3kxT21naU5PS0d3d0FCNENodW94SmMtTkRCLVBGVV9QLW44MVFqZkRSMGVFTDF3SXpNUDU0UQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
-  },
-  {
-   "title": "Governor faces scrutiny over billion-dollar facility lacking local approvals",
-   "dek": "A new report questions whether Gov. Whitmer advanced a major data center project in Saline Township before all required local permits were secured. Residents in Washtenaw County and nearby areas could see big changes in power demand, water use and tax revenue if the project moves forward. The claim puts the governor's office on the defensive just as primary voters head to the polls.",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YbVNZaEFrZnVIbUNGdGEyQ2pYZFhnOTV6UHZ2SEZaR0VSdmlHX2ktdkFuT2FlLXNfcnNkRzBiRC1SU0xIRGxPNFJ6VDE0MktBSlBlY01lYmxMblR0MDBPWmdXMVZYdw?oc=5",
-   "source": "Michigan Enjoyer",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Policy",
-   "iso": "2026-08-04T13:58:01Z",
-   "id": "cab6dba42adb",
-   "origin": "google-news",
-   "source_title": "Did Whitmer Push Saline Data Center Without Proper Permits? - Michigan Enjoyer",
-   "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YbVNZaEFrZnVIbUNGdGEyQ2pYZFhnOTV6UHZ2SEZaR0VSdmlHX2ktdkFuT2FlLXNfcnNkRzBiRC1SU0xIRGxPNFJ6VDE0MktBSlBlY01lYmxMblR0MDBPWmdXMVZYdw?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
   }

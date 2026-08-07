@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVXZsNTZFMkZBTkNrZzY4ZEJuRlE0WHhQWnZMNW5vdkpGU29UeDhwN0dnNWlXQ0dGaWd2SzNobENPem5YdXlhU3p0WE11X0hsTXY1QjJtQ0RrVmZ5bDZObzgxU3NLQ0FKVTBnOE80UTFFbE9lQlY4S1l5NzJkY1lZQ25SX2NpcFRJQmU2aVRrMEVIemtYZjA0?oc=5",
-   "title": "Warren eyes data center pause after summer blackouts hit residents",
-   "at": "2026-07-18T10:03:25+00:00",
-   "by": "news_judge",
-   "note": "score 5/10: Warren's data center pause was already live ('Warren eyes 6-month data center ban to study grid strain'), but this adds the new angle of summer blackouts as the"
-  },
-  {
-   "url": "https://www.youtube.com/watch?v=e_Vg-4R__W4",
-   "title": "Democratic Senate Candidates Clash on Regulating AI Data Centers in Michigan Debate",
-   "at": "2026-07-18T12:30:56+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Campaign debate positions on data centers are speculative policy talk, not a concrete development or decision; similar to the killed gubernatorial candidate cla"
-  },
-  {
    "url": "https://www.reuters.com/business/retail-consumer/us-data-center-protests-go-national-backlash-grows-2026-07-18/",
    "title": "U.S. Data Center Protests Spread Nationwide as Backlash Intensifies",
    "at": "2026-07-18T12:30:56+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-06T14:57:46+00:00",
    "by": "news_judge",
    "note": "score 4/10: Lowell pausing rate negotiations is thin follow-up given 'Lowell kills data center talks' already live; no concrete decision made here, just a delay."
+  },
+  {
+   "url": "https://blockclubchicago.org/2026/08/06/data-centers-should-be-required-to-disclose-water-and-energy-use-city-panel-recommends/",
+   "title": "Chicago Report Urges Permits and Wastewater Reuse for Data Centers",
+   "at": "2026-08-07T03:57:05+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece from Chicago with generic recommendations and only one vague proposal mentioned, not Michigan-specific."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNThpNVhHZzFyeFFseEhnQWJWMmxXcTFybUF6LTZIQmx1MXEycm1DaUJYTzZsYUp3U2Nlb3k5NDRlMVQyWENOVzR3b1hJMklKSDIzX24tcEVBVXBDWmh4N0JqNHVwTVAwakU5dUxfTG1rVkdLdGxPYXV4N2laVktSWENrUEJHZDdfeUJxdUNjVW4wQWZvOU9sbU9iaFo1TEE?oc=5",
+   "title": "Augusta Township voters kill data center rezoning",
+   "at": "2026-08-07T03:57:05+00:00",
+   "by": "news_judge",
+   "note": "score 1/10, duplicate: This is the exact same Augusta Township voter rezoning rejection already live in the queue."
   }
  ],
  "auto_published": [
@@ -2505,6 +2505,12 @@
    "title": "Pittsfield Township tightens data center zoning to curb sprawl",
    "judge_score": 6,
    "at": "2026-08-06T10:13:55Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVlVIRGR3MlBkR1BzRDZwVnRLU2lvRDF4U2d5N1Q2djgtZFpfZnFnOWR2ZG1pNjhGdnFSZkdLRFJJOGxSOXVTa1RXSmhsWGhLYmF4TW5vZlozajZ6NEtyY3FMVkxtdG5KWHRtN3FpemI0dk9QQnlPQ3RaUFFYLVhKT1FIT0pvdHZxYXVoZW02U01CN1VUWEl6N1pQRkZsNGJtcW9QaXJGYTBubXdmQkVjelZDOEl0aFVjNkZKa21tMk14a0NrUmN4Y3llRXBycGdyNXFaZzNfeU15dw?oc=5",
+   "title": "Dowagiac neighbors say data center noise runs nonstop",
+   "judge_score": 6,
+   "at": "2026-08-07T03:57:05Z"
   }
  ]
 }
