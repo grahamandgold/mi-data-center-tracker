@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-07T20:09:34Z",
+ "updated_at": "2026-08-07T21:19:04Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "AG Nessel demands answers from PSC on data center power deals",
+   "dek": "Michigan Attorney General Dana Nessel is pressing the Public Service Commission to justify how it handles surging electricity demand from proposed data centers. Residents could face higher utility bills if regulators approve large new loads without stronger oversight. The move signals growing political pushback against unchecked data center growth across the state.",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOS2ZIV295YzQ2SUk2dWRLSmw0YzFXdlRZMXQ1Z3JOYVd3VWNwa0NNclU1dUNleURYNzdjUkkzc3MyVkVYQWo1cW5hLTZ2bzF3VHJmbUdBMDhJbEl3TjdTeFJ3blpfZ1NhQ1UzVE95VUFzWGNkUmN4M09penRkbU1MdkpvZW1oSlE3Y0I3aDh4SUlHRko0aUpyQXJtbW5pRm5hSjV3WGY0dGNpWTdLU3dkMHVDcmpVM255N2U0cHMwWXVyRmFUUVhtcl9WT25sZTR2ZDNpZFA1T1lHQQ?oc=5",
+   "source": "The Detroit News",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Policy",
+   "iso": "2026-08-07T21:09:00Z",
+   "id": "efcf923141db",
+   "origin": "google-news",
+   "source_title": "Nessel wants to hold PSC 'accountable' in fight against data center - The Detroit News",
+   "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOS2ZIV295YzQ2SUk2dWRLSmw0YzFXdlRZMXQ1Z3JOYVd3VWNwa0NNclU1dUNleURYNzdjUkkzc3MyVkVYQWo1cW5hLTZ2bzF3VHJmbUdBMDhJbEl3TjdTeFJ3blpfZ1NhQ1UzVE95VUFzWGNkUmN4M09penRkbU1MdkpvZW1oSlE3Y0I3aDh4SUlHRko0aUpyQXJtbW5pRm5hSjV3WGY0dGNpWTdLU3dkMHVDcmpVM255N2U0cHMwWXVyRmFUUVhtcl9WT25sZTR2ZDNpZFA1T1lHQQ?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "OpenAI steps in after Michigan water system hack tied to data-center growth",
    "dek": "OpenAI is offering Michigan state officials help hardening cybersecurity on water utilities that supply cooling for planned data centers. The offer follows a recent attack that exposed vulnerabilities in systems already under strain from AI power and water demands. Michigan readers should watch because any new data-center cluster will rely on the same utilities now being targeted.",
@@ -171,23 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaEVMa2F6R01za2ZSYmVaRXg3eFhMM3dJanp4T2JHY28xc2xDbnctOUt0XzhUMDBYWWNPSzlxLUxyQ2pfb2lLR3YwWWk0c2tvOVQ1bEZWYm5XVDFGNjBtZTUwcFh3QUFuVlRJRVVhUGxhQkxWYmluSHZMMzZFLU1haVluVXlYN2YwbTlVMzZmTjU3bjdQUmZGWGhzUGZQN2JNVkZlelA1Q3g2U2NyclkxRDJRZmU?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 9
-  },
-  {
-   "title": "Mason voters narrow council field in race dominated by data-center fight",
-   "dek": "Eight candidates remain after Mason voters winnowed a City Council primary shaped by a proposed data center. The project has divided residents over electricity rates and industrial zoning in the Ingham County city. The November winners will decide whether the plan moves forward.",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWGdDbm5pYXBYOVNJVHBhSkltTWgzRFEwTVJxTzdHQWZBYUd5c2YxN0k4VS0tZDdBTl9nbU85UnYwVGoxWmMzTVBKbnRBcVRtTzdqUTJuRm1ydlVtbzZvMEhFWnQtZlZvVFVkVTdTV1ZIT2RlemdBZUc1blV0dzV1OUlrRzY3UTlLdE1qazNidGJsdGNvV2VZRGl5UVFmaDBiR0NGSW1lWkVBVU9RTGlHN1RGVGl6d1I2dkcxeHE4ZDVObUktQXpYLWx5ZGNDb1BJRmpybExId201MTY3OG5rMHdn?oc=5",
-   "source": "Lansing State Journal",
-   "region": "mid",
-   "cat": "STATEWIDE",
-   "county": "Ingham",
-   "tag": "Local Government",
-   "iso": "2026-08-05T15:00:00Z",
-   "id": "896d211e71fe",
-   "origin": "google-news",
-   "source_title": "Mason voters pare City Council race tied to data center to 8 candidates - Lansing State Journal",
-   "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWGdDbm5pYXBYOVNJVHBhSkltTWgzRFEwTVJxTzdHQWZBYUd5c2YxN0k4VS0tZDdBTl9nbU85UnYwVGoxWmMzTVBKbnRBcVRtTzdqUTJuRm1ydlVtbzZvMEhFWnQtZlZvVFVkVTdTV1ZIT2RlemdBZUc1blV0dzV1OUlrRzY3UTlLdE1qazNidGJsdGNvV2VZRGl5UVFmaDBiR0NGSW1lWkVBVU9RTGlHN1RGVGl6d1I2dkcxeHE4ZDVObUktQXpYLWx5ZGNDb1BJRmpybExId201MTY3OG5rMHdn?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
   }
  ],
  "national": {

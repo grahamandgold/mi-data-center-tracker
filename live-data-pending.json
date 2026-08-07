@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-07T20:09:34Z",
+ "updated_at": "2026-08-07T21:19:04Z",
  "generator": "grok-wire-agent",
  "items": [
   {
@@ -41,5 +41,5 @@
    "judge_note": "Incremental but real: a named Michigan state senator takes a policy position on data center electricity costs amid documented local moratorium wave."
   }
  ],
- "accuracy_checked_at": "2026-08-07T20:09:27+00:00"
+ "accuracy_checked_at": "2026-08-07T21:19:00+00:00"
 }
