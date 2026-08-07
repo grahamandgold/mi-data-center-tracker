@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-07T05:48:10+00:00",
+ "updated_at": "2026-08-07T07:36:56+00:00",
  "generator": "grok-wire-agent",
  "items": [
   {
@@ -39,25 +39,7 @@
    "headline_rewritten": true,
    "judge_score": 6,
    "judge_note": "Incremental but real: a named Michigan state senator takes a policy position on data center electricity costs amid documented local moratorium wave."
-  },
-  {
-   "iso": "2026-08-05T18:00:00Z",
-   "region": "west",
-   "cat": "Cass Co.",
-   "tag": "Power & Grid",
-   "title": "Dowagiac Residents File Class-Action Lawsuit Over Data Center Noise",
-   "dek": "Neighbors allege a constant high-pitched hum from an AI-focused facility has disrupted sleep and daily life for nearly two years.",
-   "source": "Techworm via social reports",
-   "url": "https://www.facebook.com/techworm.in/posts/-ai-boom-meets-a-noise-battle-michigan-residents-sue-data-center-over-247-humthe/1356329873318266/",
-   "breaking": false,
-   "lead": true,
-   "id": "b8149e05b536",
-   "kind": "story",
-   "filed_at": "2026-08-06T12:28:45+00:00",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8,
-   "judge_note": "Class-action lawsuit is a concrete legal action with specific allegations—a clear escalation beyond complaints."
   }
  ],
- "accuracy_checked_at": "2026-08-07T05:48:04+00:00"
+ "accuracy_checked_at": "2026-08-07T07:36:56+00:00"
 }
