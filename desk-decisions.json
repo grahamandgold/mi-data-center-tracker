@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.macombdaily.com/2026/07/18/column-data-centers-and-city-improvements-and-meetings-on-the-mind/",
-   "title": "Macomb Column: No Tax Dollars for Data Centers That Raise Power and Water Bills",
-   "at": "2026-07-18T18:33:02+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: Opinion column rehashing known concerns without new development or decision."
-  },
-  {
-   "url": "https://www.clickondetroit.com/video/news/2026/07/18/local-4-news-at-11-july-17-2026/",
-   "title": "Michigan Gubernatorial Candidates Clash Over Data Center Regulation in Latest Debate",
-   "at": "2026-07-18T18:33:02+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Duplicate of killed 'Governor candidates clash on who pays for data-center power' and 'Democratic Senate Candidates Clash' stories."
-  },
-  {
    "url": "https://cbs12.com/news/nation-world/taxpayer-group-earns-new-yorks-ai-data-center-moratorium-could-cost-jobs-and-iinvestment-governor-kathy-hochul-technology-artificial-intelligence-trump-administration-moratorium-energy-secretary-chris-wright-china-technology-national-taxpayers-union",
    "title": "Taxpayer Group Warns New York AI Data Center Ban Risks Jobs and Billions in Investment",
    "at": "2026-07-18T21:01:48+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-07T17:07:27+00:00",
    "by": "news_judge",
    "note": "score 3/10: Colorado town action with no Michigan connection and no active project threat makes this a thin national trend piece for Michigan readers."
+  },
+  {
+   "url": "https://dailyenergyinsider.com/data-centers/",
+   "title": "Michigan Plan Requires Data Centers to Pay Full Construction Costs",
+   "at": "2026-08-07T20:09:34+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Vague description of a plan with no specifics about when it was approved, who voted, or what body enacted it—reads like thin policy summary without a concrete d"
+  },
+  {
+   "url": "https://www.eenews.net/articles/data-center-foes-win-big-in-tuesdays-primaries-3/",
+   "title": "Data Center Foes Secure Major Primary Wins in Michigan and Kansas",
+   "at": "2026-08-07T20:09:34+00:00",
+   "by": "news_judge",
+   "note": "score 1/10, duplicate: Rehashes the same Michigan primary victories already covered in multiple KILLED and LIVE stories (Lawrence, Al-Sayed wins), just bundled with Kansas for nationa"
   }
  ],
  "auto_published": [
@@ -2523,6 +2523,12 @@
    "title": "Michigan firm pitches on-site power to dodge grid delays for AI campuses",
    "judge_score": 7,
    "at": "2026-08-07T19:08:31Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYm8zYXNPUnduZjJ4SjRUejcxR1R3WWtkUThCcHNsV3lKUTJjU0pfX3I5SkFlX3hhcmRJZWxLcUU0MXp1MFdYVENHNjBUbjliOWFuM0xlaVdSTWlLQ05HaU5OWWRLejlYTzY5VE5pTVI3YUZBN191UFU0LXBaRGpoMEtmQTNwdTFLYzgwT0NNa1VHQXhkeExuVzBvOU9JYmJzWFNEOEhkMFR5UQ?oc=5",
+   "title": "OpenAI steps in after Michigan water system hack tied to data-center growth",
+   "judge_score": 7,
+   "at": "2026-08-07T20:09:34Z"
   }
  ]
 }

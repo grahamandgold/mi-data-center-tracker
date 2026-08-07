@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-07T19:08:31Z",
+ "updated_at": "2026-08-07T20:09:34Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "OpenAI steps in after Michigan water system hack tied to data-center growth",
+   "dek": "OpenAI is offering Michigan state officials help hardening cybersecurity on water utilities that supply cooling for planned data centers. The offer follows a recent attack that exposed vulnerabilities in systems already under strain from AI power and water demands. Michigan readers should watch because any new data-center cluster will rely on the same utilities now being targeted.",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYm8zYXNPUnduZjJ4SjRUejcxR1R3WWtkUThCcHNsV3lKUTJjU0pfX3I5SkFlX3hhcmRJZWxLcUU0MXp1MFdYVENHNjBUbjliOWFuM0xlaVdSTWlLQ05HaU5OWWRLejlYTzY5VE5pTVI3YUZBN191UFU0LXBaRGpoMEtmQTNwdTFLYzgwT0NNa1VHQXhkeExuVzBvOU9JYmJzWFNEOEhkMFR5UQ?oc=5",
+   "source": "Detroit Free Press",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Water",
+   "iso": "2026-08-07T19:41:00Z",
+   "id": "4b5368fa4ef7",
+   "origin": "google-news",
+   "source_title": "OpenAI offers to strengthen Michigan cybersecurity after water infrastructure attack - Detroit Free Press",
+   "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYm8zYXNPUnduZjJ4SjRUejcxR1R3WWtkUThCcHNsV3lKUTJjU0pfX3I5SkFlX3hhcmRJZWxLcUU0MXp1MFdYVENHNjBUbjliOWFuM0xlaVdSTWlLQ05HaU5OWWRLejlYTzY5VE5pTVI3YUZBN191UFU0LXBaRGpoMEtmQTNwdTFLYzgwT0NNa1VHQXhkeExuVzBvOU9JYmJzWFNEOEhkMFR5UQ?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Michigan firm pitches on-site power to dodge grid delays for AI campuses",
    "dek": "A local company says it can deliver the massive electricity loads AI data centers need without waiting on utility upgrades. The approach mirrors tactics already used elsewhere and could accelerate projects across the state. It also raises fresh questions about emissions, noise, and who pays when the grid is already strained.",
@@ -171,23 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWGdDbm5pYXBYOVNJVHBhSkltTWgzRFEwTVJxTzdHQWZBYUd5c2YxN0k4VS0tZDdBTl9nbU85UnYwVGoxWmMzTVBKbnRBcVRtTzdqUTJuRm1ydlVtbzZvMEhFWnQtZlZvVFVkVTdTV1ZIT2RlemdBZUc1blV0dzV1OUlrRzY3UTlLdE1qazNidGJsdGNvV2VZRGl5UVFmaDBiR0NGSW1lWkVBVU9RTGlHN1RGVGl6d1I2dkcxeHE4ZDVObUktQXpYLWx5ZGNDb1BJRmpybExId201MTY3OG5rMHdn?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
-  },
-  {
-   "title": "Michigan voters elect moratorium backer, pushing data center fight into Congress",
-   "dek": "A candidate who campaigned against unchecked data center growth won a key Michigan House primary. The result moves local fights over power demand and tax breaks onto the national stage. Residents in districts facing new projects now have a stronger voice in Washington on grid costs and water use.",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdDVNZjNfcGI0T3psZ0hmVGtXV3I3WUJsMlRrYzhkeVZydHZsYmVHeGZaUExfMllaUjAwSVVobnBISnE5WGVKY2pWS1JrcldFRGdkTkFlMWQtYV8zU08tMlpZRkF5RENOZG1ITmJaMUpCVHpYOFA3Ym9ZeDJhS2JWaU50VWZSOWlLUWNwSDFFMXh5WWFUY1B6NWhxa1pWb3F1Szk1bTZYc1BocjZvM2xENXpabVp5SGk1YzRnd2tURm9URDVqbGtxZk1Kd0hqZF9neGw0Nkl3aE5kQQ?oc=5",
-   "source": "Tech Times",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Policy",
-   "iso": "2026-08-05T14:51:58Z",
-   "id": "dfeea395deb2",
-   "origin": "google-news",
-   "source_title": "Moratorium Candidate Wins House Toss-Up: Michigan Primary Shifts Data Center Fight to Congress - Tech Times",
-   "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdDVNZjNfcGI0T3psZ0hmVGtXV3I3WUJsMlRrYzhkeVZydHZsYmVHeGZaUExfMllaUjAwSVVobnBISnE5WGVKY2pWS1JrcldFRGdkTkFlMWQtYV8zU08tMlpZRkF5RENOZG1ITmJaMUpCVHpYOFA3Ym9ZeDJhS2JWaU50VWZSOWlLUWNwSDFFMXh5WWFUY1B6NWhxa1pWb3F1Szk1bTZYc1BocjZvM2xENXpabVp5SGk1YzRnd2tURm9URDVqbGtxZk1Kd0hqZF9neGw0Nkl3aE5kQQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {
