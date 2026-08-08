@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://cbs12.com/news/nation-world/taxpayer-group-earns-new-yorks-ai-data-center-moratorium-could-cost-jobs-and-iinvestment-governor-kathy-hochul-technology-artificial-intelligence-trump-administration-moratorium-energy-secretary-chris-wright-china-technology-national-taxpayers-union",
-   "title": "Taxpayer Group Warns New York AI Data Center Ban Risks Jobs and Billions in Investment",
-   "at": "2026-07-18T21:01:48+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National advocacy group's opinion piece about New York moratorium—no Michigan decision or development, just commentary on policy already covered."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RaVlNdzJxSk5Db2Y0eEdoMWdqMUhnX0JaU1FOQnREX3dqamZoSW44bkNBTzNYUXZrMW9iY21IT0xPQlByTjhWZEVCQjlCUEEzek5FQS1TSTBjQQ?oc=5",
-   "title": "Dowagiac neighbors say hyperscale facility noise never stops",
-   "at": "2026-07-18T21:58:19+00:00",
-   "by": "news_judge",
-   "note": "score 1/10, duplicate: This is the same Dowagiac noise complaint story already killed twice by the News Director."
-  },
-  {
    "url": "https://planetdetroit.org/2026/07/augusta-data-center-battle-ballot/",
    "title": "Augusta Township Voters to Decide Data Center Rezoning on Aug. 4 Ballot Amid Recall Push",
    "at": "2026-07-18T22:58:31+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-07T20:09:34+00:00",
    "by": "news_judge",
    "note": "score 1/10, duplicate: Rehashes the same Michigan primary victories already covered in multiple KILLED and LIVE stories (Lawrence, Al-Sayed wins), just bundled with Kansas for nationa"
+  },
+  {
+   "url": "https://www.aol.com/articles/detroit-weighs-data-center-rules-171847000.html",
+   "title": "Detroit Report: Hyperscale Data Centers Would Need Major New Power Lines or Own Plant",
+   "at": "2026-08-08T00:03:03+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Appears to be a thin rehash of the already-live 'Detroit drafts data center rules after report flags power strain' — same city report, same power/water cost con"
+  },
+  {
+   "url": "https://www.cbsnews.com/news/nevada-data-center-lawsuit-ai-energy-costs/",
+   "title": "Nevada Utility Sues Tract to Keep Data Center Power Costs Off Ratepayers",
+   "at": "2026-08-08T00:03:03+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Nevada utility lawsuit is a concrete filing but has zero Michigan angle; purely national/Nevada story with no relevance to Michigan data center buildout."
   }
  ],
  "auto_published": [
