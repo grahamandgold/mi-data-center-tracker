@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQcWlXRDFDVnNqb2dSb3VGOEpSMDF6RV9lalNuRUt1NGFfVWRWSmFfemRfVnFrWkljNU1WcGxGTnhDYWVzZ2lZUFhCcm8tbExtUG90Nmc3a05ETi1ib1hrY21DNzJuTXRZc0ZMTEQ0eHllbWNZamdQZTRsS0hSMWFVVHpfSnVQdjJtUDdNemtVN2ZMY3hVRUs5TURXWE4tODhONVVTNTRDRzd2YmhCNlRvXzJJVTVOS3VPZlZXSEtrYjY4el9NelI0RDU0V1FOZTFHcEZjMERQUzA5UThHSXJYbExuNXZQZ3NYVF9jY1BkMmRWRFlXdHB3bGw4Ym5WbkFhQTVoZjVVVFJ3Smx5c3NWTHZGUzRuOXoyVnV6aUFBdHdyb1pLN0UzeUZJaGY5Q2p4NzRqTkhYXzlhaDVlb0hJTmxCN2xaLTVNOG52clhxUzNJZHRLNlM5NmxiakVYRXhOWEhfdQ?oc=5",
-   "title": "Saline flips, hands Oracle full 12-year tax break on $43B campus",
-   "at": "2026-07-19T13:47:18+00:00",
-   "by": "news_judge",
-   "note": "score 9/10, duplicate: Same Oracle tax-break reversal already covered in 'Oracle wins unlimited tax break' and 'Township removes cap on Oracle property tax exemption'—identical event,"
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcEpEVS0tdzVyNGxYWndzT3huVFN6MzA3aEZqYkV3WEw5RFNUNVo1QTFsYUdhVW13ZmdzdjJYLUZBOUdfQnBvVU1NZlc4MGx2N01HcUU5czI0Ykk5MU1ldXdSeHZQMkhYWXJycXd0LTBwZTJrR0x6dkZQUXhYNk9aNXJXQQ?oc=5",
    "title": "Michigan protests target data centers in five communities this weekend",
    "at": "2026-07-19T15:05:45+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-08T17:38:59+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece rehashing campaign rhetoric already covered in killed stories about primary victories and voter backlash, with no new Michigan-specific dec"
+  },
+  {
+   "url": "https://www.nahb.org/blog/2026/07/servers-over-shelter-ai-data-centers-outbidding-home-builders-for-land",
+   "title": "AI data centers outbid home builders for land across multiple states",
+   "at": "2026-08-08T18:51:28+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: National trend piece about land-price competition with no Michigan-specific decision, filing, or development reported."
   }
  ],
  "auto_published": [
