@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://bridgemi.com/guest-commentary/opinion-michigan-cant-afford-a-blanket-moratorium-on-data-centers/",
-   "title": "Blanket Moratorium on Data Centers Would Harm Michigan Economy, Opinion Argues",
-   "at": "2026-07-19T12:04:18+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: Opinion piece offering general economic argument against moratoriums rather than reporting a concrete development, decision, or filing."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTDRCSEo4VkRIWThhSURrbVNWWGlwb1pOUW9FWTkzRVRHaVI1aEFDSmR0Znl5WGNMNHYteVdFeDhUZG9RV1R2bnloZU1LeXUydm9LRnQwZGVnTjZDV3c0V1Rnd3pfXzVUVVVkQ2lRblhNb3BsOVVUb3VpX3pLajAyQ294YlA5YUNkbWJJQ0RoYUhuTkVDZU8yMVRRRFdObzFPblFPTzZYNHJ5c3JUeE54aXRsaDI3RF9VSklqVmUyT3JNUFQ0VUo1VURR?oc=5",
    "title": "Genesee County fight over AI data center drags into summer",
    "at": "2026-07-19T13:47:18+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-08T10:47:41+00:00",
    "by": "news_judge",
    "note": "score 3/10: National story (Salem, not Michigan) about a council discussion and rally—no decision made, just ongoing opposition and talk of a possible moratorium."
+  },
+  {
+   "url": "https://www.npr.org/2026/08/08/g-s1-137853/data-centers-primaries-midterms",
+   "title": "Michigan Senate and House Hopefuls Use Data Center Backlash to Court Voters",
+   "at": "2026-08-08T14:40:27+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Thin rehash of already-live primary victories (Lawrence, data center opponent defeats incumbent) repackaged as a trend piece without new specific events or fili"
   }
  ],
  "auto_published": [
