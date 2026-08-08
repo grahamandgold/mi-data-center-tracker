@@ -1,7 +1,45 @@
 {
- "updated_at": "2026-08-08T10:47:41+00:00",
+ "updated_at": "2026-08-08T11:37:06+00:00",
  "generator": "grok-wire-agent",
  "items": [
+  {
+   "iso": "2026-08-07T20:00:00Z",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "tag": "Policy",
+   "title": "Nessel Appeals Fast-Track DTE Deals for 1.4-Gigawatt Washtenaw Data Center",
+   "dek": "The attorney general wants the contracts with Green Chile Ventures sent back for a full hearing, citing hidden costs and the risk of higher electric bills for Michigan customers.",
+   "source": "Michigan Attorney General",
+   "url": "https://www.michigan.gov/ag/news/press-releases/2026/08/07/ag-nessel-briefs-appeal-over-mpsc-approval-of-dte-saline-data-center-contracts",
+   "breaking": false,
+   "lead": true,
+   "id": "99918b8adcc4",
+   "kind": "story",
+   "filed_at": "2026-08-08T11:37:06+00:00",
+   "accuracy": "checked-rewritten",
+   "headline_rewritten": true,
+   "judge_score": 9,
+   "judge_note": "Major new development: AG Nessel escalates her PSC challenge with a formal appeal targeting specific 1.4-GW contracts, moving beyond her earlier demand for answ"
+  },
+  {
+   "iso": "2026-08-07T16:00:00Z",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "tag": "Money",
+   "title": "Bitcoin Sales Fund Hyperscale Michigan AI Campus With 20 MW Capacity",
+   "dek": "Hyperscale sold roughly 100 Bitcoin and added a credit facility to build the Michigan campus, expected to deliver more than $1.2 billion in revenue over the initial 10-year term.",
+   "source": "MC Markets",
+   "url": "https://www.mcmarkets.com/insights/hyperscale-data-bitcoin-michigan-ai-campus",
+   "breaking": false,
+   "lead": false,
+   "id": "30772e210b46",
+   "kind": "national",
+   "filed_at": "2026-08-08T11:37:06+00:00",
+   "accuracy": "checked-rewritten",
+   "headline_rewritten": true,
+   "judge_score": 6,
+   "judge_note": "Real project announcement with financing details and Michigan location, but thin on local impact, permitting status, or community response that would elevate it"
+  },
   {
    "iso": "2026-08-07T18:00:00Z",
    "region": "statewide",
@@ -22,5 +60,5 @@
    "judge_note": "Concrete legislative package with specific mandates (15-20 year contracts, 90% clean energy, cost-shifting provisions) — a real filing/proposal, not just talk."
   }
  ],
- "accuracy_checked_at": "2026-08-08T10:47:37+00:00"
+ "accuracy_checked_at": "2026-08-08T11:37:25+00:00"
 }
