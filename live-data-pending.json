@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-08T00:03:03+00:00",
+ "updated_at": "2026-08-08T02:11:24+00:00",
  "generator": "grok-wire-agent",
  "items": [
   {
@@ -20,26 +20,7 @@
    "headline_rewritten": true,
    "judge_score": 8,
    "judge_note": "Concrete legislative package with specific mandates (15-20 year contracts, 90% clean energy, cost-shifting provisions) — a real filing/proposal, not just talk."
-  },
-  {
-   "iso": "2026-08-06T14:00:00Z",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "tag": "Power & Grid",
-   "title": "Coldwater Senator Says Data Centers Must Pay More for Electricity",
-   "dek": "Sen. Jonathan Lindsey argues AI facilities should cover more than their fair share of power costs as over 50 Michigan communities enact moratoriums over grid and water strain.",
-   "source": "WTVB",
-   "url": "https://wtvbam.com/2026/08/06/967509/",
-   "breaking": false,
-   "lead": false,
-   "id": "efdebfbd776a",
-   "kind": "story",
-   "filed_at": "2026-08-07T05:47:46+00:00",
-   "accuracy": "checked-rewritten",
-   "headline_rewritten": true,
-   "judge_score": 6,
-   "judge_note": "Incremental but real: a named Michigan state senator takes a policy position on data center electricity costs amid documented local moratorium wave."
   }
  ],
- "accuracy_checked_at": "2026-08-08T00:02:59+00:00"
+ "accuracy_checked_at": "2026-08-08T02:11:27+00:00"
 }
