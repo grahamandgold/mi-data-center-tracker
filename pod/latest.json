@@ -1,10 +1,10 @@
 {
  "date": "2026-08-08",
- "title": "Mornings with Graham & Emmy",
- "episode_title": "Mason County Grid Strain Spotlights Statewide Data Center Costs",
- "show": "Mornings with Graham & Emmy",
- "daypart": "Mornings",
- "teaser": "Western Michigan questions whether the grid can handle AI data centers without rate hikes or blackouts.",
+ "title": "Evenings with Graham & Emmy",
+ "episode_title": "Mason County Grid Worries Spotlight Statewide Data Center Power Strain",
+ "show": "Evenings with Graham & Emmy",
+ "daypart": "Evenings",
+ "teaser": "Can Western Michigan's grid handle the AI data center surge without hiking bills?",
  "minutes": 7,
  "audio": "pod/latest.mp3",
  "hosts": [
