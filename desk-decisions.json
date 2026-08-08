@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOS2pELVpCbUhjXzZEVkdCd1lGZjVyT1JCUFdzR005U2hzMlVZR3o5MEk2UlpqYmprLWIwWlZZUHdGM29tNjRmNHNiT1ZiTmFfcnd2ZTA4UlF0aG9XNzNHTDBrQ0RqYkQyLWJ0bjdrSkNROTdZYjdOREhsNEdISU0zYUtXbHVWNUJ0eURVMVBJbmpqTkRobVhnODNZOThPNDR0VVNMTWJyMXUtdUVacVFhU00tamd0R2JLZ2FNaUJsdVplYkdVSkdkLTlSaTJpOE5OVzR4aHpKX0xFcjBm?oc=5",
-   "title": "Warren weighs data-center pause after July power outages hit homes",
-   "at": "2026-07-19T06:39:36+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicate of already-live 'Warren Freezes New Data Centers After Storms Down 60+ Power Lines' and killed 'Warren eyes data center pause after summer blackouts h"
-  },
-  {
    "url": "https://bridgemi.com/guest-commentary/opinion-michigan-cant-afford-a-blanket-moratorium-on-data-centers/",
    "title": "Blanket Moratorium on Data Centers Would Harm Michigan Economy, Opinion Argues",
    "at": "2026-07-19T12:04:18+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-08T10:05:41+00:00",
    "by": "news_judge",
    "note": "score 4/10: Utility solar hookup incentives are tangentially related to data centers but this is primarily a renewable energy policy story without a concrete Michigan data-"
+  },
+  {
+   "url": "https://www.salemreporter.com/2026/08/07/verrus-official-briefs-chamber-members-on-data-center-early-thursday-morning/",
+   "title": "Verrus Faces Fresh Questions on Salem Data Center as Opposition Rises",
+   "at": "2026-08-08T10:47:41+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National story (Salem, not Michigan) about a council discussion and rally—no decision made, just ongoing opposition and talk of a possible moratorium."
   }
  ],
  "auto_published": [
