@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTDRCSEo4VkRIWThhSURrbVNWWGlwb1pOUW9FWTkzRVRHaVI1aEFDSmR0Znl5WGNMNHYteVdFeDhUZG9RV1R2bnloZU1LeXUydm9LRnQwZGVnTjZDV3c0V1Rnd3pfXzVUVVVkQ2lRblhNb3BsOVVUb3VpX3pLajAyQ294YlA5YUNkbWJJQ0RoYUhuTkVDZU8yMVRRRFdObzFPblFPTzZYNHJ5c3JUeE54aXRsaDI3RF9VSklqVmUyT3JNUFQ0VUo1VURR?oc=5",
-   "title": "Genesee County fight over AI data center drags into summer",
-   "at": "2026-07-19T13:47:18+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Ongoing opposition with no new decision, vote, or filing—just continued meetings and resident concerns without concrete action."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQcWlXRDFDVnNqb2dSb3VGOEpSMDF6RV9lalNuRUt1NGFfVWRWSmFfemRfVnFrWkljNU1WcGxGTnhDYWVzZ2lZUFhCcm8tbExtUG90Nmc3a05ETi1ib1hrY21DNzJuTXRZc0ZMTEQ0eHllbWNZamdQZTRsS0hSMWFVVHpfSnVQdjJtUDdNemtVN2ZMY3hVRUs5TURXWE4tODhONVVTNTRDRzd2YmhCNlRvXzJJVTVOS3VPZlZXSEtrYjY4el9NelI0RDU0V1FOZTFHcEZjMERQUzA5UThHSXJYbExuNXZQZ3NYVF9jY1BkMmRWRFlXdHB3bGw4Ym5WbkFhQTVoZjVVVFJ3Smx5c3NWTHZGUzRuOXoyVnV6aUFBdHdyb1pLN0UzeUZJaGY5Q2p4NzRqTkhYXzlhaDVlb0hJTmxCN2xaLTVNOG52clhxUzNJZHRLNlM5NmxiakVYRXhOWEhfdQ?oc=5",
    "title": "Saline flips, hands Oracle full 12-year tax break on $43B campus",
    "at": "2026-07-19T13:47:18+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-08T14:40:27+00:00",
    "by": "news_judge",
    "note": "score 3/10: Thin rehash of already-live primary victories (Lawrence, data center opponent defeats incumbent) repackaged as a trend piece without new specific events or fili"
+  },
+  {
+   "url": "https://www.opb.org/article/2026/08/08/data-centers-are-a-top-issue-in-midterms-for-voters-candidates/",
+   "title": "Michigan Candidate Rallies Against Data Center Power Costs and Pollution",
+   "at": "2026-08-08T17:38:59+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece rehashing campaign rhetoric already covered in killed stories about primary victories and voter backlash, with no new Michigan-specific dec"
   }
  ],
  "auto_published": [
