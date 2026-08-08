@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://planetdetroit.org/2026/07/augusta-data-center-battle-ballot/",
-   "title": "Augusta Township Voters to Decide Data Center Rezoning on Aug. 4 Ballot Amid Recall Push",
-   "at": "2026-07-18T22:58:31+00:00",
-   "by": "news_judge",
-   "note": "score 4/10, duplicate: Duplicate of already-live 'Augusta Twp voters face data center referendum after heated campaign' — same August 4 ballot, just adds recall detail which is increm"
-  },
-  {
    "url": "https://www.al.com/news/2026/07/pinson-could-join-growing-list-of-alabama-cities-pausing-data-centers.html",
    "title": "Pinson, Alabama, Could Become Latest City to Pause New Data Center Proposals",
    "at": "2026-07-18T22:58:31+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-08T00:03:03+00:00",
    "by": "news_judge",
    "note": "score 3/10: Nevada utility lawsuit is a concrete filing but has zero Michigan angle; purely national/Nevada story with no relevance to Michigan data center buildout."
+  },
+  {
+   "url": "https://www.detroitnews.com/story/news/local/michigan/2026/08/07/nessel-groups-file-briefs-in-saline-data-center-mpsc-appeal-case/91219219007/",
+   "title": "Tech Giants Accelerate Data Center Expansion Amid Surging National Power Demand",
+   "at": "2026-08-08T05:06:50+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece with no Michigan-specific development, decision, or filing—exactly the type of thin aggregation that scores 3-4."
   }
  ],
  "auto_published": [
