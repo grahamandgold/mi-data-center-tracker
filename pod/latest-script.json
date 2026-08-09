@@ -1,10 +1,10 @@
 {
- "title": "Evenings with Graham & Emmy",
- "teaser": "Can Western Michigan's grid handle the AI data center surge without hiking bills?",
+ "title": "Mornings with Graham & Emmy",
+ "teaser": "Western Michigan utilities brace for AI power demand; will rates and reliability hold?",
  "lines": [
   {
    "host": "Graham",
-   "text": "Good evening, and welcome to Evenings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
+   "text": "Good morning, and welcome to Mornings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
   },
   {
    "host": "Emmy",
@@ -12,194 +12,202 @@
   },
   {
    "host": "Graham",
-   "text": "It's Saturday night, August 8, and yesterday's news out of Mason County has folks across Western Michigan asking the same question: can the local grid actually handle this wave of proposed AI data centers?"
+   "text": "It's a sunny Sunday morning here in August, and we're diving into fresh questions from Mason County about whether the local grid can keep up with proposed AI data centers."
   },
   {
    "host": "Emmy",
-   "text": "Exactly, Graham. That Mason County discussion feels like the tip of a much bigger iceberg we've been tracking all week."
+   "text": "That Mason County story from Friday really highlights the bigger tension playing out across the state right now."
   },
   {
    "host": "Graham",
-   "text": "Let's start there. Residents and officials in Mason County are questioning whether the transmission lines and substations can support the massive new loads from these facilities without risking blackouts or forcing upgrades that everyone else ends up paying for."
+   "text": "Exactly. Western Michigan utilities are staring down rising demand from these facilities, and residents want to know if new power plants or upgrades are coming — and crucially, who foots the bill."
   },
   {
    "host": "Emmy",
-   "text": "Right, and the utilities involved are already seeing rising demand from multiple proposed AI projects. The big unknowns are new power plants, who foots the bill for reinforcements, and what that means for everyday electric rates."
+   "text": "So walk me through the history here, Graham. How did we get to this point where one county is suddenly asking these questions?"
   },
   {
    "host": "Graham",
-   "text": "This isn't coming out of nowhere. Data centers have been eyeing Michigan for a while because of available land, fiber, and relatively affordable power compared to some coastal states."
+   "text": "Well, data centers have been circling Michigan for a while now, drawn by cheap land and cooling potential. But the scale of AI projects is new — we're talking loads that can rival small cities in power use."
   },
   {
    "host": "Emmy",
-   "text": "But the scale is different now with AI training clusters that can pull hundreds of megawatts each. That's like adding a small city overnight."
+   "text": "And that strain on transmission lines sounds serious. What happens if the grid can't handle it?"
   },
   {
    "host": "Graham",
-   "text": "Precisely. In Mason County the concern is whether the existing grid can absorb that without new generation or major transmission work, and whether ratepayers or the data center developers cover the cost."
+   "text": "Blackouts become a real risk for homes and factories, and any upgrades mean higher rates passed along to regular customers. Mason County folks are rightly asking if these projects can even locate there without those downsides."
   },
   {
    "host": "Emmy",
-   "text": "And if the utilities have to build new plants or upgrade lines, how does that flow into bills for homes and factories that aren't getting any direct benefit?"
+   "text": "Who are the main players pushing these proposals in western Michigan?"
   },
   {
    "host": "Graham",
-   "text": "That's the core tension. Regulators at the Public Service Commission have been approving these large loads, but Attorney General Nessel is now demanding more justification on exactly how those decisions are made."
+   "text": "Local utilities are fielding the inquiries, along with developers eyeing sites for AI campuses. Regulators at the state level are also in the mix now."
   },
   {
    "host": "Emmy",
-   "text": "She wants stronger oversight so residents aren't left holding the bag if these deals drive up costs. It signals that political pushback is growing beyond just local town halls."
+   "text": "And what about the water angle? These places need massive cooling, right?"
   },
   {
    "host": "Graham",
-   "text": "At the same time, a Michigan firm is pitching on-site power generation to bypass grid delays entirely. That could speed things up but raises questions about emissions and noise from backup generators."
+   "text": "They do, and that ties into farmland and town impacts too. Drawing that much water and power can affect everything from local agriculture to everyday utility costs."
   },
   {
    "host": "Emmy",
-   "text": "And water use for cooling is another flashpoint. We saw OpenAI offer help hardening cybersecurity on water systems after a recent hack that hit utilities already strained by data center plans."
+   "text": "How does this compare to fights we've seen elsewhere in the state?"
   },
   {
    "host": "Graham",
-   "text": "Any new cluster will depend on those same water utilities, so the vulnerability matters statewide."
+   "text": "It's the same pattern — communities weighing jobs and investment against reliability, bills, and quality of life. Mason County is just the latest spot voicing those concerns out loud."
   },
   {
    "host": "Emmy",
-   "text": "Detroit just released its own assessment showing hundreds of extra megawatts of demand on a tight grid, and they're drafting rules with size limits and requirements that developers pay for upgrades."
+   "text": "What do you think happens next? Will we see new plants built, or more upgrades funded by ratepayers?"
   },
   {
    "host": "Graham",
-   "text": "Suburban DTE customers 30 miles away could see higher bills if the city load isn't managed carefully."
+   "text": "That's the open question. Regulators will have to decide how to handle these big new loads, and local input like we're hearing from Mason County will shape that."
   },
   {
    "host": "Emmy",
-   "text": "Further out, Pittsfield Township near Ann Arbor is tightening zoning after residents flagged noise, traffic, and power issues. That could become a model for other Washtenaw County communities."
+   "text": "I'm curious about the emissions and noise side too if on-site power comes into play."
   },
   {
    "host": "Graham",
-   "text": "And voters in one rural township there already rejected a billion-dollar rezoning that would have allowed a major project on farmland."
+   "text": "Those are fresh concerns that come with any workaround to grid delays. It could speed things up but raises other issues for nearby residents."
   },
   {
    "host": "Emmy",
-   "text": "Quality-of-life impacts are real too. In Dowagiac, neighbors say a Cass County facility runs nonstop and the noise is constant and disturbing, with no quick fix from local officials."
+   "text": "And for towns 30 or 60 miles away — why should they care about Mason County specifically?"
   },
   {
    "host": "Graham",
-   "text": "Monroe Township is fighting a $300 million lawsuit from a developer after it banned new facilities, testing how much local control communities actually have over these projects."
+   "text": "Because utility rates are regional. If upgrades get approved there, costs can ripple out to other DTE or Consumers Energy customers across western and even parts of southeast Michigan."
   },
   {
    "host": "Emmy",
-   "text": "And in a Democratic primary this week, a candidate who campaigned against data center growth defeated an incumbent, sending a signal that voter frustration is moving into state legislative races."
+   "text": "Got it. So this isn't just a local Mason story — it's a statewide signal."
   },
   {
    "host": "Graham",
-   "text": "So the Mason County questions aren't isolated. They're part of a statewide reckoning over who benefits, who pays, and how much local say remains."
+   "text": "Precisely. The conversation is shifting from whether data centers come to how we manage the infrastructure they need."
   },
   {
    "host": "Emmy",
-   "text": "What happens next is the key. Will the PSC require more cost-sharing from developers? Will more townships follow Pittsfield or Washtenaw with stricter rules?"
+   "text": "What would stronger oversight look like here?"
   },
   {
    "host": "Graham",
-   "text": "Or will on-site generation proposals gain traction and change the grid equation entirely?"
+   "text": "Maybe requirements that developers pay for upgrades upfront, or limits on project size until the grid catches up. Residents are pushing for that kind of accountability."
   },
   {
    "host": "Emmy",
-   "text": "Listeners 30 or 60 miles away should care because rate impacts and water strain don't stop at county lines."
+   "text": "And if nothing changes, what are the stakes for everyday folks?"
   },
   {
    "host": "Graham",
-   "text": "We'll keep watching how these threads connect as the summer progresses."
+   "text": "Higher bills, potential reliability issues, and lost farmland or quiet nights in rural areas. It's a lot to weigh."
   },
   {
    "host": "Emmy",
-   "text": "Shifting to quick hits now. Starting with the Attorney General's move."
+   "text": "Thanks for laying that out. Let's move to some other developments from this week."
   },
   {
    "host": "Graham",
-   "text": "Dana Nessel is pressing the PSC to explain its handling of surging data center demand. Residents could see higher bills without stronger oversight."
+   "text": "Sure. Starting with Attorney General Dana Nessel on Friday pressing the Public Service Commission for answers on how it's handling these surging power demands."
   },
   {
    "host": "Emmy",
-   "text": "It's a clear signal of growing political resistance across the state."
+   "text": "Why is she getting involved now?"
   },
   {
    "host": "Graham",
-   "text": "Next, OpenAI stepped in after a water system hack tied to data center growth."
+   "text": "She's concerned residents could see higher bills if large loads get approved without enough checks. It signals pushback at the state level."
   },
   {
    "host": "Emmy",
-   "text": "They're offering cybersecurity help to Michigan officials for utilities that supply cooling water. Any new cluster will rely on those same systems."
+   "text": "Moving on, OpenAI offered help Friday after that water system hack linked to data center growth pressures."
   },
   {
    "host": "Graham",
-   "text": "A local firm is pitching on-site power to dodge grid delays for AI campuses."
+   "text": "Right — cybersecurity on utilities supplying cooling is suddenly a bigger priority. Any new cluster will depend on those same systems."
   },
   {
    "host": "Emmy",
-   "text": "It mirrors tactics used elsewhere but brings fresh questions about emissions, noise, and cost allocation on an already strained grid."
+   "text": "A Michigan firm pitched on-site power Friday to bypass grid delays for AI campuses."
   },
   {
    "host": "Graham",
-   "text": "Detroit released an assessment showing data centers could add hundreds of megawatts of demand."
+   "text": "That approach could accelerate projects but brings up emissions, noise, and payment questions when the grid is already tight."
   },
   {
    "host": "Emmy",
-   "text": "City planners are drafting rules with size limits and requirements that developers pay for upgrades. Suburban DTE customers could feel the rate effects."
+   "text": "Detroit released a new assessment Friday showing data centers could add hundreds of megawatts on a strained grid."
   },
   {
    "host": "Graham",
-   "text": "In Dowagiac, residents continue complaining about nonstop noise from a Cass County facility."
+   "text": "City planners are drafting rules with size limits and requirements that developers cover upgrades — and suburban DTE customers could feel the rate impact too."
   },
   {
    "host": "Emmy",
-   "text": "Local officials have no immediate solution, leaving homeowners to deal with the quality-of-life impact."
+   "text": "Over in Cass County, Thursday brought complaints about nonstop noise from an existing facility in Dowagiac."
   },
   {
    "host": "Graham",
-   "text": "Pittsfield Township is moving to tighten zoning after resident concerns over noise, traffic, and power."
+   "text": "Residents describe constant sound with no quick fix from officials. It's a reminder of the quality-of-life side that lingers after projects are built."
   },
   {
    "host": "Emmy",
-   "text": "The changes could set a template for other Washtenaw County townships near Ann Arbor."
+   "text": "Pittsfield Township is tightening zoning Thursday after resident concerns over noise, traffic, and power near Ann Arbor."
   },
   {
    "host": "Graham",
-   "text": "Monroe Township is asking a federal judge to dismiss a $300 million lawsuit from a developer over its data center ban."
+   "text": "Those changes could become a model for other Washtenaw County townships and help protect against sprawl."
   },
   {
    "host": "Emmy",
-   "text": "The case tests how much local governments can block projects that pull heavy power and water loads."
+   "text": "Wednesday, Monroe Township asked a federal judge to dismiss a $300 million lawsuit over its data center ban."
   },
   {
    "host": "Graham",
-   "text": "A data center opponent won a Democratic primary for state House this week."
+   "text": "The case tests whether locals can block big power and water draws. Southeast Michigan residents have a stake in the outcome."
   },
   {
    "host": "Emmy",
-   "text": "It highlights voter pushback and moves the debate into the legislature for that district."
+   "text": "Also Wednesday, a data center opponent won a Democratic primary for state House."
   },
   {
    "host": "Graham",
-   "text": "And Washtenaw County voters rejected a $1 billion data center rezoning in a rural township."
+   "text": "That win moves the debate into the legislature for that district and shows voter sentiment shifting."
   },
   {
    "host": "Emmy",
-   "text": "The decision blocks the project and protects farmland and infrastructure in the area."
+   "text": "And Washtenaw voters rejected a $1 billion rezoning Wednesday in a rural township near Ann Arbor."
   },
   {
    "host": "Graham",
-   "text": "For On Deck, there are no major public meetings listed on the tracker for this weekend."
+   "text": "The decision protects farmland and infrastructure from heavy power and water use."
   },
   {
    "host": "Emmy",
-   "text": "We'll keep an eye on next week's agendas and let listeners know if anything pops up."
+   "text": "Quite a week of local pushback and regulatory questions."
+  },
+  {
+   "host": "Graham",
+   "text": "Now for On Deck — no major public meetings listed for today specifically, but several township boards across the state are expected to discuss zoning and grid issues this week."
+  },
+  {
+   "host": "Emmy",
+   "text": "Listeners should check their local calendars for any updates on those."
   },
   {
    "host": "Graham",
    "text": "Full sources and the live map at the Michigan Data Center Tracker. We're back tomorrow."
   }
  ],
- "episode_title": "Mason County Grid Worries Spotlight Statewide Data Center Power Strain",
- "show": "Evenings with Graham & Emmy",
- "daypart": "Evenings"
+ "episode_title": "Mason County Grid Faces AI Data Center Surge — Who Pays for Upgrades?",
+ "show": "Mornings with Graham & Emmy",
+ "daypart": "Mornings"
 }
