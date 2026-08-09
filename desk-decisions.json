@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iMElwWGgxZDdpWDI5MDNabmVPaWJrc3F2ekFjNTlCOF9yMUdFazZUNmRxSFd2OGlxQlRsbHhuUGhMeHpwQmt1Rkh6MmdWcWhrNXphNV9B?oc=5",
-   "title": "Trump voter calls data centers the top issue in Michigan Senate race",
-   "at": "2026-07-19T18:33:47+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: Single voter anecdote about an issue becoming important is thin sourcing and speculative political analysis, not a concrete development."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYmZ0aHVCNnZEVnJQc2xXR2pETEtrWGxwZFZfMUMzQkg3enlGVk4xcC0ybmdmMVJmeVVoc2VES2FlNUFVQlpjZmxZc3VZY1h0T2NPdTFiN2tpU1diSHZmZnFqcVZIWndzTlBYQ0IySENMT19QMW1qaXJhLVF0WFFobGdKODBuQVQySVlUT0NyLXp1Q0Y2MkRyY1EyMHFma3p0VmgyWGtxMWJaVlUzY2lNUEZFSQ?oc=5",
    "title": "Michigan energy prices become key issue for both parties this fall",
    "at": "2026-07-19T18:33:47+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-08T23:37:23+00:00",
    "by": "news_judge",
    "note": "score 2/10: Meta-commentary about lack of national news is not a reportable development for Michigan data center tracking."
+  },
+  {
+   "url": "https://www.ualrpublicradio.org/npr-news/2026-08-08/data-centers-are-a-political-issue-crossing-party-lines-driving-voters-to-candidates",
+   "title": "Data center fights fuel campaigns from Michigan to Ohio and Wisconsin",
+   "at": "2026-08-09T08:55:02+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: National trend piece aggregating campaign rhetoric across multiple states with Michigan as one example; El-Sayed's opposition already covered in live story abou"
   }
  ],
  "auto_published": [
