@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-09T11:38:12+00:00",
+ "updated_at": "2026-08-09T13:08:23Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Michigan senator flags power and water risks from incoming data centers",
+   "dek": "A state senator is alerting local officials that new data centers could drive up electricity rates and strain water supplies in Michigan suburbs. Communities without strong local rules may end up subsidizing the facilities through higher utility bills. The warning targets growing interest in data-center sites across metro Detroit and surrounding counties.",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNWpEaV9ub3JkclFDNVppVjdBVXFoZmtERFRjOVpQY21FNHpCdXZGSzFhWS1uTm51dUVLUEVmV1RGVlNpZXV1X2JvNWN0UEhrYTg0YzBQYm5xRDdhejRsSzE5dldXR2RMMVV1clBKSG1vQjIxbldieTREZzJ4a2xpdUlLck4tcXlMRXJnck9fdVZra2x1bWFyZE5OeGNfZnNNWTFqSA?oc=5",
+   "source": "C&G Newspapers",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Policy",
+   "iso": "2026-08-09T12:02:42Z",
+   "id": "a0d3099a576a",
+   "origin": "google-news",
+   "source_title": "State senator warns communities about data centers - C&G Newspapers",
+   "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNWpEaV9ub3JkclFDNVppVjdBVXFoZmtERFRjOVpQY21FNHpCdXZGSzFhWS1uTm51dUVLUEVmV1RGVlNpZXV1X2JvNWN0UEhrYTg0YzBQYm5xRDdhejRsSzE5dldXR2RMMVV1clBKSG1vQjIxbldieTREZzJ4a2xpdUlLck4tcXlMRXJnck9fdVZra2x1bWFyZE5OeGNfZnNNWTFqSA?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
   {
    "title": "Mason County questions if local grid can handle data center surge",
    "dek": "Western Michigan utilities face rising demand from proposed AI facilities that could strain transmission lines and raise rates for homes and factories. Mason County residents are asking whether new power plants or upgrades will be needed and who pays. The discussion ties directly to whether data centers can locate there without blackouts or higher bills.",
@@ -169,23 +186,6 @@
    "origin": "google-news",
    "source_title": "Residents reject rezoning for $1B data center in a rural community near Ann Arbor - Crain's Detroit Business",
    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLUxIelItQ2FjczhyTDJ0VkJsU3FRZ0w4ZTFYVkhjRXVuUXZ5eU9NMlJnOFpkUy1LYkZpdVhzd2NFM0YwczFIRktxUmotajNxTUpzcDc4Ri1WQmJRZ21ITzA4bDJaeDRkb0FpbVJrRVFVUHFkdjEteTdTSlNFeVUzemVrdWQ5OFJDNm5uaE53?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 9
-  },
-  {
-   "title": "Lawrence beats Stevens in MI-7 after vowing to block data centers",
-   "dek": "Will Lawrence defeated Haley Stevens in the Democratic primary for Michigan's 7th congressional district by campaigning against large data-center projects. The win shifts the fight over power demand, tax breaks and local land use into Congress. Voters in Washtenaw and surrounding counties now have a representative who made data-center opposition central to the race.",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSOUFoWVZ3MEh1WEYwVUZoVjhnTldtX3BxanlVWnMtUkRSODJwcWpGUDB2bjdsZFd1MEVtdmRGZ1F5ck5CMU5VakNMaGJuWHRNWVZVNjJGSEpLQmhIS1FZZVd4d25nN2dQVmM0MEJBbnJpdw?oc=5",
-   "source": "Common Dreams",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Policy",
-   "iso": "2026-08-05T16:38:39Z",
-   "id": "cbc312edaa81",
-   "origin": "google-news",
-   "source_title": "‘Organized People Can Beat Organized Money’: Lawrence Wins House Primary After Harnessing Opposition to Data Centers - Common Dreams",
-   "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSOUFoWVZ3MEh1WEYwVUZoVjhnTldtX3BxanlVWnMtUkRSODJwcWpGUDB2bjdsZFd1MEVtdmRGZ1F5ck5CMU5VakNMaGJuWHRNWVZVNjJGSEpLQmhIS1FZZVd4d25nN2dQVmM0MEJBbnJpdw?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 9
   }
