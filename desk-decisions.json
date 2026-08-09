@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYmZ0aHVCNnZEVnJQc2xXR2pETEtrWGxwZFZfMUMzQkg3enlGVk4xcC0ybmdmMVJmeVVoc2VES2FlNUFVQlpjZmxZc3VZY1h0T2NPdTFiN2tpU1diSHZmZnFqcVZIWndzTlBYQ0IySENMT19QMW1qaXJhLVF0WFFobGdKODBuQVQySVlUT0NyLXp1Q0Y2MkRyY1EyMHFma3p0VmgyWGtxMWJaVlUzY2lNUEZFSQ?oc=5",
-   "title": "Michigan energy prices become key issue for both parties this fall",
-   "at": "2026-07-19T18:33:47+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Broad trend piece about campaign messaging lacks specific filings, statements, or events; too general to merit Michigan data-center tracker coverage."
-  },
-  {
    "url": "https://bridgemi.com/michigan-government/progressives-rally-for-abdul-el-sayed-4-takeaways-from-bernie-sanders-aoc/",
    "title": "Sanders and Ocasio-Cortez Rally for El-Sayed, Hit Corporate Spending",
    "at": "2026-07-19T23:02:29+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-09T08:55:02+00:00",
    "by": "news_judge",
    "note": "score 4/10: National trend piece aggregating campaign rhetoric across multiple states with Michigan as one example; El-Sayed's opposition already covered in live story abou"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeEJJUnVsNXJjQVJ0amNVd3FQWWNUcnZYMEpJUU9YbGE5MGpfdGVsV0ViUTJERzlkQmxqU2N0TmxRU19MTDE5Z1REaFZjUmVrdGJjWENMUnJqVGRrUWdNRnJxalVLWjQ0LTNhb0hWYkFzWkVFOEpqNTZYZFg3NmZtQUpsTzVYX0dtZHZKSXNDWW1hRW9EaVBJT1ZSVG5pV1lOY3BsQnFiT2N2SVduSUNIemdnbHYzMm8?oc=5",
+   "title": "EMU experts spell out water and electric costs data centers could bring to Washtenaw towns",
+   "at": "2026-08-09T15:41:29+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Educational session providing general information rather than reporting a specific decision, filing, or official action by a governing body."
   }
  ],
  "auto_published": [
@@ -2553,6 +2553,12 @@
    "title": "Ypsilanti Data Center Plan Spotlights Water and Power Tradeoffs",
    "judge_score": 6,
    "at": "2026-08-09T14:10:14Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMXNQWUcxLUVwWVRSWjVDVS05dHQ1N1VyMTY5VVI0TmoyanE1c2dfMlBrM1ZUWV9vQ1R3aTlLaXBpamg4blhYSWZHS25hVGFfZDhGWFNhd3R6Y2Uwd05qUGNJbG93VFVnRWtELUd3S2RSLUItMnd5QWo5cHM0dW1jRzZHNTJHUlNCSDF5X2hlSjEwOGZrRXFKaFBmSDhpWUZ0VGlEX2tIMzI2ZnU4Ty1IU1Q3STQ4MXg4cnJtdHA5OGlvQkNqVlB5NmR3UmZlOUxyeERLRW1VYTcyUmhmN1FnTV8yemFMOE1MdFMySQ?oc=5",
+   "title": "West Michigan township gets first look at data center noise, power and water rules",
+   "judge_score": 6,
+   "at": "2026-08-09T15:41:29Z"
   }
  ]
 }

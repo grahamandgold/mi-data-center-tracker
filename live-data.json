@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-09T15:04:14+00:00",
+ "updated_at": "2026-08-09T15:41:29Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "West Michigan township gets first look at data center noise, power and water rules",
+   "dek": "Local officials heard details on how large server farms could affect roads, electric demand and noise levels in their community. Residents 30 miles away could see higher utility rates or new zoning limits if similar projects spread. The presentation focused on drafting local ordinances before any applications arrive.",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMXNQWUcxLUVwWVRSWjVDVS05dHQ1N1VyMTY5VVI0TmoyanE1c2dfMlBrM1ZUWV9vQ1R3aTlLaXBpamg4blhYSWZHS25hVGFfZDhGWFNhd3R6Y2Uwd05qUGNJbG93VFVnRWtELUd3S2RSLUItMnd5QWo5cHM0dW1jRzZHNTJHUlNCSDF5X2hlSjEwOGZrRXFKaFBmSDhpWUZ0VGlEX2tIMzI2ZnU4Ty1IU1Q3STQ4MXg4cnJtdHA5OGlvQkNqVlB5NmR3UmZlOUxyeERLRW1VYTcyUmhmN1FnTV8yemFMOE1MdFMySQ?oc=5",
+   "source": "Shoreline Media Group",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Ottawa",
+   "tag": "Local Government",
+   "iso": "2026-08-09T15:20:27Z",
+   "id": "29ff3619d59a",
+   "origin": "google-news",
+   "source_title": "Data center presentation explores impacts, ordinances - Shoreline Media Group",
+   "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMXNQWUcxLUVwWVRSWjVDVS05dHQ1N1VyMTY5VVI0TmoyanE1c2dfMlBrM1ZUWV9vQ1R3aTlLaXBpamg4blhYSWZHS25hVGFfZDhGWFNhd3R6Y2Uwd05qUGNJbG93VFVnRWtELUd3S2RSLUItMnd5QWo5cHM0dW1jRzZHNTJHUlNCSDF5X2hlSjEwOGZrRXFKaFBmSDhpWUZ0VGlEX2tIMzI2ZnU4Ty1IU1Q3STQ4MXg4cnJtdHA5OGlvQkNqVlB5NmR3UmZlOUxyeERLRW1VYTcyUmhmN1FnTV8yemFMOE1MdFMySQ?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
   {
    "title": "Michigan senator flags power and water risks from incoming data centers",
    "dek": "A state senator is alerting local officials that new data centers could drive up electricity rates and strain water supplies in Michigan suburbs. Communities without strong local rules may end up subsidizing the facilities through higher utility bills. The warning targets growing interest in data-center sites across metro Detroit and surrounding counties.",
@@ -167,23 +184,6 @@
    "origin": "google-news",
    "source_title": "Monroe Township has requested the dismissal of a $300 million lawsuit against its data center ban - Inquirer.com",
    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONngwbXp2WmtTNDBJcGJVaF9IVjNwN29MTmV1TFl5VjhQRGVBVGd3amVDOTZVbUREdUpEU3BLbUcxWmQ0V2h0UnNGRHBRLUppTHBsQUF3VzMzT0dMWVZtb19sNWpBb2FOTlhNdU5NUWpucGxDUUhMQzRUWnZHSThGUW1EYnlQN3ZfMW1FeXVLVVFVbTBncTNoN2pxZGFFVUcxQkI2R3Ywbw?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
-  },
-  {
-   "title": "Data center opponent defeats incumbent in Michigan House primary",
-   "dek": "A candidate who campaigned against data center growth won a Democratic primary for state House in Michigan. The victory highlights growing voter pushback on power and water demands from these projects. It shifts the local fight into the state legislature for the affected district.",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR2ZUQlJqc21rRWZtOG4wdlZTcHhGYU1fX1I4eXgwVmlyZVlqeTdseFVXU1d3V2stZ1IxTERoSlI2aGVhRUthejNCOXNzdVRLaldSUHdoaUhMaFZDMUUwVHBTSGtrUG45MFNGR1Bwdm5TR3BJSHQ0aXVhVktSSjVjdzhqaFpKSWxyMUF6andjemdSM0JPcGlmaS1kR1RuTVUwQzNKazNSb2ZOd0t3ZzJCVWFOTXIwdTVqcXBacGduZ214aUtsQ0JMaEZhUQ?oc=5",
-   "source": "Mother Jones",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Policy",
-   "iso": "2026-08-05T18:08:01Z",
-   "id": "d29ce1c727bb",
-   "origin": "google-news",
-   "source_title": "This Data Center Foe Just Won His Democratic House Primary in Michigan - Mother Jones",
-   "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR2ZUQlJqc21rRWZtOG4wdlZTcHhGYU1fX1I4eXgwVmlyZVlqeTdseFVXU1d3V2stZ1IxTERoSlI2aGVhRUthejNCOXNzdVRLaldSUHdoaUhMaFZDMUUwVHBTSGtrUG45MFNGR1Bwdm5TR3BJSHQ0aXVhVktSSjVjdzhqaFpKSWxyMUF6andjemdSM0JPcGlmaS1kR1RuTVUwQzNKazNSb2ZOd0t3ZzJCVWFOTXIwdTVqcXBacGduZ214aUtsQ0JMaEZhUQ?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
   }
