@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-09T05:13:40+00:00",
+ "updated_at": "2026-08-09T06:11:30+00:00",
  "generator": "grok-wire-agent",
  "items": [
   {
@@ -20,26 +20,7 @@
    "headline_rewritten": true,
    "judge_score": 9,
    "judge_note": "Major new development: AG Nessel escalates her PSC challenge with a formal appeal targeting specific 1.4-GW contracts, moving beyond her earlier demand for answ"
-  },
-  {
-   "iso": "2026-08-07T18:00:00Z",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "tag": "Policy",
-   "title": "Michigan Bills Would Require Data Centers to Pay Their Own Power and Community Costs",
-   "dek": "Democrats' package mandates 15- to 20-year contracts, 90% clean energy, and binding local agreements so residents do not cover water, electricity, or decommissioning expenses.",
-   "source": "MultiState",
-   "url": "https://www.multistate.us/insider/2026/7/15/michigan-data-center-legislation-targets-energy-use-and-community-benefits",
-   "breaking": false,
-   "lead": false,
-   "id": "2799cfd22143",
-   "kind": "national",
-   "filed_at": "2026-08-07T23:08:39+00:00",
-   "accuracy": "checked-rewritten",
-   "headline_rewritten": true,
-   "judge_score": 8,
-   "judge_note": "Concrete legislative package with specific mandates (15-20 year contracts, 90% clean energy, cost-shifting provisions) — a real filing/proposal, not just talk."
   }
  ],
- "accuracy_checked_at": "2026-08-09T05:13:40+00:00"
+ "accuracy_checked_at": "2026-08-09T06:11:30+00:00"
 }
