@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://bridgemi.com/michigan-government/progressives-rally-for-abdul-el-sayed-4-takeaways-from-bernie-sanders-aoc/",
-   "title": "Sanders and Ocasio-Cortez Rally for El-Sayed, Hit Corporate Spending",
-   "at": "2026-07-19T23:02:29+00:00",
-   "by": "news_judge",
-   "note": "score 2/10: Campaign rally coverage with no connection to data centers or the Michigan Data Center Tracker's beat."
-  },
-  {
    "url": "https://michiganadvance.com/2026/07/19/in-michigan-the-price-of-energy-is-on-the-ballot-and-both-parties-know-it/",
    "title": "Gas Prices and Energy Costs Drive Midterm Frustration in Michigan",
    "at": "2026-07-19T23:02:29+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-09T15:41:29+00:00",
    "by": "news_judge",
    "note": "score 4/10: Educational session providing general information rather than reporting a specific decision, filing, or official action by a governing body."
+  },
+  {
+   "url": "https://www.pressreader.com/usa/detroit-free-press/20260808/281694031595539",
+   "title": "FCC Drafts Measure Targeting Chinese Components in U.S. Data Centers",
+   "at": "2026-08-09T16:46:46+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National security/regulatory story with no Michigan angle, no concrete action taken yet (only 'preparing rules'), and minimal relevance to Michigan's data cente"
   }
  ],
  "auto_published": [
