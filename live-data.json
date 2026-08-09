@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-09T13:08:23Z",
+ "updated_at": "2026-08-09T14:10:14Z",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -17,6 +17,21 @@
    "source_title": "State senator warns communities about data centers - C&G Newspapers",
    "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNWpEaV9ub3JkclFDNVppVjdBVXFoZmtERFRjOVpQY21FNHpCdXZGSzFhWS1uTm51dUVLUEVmV1RGVlNpZXV1X2JvNWN0UEhrYTg0YzBQYm5xRDdhejRsSzE5dldXR2RMMVV1clBKSG1vQjIxbldieTREZzJ4a2xpdUlLck4tcXlMRXJnck9fdVZra2x1bWFyZE5OeGNfZnNNWTFqSA?oc=5",
    "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
+  {
+   "iso": "2026-08-09T12:00:00+00:00",
+   "region": "metro",
+   "cat": "Washtenaw Co.",
+   "tag": "Explainers",
+   "title": "Ypsilanti Data Center Plan Spotlights Water and Power Tradeoffs",
+   "dek": "EMU hydrogeologist Christopher Gellasch said closed-loop cooling can reuse groundwater without warming the subsurface, while activist Peter Sinclair noted possible new energy infrastructure as a community benefit.",
+   "source": "Eastern Echo",
+   "url": "https://www.easternecho.com/article/2026/08/environmental-experts-explain-data-center-benefits-risks-for-communities",
+   "breaking": false,
+   "lead": true,
+   "id": "7ef9dcadfd35",
+   "accuracy": "checked-rewritten",
    "judge_score": 6
   },
   {
@@ -171,23 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR2ZUQlJqc21rRWZtOG4wdlZTcHhGYU1fX1I4eXgwVmlyZVlqeTdseFVXU1d3V2stZ1IxTERoSlI2aGVhRUthejNCOXNzdVRLaldSUHdoaUhMaFZDMUUwVHBTSGtrUG45MFNGR1Bwdm5TR3BJSHQ0aXVhVktSSjVjdzhqaFpKSWxyMUF6andjemdSM0JPcGlmaS1kR1RuTVUwQzNKazNSb2ZOd0t3ZzJCVWFOTXIwdTVqcXBacGduZ214aUtsQ0JMaEZhUQ?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Washtenaw voters kill $1B data center rezoning in rural township",
-   "dek": "Residents near Ann Arbor voted down rezoning that would have allowed a billion-dollar data center project. The decision blocks large-scale development that would have drawn heavy power and water use in the area. Local opposition focused on impacts to farmland and infrastructure in the township.",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLUxIelItQ2FjczhyTDJ0VkJsU3FRZ0w4ZTFYVkhjRXVuUXZ5eU9NMlJnOFpkUy1LYkZpdVhzd2NFM0YwczFIRktxUmotajNxTUpzcDc4Ri1WQmJRZ21ITzA4bDJaeDRkb0FpbVJrRVFVUHFkdjEteTdTSlNFeVUzemVrdWQ5OFJDNm5uaE53?oc=5",
-   "source": "Crain's Detroit Business",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Local Government",
-   "iso": "2026-08-05T17:28:00Z",
-   "id": "abecb45331ad",
-   "origin": "google-news",
-   "source_title": "Residents reject rezoning for $1B data center in a rural community near Ann Arbor - Crain's Detroit Business",
-   "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLUxIelItQ2FjczhyTDJ0VkJsU3FRZ0w4ZTFYVkhjRXVuUXZ5eU9NMlJnOFpkUy1LYkZpdVhzd2NFM0YwczFIRktxUmotajNxTUpzcDc4Ri1WQmJRZ21ITzA4bDJaeDRkb0FpbVJrRVFVUHFkdjEteTdTSlNFeVUzemVrdWQ5OFJDNm5uaE53?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 9
   }
  ],
  "national": {
