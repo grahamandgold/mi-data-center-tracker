@@ -1,11 +1,11 @@
 {
  "date": "2026-08-09",
- "title": "Mornings with Graham & Emmy",
- "episode_title": "Mason County Grid Faces AI Data Center Surge — Who Pays for Upgrades?",
- "show": "Mornings with Graham & Emmy",
- "daypart": "Mornings",
- "teaser": "Western Michigan utilities brace for AI power demand; will rates and reliability hold?",
- "minutes": 7,
+ "title": "Evenings with Graham & Emmy",
+ "episode_title": "Ypsilanti Data Center Plan Spotlights Water and Power Tradeoffs for Michigan Towns",
+ "show": "Evenings with Graham & Emmy",
+ "daypart": "Evenings",
+ "teaser": "Ypsilanti's proposal highlights water reuse, power strain and what it means for bills across the state.",
+ "minutes": 9,
  "audio": "pod/latest.mp3",
  "hosts": [
   "Graham",
