@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-28T12:51:23+00:00",
+ "updated_at": "2026-08-09T11:24:38+00:00",
  "map_points": [
   {
    "name": "Saline Township campus (Stargate)",
@@ -133,17 +133,17 @@
    "name": "Augusta Township Thor Equities",
    "municipality": "Augusta Township",
    "county": "Washtenaw",
-   "status": "Approved",
+   "status": "Rejected by planning commission",
    "layer": "projects",
    "developer": "Thor Equities",
    "power_mw": "",
    "latitude": 42.11,
    "longitude": -83.74,
-   "source_url": "https://www.mlive.com/news/ann-arbor/2025/07/farmland-rezoned-for-proposed-1b-data-center-in-southeast-washtenaw-county.html",
+   "source_url": "https://www.mlive.com/news/ann-arbor/2026/08/rural-residents-challenged-a-data-center-project-near-ann-arbor-nearly-90-of-voters-said-no.html",
    "source_name": "MLive",
-   "verified_date": "2025-07-01",
+   "verified_date": "2026-08-06",
    "confidence": "Confirmed",
-   "note": "522 acres rezoned within 810-acre site. Referendum expected 2026."
+   "note": "Voters rejected rezoning referendum 89.5% to 10.4% on Aug 4, 2026, blocking project."
   },
   {
    "name": "York Township Sansone / Toyota land",
