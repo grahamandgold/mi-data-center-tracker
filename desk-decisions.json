@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNdnhNbGJEaklrcWt0TUlFN2l3LXpaWS1iWU1pSjFmNWZCWm9vNERmdXZZemR6dHJuUXQ1bkJOMzJndy1fX3RVbEk2V2hvNXNYY0tBSkh3VTFOdTEybGc3c3JwM1R4amJfMGJsWGpTcUQ4MjU1U19YQzVvbmNJNTZHYmpBeHp6b21PNW9fWXVHdFpJVmNFSnNaRnRsalJfZW0yVXpsQ2JxX3RlT2RHSXp1RTk2U3dBLTVSNkc1Vm05WEVJN0dNb3dvYnplcmNqOGtYRlU0cFBwRm9VdWVXZVZ4VjBQRXE0alRhX1JKWWtOOEN1ZjZFS3Z3bU93dERoNllIbU1mSVhDVUdScTZvY3BHRS12RXU2aGdIMzBueDVGbGpHclZPVmExcEp2dGQxb1hOclNOS0Nqa1ZJYzZkX0xnbXU0UjhWLWlGUkJ0SXpFcnF0QVBkQW5ZUzhjdkVsTld1RmxadjZEYUFMcS1wU2RPbWhqSkVPdEY3eTJfT2JHMlpsQQ?oc=5",
-   "title": "Warren weighs one-year freeze on new data centers after outages",
-   "at": "2026-07-20T06:57:27+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Same Warren freeze story already live ('Warren Freezes New Data Centers After Storms Down 60+ Power Lines') and previously killed twice with different framings."
-  },
-  {
-   "url": "https://www.hawaiitribune-herald.com/2026/07/19/nation-world-news/us-data-center-protests-go-national-as-backlash-grows/",
-   "title": "Nationwide Protests Target Rapid AI Data Center Expansion Across 42 States",
-   "at": "2026-07-20T16:41:17+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece with no Michigan-specific development; generic coverage of protests across 42 states lacks local relevance."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5BWXU3MzN0bnFZS25pdkRlQnpPRXQ3QkFETTduMFNMR3FBaXhXR0ZXLS13dVJrWVZ2STR2RDJsXzRCSzFOTFJmQ2JMQQ?oc=5",
    "title": "Power grid, water use spark debate over halting new server farms in Michigan city",
    "at": "2026-07-20T16:41:17+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-10T12:11:53+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: This is the same Lowell Township ordinance development already live in the first headline, just reworded."
+  },
+  {
+   "url": "https://michiganadvance.com/2026/08/10/michigan-data-centers-the-weekly-download-3-2-2-2-2-2-2-2/",
+   "title": "Augusta Voters Reject Rezoning for Proposed Data Center",
+   "at": "2026-08-10T18:26:51+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: This is the same Augusta Township rezoning vote already killed in the director's list."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY2V0c2R2WmwxZW5PWE1tclVfUkdZQVJNaXVsdXduU0VtM0lZekJXZ2xLUlB6WmQyaVRXaG1GVWdfdmVuSjZGaDFEYlNNRkJ0SkZ4cEpoOUU2QXpCS2ZOakRRME53MDJLczdMWnE3SVBrQy1ibFgxWGdvdFdOR0Vnc1BCeHNEY09TRGFmUzZVU0xfQVdoVl9iTGpBZ053dVIxTnZOOWNiTy1iQi05Sm1mMGxhSGN3UVpZRVdsUlZzR1hmMTh3bmV2YzhCU2NFYmJhS0RHWWlB?oc=5",
+   "title": "AG Nessel fights DTE power deal for Saline data center",
+   "at": "2026-08-10T18:26:51+00:00",
+   "by": "news_judge",
+   "note": "score 9/10, duplicate: Same appeal filing as candidate [1], just a different headline treatment of the identical court action."
   }
  ],
  "auto_published": [

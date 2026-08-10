@@ -1,6 +1,26 @@
 {
- "updated_at": "2026-08-10T17:30:07+00:00",
+ "updated_at": "2026-08-10T18:26:51+00:00",
  "generator": "grok-wire-agent",
- "items": [],
- "accuracy_checked_at": "2026-08-10T17:30:08+00:00"
+ "items": [
+  {
+   "iso": "2026-08-08T14:00:00+00:00",
+   "region": "metro",
+   "cat": "Washtenaw Co.",
+   "tag": "Power & Grid",
+   "title": "Nessel Appeals DTE Power Deal for 1-Million-Home Saline Data Center",
+   "dek": "Nessel and environmental groups ask the Court of Appeals to void the regulators' approval of DTE contracts that could shift more than $500 million in new infrastructure costs onto ratepayers while shielding the deals from public review.",
+   "source": "Detroit News",
+   "url": "https://www.aol.com/articles/nessel-wants-hold-mpsc-accountable-210656000.html",
+   "breaking": false,
+   "lead": false,
+   "id": "acaf8a60d9f4",
+   "kind": "story",
+   "filed_at": "2026-08-10T18:26:32+00:00",
+   "accuracy": "checked-rewritten",
+   "headline_rewritten": true,
+   "judge_score": 9,
+   "judge_note": "Major new development: Nessel has now filed the actual appeal in court with opening arguments, escalating beyond her earlier demand for answers from the PSC."
+  }
+ ],
+ "accuracy_checked_at": "2026-08-10T18:26:46+00:00"
 }
