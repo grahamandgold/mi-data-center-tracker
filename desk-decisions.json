@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5BWXU3MzN0bnFZS25pdkRlQnpPRXQ3QkFETTduMFNMR3FBaXhXR0ZXLS13dVJrWVZ2STR2RDJsXzRCSzFOTFJmQ2JMQQ?oc=5",
-   "title": "Power grid, water use spark debate over halting new server farms in Michigan city",
-   "at": "2026-07-20T16:41:17+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Vague speculation about a future debate in an unnamed Michigan city; no concrete action, filing, or scheduled hearing reported."
-  },
-  {
-   "url": "https://themanchestermirror.com/2026/07/20/massive-data-center-wins-local-tax-break-but-9-times-smaller-than-requested/",
-   "title": "Saline Township Slashes Oracle Data Center Tax Break to Under $20M a Year",
-   "at": "2026-07-20T20:27:23+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: This is the same Oracle/Saline tax break decision already covered in multiple KILLED stories with identical details (12-year, $4.8B valuation, clawback)."
-  },
-  {
    "url": "https://www.pbs.org/newshour/science/when-can-a-power-company-take-your-land-for-data-center-infrastructure",
    "title": "Power Companies Seek Eminent Domain Authority for Data Center Infrastructure Amid AI Boom",
    "at": "2026-07-20T20:27:23+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-10T18:26:51+00:00",
    "by": "news_judge",
    "note": "score 9/10, duplicate: Same appeal filing as candidate [1], just a different headline treatment of the identical court action."
+  },
+  {
+   "url": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
+   "title": "Amazon's Texas Data Center Plan Raises Concerns Over Massive New Pollution Source",
+   "at": "2026-08-10T19:34:58+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National story about Texas pollution concerns; no Michigan angle or development."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMHpJbVFpME1rNTFPODRnNjhsR0dzQmZZMXltaG1NRldxQWZkMkxKM3RmRm9sQTgtLVkyak9DQ0pxRmYyQTFZWGNhM1FqdFRsQzJ1d0g3a0ZjMnRDWWxUZHFZcnZUZmZZZk0wWmNIeTFPRk1CS1J0VDdJZmhhVnZUSkNkTUdZbjNieGE2WGNWVl9ybmpzMUE?oc=5",
+   "title": "Crain’s Detroit warns data-center growth will test Michigan’s grid and tax base",
+   "at": "2026-08-10T19:34:58+00:00",
+   "by": "news_judge",
+   "note": "score 5/10: Editorial/opinion piece calling for stronger rules but reports no actual policy action or decision."
   }
  ],
  "auto_published": [
@@ -2577,6 +2577,12 @@
    "title": "Michigan data centers hit new tax and power fights this week",
    "judge_score": 6,
    "at": "2026-08-10T15:08:23Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSmp4QllIZjZad0xCUDhNSW1UdVNPUUotbXU1VEVIZVY2SjZENERLOWNXSTFSeW1id2xDMEQxSjAtQldFOFVGdW04UTd2U3dUXzhCWE5oMUF0anJXT0psZVptYWRGc0FMeHJVZWg5cWJBTUIxSXh0VzMtTy0tMWJvQ19rR0RLRi1fOGotQmFqdjlleDJqUVV6bkNaR1d1WXozcTRLWHZSZjNVT2J6aERXbzVuQ1QxQnd5ZzRHZ185ZUJ2MThK?oc=5",
+   "title": "Nessel appeals DTE deal to supply power to Saline data center",
+   "judge_score": 8,
+   "at": "2026-08-10T19:34:58Z"
   }
  ]
 }

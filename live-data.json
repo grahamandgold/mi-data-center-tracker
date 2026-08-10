@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-10T18:26:32+00:00",
+ "updated_at": "2026-08-10T19:34:58Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Nessel appeals DTE deal to supply power to Saline data center",
+   "dek": "Michigan Attorney General Dana Nessel and environmental groups filed opening arguments challenging the contract that would let DTE serve a large data center in Saline. The appeal centers on whether the utility’s rate structure fairly allocates costs for the massive new load. Local residents could see higher electric bills if the contract stands as written.",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSmp4QllIZjZad0xCUDhNSW1UdVNPUUotbXU1VEVIZVY2SjZENERLOWNXSTFSeW1id2xDMEQxSjAtQldFOFVGdW04UTd2U3dUXzhCWE5oMUF0anJXT0psZVptYWRGc0FMeHJVZWg5cWJBTUIxSXh0VzMtTy0tMWJvQ19rR0RLRi1fOGotQmFqdjlleDJqUVV6bkNaR1d1WXozcTRLWHZSZjNVT2J6aERXbzVuQ1QxQnd5ZzRHZ185ZUJ2MThK?oc=5",
+   "source": "News From The States",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Power & Grid",
+   "iso": "2026-08-10T18:18:04Z",
+   "id": "b8f6495428b7",
+   "origin": "google-news",
+   "source_title": "Nessel and environmental groups file initial arguments in appeal of DTE Saline data center contract - News From The States",
+   "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSmp4QllIZjZad0xCUDhNSW1UdVNPUUotbXU1VEVIZVY2SjZENERLOWNXSTFSeW1id2xDMEQxSjAtQldFOFVGdW04UTd2U3dUXzhCWE5oMUF0anJXT0psZVptYWRGc0FMeHJVZWg5cWJBTUIxSXh0VzMtTy0tMWJvQ19rR0RLRi1fOGotQmFqdjlleDJqUVV6bkNaR1d1WXozcTRLWHZSZjNVT2J6aERXbzVuQ1QxQnd5ZzRHZ185ZUJ2MThK?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "Michigan data centers hit new tax and power fights this week",
    "dek": "The weekly Michigan Advance roundup tracks active fights over tax breaks, grid upgrades and water use in several townships. Readers 30 miles from any site feel the direct hit on electric bills and local budgets when big projects win incentives. The report pulls together filings and votes that affect ratepayers statewide.",
@@ -167,23 +184,6 @@
    "origin": "google-news",
    "source_title": "Elon Musk Found A Way Around The Grid. A Michigan Company Says It Can, Too - MITechNews",
    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQVlGTExEdTdJS1JzaUltTVdxTVN6V2FGcDF4cW5UNzJJN0NpTFBFQjJLTjdsNmRscm1uYmtEWk5lQmw3MmgxUWhnY3BtdmFHbmIwNmstY2ZXS3U4ZURiVGVFaEVBclFxbi1lcThfXzd2OXdRMXI5dVBHX3ZPR095enVWMTFQMXEzNmRWeDJaMVVjYmhZczYzbDZ1dVF1cnZXR2oyeG9R?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
-  },
-  {
-   "title": "Detroit drafts data center rules after report flags power strain",
-   "dek": "City planners released a new assessment showing data centers could add hundreds of megawatts of demand on an already tight grid. Residents 30 miles away in suburbs served by DTE will see higher bills if the load is not managed. The rules would set size limits and require developers to pay for grid upgrades.",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMEg3YkRWcEZEX2tNTTJNTkpyMXVwM0tlempmeXkyZTR5amxja0VYcGk4SjNlVE1zNlJrV01VNzZSQy1hNUJYXzQyb3BtbWdFNTVLd1JUOW4zLXhMTHVjd0tKZUZNLVZyNVNJOXI1Qm5LVnBRR2hGbW1oXzkydkJIYnlSWUpldWFYcUxIOTRpZzlSeDIyMmRqRVFJeTVNbmlfNWhaTVVqeW5MV21qTERvNXV1ekJWX2lMN01xcmZWWVM4aFlfTVVKaXNSMDZZNmxqbllBOFNOWkJZejA?oc=5",
-   "source": "The Detroit News",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Wayne",
-   "tag": "Local Government",
-   "iso": "2026-08-07T17:18:00Z",
-   "id": "8815ce2b69ef",
-   "origin": "google-news",
-   "source_title": "Detroit weighs data center rules as report drops amid growing concerns - The Detroit News",
-   "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMEg3YkRWcEZEX2tNTTJNTkpyMXVwM0tlempmeXkyZTR5amxja0VYcGk4SjNlVE1zNlJrV01VNzZSQy1hNUJYXzQyb3BtbWdFNTVLd1JUOW4zLXhMTHVjd0tKZUZNLVZyNVNJOXI1Qm5LVnBRR2hGbW1oXzkydkJIYnlSWUpldWFYcUxIOTRpZzlSeDIyMmRqRVFJeTVNbmlfNWhaTVVqeW5MV21qTERvNXV1ekJWX2lMN01xcmZWWVM4aFlfTVVKaXNSMDZZNmxqbllBOFNOWkJZejA?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
   }
