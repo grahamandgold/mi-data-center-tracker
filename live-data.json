@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-10T04:16:13+00:00",
+ "updated_at": "2026-08-10T05:58:09Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Lowell Twp drafts rules to tame data center growth",
+   "dek": "The planning commission will put forward a new ordinance aimed at data centers. Residents in Kent County and nearby townships could see limits on size, noise and power use if the rules pass. Local officials want to avoid the heavy electricity and water demands that have sparked fights elsewhere in Michigan.",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc0J1LWwxcUFQcE53dHo5cno4MndmTWo5ZVRUQVBLRFZJUXFFRlBZU1VKaXZpcXZDRndJcE5nWU85MTcwcTF0N0pPTXAzS21Iam5WeDlHLVI5NnFhaWpjNXRtQl9TektVOFRremhTWGdNTjgyTHQ5dHQ4V1FoNUlhU3dGZFFWSkNGcWFjQVNvX0ZNaGpWcEhXTw?oc=5",
+   "source": "Yahoo",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Kent",
+   "tag": "Local Government",
+   "iso": "2026-08-10T03:05:00Z",
+   "id": "4403789b477f",
+   "origin": "google-news",
+   "source_title": "Lowell Township planning commission set to propose data center ordinance - Yahoo",
+   "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc0J1LWwxcUFQcE53dHo5cno4MndmTWo5ZVRUQVBLRFZJUXFFRlBZU1VKaXZpcXZDRndJcE5nWU85MTcwcTF0N0pPTXAzS21Iam5WeDlHLVI5NnFhaWpjNXRtQl9TektVOFRremhTWGdNTjgyTHQ5dHQ4V1FoNUlhU3dGZFFWSkNGcWFjQVNvX0ZNaGpWcEhXTw?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "West Michigan township gets first look at data center noise, power and water rules",
    "dek": "Local officials heard details on how large server farms could affect roads, electric demand and noise levels in their community. Residents 30 miles away could see higher utility rates or new zoning limits if similar projects spread. The presentation focused on drafting local ordinances before any applications arrive.",
@@ -169,23 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeU1NVGJnZk12eTZTVVBGdUp0eDlBVXFmcDVhbXQ0VGdBc2hfbWxrcW1qRGVpTk5VQXJzRnkybUNSQng0ZExWZ1dKQ19BNFNPSTV5UXZXWmlfbzdJb3JKUXJjMTZxTmRWTDVjT08wM1p4Y051eXBiUlVHZWpDVXM3RnpzcEpHZ0RPOTZRVG5iZXBSQ240TFI0SjJWSlNiWGpwcUstRjR1MjFSamhqSWVoN202RzE0UQ?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
-  },
-  {
-   "title": "Monroe Twp moves to kill $300M lawsuit over its data center ban",
-   "dek": "Monroe Township wants a federal judge to toss a $300 million suit filed by a data-center developer after the township banned new facilities. The case centers on whether local governments can block projects that would draw massive power and water loads. Residents 30 miles away in southeast Michigan have a direct stake in whether the ban holds or gets overturned in court.",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONngwbXp2WmtTNDBJcGJVaF9IVjNwN29MTmV1TFl5VjhQRGVBVGd3amVDOTZVbUREdUpEU3BLbUcxWmQ0V2h0UnNGRHBRLUppTHBsQUF3VzMzT0dMWVZtb19sNWpBb2FOTlhNdU5NUWpucGxDUUhMQzRUWnZHSThGUW1EYnlQN3ZfMW1FeXVLVVFVbTBncTNoN2pxZGFFVUcxQkI2R3Ywbw?oc=5",
-   "source": "Inquirer.com",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Monroe",
-   "tag": "Local Government",
-   "iso": "2026-08-05T19:28:02Z",
-   "id": "49926dbde552",
-   "origin": "google-news",
-   "source_title": "Monroe Township has requested the dismissal of a $300 million lawsuit against its data center ban - Inquirer.com",
-   "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONngwbXp2WmtTNDBJcGJVaF9IVjNwN29MTmV1TFl5VjhQRGVBVGd3amVDOTZVbUREdUpEU3BLbUcxWmQ0V2h0UnNGRHBRLUppTHBsQUF3VzMzT0dMWVZtb19sNWpBb2FOTlhNdU5NUWpucGxDUUhMQzRUWnZHSThGUW1EYnlQN3ZfMW1FeXVLVVFVbTBncTNoN2pxZGFFVUcxQkI2R3Ywbw?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {
