@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://fortune.com/2026/07/19/data-center-eminent-domain-public-use/",
-   "title": "Michigan Landowners Face Forced Sales for AI Data Center Power Lines",
-   "at": "2026-07-20T06:57:27+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece about eminent domain in other states (Georgia, Pennsylvania) with only generic Michigan framing; no Michigan-specific decision or developme"
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNdnhNbGJEaklrcWt0TUlFN2l3LXpaWS1iWU1pSjFmNWZCWm9vNERmdXZZemR6dHJuUXQ1bkJOMzJndy1fX3RVbEk2V2hvNXNYY0tBSkh3VTFOdTEybGc3c3JwM1R4amJfMGJsWGpTcUQ4MjU1U19YQzVvbmNJNTZHYmpBeHp6b21PNW9fWXVHdFpJVmNFSnNaRnRsalJfZW0yVXpsQ2JxX3RlT2RHSXp1RTk2U3dBLTVSNkc1Vm05WEVJN0dNb3dvYnplcmNqOGtYRlU0cFBwRm9VdWVXZVZ4VjBQRXE0alRhX1JKWWtOOEN1ZjZFS3Z3bU93dERoNllIbU1mSVhDVUdScTZvY3BHRS12RXU2aGdIMzBueDVGbGpHclZPVmExcEp2dGQxb1hOclNOS0Nqa1ZJYzZkX0xnbXU0UjhWLWlGUkJ0SXpFcnF0QVBkQW5ZUzhjdkVsTld1RmxadjZEYUFMcS1wU2RPbWhqSkVPdEY3eTJfT2JHMlpsQQ?oc=5",
    "title": "Warren weighs one-year freeze on new data centers after outages",
    "at": "2026-07-20T06:57:27+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-10T11:16:15+00:00",
    "by": "news_judge",
    "note": "score 4/10: National trend piece about lending practices with only vague references to Virginia and Illinois, lacks Michigan-specific development or concrete local action."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSUlUSFlud3RESU1yUWpCNXZNR0drVFl5MGxXUmFEOHpUSFNtbGpnaUs1TmNVUEtDYlBrem1yX2VYTjd0SkpzeUZORHJQeDhjZnZVWl91VFhtWF9XcFZOWlVySG85bUhxRXlhMjNtWTRibmVnY2ZrWWRMbndwSWN5XzlBN0ZnRVV1NzFjalJjRk95QQ?oc=5",
+   "title": "Lowell Township readies ordinance to steer data center growth",
+   "at": "2026-08-10T12:11:53+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This is the same Lowell Township ordinance development already live in the first headline, just reworded."
   }
  ],
  "auto_published": [
