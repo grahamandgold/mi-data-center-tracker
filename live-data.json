@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-10T13:59:21+00:00",
+ "updated_at": "2026-08-10T15:08:23Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Michigan data centers hit new tax and power fights this week",
+   "dek": "The weekly Michigan Advance roundup tracks active fights over tax breaks, grid upgrades and water use in several townships. Readers 30 miles from any site feel the direct hit on electric bills and local budgets when big projects win incentives. The report pulls together filings and votes that affect ratepayers statewide.",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaU1SZ0tmRVJlYWFJc1VJakZhbFk4UFdBQndIMUtjYlVySFVlbkdqbmE4STJhT0x4M2dETHVTckN4SlFQX1h5MlFHQlNxRE15MU93R1JtSzBQal9wOVhjVzBhZGV5UXZ5WFpsWHBsdGFjdmVUMUxUbEZpa3hpR1dYMlFGcXFUZE1fMlY4aDd6dWREYU12eE40V2VZRGpKQQ?oc=5",
+   "source": "Michigan Advance",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Policy",
+   "iso": "2026-08-10T10:03:01Z",
+   "id": "909282ce5ce1",
+   "origin": "google-news",
+   "source_title": "Michigan Data Centers: The Weekly Download - Michigan Advance",
+   "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaU1SZ0tmRVJlYWFJc1VJakZhbFk4UFdBQndIMUtjYlVySFVlbkdqbmE4STJhT0x4M2dETHVTckN4SlFQX1h5MlFHQlNxRE15MU93R1JtSzBQal9wOVhjVzBhZGV5UXZ5WFpsWHBsdGFjdmVUMUxUbEZpa3hpR1dYMlFGcXFUZE1fMlY4aDd6dWREYU12eE40V2VZRGpKQQ?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
   {
    "title": "Lowell Twp drafts rules to tame data center growth",
    "dek": "The planning commission will put forward a new ordinance aimed at data centers. Residents in Kent County and nearby townships could see limits on size, noise and power use if the rules pass. Local officials want to avoid the heavy electricity and water demands that have sparked fights elsewhere in Michigan.",
@@ -169,23 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMEg3YkRWcEZEX2tNTTJNTkpyMXVwM0tlempmeXkyZTR5amxja0VYcGk4SjNlVE1zNlJrV01VNzZSQy1hNUJYXzQyb3BtbWdFNTVLd1JUOW4zLXhMTHVjd0tKZUZNLVZyNVNJOXI1Qm5LVnBRR2hGbW1oXzkydkJIYnlSWUpldWFYcUxIOTRpZzlSeDIyMmRqRVFJeTVNbmlfNWhaTVVqeW5MV21qTERvNXV1ekJWX2lMN01xcmZWWVM4aFlfTVVKaXNSMDZZNmxqbllBOFNOWkJZejA?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Dowagiac neighbors say data center noise runs nonstop",
-   "dek": "A Cass County facility operates around the clock and residents describe the sound as constant and disturbing. The complaint highlights real-world quality-of-life costs that arrive with data-center projects even after they are built. Local officials have no immediate fix, leaving nearby homeowners to absorb the impact.",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVlVIRGR3MlBkR1BzRDZwVnRLU2lvRDF4U2d5N1Q2djgtZFpfZnFnOWR2ZG1pNjhGdnFSZkdLRFJJOGxSOXVTa1RXSmhsWGhLYmF4TW5vZlozajZ6NEtyY3FMVkxtdG5KWHRtN3FpemI0dk9QQnlPQ3RaUFFYLVhKT1FIT0pvdHZxYXVoZW02U01CN1VUWEl6N1pQRkZsNGJtcW9QaXJGYTBubXdmQkVjelZDOEl0aFVjNkZKa21tMk14a0NrUmN4Y3llRXBycGdyNXFaZzNfeU15dw?oc=5",
-   "source": "NewsBreak: Local News & Alerts",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Cass",
-   "tag": "Local Government",
-   "iso": "2026-08-06T17:19:05Z",
-   "id": "5e19bbe2a906",
-   "origin": "google-news",
-   "source_title": "A Dowagiac Data Center Runs 24/7 And Neighbors Say It Screams Like A Demon - NewsBreak: Local News & Alerts",
-   "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVlVIRGR3MlBkR1BzRDZwVnRLU2lvRDF4U2d5N1Q2djgtZFpfZnFnOWR2ZG1pNjhGdnFSZkdLRFJJOGxSOXVTa1RXSmhsWGhLYmF4TW5vZlozajZ6NEtyY3FMVkxtdG5KWHRtN3FpemI0dk9QQnlPQ3RaUFFYLVhKT1FIT0pvdHZxYXVoZW02U01CN1VUWEl6N1pQRkZsNGJtcW9QaXJGYTBubXdmQkVjelZDOEl0aFVjNkZKa21tMk14a0NrUmN4Y3llRXBycGdyNXFaZzNfeU15dw?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {
