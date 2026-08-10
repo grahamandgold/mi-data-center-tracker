@@ -245,7 +245,7 @@ window.MDCT_SOCIAL = {
 /* Rebuild by hand or with: node scripts/compute-stats.mjs                    */
 window.MDCT_STATS = {
   "projects": 20,
-  "activeProjects": 15,
+  "activeProjects": 14,
   "disclosedGW": "3.0",
   "pauses": 36,
   "communities": 77,
@@ -257,7 +257,7 @@ window.MDCT_STATS = {
     },
     {
       "label": "Approved",
-      "count": 3,
+      "count": 2,
       "color": "#E03131"
     },
     {
@@ -267,7 +267,7 @@ window.MDCT_STATS = {
     },
     {
       "label": "Withdrawn / rejected",
-      "count": 5,
+      "count": 6,
       "color": "#6f6a64"
     }
   ],
