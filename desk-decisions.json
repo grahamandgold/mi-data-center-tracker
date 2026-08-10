@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.pbs.org/newshour/science/when-can-a-power-company-take-your-land-for-data-center-infrastructure",
-   "title": "Power Companies Seek Eminent Domain Authority for Data Center Infrastructure Amid AI Boom",
-   "at": "2026-07-20T20:27:23+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece on eminent domain broadly, not a specific Michigan decision or filing despite vague reference to state Supreme Court."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdzdtbU9PRkxLRldsSGxMUnBhZmFTeTNqUUxCcTNvUTBqdGxaYnUwLVhtOUVDd1RpZUwzd2YtOU02cjZyOXJ3MlFnYUw3UmhkLW93Q2E1ZEs1RTE5OUlfSkVHTWtrQzdJcHF0c0ZaWWJwSElURXpSazFvZ3pDOEtNQi1DYlN2VHA2eWQtM0hidkVQZjNXcFFEREFoLWdmMzJmUTQ2Z1pRUzZLNnhmVHZZdVdMdUdQQVE?oc=5",
-   "title": "Michigan city keeps data center moratorium in place after denial",
-   "at": "2026-07-20T20:27:23+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Too vague—no city named, no specific vote date or details provided; reads like thin rehash without concrete reporting."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORlNSblFJblU1Z2dTMVhXdWl1alhRZ2VZUVZ6YW5KN3VDN2UzTDhmM1owaUtrR2pqT3VoODZ4bm5XbTRwX3NZdmFwNXo3SWdzNVdXOERhYmdoNDhLS0phUmpJSDlIOHJOLXIyNGtITnNydlFBbTluM3RKSHhaS2ZWbDZRTzQtNlNMWWJtYndqajViNWVrWUE?oc=5",
    "title": "Wortz blocks eminent domain for data centers and renewables",
    "at": "2026-07-20T20:27:23+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-10T19:34:58+00:00",
    "by": "news_judge",
    "note": "score 5/10: Editorial/opinion piece calling for stronger rules but reports no actual policy action or decision."
+  },
+  {
+   "url": "https://www.aol.com/articles/nessel-wants-hold-mpsc-accountable-210656000.html",
+   "title": "Attorney General Nessel appeals MPSC approval of Saline Township data center energy contracts",
+   "at": "2026-08-10T20:18:36+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: Duplicate of already-live 'Nessel appeals DTE deal to supply power to Saline data center' — same appeal, same project."
+  },
+  {
+   "url": "https://www.reuters.com/legal/transactional/lenders-scrutinize-us-data-center-financing-community-opposition-builds-2026-08-10/",
+   "title": "Lenders tighten scrutiny on data center projects amid rising community pushback",
+   "at": "2026-08-10T20:18:36+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicate of already-killed 'Banks Add Community Checks to Data Center Loan Reviews' — same national lending trend, no Michigan angle."
   }
  ],
  "auto_published": [

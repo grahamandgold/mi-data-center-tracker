@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-10T19:34:58Z",
+ "updated_at": "2026-08-10T20:18:29+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -203,6 +203,20 @@
   "accuracy": "checked"
  },
  "meetings": [
+  {
+   "iso": "2026-08-10",
+   "body": "Rochester Hills City Council",
+   "topic": "Vote on extending six-month data center moratorium for another 180 days",
+   "region": "SE Michigan",
+   "regionKey": "metro",
+   "county": "Oakland",
+   "time": "7:00 PM",
+   "status": "Board meeting",
+   "urgent": true,
+   "link": "https://roch.legistar.com/DepartmentDetail.aspx?ID=1&GUID=1D32E0BE-D83A-4F6E-8004-CD58A806CE5F&Mode=MainBody",
+   "linkLabel": "Agenda",
+   "stream": "https://roch.legistar.com/"
+  },
   {
    "iso": "2026-08-10",
    "body": "London Township Board of Trustees",
