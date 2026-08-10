@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://michiganadvance.com/2026/07/19/in-michigan-the-price-of-energy-is-on-the-ballot-and-both-parties-know-it/",
-   "title": "Gas Prices and Energy Costs Drive Midterm Frustration in Michigan",
-   "at": "2026-07-19T23:02:29+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: Generic energy-cost election story that mentions clean energy but lacks any specific data-center angle or development."
-  },
-  {
    "url": "https://www.politico.com/news/2026/07/19/a-better-way-to-be-relevant-greens-embrace-data-center-fight-01000250",
    "title": "Major Environmental Groups Join Fights Over Data Center Expansion Nationwide",
    "at": "2026-07-19T23:02:29+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-09T16:46:46+00:00",
    "by": "news_judge",
    "note": "score 3/10: National security/regulatory story with no Michigan angle, no concrete action taken yet (only 'preparing rules'), and minimal relevance to Michigan's data cente"
+  },
+  {
+   "url": "https://www.reddit.com/r/technology/comments/1vk2qlt/kansas_town_silences_public_comment_on_gigawatt/",
+   "title": "Kansas Town Limits Public Comment on Proposed Gigawatt AI Data Center",
+   "at": "2026-08-10T07:57:35+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece about Kansas meeting procedures with no Michigan angle or concrete development."
   }
  ],
  "auto_published": [
@@ -2565,6 +2565,12 @@
    "title": "Lowell Twp drafts rules to tame data center growth",
    "judge_score": 7,
    "at": "2026-08-10T05:58:09Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSXFXOVctR0ttOU85OXU1SEZ6a1Q0ZFljUW1EUGQ2LXR2eHhvRmhpVnFiY0pIc1BoQkFRR2FxV3pRYzZtWGh1OTlOWGc5YlNLQWpRYWhvZG1LSEI1QllpYUJwTWVkX0I2RnRNRzh1eFZGMmFGVVRiY01MR2ZYVTVPZlE1bjc?oc=5",
+   "title": "Nessel pushes PSC to block data center cost shifts to ratepayers",
+   "judge_score": 8,
+   "at": "2026-08-10T07:57:35Z"
   }
  ]
 }

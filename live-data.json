@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-10T05:58:09Z",
+ "updated_at": "2026-08-10T07:57:35Z",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -18,6 +18,23 @@
    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc0J1LWwxcUFQcE53dHo5cno4MndmTWo5ZVRUQVBLRFZJUXFFRlBZU1VKaXZpcXZDRndJcE5nWU85MTcwcTF0N0pPTXAzS21Iam5WeDlHLVI5NnFhaWpjNXRtQl9TektVOFRremhTWGdNTjgyTHQ5dHQ4V1FoNUlhU3dGZFFWSkNGcWFjQVNvX0ZNaGpWcEhXTw?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
+  },
+  {
+   "title": "Nessel pushes PSC to block data center cost shifts to ratepayers",
+   "dek": "Attorney General Dana Nessel called on the Public Service Commission to stop utilities from passing data center infrastructure costs to regular customers. The move targets large power deals that could raise monthly bills across Michigan. Nessel said the commission must protect residents from hidden subsidies for big tech projects.",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSXFXOVctR0ttOU85OXU1SEZ6a1Q0ZFljUW1EUGQ2LXR2eHhvRmhpVnFiY0pIc1BoQkFRR2FxV3pRYzZtWGh1OTlOWGc5YlNLQWpRYWhvZG1LSEI1QllpYUJwTWVkX0I2RnRNRzh1eFZGMmFGVVRiY01MR2ZYVTVPZlE1bjc?oc=5",
+   "source": "AOL.com",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Policy",
+   "iso": "2026-08-09T21:12:39Z",
+   "id": "368c431aec3e",
+   "origin": "google-news",
+   "source_title": "Nessel wants to hold PSC 'accountable' in fight against data center - AOL.com",
+   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSXFXOVctR0ttOU85OXU1SEZ6a1Q0ZFljUW1EUGQ2LXR2eHhvRmhpVnFiY0pIc1BoQkFRR2FxV3pRYzZtWGh1OTlOWGc5YlNLQWpRYWhvZG1LSEI1QllpYUJwTWVkX0I2RnRNRzh1eFZGMmFGVVRiY01MR2ZYVTVPZlE1bjc?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
   },
   {
    "title": "West Michigan township gets first look at data center noise, power and water rules",
@@ -169,23 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVlVIRGR3MlBkR1BzRDZwVnRLU2lvRDF4U2d5N1Q2djgtZFpfZnFnOWR2ZG1pNjhGdnFSZkdLRFJJOGxSOXVTa1RXSmhsWGhLYmF4TW5vZlozajZ6NEtyY3FMVkxtdG5KWHRtN3FpemI0dk9QQnlPQ3RaUFFYLVhKT1FIT0pvdHZxYXVoZW02U01CN1VUWEl6N1pQRkZsNGJtcW9QaXJGYTBubXdmQkVjelZDOEl0aFVjNkZKa21tMk14a0NrUmN4Y3llRXBycGdyNXFaZzNfeU15dw?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
-  },
-  {
-   "title": "Pittsfield Township tightens data center zoning to curb sprawl",
-   "dek": "Pittsfield Township is drafting zoning changes aimed at data centers after residents raised alarms over noise, traffic and power demand. The rules would affect future projects near Ann Arbor and could set a template for other Washtenaw County townships. Local taxpayers may face higher utility rates if large facilities strain the grid without new safeguards.",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeU1NVGJnZk12eTZTVVBGdUp0eDlBVXFmcDVhbXQ0VGdBc2hfbWxrcW1qRGVpTk5VQXJzRnkybUNSQng0ZExWZ1dKQ19BNFNPSTV5UXZXWmlfbzdJb3JKUXJjMTZxTmRWTDVjT08wM1p4Y051eXBiUlVHZWpDVXM3RnpzcEpHZ0RPOTZRVG5iZXBSQ240TFI0SjJWSlNiWGpwcUstRjR1MjFSamhqSWVoN202RzE0UQ?oc=5",
-   "source": "WEMU",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Local Government",
-   "iso": "2026-08-06T09:27:00Z",
-   "id": "c3915b500af6",
-   "origin": "google-news",
-   "source_title": "Pittsfield Township considering zoning amendments to address data centers - WEMU",
-   "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeU1NVGJnZk12eTZTVVBGdUp0eDlBVXFmcDVhbXQ0VGdBc2hfbWxrcW1qRGVpTk5VQXJzRnkybUNSQng0ZExWZ1dKQ19BNFNPSTV5UXZXWmlfbzdJb3JKUXJjMTZxTmRWTDVjT08wM1p4Y051eXBiUlVHZWpDVXM3RnpzcEpHZ0RPOTZRVG5iZXBSQ240TFI0SjJWSlNiWGpwcUstRjR1MjFSamhqSWVoN202RzE0UQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {
@@ -202,6 +202,21 @@
   "id": "02d7912fe03d",
   "accuracy": "checked"
  },
- "meetings": [],
+ "meetings": [
+  {
+   "iso": "2026-08-10",
+   "body": "Lowell Charter Township Planning Commission",
+   "topic": "Proposal of data center ordinance amid ongoing project discussions",
+   "region": "West Michigan",
+   "regionKey": "west",
+   "county": "Kent",
+   "time": "7:00 PM",
+   "status": "Planning commission",
+   "urgent": true,
+   "link": "https://lowell.civicweb.net/Portal/MeetingInformation.aspx?Id=1214",
+   "linkLabel": "Agenda",
+   "stream": ""
+  }
+ ],
  "accuracy_checked_at": "2026-07-08T08:45:16+00:00"
 }
