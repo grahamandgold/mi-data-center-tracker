@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-10T21:22:37Z",
+ "updated_at": "2026-08-10T22:10:10+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -206,7 +206,7 @@
   {
    "iso": "2026-08-10",
    "body": "Rochester Hills City Council",
-   "topic": "Vote on extending six-month data center moratorium by another 180 days",
+   "topic": "Vote on extending six-month data center moratorium by 180 days",
    "region": "SE Michigan",
    "regionKey": "metro",
    "county": "Oakland",
