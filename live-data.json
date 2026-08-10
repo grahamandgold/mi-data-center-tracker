@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-10T09:43:10+00:00",
+ "updated_at": "2026-08-10T11:16:04+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -205,17 +205,31 @@
  "meetings": [
   {
    "iso": "2026-08-10",
+   "body": "London Township Board of Trustees",
+   "topic": "Data Center Ordinance",
+   "region": "SE Michigan",
+   "regionKey": "metro",
+   "county": "Monroe",
+   "time": "7:30 PM",
+   "status": "Board meeting",
+   "urgent": true,
+   "link": "https://londontwpmi.gov/minutes-agendas/",
+   "linkLabel": "Agenda",
+   "stream": ""
+  },
+  {
+   "iso": "2026-08-10",
    "body": "Lowell Charter Township Planning Commission",
-   "topic": "Proposal of data center ordinance amid ongoing project discussions",
+   "topic": "Data Center Ordinance and Moratorium Proposal",
    "region": "West Michigan",
    "regionKey": "west",
    "county": "Kent",
    "time": "7:00 PM",
    "status": "Planning commission",
    "urgent": true,
-   "link": "https://lowell.civicweb.net/Portal/MeetingInformation.aspx?Id=1214",
+   "link": "https://lowell.civicweb.net/Portal/MeetingTypeList.aspx",
    "linkLabel": "Agenda",
-   "stream": ""
+   "stream": "https://www.youtube.com/@LCTMeetings"
   }
  ],
  "accuracy_checked_at": "2026-07-08T08:45:16+00:00"

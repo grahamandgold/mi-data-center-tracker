@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.politico.com/news/2026/07/19/a-better-way-to-be-relevant-greens-embrace-data-center-fight-01000250",
-   "title": "Major Environmental Groups Join Fights Over Data Center Expansion Nationwide",
-   "at": "2026-07-19T23:02:29+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece about environmental groups and data centers with no Michigan-specific development, filing, or action."
-  },
-  {
    "url": "https://fortune.com/2026/07/19/data-center-eminent-domain-public-use/",
    "title": "Michigan Landowners Face Forced Sales for AI Data Center Power Lines",
    "at": "2026-07-20T06:57:27+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-10T07:57:35+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece about Kansas meeting procedures with no Michigan angle or concrete development."
+  },
+  {
+   "url": "https://kfgo.com/2026/08/10/lenders-scrutinize-us-data-center-financing-as-community-opposition-builds/",
+   "title": "Banks Add Community Checks to Data Center Loan Reviews",
+   "at": "2026-08-10T11:16:15+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: National trend piece about lending practices with only vague references to Virginia and Illinois, lacks Michigan-specific development or concrete local action."
   }
  ],
  "auto_published": [
