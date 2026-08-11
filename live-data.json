@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-11T02:22:13Z",
+ "updated_at": "2026-08-11T04:04:44Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Kalamazoo weighs year-long freeze on new data centers",
+   "dek": "City leaders will debate a moratorium at their next meeting that would block proposals while officials study power and water demands. Residents 30 miles away could see higher electric rates if large projects move forward unchecked. The pause would give local officials time to write rules before any campus breaks ground.",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdVV1Y21QTlJZM0pTRUhXNWFBQkUtZDNmZVdQa05zNG9pZXJTQVdHTUpReWJRZ281N3JrUkVyU0o3QmxudWxTRDBWNXJibzkzaFJPbFhpazd0THRSeU84UDFOb24ycmg4SDJQazdnNlk2VmhCQWNHaVlMdkZ6UERoS1Bud1dZSzFxOVRrUi1BUjh5ZWJyUGV1VjI5X0I4RGM4aHJUNHp0YmVhdWNxYi0xdDkyV3VXVXBZSUpV0gHAAUFVX3lxTFBhTld6LWlmQkEtMkVOdU1sZXNySkU4M1JlSGltcVB2ODNnejNUaEdHSG1JMTB2Z3BsU2dLdWZldm5xdTJGT3pFQV9FNEhONk1UemNNWDExSXlQRi1uaEk4ZG16ZUIwQXkyUElPS25ZbnMtWHdQdGhNQjFsbDV6Ukk2elprSlU3MjBqRWc2SXZZV0hTM1lFdzdMUk54MFVaNjNYaWNmYTZheklaVzJuMmpsaDNGakZpWnNjZDVUcFl2NA?oc=5",
+   "source": "WOODTV.com",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Kalamazoo",
+   "tag": "Local Government",
+   "iso": "2026-08-11T02:18:19Z",
+   "id": "742119bf10c3",
+   "origin": "google-news",
+   "source_title": "Kalamazoo city leaders to consider data center moratorium at next meeting - WOODTV.com",
+   "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdVV1Y21QTlJZM0pTRUhXNWFBQkUtZDNmZVdQa05zNG9pZXJTQVdHTUpReWJRZ281N3JrUkVyU0o3QmxudWxTRDBWNXJibzkzaFJPbFhpazd0THRSeU84UDFOb24ycmg4SDJQazdnNlk2VmhCQWNHaVlMdkZ6UERoS1Bud1dZSzFxOVRrUi1BUjh5ZWJyUGV1VjI5X0I4RGM4aHJUNHp0YmVhdWNxYi0xdDkyV3VXVXBZSUpV0gHAAUFVX3lxTFBhTld6LWlmQkEtMkVOdU1sZXNySkU4M1JlSGltcVB2ODNnejNUaEdHSG1JMTB2Z3BsU2dLdWZldm5xdTJGT3pFQV9FNEhONk1UemNNWDExSXlQRi1uaEk4ZG16ZUIwQXkyUElPS25ZbnMtWHdQdGhNQjFsbDV6Ukk2elprSlU3MjBqRWc2SXZZV0hTM1lFdzdMUk54MFVaNjNYaWNmYTZheklaVzJuMmpsaDNGakZpWnNjZDVUcFl2NA?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "U.P. locals team with comedian to block AI data centers",
    "dek": "Residents in Michigan's Upper Peninsula are pushing back against proposed AI data centers that could strain local power grids and water supplies. Comedian Charlie Berens is amplifying their concerns in public opposition efforts. The fight highlights growing pushback in rural Michigan communities over energy demands from big tech projects.",
@@ -168,23 +185,6 @@
    "lead": true,
    "id": "7ef9dcadfd35",
    "accuracy": "checked-rewritten",
-   "judge_score": 6
-  },
-  {
-   "title": "Mason County questions if local grid can handle data center surge",
-   "dek": "Western Michigan utilities face rising demand from proposed AI facilities that could strain transmission lines and raise rates for homes and factories. Mason County residents are asking whether new power plants or upgrades will be needed and who pays. The discussion ties directly to whether data centers can locate there without blackouts or higher bills.",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPeXl3QWlTWXdxQjNMMkZxZWVSWXFISFdraXlQTGRyRUZOS0Y0ZEV1U0hFLXFNVW5MSWo2emtDbXF1ZC1qU3JvSk9vYm9lVlpEaVpUYUpzUW5iR3k1aGxMLXk1LVdsQ0FyaXlzLUVQemoydmlpbDNzdWFNdWpwVTRlRUtwaVVVRlVwUjhqQmxFR3gwRkRCbUJDM0stS2ZYU25ENV9HZ3QycEdZQ0YyQ3pBUTh3Rjc0bVpTVmdjVEluWkhBbXktTTdnRWVfVzhmbFNQSEdmZFhYRzlRcl9TLVVqdlNCQ0pBbFYwZnhiRk02b2dYZUw3LUtn?oc=5",
-   "source": "Shoreline Media Group",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Mason",
-   "tag": "Power & Grid",
-   "iso": "2026-08-07T22:01:17Z",
-   "id": "df4eac86de34",
-   "origin": "google-news",
-   "source_title": "Does western Michigan - and Mason County - have the power? - Shoreline Media Group",
-   "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPeXl3QWlTWXdxQjNMMkZxZWVSWXFISFdraXlQTGRyRUZOS0Y0ZEV1U0hFLXFNVW5MSWo2emtDbXF1ZC1qU3JvSk9vYm9lVlpEaVpUYUpzUW5iR3k1aGxMLXk1LVdsQ0FyaXlzLUVQemoydmlpbDNzdWFNdWpwVTRlRUtwaVVVRlVwUjhqQmxFR3gwRkRCbUJDM0stS2ZYU25ENV9HZ3QycEdZQ0YyQ3pBUTh3Rjc0bVpTVmdjVEluWkhBbXktTTdnRWVfVzhmbFNQSEdmZFhYRzlRcl9TLVVqdlNCQ0pBbFYwZnhiRk02b2dYZUw3LUtn?oc=5",
-   "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
   }
  ],

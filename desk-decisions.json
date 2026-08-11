@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOU1HUjVqa3BLc0NVRnY1YUhNUTBQT3hBX1JsSmk4TU5NWVJtLXNtaTFpYVJtdXJUYTUxbFVaVTJveUV2bmtXdXVPMnVfMG1wd1cxMmVkNVlxcFcwV3gycHllWUp3aU1qU295VmR0YzdvZG1wZ0VRNk0tYnhWOTcwMXltc1Nmems4RTRPWVpLNVFUQ2xwOVZyaHYzc3ZkQUFESF9VZEZibFAwYzdZcndFbW5DbkxuNmlSdzJSQldfWjlYSWkyaXNKN0dR?oc=5",
-   "title": "Michigan GOP lawmaker faces attack ads over data center stance",
-   "at": "2026-07-20T21:46:28+00:00",
-   "by": "news_judge",
-   "note": "score 5/10: Attack ads targeting a specific lawmaker over data center policy is incremental political fallout but lacks a concrete decision or filing."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85MUhhQ2x5anBtSVlHZjlPVXJHcTZ0aVVZUkl3LV9fd2t0dDgzMW1qSUZSZHB2TTAxRTB2M0ZHbExzdkxudDhvQ2p2a3BQaUZ0QnEwUlZtb0VtdW41R1pkaGJrbVM?oc=5",
    "title": "Michigan activists demand immediate statewide data center moratorium",
    "at": "2026-07-20T23:08:53+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-11T02:22:13+00:00",
    "by": "news_judge",
    "note": "score 2/10: National corporate PR announcement with only tangential Michigan relevance (Louisiana mentioned, no Michigan site specified)."
+  },
+  {
+   "url": "https://wwmt.com/news/local/marshall-data-center-moratorium-delays-development-one-year-alterra-brooks-industrial-park-acres-wetland-lake-energy-environment-calhoun-county-west-michigan",
+   "title": "Marshall Halts Data Center Plans for Year Over Noise and Power Concerns",
+   "at": "2026-08-11T04:04:44+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: This is the same Marshall moratorium already covered in the LIVE story 'Marshall blocks new data centers for a full year' — just a rehash with slightly differen"
   }
  ],
  "auto_published": [
@@ -2601,6 +2601,12 @@
    "title": "U.P. locals team with comedian to block AI data centers",
    "judge_score": 6,
    "at": "2026-08-11T02:22:13Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdVV1Y21QTlJZM0pTRUhXNWFBQkUtZDNmZVdQa05zNG9pZXJTQVdHTUpReWJRZ281N3JrUkVyU0o3QmxudWxTRDBWNXJibzkzaFJPbFhpazd0THRSeU84UDFOb24ycmg4SDJQazdnNlk2VmhCQWNHaVlMdkZ6UERoS1Bud1dZSzFxOVRrUi1BUjh5ZWJyUGV1VjI5X0I4RGM4aHJUNHp0YmVhdWNxYi0xdDkyV3VXVXBZSUpV0gHAAUFVX3lxTFBhTld6LWlmQkEtMkVOdU1sZXNySkU4M1JlSGltcVB2ODNnejNUaEdHSG1JMTB2Z3BsU2dLdWZldm5xdTJGT3pFQV9FNEhONk1UemNNWDExSXlQRi1uaEk4ZG16ZUIwQXkyUElPS25ZbnMtWHdQdGhNQjFsbDV6Ukk2elprSlU3MjBqRWc2SXZZV0hTM1lFdzdMUk54MFVaNjNYaWNmYTZheklaVzJuMmpsaDNGakZpWnNjZDVUcFl2NA?oc=5",
+   "title": "Kalamazoo weighs year-long freeze on new data centers",
+   "judge_score": 8,
+   "at": "2026-08-11T04:04:44Z"
   }
  ]
 }
