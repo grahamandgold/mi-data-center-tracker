@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-10T23:09:01+00:00",
+ "updated_at": "2026-08-11T00:03:36Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Marshall blocks new data centers for a full year",
+   "dek": "The city council approved a moratorium that halts all data-center proposals for at least 12 months. Local residents worried about power demand and noise now have breathing room while planners study impacts. The delay pushes back any large-scale projects that could have drawn hundreds of megawatts from the regional grid.",
+   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNNHFBeGxtMFUzcVg2eEhMbUxwS3RxMzB3aHRna2VQTFNwcFhYUWtTUWRMNWFEc3hEeXg4MnJxZXNKYUZKRjhON0ZJY2p5MzNmWThkQi1penJPWDBZUmlZa2U5V1p5MHBNcTI2NGx6TUpyaDB5V2NGcTJLa01DdzBFMl9jdVdqUG1CTjJwWFhhNk1QYXJuOC1rTUNpd0lkMkJycXE0NUNuTTdkVmtrU1VSdmdTbzlERVNaRzV4RXI2UWFoVnNmLWRmZWE2MXFXRmE0VVpJSVdYWHMwRHI4OV9wX0ZoY1RCRWhQdlVvVmhKVnFJRnp2V1BPdGZ2TE9NRkFqTU9lU2tRYWt2cXhGajI1ZElWUQ?oc=5",
+   "source": "WWMT",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Calhoun",
+   "tag": "Local Government",
+   "iso": "2026-08-10T23:07:40Z",
+   "id": "92091e749a2b",
+   "origin": "google-news",
+   "source_title": "Marshall data center moratorium delays development by at least one year - WWMT",
+   "source_url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNNHFBeGxtMFUzcVg2eEhMbUxwS3RxMzB3aHRna2VQTFNwcFhYUWtTUWRMNWFEc3hEeXg4MnJxZXNKYUZKRjhON0ZJY2p5MzNmWThkQi1penJPWDBZUmlZa2U5V1p5MHBNcTI2NGx6TUpyaDB5V2NGcTJLa01DdzBFMl9jdVdqUG1CTjJwWFhhNk1QYXJuOC1rTUNpd0lkMkJycXE0NUNuTTdkVmtrU1VSdmdTbzlERVNaRzV4RXI2UWFoVnNmLWRmZWE2MXFXRmE0VVpJSVdYWHMwRHI4OV9wX0ZoY1RCRWhQdlVvVmhKVnFJRnp2V1BPdGZ2TE9NRkFqTU9lU2tRYWt2cXhGajI1ZElWUQ?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 9
+  },
   {
    "title": "Developer fights suburb's freeze on power-hungry server farms in court battle",
    "dek": "A developer has filed suit against an Oakland County community after it imposed a temporary halt on new data center projects. The case will test how far local governments can go in pausing large-scale facilities that demand hundreds of megawatts and new grid upgrades. Residents 30 miles away could see higher electric rates or altered tax bases depending on the outcome.",
@@ -169,23 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOS2ZIV295YzQ2SUk2dWRLSmw0YzFXdlRZMXQ1Z3JOYVd3VWNwa0NNclU1dUNleURYNzdjUkkzc3MyVkVYQWo1cW5hLTZ2bzF3VHJmbUdBMDhJbEl3TjdTeFJ3blpfZ1NhQ1UzVE95VUFzWGNkUmN4M09penRkbU1MdkpvZW1oSlE3Y0I3aDh4SUlHRko0aUpyQXJtbW5pRm5hSjV3WGY0dGNpWTdLU3dkMHVDcmpVM255N2U0cHMwWXVyRmFUUVhtcl9WT25sZTR2ZDNpZFA1T1lHQQ?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
-  },
-  {
-   "title": "OpenAI steps in after Michigan water system hack tied to data-center growth",
-   "dek": "OpenAI is offering Michigan state officials help hardening cybersecurity on water utilities that supply cooling for planned data centers. The offer follows a recent attack that exposed vulnerabilities in systems already under strain from AI power and water demands. Michigan readers should watch because any new data-center cluster will rely on the same utilities now being targeted.",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYm8zYXNPUnduZjJ4SjRUejcxR1R3WWtkUThCcHNsV3lKUTJjU0pfX3I5SkFlX3hhcmRJZWxLcUU0MXp1MFdYVENHNjBUbjliOWFuM0xlaVdSTWlLQ05HaU5OWWRLejlYTzY5VE5pTVI3YUZBN191UFU0LXBaRGpoMEtmQTNwdTFLYzgwT0NNa1VHQXhkeExuVzBvOU9JYmJzWFNEOEhkMFR5UQ?oc=5",
-   "source": "Detroit Free Press",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Water",
-   "iso": "2026-08-07T19:41:00Z",
-   "id": "4b5368fa4ef7",
-   "origin": "google-news",
-   "source_title": "OpenAI offers to strengthen Michigan cybersecurity after water infrastructure attack - Detroit Free Press",
-   "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYm8zYXNPUnduZjJ4SjRUejcxR1R3WWtkUThCcHNsV3lKUTJjU0pfX3I5SkFlX3hhcmRJZWxLcUU0MXp1MFdYVENHNjBUbjliOWFuM0xlaVdSTWlLQ05HaU5OWWRLejlYTzY5VE5pTVI3YUZBN191UFU0LXBaRGpoMEtmQTNwdTFLYzgwT0NNa1VHQXhkeExuVzBvOU9JYmJzWFNEOEhkMFR5UQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {
@@ -203,62 +203,6 @@
   "accuracy": "checked"
  },
  "meetings": [
-  {
-   "iso": "2026-08-10",
-   "body": "Rochester Hills City Council",
-   "topic": "Vote on extending six-month data center moratorium by 180 days",
-   "region": "SE Michigan",
-   "regionKey": "metro",
-   "county": "Oakland",
-   "time": "7:00 PM",
-   "status": "Board meeting",
-   "urgent": true,
-   "link": "https://roch.legistar.com/",
-   "linkLabel": "Agenda",
-   "stream": "https://roch.legistar.com/"
-  },
-  {
-   "iso": "2026-08-10",
-   "body": "London Township Board of Trustees",
-   "topic": "Data Center Ordinance",
-   "region": "Mid-Michigan",
-   "regionKey": "mid",
-   "county": "Monroe",
-   "time": "7:30 PM",
-   "status": "Board meeting",
-   "urgent": true,
-   "link": "https://londontwpmi.gov/minutes-agendas/",
-   "linkLabel": "Agenda",
-   "stream": ""
-  },
-  {
-   "iso": "2026-08-10",
-   "body": "Morley Village Planning Commission or Council",
-   "topic": "Public hearing on proposed data center",
-   "region": "Mid-Michigan",
-   "regionKey": "mid",
-   "county": "Mecosta",
-   "time": "TBD",
-   "status": "Public hearing",
-   "urgent": true,
-   "link": "https://www.facebook.com/groups/nogotion/posts/1407053401326239/",
-   "linkLabel": "Agenda/Details",
-   "stream": ""
-  },
-  {
-   "iso": "2026-08-10",
-   "body": "Lowell Charter Township Planning Commission",
-   "topic": "Data Center Ordinance and Moratorium Proposal",
-   "region": "West Michigan",
-   "regionKey": "west",
-   "county": "Kent",
-   "time": "7:00 PM",
-   "status": "Planning commission",
-   "urgent": true,
-   "link": "https://lowell.civicweb.net/Portal/MeetingTypeList.aspx",
-   "linkLabel": "Agenda",
-   "stream": "https://www.youtube.com/@LCTMeetings"
-  },
   {
    "iso": "2026-08-11",
    "body": "Lowell Township Planning Commission",
