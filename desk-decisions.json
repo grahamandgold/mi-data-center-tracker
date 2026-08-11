@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85MUhhQ2x5anBtSVlHZjlPVXJHcTZ0aVVZUkl3LV9fd2t0dDgzMW1qSUZSZHB2TTAxRTB2M0ZHbExzdkxudDhvQ2p2a3BQaUZ0QnEwUlZtb0VtdW41R1pkaGJrbVM?oc=5",
-   "title": "Michigan activists demand immediate statewide data center moratorium",
-   "at": "2026-07-20T23:08:53+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Advocacy group call for action without a specific filing, hearing, or official response; reads like organized pressure campaign rather than concrete development"
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR2R6OFFfNGVkS3FDM2JuS09RR0o3TExGUzhtR0UxOUN4aHdQZ2tUSHBCMFplZ3gtdkhVRDVMV1VPaGhLdG1uMDVEeVBsZ3lKQ1NCaHJIQks2b21vYjlWNVU2cEItb2JZR3ZINjlKcmg0SDR5MEl5V0RSN2hGeHhjZ0QtZktORS1qT1dhcnNacWZwQ3d0NGJsU0l30gGfAUFVX3lxTFBQdXZHbkhkaTlPVzhWZ3pVcmp3QkZ1RXhfeVI1eGV4MmxxZnd6U2h2UVhWbEN0U1Y5NUZhRDhFdnI2c0pyUDJlVEptNlRmU1RhLVFybUIwOWtSUkFJeDU5elJlS09PVUpjYngtUkNEOXVseTExVEJWMlNXQ2F6QjUzaF9ZeXVmYklWdzkwcjJ2bTZpWkZRLUxZN3lBT1VvSQ?oc=5",
-   "title": "Vandals deface billboard fighting Lowell Township data center",
-   "at": "2026-07-21T01:02:51+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Already killed: 'Lowell billboard attacking data center gets vandalized' — same incident, just reversed perspective."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPcXJYZW5nN1dIM0NMVWRBdmIycTlqaDNCM2w2SG4xZ2ZlWmNScHI2OVZoSll5VFNBTGphOWNqSmd3WXdTOWN6eVhqU2FHZ2VuTHpZamt3a0tvQVcxNTVDQWgxV1Ita0NpOGVsRUpkWXRZUVRuNHVJMkw1U0FKLWU3SFhPVHRSUDEzclltTms1N3ZNM2llekV5TVZtRy1KamdZOHVXYzRlQ2VBX3lqdjJQZTVULWlEY2M1YTR2UkRKWjJxVHVxUno4czBXcFRaLVJOTm1uODBFR3RweHpTQjd3X3drTTVSUEZURDFTVEN2ckFpNmNJeXpOZEZjT1hMLTU3WWpjd3JOOFRKRENOekNGWndB?oc=5",
    "title": "Michigan township rebels against Whitmer data center law",
    "at": "2026-07-21T11:58:08+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-11T04:04:44+00:00",
    "by": "news_judge",
    "note": "score 3/10, duplicate: This is the same Marshall moratorium already covered in the LIVE story 'Marshall blocks new data centers for a full year' — just a rehash with slightly differen"
+  },
+  {
+   "url": "https://www.nytimes.com/2026/08/10/business/trump-artificial-intelligence-data-centers-ai.html",
+   "title": "Trump Dismisses Concerns Over AI and Data Center Expansion Despite Protests",
+   "at": "2026-08-11T06:30:53+00:00",
+   "by": "news_judge",
+   "note": "score 2/10: Campaign trail color piece with no concrete Michigan development, just vague references to protesters at rallies."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLWNldHBzNDBnc3BBeUVoX0Nsd1NHS2FXdlBJdU8zLXlUc2RaMFNGaUkxbmN1M1hWcnpTalVoQkx3TWRGZjBlbEw3UFdnbGNXcXpjZHYzUjBFTU9XLUZwTW5FWEZ5Ty0zXzJYOERtenBNSUVwR3c1OEkyOU5LcW4yaWQwNlhnRk1DWFBrcF9LUjRXeDE2ckhIWDFQVk16V1N6SVR0dnFoTUJJNU1jOG5HaVlfNHg0YTFpMHd4ZU5LYmxLM0lyMldzYVdiTUg?oc=5",
+   "title": "Lowell pushes data center rules back by months",
+   "at": "2026-08-11T06:30:53+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: Already live: 'Lowell pushes data center rules back by months' reports this exact same delay."
   }
  ],
  "auto_published": [
