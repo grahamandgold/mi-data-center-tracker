@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.nist.gov/news-events/events/2026/07/securing-ai-data-center-architecture-security-posture-and-emerging",
-   "title": "NIST Plans July 2026 Virtual Workshop on AI Data Center Security",
-   "at": "2026-07-23T00:10:14+00:00",
-   "by": "news_judge",
-   "note": "score 2/10: National federal agency workshop announcement with no Michigan angle, no decisions made, just a future feedback-gathering event."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNb0xhbGE2ZVBLR1dEVDZUeXItemU2b0NXZ0RzelFoUTNzMXlJblJvc19KRDdydVlNZ2FmWU1hdm5WRnpaS3U4X1lRRXVZMWpPTGo3UFBUM2JrNDBjMjRGX1R4ZG1WN080T1NWRHFhdTE1eHJDSFduY2FIZU5oYXRZbmFyeGY4ZXp2T3R0VG1xUUdLMUd6VkhlbVpQbnhXU3FfTHE2Z2YwRUhydG53bllLSHktSUJuWnhjWW1yUDFrLWdONEl4OXdHTzRiTG5US1pLLTVHcGY5Q3ZGUWMwMXktdklnN044R2lHU1FJQkJrMEhONmkxZ2taWGJ6a2dncWliQW5COFNlWC1pTUpmTFhDMXN3dU53dw?oc=5",
-   "title": "Michigan gov hopefuls clash over data center power costs",
-   "at": "2026-07-23T03:58:05+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Generic campaign debate on data center power costs without a specific policy proposal, vote, or filing; overlaps thematically with already-killed gubernatorial "
-  },
-  {
    "url": "https://www.walb.com/video/2026/07/22/openai-announces-plans-new-data-center-effingham-county/",
    "title": "OpenAI Unveils Plans for Major Data Center in Georgia's Effingham County",
    "at": "2026-07-23T06:37:32+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-11T22:53:48+00:00",
    "by": "news_judge",
    "note": "score 4/10, duplicate: This is the same Kalamazoo moratorium vote already covered in the ALREADY-LIVE item 'Kalamazoo weighs year-long freeze on new data centers.'"
+  },
+  {
+   "url": "https://www.jll.com/en-us/insights/market-dynamics/north-america-data-centers",
+   "title": "North America Data Center Vacancy Stays Near Zero Amid Record Construction",
+   "at": "2026-08-11T23:52:28+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece with generic industry statistics, no Michigan-specific decision or development."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00RUUzc1VSNVdPUUhzaW1VeUdhTnNhNEFVaG9PdkpPV21wcUdObFhybWVKcFZ6SDZXVUU4cXMwdzNNdGpXaWplSHRFLU5IeDV4aENZOWp4RHdYb0NVOWJvOTNad0NBdXF6TVU4Y2tVLTFMUkQ2OWxVUnBB?oc=5",
+   "title": "NMU professor teams with comedian to explain data-center risks",
+   "at": "2026-08-11T23:52:28+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Educational event announcement with no concrete policy action, filing, or project development; soft community engagement story."
   }
  ],
  "auto_published": [

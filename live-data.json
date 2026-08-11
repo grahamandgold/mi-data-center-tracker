@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-11T22:53:48Z",
+ "updated_at": "2026-08-11T23:52:18+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -230,6 +230,19 @@
    "link": "https://www.portagemi.gov/",
    "linkLabel": "Agenda",
    "stream": null
+  },
+  {
+   "iso": "2026-08-12",
+   "body": "Speaker Township Planning Commission",
+   "topic": "Ordinance on cryptocurrency data mining facilities and data centers including AI, plus residential battery storage",
+   "region": "Mid-Michigan",
+   "regionKey": "mid",
+   "county": "Sanilac",
+   "time": "7:00 PM",
+   "status": "Planning commission",
+   "urgent": false,
+   "link": "https://speakertwpmi.gov/planning-commission-special-meeting-august-12-2026-at-700-p-m/",
+   "linkLabel": "Agenda"
   }
  ],
  "accuracy_checked_at": "2026-07-08T08:45:16+00:00"
