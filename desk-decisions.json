@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.utilitydive.com/news/us-data-centers-could-4x-water-use-by-2028-double-electricity-by-2030-khi/825774/",
-   "title": "U.S. Data Center Power Demand Projected to More Than Double by 2030 Amid Growing Water Concerns",
-   "at": "2026-07-22T19:39:33+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece with projections and statistics but no Michigan-specific decision or development."
-  },
-  {
    "url": "https://www.texastribune.org/2026/07/22/texas-james-talarico-data-centers-regulation-senate-2026/",
    "title": "Texas Senate Candidate Pushes for Stricter Data Center Rules Amid Growth Concerns",
    "at": "2026-07-22T22:37:40+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-11T16:27:54+00:00",
    "by": "news_judge",
    "note": "score 4/10, duplicate: Kalamazoo weighing a freeze is already live; this appears to be the same consideration unless a vote occurred, which the summary doesn't indicate."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORGx1b1JBNHNVNUZuekN0U1NfNVgxRkhRTEl3Z2VDelRWZnFNblExUDVzdHQyd3pjb3ZGVjBGSmdWWWc3TnRfRms2bktjUk9NWlhvajhZa3c0VXdvY2RkZ2JTeTdCRUM5Z2x5dTg5eVJtc0JEQUxQSzlYNi1YZGJqYmYzU2xNUnBKY0xpWk02dVhoX3lybWNhRGRIWQ?oc=5",
+   "title": "Detroit grid can't support large data centers, new study finds",
+   "at": "2026-08-11T18:29:30+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: This is a rehash of the already-live story 'Detroit Grid Too Weak for Hyperscale Data Centers, DTE Tells Planners' — same finding about Detroit's grid capacity "
   }
  ],
  "auto_published": [
