@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-11T20:57:20+00:00",
+ "updated_at": "2026-08-11T21:58:02Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "UM locks in Textile Road for $1.2B Los Alamos supercomputer campus",
+   "dek": "The University of Michigan chose the Textile Road site in Pittsfield Township for a massive high-performance computing facility tied to Los Alamos. The project will draw heavy power and water loads in Washtenaw County and reshape local land use. Residents 30 miles away will feel the effects through utility rates and traffic changes.",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa1prVTZXSXJwbmtiYVdDYWlHWmZGcVVycXZaQVhTb2tUdzVWVk5sdm9wV0tpUUJENjVfWkNJbE9tMjlIVzlXaUFVa0NPalIwMXktYV9Hd3VNT2I1Vk9HeVhsUXZmN0FBUVI4TFNDaTF4bHgwaTJTUWR1TWdJeTdTaWkwa1JPQkRYc0FJZmZiZ3c0TVE3aGlJU2ZyWW1rb2l2Q1EyeEVHQXlLTUZOd1NXdFlqZFBHOWIwR0dFMUYwaWdEQmlIdWt0QldqbTVHOWZUbElNY0U1QWXSAewBQVVfeXFMUGF2Z0ZUNVAxN1dkRWF5VFhRd2hHcDZCalA0UktDelJwZkM5X21GWE1OTEpDenFhSng4RTE0Tlo5Y2NSTG1wYTJzVE43bmJvSDhzc1haTER6N3hOX21PRUdGY0RVSE1qc3VRenlpNmtPRS1jNUVJR1RkLUVoMFh1RHlad0VmQXA2OGNPMVd5Q25JT2YzejVkVUFISG5QMlFPU21GeUJFdHNiRlBxek5paTRkTFg5SmtXb3FORHQwcGFNd25EVE4xb1YtaGhNZ1FtOEFlQVp2Umg2X1cwcEI2dURxMHY5WjZRSVhsRG4?oc=5",
+   "source": "mlive.com",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Local Government",
+   "iso": "2026-08-11T21:16:00Z",
+   "id": "1e74004bea66",
+   "origin": "google-news",
+   "source_title": "University of Michigan selects Textile Road site for $1.2B Los Alamos supercomputing facility - mlive.com",
+   "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa1prVTZXSXJwbmtiYVdDYWlHWmZGcVVycXZaQVhTb2tUdzVWVk5sdm9wV0tpUUJENjVfWkNJbE9tMjlIVzlXaUFVa0NPalIwMXktYV9Hd3VNT2I1Vk9HeVhsUXZmN0FBUVI4TFNDaTF4bHgwaTJTUWR1TWdJeTdTaWkwa1JPQkRYc0FJZmZiZ3c0TVE3aGlJU2ZyWW1rb2l2Q1EyeEVHQXlLTUZOd1NXdFlqZFBHOWIwR0dFMUYwaWdEQmlIdWt0QldqbTVHOWZUbElNY0U1QWXSAewBQVVfeXFMUGF2Z0ZUNVAxN1dkRWF5VFhRd2hHcDZCalA0UktDelJwZkM5X21GWE1OTEpDenFhSng4RTE0Tlo5Y2NSTG1wYTJzVE43bmJvSDhzc1haTER6N3hOX21PRUdGY0RVSE1qc3VRenlpNmtPRS1jNUVJR1RkLUVoMFh1RHlad0VmQXA2OGNPMVd5Q25JT2YzejVkVUFISG5QMlFPU21GeUJFdHNiRlBxek5paTRkTFg5SmtXb3FORHQwcGFNd25EVE4xb1YtaGhNZ1FtOEFlQVp2Umg2X1cwcEI2dURxMHY5WjZRSVhsRG4?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 9
+  },
   {
    "title": "Lawsuit over blocked server farm could reshape property taxes, power costs",
    "dek": "A data-center developer has filed suit against an Oakland County municipality after local officials blocked or delayed its project. The lawsuit puts the fight over land use, tax revenue, and power demand directly in front of a judge. Oakland County residents will feel the outcome in their electric bills and property taxes whether the project is approved or killed.",
@@ -169,23 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdVV1Y21QTlJZM0pTRUhXNWFBQkUtZDNmZVdQa05zNG9pZXJTQVdHTUpReWJRZ281N3JrUkVyU0o3QmxudWxTRDBWNXJibzkzaFJPbFhpazd0THRSeU84UDFOb24ycmg4SDJQazdnNlk2VmhCQWNHaVlMdkZ6UERoS1Bud1dZSzFxOVRrUi1BUjh5ZWJyUGV1VjI5X0I4RGM4aHJUNHp0YmVhdWNxYi0xdDkyV3VXVXBZSUpV0gHAAUFVX3lxTFBhTld6LWlmQkEtMkVOdU1sZXNySkU4M1JlSGltcVB2ODNnejNUaEdHSG1JMTB2Z3BsU2dLdWZldm5xdTJGT3pFQV9FNEhONk1UemNNWDExSXlQRi1uaEk4ZG16ZUIwQXkyUElPS25ZbnMtWHdQdGhNQjFsbDV6Ukk2elprSlU3MjBqRWc2SXZZV0hTM1lFdzdMUk54MFVaNjNYaWNmYTZheklaVzJuMmpsaDNGakZpWnNjZDVUcFl2NA?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
-  },
-  {
-   "title": "U.P. locals team with comedian to block AI data centers",
-   "dek": "Residents in Michigan's Upper Peninsula are pushing back against proposed AI data centers that could strain local power grids and water supplies. Comedian Charlie Berens is amplifying their concerns in public opposition efforts. The fight highlights growing pushback in rural Michigan communities over energy demands from big tech projects.",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOajVDOWRJdXF2SWhRU2JINUFnT0c3R2lneUkxeXY3bmJNbDh6eTZrUlpLUmRaYnZPcjd6dThCZWZmTUpwZ1FjaTVfLUZqdk41N3FabHVBaEx4S05tM1BXc3FQTWFrazNLbWhDaU1yZFJVZHMxVGY0bmJNZTMycUlFUEh3Ml8yT3BIU0NEYlhYSjduOUUzY0s3ME9Mek5QTGNzOHJlUXFld0Vvd3RqU1pxMXZUZmp0Z1hnOEZsTnBCd2tReHJHVTdEUTAyelUzSjRuWW1vcnNncHRjM0VqWFhfYXdjYW1VdHpEOUJta2lhMkExZw?oc=5",
-   "source": "myupnow.com",
-   "region": "north",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Local Government",
-   "iso": "2026-08-11T00:10:00Z",
-   "id": "b418a050e350",
-   "origin": "google-news",
-   "source_title": "Midwestern comedian Charlie Berens joins U.P. residents to oppose A.I. data centers - myupnow.com",
-   "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOajVDOWRJdXF2SWhRU2JINUFnT0c3R2lneUkxeXY3bmJNbDh6eTZrUlpLUmRaYnZPcjd6dThCZWZmTUpwZ1FjaTVfLUZqdk41N3FabHVBaEx4S05tM1BXc3FQTWFrazNLbWhDaU1yZFJVZHMxVGY0bmJNZTMycUlFUEh3Ml8yT3BIU0NEYlhYSjduOUUzY0s3ME9Mek5QTGNzOHJlUXFld0Vvd3RqU1pxMXZUZmp0Z1hnOEZsTnBCd2tReHJHVTdEUTAyelUzSjRuWW1vcnNncHRjM0VqWFhfYXdjYW1VdHpEOUJta2lhMkExZw?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {
