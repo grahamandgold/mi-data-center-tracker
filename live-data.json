@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-11T10:31:26+00:00",
+ "updated_at": "2026-08-11T11:24:51Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Detroit data centers capped at small scale under new rules",
+   "dek": "City policy keeps new facilities from growing into massive power users that strain local grids. Residents avoid the heavy electricity rate hikes and noise seen in other states. The limit protects neighborhood character while still allowing limited tech growth.",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhajA0RjQ3dUFRWDNPWWV2NDh2V3NFblIzOWdTejlnUGV6MTFrM1B2d3EwalhiTE10eGhLSkN4UUN3aURsbjZCeWgwOURqSlcycmtlN2ZRT2ZhcXVQcXgzN0RlYjFEVXhzdmg5S1hUdnBsXzRqbG56VVBLYzA?oc=5",
+   "source": "Outlier Media",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Wayne",
+   "tag": "Local Government",
+   "iso": "2026-08-11T10:15:00Z",
+   "id": "1f2669e4c7fe",
+   "origin": "google-news",
+   "source_title": "🤖 Detroit’s data centers to stay small - Outlier Media",
+   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhajA0RjQ3dUFRWDNPWWV2NDh2V3NFblIzOWdTejlnUGV6MTFrM1B2d3EwalhiTE10eGhLSkN4UUN3aURsbjZCeWgwOURqSlcycmtlN2ZRT2ZhcXVQcXgzN0RlYjFEVXhzdmg5S1hUdnBsXzRqbG56VVBLYzA?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "Mount Pleasant data center keeps Wisconsin-rejected power plant clause",
    "dek": "The contract for the Mount Pleasant project still includes a power plant provision already struck down by Wisconsin regulators. Residents face the risk of higher local energy costs if the plant moves forward to serve the data center. The deal shows how out-of-state regulatory fights can directly shape Michigan power bills.",
@@ -171,23 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc0J1LWwxcUFQcE53dHo5cno4MndmTWo5ZVRUQVBLRFZJUXFFRlBZU1VKaXZpcXZDRndJcE5nWU85MTcwcTF0N0pPTXAzS21Iam5WeDlHLVI5NnFhaWpjNXRtQl9TektVOFRremhTWGdNTjgyTHQ5dHQ4V1FoNUlhU3dGZFFWSkNGcWFjQVNvX0ZNaGpWcEhXTw?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Nessel pushes PSC to block data center cost shifts to ratepayers",
-   "dek": "Attorney General Dana Nessel called on the Public Service Commission to stop utilities from passing data center infrastructure costs to regular customers. The move targets large power deals that could raise monthly bills across Michigan. Nessel said the commission must protect residents from hidden subsidies for big tech projects.",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSXFXOVctR0ttOU85OXU1SEZ6a1Q0ZFljUW1EUGQ2LXR2eHhvRmhpVnFiY0pIc1BoQkFRR2FxV3pRYzZtWGh1OTlOWGc5YlNLQWpRYWhvZG1LSEI1QllpYUJwTWVkX0I2RnRNRzh1eFZGMmFGVVRiY01MR2ZYVTVPZlE1bjc?oc=5",
-   "source": "AOL.com",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Policy",
-   "iso": "2026-08-09T21:12:39Z",
-   "id": "368c431aec3e",
-   "origin": "google-news",
-   "source_title": "Nessel wants to hold PSC 'accountable' in fight against data center - AOL.com",
-   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSXFXOVctR0ttOU85OXU1SEZ6a1Q0ZFljUW1EUGQ2LXR2eHhvRmhpVnFiY0pIc1BoQkFRR2FxV3pRYzZtWGh1OTlOWGc5YlNLQWpRYWhvZG1LSEI1QllpYUJwTWVkX0I2RnRNRzh1eFZGMmFGVVRiY01MR2ZYVTVPZlE1bjc?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
   }
  ],
  "national": {

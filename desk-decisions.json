@@ -1,27 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV3Y4aEVOMnkzS0d2T254YVowbzJRdVpMRlp4a2hubDJTc0NVTTRnQjc3aGEwUWM2eTRLTzJjeEp1Yk1ob09yX3owamZKazM1X01fb3JWM3g4VmdkVG9vRkE0MGs3VGUwWUJYUHJlbXFXN29tTzlteUpVd1JuVnNQVWF3enlvaFljSnF6aVptUE4zRFF2Y3ZHbHNsSG5jcldQVGY4WnB5MkgycWRQRm04azN0OGhRLVR4?oc=5",
-   "title": "Oracle locks in full tax break for Saline data center after legal threat",
-   "at": "2026-07-21T21:20:47+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: This is the same Saline/Oracle tax break story already covered in the KILLED item 'Saline flips, hands Oracle full 12-year tax break on $43B campus' — just a di"
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMmJ0OUVaaEVOSnNSQm1zWVRKZ0dyRF9KSkIyeUREaVkzWHcxZnNQZlJkM0ZNOEhXcEFPZDJ4MnQwcWVoR1Y4X0tHb2o1NXgxbHZXMks0dDYwbENhZXJCTWI1RnExc2FOOW1uMVppbkVxa191WUljY3UyNWd3Q0JHT3VHeUE2R3pwV1ZFYjUwNjZhX0ZvUklKdndURm01Vmo1?oc=5",
-   "title": "Republican candidate took money from firms building Michigan server farms",
-   "at": "2026-07-21T22:29:57+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Campaign finance angle on data centers is new, but this is a thin political story that lacks concrete development like a policy reversal, vote, or official stat"
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU2RPU0VlVXpyeHVidFZjZjhQa3QxWGhqWE9JclFHSEJDVEZyTUNheW9WNjRRdHdkUktZNVA3bmxQTE5tR2oyQU9pRmNIRVF2SEFJMXFLZF84M3BoY19SanBGMmRUelRLYkxBdjFNamk1Rk5OU1JlMUpNWi1XREVpdWFFSjBKZFMzOEhGNzFENFdZMTg3VXRsSXp6eTFQNGdmRWpWMFNKOFN2VXlVNVNn0gGvAUFVX3lxTFBTZE9TRWVVenJ4dWJ0VmNmOFBrdDFYaGpYT0lyUUdIQkNURnJNQ2F5b1Y2NFF0d2RSS1k1UDdubFBMTm1HajJBT2lGY0hFUXZIQUkxcUtkXzgzcGhjX1JqcEYyZFR6VEtiTEF2MU1qaTVGTk5TUmUxSk1aLVdERWl1YUVKMEpkUzM4SEY3MUQ0V1kxODdVdGxJenp5MVA0Z2ZFalYwU0o4U3ZVeVU1U2c?oc=5",
-   "title": "Michigan homeowners face new risks as data centers eye rural land",
-   "at": "2026-07-22T01:01:47+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: Generic explainer on potential impacts lacks a specific news event, decision, or development; reads like educational background material rather than reporting o"
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZC1UQnZJbzhJZEV0LTlUTE1XYXdEczUtVWc4S20tZ2tCSkpVTUljNU81XzVKNHJNY0FtZDI1Zzd5LW5WQlFiT0tRM29POVo2WXRuN3Q5WjVBcFdvajFURV96Mk1WRG9qbzVNaUNZLUt1SkszVVliUm9kcXJwRk1EVGg0bHZXT19UejdJaXRMbUs2WmV1VkJwb0lwTdIBrwFBVV95cUxQU2RPU0VlVXpyeHVidFZjZjhQa3QxWGhqWE9JclFHSEJDVEZyTUNheW9WNjRRdHdkUktZNVA3bmxQTE5tR2oyQU9pRmNIRVF2SEFJMXFLZF84M3BoY19SanBGMmRUelRLYkxBdjFNamk1Rk5OU1JlMUpNWi1XREVpdWFFSjBKZFMzOEhGNzFENFdZMTg3VXRsSXp6eTFQNGdmRWpWMFNKOFN2VXlVNVNn?oc=5",
    "title": "Michigan landowners learn what data centers can do to their property rights",
    "at": "2026-07-22T04:25:12+00:00",
@@ -1399,6 +1378,27 @@
    "at": "2026-08-11T09:09:22+00:00",
    "by": "news_judge",
    "note": "score 4/10, duplicate: Duplicate of already-live 'Lowell pushes data center rules back by months' and 'Lowell Twp drafts rules to tame data center growth' — same ongoing ordinance dra"
+  },
+  {
+   "url": "https://www.texastribune.org/2026/06/05/texas-hill-county-moratorium-rescinded-data-centers/",
+   "title": "Texas County Repeals Data Center Moratorium After Developer Files $100 Million Federal Lawsuit",
+   "at": "2026-08-11T11:24:51+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Texas development with no Michigan angle; illustrates national legal trend but lacks local relevance for Michigan data center tracker."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdDRNcDFQRGp0c3dLbDhVZ0wxWTVtYUYwMWJVZUQ4eXNiUHJhTjd3TVdGZVhfcEo2dzJpMjUzQWVoUlVPdDBtVFhHNnR0ZG42b0g0VFF3UklDa05hUDQ5am5SVjg3Q1NCaGczd0VaYzExby1KN1Vza0hDbDNyT1kzdHk0TUJtSDZqMHRhTWtPQ3F4SXdKNGFBUkp6VWRscXg3Z1BCdGxUU3hORkRrdjB6VzNQdEZfcmcyQVphWUs4V3pIUnVXdlNhaFlB?oc=5",
+   "title": "Lowell Township data center rules still months from final vote",
+   "at": "2026-08-11T11:24:51+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Rehashes the same Lowell Township delay already covered in 'Lowell pushes data center rules back by months' — no new development reported."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOV2hZdTcxMFl1OHVvNlVvcTREZHFVdjBHSXFJaGplYlVqZEVzU1pEZHlrbnRkN08yNXJEMGE3U3d5YVVMVGQ1V0VGM09DUmhXMFYxTlAzOEdaTlZuS3hOcFE4NHpkT1VUS3ZvUUE3Q21fWDlLcEJRY2RUdGFjc0xCZGN4NVBPSHRxVnB3eFRIT21SZ0I0ZUR5TVc1bVFEV1NZTGRBb29jTGR6alZNN0JxMDJpUDB6SjlzMy0yc1dXdTE0RGtNZ2pvTWR2d1ZxZDUtR3I1S2Q3bWVYSjNjSk9uRUFNLTUzR1Npcm9FclN5SGFEbzhoZmdSWGRBNV9sR2hXLS03Ym56MFBuOFB1SWF3?oc=5",
+   "title": "Hyperscale Data weighs sale of its Michigan data center",
+   "at": "2026-08-11T11:24:51+00:00",
+   "by": "news_judge",
+   "note": "score 5/10: Potential ownership change at existing Michigan facility is incremental; board review stage lacks the concrete decision that would make it highly newsworthy."
   }
  ],
  "auto_published": [
@@ -2625,6 +2625,12 @@
    "title": "Mount Pleasant data center keeps Wisconsin-rejected power plant clause",
    "judge_score": 8,
    "at": "2026-08-11T05:18:10Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhajA0RjQ3dUFRWDNPWWV2NDh2V3NFblIzOWdTejlnUGV6MTFrM1B2d3EwalhiTE10eGhLSkN4UUN3aURsbjZCeWgwOURqSlcycmtlN2ZRT2ZhcXVQcXgzN0RlYjFEVXhzdmg5S1hUdnBsXzRqbG56VVBLYzA?oc=5",
+   "title": "Detroit data centers capped at small scale under new rules",
+   "judge_score": 8,
+   "at": "2026-08-11T11:24:51Z"
   }
  ]
 }
