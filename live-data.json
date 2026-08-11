@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-11T12:25:12+00:00",
+ "updated_at": "2026-08-11T14:00:10Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Morley residents halt data center talks after 170 pack the room",
+   "dek": "A packed crowd in Morley forced officials to postpone any discussion of a proposed data facility. Residents voiced immediate concerns over power demand, noise, and water use in the rural township. The delay gives locals more time to organize before the project advances.",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPak1jNWQ1STF6dnJ6TDFJQm1MQnh0cVJYZTZ3aDljTTh4Z0ZEdkNPazVDYmVnUjNreGFlMUhEakVaeUtTRldEZkl0cDdXbHdOUVFmS1MteV9La2lRR2pQdy1xWUJuWDNQTmhteGNGZjVqXzNrZGltNWg0eHNoUkpoeXNYSExDMExTay1VM2VKczJpYVdjODU0cmhRQjhQOS1aWGc?oc=5",
+   "source": "Big Rapids Pioneer",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Mecosta",
+   "tag": "Local Government",
+   "iso": "2026-08-11T13:02:58Z",
+   "id": "265154aaf663",
+   "origin": "google-news",
+   "source_title": "Crowd of roughly 170 forces Morley to postpone meeting on data facility - Big Rapids Pioneer",
+   "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPak1jNWQ1STF6dnJ6TDFJQm1MQnh0cVJYZTZ3aDljTTh4Z0ZEdkNPazVDYmVnUjNreGFlMUhEakVaeUtTRldEZkl0cDdXbHdOUVFmS1MteV9La2lRR2pQdy1xWUJuWDNQTmhteGNGZjVqXzNrZGltNWg0eHNoUkpoeXNYSExDMExTay1VM2VKczJpYVdjODU0cmhRQjhQOS1aWGc?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Detroit data centers capped at small scale under new rules",
    "dek": "City policy keeps new facilities from growing into massive power users that strain local grids. Residents avoid the heavy electricity rate hikes and noise seen in other states. The limit protects neighborhood character while still allowing limited tech growth.",
@@ -17,6 +34,21 @@
    "source_title": "🤖 Detroit’s data centers to stay small - Outlier Media",
    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhajA0RjQ3dUFRWDNPWWV2NDh2V3NFblIzOWdTejlnUGV6MTFrM1B2d3EwalhiTE10eGhLSkN4UUN3aURsbjZCeWgwOURqSlcycmtlN2ZRT2ZhcXVQcXgzN0RlYjFEVXhzdmg5S1hUdnBsXzRqbG56VVBLYzA?oc=5",
    "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
+  {
+   "iso": "2026-08-11T09:30:00Z",
+   "region": "metro",
+   "cat": "Wayne Co.",
+   "tag": "Local Government",
+   "title": "Detroit Grid Too Weak for Hyperscale Data Centers, DTE Tells Planners",
+   "dek": "Six small centers already run in the city, but council members and residents now demand a moratorium on bigger ones until impact studies are done.",
+   "source": "Outlier Media",
+   "url": "https://outliermedia.org/newsletter/detroits-data-centers-to-stay-small/",
+   "breaking": false,
+   "lead": false,
+   "id": "b7cb94d11895",
+   "accuracy": "checked-rewritten",
    "judge_score": 8
   },
   {
@@ -154,40 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSmp4QllIZjZad0xCUDhNSW1UdVNPUUotbXU1VEVIZVY2SjZENERLOWNXSTFSeW1id2xDMEQxSjAtQldFOFVGdW04UTd2U3dUXzhCWE5oMUF0anJXT0psZVptYWRGc0FMeHJVZWg5cWJBTUIxSXh0VzMtTy0tMWJvQ19rR0RLRi1fOGotQmFqdjlleDJqUVV6bkNaR1d1WXozcTRLWHZSZjNVT2J6aERXbzVuQ1QxQnd5ZzRHZ185ZUJ2MThK?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
-  },
-  {
-   "title": "Michigan data centers hit new tax and power fights this week",
-   "dek": "The weekly Michigan Advance roundup tracks active fights over tax breaks, grid upgrades and water use in several townships. Readers 30 miles from any site feel the direct hit on electric bills and local budgets when big projects win incentives. The report pulls together filings and votes that affect ratepayers statewide.",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaU1SZ0tmRVJlYWFJc1VJakZhbFk4UFdBQndIMUtjYlVySFVlbkdqbmE4STJhT0x4M2dETHVTckN4SlFQX1h5MlFHQlNxRE15MU93R1JtSzBQal9wOVhjVzBhZGV5UXZ5WFpsWHBsdGFjdmVUMUxUbEZpa3hpR1dYMlFGcXFUZE1fMlY4aDd6dWREYU12eE40V2VZRGpKQQ?oc=5",
-   "source": "Michigan Advance",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Policy",
-   "iso": "2026-08-10T10:03:01Z",
-   "id": "909282ce5ce1",
-   "origin": "google-news",
-   "source_title": "Michigan Data Centers: The Weekly Download - Michigan Advance",
-   "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaU1SZ0tmRVJlYWFJc1VJakZhbFk4UFdBQndIMUtjYlVySFVlbkdqbmE4STJhT0x4M2dETHVTckN4SlFQX1h5MlFHQlNxRE15MU93R1JtSzBQal9wOVhjVzBhZGV5UXZ5WFpsWHBsdGFjdmVUMUxUbEZpa3hpR1dYMlFGcXFUZE1fMlY4aDd6dWREYU12eE40V2VZRGpKQQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
-  },
-  {
-   "title": "Lowell Twp drafts rules to tame data center growth",
-   "dek": "The planning commission will put forward a new ordinance aimed at data centers. Residents in Kent County and nearby townships could see limits on size, noise and power use if the rules pass. Local officials want to avoid the heavy electricity and water demands that have sparked fights elsewhere in Michigan.",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc0J1LWwxcUFQcE53dHo5cno4MndmTWo5ZVRUQVBLRFZJUXFFRlBZU1VKaXZpcXZDRndJcE5nWU85MTcwcTF0N0pPTXAzS21Iam5WeDlHLVI5NnFhaWpjNXRtQl9TektVOFRremhTWGdNTjgyTHQ5dHQ4V1FoNUlhU3dGZFFWSkNGcWFjQVNvX0ZNaGpWcEhXTw?oc=5",
-   "source": "Yahoo",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Kent",
-   "tag": "Local Government",
-   "iso": "2026-08-10T03:05:00Z",
-   "id": "4403789b477f",
-   "origin": "google-news",
-   "source_title": "Lowell Township planning commission set to propose data center ordinance - Yahoo",
-   "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc0J1LWwxcUFQcE53dHo5cno4MndmTWo5ZVRUQVBLRFZJUXFFRlBZU1VKaXZpcXZDRndJcE5nWU85MTcwcTF0N0pPTXAzS21Iam5WeDlHLVI5NnFhaWpjNXRtQl9TektVOFRremhTWGdNTjgyTHQ5dHQ4V1FoNUlhU3dGZFFWSkNGcWFjQVNvX0ZNaGpWcEhXTw?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {
