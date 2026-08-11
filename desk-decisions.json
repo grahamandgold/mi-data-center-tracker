@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00b25hVVdLbU5OdUpncmh2Y0QwejdYbzFLbG5NR3gwZEFhUzBZNmZIak5EbFFUQWNsNmxlRXlFWVNSNDVkSnY3bnloMVlIbDBPUllEeGN2QVcxbVFBWjh0ZjFTYkPSAWpBVV95cUxPOTFWeG4tdlRZeG5tMV96b0FGV2FpZlg1QnotYV8xclc1NmhSQnZBNjF1UTlSMTI4RjJZV05uRFFab1pRMnJtaUwxT2NGemxabEljSTNEb1pvaTk0TUJPQWpzZ3Flbnpyd0l3?oc=5",
-   "title": "Vandals hit west Michigan billboard opposing data centers",
-   "at": "2026-07-21T16:05:49+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: This is the same Lowell billboard vandalism incident already killed twice by the News Director under different headlines."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV3Y4aEVOMnkzS0d2T254YVowbzJRdVpMRlp4a2hubDJTc0NVTTRnQjc3aGEwUWM2eTRLTzJjeEp1Yk1ob09yX3owamZKazM1X01fb3JWM3g4VmdkVG9vRkE0MGs3VGUwWUJYUHJlbXFXN29tTzlteUpVd1JuVnNQVWF3enlvaFljSnF6aVptUE4zRFF2Y3ZHbHNsSG5jcldQVGY4WnB5MkgycWRQRm04azN0OGhRLVR4?oc=5",
    "title": "Oracle locks in full tax break for Saline data center after legal threat",
    "at": "2026-07-21T21:20:47+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-11T07:48:47+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: This is the same Lowell timeline delay already covered in the LIVE story 'Lowell pushes data center rules back by months' and the KILLED story with identical he"
+  },
+  {
+   "url": "https://www.wzzm13.com/article/news/local/township-continues-work-on-data-center-ordinance/69-8421d448-a676-4674-8304-f9ece3e54707",
+   "title": "Lowell Township Planning Commission Advances Data Center Ordinance Work",
+   "at": "2026-08-11T09:09:22+00:00",
+   "by": "news_judge",
+   "note": "score 4/10, duplicate: Duplicate of already-live 'Lowell pushes data center rules back by months' and 'Lowell Twp drafts rules to tame data center growth' — same ongoing ordinance dra"
   }
  ],
  "auto_published": [
