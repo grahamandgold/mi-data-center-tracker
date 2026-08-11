@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.texastribune.org/2026/07/22/texas-james-talarico-data-centers-regulation-senate-2026/",
-   "title": "Texas Senate Candidate Pushes for Stricter Data Center Rules Amid Growth Concerns",
-   "at": "2026-07-22T22:37:40+00:00",
-   "by": "news_judge",
-   "note": "score 2/10: Texas political candidate statement with no Michigan relevance; national trend piece that doesn't advance Michigan data center tracking."
-  },
-  {
    "url": "https://www.nist.gov/news-events/events/2026/07/securing-ai-data-center-architecture-security-posture-and-emerging",
    "title": "NIST Plans July 2026 Virtual Workshop on AI Data Center Security",
    "at": "2026-07-23T00:10:14+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-11T18:29:30+00:00",
    "by": "news_judge",
    "note": "score 3/10, duplicate: This is a rehash of the already-live story 'Detroit Grid Too Weak for Hyperscale Data Centers, DTE Tells Planners' — same finding about Detroit's grid capacity "
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdnZ4RFNRVzd0MVcxVVgwYmVfbUFZcnc4RTVJR1F5ekJUcnJOZWVpaV9OQ2N1NnpNT1AyN09qRTNITXlhSlZqTTJiNDB0RVo1RjFJaWpHcEJ3aWdpUzFMczBhckx5UW4wSUhyUjRrNG5hSUN0QVU2RUtXX1JQZi04YXpZeXR3ekdjR0o5NDBBS3M3V3JiaXFNS2EtT2lQemk2a2dKXzNOcnVTTmVrTUhvNXAwX3pDVXVWaXRlRkhZS09JZVBJbTVnTkhUcE9CcEJZNExzVkpMU0ZRQ3YzelpqejVQaTdyQWJyU3FkX2x4YVlaSmV3a0Y5Rg?oc=5",
+   "title": "Kalamazoo may block new data centers with moratorium vote",
+   "at": "2026-08-11T22:53:48+00:00",
+   "by": "news_judge",
+   "note": "score 4/10, duplicate: This is the same Kalamazoo moratorium vote already covered in the ALREADY-LIVE item 'Kalamazoo weighs year-long freeze on new data centers.'"
   }
  ],
  "auto_published": [
@@ -2667,6 +2667,12 @@
    "title": "UM locks in Textile Road for $1.2B Los Alamos supercomputer campus",
    "judge_score": 9,
    "at": "2026-08-11T21:58:02Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQnc4RE11ckdIUWhReFdZZ3BnVS1xNXpEXzVtbUNBOXBZRHozUzFtSkhRbTdxam1NTWR3MUpkZ1k5MktPZXI2OWlhYlROWjlaMGhjcnR5clBKLW44X09MV01uR2pyMkhhTzAzLWs5eXloN2Y5aWJDMVhFaTlObE1QcGpsUHZ2MG9pUnFuYnZsQTBCVTAwUERPTEdCdkdyTGpPQnRJNXVxNkRKYWpYNnQxOEVDODJKRHo3eVRqVVAwbDBHTGphUVQ4enVNblAwalZoYlE?oc=5",
+   "title": "Corunna adopts rules to steer future data center projects",
+   "judge_score": 7,
+   "at": "2026-08-11T22:53:48Z"
   }
  ]
 }
