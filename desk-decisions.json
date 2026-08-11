@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPcXJYZW5nN1dIM0NMVWRBdmIycTlqaDNCM2w2SG4xZ2ZlWmNScHI2OVZoSll5VFNBTGphOWNqSmd3WXdTOWN6eVhqU2FHZ2VuTHpZamt3a0tvQVcxNTVDQWgxV1Ita0NpOGVsRUpkWXRZUVRuNHVJMkw1U0FKLWU3SFhPVHRSUDEzclltTms1N3ZNM2llekV5TVZtRy1KamdZOHVXYzRlQ2VBX3lqdjJQZTVULWlEY2M1YTR2UkRKWjJxVHVxUno4czBXcFRaLVJOTm1uODBFR3RweHpTQjd3X3drTTVSUEZURDFTVEN2ckFpNmNJeXpOZEZjT1hMLTU3WWpjd3JOOFRKRENOekNGWndB?oc=5",
-   "title": "Michigan township rebels against Whitmer data center law",
-   "at": "2026-07-21T11:58:08+00:00",
-   "by": "news_judge",
-   "note": "score 4/10, duplicate: This is a thin rehash of the already-live story 'Michigan township battles state data center law as Whitmer rolls out new pledge' — same township rebellion agai"
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00b25hVVdLbU5OdUpncmh2Y0QwejdYbzFLbG5NR3gwZEFhUzBZNmZIak5EbFFUQWNsNmxlRXlFWVNSNDVkSnY3bnloMVlIbDBPUllEeGN2QVcxbVFBWjh0ZjFTYkPSAWpBVV95cUxPOTFWeG4tdlRZeG5tMV96b0FGV2FpZlg1QnotYV8xclc1NmhSQnZBNjF1UTlSMTI4RjJZV05uRFFab1pRMnJtaUwxT2NGemxabEljSTNEb1pvaTk0TUJPQWpzZ3Flbnpyd0l3?oc=5",
    "title": "Vandals hit west Michigan billboard opposing data centers",
    "at": "2026-07-21T16:05:49+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-11T06:30:53+00:00",
    "by": "news_judge",
    "note": "score 3/10, duplicate: Already live: 'Lowell pushes data center rules back by months' reports this exact same delay."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNU2cxNElLQXZvMWxFU0R6NWpKanRXOHpsbHJGVVR4N1kzQXlXSUpJeWI0djJTSUZoVXl5TTU1MDdpSVZfRmdEeEp0OXVpbTM4Wm5mdEpWMENQQ1FzU2drMDE0MlF6YTFDbjJyYXRfdDQyNG9maFI5SDRhR1ptYWcwVzAtTmVnSGRfaVF4YUVVUmFHdVh5UlRSRU1xMjFYQ1FnSElmMnlaSGNreVVqN3ZfZ1hPRmp3X1JQdHlzZWR5aWloZGd6QzNsYURn0gHKAUFVX3lxTE1TZzE0SUtBdm8xbEVTRHo1akpqdFc4emxsckZVVHg3WTNBeVdJSkl5YjR2MlNJRmhVeXlNNTUwN2lJVl9GZ0R4SnQ5dWltMzhabmZ0SlYwQ1BDUXNTZ2swMTQyUXphMUNuMnJhdF90NDI0b2ZoUjlINGFHWm1hZzBXMC1OZWdIZF9pUXhhRVVSYUd1WHlSVFJFTXEyMVhDUWdISWYyeVpIY2t5VWo3dl9nWE9GandfUlB0eXNlZHlpaWhkZ3pDM2xhRGc?oc=5",
+   "title": "Lowell keeps data center rules months from reality",
+   "at": "2026-08-11T07:48:47+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This is the same Lowell timeline delay already covered in the LIVE story 'Lowell pushes data center rules back by months' and the KILLED story with identical he"
   }
  ],
  "auto_published": [
