@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://techinformed.com/michigan-secures-big-tech-pledge-on-data-center-grid-costs/",
-   "title": "Six Major Tech Firms Pledge to Cover Data Center Grid Costs in Michigan",
-   "at": "2026-07-22T11:59:53+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Same pledge announcement as the already-live 'Tech giants agree to pay for power infrastructure as Michigan shields ratepayers.'"
-  },
-  {
-   "url": "https://bridgemi.com/michigan-government/fact-check-is-john-james-backed-by-data-center-developers/",
-   "title": "James Took $113K+ From Data Center Builders and Utilities",
-   "at": "2026-07-22T11:59:53+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Thin campaign-finance rehash that fact-checks a claim but adds little substance beyond what was already killed in similar attack-ad stories."
-  },
-  {
    "url": "https://time.com/article/2026/07/22/community-backlash-ai-data-centers/",
    "title": "Community Backlash to AI Data Centers Intensifies Across the U.S.",
    "at": "2026-07-22T11:59:53+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-11T14:00:10+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Rehashes the already-live Lowell delay stories with no new meeting, vote, or timeline change."
+  },
+  {
+   "url": "https://wkzo.com/2026/08/11/958704/",
+   "title": "Kalamazoo commissioners seek draft moratorium on data centers and crypto mines",
+   "at": "2026-08-11T15:08:11+00:00",
+   "by": "news_judge",
+   "note": "score 4/10, duplicate: Duplicate of already-live 'Kalamazoo weighs year-long freeze on new data centers' — same city considering same moratorium action."
+  },
+  {
+   "url": "https://www.stocktitan.net/news/GPUS/hyperscale-data-board-considers-all-options-to-maximize-stockholder-k35ooy1x6boz.html",
+   "title": "Michigan AI Site With $3 Billion Contract Potential Explored for Sale or Lease",
+   "at": "2026-08-11T15:08:11+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: Duplicate of killed 'Hyperscale Data Explores Sale or Partnerships for Michigan Campus' — same sale exploration story with contract details added but no new dev"
   }
  ],
  "auto_published": [

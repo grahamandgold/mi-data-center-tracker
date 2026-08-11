@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-11T14:00:10Z",
+ "updated_at": "2026-08-11T15:08:11+00:00",
  "generator": "grok-wire-agent",
  "items": [
   {
@@ -42,5 +42,5 @@
    "judge_note": "Concrete new development: Rochester Hills considering extending its moratorium is a specific municipal action distinct from Marshall's enacted year-long freeze "
   }
  ],
- "accuracy_checked_at": "2026-08-11T14:00:02+00:00"
+ "accuracy_checked_at": "2026-08-11T15:08:07+00:00"
 }

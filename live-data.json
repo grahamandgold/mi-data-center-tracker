@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-11T14:00:10Z",
+ "updated_at": "2026-08-11T15:07:50+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -206,16 +206,16 @@
   {
    "iso": "2026-08-11",
    "body": "Lowell Township Planning Commission",
-   "topic": "Proposal of data center ordinance",
+   "topic": "Data center ordinance development and related power concerns for proposed Microsoft project",
    "region": "West Michigan",
    "regionKey": "west",
-   "county": "Kent Co.",
+   "county": "Kent",
    "time": "7:00 PM",
    "status": "Planning commission",
-   "urgent": false,
-   "link": "https://www.lowelltwp.org/",
+   "urgent": true,
+   "link": "https://lowell.civicweb.net/Portal/MeetingInformation.aspx?Id=1214",
    "linkLabel": "Agenda",
-   "stream": null
+   "stream": "https://www.youtube.com/@LCTMeetings"
   },
   {
    "iso": "2026-08-11",
