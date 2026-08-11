@@ -1,7 +1,36 @@
 {
- "updated_at": "2026-08-11T20:57:20+00:00",
+ "updated_at": "2026-08-11T21:09:53+00:00",
  "generator": "grok-wire-agent",
  "items": [
+  {
+   "title": "Microsoft rezoning applications for data center on Lowell Twp agenda",
+   "dek": "Lowell Township Planning Commission will hear Microsoft's applications for zoning text changes and conditional rezoning at Covenant Business Park on June 8, 2026. The meeting includes applicant presentation, commissioner questions, and public comment limited to 3 minutes per speaker.",
+   "url": "https://lowell.civicweb.net/Portal/MeetingInformation.aspx?Id=1214",
+   "source": "Lowell Township Planning Commission agenda",
+   "region": "West Michigan",
+   "county": "Kent",
+   "cat": "Meetings",
+   "tag": "Agenda watch",
+   "iso": "2026-08-11T21:09:53+00:00",
+   "kind": "agenda",
+   "id": "6af366b4316d",
+   "filed_at": "2026-08-11T21:09:53+00:00",
+   "accuracy": "document-based",
+   "findings": "Agenda item 8B covers Microsoft's proposed zoning ordinance text amendment and conditional rezoning applications | Meeting scheduled for June 8, 2026 at 7:00 PM at Grand Agricultural Center of West Michigan | Public comment limited to 3 minutes per speaker, directed only to commissioners | Meeting includes project introduction, presentation by applicant, planning commissioner questions, and public comment period | Agenda also includes Maple Ridge site plan amendment for special use permit",
+   "perspective": "The meeting agenda structures the Microsoft item with four phases: project introduction and presentation by the applicant, planning commissioner questions and comments, public comment period, and additional commissioner questions. The agenda notes that the applicant will not hold an open question and answer session with the public, and no direct questions from the public will be answered by the ap",
+   "documents": [
+    {
+     "label": "Agenda page",
+     "url": "https://lowell.civicweb.net/Portal/MeetingInformation.aspx?Id=1214"
+    },
+    {
+     "label": "Agenda",
+     "url": "https://lowell.civicweb.net/document/26864?printPdf=true"
+    }
+   ],
+   "depth_score": 8,
+   "extraction_method": "playwright"
+  },
   {
    "iso": "2026-08-10T16:00:00Z",
    "region": "west",
