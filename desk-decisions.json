@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://time.com/article/2026/07/22/community-backlash-ai-data-centers/",
-   "title": "Community Backlash to AI Data Centers Intensifies Across the U.S.",
-   "at": "2026-07-22T11:59:53+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece with poll data but no Michigan-specific decision or development."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZnF2RlpORUo1WTZuUzJHT3Y0XzNOMTQ4WU9YcXpDU2lmRHRFQ3JJTlExN0tQdGU5V3VkTFdIVzdtUzhZNXcwMl91YWV4SmZjNl9FRHVWX0s1RS1jUkk5blFycG5CZWlWMXFPcjVyd0V6UmFhR1A2aGVpdFluN2dOaF9fRG50VFJwV0Q0WGlOdnJWVlBOYmJkVVhPd3RVbm96WFhLNEhNTVoxbFpxZGw4S1VuS3JMT0NLdmU5QzdmUExzLWlPMDVid2FJazlMc0JyS3l0eFZkN0dNSFl1cnA0SQ?oc=5",
-   "title": "Gubernatorial candidates split on reining in data center power and tax breaks",
-   "at": "2026-07-22T16:04:58+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Vague campaign-trail positioning without a specific policy announcement, vote, or filing; reads like speculative horse-race coverage rather than a concrete deve"
-  },
-  {
    "url": "https://www.utilitydive.com/news/us-data-centers-could-4x-water-use-by-2028-double-electricity-by-2030-khi/825774/",
    "title": "U.S. Data Center Power Demand Projected to More Than Double by 2030 Amid Growing Water Concerns",
    "at": "2026-07-22T19:39:33+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-11T15:08:11+00:00",
    "by": "news_judge",
    "note": "score 3/10, duplicate: Duplicate of killed 'Hyperscale Data Explores Sale or Partnerships for Michigan Campus' — same sale exploration story with contract details added but no new dev"
+  },
+  {
+   "url": "https://michiganadvance.com/news/",
+   "title": "Nessel Asks Appeals Court to Block Energy Contracts for Saline Data Center",
+   "at": "2026-08-11T16:27:54+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: Same Nessel appeal of Saline DTE contracts already covered in multiple killed stories and the live 'Nessel appeals DTE deal' item."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcHRDV2ZuSnA4cnVxNXZsZzNUQTVYa2I0VXJkY0t5eU9wLUZqZFhyVFVZVXQxclRmenBsd1YwVExVSENGM01BR2k0cUtvTW9Yb1k3Q01GNUhZbnA4b3JmeldDYXRTM1g4S1Bkcm84aTk2Ylp6UkItSklxRmVBcXo2SWV0bE00TEswTnZ4Nk1HczAtZGUzOEQwMUF4bm50Q0c1SkNNaks2eGFuNnhMLWd3OUVqWWs4bHI2TjQwa3JmMW5XeFd00gHYAUFVX3lxTE9qdmVJMGZ1YU5nMW5nWXc2RGoxSE83MmhTeWNYSlZwWU1rUmI2MFVPY21qRnRuNGdqVnlWV1lQQzZHSHotNXRSMWF1WDA2eEhLdVNWWkJZNklJcmRNOHVQMFUyMnNBM3NCRGJ4Y2RiYkVBelZBdkNMMG9nOGQyaFpGSWVjMFpFZ1lqeTJIbVVGTmUycG45elIxbGMxVW9Ra3BWNTNGNzZMd0lRMVFpcFBmQ1ZrcDJvR09mOWU4UHVOUHNEYlF1VjhWS3MyaUU0d1V2RG56Rnpocw?oc=5",
+   "title": "Kalamazoo eyes one-year halt on new data centers",
+   "at": "2026-08-11T16:27:54+00:00",
+   "by": "news_judge",
+   "note": "score 4/10, duplicate: Kalamazoo weighing a freeze is already live; this appears to be the same consideration unless a vote occurred, which the summary doesn't indicate."
   }
  ],
  "auto_published": [
@@ -2643,6 +2643,12 @@
    "title": "Morley residents halt data center talks after 170 pack the room",
    "judge_score": 7,
    "at": "2026-08-11T14:00:10Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYVNCUzMtYW02b295dnZ3cUszZ3NoZzlKdEptWTVHTzZ4MjZlY2daZEVKMWVSdWV5blNXWnlBcHY0dXNiU01YdGNRRzNNQlJRcEZUU2gtSkxyNU1IR0UzcG56M1BTci1wNVdRUFN5WlVVWE9rcDVkdHhTZVZ5TVB6V3NnWkZBYTQzenhCcllR?oc=5",
+   "title": "Consumers Energy lines spark farm backlash across Michigan",
+   "judge_score": 7,
+   "at": "2026-08-11T16:27:54Z"
   }
  ]
 }

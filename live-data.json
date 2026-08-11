@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-11T15:07:50+00:00",
+ "updated_at": "2026-08-11T16:27:54Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Consumers Energy lines spark farm backlash across Michigan",
+   "dek": "New transmission projects tied to data-center power needs are cutting through rural land and drawing protests. Farmers worry about lost acreage, health effects, and depressed property values. The utility says the upgrades are required to meet surging electricity demand from AI facilities.",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYVNCUzMtYW02b295dnZ3cUszZ3NoZzlKdEptWTVHTzZ4MjZlY2daZEVKMWVSdWV5blNXWnlBcHY0dXNiU01YdGNRRzNNQlJRcEZUU2gtSkxyNU1IR0UzcG56M1BTci1wNVdRUFN5WlVVWE9rcDVkdHhTZVZ5TVB6V3NnWkZBYTQzenhCcllR?oc=5",
+   "source": "Michigan Enjoyer",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "statewide",
+   "tag": "Power & Grid",
+   "iso": "2026-08-11T13:14:28Z",
+   "id": "ab7dc4e8ec6d",
+   "origin": "google-news",
+   "source_title": "How Consumers Energy Turns Michigan Farm Communities Upside Down - Michigan Enjoyer",
+   "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYVNCUzMtYW02b295dnZ3cUszZ3NoZzlKdEptWTVHTzZ4MjZlY2daZEVKMWVSdWV5blNXWnlBcHY0dXNiU01YdGNRRzNNQlJRcEZUU2gtSkxyNU1IR0UzcG56M1BTci1wNVdRUFN5WlVVWE9rcDVkdHhTZVZ5TVB6V3NnWkZBYTQzenhCcllR?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Morley residents halt data center talks after 170 pack the room",
    "dek": "A packed crowd in Morley forced officials to postpone any discussion of a proposed data facility. Residents voiced immediate concerns over power demand, noise, and water use in the rural township. The delay gives locals more time to organize before the project advances.",
@@ -167,23 +184,6 @@
    "origin": "google-news",
    "source_title": "Data center developer sues Oakland County suburb over moratorium - crainsdetroit.com",
    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaGxieFB3MG5WNktTQUJJLVFuUEk5cGlhc1JmWkhNbmZ0UWozUldyUEF1LXpEdk50VllTWVp5anp6cWdBeWMzbDhib0cxZTYtNUtoMzlVQ2lKRnduTlpzVVpBMWU0bHU3Z3RpclpSbzhlY1h4QVhrakQxZGVfb3pGRXpjNThxZ28xTXNFNHZsZ3d0Zw?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
-  },
-  {
-   "title": "Nessel appeals DTE deal to supply power to Saline data center",
-   "dek": "Michigan Attorney General Dana Nessel and environmental groups filed opening arguments challenging the contract that would let DTE serve a large data center in Saline. The appeal centers on whether the utility’s rate structure fairly allocates costs for the massive new load. Local residents could see higher electric bills if the contract stands as written.",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSmp4QllIZjZad0xCUDhNSW1UdVNPUUotbXU1VEVIZVY2SjZENERLOWNXSTFSeW1id2xDMEQxSjAtQldFOFVGdW04UTd2U3dUXzhCWE5oMUF0anJXT0psZVptYWRGc0FMeHJVZWg5cWJBTUIxSXh0VzMtTy0tMWJvQ19rR0RLRi1fOGotQmFqdjlleDJqUVV6bkNaR1d1WXozcTRLWHZSZjNVT2J6aERXbzVuQ1QxQnd5ZzRHZ185ZUJ2MThK?oc=5",
-   "source": "News From The States",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Power & Grid",
-   "iso": "2026-08-10T18:18:04Z",
-   "id": "b8f6495428b7",
-   "origin": "google-news",
-   "source_title": "Nessel and environmental groups file initial arguments in appeal of DTE Saline data center contract - News From The States",
-   "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSmp4QllIZjZad0xCUDhNSW1UdVNPUUotbXU1VEVIZVY2SjZENERLOWNXSTFSeW1id2xDMEQxSjAtQldFOFVGdW04UTd2U3dUXzhCWE5oMUF0anJXT0psZVptYWRGc0FMeHJVZWg5cWJBTUIxSXh0VzMtTy0tMWJvQ19rR0RLRi1fOGotQmFqdjlleDJqUVV6bkNaR1d1WXozcTRLWHZSZjNVT2J6aERXbzVuQ1QxQnd5ZzRHZ185ZUJ2MThK?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
   }
