@@ -1,10 +1,10 @@
 {
- "title": "Evenings with Graham & Emmy",
- "teaser": "Ypsilanti data center water and power debates amid today's court battles and Nessel appeals.",
+ "title": "Mornings with Graham & Emmy",
+ "teaser": "Detroit limits new data centers to protect grids and neighborhoods—what it means for bills statewide.",
  "lines": [
   {
    "host": "Graham",
-   "text": "Good evening and welcome to Evenings with Graham & Emmy, the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
+   "text": "Good morning, and welcome to Mornings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
   },
   {
    "host": "Emmy",
@@ -12,238 +12,190 @@
   },
   {
    "host": "Graham",
-   "text": "Tonight we're zeroing in on a Ypsilanti data center proposal that puts water and power tradeoffs front and center, right as multiple communities take steps to hit pause."
+   "text": "It's Tuesday, August 11, and our big story today is Detroit's new policy capping data centers at small scale to avoid straining local grids."
   },
   {
    "host": "Emmy",
-   "text": "That Ypsilanti story from yesterday really captures the tension, doesn't it? An EMU hydrogeologist talking about closed-loop cooling reusing groundwater without warming the subsurface, while an activist flags possible new energy infrastructure as a potential community plus."
+   "text": "That sounds like a big shift from what we've seen in other states. Graham, what's the core of this new city rule?"
   },
   {
    "host": "Graham",
-   "text": "Exactly. It shows how these projects aren't just about servers in a warehouse anymore."
+   "text": "Detroit is keeping new facilities from growing into massive power users. The policy sets limits so they don't pull hundreds of megawatts that could drive up rates or create noise issues for neighbors."
   },
   {
    "host": "Emmy",
-   "text": "So walk me through the bigger picture here. How did we get to this point where every new proposal seems to spark fights over rates, water, and local control?"
+   "text": "Why does this matter right now? We've heard about fights in places like Saline and Marshall."
   },
   {
    "host": "Graham",
-   "text": "It really accelerated this year as AI demand pushed developers toward Michigan's available land and power. Places like Washtenaw and Oakland counties started seeing applications that could pull hundreds of megawatts each."
+   "text": "Exactly. Residents in Detroit avoid the heavy electricity rate hikes and noise problems reported elsewhere. It protects neighborhood character while still allowing some limited tech growth."
   },
   {
    "host": "Emmy",
-   "text": "And that scale means real impacts on the grid and aquifers, right?"
+   "text": "How did we get here? Was there a specific history or previous proposals that pushed the city to act?"
   },
   {
    "host": "Graham",
-   "text": "Precisely. A single large facility can require new transmission upgrades that utilities want to recover through rates, and cooling often draws from groundwater or needs massive electricity."
+   "text": "This builds on broader concerns we've tracked. Cities across Michigan are watching what happens when big projects land without guardrails."
   },
   {
    "host": "Emmy",
-   "text": "What does that look like for regular ratepayers thirty miles away who never asked for this?"
+   "text": "Who are the main players here? City officials, residents, or the tech companies pushing for bigger sites?"
   },
   {
    "host": "Graham",
-   "text": "They could see higher electric bills if costs get spread across the system, plus shifts in local tax bases if incentives are offered to lure the projects."
+   "text": "It's the city setting the rules, responding to resident worries about grid strain and local impacts. Developers still get a path forward, just not the giant campuses seen in other states."
   },
   {
    "host": "Emmy",
-   "text": "And water? Is that the hidden piece people are waking up to?"
+   "text": "What about electric bills? Could this keep rates steadier for Detroiters compared to areas with larger projects?"
   },
   {
    "host": "Graham",
-   "text": "It is. Closed-loop systems are pitched as more efficient, but even then there's extraction and potential strain on supplies, especially in areas already watching drought trends."
+   "text": "That's the hope. By capping scale, the city aims to prevent the kind of demand spikes that force utilities to upgrade infrastructure and pass costs to everyone."
   },
   {
    "host": "Emmy",
-   "text": "The Ypsilanti discussion mentioned benefits like new infrastructure too. Is that the trade-off communities are weighing?"
+   "text": "Water use is another big issue with these facilities. Does the Detroit rule touch on that at all?"
   },
   {
    "host": "Graham",
-   "text": "Some officials see tax revenue and jobs, but others worry the infrastructure upgrades mainly serve the data center and leave residents footing part of the bill."
+   "text": "The focus is mainly on power and scale right now, but smaller facilities generally mean less overall resource demand, including water for cooling."
   },
   {
    "host": "Emmy",
-   "text": "How many places are actually moving to slow things down right now?"
+   "text": "Farmland and rural towns often get pulled into these debates too. How does a city policy like this ripple out?"
   },
   {
    "host": "Graham",
-   "text": "Quite a few. Oakland County has a suburb with a temporary freeze facing a lawsuit today from a developer. Lowell Township in Kent County is drafting rules on size, noise, and power use."
+   "text": "Detroit's move could set a precedent. Other communities are already looking at similar limits to keep projects from overwhelming small-town infrastructure."
   },
   {
    "host": "Emmy",
-   "text": "And that's after similar pushes in other townships this week."
+   "text": "What happens next? Will more cities follow Detroit's lead, or is this an outlier?"
   },
   {
    "host": "Graham",
-   "text": "Yes, and it ties directly into what Attorney General Nessel is doing on the power side."
+   "text": "We'll watch the upcoming meetings in places like Lowell and Portage. The trend toward tighter rules seems to be gaining steam statewide."
   },
   {
    "host": "Emmy",
-   "text": "She's appealing that DTE deal for the Saline data center, correct?"
+   "text": "Any sense of how developers are reacting to these caps?"
   },
   {
    "host": "Graham",
-   "text": "Filed opening arguments today challenging how costs get allocated for that massive new load."
+   "text": "They'll likely adjust proposals to fit the smaller scale, or look to communities with looser rules for now."
   },
   {
    "host": "Emmy",
-   "text": "And separately she's pushing the PSC to block utilities from shifting infrastructure costs onto regular customers."
+   "text": "And for ratepayers 30 miles away, why should they care about what Detroit does?"
   },
   {
    "host": "Graham",
-   "text": "That's the core of it. She wants stronger oversight so residents aren't subsidizing these big tech projects through their monthly bills."
+   "text": "Regional grids are connected. Keeping one major city from adding huge loads helps stabilize costs across the area."
   },
   {
    "host": "Emmy",
-   "text": "What happens if the court sides with the developer in Oakland or the appeal fails?"
+   "text": "Got it. This feels like a proactive step rather than reacting after a big project is already approved."
   },
   {
    "host": "Graham",
-   "text": "It could set precedents that make it harder for towns to pause projects or force utilities to absorb more of the upgrade costs themselves."
+   "text": "That's the key difference here."
   },
   {
    "host": "Emmy",
-   "text": "Or easier for them to spread costs statewide."
+   "text": "Let's move to some quick hits on other developments today. Graham, what's the latest out of Mount Pleasant?"
   },
   {
    "host": "Graham",
-   "text": "Exactly, which is why these cases are being watched far beyond the immediate sites."
+   "text": "The Mount Pleasant data center contract still includes a power plant provision that Wisconsin regulators already struck down. That raises the risk of higher local energy costs if it moves forward."
   },
   {
    "host": "Emmy",
-   "text": "Any sense of timeline on the Ypsilanti project itself?"
+   "text": "Interesting how an out-of-state fight ends up shaping Michigan bills. Lowell is also in the news."
   },
   {
    "host": "Graham",
-   "text": "Still early, but the comments from the hydrogeologist and activist suggest the planning commission is digging into the technical details before any approvals."
+   "text": "Officials there say new zoning and permitting standards won't be ready for several more months, leaving proposals to move under current weaker rules."
   },
   {
    "host": "Emmy",
-   "text": "And meanwhile Mason County is questioning whether its grid can even handle a surge from proposed AI facilities."
+   "text": "Residents won't have much say on power and water demands until then. Switching to Whitehall Township."
   },
   {
    "host": "Graham",
-   "text": "Western Michigan utilities are flagging transmission constraints and asking who pays for upgrades or new plants."
+   "text": "Supervisors there reviewed a new ordinance setting limits on size, noise, and power use in a rural area. It could affect taxes and grid strain depending on what passes."
   },
   {
    "host": "Emmy",
-   "text": "That feels like the same conversation playing out in multiple counties at once."
+   "text": "Kalamazoo is weighing a year-long freeze. What's the plan there?"
   },
   {
    "host": "Graham",
-   "text": "It is. A state senator also warned local officials this week about rate spikes and water strain if rules aren't tightened."
+   "text": "City leaders will debate a moratorium at their next meeting to block proposals while they study power and water demands."
   },
   {
    "host": "Emmy",
-   "text": "So what's the next step for communities trying to get ahead of applications?"
+   "text": "That pause would give time to write rules before anything breaks ground. Up in the U.P., locals are teaming with a comedian."
   },
   {
    "host": "Graham",
-   "text": "Drafting ordinances like the ones Lowell and West Michigan townships are reviewing, plus pushing the PSC for clearer cost allocation rules."
+   "text": "Residents are pushing back against proposed AI data centers that could strain grids and water. Comedian Charlie Berens is amplifying their concerns."
   },
   {
    "host": "Emmy",
-   "text": "And Nessel's pressure on the commission could influence that."
+   "text": "Marshall approved its own one-year moratorium. How does that help?"
   },
   {
    "host": "Graham",
-   "text": "Her demands for answers on how surging demand is handled signal growing pushback at the state level too."
+   "text": "It halts all proposals for at least 12 months so planners can study impacts on power and noise. Residents get breathing room."
   },
   {
    "host": "Emmy",
-   "text": "Alright, let's shift to a few other developments from today and yesterday in our quick hits."
+   "text": "Yesterday brought a court battle in Oakland County. Graham, fill us in."
   },
   {
    "host": "Graham",
-   "text": "First up, that Oakland County lawsuit filed today. A developer is challenging a suburb's six-month freeze on new data centers."
+   "text": "A developer sued after a suburb imposed a temporary halt on new projects. The case will test how far local governments can go in pausing large facilities."
   },
   {
    "host": "Emmy",
-   "text": "The case tests how much local governments can pause these power-hungry projects before court intervention."
+   "text": "And Attorney General Nessel is appealing a DTE deal for a Saline data center."
   },
   {
    "host": "Graham",
-   "text": "Residents even thirty miles away could feel it through rates or tax base changes depending on the ruling."
+   "text": "She and environmental groups filed arguments challenging the contract over whether costs are fairly allocated. Higher bills could hit locals if it stands."
   },
   {
    "host": "Emmy",
-   "text": "Next, Attorney General Nessel and environmental groups filed arguments today appealing the DTE contract for the Saline data center."
+   "text": "Michigan Advance also had a roundup on tax and power fights this week."
   },
   {
    "host": "Graham",
-   "text": "The fight is over whether the rate structure fairly spreads costs for that huge new demand."
+   "text": "It tracks active battles over incentives, grid upgrades, and water use that affect ratepayers statewide."
   },
   {
    "host": "Emmy",
-   "text": "If it stands, local bills could rise. Nessel is also pressing the PSC separately to stop utilities from passing data center costs to everyone else."
+   "text": "Now for on deck. Graham, what meetings can listeners actually attend today?"
   },
   {
    "host": "Graham",
-   "text": "That Michigan Advance roundup this week pulled together all the active tax break, grid, and water fights happening simultaneously."
+   "text": "Lowell Township Planning Commission is discussing a proposal for a data center ordinance this evening."
   },
   {
    "host": "Emmy",
-   "text": "It shows how one project's incentives can ripple to ratepayers far from the site."
+   "text": "And Portage City Council has a data center industrial zoning discussion on the agenda."
   },
   {
    "host": "Graham",
-   "text": "Yesterday Lowell Township's planning commission moved forward with a new ordinance targeting data center size, noise, and power demands."
+   "text": "Both are chances for residents to weigh in directly."
   },
   {
    "host": "Emmy",
-   "text": "Aiming to avoid the heavy electricity and water issues seen elsewhere in the state."
-  },
-  {
-   "host": "Graham",
-   "text": "West Michigan officials also got their first detailed look at how these facilities could affect roads, noise, and electric demand in their area."
-  },
-  {
-   "host": "Emmy",
-   "text": "They're drafting rules proactively before any applications land."
-  },
-  {
-   "host": "Graham",
-   "text": "And a state senator flagged the risks to suburbs around Detroit and beyond if local rules stay weak."
-  },
-  {
-   "host": "Emmy",
-   "text": "Now let's look at the meetings listeners can attend starting tonight."
-  },
-  {
-   "host": "Graham",
-   "text": "Rochester Hills City Council meets today to vote on extending its six-month data center moratorium by another 180 days."
-  },
-  {
-   "host": "Emmy",
-   "text": "London Township Board of Trustees is taking up its data center ordinance this evening as well."
-  },
-  {
-   "host": "Graham",
-   "text": "Morley Village has a public hearing on a proposed data center project."
-  },
-  {
-   "host": "Emmy",
-   "text": "Lowell Charter Township Planning Commission will discuss its data center ordinance and moratorium proposal tonight."
-  },
-  {
-   "host": "Graham",
-   "text": "And tomorrow Lowell Township Planning Commission follows up with its own ordinance proposal."
-  },
-  {
-   "host": "Emmy",
-   "text": "Plenty of chances for residents to weigh in directly."
-  },
-  {
-   "host": "Graham",
    "text": "Full sources and the live map at the Michigan Data Center Tracker. We're back tomorrow."
-  },
-  {
-   "host": "Emmy",
-   "text": "Thanks for listening."
   }
  ],
- "episode_title": "Ypsilanti Plan Spotlights Water-Power Tradeoffs as Moratoriums and Rate Fights Spread",
- "show": "Evenings with Graham & Emmy",
- "daypart": "Evenings"
+ "episode_title": "Detroit Caps Data Centers at Small Scale; Moratoriums Spread Across Michigan",
+ "show": "Mornings with Graham & Emmy",
+ "daypart": "Mornings"
 }
