@@ -1,7 +1,41 @@
 {
- "updated_at": "2026-08-11T18:29:26+00:00",
+ "updated_at": "2026-08-11T19:39:09Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Lawsuit over blocked server farm could reshape property taxes, power costs",
+   "dek": "A data-center developer has filed suit against an Oakland County municipality after local officials blocked or delayed its project. The lawsuit puts the fight over land use, tax revenue, and power demand directly in front of a judge. Oakland County residents will feel the outcome in their electric bills and property taxes whether the project is approved or killed.",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaVB5UmxLalQ1bnZYT2V6T3FXVkJUZlctaFYzR0VjVnBsQ2k3dm1yU25FTGJmdEdYc0x3SG5tVXFMNWpqZ2RJdmRpYXNoMmhSYU9EcFFDQnQzOTAxNVBpc1d3MGtuZHl6S05Pa2pBZDhUaEtwM1Uxb2VuQTNJU2d6Ny1RMS1WMmZWRmVpR0ozdm9iODJ5NnRRbGJR0gGuAUFVX3lxTE9MaGZoSy0yRHlOZVY0Zzd1X2VtdG92TGZ0dVcwcGRrQWUydjNKN3dqTHZNSmxrTHpYLVRqMHZnOG1vLVRlVHRGMTcyRlhBLUpGLW1UX0xmOVZsU1FoSnFtR0swZGhiUkItX0pUTDdIdG83ZUoyQmlaN0I4bVIwWkdvLWFQNU1NTUt5QmdNWlhaeTVuT3o1RlZfNHpfRHdPRUJUT1RRdTZNNWhfY0pYdw?oc=5",
+   "source": "mlive.com",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Oakland",
+   "tag": "Local Government",
+   "iso": "2026-08-11T19:14:00Z",
+   "id": "9f8a37ee76af",
+   "origin": "google-news",
+   "source_title": "Data-center developer sues Oakland County city - mlive.com",
+   "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaVB5UmxLalQ1bnZYT2V6T3FXVkJUZlctaFYzR0VjVnBsQ2k3dm1yU25FTGJmdEdYc0x3SG5tVXFMNWpqZ2RJdmRpYXNoMmhSYU9EcFFDQnQzOTAxNVBpc1d3MGtuZHl6S05Pa2pBZDhUaEtwM1Uxb2VuQTNJU2d6Ny1RMS1WMmZWRmVpR0ozdm9iODJ5NnRRbGJR0gGuAUFVX3lxTE9MaGZoSy0yRHlOZVY0Zzd1X2VtdG92TGZ0dVcwcGRrQWUydjNKN3dqTHZNSmxrTHpYLVRqMHZnOG1vLVRlVHRGMTcyRlhBLUpGLW1UX0xmOVZsU1FoSnFtR0swZGhiUkItX0pUTDdIdG83ZUoyQmlaN0I4bVIwWkdvLWFQNU1NTUt5QmdNWlhaeTVuT3o1RlZfNHpfRHdPRUJUT1RRdTZNNWhfY0pYdw?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
+  {
+   "title": "Michigan suburb blocks server farms another year amid power, water worries",
+   "dek": "Rochester Hills has prolonged its temporary ban on new data-center proposals. The extension keeps large-scale projects from moving forward while the city studies power, water, and noise impacts. Residents within 30 miles will see whether the pause becomes permanent policy or gives way to tax-generating campuses.",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYnp0N2lLa1hmMUFEU3ZPc1Z5SUVaME5WNEJhLVREalU2Z0Vaa0JvNFVDVlBpakpROHJoeWZvcXlBWFFldTFnLUsybHJtNHpqY0JvTTVEUlktVDItRjNVZkYyWjIwTnpDamZnbnpCcExGakt4X0tzTGRNTHhIUC1yalhUU2dYQVRFQkJfMlVBSHJ3UlVhamhwVkducWhCa2MtdFBrZG1TSl9yQTU2SWpsSkN2c2lGalVCcHozX2llR1dScld4Qy1uSUZn?oc=5",
+   "source": "detroitnews.com",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Oakland",
+   "tag": "Local Government",
+   "iso": "2026-08-11T18:07:00Z",
+   "id": "b4eb518f6418",
+   "origin": "google-news",
+   "source_title": "Rochester Hills extends data center moratorium - detroitnews.com",
+   "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYnp0N2lLa1hmMUFEU3ZPc1Z5SUVaME5WNEJhLVREalU2Z0Vaa0JvNFVDVlBpakpROHJoeWZvcXlBWFFldTFnLUsybHJtNHpqY0JvTTVEUlktVDItRjNVZkYyWjIwTnpDamZnbnpCcExGakt4X0tzTGRNTHhIUC1yalhUU2dYQVRFQkJfMlVBSHJ3UlVhamhwVkducWhCa2MtdFBrZG1TSl9yQTU2SWpsSkN2c2lGalVCcHozX2llR1dScld4Qy1uSUZn?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Consumers Energy lines spark farm backlash across Michigan",
    "dek": "New transmission projects tied to data-center power needs are cutting through rural land and drawing protests. Farmers worry about lost acreage, health effects, and depressed property values. The utility says the upgrades are required to meet surging electricity demand from AI facilities.",
@@ -152,40 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOajVDOWRJdXF2SWhRU2JINUFnT0c3R2lneUkxeXY3bmJNbDh6eTZrUlpLUmRaYnZPcjd6dThCZWZmTUpwZ1FjaTVfLUZqdk41N3FabHVBaEx4S05tM1BXc3FQTWFrazNLbWhDaU1yZFJVZHMxVGY0bmJNZTMycUlFUEh3Ml8yT3BIU0NEYlhYSjduOUUzY0s3ME9Mek5QTGNzOHJlUXFld0Vvd3RqU1pxMXZUZmp0Z1hnOEZsTnBCd2tReHJHVTdEUTAyelUzSjRuWW1vcnNncHRjM0VqWFhfYXdjYW1VdHpEOUJta2lhMkExZw?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
-  },
-  {
-   "title": "Marshall blocks new data centers for a full year",
-   "dek": "The city council approved a moratorium that halts all data-center proposals for at least 12 months. Local residents worried about power demand and noise now have breathing room while planners study impacts. The delay pushes back any large-scale projects that could have drawn hundreds of megawatts from the regional grid.",
-   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNNHFBeGxtMFUzcVg2eEhMbUxwS3RxMzB3aHRna2VQTFNwcFhYUWtTUWRMNWFEc3hEeXg4MnJxZXNKYUZKRjhON0ZJY2p5MzNmWThkQi1penJPWDBZUmlZa2U5V1p5MHBNcTI2NGx6TUpyaDB5V2NGcTJLa01DdzBFMl9jdVdqUG1CTjJwWFhhNk1QYXJuOC1rTUNpd0lkMkJycXE0NUNuTTdkVmtrU1VSdmdTbzlERVNaRzV4RXI2UWFoVnNmLWRmZWE2MXFXRmE0VVpJSVdYWHMwRHI4OV9wX0ZoY1RCRWhQdlVvVmhKVnFJRnp2V1BPdGZ2TE9NRkFqTU9lU2tRYWt2cXhGajI1ZElWUQ?oc=5",
-   "source": "WWMT",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Calhoun",
-   "tag": "Local Government",
-   "iso": "2026-08-10T23:07:40Z",
-   "id": "92091e749a2b",
-   "origin": "google-news",
-   "source_title": "Marshall data center moratorium delays development by at least one year - WWMT",
-   "source_url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNNHFBeGxtMFUzcVg2eEhMbUxwS3RxMzB3aHRna2VQTFNwcFhYUWtTUWRMNWFEc3hEeXg4MnJxZXNKYUZKRjhON0ZJY2p5MzNmWThkQi1penJPWDBZUmlZa2U5V1p5MHBNcTI2NGx6TUpyaDB5V2NGcTJLa01DdzBFMl9jdVdqUG1CTjJwWFhhNk1QYXJuOC1rTUNpd0lkMkJycXE0NUNuTTdkVmtrU1VSdmdTbzlERVNaRzV4RXI2UWFoVnNmLWRmZWE2MXFXRmE0VVpJSVdYWHMwRHI4OV9wX0ZoY1RCRWhQdlVvVmhKVnFJRnp2V1BPdGZ2TE9NRkFqTU9lU2tRYWt2cXhGajI1ZElWUQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 9
-  },
-  {
-   "title": "Developer fights suburb's freeze on power-hungry server farms in court battle",
-   "dek": "A developer has filed suit against an Oakland County community after it imposed a temporary halt on new data center projects. The case will test how far local governments can go in pausing large-scale facilities that demand hundreds of megawatts and new grid upgrades. Residents 30 miles away could see higher electric rates or altered tax bases depending on the outcome.",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaGxieFB3MG5WNktTQUJJLVFuUEk5cGlhc1JmWkhNbmZ0UWozUldyUEF1LXpEdk50VllTWVp5anp6cWdBeWMzbDhib0cxZTYtNUtoMzlVQ2lKRnduTlpzVVpBMWU0bHU3Z3RpclpSbzhlY1h4QVhrakQxZGVfb3pGRXpjNThxZ28xTXNFNHZsZ3d0Zw?oc=5",
-   "source": "crainsdetroit.com",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Oakland",
-   "tag": "Local Government",
-   "iso": "2026-08-10T20:26:00Z",
-   "id": "37ba13be9975",
-   "origin": "google-news",
-   "source_title": "Data center developer sues Oakland County suburb over moratorium - crainsdetroit.com",
-   "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaGxieFB3MG5WNktTQUJJLVFuUEk5cGlhc1JmWkhNbmZ0UWozUldyUEF1LXpEdk50VllTWVp5anp6cWdBeWMzbDhib0cxZTYtNUtoMzlVQ2lKRnduTlpzVVpBMWU0bHU3Z3RpclpSbzhlY1h4QVhrakQxZGVfb3pGRXpjNThxZ28xTXNFNHZsZ3d0Zw?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
   }
  ],
  "national": {
