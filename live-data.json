@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-11T00:03:36Z",
+ "updated_at": "2026-08-11T02:22:13Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "U.P. locals team with comedian to block AI data centers",
+   "dek": "Residents in Michigan's Upper Peninsula are pushing back against proposed AI data centers that could strain local power grids and water supplies. Comedian Charlie Berens is amplifying their concerns in public opposition efforts. The fight highlights growing pushback in rural Michigan communities over energy demands from big tech projects.",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOajVDOWRJdXF2SWhRU2JINUFnT0c3R2lneUkxeXY3bmJNbDh6eTZrUlpLUmRaYnZPcjd6dThCZWZmTUpwZ1FjaTVfLUZqdk41N3FabHVBaEx4S05tM1BXc3FQTWFrazNLbWhDaU1yZFJVZHMxVGY0bmJNZTMycUlFUEh3Ml8yT3BIU0NEYlhYSjduOUUzY0s3ME9Mek5QTGNzOHJlUXFld0Vvd3RqU1pxMXZUZmp0Z1hnOEZsTnBCd2tReHJHVTdEUTAyelUzSjRuWW1vcnNncHRjM0VqWFhfYXdjYW1VdHpEOUJta2lhMkExZw?oc=5",
+   "source": "myupnow.com",
+   "region": "north",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Local Government",
+   "iso": "2026-08-11T00:10:00Z",
+   "id": "b418a050e350",
+   "origin": "google-news",
+   "source_title": "Midwestern comedian Charlie Berens joins U.P. residents to oppose A.I. data centers - myupnow.com",
+   "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOajVDOWRJdXF2SWhRU2JINUFnT0c3R2lneUkxeXY3bmJNbDh6eTZrUlpLUmRaYnZPcjd6dThCZWZmTUpwZ1FjaTVfLUZqdk41N3FabHVBaEx4S05tM1BXc3FQTWFrazNLbWhDaU1yZFJVZHMxVGY0bmJNZTMycUlFUEh3Ml8yT3BIU0NEYlhYSjduOUUzY0s3ME9Mek5QTGNzOHJlUXFld0Vvd3RqU1pxMXZUZmp0Z1hnOEZsTnBCd2tReHJHVTdEUTAyelUzSjRuWW1vcnNncHRjM0VqWFhfYXdjYW1VdHpEOUJta2lhMkExZw?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
   {
    "title": "Marshall blocks new data centers for a full year",
    "dek": "The city council approved a moratorium that halts all data-center proposals for at least 12 months. Local residents worried about power demand and noise now have breathing room while planners study impacts. The delay pushes back any large-scale projects that could have drawn hundreds of megawatts from the regional grid.",
@@ -169,23 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPeXl3QWlTWXdxQjNMMkZxZWVSWXFISFdraXlQTGRyRUZOS0Y0ZEV1U0hFLXFNVW5MSWo2emtDbXF1ZC1qU3JvSk9vYm9lVlpEaVpUYUpzUW5iR3k1aGxMLXk1LVdsQ0FyaXlzLUVQemoydmlpbDNzdWFNdWpwVTRlRUtwaVVVRlVwUjhqQmxFR3gwRkRCbUJDM0stS2ZYU25ENV9HZ3QycEdZQ0YyQ3pBUTh3Rjc0bVpTVmdjVEluWkhBbXktTTdnRWVfVzhmbFNQSEdmZFhYRzlRcl9TLVVqdlNCQ0pBbFYwZnhiRk02b2dYZUw3LUtn?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
-  },
-  {
-   "title": "AG Nessel demands answers from PSC on data center power deals",
-   "dek": "Michigan Attorney General Dana Nessel is pressing the Public Service Commission to justify how it handles surging electricity demand from proposed data centers. Residents could face higher utility bills if regulators approve large new loads without stronger oversight. The move signals growing political pushback against unchecked data center growth across the state.",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOS2ZIV295YzQ2SUk2dWRLSmw0YzFXdlRZMXQ1Z3JOYVd3VWNwa0NNclU1dUNleURYNzdjUkkzc3MyVkVYQWo1cW5hLTZ2bzF3VHJmbUdBMDhJbEl3TjdTeFJ3blpfZ1NhQ1UzVE95VUFzWGNkUmN4M09penRkbU1MdkpvZW1oSlE3Y0I3aDh4SUlHRko0aUpyQXJtbW5pRm5hSjV3WGY0dGNpWTdLU3dkMHVDcmpVM255N2U0cHMwWXVyRmFUUVhtcl9WT25sZTR2ZDNpZFA1T1lHQQ?oc=5",
-   "source": "The Detroit News",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Policy",
-   "iso": "2026-08-07T21:09:00Z",
-   "id": "efcf923141db",
-   "origin": "google-news",
-   "source_title": "Nessel wants to hold PSC 'accountable' in fight against data center - The Detroit News",
-   "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOS2ZIV295YzQ2SUk2dWRLSmw0YzFXdlRZMXQ1Z3JOYVd3VWNwa0NNclU1dUNleURYNzdjUkkzc3MyVkVYQWo1cW5hLTZ2bzF3VHJmbUdBMDhJbEl3TjdTeFJ3blpfZ1NhQ1UzVE95VUFzWGNkUmN4M09penRkbU1MdkpvZW1oSlE3Y0I3aDh4SUlHRko0aUpyQXJtbW5pRm5hSjV3WGY0dGNpWTdLU3dkMHVDcmpVM255N2U0cHMwWXVyRmFUUVhtcl9WT25sZTR2ZDNpZFA1T1lHQQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
   }
  ],
  "national": {

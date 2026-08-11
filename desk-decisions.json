@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUHV2R25IZGk5T1c4Vmd6VXJqd0JGdUV4X3lSNXhleDJscWZ3elNodlFYVmxDdFNWOTVGYUQ4RXZyNnNKclAyZVRKbTZUZlNUYS1Rcm1CMDlrUlJBSXg1OXpSZUtPT1VKY2J4LVJDRDl1bHkxMVRCVjJTV0NhekI1M2hfWXl1ZmJJVnc5MHIydm02aVpGUS1MWTd5QU9Vb0nSAZ8BQVVfeXFMUFB1dkduSGRpOU9XOFZnelVyandCRnVFeF95UjV4ZXgybHFmd3pTaHZRWFZsQ3RTVjk1RmFEOEV2cjZzSnJQMmVUSm02VGZTVGEtUXJtQjA5a1JSQUl4NTl6UmVLT09VSmNieC1SQ0Q5dWx5MTFUQlYyU1dDYXpCNTNoX1l5dWZiSVZ3OTByMnZtNmlaRlEtTFk3eUFPVW9J?oc=5",
-   "title": "Lowell billboard attacking data center gets vandalized",
-   "at": "2026-07-20T21:46:28+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Vandalism of a protest sign is a local incident showing community tension but lacks the substance of a decision, filing, or official action."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54YWF6ejh6eXpQZUpDQUpoV1dtV0pFYl9pYmpOWnFuZGxZR1IyVlZ1QXRQZnRzeVJiR1hRR0N2M3cwUjQxRkxBZTFJdVdQTHRqdXBkSzlndUNtVEU1QU02V1JFV3VKZ0hiQUx4ZzViTEdUSm56aHhOYjdwbDIyUQ?oc=5",
-   "title": "Lansing pauses all new data centers for a full year",
-   "at": "2026-07-20T21:46:28+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: This is the same Lansing moratorium already live as 'Lansing City Council Enacts 182-Day Moratorium' — the duration difference (182 days vs. one year) appears t"
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOU1HUjVqa3BLc0NVRnY1YUhNUTBQT3hBX1JsSmk4TU5NWVJtLXNtaTFpYVJtdXJUYTUxbFVaVTJveUV2bmtXdXVPMnVfMG1wd1cxMmVkNVlxcFcwV3gycHllWUp3aU1qU295VmR0YzdvZG1wZ0VRNk0tYnhWOTcwMXltc1Nmems4RTRPWVpLNVFUQ2xwOVZyaHYzc3ZkQUFESF9VZEZibFAwYzdZcndFbW5DbkxuNmlSdzJSQldfWjlYSWkyaXNKN0dR?oc=5",
    "title": "Michigan GOP lawmaker faces attack ads over data center stance",
    "at": "2026-07-20T21:46:28+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-10T23:09:09+00:00",
    "by": "news_judge",
    "note": "score 1/10: Non-story placeholder with zero news value for Michigan readers."
+  },
+  {
+   "url": "https://www.uppermichiganssource.com/2026/08/11/we-cant-be-afraid-marquette-residents-learn-how-have-voice-data-centers/",
+   "title": "Marquette Residents Learn Strategies to Influence Data Center Decisions",
+   "at": "2026-08-11T02:22:13+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Community organizing event/workshop is process-oriented without a concrete development, decision, or official action."
+  },
+  {
+   "url": "https://www.detroitnews.com/story/business/2026/08/10/meta-ceo-zuckerberg-ai-manifesto-future/91249807007/",
+   "title": "Meta Announces $1 Billion Fund to Support Communities Hosting Data Centers",
+   "at": "2026-08-11T02:22:13+00:00",
+   "by": "news_judge",
+   "note": "score 2/10: National corporate PR announcement with only tangential Michigan relevance (Louisiana mentioned, no Michigan site specified)."
   }
  ],
  "auto_published": [
@@ -2595,6 +2595,12 @@
    "title": "Marshall blocks new data centers for a full year",
    "judge_score": 9,
    "at": "2026-08-11T00:03:36Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOajVDOWRJdXF2SWhRU2JINUFnT0c3R2lneUkxeXY3bmJNbDh6eTZrUlpLUmRaYnZPcjd6dThCZWZmTUpwZ1FjaTVfLUZqdk41N3FabHVBaEx4S05tM1BXc3FQTWFrazNLbWhDaU1yZFJVZHMxVGY0bmJNZTMycUlFUEh3Ml8yT3BIU0NEYlhYSjduOUUzY0s3ME9Mek5QTGNzOHJlUXFld0Vvd3RqU1pxMXZUZmp0Z1hnOEZsTnBCd2tReHJHVTdEUTAyelUzSjRuWW1vcnNncHRjM0VqWFhfYXdjYW1VdHpEOUJta2lhMkExZw?oc=5",
+   "title": "U.P. locals team with comedian to block AI data centers",
+   "judge_score": 6,
+   "at": "2026-08-11T02:22:13Z"
   }
  ]
 }
