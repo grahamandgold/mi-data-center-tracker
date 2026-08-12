@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVWhFbTN6VUJOMWl2Slh4aVUxcF8zeHJ3S28xdUJ6R0pZa1hHQTN2M0N1Z05CUmhVelBEUFFjaWZFQzg1d3JycG42SkROLTVsZmROU0M1MEZTLUtGZDV3d3g2VEFyRDBCZWFGdnNQd0x1SEFpU2ZRMl9OdTh4TTdfYW1GNmRfT3RMXzVPbUJKNk5Rb1NiaEYyNFBQS0gzbWI5Ti1CY3BR0gG6AUFVX3lxTFBDQm1uS21OYk83a05tTmhlaFNoMTd0Zmd5RFdackJXSmFhS3FjdHFZdU8weXJWTFVzNFBSbXp0SDhER0gzNkFBZmlNb2JoclRrZllnMEVqeElRdHNnMjBkMGl6dTJHTmhyZDJfU2xTcWI4M29XTXFyUTFYZldzREVTazA4djN2UFp4WDJRWlpNOTcwdGRocklMNFhfQ1lJanNOajZzdEpIU1BxSmh6VEloRVJrTmFNX0kyUQ?oc=5",
-   "title": "Michigan suburb buys more time blocking tech facilities that strain utilities",
-   "at": "2026-07-24T21:14:39+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: This is Wixom extending its existing pause, already covered in the live story 'Wixom Keeps Data Center Pause to Shield Residents from Power Strain and Noise.'"
-  },
-  {
    "url": "https://www.easternecho.com/article/2026/07/ypsilanti-data-center-fight-continues-after-township-meeting",
    "title": "Ypsilanti Township Residents Continue Pushback on Proposed Data Center After Latest Meeting",
    "at": "2026-07-25T00:12:33+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-12T16:05:32+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Same Hyperscale Data Dowagiac sale story already killed twice by News Director."
+  },
+  {
+   "url": "https://earthjustice.org/experts/shannon-fisk/michigan%E2%80%99s-public-service-commission-grapples-with-ai-data-center-load",
+   "title": "Ratepayers may pay for DTE's 1.4-gigawatt Oracle AI data center",
+   "at": "2026-08-12T17:08:53+00:00",
+   "by": "news_judge",
+   "note": "score 8/10, duplicate: This is the same Saline/Oracle deal already covered in the live story 'Michigan AG challenges OpenAI-Oracle data center deal over costs to ratepayers' — same ch"
   }
  ],
  "auto_published": [
@@ -2727,6 +2727,12 @@
    "title": "Nessel and green groups challenge DTE power deals for Saline data centers",
    "judge_score": 6,
    "at": "2026-08-12T16:05:32Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVnRVVHNheEljOE1CWXg4eHZ3U2RkeDlycXI0VUg3RjI5RUpjMU9NekNIUnQ4RWRuVGpDbTI2eUpnNVJKRmR0OGh6dzRnNW1mcTdDQVpUOHo3U1JBcHYyVUlYeUIxYlR0NnZTWmFuN0pxZXFLMDVRMXNIdEh5Nk1iZlE2bGdXT3NBTVd1UXNNbC1YN3VUVi1LcEl0SlNvVE3SAbMBQVVfeXFMTzhUelQ1Q241UWI3b21HeDE5QkRlN1MzY19IV0RrSmNyelJUdGJYMXBoZ0ZxSmRNbVJQY2pURHZibEZrYXcydm5vc2lyMkZmZExYTmw5c05TODE4Vm9OYjlPSDhuYzRVcFc4T1ROblJhakxvZXhRajNqeWQ2d0xwOGxOZGNCUlczM1loalRuT3ZtdnFKVVI0RllZQ1RuM0VZTmgycjcyUERaUlVOcFRVSUdDd1k?oc=5",
+   "title": "Rochester Hills extends data center moratorium another year",
+   "judge_score": 8,
+   "at": "2026-08-12T17:08:53Z"
   }
  ]
 }

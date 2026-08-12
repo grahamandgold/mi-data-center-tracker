@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-12T16:05:32Z",
+ "updated_at": "2026-08-12T17:08:53Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Rochester Hills extends data center moratorium another year",
+   "dek": "Rochester Hills officials voted to keep the pause on new proposals in place. Residents near potential sites avoid immediate threats of noise, traffic and power strain from large facilities. The extension gives the city more time to write permanent rules on where and how data centers can locate.",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVnRVVHNheEljOE1CWXg4eHZ3U2RkeDlycXI0VUg3RjI5RUpjMU9NekNIUnQ4RWRuVGpDbTI2eUpnNVJKRmR0OGh6dzRnNW1mcTdDQVpUOHo3U1JBcHYyVUlYeUIxYlR0NnZTWmFuN0pxZXFLMDVRMXNIdEh5Nk1iZlE2bGdXT3NBTVd1UXNNbC1YN3VUVi1LcEl0SlNvVE3SAbMBQVVfeXFMTzhUelQ1Q241UWI3b21HeDE5QkRlN1MzY19IV0RrSmNyelJUdGJYMXBoZ0ZxSmRNbVJQY2pURHZibEZrYXcydm5vc2lyMkZmZExYTmw5c05TODE4Vm9OYjlPSDhuYzRVcFc4T1ROblJhakxvZXhRajNqeWQ2d0xwOGxOZGNCUlczM1loalRuT3ZtdnFKVVI0RllZQ1RuM0VZTmgycjcyUERaUlVOcFRVSUdDd1k?oc=5",
+   "source": "MLive.com",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Oakland",
+   "tag": "Local Government",
+   "iso": "2026-08-12T16:27:00Z",
+   "id": "d646a9d1ed85",
+   "origin": "google-news",
+   "source_title": "Data center moratorium extended in Rochester Hills - MLive.com",
+   "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVnRVVHNheEljOE1CWXg4eHZ3U2RkeDlycXI0VUg3RjI5RUpjMU9NekNIUnQ4RWRuVGpDbTI2eUpnNVJKRmR0OGh6dzRnNW1mcTdDQVpUOHo3U1JBcHYyVUlYeUIxYlR0NnZTWmFuN0pxZXFLMDVRMXNIdEh5Nk1iZlE2bGdXT3NBTVd1UXNNbC1YN3VUVi1LcEl0SlNvVE3SAbMBQVVfeXFMTzhUelQ1Q241UWI3b21HeDE5QkRlN1MzY19IV0RrSmNyelJUdGJYMXBoZ0ZxSmRNbVJQY2pURHZibEZrYXcydm5vc2lyMkZmZExYTmw5c05TODE4Vm9OYjlPSDhuYzRVcFc4T1ROblJhakxvZXhRajNqeWQ2d0xwOGxOZGNCUlczM1loalRuT3ZtdnFKVVI0RllZQ1RuM0VZTmgycjcyUERaUlVOcFRVSUdDd1k?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "Nessel and green groups challenge DTE power deals for Saline data centers",
    "dek": "Environmental groups and Attorney General Dana Nessel are appealing contracts that would let DTE supply power to large data centers in Saline Township. The outcome could affect electric rates and grid reliability for Washtenaw County residents. The appeal centers on whether the deals properly protect ratepayers from the massive new load.",
@@ -171,23 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQnc4RE11ckdIUWhReFdZZ3BnVS1xNXpEXzVtbUNBOXBZRHozUzFtSkhRbTdxam1NTWR3MUpkZ1k5MktPZXI2OWlhYlROWjlaMGhjcnR5clBKLW44X09MV01uR2pyMkhhTzAzLWs5eXloN2Y5aWJDMVhFaTlObE1QcGpsUHZ2MG9pUnFuYnZsQTBCVTAwUERPTEdCdkdyTGpPQnRJNXVxNkRKYWpYNnQxOEVDODJKRHo3eVRqVVAwbDBHTGphUVQ4enVNblAwalZoYlE?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "UM locks in Textile Road for $1.2B Los Alamos supercomputer campus",
-   "dek": "The University of Michigan chose the Textile Road site in Pittsfield Township for a massive high-performance computing facility tied to Los Alamos. The project will draw heavy power and water loads in Washtenaw County and reshape local land use. Residents 30 miles away will feel the effects through utility rates and traffic changes.",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa1prVTZXSXJwbmtiYVdDYWlHWmZGcVVycXZaQVhTb2tUdzVWVk5sdm9wV0tpUUJENjVfWkNJbE9tMjlIVzlXaUFVa0NPalIwMXktYV9Hd3VNT2I1Vk9HeVhsUXZmN0FBUVI4TFNDaTF4bHgwaTJTUWR1TWdJeTdTaWkwa1JPQkRYc0FJZmZiZ3c0TVE3aGlJU2ZyWW1rb2l2Q1EyeEVHQXlLTUZOd1NXdFlqZFBHOWIwR0dFMUYwaWdEQmlIdWt0QldqbTVHOWZUbElNY0U1QWXSAewBQVVfeXFMUGF2Z0ZUNVAxN1dkRWF5VFhRd2hHcDZCalA0UktDelJwZkM5X21GWE1OTEpDenFhSng4RTE0Tlo5Y2NSTG1wYTJzVE43bmJvSDhzc1haTER6N3hOX21PRUdGY0RVSE1qc3VRenlpNmtPRS1jNUVJR1RkLUVoMFh1RHlad0VmQXA2OGNPMVd5Q25JT2YzejVkVUFISG5QMlFPU21GeUJFdHNiRlBxek5paTRkTFg5SmtXb3FORHQwcGFNd25EVE4xb1YtaGhNZ1FtOEFlQVp2Umg2X1cwcEI2dURxMHY5WjZRSVhsRG4?oc=5",
-   "source": "mlive.com",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Local Government",
-   "iso": "2026-08-11T21:16:00Z",
-   "id": "1e74004bea66",
-   "origin": "google-news",
-   "source_title": "University of Michigan selects Textile Road site for $1.2B Los Alamos supercomputing facility - mlive.com",
-   "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa1prVTZXSXJwbmtiYVdDYWlHWmZGcVVycXZaQVhTb2tUdzVWVk5sdm9wV0tpUUJENjVfWkNJbE9tMjlIVzlXaUFVa0NPalIwMXktYV9Hd3VNT2I1Vk9HeVhsUXZmN0FBUVI4TFNDaTF4bHgwaTJTUWR1TWdJeTdTaWkwa1JPQkRYc0FJZmZiZ3c0TVE3aGlJU2ZyWW1rb2l2Q1EyeEVHQXlLTUZOd1NXdFlqZFBHOWIwR0dFMUYwaWdEQmlIdWt0QldqbTVHOWZUbElNY0U1QWXSAewBQVVfeXFMUGF2Z0ZUNVAxN1dkRWF5VFhRd2hHcDZCalA0UktDelJwZkM5X21GWE1OTEpDenFhSng4RTE0Tlo5Y2NSTG1wYTJzVE43bmJvSDhzc1haTER6N3hOX21PRUdGY0RVSE1qc3VRenlpNmtPRS1jNUVJR1RkLUVoMFh1RHlad0VmQXA2OGNPMVd5Q25JT2YzejVkVUFISG5QMlFPU21GeUJFdHNiRlBxek5paTRkTFg5SmtXb3FORHQwcGFNd25EVE4xb1YtaGhNZ1FtOEFlQVp2Umg2X1cwcEI2dURxMHY5WjZRSVhsRG4?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 9
   }
  ],
  "national": {
