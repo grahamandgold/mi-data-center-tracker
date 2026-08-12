@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaVhzV25xNzhJTDRjZ3pnUURlbUZKV3hqUThwUXBGNEFlaDRWWFA3TndtbU5vOEF4cEhQdWhjZ2hRdjZ6WnhKOW5ZOFZ3R2g0XzVad2FJYWZBd0RUQ1doaVlaRUVlem5wQ2thbXBNbzZBNFZWcnctbDZySkN1NldxdlpMMFVuNVZodThKVHdlTXoxR0dXT1ZWUDdjQ3pfRExNamZzUWZNMmx2c1h4b3JjRjdrOHlFUG83b2F1UzBTRjF0TVUwYVZ3cHVtUGhHeUlKZUJzTQ?oc=5",
-   "title": "24/7 hum from Michigan data center leaves neighbors sleepless",
-   "at": "2026-07-25T10:13:05+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicate of already-killed stories about 24/7 noise from data centers keeping neighbors awake and porch video capturing nonstop drone."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPQWp5c2R5c0ROV0J1ZF9VU3NyUjVQaV9uc0h0U1dKVV9QQVVROXFNRGVXNDBDaGZNWHhqT1Z5MkpYUHNTam5NZG1NUUZBa0NrYXowN3FMWUdkN2JyY2lpSnV4ZUlpaFNMZDZHZzBkRmJFeU50d1FnYWJ2YkQxNVh5V19lVjMtdFhjQlFOZjN6UUxwNExOUzVUT28xX3J0TV9IZEhFUXQzXzRWLXh2bmY5OFZ6UExGOU1zamRxZU9VYzl6R1FFdlBOQUdjWElocERZRFlHMGZBakFzRzMzVUtrdEdLRENWb0dXcS1LYVBPdG55NzBtTWRpXy1uaUNJNmprZFZVb1hQWXZMMWh6YXYwaGxadkNHYThiVWhwRjVINmV4U1EtZ1h3bjIxTlYyY2Nrazdr?oc=5",
    "title": "Gubernatorial hopefuls clash over who pays for Michigan data center power",
    "at": "2026-07-25T10:13:05+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-12T18:29:44+00:00",
    "by": "news_judge",
    "note": "score 4/10, duplicate: Duplicate of killed 'Hyperscale Data weighs sale of Dowagiac data center' — same potential sale, same facility, same speculative nature."
+  },
+  {
+   "url": "https://www.microgridknowledge.com/utility-microgrids/article/55397181/how-pjms-plans-for-meeting-data-center-energy-needs-make-deploying-microgrids-and-ders-difficult",
+   "title": "PJM Plan Risks Costlier Fossil Power for Michigan Data Centers After 2027",
+   "at": "2026-08-12T19:41:28+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: National grid policy story with Michigan angle but no specific Michigan decision, filing, or action—speculative impact on future costs rather than concrete deve"
   }
  ],
  "auto_published": [
