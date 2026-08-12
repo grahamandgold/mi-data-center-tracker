@@ -1,27 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPQWp5c2R5c0ROV0J1ZF9VU3NyUjVQaV9uc0h0U1dKVV9QQVVROXFNRGVXNDBDaGZNWHhqT1Z5MkpYUHNTam5NZG1NUUZBa0NrYXowN3FMWUdkN2JyY2lpSnV4ZUlpaFNMZDZHZzBkRmJFeU50d1FnYWJ2YkQxNVh5V19lVjMtdFhjQlFOZjN6UUxwNExOUzVUT28xX3J0TV9IZEhFUXQzXzRWLXh2bmY5OFZ6UExGOU1zamRxZU9VYzl6R1FFdlBOQUdjWElocERZRFlHMGZBakFzRzMzVUtrdEdLRENWb0dXcS1LYVBPdG55NzBtTWRpXy1uaUNJNmprZFZVb1hQWXZMMWh6YXYwaGxadkNHYThiVWhwRjVINmV4U1EtZ1h3bjIxTlYyY2Nrazdr?oc=5",
-   "title": "Gubernatorial hopefuls clash over who pays for Michigan data center power",
-   "at": "2026-07-25T10:13:05+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicate of already-killed stories about gubernatorial candidates splitting/clashing on data center power costs and tax breaks."
-  },
-  {
-   "url": "https://www.aol.com/articles/openai-chooses-georgia-largest-ever-093000000.html",
-   "title": "OpenAI Selects Georgia Site for Largest-Ever Data Center Campus",
-   "at": "2026-07-25T13:55:22+00:00",
-   "by": "news_judge",
-   "note": "score 2/10: National story about Georgia with no Michigan angle; already killed a similar OpenAI Georgia story."
-  },
-  {
-   "url": "https://thehill.com/video-clips/5986451-watch-live-donald-trump-white-house-ai-data-center-ratepayer-protection-pledge-expansion-epa/",
-   "title": "Trump Pushes Expanded Ratepayer Protections Tied to AI Data Center Power Costs",
-   "at": "2026-07-25T15:13:02+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National policy announcement with Michigan implications but no Michigan-specific action or decision; similar ratepayer protection theme already covered in live "
-  },
-  {
    "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
    "title": "Fallen Power Line Highlights Data Center Grid Vulnerabilities as AI Demand Surges",
    "at": "2026-07-26T09:36:41+00:00",
@@ -1399,6 +1378,27 @@
    "at": "2026-08-12T19:41:28+00:00",
    "by": "news_judge",
    "note": "score 4/10: National grid policy story with Michigan angle but no specific Michigan decision, filing, or action—speculative impact on future costs rather than concrete deve"
+  },
+  {
+   "url": "https://planetdetroit.org/2026/08/u-m-confirms-ypsilanti-data-center/",
+   "title": "Bridge Michigan reports U-M confirms Huron River site for controversial $1.2 billion computing facility amid local opposition",
+   "at": "2026-08-12T20:57:20+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicate of already-live 'Ypsilanti Township vows fight against UM's $1.2B Huron River data center' — same project confirmation and township opposition."
+  },
+  {
+   "url": "https://www.facebook.com/timjbish/videos/indianapolis-just-voted-23-to-1-to-freeze-every-new-ai-data-center-in-marion-cou/1596707355797503/",
+   "title": "Indianapolis 23-1 vote halts new AI data centers in Marion County to 2027",
+   "at": "2026-08-12T20:57:20+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: National trend piece from Indianapolis with only tangential Michigan relevance through comparison to broader moratorium movement."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNOHJBd2JoYjJpZ1pjaGRuYXI3ZkNWRjNiLW9MLU9VdldKc3JkdlBXM2JDNUxSY05oNlpUYS15R3QzTUJHUHd3MExqSFpTaWdyVGNwdDZEYTVzZE9YOExDRGNsV1NWLUF0WGp3RDFZc3hSbXNEYVVGbmNqLXEya241bmY3al9YOV9PTTVTOTRGaE9ycWw2QXdFVnNJSlYxQzMtREphYW4zbVVqdF9Xdng2UkI4WmJmT1I1ZmF6TmhaYzAzMUpUWmNCYlJyS1RjQkMxNUxMMjZhdlVnRnVw?oc=5",
+   "title": "UM Los Alamos computing site draws Washtenaw pushback over location",
+   "at": "2026-08-12T20:57:20+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicate of already-live 'Ypsilanti Township vows fight against UM's $1.2B Huron River data center' — same Los Alamos/UM computing facility and Washtenaw oppos"
   }
  ],
  "auto_published": [
