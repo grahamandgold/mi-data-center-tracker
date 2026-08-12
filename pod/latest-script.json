@@ -1,10 +1,10 @@
 {
- "title": "Evenings with Graham & Emmy",
- "teaser": "UM picks Textile Road for $1.2B Los Alamos facility—what it means for bills and land use.",
+ "title": "Mornings with Graham & Emmy",
+ "teaser": "Gonzalez launches statewide push for data center rules on power and water risks.",
  "lines": [
   {
    "host": "Graham",
-   "text": "Good evening and welcome to Evenings with Graham & Emmy—the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
+   "text": "Good morning, and welcome to Mornings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
   },
   {
    "host": "Emmy",
@@ -12,266 +12,234 @@
   },
   {
    "host": "Graham",
-   "text": "Tonight we're diving into the University of Michigan's decision to lock in the Textile Road site in Pittsfield Township for a massive high-performance computing campus tied to Los Alamos."
+   "text": "It's a busy Wednesday morning across the state, and our big story today is Senator Gonzalez hitting the road on a new tour to build support for tighter oversight of these AI facilities."
   },
   {
    "host": "Emmy",
-   "text": "Exactly, Graham. This one feels different because it's not just another server farm—it's a billion-dollar supercomputer project with serious power and water demands right here in Washtenaw County."
+   "text": "That sounds like it could shape how a lot of these projects move forward or get reined in."
   },
   {
    "host": "Graham",
-   "text": "Let's start there, Emmy. The university chose Textile Road today for this $1.2 billion facility. What stands out to you about the location and the scale?"
+   "text": "Exactly. The tour is highlighting risks to electric reliability and water supplies in rural and suburban spots where proposals keep popping up."
   },
   {
    "host": "Emmy",
-   "text": "The location in Pittsfield Township puts it in a spot where land use changes could ripple out fast. Residents thirty miles away will notice through utility rates and traffic, and I'm curious how this fits into the broader pattern we've seen with data centers across the state."
+   "text": "Why now? What's driving the push for these rules at the state level?"
   },
   {
    "host": "Graham",
-   "text": "It does build on a running story. Michigan has seen multiple townships and cities pause or block projects over the last year because of exactly these concerns—power draw, water use, and how they affect local grids and farmland."
+   "text": "Residents are getting a direct chance to weigh in before more campuses get approved, and the senator is framing it around protecting local infrastructure."
   },
   {
    "host": "Emmy",
-   "text": "Walk me through the power side, Graham. A project like this tied to Los Alamos—how much electricity are we talking about, and who pays for the upgrades?"
+   "text": "I've been wondering how this fits with all the local pauses we've seen. Is this building on that momentum?"
   },
   {
    "host": "Graham",
-   "text": "The facility will pull heavy loads, similar to other high-performance computing sites. Utilities like Consumers Energy and DTE have already flagged that new transmission lines are needed statewide to handle surging demand from AI and research facilities."
+   "text": "It seems that way. Communities have been using moratoria to buy time for studies, and now there's a statewide effort to set clearer standards."
   },
   {
    "host": "Emmy",
-   "text": "And those lines are sparking backlash from farmers who worry about lost acreage and property values. How does that connect to this UM project specifically?"
+   "text": "What kind of rules are we talking about? Limits on size, water use, or power contracts?"
   },
   {
    "host": "Graham",
-   "text": "The Textile Road site will add to that pressure in Washtenaw County. Even if the supercomputer itself isn't a traditional hyperscale data center, the power and water needs are comparable, and the university's choice reshapes local planning."
+   "text": "The focus is on oversight that addresses electric reliability and water supplies, especially in areas that aren't set up for industrial-scale demand."
   },
   {
    "host": "Emmy",
-   "text": "What about water? These facilities often need massive cooling. Is that a big factor here, or is the bigger issue the land itself?"
+   "text": "And how does that connect to people's electric bills?"
   },
   {
    "host": "Graham",
-   "text": "Both matter. The project will draw significant water in a county already balancing growth and resources. Pittsfield Township will see direct land-use changes, while the rate impacts spread further."
+   "text": "Large facilities can strain the grid, and if new power isn't added fast enough, ratepayers often end up covering the upgrades through higher bills."
   },
   {
    "host": "Emmy",
-   "text": "I'm thinking about the residents thirty miles out. How exactly do electric bills rise from a project like this?"
+   "text": "That makes sense. What about water? Are we talking about cooling systems that pull from local aquifers or rivers?"
   },
   {
    "host": "Graham",
-   "text": "When utilities build new lines or generation to meet the demand, those costs get spread across all ratepayers. We've seen that play out in other states where data-center growth drove up bills for everyone."
+   "text": "Yes, data centers use a lot for cooling, and in rural spots that can compete with farms and households, especially during dry spells."
   },
   {
    "host": "Emmy",
-   "text": "And traffic changes—does the university expect construction traffic or ongoing operations to affect nearby roads?"
+   "text": "Farmland is already taking hits from transmission lines too. How does this tour address that bigger picture?"
   },
   {
    "host": "Graham",
-   "text": "The site choice will bring both during build-out and then regular operations. Local officials will have to manage that alongside the tax revenue the project could generate."
+   "text": "The stops are meant to give folks in those areas a voice on where projects land and what protections are in place."
   },
   {
    "host": "Emmy",
-   "text": "Who are the key players here besides the university? Los Alamos is the partner, but who else has a say?"
+   "text": "Who are the main players here besides the senator?"
   },
   {
    "host": "Graham",
-   "text": "Pittsfield Township zoning and planning, plus the utilities that will supply the power. State regulators could also weigh in on any environmental or grid impacts."
+   "text": "Local officials, residents, utilities, and developers are all watching closely as the tour moves through proposed sites."
   },
   {
    "host": "Emmy",
-   "text": "How long has this site selection been in the works? Any prior public discussion we should know about?"
+   "text": "What's the history of these fights in Michigan so far?"
   },
   {
    "host": "Graham",
-   "text": "The announcement came today, but the university has been evaluating locations for high-performance computing expansion. This feels like the culmination of that process."
+   "text": "Towns have been extending bans while they study impacts, and lawsuits are starting to pop up over blocked projects."
   },
   {
    "host": "Emmy",
-   "text": "What happens next on the ground? Construction timelines, more hearings, or immediate pushback?"
+   "text": "How many places have paused already?"
   },
   {
    "host": "Graham",
-   "text": "Expect site work to begin once permits clear, with township meetings likely drawing crowds similar to what we've seen in Morley and Rochester Hills. The lawsuit in Oakland County shows developers are ready to fight blocks in court."
+   "text": "Quite a few across the state, from suburbs to rural counties, all trying to get ahead of the wave."
   },
   {
    "host": "Emmy",
-   "text": "That Oakland lawsuit—does it set any precedent that could affect the UM project or other Washtenaw plans?"
+   "text": "What happens next after these public stops?"
   },
   {
    "host": "Graham",
-   "text": "It puts land-use authority and tax revenue questions in front of a judge. If the developer wins, it could make it harder for municipalities to say no to large projects on power and water grounds."
+   "text": "The goal is to gather support for legislation that sets statewide guardrails before more approvals happen."
   },
   {
    "host": "Emmy",
-   "text": "Rochester Hills just extended its ban another year for the same reasons. How many places are now in some kind of pause mode?"
+   "text": "Could this lead to actual bills this session?"
   },
   {
    "host": "Graham",
-   "text": "At least a handful across the state—Rochester Hills, Lowell is still drafting rules, and Whitehall Township is working on its first ordinance. The pattern is clear: communities want time to study impacts before approving anything big."
+   "text": "That's the hope — turning resident feedback into concrete proposals that balance growth with protections."
   },
   {
    "host": "Emmy",
-   "text": "Detroit capped new facilities at small scale and DTE told planners the grid can't handle hyperscale. Does that make Washtenaw County more attractive for projects like UM's?"
+   "text": "And for towns 30 or 60 miles away, why should they care?"
   },
   {
    "host": "Graham",
-   "text": "It could. Places with stronger grids or willing utilities become targets, which is why the Consumers Energy transmission fights are heating up in rural areas."
+   "text": "Power and water don't respect city limits, so one big project can ripple out through rates and supply."
   },
   {
    "host": "Emmy",
-   "text": "Farmers in those areas are protesting the new lines. What are their main worries beyond lost land?"
+   "text": "Any sense of how utilities are responding to the tour?"
   },
   {
    "host": "Graham",
-   "text": "Health effects from electromagnetic fields and depressed property values are the big ones. The utility says the lines are required for the demand, but locals want more study."
+   "text": "They're already dealing with surging demand from AI, so clearer rules could help them plan upgrades better."
   },
   {
    "host": "Emmy",
-   "text": "Morley residents packed a room and halted talks. Is that the kind of turnout we might see in Pittsfield?"
+   "text": "What if the tour doesn't build enough support?"
   },
   {
    "host": "Graham",
-   "text": "Very likely. One hundred seventy people showed up in Morley over power, noise, and water. A university-backed supercomputer could draw even more attention."
+   "text": "Then we might see more piecemeal local rules and continued uncertainty for everyone involved."
   },
   {
    "host": "Emmy",
-   "text": "Mount Pleasant's contract still has that Wisconsin-rejected power plant clause. Could something similar appear in the UM deal?"
+   "text": "Sounds like a pivotal moment."
   },
   {
    "host": "Graham",
-   "text": "It's possible if the project needs dedicated generation. Out-of-state regulatory fights have already shown how they can shape Michigan bills."
+   "text": "It really does. Let's keep an eye on how the stops go and what feedback comes back."
   },
   {
    "host": "Emmy",
-   "text": "Lowell is still months away from new rules. Any risk that projects slip through before standards tighten?"
+   "text": "Moving to quick hits, East Lansing just extended its data center freeze for another year."
   },
   {
    "host": "Graham",
-   "text": "That's the concern local officials have raised—proposals could move under current weaker rules until the new ordinance is ready."
+   "text": "Right, the city council voted to keep the moratorium in place, blocking new applications while they study long-term impacts."
   },
   {
    "host": "Emmy",
-   "text": "Whitehall Township is drafting its first rules on size, noise, and power. How does that compare to what Pittsfield might face?"
+   "text": "And residents 30 miles away in the Lansing region face the same risks if something lands nearby?"
   },
   {
    "host": "Graham",
-   "text": "Similar process—rural townships trying to get ahead of impacts before a big project lands. The outcome in one place often influences neighbors."
+   "text": "Exactly, so the extension keeps zoning rules steady in the meantime."
   },
   {
    "host": "Emmy",
-   "text": "Overall, Graham, how do you see this UM announcement changing the statewide conversation?"
+   "text": "Next, a University of Michigan regent is urging a pause on the Ypsilanti Township proposal over grid strain."
   },
   {
    "host": "Graham",
-   "text": "It raises the stakes. A research institution like Michigan adds legitimacy, but the power and water demands are the same as commercial facilities, so the pushback will likely follow the same script."
+   "text": "Yes, highlighting electricity demand and local infrastructure costs that could lead to rate hikes without new safeguards."
   },
   {
    "host": "Emmy",
-   "text": "And the bigger issue behind it all is really about who decides where these facilities go and who bears the costs."
+   "text": "Kalamazoo commissioners are set to decide on a six-month ban today."
   },
   {
    "host": "Graham",
-   "text": "That's the core tension—local control versus the economic and research benefits, with ratepayers and farmers often caught in the middle."
+   "text": "That would halt new proposals and give time to write permanent rules before any project advances."
   },
   {
    "host": "Emmy",
-   "text": "Thanks for laying that out. Let's move to some quick hits from around the state."
+   "text": "Michigan's AG is challenging an OpenAI-Oracle deal over costs to ratepayers."
   },
   {
    "host": "Graham",
-   "text": "A data-center developer sued an Oakland County municipality today after officials blocked or delayed its project. The case puts land use, taxes, and power demand before a judge."
+   "text": "Dana Nessel is pushing back on potential spikes in household electricity bills from that arrangement."
   },
   {
    "host": "Emmy",
-   "text": "Residents there will feel any outcome in their electric bills and property taxes. It's a direct test of how far local governments can push back."
+   "text": "Corunna adopted new zoning rules for future data centers."
   },
   {
    "host": "Graham",
-   "text": "Rochester Hills extended its temporary ban on new data centers another year while it studies power, water, and noise. The pause stays in place for now."
+   "text": "Those standards in Shiawassee County now set clearer limits on size and location to protect infrastructure."
   },
   {
    "host": "Emmy",
-   "text": "That keeps large projects on hold and gives the city time to decide if the ban becomes permanent policy."
+   "text": "University of Michigan locked in the Textile Road site for a big Los Alamos supercomputer campus."
   },
   {
    "host": "Graham",
-   "text": "Consumers Energy's new transmission lines tied to data-center demand are drawing farm protests across Michigan. Lost acreage and property values are the main concerns."
+   "text": "The $1.2 billion project in Pittsfield Township will draw heavy power and water in Washtenaw County."
   },
   {
    "host": "Emmy",
-   "text": "The utility says the upgrades are required for AI demand, but rural residents want more say before lines cut through their land."
+   "text": "Yesterday a developer sued an Oakland County town after a project was blocked."
   },
   {
    "host": "Graham",
-   "text": "In Morley, a packed crowd forced officials to postpone any discussion of a proposed data facility. Power, noise, and water worries dominated."
+   "text": "That lawsuit could reshape how property taxes and power costs are handled going forward."
   },
   {
    "host": "Emmy",
-   "text": "The delay gives residents more time to organize before the project advances."
+   "text": "Rochester Hills extended its ban another year amid power and water worries."
   },
   {
    "host": "Graham",
-   "text": "Detroit adopted rules capping new data centers at small scale so they don't strain the local grid the way massive facilities have elsewhere."
+   "text": "The suburb is studying impacts while keeping large proposals on hold."
   },
   {
    "host": "Emmy",
-   "text": "That protects residents from heavy rate hikes and noise while still allowing limited tech growth."
+   "text": "And Consumers Energy transmission lines are sparking farm backlash."
   },
   {
    "host": "Graham",
-   "text": "DTE told planners the Detroit grid is too weak for hyperscale centers. Six small ones already operate, but bigger ones are on hold pending studies."
+   "text": "Farmers are protesting lost land and property values tied to upgrades for data center demand."
   },
   {
    "host": "Emmy",
-   "text": "Council members and residents are pushing for a moratorium until the impacts are clearer."
+   "text": "On deck for today, Speaker Township Planning Commission meets on an ordinance covering cryptocurrency data mining, data centers including AI, and residential battery storage."
   },
   {
    "host": "Graham",
-   "text": "Yesterday in Mount Pleasant, the data center contract still includes a power plant provision already rejected in Wisconsin. Higher local energy costs remain a risk."
+   "text": "That's a chance for residents to weigh in directly on the rules."
   },
   {
    "host": "Emmy",
-   "text": "It shows how out-of-state regulatory fights can directly affect Michigan power bills."
+   "text": "Full sources and the live map at the Michigan Data Center Tracker."
   },
   {
    "host": "Graham",
-   "text": "Lowell officials said yesterday that new zoning and permitting standards for data centers won't be ready for several more months."
-  },
-  {
-   "host": "Emmy",
-   "text": "Until then, proposals could move under current rules, leaving residents with little say on power and water demands."
-  },
-  {
-   "host": "Graham",
-   "text": "Whitehall Township reviewed its first draft ordinance yesterday, setting limits on size, noise, and power use in a rural area."
-  },
-  {
-   "host": "Emmy",
-   "text": "Muskegon County residents will see how those rules shape taxes and grid strain depending on what passes."
-  },
-  {
-   "host": "Graham",
-   "text": "Now to what's on deck. Two meetings tonight that listeners can actually attend."
-  },
-  {
-   "host": "Emmy",
-   "text": "Lowell Township Planning Commission meets tonight on data center ordinance development and power concerns for the proposed Microsoft project."
-  },
-  {
-   "host": "Graham",
-   "text": "And Portage City Council discusses the Data Center Industrial District zoning."
-  },
-  {
-   "host": "Emmy",
-   "text": "Both are live and open to the public—good places to hear directly from officials and neighbors."
-  },
-  {
-   "host": "Graham",
-   "text": "Full sources and the live map at the Michigan Data Center Tracker. We're back tomorrow."
+   "text": "We're back tomorrow."
   }
  ],
- "episode_title": "UM Supercomputer Campus Locked In as Power and Water Fights Spread",
- "show": "Evenings with Graham & Emmy",
- "daypart": "Evenings"
+ "episode_title": "Sen. Gonzalez Kicks Off Tour for Tighter Data Center Oversight",
+ "show": "Mornings with Graham & Emmy",
+ "daypart": "Mornings"
 }
