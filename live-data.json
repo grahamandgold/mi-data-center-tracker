@@ -1,7 +1,41 @@
 {
- "updated_at": "2026-08-12T14:40:53Z",
+ "updated_at": "2026-08-12T16:05:32Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Nessel and green groups challenge DTE power deals for Saline data centers",
+   "dek": "Environmental groups and Attorney General Dana Nessel are appealing contracts that would let DTE supply power to large data centers in Saline Township. The outcome could affect electric rates and grid reliability for Washtenaw County residents. The appeal centers on whether the deals properly protect ratepayers from the massive new load.",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBuNUpiemdoVFdLOXNyVThxdnlRMUgtU1c2amJ1YzlOdWNsTG9uR2FPOG85VFhkaWIySVViaDJOMmplRnJacXV4Z0tONjQ0TUFPdGRIX0Rxc2NVSUdZSXRCZ0dxc3hBM3lJMDRBMTFwV0pFZHhPaEdEV3RB?oc=5",
+   "source": "Planet Detroit",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Power & Grid",
+   "iso": "2026-08-12T15:30:41Z",
+   "id": "02c9168874f1",
+   "origin": "google-news",
+   "source_title": "Environmental groups, Nessel make arguments in appeal of DTE Energy's Saline Township data center contracts - Planet Detroit",
+   "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBuNUpiemdoVFdLOXNyVThxdnlRMUgtU1c2amJ1YzlOdWNsTG9uR2FPOG85VFhkaWIySVViaDJOMmplRnJacXV4Z0tONjQ0TUFPdGRIX0Rxc2NVSUdZSXRCZ0dxc3hBM3lJMDRBMTFwV0pFZHhPaEdEV3RB?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
+  {
+   "title": "Ypsilanti Township vows fight against UM's $1.2B Huron River data center",
+   "dek": "University of Michigan has picked a Huron River site in Ypsilanti Township for a major computing facility. Township officials say they will oppose the project over concerns about water use, traffic, and local control. Residents 30 miles away could see indirect effects on regional power demand and tax base.",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mU240QVBVZ0h1M0NaYlNHY2VPWHVuTU1YOUlIT2ZvWjBYc2h6WWY0UTFQWnA0eGNrOEt3VllXN1dJcllsM1QtTW5JQ0tOaWhTdWgwLWlpMUlaNzJCU1FNcnFWNDh3QVp6QTMzaTBWQTlzQ2hIUF8tSA?oc=5",
+   "source": "Planet Detroit",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Local Government",
+   "iso": "2026-08-12T14:39:22Z",
+   "id": "cda47689d929",
+   "origin": "google-news",
+   "source_title": "University of Michigan confirms Huron River site for $1.2 billion computing facility: Ypsilanti Township vows to fight back - Planet Detroit",
+   "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mU240QVBVZ0h1M0NaYlNHY2VPWHVuTU1YOUlIT2ZvWjBYc2h6WWY0UTFQWnA0eGNrOEt3VllXN1dJcllsM1QtTW5JQ0tOaWhTdWgwLWlpMUlaNzJCU1FNcnFWNDh3QVp6QTMzaTBWQTlzQ2hIUF8tSA?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "Morley delays hydro data center hearing to Aug 18",
    "dek": "Morley officials pushed back a meeting on a proposed hydro-powered data center. Residents near the site want details on power use, water draw and tax impact before any vote. The delay gives locals more time to review plans that could reshape the small Mecosta County community.",
@@ -154,40 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa1prVTZXSXJwbmtiYVdDYWlHWmZGcVVycXZaQVhTb2tUdzVWVk5sdm9wV0tpUUJENjVfWkNJbE9tMjlIVzlXaUFVa0NPalIwMXktYV9Hd3VNT2I1Vk9HeVhsUXZmN0FBUVI4TFNDaTF4bHgwaTJTUWR1TWdJeTdTaWkwa1JPQkRYc0FJZmZiZ3c0TVE3aGlJU2ZyWW1rb2l2Q1EyeEVHQXlLTUZOd1NXdFlqZFBHOWIwR0dFMUYwaWdEQmlIdWt0QldqbTVHOWZUbElNY0U1QWXSAewBQVVfeXFMUGF2Z0ZUNVAxN1dkRWF5VFhRd2hHcDZCalA0UktDelJwZkM5X21GWE1OTEpDenFhSng4RTE0Tlo5Y2NSTG1wYTJzVE43bmJvSDhzc1haTER6N3hOX21PRUdGY0RVSE1qc3VRenlpNmtPRS1jNUVJR1RkLUVoMFh1RHlad0VmQXA2OGNPMVd5Q25JT2YzejVkVUFISG5QMlFPU21GeUJFdHNiRlBxek5paTRkTFg5SmtXb3FORHQwcGFNd25EVE4xb1YtaGhNZ1FtOEFlQVp2Umg2X1cwcEI2dURxMHY5WjZRSVhsRG4?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 9
-  },
-  {
-   "title": "Lawsuit over blocked server farm could reshape property taxes, power costs",
-   "dek": "A data-center developer has filed suit against an Oakland County municipality after local officials blocked or delayed its project. The lawsuit puts the fight over land use, tax revenue, and power demand directly in front of a judge. Oakland County residents will feel the outcome in their electric bills and property taxes whether the project is approved or killed.",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaVB5UmxLalQ1bnZYT2V6T3FXVkJUZlctaFYzR0VjVnBsQ2k3dm1yU25FTGJmdEdYc0x3SG5tVXFMNWpqZ2RJdmRpYXNoMmhSYU9EcFFDQnQzOTAxNVBpc1d3MGtuZHl6S05Pa2pBZDhUaEtwM1Uxb2VuQTNJU2d6Ny1RMS1WMmZWRmVpR0ozdm9iODJ5NnRRbGJR0gGuAUFVX3lxTE9MaGZoSy0yRHlOZVY0Zzd1X2VtdG92TGZ0dVcwcGRrQWUydjNKN3dqTHZNSmxrTHpYLVRqMHZnOG1vLVRlVHRGMTcyRlhBLUpGLW1UX0xmOVZsU1FoSnFtR0swZGhiUkItX0pUTDdIdG83ZUoyQmlaN0I4bVIwWkdvLWFQNU1NTUt5QmdNWlhaeTVuT3o1RlZfNHpfRHdPRUJUT1RRdTZNNWhfY0pYdw?oc=5",
-   "source": "mlive.com",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Oakland",
-   "tag": "Local Government",
-   "iso": "2026-08-11T19:14:00Z",
-   "id": "9f8a37ee76af",
-   "origin": "google-news",
-   "source_title": "Data-center developer sues Oakland County city - mlive.com",
-   "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaVB5UmxLalQ1bnZYT2V6T3FXVkJUZlctaFYzR0VjVnBsQ2k3dm1yU25FTGJmdEdYc0x3SG5tVXFMNWpqZ2RJdmRpYXNoMmhSYU9EcFFDQnQzOTAxNVBpc1d3MGtuZHl6S05Pa2pBZDhUaEtwM1Uxb2VuQTNJU2d6Ny1RMS1WMmZWRmVpR0ozdm9iODJ5NnRRbGJR0gGuAUFVX3lxTE9MaGZoSy0yRHlOZVY0Zzd1X2VtdG92TGZ0dVcwcGRrQWUydjNKN3dqTHZNSmxrTHpYLVRqMHZnOG1vLVRlVHRGMTcyRlhBLUpGLW1UX0xmOVZsU1FoSnFtR0swZGhiUkItX0pUTDdIdG83ZUoyQmlaN0I4bVIwWkdvLWFQNU1NTUt5QmdNWlhaeTVuT3o1RlZfNHpfRHdPRUJUT1RRdTZNNWhfY0pYdw?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
-  },
-  {
-   "title": "Michigan suburb blocks server farms another year amid power, water worries",
-   "dek": "Rochester Hills has prolonged its temporary ban on new data-center proposals. The extension keeps large-scale projects from moving forward while the city studies power, water, and noise impacts. Residents within 30 miles will see whether the pause becomes permanent policy or gives way to tax-generating campuses.",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYnp0N2lLa1hmMUFEU3ZPc1Z5SUVaME5WNEJhLVREalU2Z0Vaa0JvNFVDVlBpakpROHJoeWZvcXlBWFFldTFnLUsybHJtNHpqY0JvTTVEUlktVDItRjNVZkYyWjIwTnpDamZnbnpCcExGakt4X0tzTGRNTHhIUC1yalhUU2dYQVRFQkJfMlVBSHJ3UlVhamhwVkducWhCa2MtdFBrZG1TSl9yQTU2SWpsSkN2c2lGalVCcHozX2llR1dScld4Qy1uSUZn?oc=5",
-   "source": "detroitnews.com",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Oakland",
-   "tag": "Local Government",
-   "iso": "2026-08-11T18:07:00Z",
-   "id": "b4eb518f6418",
-   "origin": "google-news",
-   "source_title": "Rochester Hills extends data center moratorium - detroitnews.com",
-   "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYnp0N2lLa1hmMUFEU3ZPc1Z5SUVaME5WNEJhLVREalU2Z0Vaa0JvNFVDVlBpakpROHJoeWZvcXlBWFFldTFnLUsybHJtNHpqY0JvTTVEUlktVDItRjNVZkYyWjIwTnpDamZnbnpCcExGakt4X0tzTGRNTHhIUC1yalhUU2dYQVRFQkJfMlVBSHJ3UlVhamhwVkducWhCa2MtdFBrZG1TSl9yQTU2SWpsSkN2c2lGalVCcHozX2llR1dScld4Qy1uSUZn?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {
