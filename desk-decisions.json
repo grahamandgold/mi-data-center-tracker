@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.cbsnews.com/detroit/news/saline-township-reverses-vote-limit-oracles-data-center-tax-break/",
-   "title": "Saline Township Restores Full Tax Break for Oracle's $43B Data Center",
-   "at": "2026-07-24T09:59:47+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: This is the same Saline Township tax break reversal already covered in 'Saline Township flips, restoring Oracle's shot at big tax break' and 'Oracle locks in fu"
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbTJPaVN6c1U1UnNlXy02emh2TzlmalMyUkpXMzlwT2J2b1pKbVhGMTlVMGRxSmJvOUFGbEVscFRKYW9uaFI5QXhiZWxTZlJmRGkwSjNnQVRKc0RIXzNmMlFaQXNvZGdZR3dKbm9kTm5VNVM2aGhrVzYzeWh5cEo5aExVQ1RoSEg4WmZhRExQYllNUDZ1LUE?oc=5",
    "title": "Robots roll in at Michigan AI data center as Hyperscale expands",
    "at": "2026-07-24T11:49:36+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-12T10:38:46+00:00",
    "by": "news_judge",
    "note": "score 1/10, duplicate: Duplicate of already-live story 'UM locks in Textile Road for $1.2B Los Alamos supercomputer campus' reporting the same site selection decision."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ3lMcXAydmhxbmZ1VlZjbTROb2wySVM4ZDBXVFNvU2NFM2dIWHpMTGE3OEFxNGpJUFBDaS0wb3c4TUdsSm95LWl1MmxfbGFWR0tqXy1DVURnWWdlc05LOG1MMkJKVW1lLUZPQklabE9qMVk1anQyV2YyZC1QVnFwaVV3azk4SGxQZ3ZDUGF6NVVnTGFlZ2VuT01qQ3I?oc=5",
+   "title": "Lansing hosts next stops on statewide tour pushing data center regulations",
+   "at": "2026-08-12T13:35:51+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Incremental follow-up to Sen. Gonzalez's already-live tour; no new decision, filing, or concrete development—just additional tour stops in the same ongoing advo"
   }
  ],
  "auto_published": [
