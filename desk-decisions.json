@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.walb.com/video/2026/07/22/openai-announces-plans-new-data-center-effingham-county/",
-   "title": "OpenAI Unveils Plans for Major Data Center in Georgia's Effingham County",
-   "at": "2026-07-23T06:37:32+00:00",
-   "by": "news_judge",
-   "note": "score 2/10: National story about Georgia with no Michigan angle or impact."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT1NnRGw0RHhXUE0xbzVCcFNQZE9PRHhld0IzcVJpNDY4UGlyNHU2STV4Nm5nWVpuR0FhdFdEZEFjRklvNDZQM3p4WDRqUWR0YVNmWWFLRkpEdHVGSXJyRDRKelBocWxmcUpkUFJ1STFrWHBEVDdFbWtTUldwbkZ1Z2xibDdFOWtzTDU0UFJaOEF4N3pxLUIzZ1cwRQ?oc=5",
    "title": "Michigan keeps data center freeze after rejecting developer's ask",
    "at": "2026-07-23T09:31:24+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-11T23:52:28+00:00",
    "by": "news_judge",
    "note": "score 4/10: Educational event announcement with no concrete policy action, filing, or project development; soft community engagement story."
+  },
+  {
+   "url": "https://www.aol.com/articles/missouri-lawmakers-unveil-framework-data-233547000.html",
+   "title": "Missouri caucus releases neutral guide for communities facing data center proposals",
+   "at": "2026-08-12T02:35:51+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National guidance document from Missouri with no Michigan-specific action or impact."
   }
  ],
  "auto_published": [
@@ -2673,6 +2673,12 @@
    "title": "Corunna adopts rules to steer future data center projects",
    "judge_score": 7,
    "at": "2026-08-11T22:53:48Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jamNzNGtPY1BLTkpNSzBLcUxVc3BQTFBRNUVXQ1o4a1dhLXJlM2kteEVUQk5GTnBJZWFGY1ZTVkpyTlNtcFR3V2dZVWJvMnZ2ZXhfejJhRE9IUdIBWkFVX3lxTE1jamNzNGtPY1BLTkpNSzBLcUxVc3BQTFBRNUVXQ1o4a1dhLXJlM2kteEVUQk5GTnBJZWFGY1ZTVkpyTlNtcFR3V2dZVWJvMnZ2ZXhfejJhRE9IUQ?oc=5",
+   "title": "Michigan AG challenges OpenAI-Oracle data center deal over costs to ratepayers",
+   "judge_score": 8,
+   "at": "2026-08-12T02:35:51Z"
   }
  ]
 }

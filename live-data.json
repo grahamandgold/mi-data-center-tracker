@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-11T23:52:18+00:00",
+ "updated_at": "2026-08-12T02:35:51Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Michigan AG challenges OpenAI-Oracle data center deal over costs to ratepayers",
+   "dek": "Attorney General Dana Nessel is pushing back on a proposed OpenAI and Oracle data center arrangement. The move targets potential spikes in electricity bills for Michigan households. Lawmakers and utilities will now face added scrutiny on any large power contracts.",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jamNzNGtPY1BLTkpNSzBLcUxVc3BQTFBRNUVXQ1o4a1dhLXJlM2kteEVUQk5GTnBJZWFGY1ZTVkpyTlNtcFR3V2dZVWJvMnZ2ZXhfejJhRE9IUdIBWkFVX3lxTE1jamNzNGtPY1BLTkpNSzBLcUxVc3BQTFBRNUVXQ1o4a1dhLXJlM2kteEVUQk5GTnBJZWFGY1ZTVkpyTlNtcFR3V2dZVWJvMnZ2ZXhfejJhRE9IUQ?oc=5",
+   "source": "MLex",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Policy",
+   "iso": "2026-08-12T00:16:00Z",
+   "id": "a18049a8d557",
+   "origin": "google-news",
+   "source_title": "Michigan AG takes aim at OpenAI, Oracle data center deal - MLex",
+   "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jamNzNGtPY1BLTkpNSzBLcUxVc3BQTFBRNUVXQ1o4a1dhLXJlM2kteEVUQk5GTnBJZWFGY1ZTVkpyTlNtcFR3V2dZVWJvMnZ2ZXhfejJhRE9IUdIBWkFVX3lxTE1jamNzNGtPY1BLTkpNSzBLcUxVc3BQTFBRNUVXQ1o4a1dhLXJlM2kteEVUQk5GTnBJZWFGY1ZTVkpyTlNtcFR3V2dZVWJvMnZ2ZXhfejJhRE9IUQ?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "Corunna adopts rules to steer future data center projects",
    "dek": "The new ordinance sets zoning and review standards for any proposed data centers. Residents in Shiawassee County now have clearer limits on where and how large facilities could be built. The rules aim to protect local infrastructure and tax base.",
@@ -169,23 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMm1zdnpRcmRDczlkaV9ZY1I0RnhhaFB6UEZLWF93ME02cE9vcExvaGNQaDUtSVZZZzdhWmxCWDAyaktwenNCMkpsdzZLUTBWNmY5MlpheWZMX1BudWx4MmFNXzI5UHNzV1U3eXhWREpFQ2hiemJ0eWdYczBtWnVmdUF6elFsbW5EREtGYVhmcWtyNzk5ZnNqRVM2MEdEdnpUOUVFOHJKd0E2WG50SXZnVnhGYnlXQdIBygFBVV95cUxNU2cxNElLQXZvMWxFU0R6NWpKanRXOHpsbHJGVVR4N1kzQXlXSUpJeWI0djJTSUZoVXl5TTU1MDdpSVZfRmdEeEp0OXVpbTM4Wm5mdEpWMENQQ1FzU2drMDE0MlF6YTFDbjJyYXRfdDQyNG9maFI5SDRhR1ptYWcwVzAtTmVnSGRfaVF4YUVVUmFHdVh5UlRSRU1xMjFYQ1FnSElmMnlaSGNreVVqN3ZfZ1hPRmp3X1JQdHlzZWR5aWloZGd6QzNsYURn?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
-  },
-  {
-   "title": "Whitehall Township drafts first data center rules",
-   "dek": "Whitehall Township supervisors reviewed a new ordinance aimed at controlling data center construction. The rules would set limits on size, noise and power use in a rural area. Muskegon County residents could see changes in taxes and grid strain depending on what passes.",
-   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOQlFlX1BwZVRDSVV1VV9fOGFzcENIeTF2djI0NlE3REhSMTdQVGRZU1NnSkhqa2RIa0dfZFZYeTU2ZFhKeEdPQWNaNjMyMnJYQ3VsNWxPeUhoNER2dklFRjNHbml5VWppLV8zRE1BWUNJekpsamtQMm9UbkNhSExiYWpFQ21xWlRfbGhVSkhnN3dkSk1WYjJxdnZzY1VfbzdFUldkNEI4UDZyaWRaOFNqOElQSG1YWUttbnZBT0NRNGt2bTBpYjdHa1RfMWZNZlh2S0x4Q3IzQVpNTkJmbHBfSFdZRVdaZkNzWUlCTW9kMi0yT2FvV1c1bWhPc2JvNUs5bVNFUm1fM3hOUWRsbFlfWllsNEhRMkVYSlIyUg?oc=5",
-   "source": "WFMZ.com",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Muskegon",
-   "tag": "Local Government",
-   "iso": "2026-08-11T03:50:00Z",
-   "id": "e78cc06b8788",
-   "origin": "google-news",
-   "source_title": "Whitehall Township takes first look at proposed data center ordinance - WFMZ.com",
-   "source_url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOQlFlX1BwZVRDSVV1VV9fOGFzcENIeTF2djI0NlE3REhSMTdQVGRZU1NnSkhqa2RIa0dfZFZYeTU2ZFhKeEdPQWNaNjMyMnJYQ3VsNWxPeUhoNER2dklFRjNHbml5VWppLV8zRE1BWUNJekpsamtQMm9UbkNhSExiYWpFQ21xWlRfbGhVSkhnN3dkSk1WYjJxdnZzY1VfbzdFUldkNEI4UDZyaWRaOFNqOElQSG1YWUttbnZBT0NRNGt2bTBpYjdHa1RfMWZNZlh2S0x4Q3IzQVpNTkJmbHBfSFdZRVdaZkNzWUlCTW9kMi0yT2FvV1c1bWhPc2JvNUs5bVNFUm1fM3hOUWRsbFlfWllsNEhRMkVYSlIyUg?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {
@@ -203,34 +203,6 @@
   "accuracy": "checked"
  },
  "meetings": [
-  {
-   "iso": "2026-08-11",
-   "body": "Lowell Township Planning Commission",
-   "topic": "Data center ordinance development and related power concerns for proposed Microsoft project",
-   "region": "West Michigan",
-   "regionKey": "west",
-   "county": "Kent",
-   "time": "7:00 PM",
-   "status": "Planning commission",
-   "urgent": true,
-   "link": "https://lowell.civicweb.net/Portal/MeetingInformation.aspx?Id=1214",
-   "linkLabel": "Agenda",
-   "stream": "https://www.youtube.com/@LCTMeetings"
-  },
-  {
-   "iso": "2026-08-11",
-   "body": "Portage City Council",
-   "topic": "Data Center Industrial (I-4) District Zoning discussion",
-   "region": "West Michigan",
-   "regionKey": "west",
-   "county": "Kalamazoo Co.",
-   "time": "6:00 PM",
-   "status": "Board meeting",
-   "urgent": false,
-   "link": "https://www.portagemi.gov/",
-   "linkLabel": "Agenda",
-   "stream": null
-  },
   {
    "iso": "2026-08-12",
    "body": "Speaker Township Planning Commission",
