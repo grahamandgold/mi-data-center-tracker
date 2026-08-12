@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.circleofblue.org/2026/world/inside-americas-first-data-center-only-utility/",
-   "title": "Indiana Approves Data-Center-Only Utility to Shield Ratepayers",
-   "at": "2026-07-23T13:08:33+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Indiana utility model is a national trend piece with limited direct relevance to Michigan data center tracking."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSGVUd2tNd2REbkJEUGdVYVU1dW5hZkdrQUxHWW1xQkpZa1lGMVltcEpvZ2xUTURjX1k5NWxjWEZJWGJWYndjX0dzS0xYQUFPRXJvVDZJM3BEYzdWTHdFeWxiSnRycURKRXo5RmowTlh1UGRoRDRFQm5yZ2FyOUNtYXpLNThiMjNKUUxsT1pzaVBUN3M?oc=5",
-   "title": "State keeps data center freeze after rejecting developer demands",
-   "at": "2026-07-23T13:08:33+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: This appears to be a rehash of 'Michigan keeps data center freeze after rejecting developer's ask' from the killed list, reporting the same regulatory decision."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcjRoWUc0VWRuQ09Ec09fMHhZSVNUVWJJLXhFWF8wNEhMZ1kwOUdrQ0VDb1RFMjZjMUUxWHBCVEo4VklEVmhyYVJfMDVPYzM2YXhHbmtTZFFWUXNSTHNVTWVVR19MaXZXLWJ1OGN4ekkxVVpFaDNmOHpaUTgtMUY5WjdidXdLRmtsaUN3WlBwaXdtZEwyZEw0NEhpNWtnYlp0X3pnNDdzZmtQM2ZQYU04c3F4RQ?oc=5",
    "title": "Irondale's 'AI Love' festival draws backlash over data center ties",
    "at": "2026-07-23T17:03:46+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-12T06:01:18+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Duplicate of already-live 'Detroit Grid Too Weak for Hyperscale Data Centers, DTE Tells Planners' — same study/finding reworded."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNUExmcno0dXVsRFJYWFdTMmZ1YkdWbXotTElGeEsyTnFJcEhRUFVia1FKV0tDYWdoVTR0M21NTVpfWFBpZEM2NUJFVHZYd2RaZjNhNkhhdUhEY3dOczdHM2N0YzNNdGg4SGZLUFVzV3JKMVc5ZHhHOFEwYmFhS1liaWo1Z0JIR2w5X0JzZEc3eHl5RzB4eEw1b3hjOEFBazJ2YXkwc01FUEhFMm9OMWxGWEV1WkJCTmRKQlBMMXQzd240V0UzUWROeEhwVXEzaURuSFA5T1paSkZpYXREclZjcTFGVE5kUDUxaEJPQ1QtOGswaFJuV0lkQlVTRTV5NFZraTFmZ2pzOWdwMWNiSWtLNW1Fb180Zw?oc=5",
+   "title": "Power and water concerns drive temporary halt to West Michigan tech facilities",
+   "at": "2026-08-12T07:44:56+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicates the already-live Kalamazoo commissioners story about the six-month data center ban decision."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQlFCSFhfYlRMUkdxX1g1ZU5WOUtPUEFEa3JqYm50MURzYkMzeTNqcVJWdkYxX3lKc1JQdGFFblQzZU0zaG42cmdZUmVXMFBxLWpTYkpsb08zeUJvMEo2STZfOFFrZk1xNzNleEdMLWw5STIxWDdOMHRxLUdpVjRSeXg5M21yTlhseHpJVWRycW5xZXdOTVFOcnFzdjZDc1XSAVpBVV95cUxNY2pjczRrT2NQS05KTUswS3FMVXNwUExQUTVFV0NaOGtXYS1yZTNpLXhFVEJORk5wSWVhRmNWU1ZKck5TbXBUd1dnWVVibzJ2dmV4X3oyYURPSFE?oc=5",
+   "title": "Michigan AG challenges OpenAI-Oracle data center tax deal in Saline area",
+   "at": "2026-08-12T07:44:56+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicates the already-live Michigan AG story challenging the OpenAI-Oracle data center deal over ratepayer costs."
   }
  ],
  "auto_published": [
