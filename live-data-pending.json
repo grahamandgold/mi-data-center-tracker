@@ -1,28 +1,6 @@
 {
- "updated_at": "2026-08-12T10:43:15+00:00",
+ "updated_at": "2026-08-12T11:54:46Z",
  "generator": "grok-wire-agent",
- "items": [
-  {
-   "title": "West Michigan towns tighten rules on data center growth",
-   "dek": "Several communities are adopting zoning changes to control building size, power draw and water use. Residents gain tools to block or shrink projects that could raise utility rates. Coordinated local action limits the risk of one township’s decision affecting neighbors’ bills and landscapes.",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTnFGTXR6Szlya2ZQbmpENG4xVW1EMmd3SUV2RWdzaTZYT0VWZnExaS1BR0pfdHpWSVhKeHNXWDBldlgta1dvdFBYWFdlakhGV3FrZEJYM0ZoUE5RLVBVbWo5X1JHV0ZzN1FXYzlBTjFjcUVrbktRUDF5aHFBRzdJR09JaFhyMURSY0I5a2dHM2ROemJtWUlxQlVoU2pfTW4zM0tFNk5jYkllNG00amg2d2hMQktuaW5vdkZBY0pwZHBFSnpya0YyN3NsbHpkY0JYWDk3emJtSGVjNkd6c3RvUjJEWG5nUng5ZVVMc2xtZFdTSGJB?oc=5",
-   "source": "Shoreline Media Group",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Local Government",
-   "iso": "2026-08-10T23:02:20Z",
-   "kind": "story",
-   "id": "e864c60078eb",
-   "filed_at": "2026-08-11T11:23:46Z",
-   "origin": "google-news",
-   "headline_rewritten": true,
-   "source_title": "West Michigan communities move to regulate data centers - Shoreline Media Group",
-   "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTnFGTXR6Szlya2ZQbmpENG4xVW1EMmd3SUV2RWdzaTZYT0VWZnExaS1BR0pfdHpWSVhKeHNXWDBldlgta1dvdFBYWFdlakhGV3FrZEJYM0ZoUE5RLVBVbWo5X1JHV0ZzN1FXYzlBTjFjcUVrbktRUDF5aHFBRzdJR09JaFhyMURSY0I5a2dHM2ROemJtWUlxQlVoU2pfTW4zM0tFNk5jYkllNG00amg2d2hMQktuaW5vdkZBY0pwZHBFSnpya0YyN3NsbHpkY0JYWDk3emJtSGVjNkd6c3RvUjJEWG5nUng5ZVVMc2xtZFdTSGJB?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6,
-   "judge_note": "Regional roundup of multiple West Michigan towns adopting zoning changes is incremental and real, though lacks specific vote/decision details that would push it"
-  }
- ],
- "accuracy_checked_at": "2026-08-12T10:38:42+00:00"
+ "items": [],
+ "accuracy_checked_at": "2026-08-12T11:54:44+00:00"
 }

@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-12T10:38:41+00:00",
+ "updated_at": "2026-08-12T11:54:46Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Wixom tightens data center rules before 6-month moratorium ends",
+   "dek": "Wixom officials are drafting new zoning and performance standards for data centers as the temporary ban expires. Residents in Oakland County worry about noise, power strain and water use from large facilities. The rules could set the template for other suburbs facing similar proposals.",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOEFBM3NET3RhUkZocXU4THNqVURNc3RVRTMzSFJLSlVKdWlTWHRMNFBNUUVPWE9oekFwMDNzUmkyZDJWd3pyTHc1MjY2SXFURlJ6UjF0S2dQOExtTW40NUphUzJ6dlJIeXRRQ3laNVhQY3RhY1FWTW5YamlqbGtYdGZ6SjR2aUpyckFBU0dzcG1HZ1Z5M19aMm5MYUtGWTNQUVNVZnEtRndnRUN2N1lyUTc3S05EVVRELWdOSkxuUzJodU5n?oc=5",
+   "source": "WXYZ Channel 7",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Oakland",
+   "tag": "Local Government",
+   "iso": "2026-08-12T11:08:37Z",
+   "id": "df8c7045c1b3",
+   "origin": "google-news",
+   "source_title": "Wixom city council takes steps to regulate data centers as 6-month moratorium nears end - WXYZ Channel 7",
+   "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOEFBM3NET3RhUkZocXU4THNqVURNc3RVRTMzSFJLSlVKdWlTWHRMNFBNUUVPWE9oekFwMDNzUmkyZDJWd3pyTHc1MjY2SXFURlJ6UjF0S2dQOExtTW40NUphUzJ6dlJIeXRRQ3laNVhQY3RhY1FWTW5YamlqbGtYdGZ6SjR2aUpyckFBU0dzcG1HZ1Z5M19aMm5MYUtGWTNQUVNVZnEtRndnRUN2N1lyUTc3S05EVVRELWdOSkxuUzJodU5n?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "State Sen. Gonzalez starts tour pushing data center rules",
    "dek": "Senator Gonzalez is holding public stops across Michigan to build support for tighter oversight of new AI facilities. The tour highlights risks to electric reliability and water supplies in rural and suburban areas where projects are proposed. Residents get a direct chance to weigh in before more campuses get approved.",
@@ -171,23 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYVNCUzMtYW02b295dnZ3cUszZ3NoZzlKdEptWTVHTzZ4MjZlY2daZEVKMWVSdWV5blNXWnlBcHY0dXNiU01YdGNRRzNNQlJRcEZUU2gtSkxyNU1IR0UzcG56M1BTci1wNVdRUFN5WlVVWE9rcDVkdHhTZVZ5TVB6V3NnWkZBYTQzenhCcllR?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Morley residents halt data center talks after 170 pack the room",
-   "dek": "A packed crowd in Morley forced officials to postpone any discussion of a proposed data facility. Residents voiced immediate concerns over power demand, noise, and water use in the rural township. The delay gives locals more time to organize before the project advances.",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPak1jNWQ1STF6dnJ6TDFJQm1MQnh0cVJYZTZ3aDljTTh4Z0ZEdkNPazVDYmVnUjNreGFlMUhEakVaeUtTRldEZkl0cDdXbHdOUVFmS1MteV9La2lRR2pQdy1xWUJuWDNQTmhteGNGZjVqXzNrZGltNWg0eHNoUkpoeXNYSExDMExTay1VM2VKczJpYVdjODU0cmhRQjhQOS1aWGc?oc=5",
-   "source": "Big Rapids Pioneer",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Mecosta",
-   "tag": "Local Government",
-   "iso": "2026-08-11T13:02:58Z",
-   "id": "265154aaf663",
-   "origin": "google-news",
-   "source_title": "Crowd of roughly 170 forces Morley to postpone meeting on data facility - Big Rapids Pioneer",
-   "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPak1jNWQ1STF6dnJ6TDFJQm1MQnh0cVJYZTZ3aDljTTh4Z0ZEdkNPazVDYmVnUjNreGFlMUhEakVaeUtTRldEZkl0cDdXbHdOUVFmS1MteV9La2lRR2pQdy1xWUJuWDNQTmhteGNGZjVqXzNrZGltNWg0eHNoUkpoeXNYSExDMExTay1VM2VKczJpYVdjODU0cmhRQjhQOS1aWGc?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {
@@ -217,6 +217,20 @@
    "urgent": false,
    "link": "https://speakertwpmi.gov/planning-commission-special-meeting-august-12-2026-at-700-p-m/",
    "linkLabel": "Agenda"
+  },
+  {
+   "iso": "2026-08-13",
+   "body": "Michigan for Responsible Data Centers Coalition",
+   "topic": "Virtual town hall on Van Buren Township data center construction and regulations",
+   "region": "SE Michigan",
+   "regionKey": "metro",
+   "county": "Van Buren",
+   "time": "6:00 PM",
+   "status": "Public hearing",
+   "urgent": false,
+   "link": "https://www.facebook.com/detroitchamber/posts/on-thursday-august-13-at-6-pm-join-the-michigan-for-responsible-data-centers-coa/1479381710891828/",
+   "linkLabel": "Event Details",
+   "stream": ""
   }
  ],
  "accuracy_checked_at": "2026-07-08T08:45:16+00:00"
