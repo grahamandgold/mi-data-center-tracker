@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-12T07:44:53+00:00",
+ "updated_at": "2026-08-12T09:20:02Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "State Sen. Gonzalez starts tour pushing data center rules",
+   "dek": "Senator Gonzalez is holding public stops across Michigan to build support for tighter oversight of new AI facilities. The tour highlights risks to electric reliability and water supplies in rural and suburban areas where projects are proposed. Residents get a direct chance to weigh in before more campuses get approved.",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRkx2bUk2d1ZTeElmNmJKSXJHMTlydkdkcTRFSEhsNWdEb090aHctQWNTczhIVFhzcmcxTHBCSVRTOFRrU0Q4U3A2SkI3NlZGazhpU3MxYXpvOHoxLUJDdEEwcS1LTFJQZWp1dHM2Sjd5TWlXTFJPVTBib2x0ZkxKdEpqaXNSSXVBeGV1UkkxQndzNGdnWTZZS2JwSGt3ZmI3bWR1a1lqTDh5U1ZlTW51cHI4N0tsTWJIM1BqelFCSURaeVpWelE?oc=5",
+   "source": "Harlem World Magazine",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Policy",
+   "iso": "2026-08-12T08:26:39Z",
+   "id": "6580a9280126",
+   "origin": "google-news",
+   "source_title": "Senator Gonzalez Launches Statewide Tour Supporting Responsible AI Data Center Development - Harlem World Magazine",
+   "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRkx2bUk2d1ZTeElmNmJKSXJHMTlydkdkcTRFSEhsNWdEb090aHctQWNTczhIVFhzcmcxTHBCSVRTOFRrU0Q4U3A2SkI3NlZGazhpU3MxYXpvOHoxLUJDdEEwcS1LTFJQZWp1dHM2Sjd5TWlXTFJPVTBib2x0ZkxKdEpqaXNSSXVBeGV1UkkxQndzNGdnWTZZS2JwSGt3ZmI3bWR1a1lqTDh5U1ZlTW51cHI4N0tsTWJIM1BqelFCSURaeVpWelE?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
   {
    "title": "East Lansing extends data center freeze another year, blocking new proposals",
    "dek": "City Council voted to keep the moratorium in place, preventing any new data center applications from moving forward. Residents 30 miles away in the Lansing region face the same risk of sudden power and water strain if large facilities land nearby. The extension keeps local zoning rules unchanged while the city studies long-term impacts.",
@@ -171,23 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPak1jNWQ1STF6dnJ6TDFJQm1MQnh0cVJYZTZ3aDljTTh4Z0ZEdkNPazVDYmVnUjNreGFlMUhEakVaeUtTRldEZkl0cDdXbHdOUVFmS1MteV9La2lRR2pQdy1xWUJuWDNQTmhteGNGZjVqXzNrZGltNWg0eHNoUkpoeXNYSExDMExTay1VM2VKczJpYVdjODU0cmhRQjhQOS1aWGc?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Detroit data centers capped at small scale under new rules",
-   "dek": "City policy keeps new facilities from growing into massive power users that strain local grids. Residents avoid the heavy electricity rate hikes and noise seen in other states. The limit protects neighborhood character while still allowing limited tech growth.",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhajA0RjQ3dUFRWDNPWWV2NDh2V3NFblIzOWdTejlnUGV6MTFrM1B2d3EwalhiTE10eGhLSkN4UUN3aURsbjZCeWgwOURqSlcycmtlN2ZRT2ZhcXVQcXgzN0RlYjFEVXhzdmg5S1hUdnBsXzRqbG56VVBLYzA?oc=5",
-   "source": "Outlier Media",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Wayne",
-   "tag": "Local Government",
-   "iso": "2026-08-11T10:15:00Z",
-   "id": "1f2669e4c7fe",
-   "origin": "google-news",
-   "source_title": "🤖 Detroit’s data centers to stay small - Outlier Media",
-   "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhajA0RjQ3dUFRWDNPWWV2NDh2V3NFblIzOWdTejlnUGV6MTFrM1B2d3EwalhiTE10eGhLSkN4UUN3aURsbjZCeWgwOURqSlcycmtlN2ZRT2ZhcXVQcXgzN0RlYjFEVXhzdmg5S1hUdnBsXzRqbG56VVBLYzA?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
   }
  ],
  "national": {

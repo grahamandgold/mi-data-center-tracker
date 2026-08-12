@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcjRoWUc0VWRuQ09Ec09fMHhZSVNUVWJJLXhFWF8wNEhMZ1kwOUdrQ0VDb1RFMjZjMUUxWHBCVEo4VklEVmhyYVJfMDVPYzM2YXhHbmtTZFFWUXNSTHNVTWVVR19MaXZXLWJ1OGN4ekkxVVpFaDNmOHpaUTgtMUY5WjdidXdLRmtsaUN3WlBwaXdtZEwyZEw0NEhpNWtnYlp0X3pnNDdzZmtQM2ZQYU04c3F4RQ?oc=5",
-   "title": "Irondale's 'AI Love' festival draws backlash over data center ties",
-   "at": "2026-07-23T17:03:46+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: Soft community reaction story about a festival name change and online criticism, lacks concrete development or official action."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRUxZYTRnX2g1ejF6RklMMnozSVN5bUNFSi14V1V1UUZYXzRTVWh2RlNvbURxUEFUTjlvN2ozQk9IeGFOZVJVOExZRzVPVlRyc01ncXVpMmpNbXB3Mjc1cmZtTkN0SjhDZGtHX2ZWTUlFZVJibE42N0dBcUpEMVNWZmVZWlhpVzFEWmZoYWJMcDM5Um92TVFuUGl3TdIBoAFBVV95cUxPS2FLcEszR2pvbWVZYnl2R2theVlhLVFEM0h1Ujc1eEpzSXd0WW5WTl9wV28xWnlkWTFJVFRGS09rRExsSXpiSm11TVZLMzlwaWthU1pjcU1fRzdOTjlXd0lyTFR4cE8zd2lqb0xaMm1uRm9KQTdVd1hsMnpvbC13VUd3cmFLUjlqQWsxdUtXN0hlcnJmRUU0bm1NajdXTmtp?oc=5",
-   "title": "Williamstown Township residents grill data center plans at hearing",
-   "at": "2026-07-23T17:03:46+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicate: already-live story 'Williamston Township residents grill officials on data center plans' covers this same hearing event."
-  },
-  {
    "url": "https://ca.finance.yahoo.com/news/130-billion-ai-data-centers-100000367.html",
    "title": "Local Opposition Blocks 75 Data Center Projects Worth $130 Billion",
    "at": "2026-07-23T18:21:00+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-12T07:44:56+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Duplicates the already-live Michigan AG story challenging the OpenAI-Oracle data center deal over ratepayer costs."
+  },
+  {
+   "url": "https://idahobusinessreview.com/2026/08/10/us-banks-scrutinize-data-center-financing-community-opposition/",
+   "title": "Banks add community checks to data center loans after protests hit Texas, Virginia sites",
+   "at": "2026-08-12T09:20:02+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: National trend piece about lending practices with only tangential Michigan relevance; no specific Michigan decision or development."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOGoyallwWTBMOWMtZnRIeTIzWVYxeUdmYkkxWTEyMjQ0ZEhSai1HWmNJM0xjejk5MjZYSDZkeUNET1pWVldJeXluOXFHODFGWGktT0kyX1FEU1lOS3NkM2lyenJReHdRRDVSb0gwY3hJYjVwWjBHUDE2a2lMMDFnc3NRUXh4TVZGWHJjUmpOR1ltb1NJTkdnTkh4T3FsVTBDQ3pmaU9zY2RuMm5ESTFiYWRLWlE?oc=5",
+   "title": "Michigan picks computing hub site over local protests on power, water costs",
+   "at": "2026-08-12T09:20:02+00:00",
+   "by": "news_judge",
+   "note": "score 1/10, duplicate: Duplicate of already-live 'UM locks in Textile Road for $1.2B Los Alamos supercomputer campus'—same site selection decision."
   }
  ],
  "auto_published": [
@@ -2697,6 +2697,12 @@
    "title": "U-M regent urges pause on Ypsilanti Twp data center over grid strain",
    "judge_score": 7,
    "at": "2026-08-12T06:01:18Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRkx2bUk2d1ZTeElmNmJKSXJHMTlydkdkcTRFSEhsNWdEb090aHctQWNTczhIVFhzcmcxTHBCSVRTOFRrU0Q4U3A2SkI3NlZGazhpU3MxYXpvOHoxLUJDdEEwcS1LTFJQZWp1dHM2Sjd5TWlXTFJPVTBib2x0ZkxKdEpqaXNSSXVBeGV1UkkxQndzNGdnWTZZS2JwSGt3ZmI3bWR1a1lqTDh5U1ZlTW51cHI4N0tsTWJIM1BqelFCSURaeVpWelE?oc=5",
+   "title": "State Sen. Gonzalez starts tour pushing data center rules",
+   "judge_score": 6,
+   "at": "2026-08-12T09:20:02Z"
   }
  ]
 }
