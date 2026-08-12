@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcWE0NDNUQWFiajdNLVlvWXZ5eXZqdVI1VG05VEV0bHdDQkFWWWQ0eDlTVnJJbXpDMjZuaGx0NE4tQXF6NDNxUlVFQXk5a3hTV3l0YlVOM1c0c04zRnZ2V0ZwVl84aWtYdDlWNWNzam5EdF9ibXdnSTh3WmhDRDZFclpuYkFoNnNVQUR6akFtNUdqeDNhSXdWSmRSR0V3cnRwRVI5ODkyV0ctYUlIVllpd3d5dkdfcE1ycGhTblNWT3o5TFJ6bkE?oc=5",
-   "title": "Dowagiac residents record data center hum that never stops",
-   "at": "2026-07-27T12:34:57+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Rehashes the same Dowagiac noise complaints already covered in the live story about residents exploring legal options and the killed story about 24/7 hum keepin"
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVWZ1d29lYm5ZNFpQWFpjcW9jVzVYeE5sODNnNmtVSE1tSVVGQnNVYUxSNFRBeTJpb2ctZjhISjRDTkRiVjA0Uy1RcFVlcXhEd0FvU0RlR2RKLTBpeG9yWWRablRwRHV4Zmo1TnBHNFV1RVZ5c3g3S3JCQWFoUmFZTXUtam85dkh1ZFBHdU8wWFJuS1dTY00xYUVvampOQlBVQ3hlMXNJMkZfb0NENFAzaHJlNlczR3ZCZXlVbkJ3UVBNNXYzQVFGRE1XRWJPcTRiZk9HOVRSZlRfbWV6NGlpbFdTR05KQQ?oc=5",
    "title": "Flint library forum to brief residents on AI data centers",
    "at": "2026-07-27T15:27:42+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-12T21:57:11+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Same UM-Los Alamos site selection already killed: 'UM Los Alamos computing site draws Washtenaw pushback over location.'"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTFhHRllDTkZBN0JSMGNueEUwT3prbXFwOVNZbHNESXBfR2dUd1cyaC1seGV3SDItZVA5NElxTnA3ZXFBaHNHMlVCRzhzdXJFVDJwRlRGdFd0aGVhU0hVeWVLMWZ2bVNnd01sT0ZEczdDWGNlY2VqUTFHVG9SbDNBTExLM2tiWlIzdTh1cE03aS05bElSdHNJTlkydFRsNHBsN1hrcE1QazBua0ltSGcyRG5MUjlBdw?oc=5",
+   "title": "Washtenaw residents gain powerful ally as regent calls riverfront data center a mistake",
+   "at": "2026-08-12T22:52:40+00:00",
+   "by": "news_judge",
+   "note": "score 4/10, duplicate: Same regent objection already covered in 'U-M regent urges pause on Ypsilanti Twp data center over grid strain' — just a different framing of the same official "
   }
  ],
  "auto_published": [
@@ -2739,6 +2739,18 @@
    "title": "Lawsuit challenges pause blocking planned server facility, tax revenue at stake",
    "judge_score": 7,
    "at": "2026-08-12T18:29:44Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdzBJUkRVendtR0JUb0VqX3dDREw5YXVONklNM1Y2S25ENmRpOUw4b29hV3pRS2NuQ1FuczRIc3FHc3lGUTl0OWhKcFdwdDlmNjZodDBCTjBYdl8wTXhUcmxmOXk4WTBZeG1RQk5NNzllRm1CQnJ0Q0xMOE9BT2FOdmdFc0VyMnc5VmJyTkJoLUtXZGVWS0F0XzNpMXAyREVMOVVfVlBvY2paeUVNY09tT1dDc2toN1lpaVlkNDhDbFVrT1U?oc=5",
+   "title": "Ypsilanti Township rejects University of Michigan data center site",
+   "judge_score": 9,
+   "at": "2026-08-12T22:52:40Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQnc4RE11ckdIUWhReFdZZ3BnVS1xNXpEXzVtbUNBOXBZRHozUzFtSkhRbTdxam1NTWR3MUpkZ1k5MktPZXI2OWlhYlROWjlaMGhjcnR5clBKLW44X09MV01uR2pyMkhhTzAzLWs5eXloN2Y5aWJDMVhFaTlObE1QcGpsUHZ2MG9pUnFuYnZsQTBCVTAwUERPTEdCdkdyTGpPQnRJNXVxNkRKYWpYNnQxOEVDODJKRHo3eVRqVVAwbDBHTGphUVQ4enVNblAwalZoYlE?oc=5",
+   "title": "Corunna tightens rules for any future data centers",
+   "judge_score": 7,
+   "at": "2026-08-12T22:52:40Z"
   }
  ]
 }

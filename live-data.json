@@ -1,7 +1,41 @@
 {
- "updated_at": "2026-08-12T21:56:47+00:00",
+ "updated_at": "2026-08-12T22:52:40Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Corunna tightens rules for any future data centers",
+   "dek": "The city adopted a new ordinance spelling out where and how large data centers could operate. Residents gain clearer limits on noise, traffic and power use before any project advances. The rules give Shiawassee County communities a template if similar proposals appear nearby.",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQnc4RE11ckdIUWhReFdZZ3BnVS1xNXpEXzVtbUNBOXBZRHozUzFtSkhRbTdxam1NTWR3MUpkZ1k5MktPZXI2OWlhYlROWjlaMGhjcnR5clBKLW44X09MV01uR2pyMkhhTzAzLWs5eXloN2Y5aWJDMVhFaTlObE1QcGpsUHZ2MG9pUnFuYnZsQTBCVTAwUERPTEdCdkdyTGpPQnRJNXVxNkRKYWpYNnQxOEVDODJKRHo3eVRqVVAwbDBHTGphUVQ4enVNblAwalZoYlE?oc=5",
+   "source": "WJRT ABC12",
+   "region": "mid",
+   "cat": "STATEWIDE",
+   "county": "Shiawassee",
+   "tag": "Local Government",
+   "iso": "2026-08-12T22:13:57Z",
+   "id": "27dd8fdb100b",
+   "origin": "google-news",
+   "source_title": "Corunna ordinance regulates potential data centers - WJRT ABC12",
+   "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQnc4RE11ckdIUWhReFdZZ3BnVS1xNXpEXzVtbUNBOXBZRHozUzFtSkhRbTdxam1NTWR3MUpkZ1k5MktPZXI2OWlhYlROWjlaMGhjcnR5clBKLW44X09MV01uR2pyMkhhTzAzLWs5eXloN2Y5aWJDMVhFaTlObE1QcGpsUHZ2MG9pUnFuYnZsQTBCVTAwUERPTEdCdkdyTGpPQnRJNXVxNkRKYWpYNnQxOEVDODJKRHo3eVRqVVAwbDBHTGphUVQ4enVNblAwalZoYlE?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
+  {
+   "title": "Ypsilanti Township rejects University of Michigan data center site",
+   "dek": "Township officials told U-M the proposed computing facility does not fit local zoning or resident concerns over power and water. The pushback blocks the project from moving forward on the chosen parcel. Washtenaw County residents now watch whether the university seeks another location or scales back plans.",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdzBJUkRVendtR0JUb0VqX3dDREw5YXVONklNM1Y2S25ENmRpOUw4b29hV3pRS2NuQ1FuczRIc3FHc3lGUTl0OWhKcFdwdDlmNjZodDBCTjBYdl8wTXhUcmxmOXk4WTBZeG1RQk5NNzllRm1CQnJ0Q0xMOE9BT2FOdmdFc0VyMnc5VmJyTkJoLUtXZGVWS0F0XzNpMXAyREVMOVVfVlBvY2paeUVNY09tT1dDc2toN1lpaVlkNDhDbFVrT1U?oc=5",
+   "source": "ClickOnDetroit | WDIV Local 4",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Local Government",
+   "iso": "2026-08-12T22:09:18Z",
+   "id": "e290802a4ed0",
+   "origin": "google-news",
+   "source_title": "Township pushes back against data center proposal in Ypsilanti Township - ClickOnDetroit | WDIV Local 4",
+   "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdzBJUkRVendtR0JUb0VqX3dDREw5YXVONklNM1Y2S25ENmRpOUw4b29hV3pRS2NuQ1FuczRIc3FHc3lGUTl0OWhKcFdwdDlmNjZodDBCTjBYdl8wTXhUcmxmOXk4WTBZeG1RQk5NNzllRm1CQnJ0Q0xMOE9BT2FOdmdFc0VyMnc5VmJyTkJoLUtXZGVWS0F0XzNpMXAyREVMOVVfVlBvY2paeUVNY09tT1dDc2toN1lpaVlkNDhDbFVrT1U?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 9
+  },
   {
    "title": "Lawsuit challenges pause blocking planned server facility, tax revenue at stake",
    "dek": "A developer is suing Wixom after the city extended its pause on new data centers. The lawsuit claims the moratorium exceeds local authority and blocks a planned project. Oakland County residents could see delayed tax revenue and jobs if the case succeeds.",
@@ -154,40 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN3VtcTlHUWFLcGVWUzNBaFFBc3RlOUJ2bXc5ZXY4NkduUXl4M1JVRWtMR1dfQ2V1bVgzbWFRUGstZ29uRjEwMW9CYXN4ZXlaV194NTVUM3gzaWs3Z3Jlc29TcVplV0J5TDcyZ2FZcjVKUHRRbGh0RFlreDZ4cVZwOExSQVp6ZzFOUDJfaU9HREt0dTBPVVFfa0FIX0pLZ0N1cHBiTmJVWUN3dw?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Kalamazoo commissioners set to decide six-month data center ban",
-   "dek": "City leaders will vote on extending the moratorium, which would halt all new proposals for half a year. The move directly affects Kalamazoo County residents worried about electricity costs and industrial-scale water withdrawals. A yes vote would give the city time to write permanent rules before any project advances.",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcktkb084SVdMNFZ3SElvTnVKWkVDVExGejBVV3FVTzR2clFkSGUza0ZlcXktTVEyOFpEWXpLalpYWGxrVW9OUlUxa2FBQTR6UjJRZURhVUM0QVJuT21JWU9TNW9hQ1J0QXBoSG96XzZpMDJzSGk1enE4Z3VXZGFXUlRUV04tMmpLLUNXai1VVU1yMXh4T0ttNV9kV0tQbjVyREwtRUE4Uk9uZFV1THNFYmttR2dNMFdJd1lNNlBDRFZteHFXdWExU1hsUFRCSXk5V1hEOWZxTHVsMk9ONTR6aENOUUtXZHM?oc=5",
-   "source": "WWMT",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Kalamazoo",
-   "tag": "Local Government",
-   "iso": "2026-08-12T00:53:47Z",
-   "id": "e4fcc6fe37c8",
-   "origin": "google-news",
-   "source_title": "Kalamazoo city commissioners to vote on data center moratorium - WWMT",
-   "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcktkb084SVdMNFZ3SElvTnVKWkVDVExGejBVV3FVTzR2clFkSGUza0ZlcXktTVEyOFpEWXpLalpYWGxrVW9OUlUxa2FBQTR6UjJRZURhVUM0QVJuT21JWU9TNW9hQ1J0QXBoSG96XzZpMDJzSGk1enE4Z3VXZGFXUlRUV04tMmpLLUNXai1VVU1yMXh4T0ttNV9kV0tQbjVyREwtRUE4Uk9uZFV1THNFYmttR2dNMFdJd1lNNlBDRFZteHFXdWExU1hsUFRCSXk5V1hEOWZxTHVsMk9ONTR6aENOUUtXZHM?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
-  },
-  {
-   "title": "Michigan AG challenges OpenAI-Oracle data center deal over costs to ratepayers",
-   "dek": "Attorney General Dana Nessel is pushing back on a proposed OpenAI and Oracle data center arrangement. The move targets potential spikes in electricity bills for Michigan households. Lawmakers and utilities will now face added scrutiny on any large power contracts.",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jamNzNGtPY1BLTkpNSzBLcUxVc3BQTFBRNUVXQ1o4a1dhLXJlM2kteEVUQk5GTnBJZWFGY1ZTVkpyTlNtcFR3V2dZVWJvMnZ2ZXhfejJhRE9IUdIBWkFVX3lxTE1jamNzNGtPY1BLTkpNSzBLcUxVc3BQTFBRNUVXQ1o4a1dhLXJlM2kteEVUQk5GTnBJZWFGY1ZTVkpyTlNtcFR3V2dZVWJvMnZ2ZXhfejJhRE9IUQ?oc=5",
-   "source": "MLex",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Policy",
-   "iso": "2026-08-12T00:16:00Z",
-   "id": "a18049a8d557",
-   "origin": "google-news",
-   "source_title": "Michigan AG takes aim at OpenAI, Oracle data center deal - MLex",
-   "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jamNzNGtPY1BLTkpNSzBLcUxVc3BQTFBRNUVXQ1o4a1dhLXJlM2kteEVUQk5GTnBJZWFGY1ZTVkpyTlNtcFR3V2dZVWJvMnZ2ZXhfejJhRE9IUdIBWkFVX3lxTE1jamNzNGtPY1BLTkpNSzBLcUxVc3BQTFBRNUVXQ1o4a1dhLXJlM2kteEVUQk5GTnBJZWFGY1ZTVkpyTlNtcFR3V2dZVWJvMnZ2ZXhfejJhRE9IUQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
   }
  ],
  "national": {
