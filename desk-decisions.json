@@ -1,27 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbTJPaVN6c1U1UnNlXy02emh2TzlmalMyUkpXMzlwT2J2b1pKbVhGMTlVMGRxSmJvOUFGbEVscFRKYW9uaFI5QXhiZWxTZlJmRGkwSjNnQVRKc0RIXzNmMlFaQXNvZGdZR3dKbm9kTm5VNVM2aGhrVzYzeWh5cEo5aExVQ1RoSEg4WmZhRExQYllNUDZ1LUE?oc=5",
-   "title": "Robots roll in at Michigan AI data center as Hyperscale expands",
-   "at": "2026-07-24T11:49:36+00:00",
-   "by": "news_judge",
-   "note": "score 5/10: Incremental operational update at one facility; robotics installation is a buildout detail but lacks the weight of a policy decision or major milestone."
-  },
-  {
-   "url": "https://thesuntimesnews.com/weekly-data-center-watch-saline-reverses-tax-break-limit-as-augusta-vote-nears/",
-   "title": "Saline Township Scraps $4.8B Cap on Oracle Tax Break After Lawsuit Warning",
-   "at": "2026-07-24T14:04:31+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: This is the same Saline Township Oracle tax break restoration already covered in the LIVE story 'Saline Township flips, restoring Oracle's shot at big tax break"
-  },
-  {
-   "url": "https://www.whitehouse.gov/ratepayer-protection-pledge/",
-   "title": "Pledge Commits Data Centers to Pay Full Power and Grid Costs",
-   "at": "2026-07-24T14:04:31+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: National trend piece with no Michigan-specific angle or development; lacks concrete local impact or decision."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMG1oUTF0cm9rRWpzWGdFMFY0WVU5SG1YWGtfN3NhQlB1X2xab2VnVXN6dWQyV05rR0VzTzg0dVdnZzdrdDdUV1F2SlI0enFNekp2N3R4SWcwVTNpWkxvczJ0eEFMeHdyZ2RWRk9UOFB6ejY4SE5FdVpRVnMyU3Bab01PRHB2czFXZF9hbGJJV01nRVdNanc?oc=5",
    "title": "Porch video captures nonstop drone from Michigan data center",
    "at": "2026-07-24T19:42:08+00:00",
@@ -1399,6 +1378,27 @@
    "at": "2026-08-12T13:35:51+00:00",
    "by": "news_judge",
    "note": "score 4/10: Incremental follow-up to Sen. Gonzalez's already-live tour; no new decision, filing, or concrete development—just additional tour stops in the same ongoing advo"
+  },
+  {
+   "url": "https://insideclimatenews.org/news/12082026/michigan-primary-votes-against-data-centers/",
+   "title": "Anti-Data Center Candidates Win Michigan Primaries",
+   "at": "2026-08-12T14:40:53+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Election results are newsworthy but this appears to be primary results framed through a single-issue lens without confirmation of actual votes or specific races"
+  },
+  {
+   "url": "https://spectrumlocalnews.com/mi/michigan/news/2026/08/11/lowell-township-data-center-ordinance-microsoft",
+   "title": "Lowell Residents Seek Water and Lighting Limits for Proposed Microsoft Data Center",
+   "at": "2026-08-12T14:40:53+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Lowell advisory committee drafting rules is incremental movement but still months from any decision, and previous Lowell stories were killed for being too preli"
+  },
+  {
+   "url": "https://www.keranews.org/news/2026-08-12/data-center-moratorium-takes-first-steps-after-fort-worth-city-councils-unanimous-vote",
+   "title": "Fort Worth Backs 90-Day Data Center Pause to Check Water and Power Use",
+   "at": "2026-08-12T14:40:53+00:00",
+   "by": "news_judge",
+   "note": "score 2/10: Fort Worth, Texas development has no Michigan angle and belongs in national trend/noise category."
   }
  ],
  "auto_published": [
@@ -2709,6 +2709,12 @@
    "title": "Wixom tightens data center rules before 6-month moratorium ends",
    "judge_score": 7,
    "at": "2026-08-12T11:54:46Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSUdoMFRSMFdDX3Z4dVg3cUM1QnVkalZCN2I4ZUNMNTR6T1dSN0FCcDRIOFNhb2t0YjdGdTNlVUtiZ3VrTnZ5a182WFhEZ3AzU0pRMmdsSnlVdUUxR2lOcTY3RWpMN1dQcTFxaHJJcWI5NldKcGpWei0xTjVTc2pHS0tKR2xVS2xYSm1vM3BlSjdEVUw4dktn?oc=5",
+   "title": "Morley delays hydro data center hearing to Aug 18",
+   "judge_score": 6,
+   "at": "2026-08-12T14:40:53Z"
   }
  ]
 }

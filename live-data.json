@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-12T13:35:48+00:00",
+ "updated_at": "2026-08-12T14:40:53Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Morley delays hydro data center hearing to Aug 18",
+   "dek": "Morley officials pushed back a meeting on a proposed hydro-powered data center. Residents near the site want details on power use, water draw and tax impact before any vote. The delay gives locals more time to review plans that could reshape the small Mecosta County community.",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSUdoMFRSMFdDX3Z4dVg3cUM1QnVkalZCN2I4ZUNMNTR6T1dSN0FCcDRIOFNhb2t0YjdGdTNlVUtiZ3VrTnZ5a182WFhEZ3AzU0pRMmdsSnlVdUUxR2lOcTY3RWpMN1dQcTFxaHJJcWI5NldKcGpWei0xTjVTc2pHS0tKR2xVS2xYSm1vM3BlSjdEVUw4dktn?oc=5",
+   "source": "Midland Daily News",
+   "region": "mid",
+   "cat": "STATEWIDE",
+   "county": "Mecosta",
+   "tag": "Local Government",
+   "iso": "2026-08-12T14:08:30Z",
+   "id": "de8b7a8b01d5",
+   "origin": "google-news",
+   "source_title": "Morley reschedules hydro-powered data center meeting for Aug. 18 - Midland Daily News",
+   "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSUdoMFRSMFdDX3Z4dVg3cUM1QnVkalZCN2I4ZUNMNTR6T1dSN0FCcDRIOFNhb2t0YjdGdTNlVUtiZ3VrTnZ5a182WFhEZ3AzU0pRMmdsSnlVdUUxR2lOcTY3RWpMN1dQcTFxaHJJcWI5NldKcGpWei0xTjVTc2pHS0tKR2xVS2xYSm1vM3BlSjdEVUw4dktn?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
   {
    "title": "Wixom tightens data center rules before 6-month moratorium ends",
    "dek": "Wixom officials are drafting new zoning and performance standards for data centers as the temporary ban expires. Residents in Oakland County worry about noise, power strain and water use from large facilities. The rules could set the template for other suburbs facing similar proposals.",
@@ -169,23 +186,6 @@
    "origin": "google-news",
    "source_title": "Rochester Hills extends data center moratorium - detroitnews.com",
    "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYnp0N2lLa1hmMUFEU3ZPc1Z5SUVaME5WNEJhLVREalU2Z0Vaa0JvNFVDVlBpakpROHJoeWZvcXlBWFFldTFnLUsybHJtNHpqY0JvTTVEUlktVDItRjNVZkYyWjIwTnpDamZnbnpCcExGakt4X0tzTGRNTHhIUC1yalhUU2dYQVRFQkJfMlVBSHJ3UlVhamhwVkducWhCa2MtdFBrZG1TSl9yQTU2SWpsSkN2c2lGalVCcHozX2llR1dScld4Qy1uSUZn?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
-  },
-  {
-   "title": "Consumers Energy lines spark farm backlash across Michigan",
-   "dek": "New transmission projects tied to data-center power needs are cutting through rural land and drawing protests. Farmers worry about lost acreage, health effects, and depressed property values. The utility says the upgrades are required to meet surging electricity demand from AI facilities.",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYVNCUzMtYW02b295dnZ3cUszZ3NoZzlKdEptWTVHTzZ4MjZlY2daZEVKMWVSdWV5blNXWnlBcHY0dXNiU01YdGNRRzNNQlJRcEZUU2gtSkxyNU1IR0UzcG56M1BTci1wNVdRUFN5WlVVWE9rcDVkdHhTZVZ5TVB6V3NnWkZBYTQzenhCcllR?oc=5",
-   "source": "Michigan Enjoyer",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "county": "statewide",
-   "tag": "Power & Grid",
-   "iso": "2026-08-11T13:14:28Z",
-   "id": "ab7dc4e8ec6d",
-   "origin": "google-news",
-   "source_title": "How Consumers Energy Turns Michigan Farm Communities Upside Down - Michigan Enjoyer",
-   "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYVNCUzMtYW02b295dnZ3cUszZ3NoZzlKdEptWTVHTzZ4MjZlY2daZEVKMWVSdWV5blNXWnlBcHY0dXNiU01YdGNRRzNNQlJRcEZUU2gtSkxyNU1IR0UzcG56M1BTci1wNVdRUFN5WlVVWE9rcDVkdHhTZVZ5TVB6V3NnWkZBYTQzenhCcllR?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
   }
