@@ -1,10 +1,10 @@
 {
- "title": "Mornings with Graham & Emmy",
- "teaser": "Gonzalez launches statewide push for data center rules on power and water risks.",
+ "title": "Evenings with Graham & Emmy",
+ "teaser": "Developer sues Wixom over moratorium; what it means for power, water and local rules statewide.",
  "lines": [
   {
    "host": "Graham",
-   "text": "Good morning, and welcome to Mornings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
+   "text": "Good evening, and welcome to Evenings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
   },
   {
    "host": "Emmy",
@@ -12,223 +12,319 @@
   },
   {
    "host": "Graham",
-   "text": "It's a busy Wednesday morning across the state, and our big story today is Senator Gonzalez hitting the road on a new tour to build support for tighter oversight of these AI facilities."
+   "text": "Tonight a developer is suing Wixom after the city extended its pause on new data centers, putting tax revenue and jobs on the line."
   },
   {
    "host": "Emmy",
-   "text": "That sounds like it could shape how a lot of these projects move forward or get reined in."
+   "text": "That sounds like it could set a precedent for all these moratoriums popping up."
   },
   {
    "host": "Graham",
-   "text": "Exactly. The tour is highlighting risks to electric reliability and water supplies in rural and suburban spots where proposals keep popping up."
+   "text": "Exactly. The lawsuit claims the moratorium exceeds local authority and blocks a planned project."
   },
   {
    "host": "Emmy",
-   "text": "Why now? What's driving the push for these rules at the state level?"
+   "text": "So what's the history here? How did we get to so many cities hitting pause?"
   },
   {
    "host": "Graham",
-   "text": "Residents are getting a direct chance to weigh in before more campuses get approved, and the senator is framing it around protecting local infrastructure."
+   "text": "It's been building for months. Proposals for large AI and server facilities have surged, and towns are worried about the scale."
   },
   {
    "host": "Emmy",
-   "text": "I've been wondering how this fits with all the local pauses we've seen. Is this building on that momentum?"
+   "text": "What kind of scale are we talking about for power and water?"
   },
   {
    "host": "Graham",
-   "text": "It seems that way. Communities have been using moratoria to buy time for studies, and now there's a statewide effort to set clearer standards."
+   "text": "These facilities can draw enormous amounts of electricity for servers and cooling, plus significant water for those systems."
   },
   {
    "host": "Emmy",
-   "text": "What kind of rules are we talking about? Limits on size, water use, or power contracts?"
+   "text": "And that hits electric bills for everyone else on the grid, right?"
   },
   {
    "host": "Graham",
-   "text": "The focus is on oversight that addresses electric reliability and water supplies, especially in areas that aren't set up for industrial-scale demand."
+   "text": "Residents in places like Washtenaw and Oakland counties are already asking that question as deals move forward elsewhere."
   },
   {
    "host": "Emmy",
-   "text": "And how does that connect to people's electric bills?"
+   "text": "Who are the main players in this Wixom case?"
   },
   {
    "host": "Graham",
-   "text": "Large facilities can strain the grid, and if new power isn't added fast enough, ratepayers often end up covering the upgrades through higher bills."
+   "text": "The developer on one side, city officials on the other, and Oakland County residents watching the tax revenue and job impacts."
   },
   {
    "host": "Emmy",
-   "text": "That makes sense. What about water? Are we talking about cooling systems that pull from local aquifers or rivers?"
+   "text": "What happens if the lawsuit succeeds?"
   },
   {
    "host": "Graham",
-   "text": "Yes, data centers use a lot for cooling, and in rural spots that can compete with farms and households, especially during dry spells."
+   "text": "The pause could be lifted, letting the project move ahead, but it might also pressure other cities to rethink their own rules."
   },
   {
    "host": "Emmy",
-   "text": "Farmland is already taking hits from transmission lines too. How does this tour address that bigger picture?"
+   "text": "We've seen Rochester Hills extend its moratorium another year just today."
   },
   {
    "host": "Graham",
-   "text": "The stops are meant to give folks in those areas a voice on where projects land and what protections are in place."
+   "text": "Yes, and that keeps residents near potential sites protected from noise, traffic and power strain for now."
   },
   {
    "host": "Emmy",
-   "text": "Who are the main players here besides the senator?"
+   "text": "It also gives the city time to write permanent zoning standards."
   },
   {
    "host": "Graham",
-   "text": "Local officials, residents, utilities, and developers are all watching closely as the tour moves through proposed sites."
+   "text": "Wixom is doing something similar, tightening rules before its six-month moratorium ends."
   },
   {
    "host": "Emmy",
-   "text": "What's the history of these fights in Michigan so far?"
+   "text": "So the lawsuit could test whether these temporary pauses hold up legally."
   },
   {
    "host": "Graham",
-   "text": "Towns have been extending bans while they study impacts, and lawsuits are starting to pop up over blocked projects."
+   "text": "That's the core question. Local authority versus developer rights under state law."
   },
   {
    "host": "Emmy",
-   "text": "How many places have paused already?"
+   "text": "How does this affect farmland and small towns specifically?"
   },
   {
    "host": "Graham",
-   "text": "Quite a few across the state, from suburbs to rural counties, all trying to get ahead of the wave."
+   "text": "Many proposed sites are on or near agricultural land, raising concerns about conversion and long-term community character."
   },
   {
    "host": "Emmy",
-   "text": "What happens next after these public stops?"
+   "text": "And the tax revenue angle is big for local budgets."
   },
   {
    "host": "Graham",
-   "text": "The goal is to gather support for legislation that sets statewide guardrails before more approvals happen."
+   "text": "Delayed revenue if projects are blocked, but also potential strain on services if they go through without proper planning."
   },
   {
    "host": "Emmy",
-   "text": "Could this lead to actual bills this session?"
+   "text": "What about the environmental side? Attorney General Nessel and green groups are appealing DTE deals for Saline data centers today."
   },
   {
    "host": "Graham",
-   "text": "That's the hope — turning resident feedback into concrete proposals that balance growth with protections."
+   "text": "Those contracts could affect electric rates and grid reliability for Washtenaw County residents."
   },
   {
    "host": "Emmy",
-   "text": "And for towns 30 or 60 miles away, why should they care?"
+   "text": "The appeal focuses on protecting ratepayers from the massive new load."
   },
   {
    "host": "Graham",
-   "text": "Power and water don't respect city limits, so one big project can ripple out through rates and supply."
+   "text": "Meanwhile Ypsilanti Township is vowing to fight a University of Michigan $1.2 billion project on the Huron River."
   },
   {
    "host": "Emmy",
-   "text": "Any sense of how utilities are responding to the tour?"
+   "text": "Over water use, traffic and local control concerns."
   },
   {
    "host": "Graham",
-   "text": "They're already dealing with surging demand from AI, so clearer rules could help them plan upgrades better."
+   "text": "A U-M regent even called for a temporary halt yesterday over grid strain."
   },
   {
    "host": "Emmy",
-   "text": "What if the tour doesn't build enough support?"
+   "text": "That shows the issue reaching inside the university itself."
   },
   {
    "host": "Graham",
-   "text": "Then we might see more piecemeal local rules and continued uncertainty for everyone involved."
+   "text": "Morley pushed back a hydro data center hearing to August 18 so residents can review power, water and tax details."
   },
   {
    "host": "Emmy",
-   "text": "Sounds like a pivotal moment."
+   "text": "Small Mecosta County communities are really feeling the weight of these decisions."
   },
   {
    "host": "Graham",
-   "text": "It really does. Let's keep an eye on how the stops go and what feedback comes back."
+   "text": "State Sen. Gonzalez is touring the state to build support for tighter oversight."
   },
   {
    "host": "Emmy",
-   "text": "Moving to quick hits, East Lansing just extended its data center freeze for another year."
+   "text": "Highlighting risks to electric reliability and water in rural and suburban areas."
   },
   {
    "host": "Graham",
-   "text": "Right, the city council voted to keep the moratorium in place, blocking new applications while they study long-term impacts."
+   "text": "East Lansing extended its freeze another year yesterday, blocking new proposals."
   },
   {
    "host": "Emmy",
-   "text": "And residents 30 miles away in the Lansing region face the same risks if something lands nearby?"
+   "text": "Residents in the broader Lansing region face similar risks if projects land nearby."
   },
   {
    "host": "Graham",
-   "text": "Exactly, so the extension keeps zoning rules steady in the meantime."
+   "text": "Kalamazoo commissioners are set to decide on a six-month ban soon."
   },
   {
    "host": "Emmy",
-   "text": "Next, a University of Michigan regent is urging a pause on the Ypsilanti Township proposal over grid strain."
+   "text": "That would give the city time to draft permanent rules before anything advances."
   },
   {
    "host": "Graham",
-   "text": "Yes, highlighting electricity demand and local infrastructure costs that could lead to rate hikes without new safeguards."
+   "text": "The pattern is clear: cities want breathing room to study impacts."
   },
   {
    "host": "Emmy",
-   "text": "Kalamazoo commissioners are set to decide on a six-month ban today."
+   "text": "But developers see these pauses as overreach that stalls economic benefits."
   },
   {
    "host": "Graham",
-   "text": "That would halt new proposals and give time to write permanent rules before any project advances."
+   "text": "The Wixom lawsuit will likely be watched closely by everyone involved."
   },
   {
    "host": "Emmy",
-   "text": "Michigan's AG is challenging an OpenAI-Oracle deal over costs to ratepayers."
+   "text": "What could the court decide and how fast?"
   },
   {
    "host": "Graham",
-   "text": "Dana Nessel is pushing back on potential spikes in household electricity bills from that arrangement."
+   "text": "It depends on the legal arguments around municipal authority, but a ruling could come in weeks or months."
   },
   {
    "host": "Emmy",
-   "text": "Corunna adopted new zoning rules for future data centers."
+   "text": "Other towns drafting rules like Wixom will be taking notes."
   },
   {
    "host": "Graham",
-   "text": "Those standards in Shiawassee County now set clearer limits on size and location to protect infrastructure."
+   "text": "Those standards on noise, power and water could become templates."
   },
   {
    "host": "Emmy",
-   "text": "University of Michigan locked in the Textile Road site for a big Los Alamos supercomputer campus."
+   "text": "Residents 30 or 60 miles away might still feel ripple effects on regional power demand."
   },
   {
    "host": "Graham",
-   "text": "The $1.2 billion project in Pittsfield Township will draw heavy power and water in Washtenaw County."
+   "text": "Exactly. The grid doesn't stop at city limits."
   },
   {
    "host": "Emmy",
-   "text": "Yesterday a developer sued an Oakland County town after a project was blocked."
+   "text": "So what's the next step after the lawsuit filing?"
   },
   {
    "host": "Graham",
-   "text": "That lawsuit could reshape how property taxes and power costs are handled going forward."
+   "text": "Hearings, possible negotiations, and more cities weighing similar legal risks."
   },
   {
    "host": "Emmy",
-   "text": "Rochester Hills extended its ban another year amid power and water worries."
+   "text": "This could accelerate the push for statewide guidelines."
   },
   {
    "host": "Graham",
-   "text": "The suburb is studying impacts while keeping large proposals on hold."
+   "text": "Or it could lead to more litigation if other pauses face challenges."
   },
   {
    "host": "Emmy",
-   "text": "And Consumers Energy transmission lines are sparking farm backlash."
+   "text": "Either way, local control remains the flashpoint."
   },
   {
    "host": "Graham",
-   "text": "Farmers are protesting lost land and property values tied to upgrades for data center demand."
+   "text": "We should keep an eye on how these rules balance growth with protections."
   },
   {
    "host": "Emmy",
-   "text": "On deck for today, Speaker Township Planning Commission meets on an ordinance covering cryptocurrency data mining, data centers including AI, and residential battery storage."
+   "text": "The stakes for everyday ratepayers and neighbors are real."
   },
   {
    "host": "Graham",
-   "text": "That's a chance for residents to weigh in directly on the rules."
+   "text": "Moving to quick hits now."
+  },
+  {
+   "host": "Emmy",
+   "text": "Rochester Hills voted today to extend its data center moratorium another year."
+  },
+  {
+   "host": "Graham",
+   "text": "Residents near potential sites get more time before facing noise, traffic or power issues."
+  },
+  {
+   "host": "Emmy",
+   "text": "Nessel and green groups are appealing those DTE power deals for Saline data centers."
+  },
+  {
+   "host": "Graham",
+   "text": "The outcome could shape electric rates and reliability in Washtenaw County."
+  },
+  {
+   "host": "Emmy",
+   "text": "Ypsilanti Township officials say they'll oppose the big U-M Huron River project."
+  },
+  {
+   "host": "Graham",
+   "text": "Concerns center on water, traffic and keeping local say in the matter."
+  },
+  {
+   "host": "Emmy",
+   "text": "Morley delayed its hydro data center hearing until August 18."
+  },
+  {
+   "host": "Graham",
+   "text": "That gives Mecosta County residents extra time to dig into the plans."
+  },
+  {
+   "host": "Emmy",
+   "text": "Wixom is already drafting new zoning and performance standards ahead of its moratorium end."
+  },
+  {
+   "host": "Graham",
+   "text": "Those could influence how other Oakland County suburbs handle proposals."
+  },
+  {
+   "host": "Emmy",
+   "text": "Senator Gonzalez kicked off a tour today pushing for stronger state oversight."
+  },
+  {
+   "host": "Graham",
+   "text": "Public stops across Michigan to discuss reliability and water risks."
+  },
+  {
+   "host": "Emmy",
+   "text": "Yesterday East Lansing extended its own data center freeze another year."
+  },
+  {
+   "host": "Graham",
+   "text": "Blocking new applications while the city studies long-term effects."
+  },
+  {
+   "host": "Emmy",
+   "text": "A U-M regent urged a pause on the Ypsilanti Township project over grid concerns."
+  },
+  {
+   "host": "Graham",
+   "text": "Highlighting potential rate impacts for nearby communities."
+  },
+  {
+   "host": "Emmy",
+   "text": "Kalamazoo commissioners will soon vote on a six-month moratorium."
+  },
+  {
+   "host": "Graham",
+   "text": "That would halt proposals and buy time for permanent rules."
+  },
+  {
+   "host": "Emmy",
+   "text": "Now let's look at what's on deck for listeners who want to attend."
+  },
+  {
+   "host": "Graham",
+   "text": "Tonight Speaker Township Planning Commission meets on an ordinance covering cryptocurrency mining, data centers including AI, and residential battery storage."
+  },
+  {
+   "host": "Emmy",
+   "text": "Tomorrow Negaunee has a public hearing on a proposed data center ordinance with limits to mining and industrial zones plus noise and height standards."
+  },
+  {
+   "host": "Graham",
+   "text": "Also tomorrow the Michigan for Responsible Data Centers Coalition is holding a virtual town hall on Van Buren Township construction and regulations."
+  },
+  {
+   "host": "Emmy",
+   "text": "And on August 17 Kalamazoo City Commission votes on a resolution for a temporary moratorium on data center development."
+  },
+  {
+   "host": "Graham",
+   "text": "Plenty of chances for residents to weigh in directly."
   },
   {
    "host": "Emmy",
@@ -239,7 +335,7 @@
    "text": "We're back tomorrow."
   }
  ],
- "episode_title": "Sen. Gonzalez Kicks Off Tour for Tighter Data Center Oversight",
- "show": "Mornings with Graham & Emmy",
- "daypart": "Mornings"
+ "episode_title": "Wixom Lawsuit Tests Data Center Moratoriums Across Michigan",
+ "show": "Evenings with Graham & Emmy",
+ "daypart": "Evenings"
 }
