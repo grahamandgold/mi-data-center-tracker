@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-12T22:52:40Z",
+ "updated_at": "2026-08-12T23:52:40Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Michigan residents sue data center over constant noise",
+   "dek": "Locals near an operating Michigan facility claim the hum and vibrations are ruining sleep and property values. The lawsuit tests whether existing noise rules can rein in hyperscale operations. A win or loss here could set precedent for other townships facing similar complaints.",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNUJnZjV3MXZMVDl6WUhPUkRKMEgyQ0o0aW1QaEJIUUY0VmhsYzlCcG9yNDFJT3prSDB6dUZSRDVtMnB3TU5Wd1NXazg0clZuSEZTREFXcHN3SXRFbF8tZHFkWlp5WUVRQndBQURuUWpja3gxZm9ZdTZkY0MzRlBBOWI0ZmNHOVJCb1UyUFF0NDc3ajFJa1pocg?oc=5",
+   "source": "bgr.com",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Local Government",
+   "iso": "2026-08-12T23:17:00Z",
+   "id": "cfb862a6397b",
+   "origin": "google-news",
+   "source_title": "Residents In Michigan Are Suing A Data Center Over Noise Pollution - bgr.com",
+   "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNUJnZjV3MXZMVDl6WUhPUkRKMEgyQ0o0aW1QaEJIUUY0VmhsYzlCcG9yNDFJT3prSDB6dUZSRDVtMnB3TU5Wd1NXazg0clZuSEZTREFXcHN3SXRFbF8tZHFkWlp5WUVRQndBQURuUWpja3gxZm9ZdTZkY0MzRlBBOWI0ZmNHOVJCb1UyUFF0NDc3ajFJa1pocg?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "Corunna tightens rules for any future data centers",
    "dek": "The city adopted a new ordinance spelling out where and how large data centers could operate. Residents gain clearer limits on noise, traffic and power use before any project advances. The rules give Shiawassee County communities a template if similar proposals appear nearby.",
@@ -35,6 +52,23 @@
    "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdzBJUkRVendtR0JUb0VqX3dDREw5YXVONklNM1Y2S25ENmRpOUw4b29hV3pRS2NuQ1FuczRIc3FHc3lGUTl0OWhKcFdwdDlmNjZodDBCTjBYdl8wTXhUcmxmOXk4WTBZeG1RQk5NNzllRm1CQnJ0Q0xMOE9BT2FOdmdFc0VyMnc5VmJyTkJoLUtXZGVWS0F0XzNpMXAyREVMOVVfVlBvY2paeUVNY09tT1dDc2toN1lpaVlkNDhDbFVrT1U?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 9
+  },
+  {
+   "title": "Garfield Township weighs year-long data center freeze",
+   "dek": "Planners will vote tonight on findings that could pause new proposals while the township studies power and land-use impacts. Northern Michigan communities are seeing rising interest from developers seeking cheap land and cool air. A moratorium would buy time for residents to weigh costs versus tax revenue.",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRjd4bTVWOW5Yd0kwMXlOUmk1Wm5ZMVBmcERjek5idEVxdnRfdXFIellyUV9KV2lYclNQNVlvT3ZZRnZJLUJqdFI5NlpTZ1hMczRpb0YyNWdwSmRHTXlNcHdVT1N0NlkxU1FKU2hnRDNnaUthdlF1MWYteHUwU1ZXdFRpcWlvM0o0SWNCeTcxbDRMSGx3UHc3SEtLR05GNC1MSHEzTTY3NkFMOTlSTmxlamdrQQ?oc=5",
+   "source": "9and10News.com",
+   "region": "north",
+   "cat": "STATEWIDE",
+   "county": "Grand Traverse",
+   "tag": "Local Government",
+   "iso": "2026-08-12T22:07:36Z",
+   "id": "36cdc9d2e9b6",
+   "origin": "google-news",
+   "source_title": "Garfield Township planners take up data center moratorium findings tonight - 9and10News.com",
+   "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRjd4bTVWOW5Yd0kwMXlOUmk1Wm5ZMVBmcERjek5idEVxdnRfdXFIellyUV9KV2lYclNQNVlvT3ZZRnZJLUJqdFI5NlpTZ1hMczRpb0YyNWdwSmRHTXlNcHdVT1N0NlkxU1FKU2hnRDNnaUthdlF1MWYteHUwU1ZXdFRpcWlvM0o0SWNCeTcxbDRMSGx3UHc3SEtLR05GNC1MSHEzTTY3NkFMOTlSTmxlamdrQQ?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
   },
   {
    "title": "Lawsuit challenges pause blocking planned server facility, tax revenue at stake",
@@ -154,40 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRkx2bUk2d1ZTeElmNmJKSXJHMTlydkdkcTRFSEhsNWdEb090aHctQWNTczhIVFhzcmcxTHBCSVRTOFRrU0Q4U3A2SkI3NlZGazhpU3MxYXpvOHoxLUJDdEEwcS1LTFJQZWp1dHM2Sjd5TWlXTFJPVTBib2x0ZkxKdEpqaXNSSXVBeGV1UkkxQndzNGdnWTZZS2JwSGt3ZmI3bWR1a1lqTDh5U1ZlTW51cHI4N0tsTWJIM1BqelFCSURaeVpWelE?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
-  },
-  {
-   "title": "East Lansing extends data center freeze another year, blocking new proposals",
-   "dek": "City Council voted to keep the moratorium in place, preventing any new data center applications from moving forward. Residents 30 miles away in the Lansing region face the same risk of sudden power and water strain if large facilities land nearby. The extension keeps local zoning rules unchanged while the city studies long-term impacts.",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbTZlZUFRQVFfV1dnNmU4MlhRSFYtbFdFUjZOSUh3dDlvMjZJYWJYS0gyMi1vWENkMktOa29KUThkdmRNSUlUaGNyQnlKMkZzSjJycmVDMjJGOGVxOXh5aFBJNVBxQmNkaFI0aW1JbkUxczRVeUtTZEpLVDFoSU5LOWd4SFF6SnhTcTRoYjYyZzZiOE1ld0JoWVBR0gGuAUFVX3lxTFBaNlZXNVBkbzVjNVg1S29MMGpuckg1NDA3ZldUX19FY19jNFl0M05GNjRjQXl0bDBLV3Z5a011NUw3bTE4Vnl1WmdrR0dkeVBBRGRLdmFtU1B2YlhjZWRjN084Q2czc1Nmdk5kcEpWTFRJLTU3LU8yb25CSFBkZVhFYjk3MWtTWkh3bmtQUjREWnRQWGJNUlBxVXl3c2RFRlR0ZEpJYnpTeXlVb1Vtdw?oc=5",
-   "source": "WILX",
-   "region": "mid",
-   "cat": "STATEWIDE",
-   "county": "Ingham",
-   "tag": "Local Government",
-   "iso": "2026-08-12T03:07:00Z",
-   "id": "5197f463dd4b",
-   "origin": "google-news",
-   "source_title": "East Lansing City Council votes to extend the data center moratorium - WILX",
-   "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbTZlZUFRQVFfV1dnNmU4MlhRSFYtbFdFUjZOSUh3dDlvMjZJYWJYS0gyMi1vWENkMktOa29KUThkdmRNSUlUaGNyQnlKMkZzSjJycmVDMjJGOGVxOXh5aFBJNVBxQmNkaFI0aW1JbkUxczRVeUtTZEpLVDFoSU5LOWd4SFF6SnhTcTRoYjYyZzZiOE1ld0JoWVBR0gGuAUFVX3lxTFBaNlZXNVBkbzVjNVg1S29MMGpuckg1NDA3ZldUX19FY19jNFl0M05GNjRjQXl0bDBLV3Z5a011NUw3bTE4Vnl1WmdrR0dkeVBBRGRLdmFtU1B2YlhjZWRjN084Q2czc1Nmdk5kcEpWTFRJLTU3LU8yb25CSFBkZVhFYjk3MWtTWkh3bmtQUjREWnRQWGJNUlBxVXl3c2RFRlR0ZEpJYnpTeXlVb1Vtdw?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 9
-  },
-  {
-   "title": "U-M regent urges pause on Ypsilanti Twp data center over grid strain",
-   "dek": "A University of Michigan regent called for a temporary halt to the proposed data center in Ypsilanti Township. The move highlights concerns about electricity demand and local infrastructure costs. Nearby communities could see rate hikes if the project advances without new power safeguards.",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN3VtcTlHUWFLcGVWUzNBaFFBc3RlOUJ2bXc5ZXY4NkduUXl4M1JVRWtMR1dfQ2V1bVgzbWFRUGstZ29uRjEwMW9CYXN4ZXlaV194NTVUM3gzaWs3Z3Jlc29TcVplV0J5TDcyZ2FZcjVKUHRRbGh0RFlreDZ4cVZwOExSQVp6ZzFOUDJfaU9HREt0dTBPVVFfa0FIX0pLZ0N1cHBiTmJVWUN3dw?oc=5",
-   "source": "FOX 2 Detroit",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Power & Grid",
-   "iso": "2026-08-12T01:31:44Z",
-   "id": "d60a13d01367",
-   "origin": "google-news",
-   "source_title": "University of Michigan Regent calls for pause of proposed data center in Ypsilanti Twp. - FOX 2 Detroit",
-   "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN3VtcTlHUWFLcGVWUzNBaFFBc3RlOUJ2bXc5ZXY4NkduUXl4M1JVRWtMR1dfQ2V1bVgzbWFRUGstZ29uRjEwMW9CYXN4ZXlaV194NTVUM3gzaWs3Z3Jlc29TcVplV0J5TDcyZ2FZcjVKUHRRbGh0RFlreDZ4cVZwOExSQVp6ZzFOUDJfaU9HREt0dTBPVVFfa0FIX0pLZ0N1cHBiTmJVWUN3dw?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {
