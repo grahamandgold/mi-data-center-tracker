@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT1NnRGw0RHhXUE0xbzVCcFNQZE9PRHhld0IzcVJpNDY4UGlyNHU2STV4Nm5nWVpuR0FhdFdEZEFjRklvNDZQM3p4WDRqUWR0YVNmWWFLRkpEdHVGSXJyRDRKelBocWxmcUpkUFJ1STFrWHBEVDdFbWtTUldwbkZ1Z2xibDdFOWtzTDU0UFJaOEF4N3pxLUIzZ1cwRQ?oc=5",
-   "title": "Michigan keeps data center freeze after rejecting developer's ask",
-   "at": "2026-07-23T09:31:24+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: Headline is vague and lacks specifics—no named municipality, developer, or decision-making body identified, making it impossible to verify whether this is a con"
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbHlFWWdSVllDVzNYSnJ4RV9jNVFvMTR0Vy1rNGlVemNqMnM1RHJwaXFqUlpYYkhVelNHVkhRb3c2bUV2RmF0UnQ4eTF3aS0zeXM3d2xVUWdwa1RScnhyZy1jTGh5YWtuRkJzbG40MmxDUm9DZ1Z4WDJlam9zVTVSUWVoX3Njb0RHRzR6Z2RyN3prbERVaXg0enEyLVNaSEZaNlBj?oc=5",
    "title": "Williamston residents pack hearing to question data center plans",
    "at": "2026-07-23T11:27:23+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-12T02:35:51+00:00",
    "by": "news_judge",
    "note": "score 3/10: National guidance document from Missouri with no Michigan-specific action or impact."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON3J2TGowa3RhZTVXekFFa3pVb1ZuWUVzd3BBNGotZ3Ytcy15ci1EalZjV2dDcHdtOHdxaTlwRFRyYUlScm1KX1MtMTlGMEpRcWdyVWt2S0VNekZrcmhuS0JJc1VSbldpbXlxeWEzaDQ0WkZLX2ZNaTl2SVBQRjNEZEJ3T3JNYXR5LWp2eXhBY0FPcDZPVHRObHl1T3l4SkZjZmRGRlpB?oc=5",
+   "title": "U-M locks in Textile Road for $1.2B computing center despite local pushback",
+   "at": "2026-08-12T04:26:15+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: This is the same UM Textile Road $1.2B supercomputer campus decision already live, just reworded with 'despite local pushback' angle."
   }
  ],
  "auto_published": [
@@ -2679,6 +2679,18 @@
    "title": "Michigan AG challenges OpenAI-Oracle data center deal over costs to ratepayers",
    "judge_score": 8,
    "at": "2026-08-12T02:35:51Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcktkb084SVdMNFZ3SElvTnVKWkVDVExGejBVV3FVTzR2clFkSGUza0ZlcXktTVEyOFpEWXpLalpYWGxrVW9OUlUxa2FBQTR6UjJRZURhVUM0QVJuT21JWU9TNW9hQ1J0QXBoSG96XzZpMDJzSGk1enE4Z3VXZGFXUlRUV04tMmpLLUNXai1VVU1yMXh4T0ttNV9kV0tQbjVyREwtRUE4Uk9uZFV1THNFYmttR2dNMFdJd1lNNlBDRFZteHFXdWExU1hsUFRCSXk5V1hEOWZxTHVsMk9ONTR6aENOUUtXZHM?oc=5",
+   "title": "Kalamazoo commissioners set to decide six-month data center ban",
+   "judge_score": 7,
+   "at": "2026-08-12T04:26:15Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbTZlZUFRQVFfV1dnNmU4MlhRSFYtbFdFUjZOSUh3dDlvMjZJYWJYS0gyMi1vWENkMktOa29KUThkdmRNSUlUaGNyQnlKMkZzSjJycmVDMjJGOGVxOXh5aFBJNVBxQmNkaFI0aW1JbkUxczRVeUtTZEpLVDFoSU5LOWd4SFF6SnhTcTRoYjYyZzZiOE1ld0JoWVBR0gGuAUFVX3lxTFBaNlZXNVBkbzVjNVg1S29MMGpuckg1NDA3ZldUX19FY19jNFl0M05GNjRjQXl0bDBLV3Z5a011NUw3bTE4Vnl1WmdrR0dkeVBBRGRLdmFtU1B2YlhjZWRjN084Q2czc1Nmdk5kcEpWTFRJLTU3LU8yb25CSFBkZVhFYjk3MWtTWkh3bmtQUjREWnRQWGJNUlBxVXl3c2RFRlR0ZEpJYnpTeXlVb1Vtdw?oc=5",
+   "title": "East Lansing extends data center freeze another year, blocking new proposals",
+   "judge_score": 9,
+   "at": "2026-08-12T04:26:15Z"
   }
  ]
 }

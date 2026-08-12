@@ -1,26 +1,7 @@
 {
- "updated_at": "2026-08-12T02:35:51Z",
+ "updated_at": "2026-08-12T04:26:15Z",
  "generator": "grok-wire-agent",
  "items": [
-  {
-   "iso": "2026-08-10T16:00:00Z",
-   "region": "west",
-   "cat": "Kent Co.",
-   "tag": "Water",
-   "title": "Lowell Freezes Township Water Talks, Delaying $1B Microsoft Data Center",
-   "dek": "City leaders halted further changes to water and sewer agreements with Lowell Township, stalling negotiations for the proposed Microsoft facility that would need major plant upgrades.",
-   "source": "WGVU News",
-   "url": "https://www.wgvunews.org/news/2026-08-10/lowell-city-leaders-freeze-water-talks-with-township-officials-stalling-data-center-plans",
-   "breaking": false,
-   "lead": false,
-   "id": "75f50edef114",
-   "kind": "story",
-   "filed_at": "2026-08-11T16:27:32+00:00",
-   "accuracy": "checked-rewritten",
-   "headline_rewritten": true,
-   "judge_score": 8,
-   "judge_note": "Concrete new development: City of Lowell halting water/sewer talks is a specific action that stalls the Microsoft project, distinct from township zoning delays "
-  },
   {
    "title": "West Michigan towns tighten rules on data center growth",
    "dek": "Several communities are adopting zoning changes to control building size, power draw and water use. Residents gain tools to block or shrink projects that could raise utility rates. Coordinated local action limits the risk of one township’s decision affecting neighbors’ bills and landscapes.",
@@ -41,25 +22,7 @@
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6,
    "judge_note": "Regional roundup of multiple West Michigan towns adopting zoning changes is incremental and real, though lacks specific vote/decision details that would push it"
-  },
-  {
-   "iso": "2026-08-10T16:00:00+00:00",
-   "region": "metro",
-   "cat": "Oakland Co.",
-   "tag": "Local Government",
-   "title": "Rochester Hills Weighs Extension of Data Center Moratorium for Additional Guardrails",
-   "dek": "City leaders seek more time to craft regulations before considering new proposals, following similar pauses in other southeast Michigan communities.",
-   "source": "WWJ",
-   "url": "https://www.facebook.com/wwj950/posts/rochester-hills-needs-more-time-to-set-up-ai-data-center-guardrails-moratorium-e/1686324556836031/",
-   "breaking": false,
-   "lead": true,
-   "id": "48f32887be47",
-   "kind": "story",
-   "filed_at": "2026-08-11T10:31:26+00:00",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7,
-   "judge_note": "Concrete new development: Rochester Hills considering extending its moratorium is a specific municipal action distinct from Marshall's enacted year-long freeze "
   }
  ],
- "accuracy_checked_at": "2026-08-12T02:35:48+00:00"
+ "accuracy_checked_at": "2026-08-12T04:26:09+00:00"
 }

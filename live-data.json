@@ -1,7 +1,41 @@
 {
- "updated_at": "2026-08-12T02:35:51Z",
+ "updated_at": "2026-08-12T04:26:15Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "East Lansing extends data center freeze another year, blocking new proposals",
+   "dek": "City Council voted to keep the moratorium in place, preventing any new data center applications from moving forward. Residents 30 miles away in the Lansing region face the same risk of sudden power and water strain if large facilities land nearby. The extension keeps local zoning rules unchanged while the city studies long-term impacts.",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbTZlZUFRQVFfV1dnNmU4MlhRSFYtbFdFUjZOSUh3dDlvMjZJYWJYS0gyMi1vWENkMktOa29KUThkdmRNSUlUaGNyQnlKMkZzSjJycmVDMjJGOGVxOXh5aFBJNVBxQmNkaFI0aW1JbkUxczRVeUtTZEpLVDFoSU5LOWd4SFF6SnhTcTRoYjYyZzZiOE1ld0JoWVBR0gGuAUFVX3lxTFBaNlZXNVBkbzVjNVg1S29MMGpuckg1NDA3ZldUX19FY19jNFl0M05GNjRjQXl0bDBLV3Z5a011NUw3bTE4Vnl1WmdrR0dkeVBBRGRLdmFtU1B2YlhjZWRjN084Q2czc1Nmdk5kcEpWTFRJLTU3LU8yb25CSFBkZVhFYjk3MWtTWkh3bmtQUjREWnRQWGJNUlBxVXl3c2RFRlR0ZEpJYnpTeXlVb1Vtdw?oc=5",
+   "source": "WILX",
+   "region": "mid",
+   "cat": "STATEWIDE",
+   "county": "Ingham",
+   "tag": "Local Government",
+   "iso": "2026-08-12T03:07:00Z",
+   "id": "5197f463dd4b",
+   "origin": "google-news",
+   "source_title": "East Lansing City Council votes to extend the data center moratorium - WILX",
+   "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbTZlZUFRQVFfV1dnNmU4MlhRSFYtbFdFUjZOSUh3dDlvMjZJYWJYS0gyMi1vWENkMktOa29KUThkdmRNSUlUaGNyQnlKMkZzSjJycmVDMjJGOGVxOXh5aFBJNVBxQmNkaFI0aW1JbkUxczRVeUtTZEpLVDFoSU5LOWd4SFF6SnhTcTRoYjYyZzZiOE1ld0JoWVBR0gGuAUFVX3lxTFBaNlZXNVBkbzVjNVg1S29MMGpuckg1NDA3ZldUX19FY19jNFl0M05GNjRjQXl0bDBLV3Z5a011NUw3bTE4Vnl1WmdrR0dkeVBBRGRLdmFtU1B2YlhjZWRjN084Q2czc1Nmdk5kcEpWTFRJLTU3LU8yb25CSFBkZVhFYjk3MWtTWkh3bmtQUjREWnRQWGJNUlBxVXl3c2RFRlR0ZEpJYnpTeXlVb1Vtdw?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 9
+  },
+  {
+   "title": "Kalamazoo commissioners set to decide six-month data center ban",
+   "dek": "City leaders will vote on extending the moratorium, which would halt all new proposals for half a year. The move directly affects Kalamazoo County residents worried about electricity costs and industrial-scale water withdrawals. A yes vote would give the city time to write permanent rules before any project advances.",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcktkb084SVdMNFZ3SElvTnVKWkVDVExGejBVV3FVTzR2clFkSGUza0ZlcXktTVEyOFpEWXpLalpYWGxrVW9OUlUxa2FBQTR6UjJRZURhVUM0QVJuT21JWU9TNW9hQ1J0QXBoSG96XzZpMDJzSGk1enE4Z3VXZGFXUlRUV04tMmpLLUNXai1VVU1yMXh4T0ttNV9kV0tQbjVyREwtRUE4Uk9uZFV1THNFYmttR2dNMFdJd1lNNlBDRFZteHFXdWExU1hsUFRCSXk5V1hEOWZxTHVsMk9ONTR6aENOUUtXZHM?oc=5",
+   "source": "WWMT",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Kalamazoo",
+   "tag": "Local Government",
+   "iso": "2026-08-12T00:53:47Z",
+   "id": "e4fcc6fe37c8",
+   "origin": "google-news",
+   "source_title": "Kalamazoo city commissioners to vote on data center moratorium - WWMT",
+   "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcktkb084SVdMNFZ3SElvTnVKWkVDVExGejBVV3FVTzR2clFkSGUza0ZlcXktTVEyOFpEWXpLalpYWGxrVW9OUlUxa2FBQTR6UjJRZURhVUM0QVJuT21JWU9TNW9hQ1J0QXBoSG96XzZpMDJzSGk1enE4Z3VXZGFXUlRUV04tMmpLLUNXai1VVU1yMXh4T0ttNV9kV0tQbjVyREwtRUE4Uk9uZFV1THNFYmttR2dNMFdJd1lNNlBDRFZteHFXdWExU1hsUFRCSXk5V1hEOWZxTHVsMk9ONTR6aENOUUtXZHM?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Michigan AG challenges OpenAI-Oracle data center deal over costs to ratepayers",
    "dek": "Attorney General Dana Nessel is pushing back on a proposed OpenAI and Oracle data center arrangement. The move targets potential spikes in electricity bills for Michigan households. Lawmakers and utilities will now face added scrutiny on any large power contracts.",
@@ -152,40 +186,6 @@
    "id": "b7cb94d11895",
    "accuracy": "checked-rewritten",
    "judge_score": 8
-  },
-  {
-   "title": "Mount Pleasant data center keeps Wisconsin-rejected power plant clause",
-   "dek": "The contract for the Mount Pleasant project still includes a power plant provision already struck down by Wisconsin regulators. Residents face the risk of higher local energy costs if the plant moves forward to serve the data center. The deal shows how out-of-state regulatory fights can directly shape Michigan power bills.",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOXBoS3JSU2tWeGNTcDdhVlVMdDJ0V0Jqa1dHc1kyOC1sblVQMVQzQVhCbXBQdEgwWUM5LVBLNzhFMGdpT2pIWEE3LWp0djdtZ1RfcDQ5dnhCX1hmVnBNY0h3NnVDNndSLTZtQm40QURIRHR4b1R2VW1wVl9lNzUtd0x6bFZ0eTg0VXFVT2Eya1llY2w3WDYxbXc3Vm5jZ1VFQmxrSnRJTWxRLV9zUDZyZDZBcFRMT1Y1NmpWbmY2b0pYcHRzdjY0cVdlcUtzMXdpbU9Z?oc=5",
-   "source": "PBS Wisconsin",
-   "region": "mid",
-   "cat": "STATEWIDE",
-   "county": "Isabella",
-   "tag": "Power & Grid",
-   "iso": "2026-08-11T04:58:58Z",
-   "id": "99e3db4bf1b8",
-   "origin": "google-news",
-   "source_title": "Mount Pleasant data center contract retains power plant provision struck down by Wisconsin regulators - PBS Wisconsin",
-   "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOXBoS3JSU2tWeGNTcDdhVlVMdDJ0V0Jqa1dHc1kyOC1sblVQMVQzQVhCbXBQdEgwWUM5LVBLNzhFMGdpT2pIWEE3LWp0djdtZ1RfcDQ5dnhCX1hmVnBNY0h3NnVDNndSLTZtQm40QURIRHR4b1R2VW1wVl9lNzUtd0x6bFZ0eTg0VXFVT2Eya1llY2w3WDYxbXc3Vm5jZ1VFQmxrSnRJTWxRLV9zUDZyZDZBcFRMT1Y1NmpWbmY2b0pYcHRzdjY0cVdlcUtzMXdpbU9Z?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
-  },
-  {
-   "title": "Lowell pushes data center rules back by months",
-   "dek": "Officials in Lowell say new zoning and permitting standards for data centers will not be ready for several more months. Until then, any proposals could move forward under current weak rules. Kent County residents have little say on power and water demands until the ordinance is finished.",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMm1zdnpRcmRDczlkaV9ZY1I0RnhhaFB6UEZLWF93ME02cE9vcExvaGNQaDUtSVZZZzdhWmxCWDAyaktwenNCMkpsdzZLUTBWNmY5MlpheWZMX1BudWx4MmFNXzI5UHNzV1U3eXhWREpFQ2hiemJ0eWdYczBtWnVmdUF6elFsbW5EREtGYVhmcWtyNzk5ZnNqRVM2MEdEdnpUOUVFOHJKd0E2WG50SXZnVnhGYnlXQdIBygFBVV95cUxNU2cxNElLQXZvMWxFU0R6NWpKanRXOHpsbHJGVVR4N1kzQXlXSUpJeWI0djJTSUZoVXl5TTU1MDdpSVZfRmdEeEp0OXVpbTM4Wm5mdEpWMENQQ1FzU2drMDE0MlF6YTFDbjJyYXRfdDQyNG9maFI5SDRhR1ptYWcwVzAtTmVnSGRfaVF4YUVVUmFHdVh5UlRSRU1xMjFYQ1FnSElmMnlaSGNreVVqN3ZfZ1hPRmp3X1JQdHlzZWR5aWloZGd6QzNsYURn?oc=5",
-   "source": "MLive.com",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Kent",
-   "tag": "Local Government",
-   "iso": "2026-08-11T04:02:00Z",
-   "id": "76a36d8b3c13",
-   "origin": "google-news",
-   "source_title": "Lowell data center regulations still months away, officials say - MLive.com",
-   "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMm1zdnpRcmRDczlkaV9ZY1I0RnhhaFB6UEZLWF93ME02cE9vcExvaGNQaDUtSVZZZzdhWmxCWDAyaktwenNCMkpsdzZLUTBWNmY5MlpheWZMX1BudWx4MmFNXzI5UHNzV1U3eXhWREpFQ2hiemJ0eWdYczBtWnVmdUF6elFsbW5EREtGYVhmcWtyNzk5ZnNqRVM2MEdEdnpUOUVFOHJKd0E2WG50SXZnVnhGYnlXQdIBygFBVV95cUxNU2cxNElLQXZvMWxFU0R6NWpKanRXOHpsbHJGVVR4N1kzQXlXSUpJeWI0djJTSUZoVXl5TTU1MDdpSVZfRmdEeEp0OXVpbTM4Wm5mdEpWMENQQ1FzU2drMDE0MlF6YTFDbjJyYXRfdDQyNG9maFI5SDRhR1ptYWcwVzAtTmVnSGRfaVF4YUVVUmFHdVh5UlRSRU1xMjFYQ1FnSElmMnlaSGNreVVqN3ZfZ1hPRmp3X1JQdHlzZWR5aWloZGd6QzNsYURn?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {
