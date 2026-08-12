@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbHlFWWdSVllDVzNYSnJ4RV9jNVFvMTR0Vy1rNGlVemNqMnM1RHJwaXFqUlpYYkhVelNHVkhRb3c2bUV2RmF0UnQ4eTF3aS0zeXM3d2xVUWdwa1RScnhyZy1jTGh5YWtuRkJzbG40MmxDUm9DZ1Z4WDJlam9zVTVSUWVoX3Njb0RHRzR6Z2RyN3prbERVaXg0enEyLVNaSEZaNlBj?oc=5",
-   "title": "Williamston residents pack hearing to question data center plans",
-   "at": "2026-07-23T11:27:23+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: This is the same Williamston Township public hearing already covered in 'Williamston Township residents grill officials on data center plans.'"
-  },
-  {
    "url": "https://www.circleofblue.org/2026/world/inside-americas-first-data-center-only-utility/",
    "title": "Indiana Approves Data-Center-Only Utility to Shield Ratepayers",
    "at": "2026-07-23T13:08:33+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-12T04:26:15+00:00",
    "by": "news_judge",
    "note": "score 3/10, duplicate: This is the same UM Textile Road $1.2B supercomputer campus decision already live, just reworded with 'despite local pushback' angle."
+  },
+  {
+   "url": "https://wcsx.com/2026/08/11/detroit-lacks-power-grid-for-large-data-centers-new-analysis-shows/",
+   "title": "Analysis shows Detroit power grid insufficient for large-scale data centers",
+   "at": "2026-08-12T06:01:18+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicate of already-live 'Detroit Grid Too Weak for Hyperscale Data Centers, DTE Tells Planners' — same study/finding reworded."
   }
  ],
  "auto_published": [
@@ -2691,6 +2691,12 @@
    "title": "East Lansing extends data center freeze another year, blocking new proposals",
    "judge_score": 9,
    "at": "2026-08-12T04:26:15Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN3VtcTlHUWFLcGVWUzNBaFFBc3RlOUJ2bXc5ZXY4NkduUXl4M1JVRWtMR1dfQ2V1bVgzbWFRUGstZ29uRjEwMW9CYXN4ZXlaV194NTVUM3gzaWs3Z3Jlc29TcVplV0J5TDcyZ2FZcjVKUHRRbGh0RFlreDZ4cVZwOExSQVp6ZzFOUDJfaU9HREt0dTBPVVFfa0FIX0pLZ0N1cHBiTmJVWUN3dw?oc=5",
+   "title": "U-M regent urges pause on Ypsilanti Twp data center over grid strain",
+   "judge_score": 7,
+   "at": "2026-08-12T06:01:18Z"
   }
  ]
 }
