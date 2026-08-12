@@ -1,34 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.easternecho.com/article/2026/07/ypsilanti-data-center-fight-continues-after-township-meeting",
-   "title": "Ypsilanti Township Residents Continue Pushback on Proposed Data Center After Latest Meeting",
-   "at": "2026-07-25T00:12:33+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: Vague rehash of ongoing Ypsilanti opposition with no concrete new development, decision, or scheduled action reported."
-  },
-  {
-   "url": "https://gandernewsroom.com/news/politics/how-many-ai-data-centers-are-planned-in-michigan-we-counted/",
-   "title": "Gander Newsroom Launches Updated Directory Tracking Over 30 Michigan Data Center Proposals",
-   "at": "2026-07-25T00:12:33+00:00",
-   "by": "news_judge",
-   "note": "score 2/10: Self-promotional announcement of a directory resource rather than news about an actual data center development or decision."
-  },
-  {
-   "url": "https://upnorthlive.com/news/nation-world/white-house-expands-pledge-to-keep-electric-bills-under-control-amid-data-center-boom-ratepayer-protection-pledge-trump-tech-companies-artificial-intelligence",
-   "title": "White House Expands Ratepayer Protection Pledge as Data Center Power Demand Grows",
-   "at": "2026-07-25T00:12:33+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: National trend piece on White House pledge expansion; no Michigan-specific decision or development despite data center relevance."
-  },
-  {
-   "url": "https://www.woodtv.com/news/nexstar-media-wire/data-centers-to-use-1-5-of-us-power-by-2035-report/",
-   "title": "U.S. Data Centers Projected to Consume One-Fifth of National Electricity by 2035 Amid AI Boom",
-   "at": "2026-07-25T06:26:08+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece projecting future demand with no Michigan-specific angle or actionable development for local readers tracking the buildout."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaVhzV25xNzhJTDRjZ3pnUURlbUZKV3hqUThwUXBGNEFlaDRWWFA3TndtbU5vOEF4cEhQdWhjZ2hRdjZ6WnhKOW5ZOFZ3R2g0XzVad2FJYWZBd0RUQ1doaVlaRUVlem5wQ2thbXBNbzZBNFZWcnctbDZySkN1NldxdlpMMFVuNVZodThKVHdlTXoxR0dXT1ZWUDdjQ3pfRExNamZzUWZNMmx2c1h4b3JjRjdrOHlFUG83b2F1UzBTRjF0TVUwYVZ3cHVtUGhHeUlKZUJzTQ?oc=5",
    "title": "24/7 hum from Michigan data center leaves neighbors sleepless",
    "at": "2026-07-25T10:13:05+00:00",
@@ -1399,6 +1371,34 @@
    "at": "2026-08-12T17:08:53+00:00",
    "by": "news_judge",
    "note": "score 8/10, duplicate: This is the same Saline/Oracle deal already covered in the live story 'Michigan AG challenges OpenAI-Oracle data center deal over costs to ratepayers' — same ch"
+  },
+  {
+   "url": "https://planetdetroit.org/2026/08/dte-oracle-contract-appeal-michigan/",
+   "title": "Michigan Attorney General Appeals Fast-Tracked DTE Contracts for Saline Township Oracle Data Center",
+   "at": "2026-08-12T18:29:44+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: Duplicate of already-live 'Nessel and green groups challenge DTE power deals for Saline data centers' and killed 'Nessel Asks Appeals Court to Block Energy Cont"
+  },
+  {
+   "url": "https://grahamandgold.github.io/mi-data-center-tracker/",
+   "title": "No major non-Michigan data center developments reported in the last 24 hours meeting wire criteria",
+   "at": "2026-08-12T18:29:44+00:00",
+   "by": "news_judge",
+   "note": "score 1/10: Not a story — just a meta-note about lack of national news."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbWlhMnduOTZOT3FPcktRU1Q0NFRDWnBoRkZvcTJQWkxha0tBdWJsaE1jUUxob3dQeFFHR1pJcHVZY2U3UzU0N1NCMkRuaVlTWU5XSDcyeE1jejdUX2lFeHI4OTFyOU4wVGxjNUEybXFsTllLZVlsMU5YYWFqYk9UYy1iVU5SbTJ4ZnVzR195MEJhQ1pYejA1ZFVLMA?oc=5",
+   "title": "Morley delays vote on hydro-powered data center",
+   "at": "2026-08-12T18:29:44+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: Duplicate of already-live 'Morley delays hydro data center hearing to Aug 18' — identical delay to same date for same project."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNeUp6ejZRRjltczItUHhaRzJFWVVCczY5YlRKRS1sRnJab09vX0dxXzBGZmVQRGw1LW1pdTdYMlhYYVdva3YwT2dBQTZVcU8tNWhZcTJwTXFBc3pOaXFIcF9CZl93WEVUVGRrczBESDBIc2tpWHlLeVlhbERHR2xyVUFfT3owdEJwcE9VaVZXdW9vdlpTcFo3ZmhYVzk1al9fS1NxTVpCSE1UTE9EaVJ4aFcxallNb2FqRjNUZnVRNVY3bllPaklSa29IZ2F1alF4QXpQajZCTDVnTnUtd1FaVlo2NUw4MW5IdW9RTG4zV3JVOXdkT25rR2Z6N0M2VFg3TlhWTEpqRklwWGM?oc=5",
+   "title": "Hyperscale Data weighs sale of Dowagiac facility",
+   "at": "2026-08-12T18:29:44+00:00",
+   "by": "news_judge",
+   "note": "score 4/10, duplicate: Duplicate of killed 'Hyperscale Data weighs sale of Dowagiac data center' — same potential sale, same facility, same speculative nature."
   }
  ],
  "auto_published": [
@@ -2733,6 +2733,12 @@
    "title": "Rochester Hills extends data center moratorium another year",
    "judge_score": 8,
    "at": "2026-08-12T17:08:53Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOODEzQUpzeWNwTE4xei1LSnZKMFQwcHRKYWRHZUhOWXFib2xyUUxwLVRsbHhmWmxKMXZlRjZTNV9uZTRFYm5kZENVeFlrOUpGWFdqZFlPa1RBYk1kWEhuY0x6ZjBQX3JSb2JjRUM1VG1PQ1JObldWM08zanF6dnZYdUhHaGk4bjJJN0ZCS3ZhUHFfNUxz?oc=5",
+   "title": "Lawsuit challenges pause blocking planned server facility, tax revenue at stake",
+   "judge_score": 7,
+   "at": "2026-08-12T18:29:44Z"
   }
  ]
 }

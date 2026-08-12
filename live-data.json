@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-12T17:08:53Z",
+ "updated_at": "2026-08-12T18:29:44Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Lawsuit challenges pause blocking planned server facility, tax revenue at stake",
+   "dek": "A developer is suing Wixom after the city extended its pause on new data centers. The lawsuit claims the moratorium exceeds local authority and blocks a planned project. Oakland County residents could see delayed tax revenue and jobs if the case succeeds.",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOODEzQUpzeWNwTE4xei1LSnZKMFQwcHRKYWRHZUhOWXFib2xyUUxwLVRsbHhmWmxKMXZlRjZTNV9uZTRFYm5kZENVeFlrOUpGWFdqZFlPa1RBYk1kWEhuY0x6ZjBQX3JSb2JjRUM1VG1PQ1JObldWM08zanF6dnZYdUhHaGk4bjJJN0ZCS3ZhUHFfNUxz?oc=5",
+   "source": "WHMI",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Oakland",
+   "tag": "Local Government",
+   "iso": "2026-08-12T17:42:49Z",
+   "id": "66fe3ddb077d",
+   "origin": "google-news",
+   "source_title": "Developer Sues City of Wixom Over Data Center Moratorium - WHMI",
+   "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOODEzQUpzeWNwTE4xei1LSnZKMFQwcHRKYWRHZUhOWXFib2xyUUxwLVRsbHhmWmxKMXZlRjZTNV9uZTRFYm5kZENVeFlrOUpGWFdqZFlPa1RBYk1kWEhuY0x6ZjBQX3JSb2JjRUM1VG1PQ1JObldWM08zanF6dnZYdUhHaGk4bjJJN0ZCS3ZhUHFfNUxz?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Rochester Hills extends data center moratorium another year",
    "dek": "Rochester Hills officials voted to keep the pause on new proposals in place. Residents near potential sites avoid immediate threats of noise, traffic and power strain from large facilities. The extension gives the city more time to write permanent rules on where and how data centers can locate.",
@@ -171,23 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jamNzNGtPY1BLTkpNSzBLcUxVc3BQTFBRNUVXQ1o4a1dhLXJlM2kteEVUQk5GTnBJZWFGY1ZTVkpyTlNtcFR3V2dZVWJvMnZ2ZXhfejJhRE9IUdIBWkFVX3lxTE1jamNzNGtPY1BLTkpNSzBLcUxVc3BQTFBRNUVXQ1o4a1dhLXJlM2kteEVUQk5GTnBJZWFGY1ZTVkpyTlNtcFR3V2dZVWJvMnZ2ZXhfejJhRE9IUQ?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
-  },
-  {
-   "title": "Corunna adopts rules to steer future data center projects",
-   "dek": "The new ordinance sets zoning and review standards for any proposed data centers. Residents in Shiawassee County now have clearer limits on where and how large facilities could be built. The rules aim to protect local infrastructure and tax base.",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQnc4RE11ckdIUWhReFdZZ3BnVS1xNXpEXzVtbUNBOXBZRHozUzFtSkhRbTdxam1NTWR3MUpkZ1k5MktPZXI2OWlhYlROWjlaMGhjcnR5clBKLW44X09MV01uR2pyMkhhTzAzLWs5eXloN2Y5aWJDMVhFaTlObE1QcGpsUHZ2MG9pUnFuYnZsQTBCVTAwUERPTEdCdkdyTGpPQnRJNXVxNkRKYWpYNnQxOEVDODJKRHo3eVRqVVAwbDBHTGphUVQ4enVNblAwalZoYlE?oc=5",
-   "source": "WJRT ABC12",
-   "region": "mid",
-   "cat": "STATEWIDE",
-   "county": "Shiawassee",
-   "tag": "Local Government",
-   "iso": "2026-08-11T22:11:00Z",
-   "id": "27dd8fdb100b",
-   "origin": "google-news",
-   "source_title": "Corunna ordinance regulates potential data centers - WJRT ABC12",
-   "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQnc4RE11ckdIUWhReFdZZ3BnVS1xNXpEXzVtbUNBOXBZRHozUzFtSkhRbTdxam1NTWR3MUpkZ1k5MktPZXI2OWlhYlROWjlaMGhjcnR5clBKLW44X09MV01uR2pyMkhhTzAzLWs5eXloN2Y5aWJDMVhFaTlObE1QcGpsUHZ2MG9pUnFuYnZsQTBCVTAwUERPTEdCdkdyTGpPQnRJNXVxNkRKYWpYNnQxOEVDODJKRHo3eVRqVVAwbDBHTGphUVQ4enVNblAwalZoYlE?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {
