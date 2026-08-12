@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-12T20:57:00+00:00",
+ "updated_at": "2026-08-12T21:56:47+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -244,6 +244,20 @@
    "link": "https://www.facebook.com/detroitchamber/posts/on-thursday-august-13-at-6-pm-join-the-michigan-for-responsible-data-centers-coa/1479381710891828/",
    "linkLabel": "Event Details",
    "stream": ""
+  },
+  {
+   "iso": "2026-08-17",
+   "body": "Kalamazoo City Commission",
+   "topic": "Vote on resolution for temporary moratorium on data center development",
+   "region": "West Michigan",
+   "regionKey": "west",
+   "county": "Kalamazoo",
+   "time": "7:00 PM",
+   "status": "Board meeting",
+   "urgent": true,
+   "link": "https://kalamazoomi.portal.civicclerk.com",
+   "linkLabel": "Agenda",
+   "stream": "https://videoplayer.telvue.com/player/2bm0gzQWeVRzdCgvjXziXKwO3icSKh05/series/3444/media/1039794"
   }
  ],
  "accuracy_checked_at": "2026-07-08T08:45:16+00:00"

@@ -1,36 +1,7 @@
 {
- "updated_at": "2026-08-12T21:09:41+00:00",
+ "updated_at": "2026-08-12T21:57:11+00:00",
  "generator": "grok-wire-agent",
  "items": [
-  {
-   "title": "Speaker Township planners work on data center ordinance terms",
-   "dek": "The special meeting will work on terms for ordinances covering cryptocurrency, AI data centers, residential battery storage, and container buildings.",
-   "url": "https://speakertwpmi.gov/planning-commission-special-meeting-august-12-2026-at-700-p-m/",
-   "source": "Speaker Township Planning Commission agenda",
-   "region": "Mid-Michigan",
-   "county": "Sanilac",
-   "cat": "Meetings",
-   "tag": "Agenda watch",
-   "iso": "2026-08-12T21:09:41+00:00",
-   "kind": "agenda",
-   "id": "5a6894ed3f62",
-   "filed_at": "2026-08-12T21:09:41+00:00",
-   "accuracy": "thin — needs human background",
-   "findings": "The Aug. 12 special meeting notice states the purpose is working on terms and conditions for Cryptocurrency Data Mining Facilities and Data Centers (which includes AI) Ordinance | The notice also covers Residential Battery Storage Ordinance and Container Buildings and Small Structures Ordinance | Meeting is at 7:00 p.m. at Speaker Township Hall, 7630 Brockway Rd. (M-19), Melvin, MI 48454",
-   "perspective": "The notice indicates the commission will work on terms and conditions for the ordinances. The meeting is posted in compliance with the Open Meetings Act, Public Act 267 of 1976, as amended.",
-   "documents": [
-    {
-     "label": "Agenda page",
-     "url": "https://speakertwpmi.gov/planning-commission-special-meeting-august-12-2026-at-700-p-m/"
-    },
-    {
-     "label": "8. 12. 2026 PC Meeting Notice",
-     "url": "https://speakertwpmi.gov/wp-content/uploads/2026/07/8.-12.-2026-PC-Meeting-Notice.pdf"
-    }
-   ],
-   "depth_score": 4,
-   "extraction_method": "plain"
-  },
   {
    "title": "Negaunee council eyes zoning limits to confine data centers to mining and industrial zones",
    "dek": "The Negaunee City Council scheduled a public hearing for its Aug. 13 meeting on a new ordinance that would restrict data centers to specific zones and impose strict noise, pollution and height rules. Council members have said the language aims to give the city control and potentially deter projects.",
@@ -44,7 +15,7 @@
    "kind": "agenda",
    "id": "148301b1c23b",
    "filed_at": "2026-08-12T21:09:41+00:00",
-   "accuracy": "thin — needs human background",
+   "accuracy": "checked",
    "findings": "Ordinance would limit data centers to mining and industrial zones per the July 20 Mining Journal report | Requires any air pollution, dust, smoke, glare, exhaust, noise, heat, vibration or humidity to be imperceptible at or beyond the property line | Sets maximum building heights and other specifications | City Council voted 7-0 on first reading in July and scheduled the hearing | Councilperson Jon Becker said he hopes the rules are so restrictive that projects go elsewhere | Councilperson Amanda Ghanavati said she hopes it makes data centers nearly impossible here",
    "perspective": "The Negaunee Planning Commission drafted and recommended the ordinance last month. Michigan law bars exclusionary zoning that would fully prohibit data centers. The Aug. 13 public hearing is the next step before a potential second reading and vote.",
    "documents": [
@@ -54,8 +25,10 @@
     }
    ],
    "depth_score": 2,
-   "extraction_method": "plain"
+   "extraction_method": "plain",
+   "judge_score": 7,
+   "judge_note": "Concrete new development: Negaunee scheduled a public hearing on Aug. 13 for a specific zoning ordinance restricting data centers."
   }
  ],
- "accuracy_checked_at": "2026-08-12T20:57:16+00:00"
+ "accuracy_checked_at": "2026-08-12T21:57:07+00:00"
 }

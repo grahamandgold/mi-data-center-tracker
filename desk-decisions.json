@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
-   "title": "Fallen Power Line Highlights Data Center Grid Vulnerabilities as AI Demand Surges",
-   "at": "2026-07-26T09:36:41+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece about Virginia grid vulnerabilities with no Michigan angle or specific local impact."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQa2VQVG5YbHlndlFMT214cjFfSVBNa0RJX0cxanFjZVlqOHBNNV91RGQ2ODJrMXlEaXJWN0xsSVgweWZfNXYxY3pGbjJrRXk2RXNrMTlOeU1yMndCYm1Lc0c2MzQwMkZ4aE1QQW5xTU1KRW1mODdnaW5YRFNNZWlrN2pZRjlBUGNvVk9XNm1FQTlVS0xMUXVLQU9yNEo4Qld4aWhub1Bqb1lxc0JCZ1U3WjdXb2pzaWttN1c0STk5emx5UTd2MTVMd1BqTzA?oc=5",
-   "title": "Dowagiac data center noise keeps residents awake at night",
-   "at": "2026-07-27T08:57:31+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicate of already-live 'Dowagiac Residents Report Ongoing Noise From Operating Data Center, Explore Legal Options' — same facility, same noise complaints, ju"
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcWE0NDNUQWFiajdNLVlvWXZ5eXZqdVI1VG05VEV0bHdDQkFWWWQ0eDlTVnJJbXpDMjZuaGx0NE4tQXF6NDNxUlVFQXk5a3hTV3l0YlVOM1c0c04zRnZ2V0ZwVl84aWtYdDlWNWNzam5EdF9ibXdnSTh3WmhDRDZFclpuYkFoNnNVQUR6akFtNUdqeDNhSXdWSmRSR0V3cnRwRVI5ODkyV0ctYUlIVllpd3d5dkdfcE1ycGhTblNWT3o5TFJ6bkE?oc=5",
    "title": "Dowagiac residents record data center hum that never stops",
    "at": "2026-07-27T12:34:57+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-12T20:57:20+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Duplicate of already-live 'Ypsilanti Township vows fight against UM's $1.2B Huron River data center' — same Los Alamos/UM computing facility and Washtenaw oppos"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVkVUU3Jlc2xRcXFHY0lXZVBuamVNSHVQRXhXUm9weWZUeTd3bWF5UzhNdmxkVURjMFNuZXMxZERHc2dwMFBEQUxiNVF4bElQQ1NYUmtzaVNsNW14czVRUlJOV3p2YmkyVnpxTUQ2aVZVNHFGSGJWZTk4ZGg1aUpVUlF6OFZ1c1N6bkY2TWJobHBaUGsyVUxhbDJ3RDk1UTVkRVV6MUpUNWxKejRlNkExWEZGRS1aTUJuTTAzTmNVTUZYY3J0NHpZdkhGLWZSc0JsYkHSAeYBQVVfeXFMTklwZ3MwOHpBb2dxTi15VGZLc3RuRHZNTnA1aThVaHBFWmlvZkZXQmhlaFJZNEFhSFVjcFVSR1B3Vy1FQXNKbm5aUkFrNXJueWRTZTdXMWZIQ3NSZG8tX0tfcDdYeWJqb1VuSEo0dHFsRF9UbzNmS3dEaHlPOGNnODlrYTBUZGZQYTdibjduZ2JkTDlacXcyN1hUbndUeUxDVXAtV1ZaZzNUMXM5bWNBM1N4akVRd2tlWFE5RUJtWk5UbE1LQ1ljMWIyY3FQNkoxcjJsVlBHVDk3d0ROdlRCTnNRYzFlRmc?oc=5",
+   "title": "Michigan residents organize to block data centers and see early wins",
+   "at": "2026-08-12T21:57:11+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Vague trend piece lacking specific events, decisions, or named towns; no concrete development reported."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNS3RsVHlDRGtKc2Y1VTdLMnp0TENOczVyR1FFZ0RFSzkyZWxnSTJzYkVWdUhoWDFZRlRlYXhHWDZZZmxNak4ta2oxb0ZfRlR3Y2E1ZVF3cEdDdkRZT0VDNDhtaFlyVlRVTnlycnFPNEtuNl8tOFdra05LalBwaVQzV0VPS2lkM19lMHdqU3hUVXFvaUZPRFpxd3NOTkpCaGp3YjlGRmRCQWpaWDA1QTZGT1drdWFmbzZsRkZlOUt3cTNtRGtsNTRWdjNrTVdFTTY3M204SDI2NTY?oc=5",
+   "title": "U-M data center site for Los Alamos lab sparks township and lawmaker pushback",
+   "at": "2026-08-12T21:57:11+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Same UM-Los Alamos site selection already killed: 'UM Los Alamos computing site draws Washtenaw pushback over location.'"
   }
  ],
  "auto_published": [
