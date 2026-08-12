@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://ca.finance.yahoo.com/news/130-billion-ai-data-centers-100000367.html",
-   "title": "Local Opposition Blocks 75 Data Center Projects Worth $130 Billion",
-   "at": "2026-07-23T18:21:00+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece with aggregate statistics rather than a specific Michigan decision, filing, or development; lacks concrete local news value."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVF9FODZsY0l4RDFtTjNpdzc2UjRucnFmUW0tVUN0NHZPYk1qbTBLN0V6bTcyNjk4YTBzSVVxeW45UHpBYnZjOGpaYUdPUTV3bE9oaVdxSEF3Q2Z6NzZNWkFTTUR0cVRxZjB2RUZSNUtKOWJuMzJQakV6OFdkeHpfUm9ZRXZKT1o3Nkk0SzZZN3ZyUkRfSU53Q09tWS1IOEZwR3F3Rm04eEoxX2ZmVUhpLQ?oc=5",
-   "title": "24/7 noise from data center keeps Michigan neighbors awake",
-   "at": "2026-07-23T21:16:01+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Anecdotal quality-of-life complaints without identifying a specific facility, decision, or actionable development; reads like a general feature rather than news"
-  },
-  {
    "url": "https://www.cbsnews.com/detroit/news/saline-township-reverses-vote-limit-oracles-data-center-tax-break/",
    "title": "Saline Township Restores Full Tax Break for Oracle's $43B Data Center",
    "at": "2026-07-24T09:59:47+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-12T09:20:02+00:00",
    "by": "news_judge",
    "note": "score 1/10, duplicate: Duplicate of already-live 'UM locks in Textile Road for $1.2B Los Alamos supercomputer campus'—same site selection decision."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNnpYd1pOZUh0MVh4QUk2aDlYd3dQMV8wTkRwa24yWDlmdy1wR3czSEdRTlpjWS1uc3NacjYtdEZhaVdTVHJ5STc5RXBiWDlydU1lWUQ4TjcyTVpBcVBuMFN6dnFYMGFOZXdHSFo1NjhDSU90MWdGMzVvb2dFTmZPbEZTQjJDci1IM3M1RnZQNndnZw?oc=5",
+   "title": "Michigan voters reject data center growth in key races",
+   "at": "2026-08-12T10:38:46+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Vague aggregation of election results without naming specific races, candidates, or districts—reads like speculative trend piece rather than concrete reporting."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMjVWWGMzdUdkcno1RVAyU0ZybzVmR01OcVZSNnFUdFJEZUpLVTYzeTBkamM2bjVKXzFmUk9fNlYwaklsQjJCVFNTTzFOSmh1Y0czYmlXc1JiN2RxWEtsVUIwUW0tRnYyTm05VDJjOXhUUHNXby0wSkE2eS1jS2F4UGpoTTNDaEM0cUV0Rkp5dWpGQmhNdG1lWkE0MEZCcXBK?oc=5",
+   "title": "UM picks Textile Road site for new data center campus",
+   "at": "2026-08-12T10:38:46+00:00",
+   "by": "news_judge",
+   "note": "score 1/10, duplicate: Duplicate of already-live story 'UM locks in Textile Road for $1.2B Los Alamos supercomputer campus' reporting the same site selection decision."
   }
  ],
  "auto_published": [
