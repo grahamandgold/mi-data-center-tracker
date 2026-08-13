@@ -1,7 +1,22 @@
 {
- "updated_at": "2026-08-13T08:03:40Z",
+ "updated_at": "2026-08-13T09:21:40Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "iso": "2026-08-13T07:00:00+00:00",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "tag": "Water",
+   "title": "Dowagiac Neighbors Sue Over nonstop Noise From Crypto Data Center",
+   "dek": "Residents say the high-pitched whine from Alliance Cloud Services has made yards and open windows unusable for two years. The company, already fined under Dowagiac's new limits, plans to seal vents after switching to AI but faces demands for real soundproofing or buyouts.",
+   "source": "Yahoo",
+   "url": "https://www.yahoo.com/news/us/articles/residents-michigan-suing-data-center-231700361.html",
+   "breaking": false,
+   "lead": false,
+   "id": "e034f50e4e38",
+   "accuracy": "checked-rewritten",
+   "judge_score": 9
+  },
   {
    "title": "Michigan regulators say lawmakers can cut power prices amid data center growth",
    "dek": "State energy regulators told lawmakers that new policies could lower electricity rates even as data centers increase demand. The comments come as multiple Michigan counties weigh large computing projects. Residents could see bill impacts depending on how the legislature acts on power planning.",
@@ -167,23 +182,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOODEzQUpzeWNwTE4xei1LSnZKMFQwcHRKYWRHZUhOWXFib2xyUUxwLVRsbHhmWmxKMXZlRjZTNV9uZTRFYm5kZENVeFlrOUpGWFdqZFlPa1RBYk1kWEhuY0x6ZjBQX3JSb2JjRUM1VG1PQ1JObldWM08zanF6dnZYdUhHaGk4bjJJN0ZCS3ZhUHFfNUxz?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Rochester Hills extends data center moratorium another year",
-   "dek": "Rochester Hills officials voted to keep the pause on new proposals in place. Residents near potential sites avoid immediate threats of noise, traffic and power strain from large facilities. The extension gives the city more time to write permanent rules on where and how data centers can locate.",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVnRVVHNheEljOE1CWXg4eHZ3U2RkeDlycXI0VUg3RjI5RUpjMU9NekNIUnQ4RWRuVGpDbTI2eUpnNVJKRmR0OGh6dzRnNW1mcTdDQVpUOHo3U1JBcHYyVUlYeUIxYlR0NnZTWmFuN0pxZXFLMDVRMXNIdEh5Nk1iZlE2bGdXT3NBTVd1UXNNbC1YN3VUVi1LcEl0SlNvVE3SAbMBQVVfeXFMTzhUelQ1Q241UWI3b21HeDE5QkRlN1MzY19IV0RrSmNyelJUdGJYMXBoZ0ZxSmRNbVJQY2pURHZibEZrYXcydm5vc2lyMkZmZExYTmw5c05TODE4Vm9OYjlPSDhuYzRVcFc4T1ROblJhakxvZXhRajNqeWQ2d0xwOGxOZGNCUlczM1loalRuT3ZtdnFKVVI0RllZQ1RuM0VZTmgycjcyUERaUlVOcFRVSUdDd1k?oc=5",
-   "source": "MLive.com",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Oakland",
-   "tag": "Local Government",
-   "iso": "2026-08-12T16:27:00Z",
-   "id": "d646a9d1ed85",
-   "origin": "google-news",
-   "source_title": "Data center moratorium extended in Rochester Hills - MLive.com",
-   "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVnRVVHNheEljOE1CWXg4eHZ3U2RkeDlycXI0VUg3RjI5RUpjMU9NekNIUnQ4RWRuVGpDbTI2eUpnNVJKRmR0OGh6dzRnNW1mcTdDQVpUOHo3U1JBcHYyVUlYeUIxYlR0NnZTWmFuN0pxZXFLMDVRMXNIdEh5Nk1iZlE2bGdXT3NBTVd1UXNNbC1YN3VUVi1LcEl0SlNvVE3SAbMBQVVfeXFMTzhUelQ1Q241UWI3b21HeDE5QkRlN1MzY19IV0RrSmNyelJUdGJYMXBoZ0ZxSmRNbVJQY2pURHZibEZrYXcydm5vc2lyMkZmZExYTmw5c05TODE4Vm9OYjlPSDhuYzRVcFc4T1ROblJhakxvZXhRajNqeWQ2d0xwOGxOZGNCUlczM1loalRuT3ZtdnFKVVI0RllZQ1RuM0VZTmgycjcyUERaUlVOcFRVSUdDd1k?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
   }
  ],
  "national": {
