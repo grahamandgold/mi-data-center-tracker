@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.detroitnews.com/story/opinion/2026/07/29/with-the-right-guardrails-data-centers-should-be-embraced-opinion/91074488007/",
-   "title": "U.S. Data Center Power Demand Surges as Tech Giants Accelerate AI Infrastructure",
-   "at": "2026-07-29T21:06:55+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece with no Michigan-specific development, decision, or concrete action."
-  },
-  {
    "url": "https://www.dropsitenews.com/p/data-centers-michigan-democrats-primary-el-sayed-stevens",
    "title": "Michigan Senate Hopefuls Split on Data Center Costs to Residents",
    "at": "2026-07-29T23:35:44+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-13T20:54:53+00:00",
    "by": "news_judge",
    "note": "score 4/10: Campaign trail positioning on data centers in a congressional race; lacks concrete policy action or new development."
+  },
+  {
+   "url": "https://www.facebook.com/detroitchamber/posts/on-thursday-august-13-at-6-pm-join-the-michigan-for-responsible-data-centers-coa/1479381710891828/",
+   "title": "Michigan Coalition Town Hall to Weigh Data Center Development Implications",
+   "at": "2026-08-13T21:56:01+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Advocacy coalition town hall is a scheduled event but lacks the weight of an official government action or filing."
   }
  ],
  "auto_published": [
@@ -2829,6 +2829,18 @@
    "title": "DTE, Consumers push to lock in bigger profits as data centers drive power demand",
    "judge_score": 8,
    "at": "2026-08-13T20:54:53Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR2FjenpBZnJJUmJQeXp4OVFHaUxEMjdhaEhienZIN1VUaUN0ZDQyRkZsS3ZNQnczTmRHTlNPRXlSVGdZR08yREZBbjItQjRoTDRpOS02T2xaSlNQTVVucks0dmlYU05OSXhxeGZSRXB4bDBYV1FUc3hBc2F0LWJ6Y2N6aGo4UFBvaXJfbHZNdks1M1BUZmRUME1aWGtkY0s4U0JRR3BUU0dfb3hRLXJPcw?oc=5",
+   "title": "Taxpayers face millions in lost revenue from proposed Oracle campus tax exemption",
+   "judge_score": 7,
+   "at": "2026-08-13T21:56:02Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdHY5TVZPWlluOTBVTEo0anphWUJVM05HbF91QjNxUGVFOXJZb1RnNHhsQWRZdFhJS0FCcVFGMm9RdmRGVmlZUEtNejFkZGpqRWRzcGVWNzRTd1dLcjBEZVZ1aWp6dDBwS2p0UVFGUi13NGtwN200TmdTQjVoZDVqZ3lpcFVOVURNMDFaQkExSDhPYVo0ZXc?oc=5",
+   "title": "U-M picks Textile Road site for planned data center",
+   "judge_score": 8,
+   "at": "2026-08-13T21:56:02Z"
   }
  ]
 }

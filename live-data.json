@@ -1,7 +1,41 @@
 {
- "updated_at": "2026-08-13T20:54:53Z",
+ "updated_at": "2026-08-13T21:56:02Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "U-M picks Textile Road site for planned data center",
+   "dek": "University of Michigan has named Textile Road its preferred location for a new data center project. The choice directly affects Washtenaw County residents through added power demand and potential tax revenue. Local readers 30 miles away will feel the impact on utility rates and township services if the project advances.",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdHY5TVZPWlluOTBVTEo0anphWUJVM05HbF91QjNxUGVFOXJZb1RnNHhsQWRZdFhJS0FCcVFGMm9RdmRGVmlZUEtNejFkZGpqRWRzcGVWNzRTd1dLcjBEZVZ1aWp6dDBwS2p0UVFGUi13NGtwN200TmdTQjVoZDVqZ3lpcFVOVURNMDFaQkExSDhPYVo0ZXc?oc=5",
+   "source": "The Sun Times News",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Local Government",
+   "iso": "2026-08-13T21:39:29Z",
+   "id": "941e81618615",
+   "origin": "google-news",
+   "source_title": "Weekly Data Center Watch: U-M Names Textile Road Preferred Site - The Sun Times News",
+   "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdHY5TVZPWlluOTBVTEo0anphWUJVM05HbF91QjNxUGVFOXJZb1RnNHhsQWRZdFhJS0FCcVFGMm9RdmRGVmlZUEtNejFkZGpqRWRzcGVWNzRTd1dLcjBEZVZ1aWp6dDBwS2p0UVFGUi13NGtwN200TmdTQjVoZDVqZ3lpcFVOVURNMDFaQkExSDhPYVo0ZXc?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
+  {
+   "title": "Taxpayers face millions in lost revenue from proposed Oracle campus tax exemption",
+   "dek": "An attorney is challenging the tax abatement Saline Township is considering for Oracle's proposed data center. The deal would let the company skip years of property taxes on a multibillion-dollar campus. Washtenaw County taxpayers would shoulder the lost revenue while the project draws heavy power and water.",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR2FjenpBZnJJUmJQeXp4OVFHaUxEMjdhaEhienZIN1VUaUN0ZDQyRkZsS3ZNQnczTmRHTlNPRXlSVGdZR08yREZBbjItQjRoTDRpOS02T2xaSlNQTVVucks0dmlYU05OSXhxeGZSRXB4bDBYV1FUc3hBc2F0LWJ6Y2N6aGo4UFBvaXJfbHZNdks1M1BUZmRUME1aWGtkY0s4U0JRR3BUU0dfb3hRLXJPcw?oc=5",
+   "source": "WEMU",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Money",
+   "iso": "2026-08-13T21:31:00Z",
+   "id": "24dddf319d87",
+   "origin": "google-news",
+   "source_title": "Attorney challenges Saline Township tax break for Oracle's data center - WEMU",
+   "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR2FjenpBZnJJUmJQeXp4OVFHaUxEMjdhaEhienZIN1VUaUN0ZDQyRkZsS3ZNQnczTmRHTlNPRXlSVGdZR08yREZBbjItQjRoTDRpOS02T2xaSlNQTVVucks0dmlYU05OSXhxeGZSRXB4bDBYV1FUc3hBc2F0LWJ6Y2N6aGo4UFBvaXJfbHZNdks1M1BUZmRUME1aWGtkY0s4U0JRR3BUU0dfb3hRLXJPcw?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "DTE, Consumers push to lock in bigger profits as data centers drive power demand",
    "dek": "Michigan regulators want lawmakers to scrap automatic annual rate hikes and overhaul how DTE and Consumers Energy earn money. The change would affect how billions in new power costs for data centers and other big users get passed to residents. A Michigan reader 30 miles from any substation feels it in monthly bills and reliability.",
@@ -152,40 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNUJnZjV3MXZMVDl6WUhPUkRKMEgyQ0o0aW1QaEJIUUY0VmhsYzlCcG9yNDFJT3prSDB6dUZSRDVtMnB3TU5Wd1NXazg0clZuSEZTREFXcHN3SXRFbF8tZHFkWlp5WUVRQndBQURuUWpja3gxZm9ZdTZkY0MzRlBBOWI0ZmNHOVJCb1UyUFF0NDc3ajFJa1pocg?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
-  },
-  {
-   "title": "Wixom moves to tighten rules as data center moratorium deadline hits",
-   "dek": "Wixom city council is drafting new zoning rules for data centers just weeks before its six-month moratorium expires. The measures aim to limit noise, setbacks and power infrastructure near homes. Residents in this Oakland County suburb have pressed for stronger protections against large facilities.",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOEFBM3NET3RhUkZocXU4THNqVURNc3RVRTMzSFJLSlVKdWlTWHRMNFBNUUVPWE9oekFwMDNzUmkyZDJWd3pyTHc1MjY2SXFURlJ6UjF0S2dQOExtTW40NUphUzJ6dlJIeXRRQ3laNVhQY3RhY1FWTW5YamlqbGtYdGZ6SjR2aUpyckFBU0dzcG1HZ1Z5M19aMm5MYUtGWTNQUVNVZnEtRndnRUN2N1lyUTc3S05EVVRELWdOSkxuUzJodU5n?oc=5",
-   "source": "WXYZ Channel 7",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Oakland",
-   "tag": "Local Government",
-   "iso": "2026-08-12T23:08:37Z",
-   "id": "df8c7045c1b3",
-   "origin": "google-news",
-   "source_title": "Wixom city council takes steps to regulate data centers as 6-month moratorium nears end - WXYZ Channel 7",
-   "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOEFBM3NET3RhUkZocXU4THNqVURNc3RVRTMzSFJLSlVKdWlTWHRMNFBNUUVPWE9oekFwMDNzUmkyZDJWd3pyTHc1MjY2SXFURlJ6UjF0S2dQOExtTW40NUphUzJ6dlJIeXRRQ3laNVhQY3RhY1FWTW5YamlqbGtYdGZ6SjR2aUpyckFBU0dzcG1HZ1Z5M19aMm5MYUtGWTNQUVNVZnEtRndnRUN2N1lyUTc3S05EVVRELWdOSkxuUzJodU5n?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
-  },
-  {
-   "title": "Corunna tightens rules for any future data centers",
-   "dek": "The city adopted a new ordinance spelling out where and how large data centers could operate. Residents gain clearer limits on noise, traffic and power use before any project advances. The rules give Shiawassee County communities a template if similar proposals appear nearby.",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQnc4RE11ckdIUWhReFdZZ3BnVS1xNXpEXzVtbUNBOXBZRHozUzFtSkhRbTdxam1NTWR3MUpkZ1k5MktPZXI2OWlhYlROWjlaMGhjcnR5clBKLW44X09MV01uR2pyMkhhTzAzLWs5eXloN2Y5aWJDMVhFaTlObE1QcGpsUHZ2MG9pUnFuYnZsQTBCVTAwUERPTEdCdkdyTGpPQnRJNXVxNkRKYWpYNnQxOEVDODJKRHo3eVRqVVAwbDBHTGphUVQ4enVNblAwalZoYlE?oc=5",
-   "source": "WJRT ABC12",
-   "region": "mid",
-   "cat": "STATEWIDE",
-   "county": "Shiawassee",
-   "tag": "Local Government",
-   "iso": "2026-08-12T22:13:57Z",
-   "id": "27dd8fdb100b",
-   "origin": "google-news",
-   "source_title": "Corunna ordinance regulates potential data centers - WJRT ABC12",
-   "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQnc4RE11ckdIUWhReFdZZ3BnVS1xNXpEXzVtbUNBOXBZRHozUzFtSkhRbTdxam1NTWR3MUpkZ1k5MktPZXI2OWlhYlROWjlaMGhjcnR5clBKLW44X09MV01uR2pyMkhhTzAzLWs5eXloN2Y5aWJDMVhFaTlObE1QcGpsUHZ2MG9pUnFuYnZsQTBCVTAwUERPTEdCdkdyTGpPQnRJNXVxNkRKYWpYNnQxOEVDODJKRHo3eVRqVVAwbDBHTGphUVQ4enVNblAwalZoYlE?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {

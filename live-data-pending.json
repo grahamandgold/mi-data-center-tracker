@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-08-13T21:09:39+00:00",
+ "updated_at": "2026-08-13T21:56:02Z",
  "generator": "grok-wire-agent",
  "items": [
   {
-   "title": "Negaunee holds hearing on data center zoning restrictions",
-   "dek": "Negaunee City Council scheduled a public hearing for Aug. 13 on rules that would restrict data centers to industrial and mining areas while capping noise, height and emissions.",
+   "title": "Negaunee tightens rules to keep data centers out of most zones",
+   "dek": "Council voted 7-0 to advance an ordinance confining data centers to mining and industrial areas, capping noise, height and emissions, with a public hearing set for Aug. 13.",
    "url": "https://www.miningjournal.net/news/front-page-news/2026/07/public-hearing-for-negaunee-data-center-ordinance-to-be-held-on-aug-13/",
    "source": "Negaunee City Council or Planning Commission agenda",
    "region": "Northern Michigan",
@@ -15,7 +15,7 @@
    "kind": "agenda",
    "id": "148301b1c23b",
    "filed_at": "2026-08-13T21:09:39+00:00",
-   "accuracy": "thin — needs human background",
+   "accuracy": "checked-rewritten",
    "findings": "Ordinance limits data centers to mining and industrial zones | Sets acceptable levels of noise disturbance and maximum building heights | Requires any air pollution, dust, smoke, glare, exhaust, noise, heat, vibration or humidity to be imperceptible at or beyond the property line | Negaunee City Council voted 7-0 to approve first reading and schedule Aug. 13 public hearing | Planning Commission drafted and recommended the ordinance | Michigan state law outlaws exclusionary zoning, preventing municipalities from completely outlawing specific lawful land-uses including data centers",
    "perspective": "Negaunee City Council approved the first reading 7-0 at its July meeting after the Planning Commission recommended the ordinance. Councilperson Jon Becker said he brought the issue to the planning commission and personally hopes the ordinance is restrictive enough that data centers choose to go elsewhere. Councilperson Amanda Ghanavati said she hopes it makes it nearly impossible for data centers ",
    "documents": [
@@ -25,32 +25,10 @@
     }
    ],
    "depth_score": 2,
-   "extraction_method": "plain"
-  },
-  {
-   "title": "Michigan Coalition Town Hall to Weigh Data Center Development Implications",
-   "dek": "The Michigan for Responsible Data Centers Coalition hosts a virtual town hall Thursday, August 13, at 6 p.m. ET on data center development implications statewide. Local officials, community members and the public can hear from experts on development and its implications in Michigan.",
-   "url": "https://www.facebook.com/detroitchamber/posts/on-thursday-august-13-at-6-pm-join-the-michigan-for-responsible-data-centers-coa/1479381710891828/",
-   "source": "Michigan for Responsible Data Centers Coalition agenda",
-   "region": "statewide",
-   "county": "Van Buren",
-   "cat": "Meetings",
-   "tag": "Agenda watch",
-   "iso": "2026-08-13T21:09:39+00:00",
-   "kind": "agenda",
-   "id": "82de5f563540",
-   "filed_at": "2026-08-13T21:09:39+00:00",
-   "accuracy": "thin — needs human background",
-   "findings": "The event is a virtual webinar open to local officials, community members and the public | Registration required via https://bit.ly/4hWkXKQ | The session will provide information on data center development and its implications in Michigan | No staff report, draft resolutions, parcel details, megawatt figures or abatement terms appear in the posted announcement",
-   "perspective": "The coalition describes itself as focused on data center development and its implications in Michigan. The webinar format offers opportunity for local officials and community members to hear from experts on what is being built in their areas.",
-   "documents": [
-    {
-     "label": "Agenda page",
-     "url": "https://www.facebook.com/detroitchamber/posts/on-thursday-august-13-at-6-pm-join-the-michigan-for-responsible-data-centers-coa/1479381710891828/"
-    }
-   ],
-   "depth_score": 0,
-   "extraction_method": "playwright"
+   "extraction_method": "plain",
+   "headline_rewritten": true,
+   "judge_score": 8,
+   "judge_note": "Negaunee council voted 7-0 to advance a restrictive ordinance with a scheduled public hearing—a real decision and next step."
   },
   {
    "iso": "2026-08-12T18:00:00+00:00",
@@ -71,5 +49,5 @@
    "judge_note": "New council vote extending East Lansing's moratorium to a specific new date (March 2027), a concrete decision distinct from the earlier aquifer-focused pause."
   }
  ],
- "accuracy_checked_at": "2026-08-13T20:54:48+00:00"
+ "accuracy_checked_at": "2026-08-13T21:55:56+00:00"
 }
