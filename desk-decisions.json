@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://rbj.net/2026/07/29/hochul-data-center-moratorium-power-concerns-henrietta/",
-   "title": "Hochul Tells NY Data Centers to Pay for Power or Supply Their Own",
-   "at": "2026-07-29T19:56:09+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: New York policy development with potential Michigan relevance but lacks direct Michigan connection or concrete local impact."
-  },
-  {
    "url": "https://www.mlive.com/politics/2026/07/people-pay-the-bill-protesters-object-data-centers-during-trumps-michigan-speech.html",
    "title": "Protesters Disrupt Trump Speech With Anti-Data Center Signs in Milford",
    "at": "2026-07-29T21:06:55+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-13T18:31:30+00:00",
    "by": "news_judge",
    "note": "score 2/10: National trend piece about Texas grid issues with no Michigan angle or relevance to Michigan data center buildout."
+  },
+  {
+   "url": "https://finance.yahoo.com/economy/article/heres-the-biggest-risk-to-americas-data-center-building-boom-121942236.html",
+   "title": "Labor Shortages Pose Growing Risk to U.S. Data Center Construction Boom",
+   "at": "2026-08-13T19:37:21+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece about labor shortages with no Michigan-specific angle, development, or decision."
   }
  ],
  "auto_published": [
