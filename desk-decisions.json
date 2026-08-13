@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.mlive.com/politics/2026/07/people-pay-the-bill-protesters-object-data-centers-during-trumps-michigan-speech.html",
-   "title": "Protesters Disrupt Trump Speech With Anti-Data Center Signs in Milford",
-   "at": "2026-07-29T21:06:55+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Same Trump rally disruption already covered in killed story 'Protesters warn Trump that Michigan families will pay data center power bills' and 'Data center opp"
-  },
-  {
    "url": "https://www.detroitnews.com/story/opinion/2026/07/29/with-the-right-guardrails-data-centers-should-be-embraced-opinion/91074488007/",
    "title": "U.S. Data Center Power Demand Surges as Tech Giants Accelerate AI Infrastructure",
    "at": "2026-07-29T21:06:55+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-13T19:37:21+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece about labor shortages with no Michigan-specific angle, development, or decision."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOLUVmRmRGVWNpUHdxeUdvRkhCaGREUVZJaWpfVDNrM2F0X25sNWVUMGZJblZRR0xKRUtlSzJVdlhuVVJJdk1OS2xuelJjQXhuWnA3R0lac2o0RHlIQ2NrUWxOVFVaaUttcVRWNEJxSVJYUUZoY0s1X2gxdy1OcUp1cTdXYkdMQlluYnRmUUxCak9YSkVDQ21MbWtyb1VfQm9RNHhtNHNDYkFDV3BhX3JkemRaeDFqMFZ2Z1d5Sl93ZFNDOUFXdWJCZ1pDN0ZDRWhHUnRSS0pBRUxGZw?oc=5",
+   "title": "Data centers emerge as flashpoint in Lawrence-Barrett congressional race",
+   "at": "2026-08-13T20:54:53+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Campaign trail positioning on data centers in a congressional race; lacks concrete policy action or new development."
   }
  ],
  "auto_published": [
@@ -2817,6 +2817,18 @@
    "title": "Iosco drafts rules to tame data center sprawl",
    "judge_score": 7,
    "at": "2026-08-13T13:36:30Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV19wMjRIMWU2Um1IMC1DcHRxcVN0b0gtT0MzeC04UFJocWN1dEhEWU8zRU5PUXlpdEFGRkdBSWVCTGVIOGhiN1lxYlpyOWI2dUp5cHN2RGdjQk91alpzNlBxM0N5NjNfcU9XNzJMeHE1ZDRkU0Vpbkl0eWV6RkNpV2tkSzZlNmxjUEJwbkFweFZLcXBjWkdSNS1vSkxKOU5MUlE2eFJxNFhFVlZUcHV0aDFNLUU3UWpnb2hDdi1SWHJzTFNRUnfSAcsBQVVfeXFMT2R4cUlJZkNoVkJZSmJVX0tUMkxnNjdSdWpiTlBna0FHcl9jdzhhYXhLanhIaWNPN1pFaWsxOF8tNDNrV1R1Vi1sX1BheVhITmJ1ekg0WGJGNnRtdF9YN0RheXBra0xDZzRuWUM1dkdxT01pbWJJWjJuZXdjYzVlbGZ0Z2tQUExZYWNHaVB4cVFCZWg3M2xzTEZNcnRGbEEweTdjM1VpWHlDU0Y4THFWdGpMN3JtcHBaVnk2OGlpYWdmeVB6ZnpTUklQYVE?oc=5",
+   "title": "Legal challenge to DTE data-center contract could dent utility's growth story",
+   "judge_score": 7,
+   "at": "2026-08-13T20:54:53Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RV3lCbU9lRFg0RzFaRXdtckZoenBLWkVoRmVHNkJERS1saG5JaDlMOVdUcFVsclp2OVc4VXJGeTYzd3NSX29yWkdRbHlsVWtwaFF3S2lRd2cyV3hLNjBOT0ZhVDN2dUlsVUVHYzRVeVFpMGNhRGRrWQ?oc=5",
+   "title": "DTE, Consumers push to lock in bigger profits as data centers drive power demand",
+   "judge_score": 8,
+   "at": "2026-08-13T20:54:53Z"
   }
  ]
 }

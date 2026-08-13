@@ -1,7 +1,41 @@
 {
- "updated_at": "2026-08-13T19:37:16+00:00",
+ "updated_at": "2026-08-13T20:54:53Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "DTE, Consumers push to lock in bigger profits as data centers drive power demand",
+   "dek": "Michigan regulators want lawmakers to scrap automatic annual rate hikes and overhaul how DTE and Consumers Energy earn money. The change would affect how billions in new power costs for data centers and other big users get passed to residents. A Michigan reader 30 miles from any substation feels it in monthly bills and reliability.",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RV3lCbU9lRFg0RzFaRXdtckZoenBLWkVoRmVHNkJERS1saG5JaDlMOVdUcFVsclp2OVc4VXJGeTYzd3NSX29yWkdRbHlsVWtwaFF3S2lRd2cyV3hLNjBOT0ZhVDN2dUlsVUVHYzRVeVFpMGNhRGRrWQ?oc=5",
+   "source": "Planet Detroit",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Power & Grid",
+   "iso": "2026-08-13T19:58:13Z",
+   "id": "25493fb0607e",
+   "origin": "google-news",
+   "source_title": "Michigan regulators ask lawmakers to end annual rate hikes, change how DTE, Consumers make money - Planet Detroit",
+   "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RV3lCbU9lRFg0RzFaRXdtckZoenBLWkVoRmVHNkJERS1saG5JaDlMOVdUcFVsclp2OVc4VXJGeTYzd3NSX29yWkdRbHlsVWtwaFF3S2lRd2cyV3hLNjBOT0ZhVDN2dUlsVUVHYzRVeVFpMGNhRGRrWQ?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
+  {
+   "title": "Legal challenge to DTE data-center contract could dent utility's growth story",
+   "dek": "A court fight over an AI data-center power deal is raising questions about DTE Energy's biggest new revenue source. If the contract unravels, the utility's plans to serve massive new loads in southeast Michigan face delays. Ratepayers ultimately absorb the cost of any lost investment or higher backup power purchases.",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV19wMjRIMWU2Um1IMC1DcHRxcVN0b0gtT0MzeC04UFJocWN1dEhEWU8zRU5PUXlpdEFGRkdBSWVCTGVIOGhiN1lxYlpyOWI2dUp5cHN2RGdjQk91alpzNlBxM0N5NjNfcU9XNzJMeHE1ZDRkU0Vpbkl0eWV6RkNpV2tkSzZlNmxjUEJwbkFweFZLcXBjWkdSNS1vSkxKOU5MUlE2eFJxNFhFVlZUcHV0aDFNLUU3UWpnb2hDdi1SWHJzTFNRUnfSAcsBQVVfeXFMT2R4cUlJZkNoVkJZSmJVX0tUMkxnNjdSdWpiTlBna0FHcl9jdzhhYXhLanhIaWNPN1pFaWsxOF8tNDNrV1R1Vi1sX1BheVhITmJ1ekg0WGJGNnRtdF9YN0RheXBra0xDZzRuWUM1dkdxT01pbWJJWjJuZXdjYzVlbGZ0Z2tQUExZYWNHaVB4cVFCZWg3M2xzTEZNcnRGbEEweTdjM1VpWHlDU0Y4THFWdGpMN3JtcHBaVnk2OGlpYWdmeVB6ZnpTUklQYVE?oc=5",
+   "source": "simplywall.st",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Power & Grid",
+   "iso": "2026-08-13T19:34:35Z",
+   "id": "dfdadc52eb39",
+   "origin": "google-news",
+   "source_title": "The Bull Case For DTE Energy (DTE) Could Change Following AI Data Center Contract Legal Challenge - simplywall.st",
+   "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV19wMjRIMWU2Um1IMC1DcHRxcVN0b0gtT0MzeC04UFJocWN1dEhEWU8zRU5PUXlpdEFGRkdBSWVCTGVIOGhiN1lxYlpyOWI2dUp5cHN2RGdjQk91alpzNlBxM0N5NjNfcU9XNzJMeHE1ZDRkU0Vpbkl0eWV6RkNpV2tkSzZlNmxjUEJwbkFweFZLcXBjWkdSNS1vSkxKOU5MUlE2eFJxNFhFVlZUcHV0aDFNLUU3UWpnb2hDdi1SWHJzTFNRUnfSAcsBQVVfeXFMT2R4cUlJZkNoVkJZSmJVX0tUMkxnNjdSdWpiTlBna0FHcl9jdzhhYXhLanhIaWNPN1pFaWsxOF8tNDNrV1R1Vi1sX1BheVhITmJ1ekg0WGJGNnRtdF9YN0RheXBra0xDZzRuWUM1dkdxT01pbWJJWjJuZXdjYzVlbGZ0Z2tQUExZYWNHaVB4cVFCZWg3M2xzTEZNcnRGbEEweTdjM1VpWHlDU0Y4THFWdGpMN3JtcHBaVnk2OGlpYWdmeVB6ZnpTUklQYVE?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Iosco drafts rules to tame data center sprawl",
    "dek": "East Tawas area leaders are reviewing a draft ordinance that would set local standards for future data centers. Residents in Iosco County could see limits on size, noise and power use if the rules pass. The move comes as big tech eyes more northern Michigan sites for cheap land and power.",
@@ -152,40 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQnc4RE11ckdIUWhReFdZZ3BnVS1xNXpEXzVtbUNBOXBZRHozUzFtSkhRbTdxam1NTWR3MUpkZ1k5MktPZXI2OWlhYlROWjlaMGhjcnR5clBKLW44X09MV01uR2pyMkhhTzAzLWs5eXloN2Y5aWJDMVhFaTlObE1QcGpsUHZ2MG9pUnFuYnZsQTBCVTAwUERPTEdCdkdyTGpPQnRJNXVxNkRKYWpYNnQxOEVDODJKRHo3eVRqVVAwbDBHTGphUVQ4enVNblAwalZoYlE?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Ypsilanti Township rejects University of Michigan data center site",
-   "dek": "Township officials told U-M the proposed computing facility does not fit local zoning or resident concerns over power and water. The pushback blocks the project from moving forward on the chosen parcel. Washtenaw County residents now watch whether the university seeks another location or scales back plans.",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdzBJUkRVendtR0JUb0VqX3dDREw5YXVONklNM1Y2S25ENmRpOUw4b29hV3pRS2NuQ1FuczRIc3FHc3lGUTl0OWhKcFdwdDlmNjZodDBCTjBYdl8wTXhUcmxmOXk4WTBZeG1RQk5NNzllRm1CQnJ0Q0xMOE9BT2FOdmdFc0VyMnc5VmJyTkJoLUtXZGVWS0F0XzNpMXAyREVMOVVfVlBvY2paeUVNY09tT1dDc2toN1lpaVlkNDhDbFVrT1U?oc=5",
-   "source": "ClickOnDetroit | WDIV Local 4",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Local Government",
-   "iso": "2026-08-12T22:09:18Z",
-   "id": "e290802a4ed0",
-   "origin": "google-news",
-   "source_title": "Township pushes back against data center proposal in Ypsilanti Township - ClickOnDetroit | WDIV Local 4",
-   "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdzBJUkRVendtR0JUb0VqX3dDREw5YXVONklNM1Y2S25ENmRpOUw4b29hV3pRS2NuQ1FuczRIc3FHc3lGUTl0OWhKcFdwdDlmNjZodDBCTjBYdl8wTXhUcmxmOXk4WTBZeG1RQk5NNzllRm1CQnJ0Q0xMOE9BT2FOdmdFc0VyMnc5VmJyTkJoLUtXZGVWS0F0XzNpMXAyREVMOVVfVlBvY2paeUVNY09tT1dDc2toN1lpaVlkNDhDbFVrT1U?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 9
-  },
-  {
-   "title": "Garfield Township weighs year-long data center freeze",
-   "dek": "Planners will vote tonight on findings that could pause new proposals while the township studies power and land-use impacts. Northern Michigan communities are seeing rising interest from developers seeking cheap land and cool air. A moratorium would buy time for residents to weigh costs versus tax revenue.",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRjd4bTVWOW5Yd0kwMXlOUmk1Wm5ZMVBmcERjek5idEVxdnRfdXFIellyUV9KV2lYclNQNVlvT3ZZRnZJLUJqdFI5NlpTZ1hMczRpb0YyNWdwSmRHTXlNcHdVT1N0NlkxU1FKU2hnRDNnaUthdlF1MWYteHUwU1ZXdFRpcWlvM0o0SWNCeTcxbDRMSGx3UHc3SEtLR05GNC1MSHEzTTY3NkFMOTlSTmxlamdrQQ?oc=5",
-   "source": "9and10News.com",
-   "region": "north",
-   "cat": "STATEWIDE",
-   "county": "Grand Traverse",
-   "tag": "Local Government",
-   "iso": "2026-08-12T22:07:36Z",
-   "id": "36cdc9d2e9b6",
-   "origin": "google-news",
-   "source_title": "Garfield Township planners take up data center moratorium findings tonight - 9and10News.com",
-   "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRjd4bTVWOW5Yd0kwMXlOUmk1Wm5ZMVBmcERjek5idEVxdnRfdXFIellyUV9KV2lYclNQNVlvT3ZZRnZJLUJqdFI5NlpTZ1hMczRpb0YyNWdwSmRHTXlNcHdVT1N0NlkxU1FKU2hnRDNnaUthdlF1MWYteHUwU1ZXdFRpcWlvM0o0SWNCeTcxbDRMSGx3UHc3SEtLR05GNC1MSHEzTTY3NkFMOTlSTmxlamdrQQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
   }
  ],
  "national": {
