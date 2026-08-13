@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-12T23:52:40Z",
+ "updated_at": "2026-08-13T02:37:20Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Chippewa County blocks new data centers for a year",
+   "dek": "Chippewa County supervisors approved a 12-month moratorium on data center proposals. The pause gives officials time to study power, water and zoning impacts before any large projects move forward. Residents in the rural Upper Peninsula county now have a temporary shield from rapid industrial development.",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMGVBVHBQQkc3eWJhcENoY0Fac1plM3NZTGdCT1p3RS00VjRrb0d1R1RHN2VzdlFudHFPNEdwRk91U2hLWWdnQzVOcXdKUk5MN2owdGhlOEYxTGpBT2FNV0gzNVFDZ0MxNFIwVmlZSHdhbzdRZEl1Z3U5RGRzY2lCOWlEQXN0c2tPejRJSjJvLUphMTIyVVNWMS0zcjJSZ1laOFhiWlNjYmpXZGhEOG4wck5nMktUSlVrRVdTeEF6aHlHcW1JTUtvNjdlM3J4ZDA?oc=5",
+   "source": "WKOW",
+   "region": "north",
+   "cat": "STATEWIDE",
+   "county": "Chippewa",
+   "tag": "Local Government",
+   "iso": "2026-08-12T23:37:00Z",
+   "id": "f7096799b12f",
+   "origin": "google-news",
+   "source_title": "Chippewa County passes 12-month moratorium on data centers - WKOW",
+   "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMGVBVHBQQkc3eWJhcENoY0Fac1plM3NZTGdCT1p3RS00VjRrb0d1R1RHN2VzdlFudHFPNEdwRk91U2hLWWdnQzVOcXdKUk5MN2owdGhlOEYxTGpBT2FNV0gzNVFDZ0MxNFIwVmlZSHdhbzdRZEl1Z3U5RGRzY2lCOWlEQXN0c2tPejRJSjJvLUphMTIyVVNWMS0zcjJSZ1laOFhiWlNjYmpXZGhEOG4wck5nMktUSlVrRVdTeEF6aHlHcW1JTUtvNjdlM3J4ZDA?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 9
+  },
   {
    "title": "Michigan residents sue data center over constant noise",
    "dek": "Locals near an operating Michigan facility claim the hum and vibrations are ruining sleep and property values. The lawsuit tests whether existing noise rules can rein in hyperscale operations. A win or loss here could set precedent for other townships facing similar complaints.",
@@ -171,23 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOEFBM3NET3RhUkZocXU4THNqVURNc3RVRTMzSFJLSlVKdWlTWHRMNFBNUUVPWE9oekFwMDNzUmkyZDJWd3pyTHc1MjY2SXFURlJ6UjF0S2dQOExtTW40NUphUzJ6dlJIeXRRQ3laNVhQY3RhY1FWTW5YamlqbGtYdGZ6SjR2aUpyckFBU0dzcG1HZ1Z5M19aMm5MYUtGWTNQUVNVZnEtRndnRUN2N1lyUTc3S05EVVRELWdOSkxuUzJodU5n?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "State Sen. Gonzalez starts tour pushing data center rules",
-   "dek": "Senator Gonzalez is holding public stops across Michigan to build support for tighter oversight of new AI facilities. The tour highlights risks to electric reliability and water supplies in rural and suburban areas where projects are proposed. Residents get a direct chance to weigh in before more campuses get approved.",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRkx2bUk2d1ZTeElmNmJKSXJHMTlydkdkcTRFSEhsNWdEb090aHctQWNTczhIVFhzcmcxTHBCSVRTOFRrU0Q4U3A2SkI3NlZGazhpU3MxYXpvOHoxLUJDdEEwcS1LTFJQZWp1dHM2Sjd5TWlXTFJPVTBib2x0ZkxKdEpqaXNSSXVBeGV1UkkxQndzNGdnWTZZS2JwSGt3ZmI3bWR1a1lqTDh5U1ZlTW51cHI4N0tsTWJIM1BqelFCSURaeVpWelE?oc=5",
-   "source": "Harlem World Magazine",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Policy",
-   "iso": "2026-08-12T08:26:39Z",
-   "id": "6580a9280126",
-   "origin": "google-news",
-   "source_title": "Senator Gonzalez Launches Statewide Tour Supporting Responsible AI Data Center Development - Harlem World Magazine",
-   "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRkx2bUk2d1ZTeElmNmJKSXJHMTlydkdkcTRFSEhsNWdEb090aHctQWNTczhIVFhzcmcxTHBCSVRTOFRrU0Q4U3A2SkI3NlZGazhpU3MxYXpvOHoxLUJDdEEwcS1LTFJQZWp1dHM2Sjd5TWlXTFJPVTBib2x0ZkxKdEpqaXNSSXVBeGV1UkkxQndzNGdnWTZZS2JwSGt3ZmI3bWR1a1lqTDh5U1ZlTW51cHI4N0tsTWJIM1BqelFCSURaeVpWelE?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {
@@ -205,19 +205,6 @@
   "accuracy": "checked"
  },
  "meetings": [
-  {
-   "iso": "2026-08-12",
-   "body": "Speaker Township Planning Commission",
-   "topic": "Ordinance on cryptocurrency data mining facilities and data centers including AI, plus residential battery storage",
-   "region": "Mid-Michigan",
-   "regionKey": "mid",
-   "county": "Sanilac",
-   "time": "7:00 PM",
-   "status": "Planning commission",
-   "urgent": false,
-   "link": "https://speakertwpmi.gov/planning-commission-special-meeting-august-12-2026-at-700-p-m/",
-   "linkLabel": "Agenda"
-  },
   {
    "iso": "2026-08-13",
    "body": "Negaunee City Council or Planning Commission",

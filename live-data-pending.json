@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-12T23:52:40Z",
+ "updated_at": "2026-08-13T02:37:20Z",
  "generator": "grok-wire-agent",
  "items": [
   {
@@ -30,5 +30,5 @@
    "judge_note": "Concrete new development: Negaunee scheduled a public hearing on Aug. 13 for a specific zoning ordinance restricting data centers."
   }
  ],
- "accuracy_checked_at": "2026-08-12T23:52:32+00:00"
+ "accuracy_checked_at": "2026-08-13T02:37:14+00:00"
 }

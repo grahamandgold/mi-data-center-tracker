@@ -1,27 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.tomshardware.com/tech-industry/data-centers/it-sounds-like-someone-set-up-a-vacuum-like-in-your-living-room-michigan-residents-sue-ai-data-center-emitting-noise-24-7-company-fined-for-industrial-noise-ordinance-violations-offers-to-buy-homes-from-residents",
-   "title": "Michigan Residents Sue Over AI Data Center's 24/7 Vacuum-Like Noise",
-   "at": "2026-07-27T20:27:59+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Duplicates the already-live Dowagiac lawsuit/buyout story and multiple killed Dowagiac noise items; same event, same facility."
-  },
-  {
-   "url": "https://michiganadvance.com/2026/07/27/michigan-data-centers-the-weekly-download-3-2-2-2-2-2/",
-   "title": "Augusta Township Proposes Rules for Data Centers and Battery Storage",
-   "at": "2026-07-27T20:27:59+00:00",
-   "by": "news_judge",
-   "note": "score 4/10, duplicate: Duplicates the already-live Augusta Township story about crafting Oracle-scale data center rules; same ordinance development process."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU1NsM3Z4TUNaek92V1ZPN3FNUUF1WWxsel9MZUtxM2hzanNVdEdpQkd3cW85Z2lSemxOLXZ0QS1DNWNXWi1lZkFUWDUzeHdrMkM5SXJ2aDk5NFljeUpkQ1RnYVJKZnhIaEZra1l6WG5qbllEVnlkQU1GanV6ZXVkTFVNT25OTnNiNWJqaFpla3hOTnEzYVpNZkkwTjlaTFgtNy15VGlMWXZrb3VOU29Nd05RSUw5bVZtdmszRg?oc=5",
-   "title": "DTE earnings hinge on data center load growth for ratepayers",
-   "at": "2026-07-27T20:27:59+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: Thin earnings speculation without concrete filing or decision; similar to killed DTE earnings story but not identical event."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcXVzMTdoSngwbl9vMXZTUm9HaWotYWZWNGZFVFJLR2swWU1ubnZ0VHZXYnJiemR1NEdHdzlldWVJMlpmZWQzYVdVd25aWFVzOVZtVUc0VGhzSVN4OWgwcjVFcC04R3NTdkVtMTN6NDA5aFBnNkd5ckZfRWZocDA4emoxTlhPUEp4azVEc241M1FBbHhYUkNaTXEtWkFudVZoQV83X3B4aEZzY255QWI2U2R30gG6AUFVX3lxTE9ZV055eThFNElTYzdxMGNGYnU3ZWhHRE9LMVZuOWtKMlViVTY3N04xNWVXUU9HOF92bHVpR1djVldEaTV3S0dLQkloMWY5d0diWjN6em5fYlNXZ2RTM2xHa3FQNmlvUEtPZkNMNTlFT3NuUm5HSC1ya2prNlc5c1hOWkVUZTlFejZNNWpFd0k4ajlvRmJVMGUxN2RaVElabFZXaU9FN2ptWWp6dG45WElXbjQyV3VoZDlzZw?oc=5",
    "title": "Plymouth Township reveals stance on major data center plan",
    "at": "2026-07-27T20:27:59+00:00",
@@ -1399,6 +1378,27 @@
    "at": "2026-08-12T23:52:40+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Duplicate of already-live 'Ypsilanti Township rejects University of Michigan data center site' — same rejection decision by same township, just different wordin"
+  },
+  {
+   "url": "https://bridgemi.com/michigan-environment-watch/dte-consumers-advance-plans-for-power-hungry-data-centers-in-michigan/",
+   "title": "Michigan's First Hyperscale Data Center to Draw 1.4 Gigawatts from DTE",
+   "at": "2026-08-13T02:37:20+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Reads like a project announcement but no confirmed decision, vote, or filing is evident; appears speculative about a future campus without concrete action."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVDZfQkFXRXhfNnVIY3BxRkVnZl9EMWlrNGdVYTBZaFk0aXJfLWZLaHp1NzJXRHpaVkhRMzRaTXJfaFplX3JMNzZqaFFCdVJpam4wblZjbW1fZEVVczFQbDdnTHBmVGRDNFRRNWdiTkhhdXpxMUxvUlNpYXNqN1pXRUlwelZqM1hyZ1ZUMlZIVWFlVkE?oc=5",
+   "title": "El-Sayed makes data center backlash a centerpiece of Senate campaign",
+   "at": "2026-08-13T02:37:20+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Campaign messaging about data centers as an issue, not a concrete development or decision in the buildout itself."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWkk5dDRpcVROWFFjNEhYUFhaTk5pTTNlZ040djEzbHJpRHRSa3d0Um1FSV95WWI3R3lTU2RRNXpNaHBmSGxqcHlCR09aSF9jalZUNDVmMzNnX2RBamRQTXlVWm5KVkN5LVkzZWRSRGhELUhzdW9CS29kS2NVUXZDUlk3aVVMMWlvUG5NLTY4SG5mdk9uNVFwTXk3RmN4V3RseWNKbjVzWU5uQnQ2WWluVU5waDNidDY4T1ZIb2lLUE5yaHVHazVHczhQRzBMUlJKdzhF?oc=5",
+   "title": "UMich picks Ypsilanti site for Los Alamos-linked computing center",
+   "at": "2026-08-13T02:37:20+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Same UM site selection and Ypsilanti Township objection already covered in multiple LIVE stories (Ypsilanti Township rejects/vows fight against UM's Huron River"
   }
  ],
  "auto_published": [
@@ -2763,6 +2763,12 @@
    "title": "Michigan residents sue data center over constant noise",
    "judge_score": 8,
    "at": "2026-08-12T23:52:40Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMGVBVHBQQkc3eWJhcENoY0Fac1plM3NZTGdCT1p3RS00VjRrb0d1R1RHN2VzdlFudHFPNEdwRk91U2hLWWdnQzVOcXdKUk5MN2owdGhlOEYxTGpBT2FNV0gzNVFDZ0MxNFIwVmlZSHdhbzdRZEl1Z3U5RGRzY2lCOWlEQXN0c2tPejRJSjJvLUphMTIyVVNWMS0zcjJSZ1laOFhiWlNjYmpXZGhEOG4wck5nMktUSlVrRVdTeEF6aHlHcW1JTUtvNjdlM3J4ZDA?oc=5",
+   "title": "Chippewa County blocks new data centers for a year",
+   "judge_score": 9,
+   "at": "2026-08-13T02:37:20Z"
   }
  ]
 }
