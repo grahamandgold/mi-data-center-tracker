@@ -1,27 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcXVzMTdoSngwbl9vMXZTUm9HaWotYWZWNGZFVFJLR2swWU1ubnZ0VHZXYnJiemR1NEdHdzlldWVJMlpmZWQzYVdVd25aWFVzOVZtVUc0VGhzSVN4OWgwcjVFcC04R3NTdkVtMTN6NDA5aFBnNkd5ckZfRWZocDA4emoxTlhPUEp4azVEc241M1FBbHhYUkNaTXEtWkFudVZoQV83X3B4aEZzY255QWI2U2R30gG6AUFVX3lxTE9ZV055eThFNElTYzdxMGNGYnU3ZWhHRE9LMVZuOWtKMlViVTY3N04xNWVXUU9HOF92bHVpR1djVldEaTV3S0dLQkloMWY5d0diWjN6em5fYlNXZ2RTM2xHa3FQNmlvUEtPZkNMNTlFT3NuUm5HSC1ya2prNlc5c1hOWkVUZTlFejZNNWpFd0k4ajlvRmJVMGUxN2RaVElabFZXaU9FN2ptWWp6dG45WElXbjQyV3VoZDlzZw?oc=5",
-   "title": "Plymouth Township reveals stance on major data center plan",
-   "at": "2026-07-27T20:27:59+00:00",
-   "by": "news_judge",
-   "note": "score 5/10: Plymouth Township is a new jurisdiction taking a position, but the story is truncated and lacks specifics about what the stance actually is."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcEZVWVhlMzVPQkVGUHJINXNMT3R2WjBiZG5uaWppVHh3Wm5reTZYZHpZT2RaQ0VwMUdaYzFNTVpNOWRLSWdjTW5fT0xlYThoZWNZQVN5RURPUjZ4cWhvQVQwREYxOXJHdXhrcW8wTGRjMVE2Tkl2ZDNjXzhUTVF1VUpZZ1dBNVNRSzhyTTViUmhoaXA1OHYxdnZ0M0pDWS05?oc=5",
-   "title": "Data center opponents shout down Trump at Michigan rally",
-   "at": "2026-07-28T00:59:24+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Protest at a rally is a thin news event that illustrates existing tension rather than reporting a concrete development, decision, or filing in Michigan's data c"
-  },
-  {
-   "url": "https://www.wxyz.com/news/voices/neighbors-say-noise-from-michigan-data-center-is-24-7-and-upending-their-lives",
-   "title": "Dowagiac Residents Sue Data Center Operator Over Constant High-Pitched Noise",
-   "at": "2026-07-28T04:18:41+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Duplicate of already-live 'Dowagiac data center noise pushes residents to sue for buyouts' — same lawsuit, same facility, same noise complaint."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSGdzcm1FNVFlMzVVQ0lyamJJZUZpSnFBajYwWmlCU2ZYLVoxY2ZkYWRxQV90UXpucFVNVllOZnNjV1poS3lLbGEyT0s1OVItUHBMSzh3WktxaHJPWWpMNk55bXVBNTZWcl84LTFMTmZsQTJ0YldhZzUtX2FLRkctS29QRjhzYnBBcGlLekdweXp2NGFDcmk2Znk3NDA5c2xjSF9QZ2dNMWVVZi1VM1E5WE5uVFJ3X2JQMVJYT1RiREdkQlFWaFYxaWcyZWZNX21DUlJQTUdMY3dqaDZkYlBla2Y5OXgwRjNEME4tOVdDWHLSAfABQVVfeXFMTUhnc3JtRTVRZTM1VUNJcmpiSWVGaUpxQWo2MFppQlNmWC1aMWNmZGFkcUFfdFF6bnBVTVZZTmZzY1daaEt5S2xhMk9LNTlSLVBwTEs4d1pLcWhyT1lqTDZOeW11QTU2VnJfOC0xTE5mbEEydGJXYWc1LV9hS0ZHLUtvUEY4c2JwQXBpS3pHcHl6djRhQ3JpNmZ5NzQwOXNsY0hfUGdnTTFlVWYtVTNROVhOblRSd19iUDFSWE9UYkRHZEJRVmhWMWlnMmVmTV9tQ1JSUE1HTGN3amg2ZGJQZWtmOTl4MEYzRDBOLTlXQ1hy?oc=5",
    "title": "Upper Michigan teacher cuffed after clapping for data-center opponents",
    "at": "2026-07-28T04:18:41+00:00",
@@ -1399,6 +1378,27 @@
    "at": "2026-08-13T02:37:20+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Same UM site selection and Ypsilanti Township objection already covered in multiple LIVE stories (Ypsilanti Township rejects/vows fight against UM's Huron River"
+  },
+  {
+   "url": "https://michiganadvance.com/2026/08/12/university-of-michigan-selects-site-for-los-alamos-computing-center/",
+   "title": "University of Michigan Narrows Site for Los Alamos Research Computing Center in Ypsilanti Township",
+   "at": "2026-08-13T06:23:16+00:00",
+   "by": "news_judge",
+   "note": "score 4/10, duplicate: Rehashes the already-killed UM site selection story; 'narrows site' and 'picks site' report the same underlying decision."
+  },
+  {
+   "url": "https://www.detroitnews.com/story/opinion/2026/08/11/data-centers-are-creating-new-opportunities-for-michigans-skilled-trades-opinion/91254860007/",
+   "title": "Data Centers Drive Surging Electricity Demand Across U.S. States",
+   "at": "2026-08-13T06:23:16+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece without Michigan-specific decision or development; lacks concrete local news value."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRk5OaS1SdW9jNkdWMzlUQ3pRaGZSamdGWFFMR0EtaURxaGVtQm1DaUdKTFEwd2FwVEFYYXJrSGNzNTNBSzRhYk9Wa21hdV9ucmJqVHhIT3hQWmcyYXRpWTRBTFR6U0Q5VTNCQkczVUQ0UnRuX2c4V0FpUWdPeXUwSHZKek1CYnp1WGxHcm1KaUtwbXVtMUx5cUdqUGd5T1lDUzE5OWtsMVBkNElFWUV0cFpOa0lvQWVnZ1l6amtjbHdqSEMtalBoT0k5ZXlpdHNjQndOT3B2VHRZYkQwUGJwYXlGRlgyZ1dWY1p1N2NBUnRpTmdra0hqZw?oc=5",
+   "title": "Ypsilanti Township tells U-M and Los Alamos their data center is not welcome",
+   "at": "2026-08-13T06:23:16+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicate of 'Ypsilanti Township rejects University of Michigan data center site' already live; same rejection event reworded."
   }
  ],
  "auto_published": [
@@ -2769,6 +2769,18 @@
    "title": "Chippewa County blocks new data centers for a year",
    "judge_score": 9,
    "at": "2026-08-13T02:37:20Z"
+  },
+  {
+   "url": "https://www.wkar.org/michigans-data-center-divide/2026-08-12/east-lansing-extends-data-center-moratorium-as-it-plans-zoning-changes",
+   "title": "East Lansing Lengthens Data Center Pause to Block Aquifer Pollution",
+   "judge_score": 8,
+   "at": "2026-08-13T06:23:17Z"
+  },
+  {
+   "url": "https://www.9and10news.com/2026/08/12/garfield-township-planners-take-up-data-center-moratorium-findings-tonight/",
+   "title": "Garfield Township Builds Record for 18-Month Data Center Pause",
+   "judge_score": 7,
+   "at": "2026-08-13T06:23:17Z"
   }
  ]
 }
