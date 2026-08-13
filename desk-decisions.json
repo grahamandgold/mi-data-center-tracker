@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdG9idVRGS1J6bjdnWXpxb2lsT1JhWFN2YjdfSWlzR1JOaVIwNllOODlTQU9MOHE0S0NQTEkwb3VvQm1KbUQwOURhbVNVeTVaUnlBV1pMdm9ndE5IQlZVbGhBVVBfb0x2YmFjd3F3OWVBQWJ1UzNwSHJFREw2cHBFeFZhOU9oaEluTTNxeGRFeVA?oc=5",
-   "title": "Michigan neighbors sue data center over nonstop noise",
-   "at": "2026-07-28T16:47:31+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicates multiple already-live stories about Dowagiac residents suing over data center noise, including the specific lawsuit for buyouts."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWFJ3Qk16V1Z3U25GLW8wQWlYZlBaZ0FhRXprUUNBLWUxbUJ3QTNMdXZKWG9wWDljVmNLVGRDNmFPX0xhTkxWRVh4TV9tOTJkS2ZBcnNUUTVNUmlQM2JFY25CMnppbEFXSXNZWkpJVUtUOS1zZ0VzbXhOcWx5ODdTNkJFdXZ3R2NFU3NJMTgxdm9hYXZpTUo2UkQ0d1k4bDVSVU14RVJGT1RYMDJjZ1J5Z3BPQi1tajBGUlZoZ01ZeExjRlFRZ3lQTHpYdXpucWxmNjVZNGZEN2FlWmxET2tvdm1XMXFDVXU1SzZnQ0x3bnFUSTNoZnc?oc=5",
    "title": "Challenger wins Ann Arbor mayor race on promise to seize grid from private utility",
    "at": "2026-07-28T18:21:21+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-13T09:21:40+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece with no Michigan-specific developments or decisions; generic capacity discussion already covered in killed stories."
+  },
+  {
+   "url": "https://www.facebook.com/wwmtnews/videos/httpsbitly3urx2xm-data-centers-are-dominating-michigan-politics-and-more-local-l/1722020525744456/",
+   "title": "Data Center Development Sparks Political Debates Across Multiple States",
+   "at": "2026-08-13T11:55:15+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece aggregating multiple states' actions without specific Michigan development or decision."
   }
  ],
  "auto_published": [
