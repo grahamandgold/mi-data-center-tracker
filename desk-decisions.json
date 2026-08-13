@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTFAwR0lYMzlCSFQteWFNT3NnNm44X1ZpTEp1NG5oNkdYNkRsc0owaEJ4ZmFaMi1yVEhLN1VhVVlJU29XbUc4XzktRm9QRDJUM0lGUFBpTXU2ZXZkN1RTZ2cydEV6Ymt3OUZTZXhpYTZ4U2xoSHo5OVpwX21WVGtLeHRUU291UTl4R1ZuZXF6ZzJWblNoTUJfUFZ4X1BmbzliZmVJS1VKamItS3pCZ3dFNU5UTFR4bFpuNzhYdkRnU05pZw?oc=5",
-   "title": "Protesters warn Trump that Michigan families will pay data center power bills",
-   "at": "2026-07-28T21:17:49+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicate of killed story 'Data center opponents shout down Trump at Michigan rally' — same protest event at same Trump appearance, just reworded."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRS1PdndrOHVSVElXcnBheW5xUmhRaWg0Zk1fWDF6NElESDVIdEJMUDNRSGdBSjZna3EzSGd4MWJDOU1SNVdHVFEzUE9XMHVhd01RYmtLY3NZM3JlMEZHaU5UcGtNYkpfdVhqZWhxR3FHaDVQQzlOdHVXUWF2Y1Q0aWtiWmgwRDE3S1Qtam1jcGN0VGE2bkpVQzhkNA?oc=5",
-   "title": "Governor candidates split on tax breaks and data-center growth",
-   "at": "2026-07-29T11:42:20+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Candidate Q&A on policy positions is softer than actual policy decisions or votes; overlaps thematically with already-live Senate candidate split story but cove"
-  },
-  {
    "url": "https://www.nationofchange.org/2026/07/29/the-data-center-fight-is-going-global/",
    "title": "Data Center Opposition Spreads Worldwide as U.S. Communities Push Back on AI Infrastructure",
    "at": "2026-07-29T17:25:21+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-13T13:36:30+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece with Michigan mentioned only as part of broader multi-state conversation, no specific Michigan development reported."
+  },
+  {
+   "url": "https://www.datacenterdynamics.com/en/news/data-center-operators-sneak-in-pair-of-projects-hours-before-moratorium-enacted-in-hillsboro-oregon/",
+   "title": "Hillsboro gets 40MW data center filings hours before moratorium",
+   "at": "2026-08-13T15:06:47+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Oregon story with no Michigan connection; national trend piece about moratorium tactics."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdWlDQ05ZaGo5TEFaTUhyMjMybHRfVHlobmhGSjVycWhGbndyVXBfbTNSWmQwaWZaSHpUNnV2NzZFTXZaZEVoTjFFb3FGSkRrUXMzMVBoaEZRSlJ5STY3dGYtYXQ5LVdCY2JzUHJXb1NDTFFfOFlhWnBLdHRDRkVFM1pURnc2MGpETGxVZkVXaEZsN3ZlcFBNTDFSMEFkcUl0bTFoaWpmSVJ1dUhWNXVFVGlSVXdNV2R0MlJwd1l2anhWMklob25OOA?oc=5",
+   "title": "MLive explains why data centers are reshaping Michigan towns",
+   "at": "2026-08-13T15:06:47+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Explainer/overview piece rehashing already-covered Michigan developments rather than reporting a new event or decision."
   }
  ],
  "auto_published": [
