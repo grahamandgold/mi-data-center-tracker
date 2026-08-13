@@ -1,23 +1,23 @@
 {
- "updated_at": "2026-08-13T20:54:53Z",
+ "updated_at": "2026-08-13T21:09:39+00:00",
  "generator": "grok-wire-agent",
  "items": [
   {
-   "title": "Negaunee council advances zoning limits on data centers",
-   "dek": "Council voted 7-0 to approve the first reading of an ordinance confining data centers to mining and industrial zones, with noise, height and emissions rules. Officials said the restrictions, required by state law against outright bans, could push projects elsewhere.",
+   "title": "Negaunee holds hearing on data center zoning restrictions",
+   "dek": "Negaunee City Council scheduled a public hearing for Aug. 13 on rules that would restrict data centers to industrial and mining areas while capping noise, height and emissions.",
    "url": "https://www.miningjournal.net/news/front-page-news/2026/07/public-hearing-for-negaunee-data-center-ordinance-to-be-held-on-aug-13/",
    "source": "Negaunee City Council or Planning Commission agenda",
    "region": "Northern Michigan",
    "county": "Marquette",
    "cat": "Meetings",
    "tag": "Agenda watch",
-   "iso": "2026-08-13T10:45:19+00:00",
+   "iso": "2026-08-13T21:09:39+00:00",
    "kind": "agenda",
    "id": "148301b1c23b",
-   "filed_at": "2026-08-13T10:45:19+00:00",
-   "accuracy": "checked-rewritten",
-   "findings": "Ordinance limits data centers to mining and industrial zones per the draft reviewed by Planning Commission | Requires any air pollution, dust, smoke, glare, exhaust, noise, heat, vibration or humidity to be imperceptible at or beyond the property line | Sets maximum building heights and acceptable noise levels | First reading approved 7-0 by City Council on July 16, 2026 with public hearing set for Aug. 13 | Council members Jon Becker, Amanda Ghanavati and Dave Kangas voiced hope the rules would deter projects | Michigan law outlaws exclusionary zoning, preventing municipalities from completely outlawing specific lawful land-uses including data centers",
-   "perspective": "Negaunee Planning Commission drafted the ordinance and recommended it to City Council last month; City Council advanced the first reading unanimously before scheduling the Aug. 13 hearing. The full ordinance is available in the packet for the July 16 meeting at www.cityofnegaunee.com/city-council/agenda/regular-meeting-45.",
+   "filed_at": "2026-08-13T21:09:39+00:00",
+   "accuracy": "thin — needs human background",
+   "findings": "Ordinance limits data centers to mining and industrial zones | Sets acceptable levels of noise disturbance and maximum building heights | Requires any air pollution, dust, smoke, glare, exhaust, noise, heat, vibration or humidity to be imperceptible at or beyond the property line | Negaunee City Council voted 7-0 to approve first reading and schedule Aug. 13 public hearing | Planning Commission drafted and recommended the ordinance | Michigan state law outlaws exclusionary zoning, preventing municipalities from completely outlawing specific lawful land-uses including data centers",
+   "perspective": "Negaunee City Council approved the first reading 7-0 at its July meeting after the Planning Commission recommended the ordinance. Councilperson Jon Becker said he brought the issue to the planning commission and personally hopes the ordinance is restrictive enough that data centers choose to go elsewhere. Councilperson Amanda Ghanavati said she hopes it makes it nearly impossible for data centers ",
    "documents": [
     {
      "label": "Agenda page",
@@ -25,10 +25,32 @@
     }
    ],
    "depth_score": 2,
-   "extraction_method": "plain",
-   "headline_rewritten": true,
-   "judge_score": 8,
-   "judge_note": "Concrete action: Negaunee council voted 7-0 on first reading of specific zoning ordinance with detailed restrictions—a new Michigan municipality taking regulato"
+   "extraction_method": "plain"
+  },
+  {
+   "title": "Michigan Coalition Town Hall to Weigh Data Center Development Implications",
+   "dek": "The Michigan for Responsible Data Centers Coalition hosts a virtual town hall Thursday, August 13, at 6 p.m. ET on data center development implications statewide. Local officials, community members and the public can hear from experts on development and its implications in Michigan.",
+   "url": "https://www.facebook.com/detroitchamber/posts/on-thursday-august-13-at-6-pm-join-the-michigan-for-responsible-data-centers-coa/1479381710891828/",
+   "source": "Michigan for Responsible Data Centers Coalition agenda",
+   "region": "statewide",
+   "county": "Van Buren",
+   "cat": "Meetings",
+   "tag": "Agenda watch",
+   "iso": "2026-08-13T21:09:39+00:00",
+   "kind": "agenda",
+   "id": "82de5f563540",
+   "filed_at": "2026-08-13T21:09:39+00:00",
+   "accuracy": "thin — needs human background",
+   "findings": "The event is a virtual webinar open to local officials, community members and the public | Registration required via https://bit.ly/4hWkXKQ | The session will provide information on data center development and its implications in Michigan | No staff report, draft resolutions, parcel details, megawatt figures or abatement terms appear in the posted announcement",
+   "perspective": "The coalition describes itself as focused on data center development and its implications in Michigan. The webinar format offers opportunity for local officials and community members to hear from experts on what is being built in their areas.",
+   "documents": [
+    {
+     "label": "Agenda page",
+     "url": "https://www.facebook.com/detroitchamber/posts/on-thursday-august-13-at-6-pm-join-the-michigan-for-responsible-data-centers-coa/1479381710891828/"
+    }
+   ],
+   "depth_score": 0,
+   "extraction_method": "playwright"
   },
   {
    "iso": "2026-08-12T18:00:00+00:00",

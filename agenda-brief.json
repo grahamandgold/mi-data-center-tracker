@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-13T10:45:19+00:00",
+ "generated_at": "2026-08-13T21:09:39+00:00",
  "for_dates": [
   "2026-08-13",
   "2026-08-14"
@@ -9,8 +9,15 @@
    "iso": "2026-08-13",
    "time": "TBD",
    "meeting": "Negaunee City Council or Planning Commission",
-   "bullet": "Negaunee ordinance would bar perceptible noise or emissions beyond data center property lines, with officials hoping the rules deter projects entirely.",
+   "bullet": "Negaunee holds public hearing Aug. 13 on ordinance restricting data centers to industrial/mining zones with strict noise and emissions rules.",
    "link": "https://www.miningjournal.net/news/front-page-news/2026/07/public-hearing-for-negaunee-data-center-ordinance-to-be-held-on-aug-13/"
+  },
+  {
+   "iso": "2026-08-13",
+   "time": "6:00 PM",
+   "meeting": "Michigan for Responsible Data Centers Coalition",
+   "bullet": "Coalition webinar Thursday on data center development implications in Michigan.",
+   "link": "https://www.facebook.com/detroitchamber/posts/on-thursday-august-13-at-6-pm-join-the-michigan-for-responsible-data-centers-coa/1479381710891828/"
   }
  ]
 }
