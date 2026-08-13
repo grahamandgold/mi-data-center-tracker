@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.newsweek.com/michigan-residents-sue-ai-data-center-noise-not-alone-12254427",
-   "title": "Dowagiac Residents File Lawsuit Alleging Constant Noise From Nearby AI Data Center",
-   "at": "2026-07-29T23:35:44+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicate of killed 'Dowagiac Residents Sue Data Center Operator Over Constant High-Pitched Noise' and related noise lawsuit stories — same lawsuit, same facili"
-  },
-  {
    "url": "https://example.com/national-data-center-power",
    "title": "U.S. Data Center Power Demand Surges as Tech Giants Accelerate AI Infrastructure",
    "at": "2026-07-29T23:35:44+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-13T22:54:20+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece with only vague reference to Michigan mirroring broader discussions; lacks specific Michigan development, decision, or filing."
+  },
+  {
+   "url": "https://www.theguardian.com/us-news/2026/aug/12/datacenter-everglades-risk",
+   "title": "600MW data center near Everglades could raise power bills and algal bloom risks",
+   "at": "2026-08-13T23:52:24+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National/Florida story with no Michigan angle; falls into the 'national trend piece' category despite concrete project details."
   }
  ],
  "auto_published": [
