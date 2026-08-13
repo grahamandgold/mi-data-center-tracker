@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWFJ3Qk16V1Z3U25GLW8wQWlYZlBaZ0FhRXprUUNBLWUxbUJ3QTNMdXZKWG9wWDljVmNLVGRDNmFPX0xhTkxWRVh4TV9tOTJkS2ZBcnNUUTVNUmlQM2JFY25CMnppbEFXSXNZWkpJVUtUOS1zZ0VzbXhOcWx5ODdTNkJFdXZ3R2NFU3NJMTgxdm9hYXZpTUo2UkQ0d1k4bDVSVU14RVJGT1RYMDJjZ1J5Z3BPQi1tajBGUlZoZ01ZeExjRlFRZ3lQTHpYdXpucWxmNjVZNGZEN2FlWmxET2tvdm1XMXFDVXU1SzZnQ0x3bnFUSTNoZnc?oc=5",
-   "title": "Challenger wins Ann Arbor mayor race on promise to seize grid from private utility",
-   "at": "2026-07-28T18:21:21+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Election result is real news, but the data-center angle appears secondary to a broader municipal-utility campaign theme; lacks concrete data-center decision or "
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTFAwR0lYMzlCSFQteWFNT3NnNm44X1ZpTEp1NG5oNkdYNkRsc0owaEJ4ZmFaMi1yVEhLN1VhVVlJU29XbUc4XzktRm9QRDJUM0lGUFBpTXU2ZXZkN1RTZ2cydEV6Ymt3OUZTZXhpYTZ4U2xoSHo5OVpwX21WVGtLeHRUU291UTl4R1ZuZXF6ZzJWblNoTUJfUFZ4X1BmbzliZmVJS1VKamItS3pCZ3dFNU5UTFR4bFpuNzhYdkRnU05pZw?oc=5",
    "title": "Protesters warn Trump that Michigan families will pay data center power bills",
    "at": "2026-07-28T21:17:49+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-13T11:55:15+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece aggregating multiple states' actions without specific Michigan development or decision."
+  },
+  {
+   "url": "https://apnews.com/article/data-centers-power-demand-2026",
+   "title": "Data Center Power Demand Surges Prompt New Regulatory Scrutiny Across Multiple States",
+   "at": "2026-08-13T13:36:30+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece with Michigan mentioned only as part of broader multi-state conversation, no specific Michigan development reported."
   }
  ],
  "auto_published": [
@@ -2799,6 +2799,24 @@
    "title": "Dowagiac Neighbors Sue Over nonstop Noise From Crypto Data Center",
    "judge_score": 9,
    "at": "2026-08-13T09:21:40Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQRUh3SmlQVDMwbVB6YzE3alB6ZnBQRUdPVnBfNUV3XzdEX2NzOTJvRnE5V3VubVpBLVY4NTVLNXpBa0lxc3VUNFBDZ19mZmd3X282TzNKYzFvQ3VWaERqQnJMWlpOR2xvczBFTjR6RE1VX25KM3dUN3BQb1pWUXl4Y2FSMVlHSVlnYldvbFozeU9uNks4bnpEbFhnaENXNGtFVmNtQjdNb1p4OVJuVlphY09qWmdmT3pPMXlocEl3c3F3MV85dGx3azQwc2FUWTRWUmsyNktyOUFUS1NtR2dTc0lUalczSm5oS0REOXliU0xnZW5VQldhXzBYNDd5NGM1aEJKVWFieHhmRS1BbWY3RWdoNHZrYnZ6RnByOXBYWQ?oc=5",
+   "title": "Richmond Township residents grill data center backers",
+   "judge_score": 8,
+   "at": "2026-08-13T13:36:30Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNHh1c1gwMndpUFBaY2FMYURQeGNGNnpGTkJFbFNNb0w1NWItcjY3ZzZyZ0ZfU1plM1VxV0IxODluUnFEODMzUlU4ZVhqRjZWTUllclBRRl9Vb1IyenlyTndfbHd3a1dpaW1ETFdxSm45R0VxWllEUVNOQ21LX3VhSGdWdkI5T0EwYjBYOVVLWTRqM0E1ZG9Ib3dZNzB1MGRjUlJQTGNB?oc=5",
+   "title": "Detroit-area township fights back on data center plan",
+   "judge_score": 6,
+   "at": "2026-08-13T13:36:30Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZUNoZ3lKZnZuUURaU1Q1U3JXWml0bWlDaG50QmxReHZBaU0ydU9VVl9pMXZvWS1QblZaYWNoeENUSFNuMHZiUXVHOEZ6RzVLeFgyMlpCQmpSM3c1aTRiRnlLWFhLckxuMmh2aHNiS1ZoUEMwSE1hRDNXMDFQRnVxZVF2cU0ydW8?oc=5",
+   "title": "Iosco drafts rules to tame data center sprawl",
+   "judge_score": 7,
+   "at": "2026-08-13T13:36:30Z"
   }
  ]
 }
