@@ -1,10 +1,10 @@
 {
- "title": "Evenings with Graham & Emmy",
- "teaser": "Developer sues Wixom over moratorium; what it means for power, water and local rules statewide.",
+ "title": "Mornings with Graham & Emmy",
+ "teaser": "Dowagiac neighbors sue over nonstop crypto data center whine amid statewide pushback.",
  "lines": [
   {
    "host": "Graham",
-   "text": "Good evening, and welcome to Evenings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
+   "text": "Good morning, and welcome to Mornings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
   },
   {
    "host": "Emmy",
@@ -12,330 +12,206 @@
   },
   {
    "host": "Graham",
-   "text": "Tonight a developer is suing Wixom after the city extended its pause on new data centers, putting tax revenue and jobs on the line."
+   "text": "Today we're digging into the growing noise complaints from data centers, starting with a lawsuit filed by residents in Dowagiac."
   },
   {
    "host": "Emmy",
-   "text": "That sounds like it could set a precedent for all these moratoriums popping up."
+   "text": "That's right, Graham. Neighbors there say the high-pitched whine from Alliance Cloud Services has made their yards and open windows unusable for two years now."
   },
   {
    "host": "Graham",
-   "text": "Exactly. The lawsuit claims the moratorium exceeds local authority and blocks a planned project."
+   "text": "The company has already been fined under Dowagiac's new noise limits, and they're planning to seal vents after switching to AI operations."
   },
   {
    "host": "Emmy",
-   "text": "So what's the history here? How did we get to so many cities hitting pause?"
+   "text": "But residents are demanding real soundproofing or even buyouts. This feels like it could set a precedent for other communities dealing with similar issues."
   },
   {
    "host": "Graham",
-   "text": "It's been building for months. Proposals for large AI and server facilities have surged, and towns are worried about the scale."
+   "text": "Exactly. Data centers have been expanding fast across Michigan, bringing jobs and tax revenue but also these quality-of-life headaches like constant noise, heavy power use, and water demands."
   },
   {
    "host": "Emmy",
-   "text": "What kind of scale are we talking about for power and water?"
+   "text": "How did we get here? It seems like just a few years ago these facilities were mostly welcomed, but now towns are pushing back hard."
   },
   {
    "host": "Graham",
-   "text": "These facilities can draw enormous amounts of electricity for servers and cooling, plus significant water for those systems."
+   "text": "The history shows a rapid buildout driven by AI and cloud computing needs. Companies look for cheap land, cool climates, and reliable power in places like the Upper Peninsula and rural counties."
   },
   {
    "host": "Emmy",
-   "text": "And that hits electric bills for everyone else on the grid, right?"
+   "text": "And now we're seeing the downsides hit home for residents. What does this mean for electric bills if demand keeps climbing?"
   },
   {
    "host": "Graham",
-   "text": "Residents in places like Washtenaw and Oakland counties are already asking that question as deals move forward elsewhere."
+   "text": "State regulators told lawmakers that new policies could actually help lower electricity rates even with more data centers online, depending on how the legislature handles power planning."
   },
   {
    "host": "Emmy",
-   "text": "Who are the main players in this Wixom case?"
+   "text": "That's interesting. So it's not automatic that bills go up?"
   },
   {
    "host": "Graham",
-   "text": "The developer on one side, city officials on the other, and Oakland County residents watching the tax revenue and job impacts."
+   "text": "Not necessarily, but it depends on smart infrastructure choices and who pays for upgrades. Residents in multiple counties are watching closely as projects get proposed."
   },
   {
    "host": "Emmy",
-   "text": "What happens if the lawsuit succeeds?"
+   "text": "Water use is another big one I've heard about. How much does a typical facility pull?"
   },
   {
    "host": "Graham",
-   "text": "The pause could be lifted, letting the project move ahead, but it might also pressure other cities to rethink their own rules."
+   "text": "It varies, but large ones can strain local supplies, especially in areas worried about aquifers. That's why places like East Lansing extended their moratorium to protect water quality."
   },
   {
    "host": "Emmy",
-   "text": "We've seen Rochester Hills extend its moratorium another year just today."
+   "text": "Farmland and open spaces are also at stake. These facilities take up a lot of room and can change the character of small towns."
   },
   {
    "host": "Graham",
-   "text": "Yes, and that keeps residents near potential sites protected from noise, traffic and power strain for now."
+   "text": "Right. Chippewa County just approved a full 12-month moratorium to study power, water, and zoning impacts before anything moves forward."
   },
   {
    "host": "Emmy",
-   "text": "It also gives the city time to write permanent zoning standards."
+   "text": "That's a rural Upper Peninsula county getting a temporary shield. How many other places are doing something similar right now?"
   },
   {
    "host": "Graham",
-   "text": "Wixom is doing something similar, tightening rules before its six-month moratorium ends."
+   "text": "Several. Wixom is drafting new zoning rules on noise, setbacks, and power lines before its moratorium expires. Corunna adopted an ordinance with clear limits on noise, traffic, and power."
   },
   {
    "host": "Emmy",
-   "text": "So the lawsuit could test whether these temporary pauses hold up legally."
+   "text": "And Ypsilanti Township rejected a University of Michigan proposal over zoning and resident concerns about power and water."
   },
   {
    "host": "Graham",
-   "text": "That's the core question. Local authority versus developer rights under state law."
+   "text": "Garfield Township in Grand Traverse County is weighing its own year-long freeze, with planners set to show why old rules can't handle today's large facilities."
   },
   {
    "host": "Emmy",
-   "text": "How does this affect farmland and small towns specifically?"
+   "text": "It sounds like a wave of local action. What happens next if these lawsuits and moratoriums keep spreading?"
   },
   {
    "host": "Graham",
-   "text": "Many proposed sites are on or near agricultural land, raising concerns about conversion and long-term community character."
+   "text": "More townships could follow suit, forcing companies to negotiate better mitigation or look elsewhere. A win for residents in Dowagiac might encourage similar suits."
   },
   {
    "host": "Emmy",
-   "text": "And the tax revenue angle is big for local budgets."
+   "text": "Or companies might invest in better soundproofing and site selection from the start."
   },
   {
    "host": "Graham",
-   "text": "Delayed revenue if projects are blocked, but also potential strain on services if they go through without proper planning."
+   "text": "That's the hope. The Dowagiac case tests whether existing noise rules can actually rein in hyperscale operations."
   },
   {
    "host": "Emmy",
-   "text": "What about the environmental side? Attorney General Nessel and green groups are appealing DTE deals for Saline data centers today."
+   "text": "And if it sets a precedent, it could ripple across the state."
   },
   {
    "host": "Graham",
-   "text": "Those contracts could affect electric rates and grid reliability for Washtenaw County residents."
+   "text": "Meanwhile, regulators are signaling that lawmakers have tools to manage costs amid the growth."
   },
   {
    "host": "Emmy",
-   "text": "The appeal focuses on protecting ratepayers from the massive new load."
+   "text": "So the big picture is communities gaining leverage through zoning and legal action while the state looks at broader policy."
   },
   {
    "host": "Graham",
-   "text": "Meanwhile Ypsilanti Township is vowing to fight a University of Michigan $1.2 billion project on the Huron River."
+   "text": "We'll keep tracking how these play out."
   },
   {
    "host": "Emmy",
-   "text": "Over water use, traffic and local control concerns."
+   "text": "Now for some quick hits on other developments today."
   },
   {
    "host": "Graham",
-   "text": "A U-M regent even called for a temporary halt yesterday over grid strain."
+   "text": "Michigan regulators told lawmakers new policies could lower power prices even as data centers grow demand."
   },
   {
    "host": "Emmy",
-   "text": "That shows the issue reaching inside the university itself."
+   "text": "Residents might see bill impacts depending on legislative action on planning."
   },
   {
    "host": "Graham",
-   "text": "Morley pushed back a hydro data center hearing to August 18 so residents can review power, water and tax details."
+   "text": "Chippewa County approved a 12-month moratorium on new data center proposals to study impacts."
   },
   {
    "host": "Emmy",
-   "text": "Small Mecosta County communities are really feeling the weight of these decisions."
+   "text": "That pause gives officials time before any large projects advance in the rural county."
   },
   {
    "host": "Graham",
-   "text": "State Sen. Gonzalez is touring the state to build support for tighter oversight."
+   "text": "Wixom city council is drafting zoning rules on noise and setbacks just before its moratorium deadline."
   },
   {
    "host": "Emmy",
-   "text": "Highlighting risks to electric reliability and water in rural and suburban areas."
+   "text": "Residents there have pushed for stronger protections near homes."
   },
   {
    "host": "Graham",
-   "text": "East Lansing extended its freeze another year yesterday, blocking new proposals."
+   "text": "Corunna adopted a new ordinance with limits on noise, traffic, and power use for future centers."
   },
   {
    "host": "Emmy",
-   "text": "Residents in the broader Lansing region face similar risks if projects land nearby."
+   "text": "It gives nearby communities a template if proposals pop up."
   },
   {
    "host": "Graham",
-   "text": "Kalamazoo commissioners are set to decide on a six-month ban soon."
+   "text": "Ypsilanti Township rejected a University of Michigan data center site over zoning and resident concerns."
   },
   {
    "host": "Emmy",
-   "text": "That would give the city time to draft permanent rules before anything advances."
+   "text": "The university may look for another location or scale back."
   },
   {
    "host": "Graham",
-   "text": "The pattern is clear: cities want breathing room to study impacts."
+   "text": "Garfield Township planners are forwarding findings for an 18-month pause to avoid issues like those in other townships."
   },
   {
    "host": "Emmy",
-   "text": "But developers see these pauses as overreach that stalls economic benefits."
+   "text": "Northern Michigan communities are seeing rising developer interest."
   },
   {
    "host": "Graham",
-   "text": "The Wixom lawsuit will likely be watched closely by everyone involved."
+   "text": "Yesterday East Lansing extended its moratorium to March to block potential aquifer pollution."
   },
   {
    "host": "Emmy",
-   "text": "What could the court decide and how fast?"
+   "text": "That gives time for new zoning to protect neighborhoods."
   },
   {
    "host": "Graham",
-   "text": "It depends on the legal arguments around municipal authority, but a ruling could come in weeks or months."
+   "text": "Now let's look at what's on deck for listeners who want to get involved."
   },
   {
    "host": "Emmy",
-   "text": "Other towns drafting rules like Wixom will be taking notes."
+   "text": "Tonight Negaunee City Council or Planning Commission has a public hearing on a proposed data center ordinance."
   },
   {
    "host": "Graham",
-   "text": "Those standards on noise, power and water could become templates."
+   "text": "It would limit facilities to mining and industrial zones with noise and height standards."
   },
   {
    "host": "Emmy",
-   "text": "Residents 30 or 60 miles away might still feel ripple effects on regional power demand."
+   "text": "Also today the Michigan for Responsible Data Centers Coalition is holding a virtual town hall on Van Buren Township construction and regulations."
   },
   {
    "host": "Graham",
-   "text": "Exactly. The grid doesn't stop at city limits."
+   "text": "On Monday the Kalamazoo City Commission will vote on a resolution for a temporary moratorium."
   },
   {
    "host": "Emmy",
-   "text": "So what's the next step after the lawsuit filing?"
+   "text": "Those are real opportunities for residents to weigh in."
   },
   {
    "host": "Graham",
-   "text": "Hearings, possible negotiations, and more cities weighing similar legal risks."
-  },
-  {
-   "host": "Emmy",
-   "text": "This could accelerate the push for statewide guidelines."
-  },
-  {
-   "host": "Graham",
-   "text": "Or it could lead to more litigation if other pauses face challenges."
-  },
-  {
-   "host": "Emmy",
-   "text": "Either way, local control remains the flashpoint."
-  },
-  {
-   "host": "Graham",
-   "text": "We should keep an eye on how these rules balance growth with protections."
-  },
-  {
-   "host": "Emmy",
-   "text": "The stakes for everyday ratepayers and neighbors are real."
-  },
-  {
-   "host": "Graham",
-   "text": "Moving to quick hits now."
-  },
-  {
-   "host": "Emmy",
-   "text": "Rochester Hills voted today to extend its data center moratorium another year."
-  },
-  {
-   "host": "Graham",
-   "text": "Residents near potential sites get more time before facing noise, traffic or power issues."
-  },
-  {
-   "host": "Emmy",
-   "text": "Nessel and green groups are appealing those DTE power deals for Saline data centers."
-  },
-  {
-   "host": "Graham",
-   "text": "The outcome could shape electric rates and reliability in Washtenaw County."
-  },
-  {
-   "host": "Emmy",
-   "text": "Ypsilanti Township officials say they'll oppose the big U-M Huron River project."
-  },
-  {
-   "host": "Graham",
-   "text": "Concerns center on water, traffic and keeping local say in the matter."
-  },
-  {
-   "host": "Emmy",
-   "text": "Morley delayed its hydro data center hearing until August 18."
-  },
-  {
-   "host": "Graham",
-   "text": "That gives Mecosta County residents extra time to dig into the plans."
-  },
-  {
-   "host": "Emmy",
-   "text": "Wixom is already drafting new zoning and performance standards ahead of its moratorium end."
-  },
-  {
-   "host": "Graham",
-   "text": "Those could influence how other Oakland County suburbs handle proposals."
-  },
-  {
-   "host": "Emmy",
-   "text": "Senator Gonzalez kicked off a tour today pushing for stronger state oversight."
-  },
-  {
-   "host": "Graham",
-   "text": "Public stops across Michigan to discuss reliability and water risks."
-  },
-  {
-   "host": "Emmy",
-   "text": "Yesterday East Lansing extended its own data center freeze another year."
-  },
-  {
-   "host": "Graham",
-   "text": "Blocking new applications while the city studies long-term effects."
-  },
-  {
-   "host": "Emmy",
-   "text": "A U-M regent urged a pause on the Ypsilanti Township project over grid concerns."
-  },
-  {
-   "host": "Graham",
-   "text": "Highlighting potential rate impacts for nearby communities."
-  },
-  {
-   "host": "Emmy",
-   "text": "Kalamazoo commissioners will soon vote on a six-month moratorium."
-  },
-  {
-   "host": "Graham",
-   "text": "That would halt proposals and buy time for permanent rules."
-  },
-  {
-   "host": "Emmy",
-   "text": "Now let's look at what's on deck for listeners who want to attend."
-  },
-  {
-   "host": "Graham",
-   "text": "Tonight Speaker Township Planning Commission meets on an ordinance covering cryptocurrency mining, data centers including AI, and residential battery storage."
-  },
-  {
-   "host": "Emmy",
-   "text": "Tomorrow Negaunee has a public hearing on a proposed data center ordinance with limits to mining and industrial zones plus noise and height standards."
-  },
-  {
-   "host": "Graham",
-   "text": "Also tomorrow the Michigan for Responsible Data Centers Coalition is holding a virtual town hall on Van Buren Township construction and regulations."
-  },
-  {
-   "host": "Emmy",
-   "text": "And on August 17 Kalamazoo City Commission votes on a resolution for a temporary moratorium on data center development."
-  },
-  {
-   "host": "Graham",
-   "text": "Plenty of chances for residents to weigh in directly."
-  },
-  {
-   "host": "Emmy",
    "text": "Full sources and the live map at the Michigan Data Center Tracker."
   },
   {
-   "host": "Graham",
+   "host": "Emmy",
    "text": "We're back tomorrow."
   }
  ],
- "episode_title": "Wixom Lawsuit Tests Data Center Moratoriums Across Michigan",
- "show": "Evenings with Graham & Emmy",
- "daypart": "Evenings"
+ "episode_title": "Dowagiac Residents Sue Over Data Center Noise as Michigan Towns Tighten Rules",
+ "show": "Mornings with Graham & Emmy",
+ "daypart": "Mornings"
 }
