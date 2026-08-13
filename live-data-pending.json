@@ -1,7 +1,32 @@
 {
- "updated_at": "2026-08-13T10:40:05+00:00",
+ "updated_at": "2026-08-13T10:45:19+00:00",
  "generator": "grok-wire-agent",
  "items": [
+  {
+   "title": "Negaunee readies zoning rules to steer data centers away from homes",
+   "dek": "Negaunee City Council scheduled a public hearing for Aug. 13 on an ordinance that would confine data centers to mining and industrial zones while capping noise, height and emissions. The rules aim to give the city control over any future projects without banning them outright, a step officials say could push developers elsewhere.",
+   "url": "https://www.miningjournal.net/news/front-page-news/2026/07/public-hearing-for-negaunee-data-center-ordinance-to-be-held-on-aug-13/",
+   "source": "Negaunee City Council or Planning Commission agenda",
+   "region": "Northern Michigan",
+   "county": "Marquette",
+   "cat": "Meetings",
+   "tag": "Agenda watch",
+   "iso": "2026-08-13T10:45:19+00:00",
+   "kind": "agenda",
+   "id": "148301b1c23b",
+   "filed_at": "2026-08-13T10:45:19+00:00",
+   "accuracy": "thin — needs human background",
+   "findings": "Ordinance limits data centers to mining and industrial zones per the draft reviewed by Planning Commission | Requires any air pollution, dust, smoke, glare, exhaust, noise, heat, vibration or humidity to be imperceptible at or beyond the property line | Sets maximum building heights and acceptable noise levels | First reading approved 7-0 by City Council on July 16, 2026 with public hearing set for Aug. 13 | Council members Jon Becker, Amanda Ghanavati and Dave Kangas voiced hope the rules would deter projects | Michigan law outlaws exclusionary zoning, preventing municipalities from completely outlawing specific lawful land-uses including data centers",
+   "perspective": "Negaunee Planning Commission drafted the ordinance and recommended it to City Council last month; City Council advanced the first reading unanimously before scheduling the Aug. 13 hearing. The full ordinance is available in the packet for the July 16 meeting at www.cityofnegaunee.com/city-council/agenda/regular-meeting-45.",
+   "documents": [
+    {
+     "label": "Agenda page",
+     "url": "https://www.miningjournal.net/news/front-page-news/2026/07/public-hearing-for-negaunee-data-center-ordinance-to-be-held-on-aug-13/"
+    }
+   ],
+   "depth_score": 2,
+   "extraction_method": "plain"
+  },
   {
    "iso": "2026-08-12T18:00:00+00:00",
    "region": "mid",
@@ -19,33 +44,6 @@
    "accuracy": "social-post",
    "judge_score": 9,
    "judge_note": "New council vote extending East Lansing's moratorium to a specific new date (March 2027), a concrete decision distinct from the earlier aquifer-focused pause."
-  },
-  {
-   "title": "Negaunee council eyes zoning limits to confine data centers to mining and industrial zones",
-   "dek": "The Negaunee City Council scheduled a public hearing for its Aug. 13 meeting on a new ordinance that would restrict data centers to specific zones and impose strict noise, pollution and height rules. Council members have said the language aims to give the city control and potentially deter projects.",
-   "url": "https://www.miningjournal.net/news/front-page-news/2026/07/public-hearing-for-negaunee-data-center-ordinance-to-be-held-on-aug-13/",
-   "source": "Negaunee City Council or Planning Commission agenda",
-   "region": "Northern Michigan",
-   "county": "Marquette",
-   "cat": "Meetings",
-   "tag": "Agenda watch",
-   "iso": "2026-08-12T21:09:41+00:00",
-   "kind": "agenda",
-   "id": "148301b1c23b",
-   "filed_at": "2026-08-12T21:09:41+00:00",
-   "accuracy": "checked",
-   "findings": "Ordinance would limit data centers to mining and industrial zones per the July 20 Mining Journal report | Requires any air pollution, dust, smoke, glare, exhaust, noise, heat, vibration or humidity to be imperceptible at or beyond the property line | Sets maximum building heights and other specifications | City Council voted 7-0 on first reading in July and scheduled the hearing | Councilperson Jon Becker said he hopes the rules are so restrictive that projects go elsewhere | Councilperson Amanda Ghanavati said she hopes it makes data centers nearly impossible here",
-   "perspective": "The Negaunee Planning Commission drafted and recommended the ordinance last month. Michigan law bars exclusionary zoning that would fully prohibit data centers. The Aug. 13 public hearing is the next step before a potential second reading and vote.",
-   "documents": [
-    {
-     "label": "Agenda page",
-     "url": "https://www.miningjournal.net/news/front-page-news/2026/07/public-hearing-for-negaunee-data-center-ordinance-to-be-held-on-aug-13/"
-    }
-   ],
-   "depth_score": 2,
-   "extraction_method": "plain",
-   "judge_score": 7,
-   "judge_note": "Concrete new development: Negaunee scheduled a public hearing on Aug. 13 for a specific zoning ordinance restricting data centers."
   }
  ],
  "accuracy_checked_at": "2026-08-13T10:40:05+00:00"

@@ -1,22 +1,15 @@
 {
- "generated_at": "2026-08-12T21:09:41+00:00",
+ "generated_at": "2026-08-13T10:45:19+00:00",
  "for_dates": [
-  "2026-08-12",
-  "2026-08-13"
+  "2026-08-13",
+  "2026-08-14"
  ],
  "items": [
-  {
-   "iso": "2026-08-12",
-   "time": "7:00 PM",
-   "meeting": "Speaker Township Planning Commission",
-   "bullet": "Speaker Twp planners meet Aug. 12 to work on terms for data center, battery storage and container building ordinances.",
-   "link": "https://speakertwpmi.gov/planning-commission-special-meeting-august-12-2026-at-700-p-m/"
-  },
   {
    "iso": "2026-08-13",
    "time": "TBD",
    "meeting": "Negaunee City Council or Planning Commission",
-   "bullet": "Negaunee City Council holds Aug. 13 public hearing on ordinance restricting data centers to mining and industrial zones with strict pollution and noise rules.",
+   "bullet": "Negaunee ordinance would bar perceptible noise or emissions beyond data center property lines, with officials hoping the rules deter projects entirely.",
    "link": "https://www.miningjournal.net/news/front-page-news/2026/07/public-hearing-for-negaunee-data-center-ordinance-to-be-held-on-aug-13/"
   }
  ]
