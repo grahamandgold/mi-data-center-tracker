@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-13T21:56:02Z",
+ "updated_at": "2026-08-13T22:54:20+00:00",
  "generator": "grok-wire-agent",
  "items": [
   {
@@ -49,5 +49,5 @@
    "judge_note": "New council vote extending East Lansing's moratorium to a specific new date (March 2027), a concrete decision distinct from the earlier aquifer-focused pause."
   }
  ],
- "accuracy_checked_at": "2026-08-13T21:55:56+00:00"
+ "accuracy_checked_at": "2026-08-13T22:54:17+00:00"
 }

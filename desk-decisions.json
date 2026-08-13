@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.dropsitenews.com/p/data-centers-michigan-democrats-primary-el-sayed-stevens",
-   "title": "Michigan Senate Hopefuls Split on Data Center Costs to Residents",
-   "at": "2026-07-29T23:35:44+00:00",
-   "by": "news_judge",
-   "note": "score 4/10, duplicate: Duplicate of already-live 'Data Center Battles Loom for Michigan Senate Primary Candidates' — same race, same candidate positions on data centers."
-  },
-  {
    "url": "https://www.newsweek.com/michigan-residents-sue-ai-data-center-noise-not-alone-12254427",
    "title": "Dowagiac Residents File Lawsuit Alleging Constant Noise From Nearby AI Data Center",
    "at": "2026-07-29T23:35:44+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-13T21:56:01+00:00",
    "by": "news_judge",
    "note": "score 4/10: Advocacy coalition town hall is a scheduled event but lacks the weight of an official government action or filing."
+  },
+  {
+   "url": "https://www.greatlakesnow.org/2026/08/13/are-data-centers-the-roads-of-the-future-inside-the-ai-infrastructure-debate/",
+   "title": "Data center debates intensify nationwide as communities weigh energy and water demands",
+   "at": "2026-08-13T22:54:20+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece with only vague reference to Michigan mirroring broader discussions; lacks specific Michigan development, decision, or filing."
   }
  ],
  "auto_published": [
