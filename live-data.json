@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-13T06:23:17Z",
+ "updated_at": "2026-08-13T08:03:40Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Michigan regulators say lawmakers can cut power prices amid data center growth",
+   "dek": "State energy regulators told lawmakers that new policies could lower electricity rates even as data centers increase demand. The comments come as multiple Michigan counties weigh large computing projects. Residents could see bill impacts depending on how the legislature acts on power planning.",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONHRYQU5Ua3hVU19yUkdDUENaZFVUY1BoWUsxVWdYQmxhOUM1dGljdTVTVTBKQ2htYWJCdTBOZzd2NVFCbjJXNzRzd3RmaXlqa1R3OHEzTEpPdHVoVG10WFhqWncxbGdKWm1XbGlneDhuS2NMZ0lqOEJscGE3bHhvdjJKRnh0SlpYYWs5YTB4X0RZQ2NPbk5kRG45M3hLTHZsUjN0QlRKRnBieDZocEN1T1ktSkxNc01CVUV0UWNUSXJjMkdhNnR0Y0VtZ05aTmFyMlhTLUgtRnRnTFVlQnN4RUtqbHcyZw?oc=5",
+   "source": "The Detroit News",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Power & Grid",
+   "iso": "2026-08-13T04:02:00Z",
+   "id": "1f4261345e86",
+   "origin": "google-news",
+   "source_title": "Michigan lawmakers could lower power prices, energy regulators argue - The Detroit News",
+   "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONHRYQU5Ua3hVU19yUkdDUENaZFVUY1BoWUsxVWdYQmxhOUM1dGljdTVTVTBKQ2htYWJCdTBOZzd2NVFCbjJXNzRzd3RmaXlqa1R3OHEzTEpPdHVoVG10WFhqWncxbGdKWm1XbGlneDhuS2NMZ0lqOEJscGE3bHhvdjJKRnh0SlpYYWs5YTB4X0RZQ2NPbk5kRG45M3hLTHZsUjN0QlRKRnBieDZocEN1T1ktSkxNc01CVUV0UWNUSXJjMkdhNnR0Y0VtZ05aTmFyMlhTLUgtRnRnTFVlQnN4RUtqbHcyZw?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
   {
    "title": "Chippewa County blocks new data centers for a year",
    "dek": "Chippewa County supervisors approved a 12-month moratorium on data center proposals. The pause gives officials time to study power, water and zoning impacts before any large projects move forward. Residents in the rural Upper Peninsula county now have a temporary shield from rapid industrial development.",
@@ -35,6 +52,23 @@
    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNUJnZjV3MXZMVDl6WUhPUkRKMEgyQ0o0aW1QaEJIUUY0VmhsYzlCcG9yNDFJT3prSDB6dUZSRDVtMnB3TU5Wd1NXazg0clZuSEZTREFXcHN3SXRFbF8tZHFkWlp5WUVRQndBQURuUWpja3gxZm9ZdTZkY0MzRlBBOWI0ZmNHOVJCb1UyUFF0NDc3ajFJa1pocg?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
+  },
+  {
+   "title": "Wixom moves to tighten rules as data center moratorium deadline hits",
+   "dek": "Wixom city council is drafting new zoning rules for data centers just weeks before its six-month moratorium expires. The measures aim to limit noise, setbacks and power infrastructure near homes. Residents in this Oakland County suburb have pressed for stronger protections against large facilities.",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOEFBM3NET3RhUkZocXU4THNqVURNc3RVRTMzSFJLSlVKdWlTWHRMNFBNUUVPWE9oekFwMDNzUmkyZDJWd3pyTHc1MjY2SXFURlJ6UjF0S2dQOExtTW40NUphUzJ6dlJIeXRRQ3laNVhQY3RhY1FWTW5YamlqbGtYdGZ6SjR2aUpyckFBU0dzcG1HZ1Z5M19aMm5MYUtGWTNQUVNVZnEtRndnRUN2N1lyUTc3S05EVVRELWdOSkxuUzJodU5n?oc=5",
+   "source": "WXYZ Channel 7",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Oakland",
+   "tag": "Local Government",
+   "iso": "2026-08-12T23:08:37Z",
+   "id": "df8c7045c1b3",
+   "origin": "google-news",
+   "source_title": "Wixom city council takes steps to regulate data centers as 6-month moratorium nears end - WXYZ Channel 7",
+   "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOEFBM3NET3RhUkZocXU4THNqVURNc3RVRTMzSFJLSlVKdWlTWHRMNFBNUUVPWE9oekFwMDNzUmkyZDJWd3pyTHc1MjY2SXFURlJ6UjF0S2dQOExtTW40NUphUzJ6dlJIeXRRQ3laNVhQY3RhY1FWTW5YamlqbGtYdGZ6SjR2aUpyckFBU0dzcG1HZ1Z5M19aMm5MYUtGWTNQUVNVZnEtRndnRUN2N1lyUTc3S05EVVRELWdOSkxuUzJodU5n?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
   },
   {
    "title": "Corunna tightens rules for any future data centers",
@@ -148,40 +182,6 @@
    "origin": "google-news",
    "source_title": "Data center moratorium extended in Rochester Hills - MLive.com",
    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVnRVVHNheEljOE1CWXg4eHZ3U2RkeDlycXI0VUg3RjI5RUpjMU9NekNIUnQ4RWRuVGpDbTI2eUpnNVJKRmR0OGh6dzRnNW1mcTdDQVpUOHo3U1JBcHYyVUlYeUIxYlR0NnZTWmFuN0pxZXFLMDVRMXNIdEh5Nk1iZlE2bGdXT3NBTVd1UXNNbC1YN3VUVi1LcEl0SlNvVE3SAbMBQVVfeXFMTzhUelQ1Q241UWI3b21HeDE5QkRlN1MzY19IV0RrSmNyelJUdGJYMXBoZ0ZxSmRNbVJQY2pURHZibEZrYXcydm5vc2lyMkZmZExYTmw5c05TODE4Vm9OYjlPSDhuYzRVcFc4T1ROblJhakxvZXhRajNqeWQ2d0xwOGxOZGNCUlczM1loalRuT3ZtdnFKVVI0RllZQ1RuM0VZTmgycjcyUERaUlVOcFRVSUdDd1k?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
-  },
-  {
-   "title": "Nessel and green groups challenge DTE power deals for Saline data centers",
-   "dek": "Environmental groups and Attorney General Dana Nessel are appealing contracts that would let DTE supply power to large data centers in Saline Township. The outcome could affect electric rates and grid reliability for Washtenaw County residents. The appeal centers on whether the deals properly protect ratepayers from the massive new load.",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBuNUpiemdoVFdLOXNyVThxdnlRMUgtU1c2amJ1YzlOdWNsTG9uR2FPOG85VFhkaWIySVViaDJOMmplRnJacXV4Z0tONjQ0TUFPdGRIX0Rxc2NVSUdZSXRCZ0dxc3hBM3lJMDRBMTFwV0pFZHhPaEdEV3RB?oc=5",
-   "source": "Planet Detroit",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Power & Grid",
-   "iso": "2026-08-12T15:30:41Z",
-   "id": "02c9168874f1",
-   "origin": "google-news",
-   "source_title": "Environmental groups, Nessel make arguments in appeal of DTE Energy's Saline Township data center contracts - Planet Detroit",
-   "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBuNUpiemdoVFdLOXNyVThxdnlRMUgtU1c2amJ1YzlOdWNsTG9uR2FPOG85VFhkaWIySVViaDJOMmplRnJacXV4Z0tONjQ0TUFPdGRIX0Rxc2NVSUdZSXRCZ0dxc3hBM3lJMDRBMTFwV0pFZHhPaEdEV3RB?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
-  },
-  {
-   "title": "Ypsilanti Township vows fight against UM's $1.2B Huron River data center",
-   "dek": "University of Michigan has picked a Huron River site in Ypsilanti Township for a major computing facility. Township officials say they will oppose the project over concerns about water use, traffic, and local control. Residents 30 miles away could see indirect effects on regional power demand and tax base.",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mU240QVBVZ0h1M0NaYlNHY2VPWHVuTU1YOUlIT2ZvWjBYc2h6WWY0UTFQWnA0eGNrOEt3VllXN1dJcllsM1QtTW5JQ0tOaWhTdWgwLWlpMUlaNzJCU1FNcnFWNDh3QVp6QTMzaTBWQTlzQ2hIUF8tSA?oc=5",
-   "source": "Planet Detroit",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Local Government",
-   "iso": "2026-08-12T14:39:22Z",
-   "id": "cda47689d929",
-   "origin": "google-news",
-   "source_title": "University of Michigan confirms Huron River site for $1.2 billion computing facility: Ypsilanti Township vows to fight back - Planet Detroit",
-   "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mU240QVBVZ0h1M0NaYlNHY2VPWHVuTU1YOUlIT2ZvWjBYc2h6WWY0UTFQWnA0eGNrOEt3VllXN1dJcllsM1QtTW5JQ0tOaWhTdWgwLWlpMUlaNzJCU1FNcnFWNDh3QVp6QTMzaTBWQTlzQ2hIUF8tSA?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
   }

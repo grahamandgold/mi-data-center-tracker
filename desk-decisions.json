@@ -1,27 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSGdzcm1FNVFlMzVVQ0lyamJJZUZpSnFBajYwWmlCU2ZYLVoxY2ZkYWRxQV90UXpucFVNVllOZnNjV1poS3lLbGEyT0s1OVItUHBMSzh3WktxaHJPWWpMNk55bXVBNTZWcl84LTFMTmZsQTJ0YldhZzUtX2FLRkctS29QRjhzYnBBcGlLekdweXp2NGFDcmk2Znk3NDA5c2xjSF9QZ2dNMWVVZi1VM1E5WE5uVFJ3X2JQMVJYT1RiREdkQlFWaFYxaWcyZWZNX21DUlJQTUdMY3dqaDZkYlBla2Y5OXgwRjNEME4tOVdDWHLSAfABQVVfeXFMTUhnc3JtRTVRZTM1VUNJcmpiSWVGaUpxQWo2MFppQlNmWC1aMWNmZGFkcUFfdFF6bnBVTVZZTmZzY1daaEt5S2xhMk9LNTlSLVBwTEs4d1pLcWhyT1lqTDZOeW11QTU2VnJfOC0xTE5mbEEydGJXYWc1LV9hS0ZHLUtvUEY4c2JwQXBpS3pHcHl6djRhQ3JpNmZ5NzQwOXNsY0hfUGdnTTFlVWYtVTNROVhOblRSd19iUDFSWE9UYkRHZEJRVmhWMWlnMmVmTV9tQ1JSUE1HTGN3amg2ZGJQZWtmOTl4MEYzRDBOLTlXQ1hy?oc=5",
-   "title": "Upper Michigan teacher cuffed after clapping for data-center opponents",
-   "at": "2026-07-28T04:18:41+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicate of already-live 'Teacher cuffed at Michigan meeting for clapping against data center' — same arrest incident at same meeting, just reworded with 'Uppe"
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONGY1LWR5c0k2cUJYY3lNeEl0cUlPbUg2SE5rbW4wX2ZtWTlZT0VaRkpoenlGUXFTN01xVHg2V2YwelFKemxaaURFeDNMODRTcWRPSDlSR1U1aG9wbmxZRU1PYTlOS1F6eUVzMURUb29QaFMwTEVUU09ZQ0d6ZlRjTC1EZXdGN1NmQzRObU1lLVppOHFTOE5sZU0ybHFkVndNM1g3WWJTREdHTnI4OUE4?oc=5",
-   "title": "Michigan data centers' constant hum sparks resident noise complaints",
-   "at": "2026-07-28T07:18:50+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: Thin rehash of already-covered noise complaints from Dowagiac and other locations without reporting a new specific event, filing, or official action."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNWtBX0ZIWGowRHJiZ09YcFNWbGFyTGt2S3VEMjEzUFpIUVVkVnJVQ1JjQTJfejhnXzBJejlOQmFwTW9zTnpWWTNGSGxNSVRuT2IyQ05taGdycXF4Rm5rYXBPbklSemFRNkE4RXEya1JXQVktT2dUaEJ6aVB4T0VxSmVtejdRSTdYQkNsbVBhbkdjMkZMS1ZCQXEyS1ZMak1LeXhrbUJUSF9yLTRBTHhB?oc=5",
-   "title": "Michigan governor candidates clash over data center power costs",
-   "at": "2026-07-28T12:23:57+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Duplicate of already-live 'Senate candidates split on letting data centers drive up Michigan power bills' and killed 'Gubernatorial hopefuls clash over who pays"
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTVZyeFlpS2xwRXUzVnlVcW9ZclZZTmktZEMyblhQelZuTHlVSXJtcUdjdVo3N25leF8wNzh5bzlIZHJWSW5DWFplRUtYcmVmSnA4NDAzN0tKMFhQSl9XdUFLdnVtb1BuSGhwbHpxZ2x4c2x1WXlWakljU2NlVU9NY2t2QmxfTE91NGNqOEFnMVV3cm4ySjEzNVJ6ZjV3YlNRZ1l0MGJmMXY2UlF2X0N3TUxRSlpURTlx?oc=5",
    "title": "Michigan grid faces blackout risk as AI data centers pile on demand",
    "at": "2026-07-28T15:02:46+00:00",
@@ -1399,6 +1378,27 @@
    "at": "2026-08-13T06:23:16+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Duplicate of 'Ypsilanti Township rejects University of Michigan data center site' already live; same rejection event reworded."
+  },
+  {
+   "url": "https://www.clickondetroit.com/all-about-ann-arbor/2026/08/12/we-dont-matter-to-them-ypsilanti-township-pushed-back-on-university-of-michigan-los-alamos-data-center/",
+   "title": "Ypsilanti leaders say U-M ignored them on Los Alamos-linked center site",
+   "at": "2026-08-13T08:03:40+00:00",
+   "by": "news_judge",
+   "note": "score 4/10, duplicate: Rehashes the already-live Ypsilanti Township rejection story with the same grievances about being ignored and the Los Alamos connection."
+  },
+  {
+   "url": "https://fortworthreport.org/2026/08/12/data-center-moratorium-takes-first-steps-after-fort-worth-city-councils-unanimous-vote/",
+   "title": "Fort Worth nears 90-day halt on new data centers after resident pressure",
+   "at": "2026-08-13T08:03:40+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Fort Worth Texas story already killed; this is the same 90-day pause development in a non-Michigan city."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN1NUSGJraFdQZWE1TnM4dmpMWTZCY09VUDFOWHhGOGViakNFVjRodlF1YVNaT3VYNlVjVGUtSk1hNGdadzJaSVFKTUcyLV8yVHB3LVhLcWI3aUdYdDVtV09uV2xTUHloOEpqVnJnTERfTXRnd3pMbGpVZUpYYnA4Z1hjcFdyUDMxYXF4X0gwZzg1UUlDMWcwTDYxalR5eDFlS1U0bQ?oc=5",
+   "title": "El-Sayed uses Michigan data center backlash to fuel Senate campaign",
+   "at": "2026-08-13T08:03:40+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: El-Sayed campaign angle on data center backlash was already killed; this is the same political positioning story."
   }
  ],
  "auto_published": [
@@ -2781,6 +2781,18 @@
    "title": "Garfield Township Builds Record for 18-Month Data Center Pause",
    "judge_score": 7,
    "at": "2026-08-13T06:23:17Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONHRYQU5Ua3hVU19yUkdDUENaZFVUY1BoWUsxVWdYQmxhOUM1dGljdTVTVTBKQ2htYWJCdTBOZzd2NVFCbjJXNzRzd3RmaXlqa1R3OHEzTEpPdHVoVG10WFhqWncxbGdKWm1XbGlneDhuS2NMZ0lqOEJscGE3bHhvdjJKRnh0SlpYYWs5YTB4X0RZQ2NPbk5kRG45M3hLTHZsUjN0QlRKRnBieDZocEN1T1ktSkxNc01CVUV0UWNUSXJjMkdhNnR0Y0VtZ05aTmFyMlhTLUgtRnRnTFVlQnN4RUtqbHcyZw?oc=5",
+   "title": "Michigan regulators say lawmakers can cut power prices amid data center growth",
+   "judge_score": 6,
+   "at": "2026-08-13T08:03:40Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOEFBM3NET3RhUkZocXU4THNqVURNc3RVRTMzSFJLSlVKdWlTWHRMNFBNUUVPWE9oekFwMDNzUmkyZDJWd3pyTHc1MjY2SXFURlJ6UjF0S2dQOExtTW40NUphUzJ6dlJIeXRRQ3laNVhQY3RhY1FWTW5YamlqbGtYdGZ6SjR2aUpyckFBU0dzcG1HZ1Z5M19aMm5MYUtGWTNQUVNVZnEtRndnRUN2N1lyUTc3S05EVVRELWdOSkxuUzJodU5n?oc=5",
+   "title": "Wixom moves to tighten rules as data center moratorium deadline hits",
+   "judge_score": 7,
+   "at": "2026-08-13T08:03:40Z"
   }
  ]
 }
