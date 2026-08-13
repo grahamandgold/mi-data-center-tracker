@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTDZpbUdxYjgzd1IyYVkzb0J5MzBNb2VaYURPTFd1RmMxd2ZLZkdZZXBrNUx4bWVXUzRva283eUlxWURYSmNhdnlOSDUwaGktaTNyZmp6ZzYtcUdJWUhkbmxnR3NBNUVxdlpiVTQyR3VRUWY2WV9QQVQ3aFd0XzhKYm9LSXBlZ2tTOU42U0IzQ1A?oc=5",
-   "title": "Data centers split Michigan Dems ahead of primary",
-   "at": "2026-07-29T18:34:19+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Thin political trend piece about candidate positions without reporting a specific filing, debate, or vote; overlaps thematically with the already-live $300K pri"
-  },
-  {
    "url": "https://bridgemi.com/michigan-government/where-michigan-governor-candidates-stand-on-data-centers-the-environment/",
    "title": "Gubernatorial Candidates Split on Data Center Incentives, Local Control and Resource Protections",
    "at": "2026-07-29T19:56:09+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-13T16:29:12+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: This is the same Ypsilanti Township rejection of the U-M data center site already live and killed multiple times in different phrasings."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd1JfX2llaVhfYzVTMm9JWWpGZjd1dENSVXczQUFnN0ZXdUlHMTJPS2hHZWYyYU5FcG80dW5wT2dMLVc4aThkVGVha0duMUg5MkRPMjV0aUc0QWFObVdfblFzcl9zcHh5OEhURGl3aERFTnhGSGMtNnh5N2VzS1pUSUlXT2ZZX3RPdGpJb3RZdE9xQlhqUTlmUnRGWTJ6Q25pVEtzNG80WGdGRnFxdUFESg?oc=5",
+   "title": "Garfield Township weighs year-long halt on new data centers",
+   "at": "2026-08-13T17:33:19+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This is the same Garfield Township year-long data center freeze already live in the system, just reworded."
   }
  ],
  "auto_published": [
