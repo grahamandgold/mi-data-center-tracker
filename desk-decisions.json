@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://bridgemi.com/michigan-government/where-michigan-governor-candidates-stand-on-data-centers-the-environment/",
-   "title": "Gubernatorial Candidates Split on Data Center Incentives, Local Control and Resource Protections",
-   "at": "2026-07-29T19:56:09+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Rehashes the same gubernatorial candidate positions already killed as 'Governor candidates clash over data center power costs' and 'Michigan gov hopefuls split "
-  },
-  {
    "url": "https://rbj.net/2026/07/29/hochul-data-center-moratorium-power-concerns-henrietta/",
    "title": "Hochul Tells NY Data Centers to Pay for Power or Supply Their Own",
    "at": "2026-07-29T19:56:09+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-13T17:33:19+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: This is the same Garfield Township year-long data center freeze already live in the system, just reworded."
+  },
+  {
+   "url": "https://www.datacenterdynamics.com/en/news/bloomberg-nef-texas-grid-pause-puts-20-percent-of-us-data-center-pipeline-at-risk/",
+   "title": "Texas grid pause puts 20% of U.S. data center pipeline at risk, BloombergNEF warns",
+   "at": "2026-08-13T18:31:30+00:00",
+   "by": "news_judge",
+   "note": "score 2/10: National trend piece about Texas grid issues with no Michigan angle or relevance to Michigan data center buildout."
   }
  ],
  "auto_published": [
