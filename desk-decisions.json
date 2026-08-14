@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT0F1ZGc5RXZBWnNIdkstNnZNOC1XR21INHpsSVk2SF9OaFV3eWEzRG9Bems5ZWdvc05mRVJRM3dCTEI2N3JNNHVaNkhVX01Ld05CYlc2am9IVDdCVklibTdOTW1oOTZnUnJBTXRIb3lrMHk0azIyYTZ1YUhYOVlFVWs4ZnZfY1Nid2hkNkQ5RXRpV19NOUZlLU4xa2VEcTMwNTV4cF9hdS1FSC1UWUlQQ0RHSUsxZGxIMXQ2ZGNRU1VPMXlTMllz?oc=5",
-   "title": "Data center fights reshape Michigan primary races",
-   "at": "2026-07-31T06:52:42+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Thin trend piece aggregating campaign positions already covered in live stories (District C race, El-Sayed opposition) without reporting a new filing, debate, p"
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ3AtaEdoZVpzSFZHekh2QWFZTHp1Y2Vfc2JRR2pTcDk5dnZ4bWVMUDNlY2h2T2FNUFVNVHZiSWktdHBiYmV2SFRvQlBnVEdsOXMxcmJnY3NtY2x2aFdEZTZ1YjRCU2JJS2hFN1JoZXF5a2o3LTRTNkEzTTg1RllmLWgxNjhwZE1zNVB4M3JSYjJJQmtabXNoNVprRGJhUi0yVkIzR3M4RmdycWJ5SUVLMkJmQS0yMzRyamNj?oc=5",
-   "title": "$6M crypto liquidation fast-tracks Michigan data center, hastening grid strain",
-   "at": "2026-07-31T09:51:06+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: This is the same Bitcoin liquidation story already live as 'Hyperscale cashes out Bitcoin to bankroll Michigan AI campus' and killed multiple times in various r"
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOFRSY1c5U3NXeXM2bWdvLXFCY0pwcTBJS2R2YmU4MW1RZVVpNlBld0ZWTVMya1A5YzREU1p2TWp3RWhRMTh2MzUzamdReExiek55ZGJzdnlpUmVUdks4QTV2N1hEb0dwUFdJbXBrNjYzQTU1X1JVRnJTZjQyeTVNbXdoZU10cDM1?oc=5",
    "title": "Bitcoin sale funds massive AI facility in Michigan, raising power and tax concerns",
    "at": "2026-07-31T12:07:20+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-14T21:34:22+00:00",
    "by": "news_judge",
    "note": "score 4/10, duplicate: This is the same U-M Ypsilanti Township data center affirmation already killed twice; the township opposition angle was also previously killed."
+  },
+  {
+   "url": "https://www.crainscleveland.com/politics-policy/ccl-ohio-supreme-court-data-center-20260814/",
+   "title": "Ohio Supreme Court issues key ruling on data center project approvals",
+   "at": "2026-08-14T21:54:27+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Out-of-state court ruling with only tangential relevance to Michigan's data center buildout; thin national context piece."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rNGlhNGF6azB6enRXQ2Nnbkl3cGJnTGc5RV83clYtMnNHYTJRQVJvWFhxY19BS2pnT0xwTGZmQzBmWFNYVzJjbjNiVl9ha091QTdCQVJ5cno?oc=5",
+   "title": "Hyperscale sells $43M in Bitcoin to build Michigan data center",
+   "at": "2026-08-14T21:54:27+00:00",
+   "by": "news_judge",
+   "note": "score 1/10, duplicate: Same Bitcoin liquidation event already live: 'Hyperscale Data sells $43M in Bitcoin to fund Michigan data center push.'"
   }
  ],
  "auto_published": [
@@ -2907,6 +2907,12 @@
    "title": "Manistee Township joins pause on new data centers",
    "judge_score": 8,
    "at": "2026-08-14T19:53:58Z"
+  },
+  {
+   "url": "https://michiganadvance.com/2026/08/14/in-bid-to-stop-saline-data-center-tax-break-an-attorney-argues-the-township-skipped-crucial-steps/",
+   "title": "Resident challenges Saline Township tax abatement for $43B hyperscale data center",
+   "judge_score": 7,
+   "at": "2026-08-14T21:54:28Z"
   }
  ]
 }

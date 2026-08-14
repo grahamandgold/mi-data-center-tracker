@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-14T21:34:11+00:00",
+ "updated_at": "2026-08-14T21:54:28Z",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -88,6 +88,21 @@
    "judge_score": 6
   },
   {
+   "iso": "2026-08-14T13:00:00Z",
+   "region": "metro",
+   "cat": "Washtenaw Co.",
+   "tag": "Money",
+   "title": "Resident challenges Saline Township tax abatement for $43B hyperscale data center",
+   "dek": "An attorney argues the township skipped required steps for the Oracle-OpenAI-Related Digital project, asking the state tax commission to deny the break.",
+   "source": "Michigan Advance",
+   "url": "https://michiganadvance.com/2026/08/14/in-bid-to-stop-saline-data-center-tax-break-an-attorney-argues-the-township-skipped-crucial-steps/",
+   "breaking": false,
+   "lead": true,
+   "id": "510b5f985286",
+   "accuracy": "checked",
+   "judge_score": 7
+  },
+  {
    "title": "Hyperscale Data sells $43M in Bitcoin to fund Michigan data center push",
    "dek": "The crypto miner turned data-center developer unloaded 685 BTC to slash $30M in debt and boost liquidity. The cash directly supports its Michigan buildout plans. Readers statewide should watch how the company’s finances shape power demand and local tax deals.",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kQXo1ckx2ellHRzVVekhIR0toTjZzUjlCNGtJV0MtSm5rTVU5V0I4dFZCR0NBZFppbjNRdGhLcUJMOGVZaXo3NWx4U2gwN0lNdmtHSUdqWC1DWFBJeHB5dXgyZTd2QUtkYTVtUDNXUWxhWmNzOUE?oc=5",
@@ -171,23 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS0pGTWVKdUowNFRaaF9MUktwR0NRSHZXdF8yOHBWYUJaMWlpM2syRWh4ODdHaWZyeEFWRjFWWUtMSG9GUVdITERCQVhFX0RtWGVrVWNxdWtiWHBkQUlnTEY2TlQ4V3pFMC1iNjVVajEwdERDSXdPVlZ6dGlVMGw2YzZuWmxiUjVaS1hIN1YxSEF1c0pxWmUwVkhGWXU?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Marshall council faces credible threats tied to data center fight",
-   "dek": "Police confirmed credible threats against Marshall City Council members after residents pushed back on a proposed data center. The dispute centers on power demand, noise, and tax incentives in the small Calhoun County city. Officials are weighing extra security while the project review continues.",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZkdadXRhMjJabkRQSWZzYUZ5NlVHYTdkYUJ6d0NYYU1hMlNuYTExTElscTlDLXBQRHZwalBqXzRkelJJR0hUZjh1Z2xTTVJoajRXVW5DbTNPOUppaWVvWDZPWlY1Z1dUMkNkaThCOTdpNkFaZHVwTzVBZENWZlJ2dWx5WGFhSmY0dUdGb0kxdW9MZ0xUamJMTlN6TzVaOE1TNTVyaXZmdE82SzhJV1U2WEc3ZXdveGVSTnlyUHZ0d0tHd21XYy04Qlp4UlZsU2NJdjB3UE1OR3I?oc=5",
-   "source": "WWMT",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Calhoun",
-   "tag": "Local Government",
-   "iso": "2026-08-14T00:34:56Z",
-   "id": "0b575fe5e8be",
-   "origin": "google-news",
-   "source_title": "'Credible' threats over data center dispute made against Marshall City Council - WWMT",
-   "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZkdadXRhMjJabkRQSWZzYUZ5NlVHYTdkYUJ6d0NYYU1hMlNuYTExTElscTlDLXBQRHZwalBqXzRkelJJR0hUZjh1Z2xTTVJoajRXVW5DbTNPOUppaWVvWDZPWlY1Z1dUMkNkaThCOTdpNkFaZHVwTzVBZENWZlJ2dWx5WGFhSmY0dUdGb0kxdW9MZ0xUamJMTlN6TzVaOE1TNTVyaXZmdE82SzhJV1U2WEc3ZXdveGVSTnlyUHZ0d0tHd21XYy04Qlp4UlZsU2NJdjB3UE1OR3I?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
   }
  ],
  "national": {
