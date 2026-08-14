@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-14T17:01:58+00:00",
+ "updated_at": "2026-08-14T17:58:48Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Saline Twp tax break for data center faces legal challenge",
+   "dek": "An attorney claims Saline Township bypassed required steps when approving a tax abatement for a large data-center project. The challenge could delay or derail the deal that would shift millions in taxes away from local services. Nearby residents are watching how the fight affects their property taxes and school funding.",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUXJ1bG51QWZZMlpKcDBRd2t3UjhQcnduT3lvNm5lTDZtaU1vZk9oZUYybGFrSXVfeVlMZElVZWgzbTNJZ2ViUThGNmJ3OHR5eEZ2UXVRbDZpQ0NKdWxWYklyWGNNU1ZBbWV0RkxYV3JSUlRiS2NrUDc0RWxBUmJBekQzSWctUUFoSG40a0g3SVBSV1M1cDhLMVBNRGVmZlctdWFyWVR5WFVYd3pEekt1Ri1QcG9mT2hhTE9waEMwWGoxN1daYk85cHBOYXAyN0dTcE0w?oc=5",
+   "source": "Michigan Advance",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Local Government",
+   "iso": "2026-08-14T17:14:26Z",
+   "id": "7375f4f35bb8",
+   "origin": "google-news",
+   "source_title": "In bid to stop Saline Data Center tax break, an attorney argues the township skipped crucial steps - Michigan Advance",
+   "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUXJ1bG51QWZZMlpKcDBRd2t3UjhQcnduT3lvNm5lTDZtaU1vZk9oZUYybGFrSXVfeVlMZElVZWgzbTNJZ2ViUThGNmJ3OHR5eEZ2UXVRbDZpQ0NKdWxWYklyWGNNU1ZBbWV0RkxYV3JSUlRiS2NrUDc0RWxBUmJBekQzSWctUUFoSG40a0g3SVBSV1M1cDhLMVBNRGVmZlctdWFyWVR5WFVYd3pEekt1Ri1QcG9mT2hhTE9waEMwWGoxN1daYk85cHBOYXAyN0dTcE0w?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "DTE eyes Milan Twp site for new gas plant to feed data-center demand",
    "dek": "DTE is scouting Milan Township for a natural-gas power plant aimed at serving large new loads. Residents 30 miles away will feel the impact through higher utility rates and air-quality trade-offs if the plant is approved. The move shows how Michigan townships are being pulled into the data-center power scramble.",
@@ -171,23 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdHY5TVZPWlluOTBVTEo0anphWUJVM05HbF91QjNxUGVFOXJZb1RnNHhsQWRZdFhJS0FCcVFGMm9RdmRGVmlZUEtNejFkZGpqRWRzcGVWNzRTd1dLcjBEZVZ1aWp6dDBwS2p0UVFGUi13NGtwN200TmdTQjVoZDVqZ3lpcFVOVURNMDFaQkExSDhPYVo0ZXc?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
-  },
-  {
-   "title": "Taxpayers face millions in lost revenue from proposed Oracle campus tax exemption",
-   "dek": "An attorney is challenging the tax abatement Saline Township is considering for Oracle's proposed data center. The deal would let the company skip years of property taxes on a multibillion-dollar campus. Washtenaw County taxpayers would shoulder the lost revenue while the project draws heavy power and water.",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR2FjenpBZnJJUmJQeXp4OVFHaUxEMjdhaEhienZIN1VUaUN0ZDQyRkZsS3ZNQnczTmRHTlNPRXlSVGdZR08yREZBbjItQjRoTDRpOS02T2xaSlNQTVVucks0dmlYU05OSXhxeGZSRXB4bDBYV1FUc3hBc2F0LWJ6Y2N6aGo4UFBvaXJfbHZNdks1M1BUZmRUME1aWGtkY0s4U0JRR3BUU0dfb3hRLXJPcw?oc=5",
-   "source": "WEMU",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Money",
-   "iso": "2026-08-13T21:31:00Z",
-   "id": "24dddf319d87",
-   "origin": "google-news",
-   "source_title": "Attorney challenges Saline Township tax break for Oracle's data center - WEMU",
-   "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR2FjenpBZnJJUmJQeXp4OVFHaUxEMjdhaEhienZIN1VUaUN0ZDQyRkZsS3ZNQnczTmRHTlNPRXlSVGdZR08yREZBbjItQjRoTDRpOS02T2xaSlNQTVVucks0dmlYU05OSXhxeGZSRXB4bDBYV1FUc3hBc2F0LWJ6Y2N6aGo4UFBvaXJfbHZNdks1M1BUZmRUME1aWGtkY0s4U0JRR3BUU0dfb3hRLXJPcw?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {

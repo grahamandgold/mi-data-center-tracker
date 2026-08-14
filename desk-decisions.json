@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VYzhUT0RUVzlsSkpGYko4ckY1ZWRCNEFJRWxFUTE3V09oU3U4TzRrSF9jQURObGFOempKZV9WcDdtdl9FaG9uQ3hKZDhDUk5oYjBSZHJTZ2xzeDg3ZTl0Wm0weS1MMGdfOTFaM3lXQVFnVnZNZ1cxY0hfdTlCZw?oc=5",
-   "title": "El-Sayed says Saline Township data center is the wrong project for Michigan",
-   "at": "2026-07-31T00:12:27+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: El-Sayed criticizing the Saline data center is already live in the first ALREADY-LIVE item; same candidate, same project, same criticism."
-  },
-  {
-   "url": "https://www.motherjones.com/politics/2026/07/data-centers-michigan-will-lawrence/",
-   "title": "Progressive Candidate Makes Data Center Opposition Central to Lansing-Area Campaign",
-   "at": "2026-07-31T04:04:52+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Campaign positioning piece that rehashes existing opposition across multiple townships without reporting a new filing, vote, or concrete development."
-  },
-  {
    "url": "https://www.aol.com/articles/ai-data-centers-michigan-grid-204758000.html",
    "title": "Michigan Grid Not Built for Gigawatt Data Centers, Expert Says",
    "at": "2026-07-31T04:04:52+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-14T17:02:01+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Duplicate of already-live 'Hyperscale Data sells $43M in Bitcoin to fund Michigan data center push' — identical transaction and company, merely reworded."
+  },
+  {
+   "url": "https://www.mlive.com/politics/2026/07/mlive-interactive-dashboard-tracks-the-data-center-battle-raging-across-michigan.html",
+   "title": "Data Center Moratoriums Now Cover More Than 1,500 Square Miles in Michigan",
+   "at": "2026-08-14T17:58:48+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Aggregate analysis piece quantifying moratorium footprint statewide—interesting context but no new decision or action."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVk9XVGVjQkR6aUw5cEg3M25BRVNGWTdNYUtmOS1rd1lHOEp4WFNtZ0poQVlyanBDbjdGTGRXOEk3M2NhcHNPMkxGa2JaUXZteTlMNzBkWkE2VUZneXVVYkd1cDFyS3BSS3B5UnJZU1lkNXJ2OG5XaXVNUFZ3QVJudWpJU0ZlTlQxR1p2V2VQTVEwWmlXcUQxOG5yMF83dXl1bWJLbGlfVllHLWV6MTBtWF9RVHFlaUNpY3ZmTkN6dFl5M2lSWW16SHp1Yi0?oc=5",
+   "title": "U-M locks in $1.25B AI supercomputer for Ypsilanti Twp",
+   "at": "2026-08-14T17:58:48+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: U-M selecting the Ypsilanti Township site is already live ('U-M picks Textile Road site for planned data center')."
   }
  ],
  "auto_published": [
@@ -2895,6 +2895,12 @@
    "title": "DTE eyes Milan Twp site for new gas plant to feed data-center demand",
    "judge_score": 8,
    "at": "2026-08-14T15:59:18Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUXJ1bG51QWZZMlpKcDBRd2t3UjhQcnduT3lvNm5lTDZtaU1vZk9oZUYybGFrSXVfeVlMZElVZWgzbTNJZ2ViUThGNmJ3OHR5eEZ2UXVRbDZpQ0NKdWxWYklyWGNNU1ZBbWV0RkxYV3JSUlRiS2NrUDc0RWxBUmJBekQzSWctUUFoSG40a0g3SVBSV1M1cDhLMVBNRGVmZlctdWFyWVR5WFVYd3pEekt1Ri1QcG9mT2hhTE9waEMwWGoxN1daYk85cHBOYXAyN0dTcE0w?oc=5",
+   "title": "Saline Twp tax break for data center faces legal challenge",
+   "judge_score": 8,
+   "at": "2026-08-14T17:58:48Z"
   }
  ]
 }
