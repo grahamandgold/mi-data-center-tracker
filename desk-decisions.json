@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.aol.com/articles/ai-data-centers-michigan-grid-204758000.html",
-   "title": "Michigan Grid Not Built for Gigawatt Data Centers, Expert Says",
-   "at": "2026-07-31T04:04:52+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: Generic expert commentary on grid capacity without a specific project decision, filing, or timeline—reads like national trend analysis."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZjZsdThicjdVeVFxb3VybVA5S0VrNUllUV9fODg4aEJzdDA3aEpiR1cyejY5R19TNVExd01vRDJZdUt6ODYxN0N3XzY5UGxtOGhFSm5Wdy0xbDB1RjU4aVNyeGQ1NDBnUUpkaHRIT1hkTkFzSS0wTHRmSW9PMVdhNFJlT1lKWVotRzM3OQ?oc=5",
    "title": "Hyperscale Data sells Bitcoin to fund $3B Michigan AI campus",
    "at": "2026-07-31T04:04:52+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-14T17:58:48+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: U-M selecting the Ypsilanti Township site is already live ('U-M picks Textile Road site for planned data center')."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZ0tncDk1dnZOSVNROTlvZ2VTV2tPcFlqcGRHdkRKMWxUWWlraVJ4NER4YzJoSGMtazhKem11M0I4aUhQUGNNYmRhY2hnRkhaWTZubTVKakgwUUFkS00wM0lxalpNdEEySjFabDJleTEzbnFlMlpJbkI3LUZmN2F2Q01tUHFqNGpBWVVoVm1uYzJHNEt0cnhmZkdFZS1XaWQ1cGhvT1ZoQlA1VGxKN1k2dDg2TFV4ZFp5M0RkWFJsWll6alVHNFVyTDN5SjFOM2NPb01VZjNONXoyZ19rUWwzRXVIZHRDRmhkNG1NNUtKa2V0Sjh2MGMyeW5lRTFKc2M?oc=5",
+   "title": "Data centers split Michigan candidates ahead of 2026 midterms",
+   "at": "2026-08-14T19:05:30+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Forward-looking political trend piece about 2026 campaigns without a specific filing, announcement, or concrete development today."
   }
  ],
  "auto_published": [
