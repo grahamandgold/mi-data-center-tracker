@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-14T15:01:21Z",
+ "updated_at": "2026-08-14T15:59:18Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "DTE eyes Milan Twp site for new gas plant to feed data-center demand",
+   "dek": "DTE is scouting Milan Township for a natural-gas power plant aimed at serving large new loads. Residents 30 miles away will feel the impact through higher utility rates and air-quality trade-offs if the plant is approved. The move shows how Michigan townships are being pulled into the data-center power scramble.",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSHQxUlRKa0VfQmNfTFZpNHd4cXJJU0pTODJYamFyYmIwUWE0UjhGcHNTWF9XLWhIUHRlMTF5SWlURzU2RW9wTmoyZTdYN3RQOWN1V1Q3Z2ZQTUFnVnJzN19QbjI4eUZ2TFozTHdWbU82Umc4RDF0cHJzZjV3eWxMLVo2S0FyN0xDdEIzclJB?oc=5",
+   "source": "The Sun Times News",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Power & Grid",
+   "iso": "2026-08-14T15:36:18Z",
+   "id": "704bd8677ab6",
+   "origin": "google-news",
+   "source_title": "DTE Considers Milan Township for Natural Gas Power Plant - The Sun Times News",
+   "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSHQxUlRKa0VfQmNfTFZpNHd4cXJJU0pTODJYamFyYmIwUWE0UjhGcHNTWF9XLWhIUHRlMTF5SWlURzU2RW9wTmoyZTdYN3RQOWN1V1Q3Z2ZQTUFnVnJzN19QbjI4eUZ2TFozTHdWbU82Umc4RDF0cHJzZjV3eWxMLVo2S0FyN0xDdEIzclJB?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "East Lansing keeps data-center freeze in place while writing new rules",
    "dek": "City leaders extended the moratorium so staff can finish regulations on power use and setbacks. Residents 30 miles away in surrounding townships now have a model to watch for their own zoning fights. The pause blocks any new proposals until the rules are locked in.",
@@ -171,23 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR2FjenpBZnJJUmJQeXp4OVFHaUxEMjdhaEhienZIN1VUaUN0ZDQyRkZsS3ZNQnczTmRHTlNPRXlSVGdZR08yREZBbjItQjRoTDRpOS02T2xaSlNQTVVucks0dmlYU05OSXhxeGZSRXB4bDBYV1FUc3hBc2F0LWJ6Y2N6aGo4UFBvaXJfbHZNdks1M1BUZmRUME1aWGtkY0s4U0JRR3BUU0dfb3hRLXJPcw?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "DTE, Consumers push to lock in bigger profits as data centers drive power demand",
-   "dek": "Michigan regulators want lawmakers to scrap automatic annual rate hikes and overhaul how DTE and Consumers Energy earn money. The change would affect how billions in new power costs for data centers and other big users get passed to residents. A Michigan reader 30 miles from any substation feels it in monthly bills and reliability.",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RV3lCbU9lRFg0RzFaRXdtckZoenBLWkVoRmVHNkJERS1saG5JaDlMOVdUcFVsclp2OVc4VXJGeTYzd3NSX29yWkdRbHlsVWtwaFF3S2lRd2cyV3hLNjBOT0ZhVDN2dUlsVUVHYzRVeVFpMGNhRGRrWQ?oc=5",
-   "source": "Planet Detroit",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Power & Grid",
-   "iso": "2026-08-13T19:58:13Z",
-   "id": "25493fb0607e",
-   "origin": "google-news",
-   "source_title": "Michigan regulators ask lawmakers to end annual rate hikes, change how DTE, Consumers make money - Planet Detroit",
-   "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RV3lCbU9lRFg0RzFaRXdtckZoenBLWkVoRmVHNkJERS1saG5JaDlMOVdUcFVsclp2OVc4VXJGeTYzd3NSX29yWkdRbHlsVWtwaFF3S2lRd2cyV3hLNjBOT0ZhVDN2dUlsVUVHYzRVeVFpMGNhRGRrWQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
   }
  ],
  "national": {
