@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOFRSY1c5U3NXeXM2bWdvLXFCY0pwcTBJS2R2YmU4MW1RZVVpNlBld0ZWTVMya1A5YzREU1p2TWp3RWhRMTh2MzUzamdReExiek55ZGJzdnlpUmVUdks4QTV2N1hEb0dwUFdJbXBrNjYzQTU1X1JVRnJTZjQyeTVNbXdoZU10cDM1?oc=5",
-   "title": "Bitcoin sale funds massive AI facility in Michigan, raising power and tax concerns",
-   "at": "2026-07-31T12:07:20+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: This is a rehash of the already-killed Bitcoin/Hyperscale stories about cashing out crypto to fund the Michigan AI campus—same event, same concerns, just reword"
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc0x5aEVielNhNkhKNXJIQ0R5MmozUmVyX3MxcWlIYkhueDBLSUZPMGs5bllqMWUzQk1HMzJKWVBkbTh2dkF0bnItQzFpa051emhieVJDbmN3SmxuMGNvMkF5Y3VjTVhqSDBidE9fMjhxZ3pMMTBJbkkyX3dzdlZRTF82Y3I2QkpkMlUwaDJta0o3TGkwWkJjOHdkZ1NqRzlUZXNkOGdLS0RYekVLS1hkT3ZB?oc=5",
-   "title": "Who pays for Michigan data centers? Fact-checkers examine Senate hopefuls' claims",
-   "at": "2026-07-31T15:02:33+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Thin rehash of the already-killed 'Michigan primary candidates split on data-center tax breaks' story, just repackaged as fact-checking rather than new substanc"
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU3hINU0xNTRLSkpxY05yZ1pmU3E2ZWZjZjF0Vy1TTjN6V3ZMTG1iZ0E0T3M3MW94ZkRadnowWG01QmUweWlqbGN6ZXVKWExZWFJjRkVOTFhhYnlZcEJKSjY1TGQ5dmZ1MWxRMzdWU2Zud25rLWtkLV9COWhTTzU2MW9ERjQxMnZhSU5qSnpqVGtYUGxZSVA0ZHJR?oc=5",
    "title": "Michigan Senate primary tests candidates on data center power deals",
    "at": "2026-07-31T16:51:38+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-14T21:54:27+00:00",
    "by": "news_judge",
    "note": "score 1/10, duplicate: Same Bitcoin liquidation event already live: 'Hyperscale Data sells $43M in Bitcoin to fund Michigan data center push.'"
+  },
+  {
+   "url": "https://www.datacenterdynamics.com/en/news/data-center-related-threats-made-against-local-authorities-in-marshall-michigan/",
+   "title": "Marshall officials get credible death threats over data center fights",
+   "at": "2026-08-14T22:32:46+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Same Marshall threats story already killed twice (Marshall police warn council of credible threats; Marshall officials receive threats tied to proposed data cen"
+  },
+  {
+   "url": "https://www.mlive.com/topic/data-centers/",
+   "title": "Michigan utilities in talks with data centers that could sharply raise power demand",
+   "at": "2026-08-14T22:32:46+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Vague statewide utility negotiations without specific projects, filings, or decisions—reads like a trend piece without concrete developments."
   }
  ],
  "auto_published": [
