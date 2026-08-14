@@ -1,7 +1,41 @@
 {
- "updated_at": "2026-08-13T23:52:15+00:00",
+ "updated_at": "2026-08-14T02:35:38Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Negaunee locks in zoning rules for any future data centers",
+   "dek": "Negaunee City approved a new ordinance that sets where and how data centers can be built. The rules give residents clearer standards on size, noise, and power use before projects reach the planning stage. Local officials say the step prevents rushed proposals that could strain city services and the electric grid.",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS0pGTWVKdUowNFRaaF9MUktwR0NRSHZXdF8yOHBWYUJaMWlpM2syRWh4ODdHaWZyeEFWRjFWWUtMSG9GUVdITERCQVhFX0RtWGVrVWNxdWtiWHBkQUlnTEY2TlQ4V3pFMC1iNjVVajEwdERDSXdPVlZ6dGlVMGw2YzZuWmxiUjVaS1hIN1YxSEF1c0pxWmUwVkhGWXU?oc=5",
+   "source": "WZMQ 19 News",
+   "region": "north",
+   "cat": "STATEWIDE",
+   "county": "Marquette",
+   "tag": "Local Government",
+   "iso": "2026-08-14T02:31:20Z",
+   "id": "97e863457b72",
+   "origin": "google-news",
+   "source_title": "Negaunee City passes data center zoning regulation ordinance - WZMQ 19 News",
+   "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS0pGTWVKdUowNFRaaF9MUktwR0NRSHZXdF8yOHBWYUJaMWlpM2syRWh4ODdHaWZyeEFWRjFWWUtMSG9GUVdITERCQVhFX0RtWGVrVWNxdWtiWHBkQUlnTEY2TlQ4V3pFMC1iNjVVajEwdERDSXdPVlZ6dGlVMGw2YzZuWmxiUjVaS1hIN1YxSEF1c0pxWmUwVkhGWXU?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
+  {
+   "title": "Marshall council faces credible threats tied to data center fight",
+   "dek": "Police confirmed credible threats against Marshall City Council members after residents pushed back on a proposed data center. The dispute centers on power demand, noise, and tax incentives in the small Calhoun County city. Officials are weighing extra security while the project review continues.",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZkdadXRhMjJabkRQSWZzYUZ5NlVHYTdkYUJ6d0NYYU1hMlNuYTExTElscTlDLXBQRHZwalBqXzRkelJJR0hUZjh1Z2xTTVJoajRXVW5DbTNPOUppaWVvWDZPWlY1Z1dUMkNkaThCOTdpNkFaZHVwTzVBZENWZlJ2dWx5WGFhSmY0dUdGb0kxdW9MZ0xUamJMTlN6TzVaOE1TNTVyaXZmdE82SzhJV1U2WEc3ZXdveGVSTnlyUHZ0d0tHd21XYy04Qlp4UlZsU2NJdjB3UE1OR3I?oc=5",
+   "source": "WWMT",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Calhoun",
+   "tag": "Local Government",
+   "iso": "2026-08-14T00:34:56Z",
+   "id": "0b575fe5e8be",
+   "origin": "google-news",
+   "source_title": "'Credible' threats over data center dispute made against Marshall City Council - WWMT",
+   "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZkdadXRhMjJabkRQSWZzYUZ5NlVHYTdkYUJ6d0NYYU1hMlNuYTExTElscTlDLXBQRHZwalBqXzRkelJJR0hUZjh1Z2xTTVJoajRXVW5DbTNPOUppaWVvWDZPWlY1Z1dUMkNkaThCOTdpNkFaZHVwTzVBZENWZlJ2dWx5WGFhSmY0dUdGb0kxdW9MZ0xUamJMTlN6TzVaOE1TNTVyaXZmdE82SzhJV1U2WEc3ZXdveGVSTnlyUHZ0d0tHd21XYy04Qlp4UlZsU2NJdjB3UE1OR3I?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "U-M picks Textile Road site for planned data center",
    "dek": "University of Michigan has named Textile Road its preferred location for a new data center project. The choice directly affects Washtenaw County residents through added power demand and potential tax revenue. Local readers 30 miles away will feel the impact on utility rates and township services if the project advances.",
@@ -152,40 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONHRYQU5Ua3hVU19yUkdDUENaZFVUY1BoWUsxVWdYQmxhOUM1dGljdTVTVTBKQ2htYWJCdTBOZzd2NVFCbjJXNzRzd3RmaXlqa1R3OHEzTEpPdHVoVG10WFhqWncxbGdKWm1XbGlneDhuS2NMZ0lqOEJscGE3bHhvdjJKRnh0SlpYYWs5YTB4X0RZQ2NPbk5kRG45M3hLTHZsUjN0QlRKRnBieDZocEN1T1ktSkxNc01CVUV0UWNUSXJjMkdhNnR0Y0VtZ05aTmFyMlhTLUgtRnRnTFVlQnN4RUtqbHcyZw?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
-  },
-  {
-   "title": "Chippewa County blocks new data centers for a year",
-   "dek": "Chippewa County supervisors approved a 12-month moratorium on data center proposals. The pause gives officials time to study power, water and zoning impacts before any large projects move forward. Residents in the rural Upper Peninsula county now have a temporary shield from rapid industrial development.",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMGVBVHBQQkc3eWJhcENoY0Fac1plM3NZTGdCT1p3RS00VjRrb0d1R1RHN2VzdlFudHFPNEdwRk91U2hLWWdnQzVOcXdKUk5MN2owdGhlOEYxTGpBT2FNV0gzNVFDZ0MxNFIwVmlZSHdhbzdRZEl1Z3U5RGRzY2lCOWlEQXN0c2tPejRJSjJvLUphMTIyVVNWMS0zcjJSZ1laOFhiWlNjYmpXZGhEOG4wck5nMktUSlVrRVdTeEF6aHlHcW1JTUtvNjdlM3J4ZDA?oc=5",
-   "source": "WKOW",
-   "region": "north",
-   "cat": "STATEWIDE",
-   "county": "Chippewa",
-   "tag": "Local Government",
-   "iso": "2026-08-12T23:37:00Z",
-   "id": "f7096799b12f",
-   "origin": "google-news",
-   "source_title": "Chippewa County passes 12-month moratorium on data centers - WKOW",
-   "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMGVBVHBQQkc3eWJhcENoY0Fac1plM3NZTGdCT1p3RS00VjRrb0d1R1RHN2VzdlFudHFPNEdwRk91U2hLWWdnQzVOcXdKUk5MN2owdGhlOEYxTGpBT2FNV0gzNVFDZ0MxNFIwVmlZSHdhbzdRZEl1Z3U5RGRzY2lCOWlEQXN0c2tPejRJSjJvLUphMTIyVVNWMS0zcjJSZ1laOFhiWlNjYmpXZGhEOG4wck5nMktUSlVrRVdTeEF6aHlHcW1JTUtvNjdlM3J4ZDA?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 9
-  },
-  {
-   "title": "Michigan residents sue data center over constant noise",
-   "dek": "Locals near an operating Michigan facility claim the hum and vibrations are ruining sleep and property values. The lawsuit tests whether existing noise rules can rein in hyperscale operations. A win or loss here could set precedent for other townships facing similar complaints.",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNUJnZjV3MXZMVDl6WUhPUkRKMEgyQ0o0aW1QaEJIUUY0VmhsYzlCcG9yNDFJT3prSDB6dUZSRDVtMnB3TU5Wd1NXazg0clZuSEZTREFXcHN3SXRFbF8tZHFkWlp5WUVRQndBQURuUWpja3gxZm9ZdTZkY0MzRlBBOWI0ZmNHOVJCb1UyUFF0NDc3ajFJa1pocg?oc=5",
-   "source": "bgr.com",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Local Government",
-   "iso": "2026-08-12T23:17:00Z",
-   "id": "cfb862a6397b",
-   "origin": "google-news",
-   "source_title": "Residents In Michigan Are Suing A Data Center Over Noise Pollution - bgr.com",
-   "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNUJnZjV3MXZMVDl6WUhPUkRKMEgyQ0o0aW1QaEJIUUY0VmhsYzlCcG9yNDFJT3prSDB6dUZSRDVtMnB3TU5Wd1NXazg0clZuSEZTREFXcHN3SXRFbF8tZHFkWlp5WUVRQndBQURuUWpja3gxZm9ZdTZkY0MzRlBBOWI0ZmNHOVJCb1UyUFF0NDc3ajFJa1pocg?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
   }
  ],
  "national": {
@@ -203,46 +203,6 @@
   "accuracy": "checked"
  },
  "meetings": [
-  {
-   "iso": "2026-08-13",
-   "body": "Negaunee City Council",
-   "topic": "Public hearing on zoning ordinance to regulate data centers, limiting them to mining and industrial zones with noise and height standards",
-   "region": "Northern Michigan",
-   "regionKey": "north",
-   "county": "Marquette",
-   "time": "7:00 PM",
-   "status": "Public hearing",
-   "urgent": true,
-   "link": "https://www.miningjournal.net/news/front-page-news/2026/07/public-hearing-for-negaunee-data-center-ordinance-to-be-held-on-aug-13/",
-   "linkLabel": "Meeting details"
-  },
-  {
-   "iso": "2026-08-13",
-   "body": "Negaunee City Council or Planning Commission",
-   "topic": "Public hearing on proposed data center ordinance limiting facilities to mining and industrial zones, with noise and height standards",
-   "region": "Northern Michigan",
-   "regionKey": "north",
-   "county": "Marquette",
-   "time": "TBD",
-   "status": "Public hearing",
-   "urgent": false,
-   "link": "https://www.miningjournal.net/news/front-page-news/2026/07/public-hearing-for-negaunee-data-center-ordinance-to-be-held-on-aug-13/",
-   "linkLabel": "Agenda/Notice"
-  },
-  {
-   "iso": "2026-08-13",
-   "body": "Michigan for Responsible Data Centers Coalition",
-   "topic": "Virtual town hall on Van Buren Township data center construction and regulations",
-   "region": "SE Michigan",
-   "regionKey": "metro",
-   "county": "Van Buren",
-   "time": "6:00 PM",
-   "status": "Public hearing",
-   "urgent": false,
-   "link": "https://www.facebook.com/detroitchamber/posts/on-thursday-august-13-at-6-pm-join-the-michigan-for-responsible-data-centers-coa/1479381710891828/",
-   "linkLabel": "Event Details",
-   "stream": ""
-  },
   {
    "iso": "2026-08-17",
    "body": "Kalamazoo City Commission",
