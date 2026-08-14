@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZl84V250LW9SLWdBS0RoUGc2dkh4ZlZUVU0yMXZBLXRmQzlwRV96dTVYdUlhV3RnaTZVbGtUMmZKYzhmbG5TTVN5LWhLYnhkV2Z6NXlSOTFGaUZ1YlhUYWtPWVdLQnBkNjAwN3B3dkdYZ0tQSDdnQ1BRdVJPVEt3bmpEZEFlZ0taR0hLVTg2OEczUHE0WGM2X3lzSQ?oc=5",
-   "title": "Surveillance expansion and infrastructure strain collide as official warns residents",
-   "at": "2026-07-30T16:09:14+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: An official's comments linking data centers to surveillance are speculative and lack a concrete action, filing, or decision."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdFNkUDRNbVpBeWxMYzd1UGlGU1hMdlJBRmRlOGQxY0RXaGszNHhOT0ZGZEtVQ2R1N0hFdmJHV2FWWmhtYWZjdHI5ZXdjODd4MjJfMzhhMndGQVhTYkt5YkF5TGRxU3JoM1k1Vk9LOVRybFV3ZC1oalNpbTF3Z1Ffbm5NY3dvc191Q01ueTdxajBUOUhRcEdMZXRvenlyWkRBVmF4UTBUMlhJTGx1b1NxTXYzdW0xQjhTdVdXY25lX2NiZWFxZ0E?oc=5",
    "title": "Hyperscale sells 100 BTC to bankroll Michigan AI campus",
    "at": "2026-07-30T16:09:14+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-14T10:35:25+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece tracking industry-wide data with no Michigan-specific decision or development."
+  },
+  {
+   "url": "https://www.detroitnews.com/story/news/local/michigan/2026/08/14/data-center-concerns-detroit-area-towns-cities-strengthen-zoning/91201218007/",
+   "title": "Data center development pressures prompt zoning and regulatory responses in multiple states",
+   "at": "2026-08-14T11:27:33+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece aggregating multiple states' responses without reporting a specific Michigan decision, filing, or development; too broad and speculative fo"
   }
  ],
  "auto_published": [
