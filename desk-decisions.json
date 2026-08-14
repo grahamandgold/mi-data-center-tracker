@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQVVkc0JlQ0FOSk1oZEF6Y1Noc1ctM1pXSzFqTXFGNXNUcjBkeHNHcWsyTVdCYldkZ1luVGw3WTVsN1NLTDFYUTVvWmJ6Nmo4dEtESEFWWVY4ckpIaHh6emc1eHVYTFlSS0RKTGVLWkx4TkhLcWxQMFl2VzdxVmxKOTAtSWZNb015U01oOVlTWXVaSU1yNmRtaEFTUWd4cXE3ME9MRzVxV2tTQ2U3T3AwOTBHMkdRZWl0alRHOHhaNGZGMmhIdUFLdA?oc=5",
-   "title": "El-Sayed slams Saline Township data center as undemocratic",
-   "at": "2026-07-31T04:04:52+00:00",
-   "by": "news_judge",
-   "note": "score 1/10, duplicate: El-Sayed criticism of Saline project already live in 'El-Sayed slams Saline data center plan over power and water costs.'"
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPaFZPMXAyMzljY1ExTzJoWXVKLV9uUnZRTHU1bmVfd2FzaDJubTFUYmNKUHQyWllKWENPb0RDY2xCa1VVSXJ0SjRCUUJqXy1wZUZ1QUlNZzFFNGoySXhEMXlQMGUyWmRNUHplXzdtSHF4M2YtbDNGMm9uSTF5cUQxTmRoYzNtMThTNnNMaFBUVTZOMFM1cy05SUZWTGhIaXpreUU1Q1dJVHl0aDVia1V5dzQ3WWtFOFNnQVdjVjg0c3pSZ09UaWg1QWdmMUdiUTdaWE1qQmxFaTdiMXdaNXpGTEgwamZXNU84NGItQ3dKMnJTSWdLZnd5MHczcFhLNVdCckwwR01hSW5meHhBVVI3Nk45UHhCQW9vaUNpcUpZSG1lLWdVVjFZcmRMU3Vsc2FrejhqSFZ2SWVCVHhIdHZLQUY3QVhIR29yZTFienZudDZsMWNtQnRMTjBQVUN3a1ZzT0NN?oc=5",
    "title": "Cass County residents gear up to fight new data center plans",
    "at": "2026-07-31T04:04:52+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-14T19:53:58+00:00",
    "by": "news_judge",
    "note": "score 4/10: National grid policy proposal with Michigan implications but no Michigan-specific decision, filing, or action yet."
+  },
+  {
+   "url": "https://montanafreepress.org/2026/08/13/fort-peck-tribes-ban-discussions-data-center-development/",
+   "title": "Fort Peck Tribes Ban All Data Center Talks Over Water, Land Fears",
+   "at": "2026-08-14T20:38:51+00:00",
+   "by": "news_judge",
+   "note": "score 2/10: National/Montana tribal story with no Michigan connection or relevance to Michigan data center buildout."
   }
  ],
  "auto_published": [
