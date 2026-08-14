@@ -1,7 +1,41 @@
 {
- "updated_at": "2026-08-14T02:35:38Z",
+ "updated_at": "2026-08-14T04:26:46Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Lyon Township residents push back on data center noise and traffic",
+   "dek": "Hundreds of Lyon Township homeowners packed a meeting to oppose a proposed facility they say would add constant hum and truck traffic near homes. Officials heard testimony that the project could affect property values and daily life for people living within a mile. The township has not yet voted on the plan.",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdUdwNU1YZkVIMkJQSEZlRnRKRDh3bEJrTm9lWFRGRmI3M2RWNS0yTjZySHZtQ1YzZURNVWN1Vl96Z0Vxb1h4ZTZ5VGpNUEJxOEVEbE9uR2o3T1VacW5yOGdlV1duQmhXUm0yMVp1VE53VW9zbkF3U0RTRUFvejZyX3VjWDZHZU9XQXVnMlhRY1dOT3Q4MlI1OVJIdHRrcEgza08zandlN2JrR3h5NGNtOEl2ZW83alg5dWNhSUNTY1hMeTc1NFczVE9KWTM2Zndta0JRbkl3MEhid3dNNUE?oc=5",
+   "source": "The Detroit News",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Oakland",
+   "tag": "Local Government",
+   "iso": "2026-08-14T04:10:00Z",
+   "id": "82e2382fd620",
+   "origin": "google-news",
+   "source_title": "Lyon Twp. residents respond to proposed data center - The Detroit News",
+   "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdUdwNU1YZkVIMkJQSEZlRnRKRDh3bEJrTm9lWFRGRmI3M2RWNS0yTjZySHZtQ1YzZURNVWN1Vl96Z0Vxb1h4ZTZ5VGpNUEJxOEVEbE9uR2o3T1VacW5yOGdlV1duQmhXUm0yMVp1VE53VW9zbkF3U0RTRUFvejZyX3VjWDZHZU9XQXVnMlhRY1dOT3Q4MlI1OVJIdHRrcEgza08zandlN2JrR3h5NGNtOEl2ZW83alg5dWNhSUNTY1hMeTc1NFczVE9KWTM2Zndta0JRbkl3MEhid3dNNUE?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
+  {
+   "title": "Detroit suburbs tighten zoning to block data center power spikes",
+   "dek": "Towns around Detroit are rewriting rules after residents complained about noise, water use and grid strain from proposed facilities. The changes would give local boards more say over size, location and utility demands. Southeast Michigan ratepayers could see higher bills if large projects connect without new safeguards.",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbGYtekNZV2VnZkhZS1k0ZG1qTnJZeTJOSUJzXzB1emxGRGpRdi1sZEMzQlNBYlphMlpoQ25RaEYwR25aYlMtVS05RU9ieE5CUldRWk1hWHVLcWtDSElBay1TdDlNRWIzQnJ6d0hxeDhNLS15RURQRE9zVGtqME8tcE1MNC1weDNZRzVBM2FUYm54aUNFVHhWNzVxNV8zcXMzTG5KM18wUnYtMTFZeHpnQ0pGSWV3Mm00cWM3WTVSd3M0OGZ4MkFOcW82cGl1cDVEUVJkVEdjOWNuUQ?oc=5",
+   "source": "The Detroit News",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Oakland",
+   "tag": "Local Government",
+   "iso": "2026-08-14T04:10:00Z",
+   "id": "b81e9c10e3bf",
+   "origin": "google-news",
+   "source_title": "As data center issues persist, Detroit area towns look to strengthen rules - The Detroit News",
+   "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbGYtekNZV2VnZkhZS1k0ZG1qTnJZeTJOSUJzXzB1emxGRGpRdi1sZEMzQlNBYlphMlpoQ25RaEYwR25aYlMtVS05RU9ieE5CUldRWk1hWHVLcWtDSElBay1TdDlNRWIzQnJ6d0hxeDhNLS15RURQRE9zVGtqME8tcE1MNC1weDNZRzVBM2FUYm54aUNFVHhWNzVxNV8zcXMzTG5KM18wUnYtMTFZeHpnQ0pGSWV3Mm00cWM3WTVSd3M0OGZ4MkFOcW82cGl1cDVEUVJkVEdjOWNuUQ?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
   {
    "title": "Negaunee locks in zoning rules for any future data centers",
    "dek": "Negaunee City approved a new ordinance that sets where and how data centers can be built. The rules give residents clearer standards on size, noise, and power use before projects reach the planning stage. Local officials say the step prevents rushed proposals that could strain city services and the electric grid.",
@@ -154,38 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQRUh3SmlQVDMwbVB6YzE3alB6ZnBQRUdPVnBfNUV3XzdEX2NzOTJvRnE5V3VubVpBLVY4NTVLNXpBa0lxc3VUNFBDZ19mZmd3X282TzNKYzFvQ3VWaERqQnJMWlpOR2xvczBFTjR6RE1VX25KM3dUN3BQb1pWUXl4Y2FSMVlHSVlnYldvbFozeU9uNks4bnpEbFhnaENXNGtFVmNtQjdNb1p4OVJuVlphY09qWmdmT3pPMXlocEl3c3F3MV85dGx3azQwc2FUWTRWUmsyNktyOUFUS1NtR2dTc0lUalczSm5oS0REOXliU0xnZW5VQldhXzBYNDd5NGM1aEJKVWFieHhmRS1BbWY3RWdoNHZrYnZ6RnByOXBYWQ?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
-  },
-  {
-   "iso": "2026-08-13T07:00:00+00:00",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "tag": "Water",
-   "title": "Dowagiac Neighbors Sue Over nonstop Noise From Crypto Data Center",
-   "dek": "Residents say the high-pitched whine from Alliance Cloud Services has made yards and open windows unusable for two years. The company, already fined under Dowagiac's new limits, plans to seal vents after switching to AI but faces demands for real soundproofing or buyouts.",
-   "source": "Yahoo",
-   "url": "https://www.yahoo.com/news/us/articles/residents-michigan-suing-data-center-231700361.html",
-   "breaking": false,
-   "lead": false,
-   "id": "e034f50e4e38",
-   "accuracy": "checked-rewritten",
-   "judge_score": 9
-  },
-  {
-   "title": "Michigan regulators say lawmakers can cut power prices amid data center growth",
-   "dek": "State energy regulators told lawmakers that new policies could lower electricity rates even as data centers increase demand. The comments come as multiple Michigan counties weigh large computing projects. Residents could see bill impacts depending on how the legislature acts on power planning.",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONHRYQU5Ua3hVU19yUkdDUENaZFVUY1BoWUsxVWdYQmxhOUM1dGljdTVTVTBKQ2htYWJCdTBOZzd2NVFCbjJXNzRzd3RmaXlqa1R3OHEzTEpPdHVoVG10WFhqWncxbGdKWm1XbGlneDhuS2NMZ0lqOEJscGE3bHhvdjJKRnh0SlpYYWs5YTB4X0RZQ2NPbk5kRG45M3hLTHZsUjN0QlRKRnBieDZocEN1T1ktSkxNc01CVUV0UWNUSXJjMkdhNnR0Y0VtZ05aTmFyMlhTLUgtRnRnTFVlQnN4RUtqbHcyZw?oc=5",
-   "source": "The Detroit News",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Power & Grid",
-   "iso": "2026-08-13T04:02:00Z",
-   "id": "1f4261345e86",
-   "origin": "google-news",
-   "source_title": "Michigan lawmakers could lower power prices, energy regulators argue - The Detroit News",
-   "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONHRYQU5Ua3hVU19yUkdDUENaZFVUY1BoWUsxVWdYQmxhOUM1dGljdTVTVTBKQ2htYWJCdTBOZzd2NVFCbjJXNzRzd3RmaXlqa1R3OHEzTEpPdHVoVG10WFhqWncxbGdKWm1XbGlneDhuS2NMZ0lqOEJscGE3bHhvdjJKRnh0SlpYYWs5YTB4X0RZQ2NPbk5kRG45M3hLTHZsUjN0QlRKRnBieDZocEN1T1ktSkxNc01CVUV0UWNUSXJjMkdhNnR0Y0VtZ05aTmFyMlhTLUgtRnRnTFVlQnN4RUtqbHcyZw?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {
