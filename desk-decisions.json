@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPaFZPMXAyMzljY1ExTzJoWXVKLV9uUnZRTHU1bmVfd2FzaDJubTFUYmNKUHQyWllKWENPb0RDY2xCa1VVSXJ0SjRCUUJqXy1wZUZ1QUlNZzFFNGoySXhEMXlQMGUyWmRNUHplXzdtSHF4M2YtbDNGMm9uSTF5cUQxTmRoYzNtMThTNnNMaFBUVTZOMFM1cy05SUZWTGhIaXpreUU1Q1dJVHl0aDVia1V5dzQ3WWtFOFNnQVdjVjg0c3pSZ09UaWg1QWdmMUdiUTdaWE1qQmxFaTdiMXdaNXpGTEgwamZXNU84NGItQ3dKMnJTSWdLZnd5MHczcFhLNVdCckwwR01hSW5meHhBVVI3Nk45UHhCQW9vaUNpcUpZSG1lLWdVVjFZcmRMU3Vsc2FrejhqSFZ2SWVCVHhIdHZLQUY3QVhIR29yZTFienZudDZsMWNtQnRMTjBQVUN3a1ZzT0NN?oc=5",
-   "title": "Cass County residents gear up to fight new data center plans",
-   "at": "2026-07-31T04:04:52+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Cass County organizing already covered in 'Cass County residents organize to shape future data center rules.'"
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT0F1ZGc5RXZBWnNIdkstNnZNOC1XR21INHpsSVk2SF9OaFV3eWEzRG9Bems5ZWdvc05mRVJRM3dCTEI2N3JNNHVaNkhVX01Ld05CYlc2am9IVDdCVklibTdOTW1oOTZnUnJBTXRIb3lrMHk0azIyYTZ1YUhYOVlFVWs4ZnZfY1Nid2hkNkQ5RXRpV19NOUZlLU4xa2VEcTMwNTV4cF9hdS1FSC1UWUlQQ0RHSUsxZGxIMXQ2ZGNRU1VPMXlTMllz?oc=5",
    "title": "Data center fights reshape Michigan primary races",
    "at": "2026-07-31T06:52:42+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-14T20:38:51+00:00",
    "by": "news_judge",
    "note": "score 2/10: National/Montana tribal story with no Michigan connection or relevance to Michigan data center buildout."
+  },
+  {
+   "url": "https://bridgemi.com/business-watch/u-m-affirms-ypsilanti-1-2b-computing-center-site-township-officials-vow-fight/",
+   "title": "Ypsilanti Twp. officials vow fight after U-M affirms $1.2B Textile Road center",
+   "at": "2026-08-14T21:34:22+00:00",
+   "by": "news_judge",
+   "note": "score 4/10, duplicate: This is the same U-M Ypsilanti Township data center affirmation already killed twice; the township opposition angle was also previously killed."
   }
  ],
  "auto_published": [
