@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-14T23:29:47+00:00",
+ "updated_at": "2026-08-14T23:51:56Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Coldwater area townships host first public data center briefing",
+   "dek": "Branch County residents can hear details on proposed data centers at a joint meeting Monday. The session covers power needs, water use and local tax impacts before any formal applications arrive. Nearby communities are already weighing similar projects, making the discussion relevant to anyone within driving distance of Coldwater.",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JQndfY0p5aGw5Vm8tZHNiR2VaZlNXeEpzSTd3c0tISkstZ0k2aWdtN3ZrdUVTVGN5Z0FJUWpZSDBOTnp2UmZja2ZzaHg4UQ?oc=5",
+   "source": "WTVB",
+   "region": "mid",
+   "cat": "STATEWIDE",
+   "county": "Branch",
+   "tag": "Local Government",
+   "iso": "2026-08-14T23:29:25Z",
+   "id": "e6a6e4932646",
+   "origin": "google-news",
+   "source_title": "Joint informational meeting on data centers scheduled for Monday in Coldwater - WTVB",
+   "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JQndfY0p5aGw5Vm8tZHNiR2VaZlNXeEpzSTd3c0tISkstZ0k2aWdtN3ZrdUVTVGN5Z0FJUWpZSDBOTnp2UmZja2ZzaHg4UQ?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Manistee Township joins pause on new data centers",
    "dek": "Manistee Township has halted new data-center proposals, aligning with nearby townships. The move blocks large-scale projects that would draw heavy power and water in the area. Residents 30 miles away now face the same uncertainty over future industrial growth and utility rates.",
@@ -169,23 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbGYtekNZV2VnZkhZS1k0ZG1qTnJZeTJOSUJzXzB1emxGRGpRdi1sZEMzQlNBYlphMlpoQ25RaEYwR25aYlMtVS05RU9ieE5CUldRWk1hWHVLcWtDSElBay1TdDlNRWIzQnJ6d0hxeDhNLS15RURQRE9zVGtqME8tcE1MNC1weDNZRzVBM2FUYm54aUNFVHhWNzVxNV8zcXMzTG5KM18wUnYtMTFZeHpnQ0pGSWV3Mm00cWM3WTVSd3M0OGZ4MkFOcW82cGl1cDVEUVJkVEdjOWNuUQ?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
-  },
-  {
-   "title": "Negaunee locks in zoning rules for any future data centers",
-   "dek": "Negaunee City approved a new ordinance that sets where and how data centers can be built. The rules give residents clearer standards on size, noise, and power use before projects reach the planning stage. Local officials say the step prevents rushed proposals that could strain city services and the electric grid.",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS0pGTWVKdUowNFRaaF9MUktwR0NRSHZXdF8yOHBWYUJaMWlpM2syRWh4ODdHaWZyeEFWRjFWWUtMSG9GUVdITERCQVhFX0RtWGVrVWNxdWtiWHBkQUlnTEY2TlQ4V3pFMC1iNjVVajEwdERDSXdPVlZ6dGlVMGw2YzZuWmxiUjVaS1hIN1YxSEF1c0pxWmUwVkhGWXU?oc=5",
-   "source": "WZMQ 19 News",
-   "region": "north",
-   "cat": "STATEWIDE",
-   "county": "Marquette",
-   "tag": "Local Government",
-   "iso": "2026-08-14T02:31:20Z",
-   "id": "97e863457b72",
-   "origin": "google-news",
-   "source_title": "Negaunee City passes data center zoning regulation ordinance - WZMQ 19 News",
-   "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS0pGTWVKdUowNFRaaF9MUktwR0NRSHZXdF8yOHBWYUJaMWlpM2syRWh4ODdHaWZyeEFWRjFWWUtMSG9GUVdITERCQVhFX0RtWGVrVWNxdWtiWHBkQUlnTEY2TlQ4V3pFMC1iNjVVajEwdERDSXdPVlZ6dGlVMGw2YzZuWmxiUjVaS1hIN1YxSEF1c0pxWmUwVkhGWXU?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {
