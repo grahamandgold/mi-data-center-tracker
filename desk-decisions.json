@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYUlnbkkzSFYxQWx0N3VobGdObEVRZ2FoUTd2djhkWW9UMVVQR1ZNUkdQVHNaYjgxeTNhbzQwREt0YWgwUjAwRF9SM0U1SXdpcUloLWtaLWMzN2dWaXBMNjdpT3dsYzU4OXVPR1ZYNmNZMGhFaVlkOEhhNENyTU1xMFJ5eHFGbzhnSHc?oc=5",
-   "title": "Dowagiac residents sue data center claiming noise and health harm",
-   "at": "2026-07-30T04:13:23+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: This is the same Dowagiac noise lawsuit already killed multiple times under various headlines (neighbors sue, residents file lawsuit, constant noise allegations"
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM1h2dWNRSVNINEwwQTFObVBWWm9mY0NMN1VWb2lyTkVoOE5QUElhOFlkN2Q2aUs5T0hIWTFXOEtXTFBtSzBYc3YxS2xpekFSemtnSnJGSGkyODRzRklsRG5jZHFyYTJId182c0xObENxZTlIWFFnYkFWY0RTNHh4M19ibWF6a1lZeDhZbDRMVGRkd0s4REYwUVpRcFVmWGpJM2gtR2RnQS1ubzNpaUFuSER0N3c?oc=5",
-   "title": "Michigan primary candidates split on data-center tax breaks and power use",
-   "at": "2026-07-30T11:58:30+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Duplicate of already-killed 'Michigan Senate Hopefuls Split on Data Center Costs to Residents' and 'Data centers split Michigan Dems ahead of primary' — same pr"
-  },
-  {
    "url": "https://www.brookings.edu/articles/data-center-moratoriums-are-not-a-substitute-for-oversight/",
    "title": "Moratoriums on data centers stall in most states despite local wins",
    "at": "2026-07-30T14:25:30+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-14T06:00:30+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Negaunee locking in zoning rules for data centers is already LIVE in the approved queue."
+  },
+  {
+   "url": "https://www.theoaklandpress.com/2026/08/13/u-m-affirms-ypsilanti-1-2b-computing-center-site-township-officials-vow-fight/",
+   "title": "University of Michigan stands by Ypsilanti Township site for $1.2 billion data center despite local opposition",
+   "at": "2026-08-14T07:44:21+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Thin rehash of already-covered U-M site selection and township opposition without new decision, filing, or concrete development."
+  },
+  {
+   "url": "https://www.mlive.com/opinion/2026/08/letter-from-the-editor-big-tech-big-questions-the-story-behind-the-data-center-stories.html",
+   "title": "MLive expands data center coverage with new interactive dashboard tracking proposals statewide",
+   "at": "2026-08-14T07:44:21+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Meta-story about news coverage itself rather than substantive development; the dashboard is a journalism tool, not a policy or project action."
   }
  ],
  "auto_published": [
