@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-14T04:26:46Z",
+ "updated_at": "2026-08-14T06:00:30+00:00",
  "generator": "grok-wire-agent",
  "items": [
   {
@@ -29,25 +29,7 @@
    "headline_rewritten": true,
    "judge_score": 8,
    "judge_note": "Negaunee council voted 7-0 to advance a restrictive ordinance with a scheduled public hearing—a real decision and next step."
-  },
-  {
-   "iso": "2026-08-12T18:00:00+00:00",
-   "region": "mid",
-   "cat": "Ingham Co.",
-   "tag": "Local Government",
-   "title": "East Lansing extends data center moratorium to March 2027 to develop regulations",
-   "dek": "City Council voted unanimously to prolong the pause, allowing more time for a work group to finalize guidelines amid growing concerns over large-scale projects.",
-   "source": "WILX",
-   "url": "https://www.wilx.com/2026/08/12/east-lansing-city-council-votes-extend-data-center-moratorium/",
-   "breaking": false,
-   "lead": false,
-   "id": "a8f326720bf6",
-   "kind": "story",
-   "filed_at": "2026-08-13T08:03:15+00:00",
-   "accuracy": "social-post",
-   "judge_score": 9,
-   "judge_note": "New council vote extending East Lansing's moratorium to a specific new date (March 2027), a concrete decision distinct from the earlier aquifer-focused pause."
   }
  ],
- "accuracy_checked_at": "2026-08-14T04:26:42+00:00"
+ "accuracy_checked_at": "2026-08-14T06:00:26+00:00"
 }

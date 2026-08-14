@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://example.com/national-data-center-power",
-   "title": "U.S. Data Center Power Demand Surges as Tech Giants Accelerate AI Infrastructure",
-   "at": "2026-07-29T23:35:44+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicate of killed 'U.S. Data Center Power Demand Surges as Tech Giants Accelerate AI Infrastructure' — identical national trend story."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcExrbEZzTTJlQVhrdVJNbnlLNl9mQnQyMzBweDBQOE04N0E1OElmNjd1MGo5VVdVNWNLOUF4dlhMeWFWV3Y4X2ZkNElKaWhlanpOUHBkWElXRWxlSnlFQkV1b2NrOFNyMkRTLW43aVBGR2FnYzFhdGdhcWFnLUk3V0NxRG8tYjdvQk5sZUQ1LVAwY0NuWnZ3NlE0UjdFaWNxZ0QwX2xRUzc4SFVxUkgzeGtBRmhJSXJIUjFCdnNUc2tqRlR1RFZjWWlEMGlySnptbzkxZUxyNXVONmdSMzlOX3BnTWE?oc=5",
-   "title": "Lowell anti-data center activists identify billboard vandals",
-   "at": "2026-07-30T00:59:39+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: Thin follow-up on vandalism incident rather than a substantive development in the data center debate itself."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYUlnbkkzSFYxQWx0N3VobGdObEVRZ2FoUTd2djhkWW9UMVVQR1ZNUkdQVHNaYjgxeTNhbzQwREt0YWgwUjAwRF9SM0U1SXdpcUloLWtaLWMzN2dWaXBMNjdpT3dsYzU4OXVPR1ZYNmNZMGhFaVlkOEhhNENyTU1xMFJ5eHFGbzhnSHc?oc=5",
    "title": "Dowagiac residents sue data center claiming noise and health harm",
    "at": "2026-07-30T04:13:23+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-13T23:52:24+00:00",
    "by": "news_judge",
    "note": "score 3/10: National/Florida story with no Michigan angle; falls into the 'national trend piece' category despite concrete project details."
+  },
+  {
+   "url": "https://www.clickondetroit.com/video/news/2026/08/13/township-pushes-back-against-data-center-proposal/",
+   "title": "Ypsilanti Township Officials Resist 144-Acre University of Michigan Data Center Site",
+   "at": "2026-08-14T06:00:30+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This is the same U-M Textile Road site selection and Ypsilanti Township opposition already covered in multiple LIVE and KILLED stories."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSVp6dHdMS05oU0Q5S1ZTeURyeWdTSWRHVGdPZnFZTUlOdjVUbEdJSklOck5kaTB4S05RQjZEQnlkS0pqYTY4Y3IyMjY3eDFsZlRJVkRBWGM2WV9SVUh2TUZZVm1yeU1iT0ItQmhVNzl6YkstRVJOeU1XRm9qNU4wT0cyd0FrdzdiY1VCRU8xWkwtc2ZPRTZ4QWtIOElaZ1ROTUFUQnNNcjB3X3FkaThSSjdhOVQxV2tKSHpJdzJ5ZWN6Sm9NQzV2TkdxMGg?oc=5",
+   "title": "Negaunee City Council passes new zoning rules for data centers",
+   "at": "2026-08-14T06:00:30+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Negaunee locking in zoning rules for data centers is already LIVE in the approved queue."
   }
  ],
  "auto_published": [
