@@ -1,7 +1,26 @@
 {
- "updated_at": "2026-08-14T09:15:26+00:00",
+ "updated_at": "2026-08-14T10:35:25Z",
  "generator": "grok-wire-agent",
  "items": [
+  {
+   "iso": "2026-08-13T21:30:00+00:00",
+   "region": "metro",
+   "cat": "Washtenaw Co.",
+   "tag": "Money",
+   "title": "Attorney challenges Oracle data center tax break over missing Saline Township hearing",
+   "dek": "Ellis Boal asked the state tax commission to deny the abatement, saying the township created the required industrial district without holding a public hearing first.",
+   "source": "WEMU",
+   "url": "https://www.wemu.org/wemu-news/2026-08-13/attorney-challenges-saline-township-tax-break-for-oracles-data-center",
+   "breaking": false,
+   "lead": true,
+   "id": "757f6b1352ee",
+   "kind": "story",
+   "filed_at": "2026-08-14T10:35:10+00:00",
+   "accuracy": "checked-rewritten",
+   "headline_rewritten": true,
+   "judge_score": 8,
+   "judge_note": "Concrete new development: a formal legal challenge filed with the state tax commission over procedural violations in the Oracle Saline Township abatement proces"
+  },
   {
    "title": "Negaunee tightens rules to keep data centers out of most zones",
    "dek": "Council voted 7-0 to advance an ordinance confining data centers to mining and industrial areas, capping noise, height and emissions, with a public hearing set for Aug. 13.",
@@ -31,5 +50,5 @@
    "judge_note": "Negaunee council voted 7-0 to advance a restrictive ordinance with a scheduled public hearing—a real decision and next step."
   }
  ],
- "accuracy_checked_at": "2026-08-14T09:15:24+00:00"
+ "accuracy_checked_at": "2026-08-14T10:35:19+00:00"
 }

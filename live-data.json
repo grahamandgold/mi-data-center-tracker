@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-14T09:15:23+00:00",
+ "updated_at": "2026-08-14T10:35:25Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Lake Township caps data center water and power use",
+   "dek": "Lake Township is writing stricter zoning rules that would limit how much water and electricity new data centers can draw. Residents in this rural Huron County area worry large facilities could strain wells and the local grid. The draft rules come as more companies eye Michigan sites for AI servers.",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVXNsTjRXa2o5MXBvT1VLZGxMdzV4Z0hoX1JsbWVHcFctRVNLbE5sbFlwR1l5NGhHcHhFRkFTajV2X040cHhSSzk4RTdpQUx6UlAwOFpUSDVNb3VjVmkyclVUUUNVdWg2UU9KY085LXBRMnFXUDUtRGlDY3RTZ3FsSmpGMjBnUVo5VjRMcmhrbTFqR1l4YjNn?oc=5",
+   "source": "Huron Daily Tribune",
+   "region": "mid",
+   "cat": "STATEWIDE",
+   "county": "Huron",
+   "tag": "Local Government",
+   "iso": "2026-08-14T10:11:06Z",
+   "id": "28d63bc6c91c",
+   "origin": "google-news",
+   "source_title": "Lake Township drafts tougher data center rules with water and power limits - Huron Daily Tribune",
+   "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVXNsTjRXa2o5MXBvT1VLZGxMdzV4Z0hoX1JsbWVHcFctRVNLbE5sbFlwR1l5NGhHcHhFRkFTajV2X040cHhSSzk4RTdpQUx6UlAwOFpUSDVNb3VjVmkyclVUUUNVdWg2UU9KY085LXBRMnFXUDUtRGlDY3RTZ3FsSmpGMjBnUVo5VjRMcmhrbTFqR1l4YjNn?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Lyon Township residents push back on data center noise and traffic",
    "dek": "Hundreds of Lyon Township homeowners packed a meeting to oppose a proposed facility they say would add constant hum and truck traffic near homes. Officials heard testimony that the project could affect property values and daily life for people living within a mile. The township has not yet voted on the plan.",
@@ -171,23 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNHh1c1gwMndpUFBaY2FMYURQeGNGNnpGTkJFbFNNb0w1NWItcjY3ZzZyZ0ZfU1plM1VxV0IxODluUnFEODMzUlU4ZVhqRjZWTUllclBRRl9Vb1IyenlyTndfbHd3a1dpaW1ETFdxSm45R0VxWllEUVNOQ21LX3VhSGdWdkI5T0EwYjBYOVVLWTRqM0E1ZG9Ib3dZNzB1MGRjUlJQTGNB?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
-  },
-  {
-   "title": "Richmond Township residents grill data center backers",
-   "dek": "Hundreds turned out in Richmond Township to question a data center proposal's impact on roads, water and power bills. Officials heard direct complaints about noise and tax breaks for the project. The session signals growing pushback in Macomb County communities facing similar plans.",
-   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQRUh3SmlQVDMwbVB6YzE3alB6ZnBQRUdPVnBfNUV3XzdEX2NzOTJvRnE5V3VubVpBLVY4NTVLNXpBa0lxc3VUNFBDZ19mZmd3X282TzNKYzFvQ3VWaERqQnJMWlpOR2xvczBFTjR6RE1VX25KM3dUN3BQb1pWUXl4Y2FSMVlHSVlnYldvbFozeU9uNks4bnpEbFhnaENXNGtFVmNtQjdNb1p4OVJuVlphY09qWmdmT3pPMXlocEl3c3F3MV85dGx3azQwc2FUWTRWUmsyNktyOUFUS1NtR2dTc0lUalczSm5oS0REOXliU0xnZW5VQldhXzBYNDd5NGM1aEJKVWFieHhmRS1BbWY3RWdoNHZrYnZ6RnByOXBYWQ?oc=5",
-   "source": "Tioga Publishing",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Macomb",
-   "tag": "Local Government",
-   "iso": "2026-08-13T11:15:00Z",
-   "id": "5822555bfda8",
-   "origin": "google-news",
-   "source_title": "Crowd shows up with questions about data centers in Richmond Township - Tioga Publishing",
-   "source_url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQRUh3SmlQVDMwbVB6YzE3alB6ZnBQRUdPVnBfNUV3XzdEX2NzOTJvRnE5V3VubVpBLVY4NTVLNXpBa0lxc3VUNFBDZ19mZmd3X282TzNKYzFvQ3VWaERqQnJMWlpOR2xvczBFTjR6RE1VX25KM3dUN3BQb1pWUXl4Y2FSMVlHSVlnYldvbFozeU9uNks4bnpEbFhnaENXNGtFVmNtQjdNb1p4OVJuVlphY09qWmdmT3pPMXlocEl3c3F3MV85dGx3azQwc2FUWTRWUmsyNktyOUFUS1NtR2dTc0lUalczSm5oS0REOXliU0xnZW5VQldhXzBYNDd5NGM1aEJKVWFieHhmRS1BbWY3RWdoNHZrYnZ6RnByOXBYWQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
   }
  ],
  "national": {

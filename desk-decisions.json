@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOR2ZfZDBzSmVBbDBnWWVzaFNoM1lrWkY3NTJfdU9qMjRoZERxc2FyRDFySmtScTZRN2djclZrNGdHVFZraVNzZG5wZUtqalJTcnZrWHNRTm1tVkQ2WkdXN2F4YVU5dWVYbFNfVUxFT1N6VGZ3U2dsclphR0dtb0hYU0lVakQ0ZjNZUVdSV0Y2bHNFcnR0MVNnOWZyTUktd0ZJbmFYdkRXeUl0dEtlLUhJY1UxNEpuNFUxaGFLeElfVkxlTExkc2w1Z3FWdWlwU0lqZ0FKSFFDVGVMMjRYeVVSQkhjU3FXS2c?oc=5",
-   "title": "Data centers emerge as flashpoint in Michigan Senate primary",
-   "at": "2026-07-30T14:25:30+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicates already-live 'Data Center Battles Loom for Michigan Senate Primary Candidates' — same Senate primary clash angle."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSGlvakpyRTA0UzRTbmxZTFBJVjM5cmZUaUNfTjdJNTd0ZnpVNWNWUzRnYlFONUNUWk81X25NRUZ2bWstRWwwT2ZTaHd0MVpYVkp6cWhoYkhRZ0F2OGFmRmM4aHh3cWRibGs5aEJ1VVZZNXh5V3JyUk00TlpKZDhQUjh3dUk5cUtHbXdoR2ZsR0lTNXZYOXg1VzdBOXkxZi1WSHllZEkwV01vdWR2M1J3Szc3R2Z4eEx4VC1wSUQ4Tk5KSWtYNWxaSGluQkZWRlpVeXh2eQ?oc=5",
-   "title": "Company dumps 100 Bitcoin to bankroll artificial intelligence construction site",
-   "at": "2026-07-30T14:25:30+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicates already-live 'Hyperscale cashes out Bitcoin to bankroll Michigan AI campus' — same Bitcoin liquidation for Michigan AI facility."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZl84V250LW9SLWdBS0RoUGc2dkh4ZlZUVU0yMXZBLXRmQzlwRV96dTVYdUlhV3RnaTZVbGtUMmZKYzhmbG5TTVN5LWhLYnhkV2Z6NXlSOTFGaUZ1YlhUYWtPWVdLQnBkNjAwN3B3dkdYZ0tQSDdnQ1BRdVJPVEt3bmpEZEFlZ0taR0hLVTg2OEczUHE0WGM2X3lzSQ?oc=5",
    "title": "Surveillance expansion and infrastructure strain collide as official warns residents",
    "at": "2026-07-30T16:09:14+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-14T09:15:26+00:00",
    "by": "news_judge",
    "note": "score 3/10, duplicate: This is the same Marshall council threats story already live, just reframed with a county-level angle but reporting the identical Calhoun County threat incident"
+  },
+  {
+   "url": "https://www.clickondetroit.com/video/news/2026/08/13/local-4-news-at-4-aug-13-2026/",
+   "title": "Township pushes back on data center proposal in recent local coverage",
+   "at": "2026-08-14T10:35:25+00:00",
+   "by": "news_judge",
+   "note": "score 2/10: Vague rehash with no specific project, location, or development identified—just generic 'Detroit-area township' opposition already covered multiple times."
+  },
+  {
+   "url": "https://www.aterio.io/datasets/lst_us_data_centers",
+   "title": "U.S. data center power demand and construction pipeline tracked in new industry dataset",
+   "at": "2026-08-14T10:35:25+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece tracking industry-wide data with no Michigan-specific decision or development."
   }
  ],
  "auto_published": [
@@ -2865,6 +2865,12 @@
    "title": "Detroit suburbs tighten zoning to block data center power spikes",
    "judge_score": 6,
    "at": "2026-08-14T04:26:46Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVXNsTjRXa2o5MXBvT1VLZGxMdzV4Z0hoX1JsbWVHcFctRVNLbE5sbFlwR1l5NGhHcHhFRkFTajV2X040cHhSSzk4RTdpQUx6UlAwOFpUSDVNb3VjVmkyclVUUUNVdWg2UU9KY085LXBRMnFXUDUtRGlDY3RTZ3FsSmpGMjBnUVo5VjRMcmhrbTFqR1l4YjNn?oc=5",
+   "title": "Lake Township caps data center water and power use",
+   "judge_score": 7,
+   "at": "2026-08-14T10:35:25Z"
   }
  ]
 }
