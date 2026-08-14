@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.nytimes.com/2026/07/29/climate/trump-federal-data-centers.html",
-   "title": "Trump Administration Moves to Repurpose Federal Land for Massive AI Data Centers and Power Plants",
-   "at": "2026-07-31T00:12:27+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National policy announcement about Kentucky site with only generic mention of local opposition; no Michigan-specific development."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVTRRWWpobHJDTGc2Q2E2QUw0SUs0cC1CQ0J5MkYzSG9sNWRvdUxSQU1seXRWcU9pLXZiWjhmRjBtTUd3UjB2SU9MTDhjOV9DVFM5bEExUFVrRzBVWWlJQ2Mwa0hGLXhMOWFJUHNjNU9PUXpJX2I5eTMzdkJoRDVNTnZyc0gwV1ZqcUdQRHhaLTBPUHJrNzFIR0MtSklPUnYxWVJUUmZ3bm04T2I5Rm13a0pJZVhhdzh6NGRDVmJTU0ZHQVBYNjdLa1NhWnZSSEtqRG5mMXZVMmJQQ2c1?oc=5",
-   "title": "Crypto mine backer pitches AI facilities as Michigan locals recall noise, power complaints",
-   "at": "2026-07-31T00:12:27+00:00",
-   "by": "news_judge",
-   "note": "score 5/10: Incremental follow-up connecting past crypto mine complaints to current AI facility discussion, but no new decision or filing reported."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VYzhUT0RUVzlsSkpGYko4ckY1ZWRCNEFJRWxFUTE3V09oU3U4TzRrSF9jQURObGFOempKZV9WcDdtdl9FaG9uQ3hKZDhDUk5oYjBSZHJTZ2xzeDg3ZTl0Wm0weS1MMGdfOTFaM3lXQVFnVnZNZ1cxY0hfdTlCZw?oc=5",
    "title": "El-Sayed says Saline Township data center is the wrong project for Michigan",
    "at": "2026-07-31T00:12:27+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-14T15:01:21+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Same Hyperscale Data $43M Bitcoin sale already live, just reworded with BTC quantity and slightly different framing."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTktPalA2UmRSMWphZXVzaEg1T1pkSTdyMGlwVjBFTzRzZFZ5NWVaRUJ6eU1wX3JPTEFjVnY0d1MtZ09QVF9wY1NPZzMxejdpSUJFemVOVWdqblJqaGFxSk45Ylh2NTAwV2NzMzZwRC16MEkxU3VXS2I2UGtYeENqVk8wVHYtUWZFNnFvQWExeFI0Vm81MFV5RW4xN2EybTBTd0NKdTdPX0dnTVMwUG5sQWhWNDQ2X3MxTENIWVJPM20?oc=5",
+   "title": "Marshall officials receive threats tied to proposed data center project",
+   "at": "2026-08-14T17:02:01+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicate of already-live 'Marshall council faces credible threats tied to data center fight' — same threat incident, just reworded."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUDJHZGpIdElpRWYzMWRUak5QUHpxWE40a3BtTGZyY3hvS2dzaGpzaDJYTTNERzZxQ25OUVhnaUFuZkpLTTFCeUhBWGZJaUxUN0RaeS1HZHJuZlA5YTNUbl93b3VqR0R0blJDS1ExQ3V4QThscVR3LUt5dVdvb0c1MmpzSWJtRlpEd2dWcQ?oc=5",
+   "title": "Bitcoin miner funnels $43M from crypto sales into Michigan data center push",
+   "at": "2026-08-14T17:02:01+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicate of already-live 'Hyperscale Data sells $43M in Bitcoin to fund Michigan data center push' — identical transaction and company, merely reworded."
   }
  ],
  "auto_published": [
