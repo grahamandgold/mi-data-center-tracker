@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.brookings.edu/articles/data-center-moratoriums-are-not-a-substitute-for-oversight/",
-   "title": "Moratoriums on data centers stall in most states despite local wins",
-   "at": "2026-07-30T14:25:30+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece with thin Michigan relevance; no specific Michigan decision or development reported."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOR2ZfZDBzSmVBbDBnWWVzaFNoM1lrWkY3NTJfdU9qMjRoZERxc2FyRDFySmtScTZRN2djclZrNGdHVFZraVNzZG5wZUtqalJTcnZrWHNRTm1tVkQ2WkdXN2F4YVU5dWVYbFNfVUxFT1N6VGZ3U2dsclphR0dtb0hYU0lVakQ0ZjNZUVdSV0Y2bHNFcnR0MVNnOWZyTUktd0ZJbmFYdkRXeUl0dEtlLUhJY1UxNEpuNFUxaGFLeElfVkxlTExkc2w1Z3FWdWlwU0lqZ0FKSFFDVGVMMjRYeVVSQkhjU3FXS2c?oc=5",
    "title": "Data centers emerge as flashpoint in Michigan Senate primary",
    "at": "2026-07-30T14:25:30+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-14T07:44:21+00:00",
    "by": "news_judge",
    "note": "score 4/10: Meta-story about news coverage itself rather than substantive development; the dashboard is a journalism tool, not a policy or project action."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE00eGlZbjhxanFzOW1Ld2NGX01aU2lCaHdqbHB1QUFEclFTY2U4LWtaY0NIbi1MNlVQRWVkcW9MbzdPNjRfQUVEbHI2RTJOQQ?oc=5",
+   "title": "County officials threatened with violence as power-hungry facilities seek tax breaks",
+   "at": "2026-08-14T09:15:26+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: This is the same Marshall council threats story already live, just reframed with a county-level angle but reporting the identical Calhoun County threat incident"
   }
  ],
  "auto_published": [
