@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-14T19:05:27+00:00",
+ "updated_at": "2026-08-14T19:53:58Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Manistee Township joins pause on new data centers",
+   "dek": "Manistee Township has halted new data-center proposals, aligning with nearby townships. The move blocks large-scale projects that would draw heavy power and water in the area. Residents 30 miles away now face the same uncertainty over future industrial growth and utility rates.",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUXZZb2YzVFpDRFZLSFNKYXR4eXFLUWZyT0RuMTFuQzZuZHMtSVgzNDl4UHExV3VQWTY3bHhKOUZFSVVJQi1GWEw4V0NEb2VHVGwzb3RIa2t3dFhzTjlMaWhfYnBFeUpNZHdseGhDY2F3TmpTN2x6dG94cUhNZ0F3S3B5SlFyZkc1X3A1Z0x2VkJSU1prWHhYU0FORDRfUWdvZU1OaEp3?oc=5",
+   "source": "Manistee News Advocate",
+   "region": "north",
+   "cat": "STATEWIDE",
+   "county": "Manistee",
+   "tag": "Local Government",
+   "iso": "2026-08-14T19:29:30Z",
+   "id": "bc0a68149543",
+   "origin": "google-news",
+   "source_title": "Manistee Township joins neighboring townships in pausing data centers - Manistee News Advocate",
+   "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUXZZb2YzVFpDRFZLSFNKYXR4eXFLUWZyT0RuMTFuQzZuZHMtSVgzNDl4UHExV3VQWTY3bHhKOUZFSVVJQi1GWEw4V0NEb2VHVGwzb3RIa2t3dFhzTjlMaWhfYnBFeUpNZHdseGhDY2F3TmpTN2x6dG94cUhNZ0F3S3B5SlFyZkc1X3A1Z0x2VkJSU1prWHhYU0FORDRfUWdvZU1OaEp3?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "Saline Twp tax break for data center faces legal challenge",
    "dek": "An attorney claims Saline Township bypassed required steps when approving a tax abatement for a large data-center project. The challenge could delay or derail the deal that would shift millions in taxes away from local services. Nearby residents are watching how the fight affects their property taxes and school funding.",
@@ -171,23 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZkdadXRhMjJabkRQSWZzYUZ5NlVHYTdkYUJ6d0NYYU1hMlNuYTExTElscTlDLXBQRHZwalBqXzRkelJJR0hUZjh1Z2xTTVJoajRXVW5DbTNPOUppaWVvWDZPWlY1Z1dUMkNkaThCOTdpNkFaZHVwTzVBZENWZlJ2dWx5WGFhSmY0dUdGb0kxdW9MZ0xUamJMTlN6TzVaOE1TNTVyaXZmdE82SzhJV1U2WEc3ZXdveGVSTnlyUHZ0d0tHd21XYy04Qlp4UlZsU2NJdjB3UE1OR3I?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
-  },
-  {
-   "title": "U-M picks Textile Road site for planned data center",
-   "dek": "University of Michigan has named Textile Road its preferred location for a new data center project. The choice directly affects Washtenaw County residents through added power demand and potential tax revenue. Local readers 30 miles away will feel the impact on utility rates and township services if the project advances.",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdHY5TVZPWlluOTBVTEo0anphWUJVM05HbF91QjNxUGVFOXJZb1RnNHhsQWRZdFhJS0FCcVFGMm9RdmRGVmlZUEtNejFkZGpqRWRzcGVWNzRTd1dLcjBEZVZ1aWp6dDBwS2p0UVFGUi13NGtwN200TmdTQjVoZDVqZ3lpcFVOVURNMDFaQkExSDhPYVo0ZXc?oc=5",
-   "source": "The Sun Times News",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Local Government",
-   "iso": "2026-08-13T21:39:29Z",
-   "id": "941e81618615",
-   "origin": "google-news",
-   "source_title": "Weekly Data Center Watch: U-M Names Textile Road Preferred Site - The Sun Times News",
-   "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdHY5TVZPWlluOTBVTEo0anphWUJVM05HbF91QjNxUGVFOXJZb1RnNHhsQWRZdFhJS0FCcVFGMm9RdmRGVmlZUEtNejFkZGpqRWRzcGVWNzRTd1dLcjBEZVZ1aWp6dDBwS2p0UVFGUi13NGtwN200TmdTQjVoZDVqZ3lpcFVOVURNMDFaQkExSDhPYVo0ZXc?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
   }
  ],
  "national": {
@@ -205,6 +205,20 @@
   "accuracy": "checked"
  },
  "meetings": [
+  {
+   "iso": "2026-08-17",
+   "body": "Coldwater City Council, Planning Commission and Board of Public Utilities",
+   "topic": "Joint informational meeting on data center impacts, regulation and oversight",
+   "region": "West Michigan",
+   "regionKey": "west",
+   "county": "Branch",
+   "time": "5:30 PM",
+   "status": "Board meeting",
+   "urgent": false,
+   "link": "https://www.coldwater.org/AgendaCenter/Planning-Commission-17/?",
+   "linkLabel": "Agenda",
+   "stream": ""
+  },
   {
    "iso": "2026-08-17",
    "body": "Caledonia Township Planning Commission",

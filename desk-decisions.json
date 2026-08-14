@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZjZsdThicjdVeVFxb3VybVA5S0VrNUllUV9fODg4aEJzdDA3aEpiR1cyejY5R19TNVExd01vRDJZdUt6ODYxN0N3XzY5UGxtOGhFSm5Wdy0xbDB1RjU4aVNyeGQ1NDBnUUpkaHRIT1hkTkFzSS0wTHRmSW9PMVdhNFJlT1lKWVotRzM3OQ?oc=5",
-   "title": "Hyperscale Data sells Bitcoin to fund $3B Michigan AI campus",
-   "at": "2026-07-31T04:04:52+00:00",
-   "by": "news_judge",
-   "note": "score 1/10, duplicate: Same Bitcoin sale and Michigan AI campus already covered in 'Hyperscale cashes out Bitcoin to bankroll Michigan AI campus.'"
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQVVkc0JlQ0FOSk1oZEF6Y1Noc1ctM1pXSzFqTXFGNXNUcjBkeHNHcWsyTVdCYldkZ1luVGw3WTVsN1NLTDFYUTVvWmJ6Nmo4dEtESEFWWVY4ckpIaHh6emc1eHVYTFlSS0RKTGVLWkx4TkhLcWxQMFl2VzdxVmxKOTAtSWZNb015U01oOVlTWXVaSU1yNmRtaEFTUWd4cXE3ME9MRzVxV2tTQ2U3T3AwOTBHMkdRZWl0alRHOHhaNGZGMmhIdUFLdA?oc=5",
    "title": "El-Sayed slams Saline Township data center as undemocratic",
    "at": "2026-07-31T04:04:52+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-14T19:05:30+00:00",
    "by": "news_judge",
    "note": "score 4/10: Forward-looking political trend piece about 2026 campaigns without a specific filing, announcement, or concrete development today."
+  },
+  {
+   "url": "https://www.reuters.com/business/energy/pjm-proposes-plan-buy-more-power-data-centers-2026-08-13/",
+   "title": "PJM Grid Operator Proposes Rules to Curtail Data Center Use During Shortages",
+   "at": "2026-08-14T19:53:58+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: National grid policy proposal with Michigan implications but no Michigan-specific decision, filing, or action yet."
   }
  ],
  "auto_published": [
@@ -2901,6 +2901,12 @@
    "title": "Saline Twp tax break for data center faces legal challenge",
    "judge_score": 8,
    "at": "2026-08-14T17:58:48Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUXZZb2YzVFpDRFZLSFNKYXR4eXFLUWZyT0RuMTFuQzZuZHMtSVgzNDl4UHExV3VQWTY3bHhKOUZFSVVJQi1GWEw4V0NEb2VHVGwzb3RIa2t3dFhzTjlMaWhfYnBFeUpNZHdseGhDY2F3TmpTN2x6dG94cUhNZ0F3S3B5SlFyZkc1X3A1Z0x2VkJSU1prWHhYU0FORDRfUWdvZU1OaEp3?oc=5",
+   "title": "Manistee Township joins pause on new data centers",
+   "judge_score": 8,
+   "at": "2026-08-14T19:53:58Z"
   }
  ]
 }
