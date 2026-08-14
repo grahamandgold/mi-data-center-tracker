@@ -1,7 +1,41 @@
 {
- "updated_at": "2026-08-14T13:57:58+00:00",
+ "updated_at": "2026-08-14T15:01:21Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "East Lansing keeps data-center freeze in place while writing new rules",
+   "dek": "City leaders extended the moratorium so staff can finish regulations on power use and setbacks. Residents 30 miles away in surrounding townships now have a model to watch for their own zoning fights. The pause blocks any new proposals until the rules are locked in.",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOFFqT0pLVW1KWjhjYkpUMFN2SkRXYlk0aFNRM25FTHV2b2Zza0ZyWlhhR09OTWZHWjl0UHhFVmVENWNrYk5FMGZ0N3oyNThQbkI5dVM1ejdEOGtvV1A4NHFJazZRZWt5LXZFcGxnbXRPN0Z4U2MzYlNoUWVOMERnVGJ5VDhRWjN6RmlnZktOWjJSZks3dm9vdzl6djduZjNqamd4VmU2Y2tfZw?oc=5",
+   "source": "East Lansing Info",
+   "region": "mid",
+   "cat": "STATEWIDE",
+   "county": "Ingham",
+   "tag": "Local Government",
+   "iso": "2026-08-14T14:30:00Z",
+   "id": "358a34dbe4ce",
+   "origin": "google-news",
+   "source_title": "East Lansing Extends Data Center Moratorium as City Develops New Regulations - East Lansing Info",
+   "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOFFqT0pLVW1KWjhjYkpUMFN2SkRXYlk0aFNRM25FTHV2b2Zza0ZyWlhhR09OTWZHWjl0UHhFVmVENWNrYk5FMGZ0N3oyNThQbkI5dVM1ejdEOGtvV1A4NHFJazZRZWt5LXZFcGxnbXRPN0Z4U2MzYlNoUWVOMERnVGJ5VDhRWjN6RmlnZktOWjJSZks3dm9vdzl6djduZjNqamd4VmU2Y2tfZw?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
+  {
+   "title": "Coldwater officials set Monday meeting on data-center power and water strain",
+   "dek": "Branch County leaders will hear how new facilities could affect local utility rates and aquifer levels. The joint session pulls in township and county boards to discuss oversight options. Nearby residents get a direct look at the trade-offs before any projects advance.",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYWxsaVJ0U19Ea0hEc1FqejZFUGFXdWVWa0l3NGJDY2M2TU9oNTY2Q0dzSnY5VjJzbENLTUJFaEVNUTlvUGpvRG1iTEFEWFRyTjRsRkNSYVpreDJNb0x4RzVMWW41WWRGc3lzMlFuT2JlZEVVLVBOczZZS2h1Q0daS3FsVW1vdEpjNkxfemVkbVUzMk5WLWQ2RGN2ZFhPN1RSV29DZ2x0Zm9TQ1F4aENYNk9icWFUV0wzR2taNTBadTRQTnVuZUQxNVBiSjNKX2dDSkh0Nk50ZFg1cVVzSGRVa1E0cFQxREE?oc=5",
+   "source": "Coldwater Daily Reporter",
+   "region": "mid",
+   "cat": "STATEWIDE",
+   "county": "Branch",
+   "tag": "Power & Grid",
+   "iso": "2026-08-14T13:51:00Z",
+   "id": "c210de2ab901",
+   "origin": "google-news",
+   "source_title": "Monday joint meeting to explore data center impacts and oversight - Coldwater Daily Reporter",
+   "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYWxsaVJ0U19Ea0hEc1FqejZFUGFXdWVWa0l3NGJDY2M2TU9oNTY2Q0dzSnY5VjJzbENLTUJFaEVNUTlvUGpvRG1iTEFEWFRyTjRsRkNSYVpreDJNb0x4RzVMWW41WWRGc3lzMlFuT2JlZEVVLVBOczZZS2h1Q0daS3FsVW1vdEpjNkxfemVkbVUzMk5WLWQ2RGN2ZFhPN1RSV29DZ2x0Zm9TQ1F4aENYNk9icWFUV0wzR2taNTBadTRQTnVuZUQxNVBiSjNKX2dDSkh0Nk50ZFg1cVVzSGRVa1E0cFQxREE?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
   {
    "title": "Hyperscale Data sells $43M in Bitcoin to fund Michigan data center push",
    "dek": "The crypto miner turned data-center developer unloaded 685 BTC to slash $30M in debt and boost liquidity. The cash directly supports its Michigan buildout plans. Readers statewide should watch how the company’s finances shape power demand and local tax deals.",
@@ -154,40 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RV3lCbU9lRFg0RzFaRXdtckZoenBLWkVoRmVHNkJERS1saG5JaDlMOVdUcFVsclp2OVc4VXJGeTYzd3NSX29yWkdRbHlsVWtwaFF3S2lRd2cyV3hLNjBOT0ZhVDN2dUlsVUVHYzRVeVFpMGNhRGRrWQ?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
-  },
-  {
-   "title": "Legal challenge to DTE data-center contract could dent utility's growth story",
-   "dek": "A court fight over an AI data-center power deal is raising questions about DTE Energy's biggest new revenue source. If the contract unravels, the utility's plans to serve massive new loads in southeast Michigan face delays. Ratepayers ultimately absorb the cost of any lost investment or higher backup power purchases.",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV19wMjRIMWU2Um1IMC1DcHRxcVN0b0gtT0MzeC04UFJocWN1dEhEWU8zRU5PUXlpdEFGRkdBSWVCTGVIOGhiN1lxYlpyOWI2dUp5cHN2RGdjQk91alpzNlBxM0N5NjNfcU9XNzJMeHE1ZDRkU0Vpbkl0eWV6RkNpV2tkSzZlNmxjUEJwbkFweFZLcXBjWkdSNS1vSkxKOU5MUlE2eFJxNFhFVlZUcHV0aDFNLUU3UWpnb2hDdi1SWHJzTFNRUnfSAcsBQVVfeXFMT2R4cUlJZkNoVkJZSmJVX0tUMkxnNjdSdWpiTlBna0FHcl9jdzhhYXhLanhIaWNPN1pFaWsxOF8tNDNrV1R1Vi1sX1BheVhITmJ1ekg0WGJGNnRtdF9YN0RheXBra0xDZzRuWUM1dkdxT01pbWJJWjJuZXdjYzVlbGZ0Z2tQUExZYWNHaVB4cVFCZWg3M2xzTEZNcnRGbEEweTdjM1VpWHlDU0Y4THFWdGpMN3JtcHBaVnk2OGlpYWdmeVB6ZnpTUklQYVE?oc=5",
-   "source": "simplywall.st",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Power & Grid",
-   "iso": "2026-08-13T19:34:35Z",
-   "id": "dfdadc52eb39",
-   "origin": "google-news",
-   "source_title": "The Bull Case For DTE Energy (DTE) Could Change Following AI Data Center Contract Legal Challenge - simplywall.st",
-   "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV19wMjRIMWU2Um1IMC1DcHRxcVN0b0gtT0MzeC04UFJocWN1dEhEWU8zRU5PUXlpdEFGRkdBSWVCTGVIOGhiN1lxYlpyOWI2dUp5cHN2RGdjQk91alpzNlBxM0N5NjNfcU9XNzJMeHE1ZDRkU0Vpbkl0eWV6RkNpV2tkSzZlNmxjUEJwbkFweFZLcXBjWkdSNS1vSkxKOU5MUlE2eFJxNFhFVlZUcHV0aDFNLUU3UWpnb2hDdi1SWHJzTFNRUnfSAcsBQVVfeXFMT2R4cUlJZkNoVkJZSmJVX0tUMkxnNjdSdWpiTlBna0FHcl9jdzhhYXhLanhIaWNPN1pFaWsxOF8tNDNrV1R1Vi1sX1BheVhITmJ1ekg0WGJGNnRtdF9YN0RheXBra0xDZzRuWUM1dkdxT01pbWJJWjJuZXdjYzVlbGZ0Z2tQUExZYWNHaVB4cVFCZWg3M2xzTEZNcnRGbEEweTdjM1VpWHlDU0Y4THFWdGpMN3JtcHBaVnk2OGlpYWdmeVB6ZnpTUklQYVE?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
-  },
-  {
-   "title": "Iosco drafts rules to tame data center sprawl",
-   "dek": "East Tawas area leaders are reviewing a draft ordinance that would set local standards for future data centers. Residents in Iosco County could see limits on size, noise and power use if the rules pass. The move comes as big tech eyes more northern Michigan sites for cheap land and power.",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZUNoZ3lKZnZuUURaU1Q1U3JXWml0bWlDaG50QmxReHZBaU0ydU9VVl9pMXZvWS1QblZaYWNoeENUSFNuMHZiUXVHOEZ6RzVLeFgyMlpCQmpSM3c1aTRiRnlLWFhLckxuMmh2aHNiS1ZoUEMwSE1hRDNXMDFQRnVxZVF2cU0ydW8?oc=5",
-   "source": "Iosco County News Herald",
-   "region": "north",
-   "cat": "STATEWIDE",
-   "county": "Iosco",
-   "tag": "Local Government",
-   "iso": "2026-08-13T12:00:00Z",
-   "id": "960f304b1abc",
-   "origin": "google-news",
-   "source_title": "ET Council looks over draft for data center ordinance - Iosco County News Herald",
-   "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZUNoZ3lKZnZuUURaU1Q1U3JXWml0bWlDaG50QmxReHZBaU0ydU9VVl9pMXZvWS1QblZaYWNoeENUSFNuMHZiUXVHOEZ6RzVLeFgyMlpCQmpSM3c1aTRiRnlLWFhLckxuMmh2aHNiS1ZoUEMwSE1hRDNXMDFQRnVxZVF2cU0ydW8?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {

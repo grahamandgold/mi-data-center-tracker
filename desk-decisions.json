@@ -1,34 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdFNkUDRNbVpBeWxMYzd1UGlGU1hMdlJBRmRlOGQxY0RXaGszNHhOT0ZGZEtVQ2R1N0hFdmJHV2FWWmhtYWZjdHI5ZXdjODd4MjJfMzhhMndGQVhTYkt5YkF5TGRxU3JoM1k1Vk9LOVRybFV3ZC1oalNpbTF3Z1Ffbm5NY3dvc191Q01ueTdxajBUOUhRcEdMZXRvenlyWkRBVmF4UTBUMlhJTGx1b1NxTXYzdW0xQjhTdVdXY25lX2NiZWFxZ0E?oc=5",
-   "title": "Hyperscale sells 100 BTC to bankroll Michigan AI campus",
-   "at": "2026-07-30T16:09:14+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: This is the same Bitcoin liquidation story already live as 'Hyperscale cashes out Bitcoin to bankroll Michigan AI campus' and killed as 'Company dumps 100 Bitco"
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRzY4RHJIbVhIeE95RE42R21zRGFwWXlJYm1CTnctNWI5cjhSNHo0NS0xUU5ZanVURFlhcm5sXzZGdW5DaHdJUTVXMjhVUnhmQVpjZ01tdU1ZRzZxVlMtM1BUNEY1RGVCOG5fWXN0MEJEb2FYcHZmc241VWlGZnpEeHB5cWdnLWNscDYwWURUeWktdTVHM1h6bFJ6X1ktTHlWS2R0c0swRUI?oc=5",
-   "title": "Hyperscale Data cashes in Bitcoin to bankroll Michigan AI campus",
-   "at": "2026-07-30T17:59:31+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicate of already-live 'Hyperscale cashes out Bitcoin to bankroll Michigan AI campus' and killed 'Company dumps 100 Bitcoin to bankroll artificial intelligen"
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPek5mTXlaUlB1dnBWaW5JaExXaVl5YXNVR2JVQUd0REhpLUNVZ1pVbFo1TV9LcGdYLUdjaG9rNnk5ZGhxV09tSzNzTWIyU09jNm5yanJxT0xuUkNIandXOUdURzVGb1dTMHZ6LUVfYmJzM2hNcFNWRTBCRkVxWkJheW5HSWFfLWQ0ZFVYTUVXZktnazBuc3FRN0M4a2V1RVUtZ2VHdG1JNXRZVExsa2RPekdpMmdRRm4zazJ0V3ROdTI?oc=5",
-   "title": "Hyperscale Data cashes in 100 BTC to push Michigan AI campus ahead",
-   "at": "2026-07-30T19:45:06+00:00",
-   "by": "news_judge",
-   "note": "score 1/10, duplicate: This is the same Bitcoin liquidation event already covered in multiple killed stories (Company dumps 100 Bitcoin, Hyperscale sells 100 BTC, Hyperscale Data cash"
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQmQyejhJZDFCbU43RDZNcEplaWFiVE1IOG5YLVNRaDFQbUtpZGRNYktyeDhTMWZNYk9LODZGcmE5eXJFTENUSDlTNUs4XzU5ZU1jQkNEcHZJQ00xNXFWTUhIeExCMWZWeVRIQVh5RlF3a21tN3RZTDRmN1dqMF9FaGhQb2M2QdIBiwFBVV95cUxOOE9VX2hCQVEySFhETWtOdXdiR182MkFZVS05QzhUdnY2U0I2bDViV19fM01uM1JQX3B4ZlVENVpHMUphajlnRTZOT2lFaHhKWXU0TnBLZ0hKcERDS2lhZDZpc0dnOU9WcE92QkY3SVJnRjdQLU5taHBJQXkzNTUyTGtoR2ZrQ2NMTk1r?oc=5",
-   "title": "FOX explainer breaks down how Michigan data centers will hit the grid",
-   "at": "2026-07-30T21:19:38+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Explainer/educational piece about general grid impacts lacks a specific new development, filing, or decision."
-  },
-  {
    "url": "https://www.nytimes.com/2026/07/29/climate/trump-federal-data-centers.html",
    "title": "Trump Administration Moves to Repurpose Federal Land for Massive AI Data Centers and Power Plants",
    "at": "2026-07-31T00:12:27+00:00",
@@ -1399,6 +1371,34 @@
    "at": "2026-08-14T11:27:33+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece aggregating multiple states' responses without reporting a specific Michigan decision, filing, or development; too broad and speculative fo"
+  },
+  {
+   "url": "https://www.michigansthumb.com/news/article/lake-township-data-center-ordinance-22386902.php",
+   "title": "Lake Township planners begin drafting permanent data center rules with water and power caps",
+   "at": "2026-08-14T15:01:21+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Thin incremental follow-up on already-live Lake Township water/power cap story; planning commission drafting is process, not a decision."
+  },
+  {
+   "url": "https://wwmt.com/news/local/marshall-threat-council-city-data-center-dispute-moratorium-project-proposal-leaders-mayor-police-department-wwmt",
+   "title": "Marshall police warn council of credible threats tied to data center moratorium fight",
+   "at": "2026-08-14T15:01:21+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Same Marshall council threats story already live, just reworded with police attribution instead of council perspective."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMzlHc1hLNE9NLS15UGZXV1JadWZ2THowcm5lRGFUWmIwUC1DTjJ6UEVmdHR6cnFQMXVnZmw3S29hRnB6VHVFN1hJNG9iTUVxdFpYR1dQNURrMTFxd24wbUhnZ1h5NmM4YUc1OHM5N3dieDI0VWxuN3E3WVRVVE5JZjd6bWxNUWhOZVZnalFSaW1XVlZ6OGc?oc=5",
+   "title": "Lake Township tightens data-center rules with hard caps on water and power",
+   "at": "2026-08-14T15:01:21+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: Duplicate of already-live Lake Township water/power cap story; 'draft ordinance' is not a new decision beyond the existing cap."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcFNzbFFRdHlZUUtPc25uREl6cHZwN0U0dmtfN2tDaDZaZWE5dG9WRXktMmJ1eUNRRjh2NkRXXzBUdFBZRnc4TGZxQXNCWXV2eUlSRmNyU3FDdm9hWFE0OUpsbWV5QVRRSDBxWUJZbE1SWTh2dGRVWUFESTU2OVRrX3BBNGVIdEFUYUlHVUdNaHZhOVNnTThsc1BQemRRN2RHNFlzQVYwS29VdGtyTktTWEdfTnZTV0dBM2VJVldsdEI2dnU1OWlvX3ZLMHVZUQ?oc=5",
+   "title": "Hyperscale Data cashes 685 BTC for $43M to build Michigan data center",
+   "at": "2026-08-14T15:01:21+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Same Hyperscale Data $43M Bitcoin sale already live, just reworded with BTC quantity and slightly different framing."
   }
  ],
  "auto_published": [
@@ -2877,6 +2877,18 @@
    "title": "Hyperscale Data sells $43M in Bitcoin to fund Michigan data center push",
    "judge_score": 7,
    "at": "2026-08-14T12:25:29Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYWxsaVJ0U19Ea0hEc1FqejZFUGFXdWVWa0l3NGJDY2M2TU9oNTY2Q0dzSnY5VjJzbENLTUJFaEVNUTlvUGpvRG1iTEFEWFRyTjRsRkNSYVpreDJNb0x4RzVMWW41WWRGc3lzMlFuT2JlZEVVLVBOczZZS2h1Q0daS3FsVW1vdEpjNkxfemVkbVUzMk5WLWQ2RGN2ZFhPN1RSV29DZ2x0Zm9TQ1F4aENYNk9icWFUV0wzR2taNTBadTRQTnVuZUQxNVBiSjNKX2dDSkh0Nk50ZFg1cVVzSGRVa1E0cFQxREE?oc=5",
+   "title": "Coldwater officials set Monday meeting on data-center power and water strain",
+   "judge_score": 6,
+   "at": "2026-08-14T15:01:21Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOFFqT0pLVW1KWjhjYkpUMFN2SkRXYlk0aFNRM25FTHV2b2Zza0ZyWlhhR09OTWZHWjl0UHhFVmVENWNrYk5FMGZ0N3oyNThQbkI5dVM1ejdEOGtvV1A4NHFJazZRZWt5LXZFcGxnbXRPN0Z4U2MzYlNoUWVOMERnVGJ5VDhRWjN6RmlnZktOWjJSZks3dm9vdzl6djduZjNqamd4VmU2Y2tfZw?oc=5",
+   "title": "East Lansing keeps data-center freeze in place while writing new rules",
+   "judge_score": 7,
+   "at": "2026-08-14T15:01:21Z"
   }
  ]
 }
