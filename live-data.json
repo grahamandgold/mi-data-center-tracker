@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-14T11:27:30+00:00",
+ "updated_at": "2026-08-14T12:25:29Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Hyperscale Data sells $43M in Bitcoin to fund Michigan data center push",
+   "dek": "The crypto miner turned data-center developer unloaded 685 BTC to slash $30M in debt and boost liquidity. The cash directly supports its Michigan buildout plans. Readers statewide should watch how the company’s finances shape power demand and local tax deals.",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kQXo1ckx2ellHRzVVekhIR0toTjZzUjlCNGtJV0MtSm5rTVU5V0I4dFZCR0NBZFppbjNRdGhLcUJMOGVZaXo3NWx4U2gwN0lNdmtHSUdqWC1DWFBJeHB5dXgyZTd2QUtkYTVtUDNXUWxhWmNzOUE?oc=5",
+   "source": "The Cryptonomist",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Money",
+   "iso": "2026-08-14T10:39:12Z",
+   "id": "b99aad84f207",
+   "origin": "google-news",
+   "source_title": "Hyperscale Data Bitcoin Sale Nets $43M, Cuts Debt by $30M for Michigan Expansion - The Cryptonomist",
+   "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kQXo1ckx2ellHRzVVekhIR0toTjZzUjlCNGtJV0MtSm5rTVU5V0I4dFZCR0NBZFppbjNRdGhLcUJMOGVZaXo3NWx4U2gwN0lNdmtHSUdqWC1DWFBJeHB5dXgyZTd2QUtkYTVtUDNXUWxhWmNzOUE?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Lake Township caps data center water and power use",
    "dek": "Lake Township is writing stricter zoning rules that would limit how much water and electricity new data centers can draw. Residents in this rural Huron County area worry large facilities could strain wells and the local grid. The draft rules come as more companies eye Michigan sites for AI servers.",
@@ -171,23 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZUNoZ3lKZnZuUURaU1Q1U3JXWml0bWlDaG50QmxReHZBaU0ydU9VVl9pMXZvWS1QblZaYWNoeENUSFNuMHZiUXVHOEZ6RzVLeFgyMlpCQmpSM3c1aTRiRnlLWFhLckxuMmh2aHNiS1ZoUEMwSE1hRDNXMDFQRnVxZVF2cU0ydW8?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Detroit-area township fights back on data center plan",
-   "dek": "A local township near Detroit is pushing to block or shrink a proposed data center project. Neighbors worry about noise, traffic and strain on the electric grid. The fight shows how even smaller projects now face organized local resistance.",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNHh1c1gwMndpUFBaY2FMYURQeGNGNnpGTkJFbFNNb0w1NWItcjY3ZzZyZ0ZfU1plM1VxV0IxODluUnFEODMzUlU4ZVhqRjZWTUllclBRRl9Vb1IyenlyTndfbHd3a1dpaW1ETFdxSm45R0VxWllEUVNOQ21LX3VhSGdWdkI5T0EwYjBYOVVLWTRqM0E1ZG9Ib3dZNzB1MGRjUlJQTGNB?oc=5",
-   "source": "ClickOnDetroit | WDIV Local 4",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Macomb",
-   "tag": "Local Government",
-   "iso": "2026-08-13T11:44:51Z",
-   "id": "c070240d8858",
-   "origin": "google-news",
-   "source_title": "Township pushes back against data center proposal - ClickOnDetroit | WDIV Local 4",
-   "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNHh1c1gwMndpUFBaY2FMYURQeGNGNnpGTkJFbFNNb0w1NWItcjY3ZzZyZ0ZfU1plM1VxV0IxODluUnFEODMzUlU4ZVhqRjZWTUllclBRRl9Vb1IyenlyTndfbHd3a1dpaW1ETFdxSm45R0VxWllEUVNOQ21LX3VhSGdWdkI5T0EwYjBYOVVLWTRqM0E1ZG9Ib3dZNzB1MGRjUlJQTGNB?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {
@@ -205,6 +205,20 @@
   "accuracy": "checked"
  },
  "meetings": [
+  {
+   "iso": "2026-08-17",
+   "body": "Caledonia Township Planning Commission",
+   "topic": "Data Center Ordinance Discussion and potential zoning amendments",
+   "region": "West Michigan",
+   "regionKey": "west",
+   "county": "Kent",
+   "time": "7:00 PM",
+   "status": "Planning commission",
+   "urgent": false,
+   "link": "https://www.caledoniatownship.org/AgendaCenter",
+   "linkLabel": "Agenda",
+   "stream": ""
+  },
   {
    "iso": "2026-08-17",
    "body": "Kalamazoo City Commission",
