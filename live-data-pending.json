@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-15T01:44:02+00:00",
+ "updated_at": "2026-08-15T03:00:30+00:00",
  "generator": "grok-wire-agent",
  "items": [
   {
@@ -50,5 +50,5 @@
    "judge_note": "Negaunee council voted 7-0 to advance a restrictive ordinance with a scheduled public hearing—a real decision and next step."
   }
  ],
- "accuracy_checked_at": "2026-08-15T01:43:58+00:00"
+ "accuracy_checked_at": "2026-08-15T03:00:27+00:00"
 }

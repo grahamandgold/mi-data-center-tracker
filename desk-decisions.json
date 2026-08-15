@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.governor.ny.gov/executive-order/no-62-establishing-temporary-moratorium-data-centers-new-york-while-state-develops",
-   "title": "New York Pauses New Data Centers to Curb 12 GW Power and Water Demands",
-   "at": "2026-07-31T18:26:47+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: National trend piece from New York with no Michigan-specific development or impact."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5Y1hRT19mNnRJZy1rWW5id2lqWkxBOUlJZlZjSVowbVFjZUhnUHlSdEp4Z2o5a2w4dU9hM0lFNm9GT3pzZ0FhWWVvWlhHQTNDMDVxZGRydURUWnh3ZHV5WGU0WS1ZOVJBLTUzNjRid2RuakQtUURqWEZuaUNNVFk?oc=5",
    "title": "Hyperscale Data sells Bitcoin to bankroll Michigan AI campus",
    "at": "2026-07-31T18:26:47+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-15T01:44:02+00:00",
    "by": "news_judge",
    "note": "score 2/10: Indiana city moratorium has no Michigan angle and offers nothing new to Michigan readers tracking local buildout."
+  },
+  {
+   "url": "https://en.cryptonomist.ch/2026/08/14/hyperscale-data-bitcoin-sale/",
+   "title": "Hyperscale Data sells 685 Bitcoin for $43M to expand Michigan data center",
+   "at": "2026-08-15T03:00:30+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Same Bitcoin sale already killed three times under different headlines (Hyperscale Data cashes 685 BTC, Bitcoin miner funnels $43M, Hyperscale sells $43M in Bit"
   }
  ],
  "auto_published": [
