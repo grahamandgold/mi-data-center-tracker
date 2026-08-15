@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.cbsnews.com/detroit/news/saline-township-residents-frustrated-new-data-center-permit-application/",
-   "title": "Saline River faces added pollutants as data center seeks discharge permit",
-   "at": "2026-08-01T12:08:12+00:00",
-   "by": "news_judge",
-   "note": "score 4/10, duplicate: Same permit application and public comment period already covered in 'Saline data center seeks river discharge permit amid local pushback' — no new development "
-  },
-  {
    "url": "https://www.eenews.net/articles/michigan-senate-primary-puts-data-center-politics-to-the-test/",
    "title": "Senate Primary Tests Data Center Crackdown as Campaign Issue",
    "at": "2026-08-01T17:14:24+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-15T18:40:39+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece about lending practices with only generic Michigan mention in headline; already killed similar story 'Lenders Tighten Scrutiny on Data Cent"
+  },
+  {
+   "url": "https://www.reuters.com/business/energy/us-data-center-power-demand-surges-2026-08-15/",
+   "title": "U.S. data center power demand surges as utilities scramble for new capacity",
+   "at": "2026-08-15T19:27:48+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece with no Michigan-specific development, decision, or data; already-killed stories show similar national utility/power themes have been rejec"
   }
  ],
  "auto_published": [
