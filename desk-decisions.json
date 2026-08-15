@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYXhsQ1NZYlYxaWhTNzl5SkVmNXJCY3Zid3FFUGcwVHZUYUZ0VTNyY1dGUWxFc2dic19nQlkxeEhiX0ZHRHJNMGcyTS1vT3k4M3RaSmljQ1FhLXdBbk93c3JJYWV6aGgyR2ZrQ3NjdEh2Q09ncnI4d3NMWnBRWHUxU3ZnR0p1NnVRYkdDZTZucnZxTGV4N00zNHdlbTFjc05DUTk0YVd1aVZVd0d1QmFLMUNDRnFtbTZyZVBjTHBBT0FoTG5iVnJ5RC12b3I3UGtTYXdnMDlkUDZFRXM?oc=5",
-   "title": "Oracle and OpenAI data center seeks OK to dump wastewater into Saline River",
-   "at": "2026-07-31T22:35:51+00:00",
-   "by": "news_judge",
-   "note": "score 4/10, duplicate: Same Saline river discharge permit already covered in two live stories, no new development reported."
-  },
-  {
    "url": "https://www.wsj.com/topics/industry/data-centers",
    "title": "New York Enacts First Statewide Pause on New Data Center Construction",
    "at": "2026-08-01T03:42:27+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-15T05:55:53+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Duplicate of already-live 'Manistee Township joins pause on new data centers' — same moratorium, just truncated."
+  },
+  {
+   "url": "https://dailyreporter.com/2026/08/14/data-center-projects-support-firms-commercial-backlog-drop/",
+   "title": "Data center projects help sustain commercial construction backlogs amid broader slowdown",
+   "at": "2026-08-15T08:38:49+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece from a trade association report with no Michigan-specific angle, project, or decision."
   }
  ],
  "auto_published": [
