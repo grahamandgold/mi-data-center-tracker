@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-15T22:30:53+00:00",
+ "updated_at": "2026-08-15T22:51:53Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Saline Township brings on ex-cop to steer zoning fights over big projects",
+   "dek": "The township hired a retired sergeant to manage zoning applications. Residents near Ann Arbor now have a direct contact point when large industrial proposals, including potential data centers, hit the planning desk. The hire signals Saline expects more complex land-use cases in the coming months.",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaGtST1lKTXlxdkZ6SnlscGI4aVJVUmhXSHdGVlBMUk1xS2ZDQl83RDFldDNIQTRNN0NnMjB2bEg1OWx0VlU1a3FjNy1YTzhXTFc0SXI2T01sb0xkRTFyRVZncnFaV3VKNHBKTjNHQ1pOTHRWTDN4WTYzbXQyMWV3cU5LX0p3Um5uRDRIdmpR?oc=5",
+   "source": "The Sun Times News",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Local Government",
+   "iso": "2026-08-15T19:11:33Z",
+   "id": "f46bd0868e40",
+   "origin": "google-news",
+   "source_title": "Saline Township Selects Retired Sergeant for Zoning Role - The Sun Times News",
+   "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaGtST1lKTXlxdkZ6SnlscGI4aVJVUmhXSHdGVlBMUk1xS2ZDQl83RDFldDNIQTRNN0NnMjB2bEg1OWx0VlU1a3FjNy1YTzhXTFc0SXI2T01sb0xkRTFyRVZncnFaV3VKNHBKTjNHQ1pOTHRWTDN4WTYzbXQyMWV3cU5LX0p3Um5uRDRIdmpR?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
   {
    "title": "Cass County residents pack hall to block data center projects",
    "dek": "Save Cass County drew a standing-room crowd to its latest town hall, where neighbors voiced worries over noise, water use and rising electric bills from proposed facilities. The group is pushing local officials to reject or heavily restrict the projects before more land is optioned. Michigan residents 30 miles away could see indirect rate hikes if these sites connect to the same grid.",
@@ -167,21 +184,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYWxsaVJ0U19Ea0hEc1FqejZFUGFXdWVWa0l3NGJDY2M2TU9oNTY2Q0dzSnY5VjJzbENLTUJFaEVNUTlvUGpvRG1iTEFEWFRyTjRsRkNSYVpreDJNb0x4RzVMWW41WWRGc3lzMlFuT2JlZEVVLVBOczZZS2h1Q0daS3FsVW1vdEpjNkxfemVkbVUzMk5WLWQ2RGN2ZFhPN1RSV29DZ2x0Zm9TQ1F4aENYNk9icWFUV0wzR2taNTBadTRQTnVuZUQxNVBiSjNKX2dDSkh0Nk50ZFg1cVVzSGRVa1E0cFQxREE?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
-  },
-  {
-   "iso": "2026-08-14T13:00:00Z",
-   "region": "metro",
-   "cat": "Washtenaw Co.",
-   "tag": "Money",
-   "title": "Resident challenges Saline Township tax abatement for $43B hyperscale data center",
-   "dek": "An attorney argues the township skipped required steps for the Oracle-OpenAI-Related Digital project, asking the state tax commission to deny the break.",
-   "source": "Michigan Advance",
-   "url": "https://michiganadvance.com/2026/08/14/in-bid-to-stop-saline-data-center-tax-break-an-attorney-argues-the-township-skipped-crucial-steps/",
-   "breaking": false,
-   "lead": true,
-   "id": "510b5f985286",
-   "accuracy": "checked",
-   "judge_score": 7
   }
  ],
  "national": {
