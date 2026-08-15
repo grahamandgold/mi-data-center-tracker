@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-15T13:37:21+00:00",
+ "updated_at": "2026-08-15T14:31:41+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -199,6 +199,20 @@
   "accuracy": "checked"
  },
  "meetings": [
+  {
+   "iso": "2026-08-17",
+   "body": "City of Coldwater, Planning Commission and CBPU Board",
+   "topic": "Zoning and regulation of high-utility data centers",
+   "region": "Mid-Michigan",
+   "regionKey": "mid",
+   "county": "Branch",
+   "time": "5:30 PM",
+   "status": "Joint informational meeting",
+   "urgent": false,
+   "link": "https://wtvbam.com/2026/08/14/970442/",
+   "linkLabel": "Meeting Announcement",
+   "stream": ""
+  },
   {
    "iso": "2026-08-17",
    "body": "Coldwater City Council, Planning Commission and Board of Public Utilities",
