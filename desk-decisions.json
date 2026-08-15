@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.salemreporter.com/2026/07/31/while-salem-project-is-uncertain-verrus-advances-data-center-in-michigan/",
-   "title": "Verrus Clears Hurdle for Large Michigan Data Center While Salem Fights 75-Acre Plan",
-   "at": "2026-08-01T17:14:24+00:00",
-   "by": "news_judge",
-   "note": "score 5/10, duplicate: Duplicate of already-live 'Verrus pushes ahead on Michigan data center while Salem site stalls' — same Lyon/Salem developments, just reworded."
-  },
-  {
    "url": "https://www.miningjournal.net/opinion/letters-to-the-editor/2026/08/we-need-a-better-conversation-about-data-centers/",
    "title": "Letter Urges Thoughtful Planning on Data Centers in the UP",
    "at": "2026-08-01T17:14:24+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-15T20:32:17+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: This is the same Cass County town hall event already live as 'Cass County residents pack hall to block data center projects' — identical meeting, just reworded."
+  },
+  {
+   "url": "https://alabamareflector.com/2026/08/15/the-data-center-industrys-pr-blitz-is-backfiring/",
+   "title": "Data Center Industry's PR Efforts Face Growing Public Backlash Nationwide",
+   "at": "2026-08-15T20:52:49+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece with poll data but no Michigan-specific development, decision, or action."
   }
  ],
  "auto_published": [
