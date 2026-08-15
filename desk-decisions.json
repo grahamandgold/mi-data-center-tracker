@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.wsj.com/topics/industry/data-centers",
-   "title": "New York Enacts First Statewide Pause on New Data Center Construction",
-   "at": "2026-08-01T03:42:27+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece about New York policy with no Michigan-specific decision, development, or impact."
-  },
-  {
    "url": "https://wtvbam.com/2026/07/31/965846/",
    "title": "Coldwater Skips Moratorium to Lock In Strict Data Center Limits",
    "at": "2026-08-01T06:37:58+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-15T08:38:49+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece from a trade association report with no Michigan-specific angle, project, or decision."
+  },
+  {
+   "url": "https://www.cnbc.com/2026/08/14/data-centers-in-space-emerge-as-next-frontier-for-insurers.html",
+   "title": "Space-based data centers emerge as new frontier amid terrestrial power strains",
+   "at": "2026-08-15T09:34:11+00:00",
+   "by": "news_judge",
+   "note": "score 2/10: National trend speculation about space-based data centers with no Michigan angle, no concrete project, and no relevance to Michigan's terrestrial buildout track"
   }
  ],
  "auto_published": [

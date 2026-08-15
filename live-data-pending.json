@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-15T08:38:49+00:00",
+ "updated_at": "2026-08-15T09:34:11+00:00",
  "generator": "grok-wire-agent",
  "items": [
   {
@@ -20,54 +20,7 @@
    "headline_rewritten": true,
    "judge_score": 6,
    "judge_note": "MPSC testimony to lawmakers on rate-hike reforms is document-based and relevant to data-center power costs, but lacks a specific decision or filing that would p"
-  },
-  {
-   "iso": "2026-08-13T21:30:00+00:00",
-   "region": "metro",
-   "cat": "Washtenaw Co.",
-   "tag": "Money",
-   "title": "Attorney challenges Oracle data center tax break over missing Saline Township hearing",
-   "dek": "Ellis Boal asked the state tax commission to deny the abatement, saying the township created the required industrial district without holding a public hearing first.",
-   "source": "WEMU",
-   "url": "https://www.wemu.org/wemu-news/2026-08-13/attorney-challenges-saline-township-tax-break-for-oracles-data-center",
-   "breaking": false,
-   "lead": true,
-   "id": "757f6b1352ee",
-   "kind": "story",
-   "filed_at": "2026-08-14T10:35:10+00:00",
-   "accuracy": "checked-rewritten",
-   "headline_rewritten": true,
-   "judge_score": 8,
-   "judge_note": "Concrete new development: a formal legal challenge filed with the state tax commission over procedural violations in the Oracle Saline Township abatement proces"
-  },
-  {
-   "title": "Negaunee tightens rules to keep data centers out of most zones",
-   "dek": "Council voted 7-0 to advance an ordinance confining data centers to mining and industrial areas, capping noise, height and emissions, with a public hearing set for Aug. 13.",
-   "url": "https://www.miningjournal.net/news/front-page-news/2026/07/public-hearing-for-negaunee-data-center-ordinance-to-be-held-on-aug-13/",
-   "source": "Negaunee City Council or Planning Commission agenda",
-   "region": "Northern Michigan",
-   "county": "Marquette",
-   "cat": "Meetings",
-   "tag": "Agenda watch",
-   "iso": "2026-08-13T21:09:39+00:00",
-   "kind": "agenda",
-   "id": "148301b1c23b",
-   "filed_at": "2026-08-13T21:09:39+00:00",
-   "accuracy": "checked-rewritten",
-   "findings": "Ordinance limits data centers to mining and industrial zones | Sets acceptable levels of noise disturbance and maximum building heights | Requires any air pollution, dust, smoke, glare, exhaust, noise, heat, vibration or humidity to be imperceptible at or beyond the property line | Negaunee City Council voted 7-0 to approve first reading and schedule Aug. 13 public hearing | Planning Commission drafted and recommended the ordinance | Michigan state law outlaws exclusionary zoning, preventing municipalities from completely outlawing specific lawful land-uses including data centers",
-   "perspective": "Negaunee City Council approved the first reading 7-0 at its July meeting after the Planning Commission recommended the ordinance. Councilperson Jon Becker said he brought the issue to the planning commission and personally hopes the ordinance is restrictive enough that data centers choose to go elsewhere. Councilperson Amanda Ghanavati said she hopes it makes it nearly impossible for data centers ",
-   "documents": [
-    {
-     "label": "Agenda page",
-     "url": "https://www.miningjournal.net/news/front-page-news/2026/07/public-hearing-for-negaunee-data-center-ordinance-to-be-held-on-aug-13/"
-    }
-   ],
-   "depth_score": 2,
-   "extraction_method": "plain",
-   "headline_rewritten": true,
-   "judge_score": 8,
-   "judge_note": "Negaunee council voted 7-0 to advance a restrictive ordinance with a scheduled public hearing—a real decision and next step."
   }
  ],
- "accuracy_checked_at": "2026-08-15T08:38:47+00:00"
+ "accuracy_checked_at": "2026-08-15T09:34:08+00:00"
 }
