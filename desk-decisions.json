@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.wxyz.com/news/region/washtenaw-county/saline-river-at-center-of-permit-request-tied-to-oracle-openai-data-center-in-saline-township",
-   "title": "Oracle and OpenAI seek state permit to discharge treated wastewater from Saline Township data center into Saline River",
-   "at": "2026-08-01T21:04:08+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicate of already-live 'Saline data center seeks river discharge permit amid local pushback' — same permit filing, same project."
-  },
-  {
    "url": "https://www.politico.com/news/2026/07/08/trump-data-centers-water-supreme-court-00958383",
    "title": "Court ruling allows more data centers to bypass federal water permits in sensitive areas",
    "at": "2026-08-01T21:04:08+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-15T21:49:37+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece with only speculative connection to Michigan power users; lacks concrete local development."
+  },
+  {
+   "url": "https://midmichigannow.com/news/nation-world/data-centers-emerge-as-bipartisan-flashpoint-ahead-of-2026-midterm-elections-political-issues-national-president-donald-trump",
+   "title": "Voters from both parties target data center water and power costs",
+   "at": "2026-08-15T22:31:02+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece with generic polling data and only a brief mention of New York's moratorium; lacks Michigan-specific development or concrete local action."
   }
  ],
  "auto_published": [
