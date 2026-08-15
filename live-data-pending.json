@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-15T15:49:31+00:00",
+ "updated_at": "2026-08-15T16:34:32+00:00",
  "generator": "grok-wire-agent",
  "items": [
   {
@@ -43,5 +43,5 @@
    "judge_note": "MPSC testimony to lawmakers on rate-hike reforms is document-based and relevant to data-center power costs, but lacks a specific decision or filing that would p"
   }
  ],
- "accuracy_checked_at": "2026-08-15T15:49:31+00:00"
+ "accuracy_checked_at": "2026-08-15T16:34:30+00:00"
 }

@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNSjBUbkQ5RE1kOUJmR1hTdzhOdHZOZzd5OEVTRE5iUmhqeXZZSVp2aDM5Q09Eck9JcGpKWVZfS1d1S2oyUlFPcW5VM0QtcWxjd1hSckpaSmJKcnJ5S2VDNTNXN05vYlUtLUgwM21hdFNiaHFoSlZ6OUMzNTdDSFlkeDRSVXQwX1U0cEtUMnpRclN1NDd6aUwzSV9RSF9ZZW5vUWg5YmFETXJBeF9TTERid3hsa3RaWkF0ZHZJOFlwVjJtY2ZTZm5aOHBwU2FSNGRNXzZvWXJ6eDM1Sk9mWGszN21iZjVHVlZfdlNsQUIxSmd1ZGR3UDF4ZWxWd0RtZTZrX0xwMTBHUGlSaXZ0RmNFMV9sa1dkdjVoc25ocmJVUXZtX0xURmlORms5ZEZiOEJrVWh4aWVNSzQ4cm9mX0NlWThyNnJWRm9seHJqZUxjTzZzOWExQzNEaFlSWQ?oc=5",
-   "title": "Cass County residents gear up to fight data center zoning",
-   "at": "2026-08-01T06:37:58+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Duplicate: 'Cass County neighbors ready to block new data centers' already killed; same organizing effort, just reworded."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxONVVEZHJ4aklFTFM4Z0stVzRIdlNiMDN2Tl9QOUZwemtic1BraE9RbEllMjFwZndLcWFoeEdTZnZUbUtab2V4Y2dSVmdsNXEtWklFTXQ4YnBZdElSLV9IbDFyRVNRcE1xeUxCcms3NFJsLUZaQXdaeS1Ca2NPZzQ1YTludHpEdzNoQk9ld2d5bkxzaFB2dzVKQUdOM3VZQ2hfdVlIbS1NU0VxcldVbzlnSlNUVFh2VHlkaGhZUktFTm9VbXRYS0lNM2IwYW5haUdaNGs2dVVmS2h5a0lmMHE0SXh2Nm1hLWg0enE3ZmZFd1E1ckxhUlhaTkxEVjBHdVFPM29PcWd3a1N2X3FpQXQta0hsWXhnVVE5dE9LX1dQdGdOSHU4UnpUZUFqTnlmeUFCMHFWa2ZhRU0xbHlmTF9RbF9XVmFmbExIdGFPQVNTemhnX1doMG5uYw?oc=5",
    "title": "Neighbors organize early to control tax breaks and utility costs before data centers arrive",
    "at": "2026-08-01T11:01:26+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-15T13:37:27+00:00",
    "by": "news_judge",
    "note": "score 4/10: National trend piece about lender behavior with only passing mention of Michigan; lacks specific Michigan financing decision or concrete development."
+  },
+  {
+   "url": "https://podcastrex.com/shows/democracy-now-audio/democracy-now-2026-08-14-friday",
+   "title": "Tennessee Primary Highlights Growing Backlash Against Hyperscale Data Centers",
+   "at": "2026-08-15T16:34:32+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece about a Tennessee primary result with no Michigan-specific development or connection to the state's data center buildout."
   }
  ],
  "auto_published": [
