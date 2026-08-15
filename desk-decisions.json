@@ -1,34 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://bridgemi.com/michigan-government/fact-checks-john-james-perry-johnson-on-tax-cuts-data-centers-and-more/",
-   "title": "Johnson Overstates Tax Savings for Michigan Families by $1,300",
-   "at": "2026-07-31T21:18:37+00:00",
-   "by": "news_judge",
-   "note": "score 2/10: State income tax debate unrelated to data center buildout; off-topic for this tracker."
-  },
-  {
-   "url": "https://www.glc.org/dailynews/20260721-openai-seeks-permit-wasteawater-discharge-saline-river",
-   "title": "Treated Wastewater from OpenAI Data Center May Enter Saline River",
-   "at": "2026-07-31T21:18:37+00:00",
-   "by": "news_judge",
-   "note": "score 9/10, duplicate: Same Saline river discharge permit already covered in live story 'Saline data center seeks river discharge permit amid local pushback.'"
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaXdDR0JrWTY3YmVPMFZlbGFKOGktXzdBaWthOWZCQnhKTy02aUJfUWpHMjVLUE5KT2d2TGNVRWliM1psdWc1SmdwUWJQS2d0VUNKbFlIR1dJZU9HUEFmYXh0VHYtUTBpXzdWeUtwY19DVlcxUTZCRklHYVRpSmVUSTl5SG9iRnZHa1JDSUVmX1ZBZ3R1dmtEamF2YW5VUjU3VEdCY2N1bDlaZG5iQmc?oc=5",
-   "title": "Michigan facility wants river discharge OK; anglers demand volume, quality details",
-   "at": "2026-07-31T21:18:37+00:00",
-   "by": "news_judge",
-   "note": "score 9/10, duplicate: Same discharge permit request as live story 'Saline data center seeks river discharge permit' and candidate [1], just different framing."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbk5Wdnd3VWprWG5ITGJ5WVZySTRfT2drenUzT3ZIWm1SdUJZX3dvUzIxYW9JREIyZ3ZiMnk5N29tUkxMVGpmcXF3NnpyNnlPN2t0Vm50NjVucGo5blJyU0VfNDdUbHRNVmtPRzhCVmRFcjFKd3RoakJYUHpUcEpGVkd1ZmpvNXFVbE5IQndqZEIxV2xqRFEwUF9WRUpzR3lHWlVYRFZzTzhlYzM1ZjZraUY1clZrOVpCdmNlV3N0UFZoUWdHM0VldTg3Qks?oc=5",
-   "title": "Michigan residents lose sleep to nonstop roar from computer warehouse next door",
-   "at": "2026-07-31T22:35:51+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: This is the same Dowagiac/Cass County noise complaint story already live, just reworded."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYXhsQ1NZYlYxaWhTNzl5SkVmNXJCY3Zid3FFUGcwVHZUYUZ0VTNyY1dGUWxFc2dic19nQlkxeEhiX0ZHRHJNMGcyTS1vT3k4M3RaSmljQ1FhLXdBbk93c3JJYWV6aGgyR2ZrQ3NjdEh2Q09ncnI4d3NMWnBRWHUxU3ZnR0p1NnVRYkdDZTZucnZxTGV4N00zNHdlbTFjc05DUTk0YVd1aVZVd0d1QmFLMUNDRnFtbTZyZVBjTHBBT0FoTG5iVnJ5RC12b3I3UGtTYXdnMDlkUDZFRXM?oc=5",
    "title": "Oracle and OpenAI data center seeks OK to dump wastewater into Saline River",
    "at": "2026-07-31T22:35:51+00:00",
@@ -1399,6 +1371,34 @@
    "at": "2026-08-15T03:48:41+00:00",
    "by": "news_judge",
    "note": "score 4/10, duplicate: Same Saline Township tax abatement legal challenge already live in two variants; this is just a billing-impact reframe of the identical dispute."
+  },
+  {
+   "url": "https://www.manisteenews.com/news/article/data-centers-put-hold-one-year-manistee-township-22388610.php",
+   "title": "Manistee Township Enacts One-Year Pause on Data Center Proposals",
+   "at": "2026-08-15T05:55:53+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicate of already-live 'Manistee Township joins pause on new data centers' — same moratorium vote."
+  },
+  {
+   "url": "https://www.michamber.com/news/experts-tackle-michigans-biggest-data-center-questions/",
+   "title": "Town Hall Pushes Case-by-Case Reviews to Balance Data Center Growth and Michigan Priorities",
+   "at": "2026-08-15T05:55:53+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Advocacy coalition virtual town hall is soft PR/discussion event, not a concrete development or official action."
+  },
+  {
+   "url": "https://whyy.org/articles/data-center-opposition-growing-survey/",
+   "title": "Electricity Bill Hikes Drive 12-Point Jump in Data Center Opposition",
+   "at": "2026-08-15T05:55:53+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: National polling trend piece with no Michigan-specific action or development."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbmROVkkxZ2JjZEUzZEFMUkk4TkVLc09wR2R5djRiOWpBdWtUTmZhMjBZV3NXdVpRek5aSUdKdUJlX3QzcWFyYzgza2hfNXktU3BaS0RwSmpXN3ZXZ2x4Q3RsYm1Ic2ptdVNnNXZKNE1XWlZuTXdySTk1aTZzeFAxdlN0NnhfNXpNbGJjYkVDaDN3Wk9pNW10MVlqdnRWdmZvYVVGcGZhUTY2OFFVOXdUYnpoMDlLZUR0QlR2Q1g0ZG9FV0RBbjhKUXRTaGpvT0V2SEtF?oc=5",
+   "title": "Manistee Township pauses all new data center proposals",
+   "at": "2026-08-15T05:55:53+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicate of already-live 'Manistee Township joins pause on new data centers' — same moratorium, just truncated."
   }
  ],
  "auto_published": [
