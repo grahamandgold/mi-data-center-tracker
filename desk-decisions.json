@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://wtvbam.com/2026/07/31/965846/",
-   "title": "Coldwater Skips Moratorium to Lock In Strict Data Center Limits",
-   "at": "2026-08-01T06:37:58+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Thin rehash: Coldwater joint meeting was already live; this appears to be speculative follow-up about 'fast-tracking' rules without evidence of actual vote or f"
-  },
-  {
    "url": "https://www.kucoin.com/news/flash/kentucky-s-4-8b-ai-data-campus-faces-lawsuit-and-moratorium",
    "title": "Kentucky Town Enacts One-Year Pause on Large AI Data Centers",
    "at": "2026-08-01T06:37:58+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-15T09:34:11+00:00",
    "by": "news_judge",
    "note": "score 2/10: National trend speculation about space-based data centers with no Michigan angle, no concrete project, and no relevance to Michigan's terrestrial buildout track"
+  },
+  {
+   "url": "https://www.cleveland.com/news/2026/08/data-center-investors-want-to-buy-ohios-public-utilities.html",
+   "title": "Data center investors eye purchase of Ohio public utilities amid surging power demand",
+   "at": "2026-08-15T11:49:30+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece about Ohio investors with only speculative 'potential ripple effects' for Michigan; no concrete Michigan development, filing, or decision."
   }
  ],
  "auto_published": [
