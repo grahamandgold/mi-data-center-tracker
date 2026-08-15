@@ -1,7 +1,28 @@
 {
- "updated_at": "2026-08-15T09:34:11+00:00",
+ "updated_at": "2026-08-15T09:54:13+00:00",
  "generator": "grok-wire-agent",
  "items": [
+  {
+   "title": "UP bitcoin mine operator hits local reporter with copyright threats",
+   "dek": "WCMU's story on the mine's water and power use drew legal letters aimed at blocking further coverage. The facility sits in the Upper Peninsula and draws from the same grid feeding other crypto and AI sites. Readers across the state see how one project's pushback can chill reporting on energy use.",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNX1pMY1ZyNF9qV2txdVFBMFJMZzNidUFTMTFVMkxsVG1hNzY5RHQteVo0M1N6RHF6OU1PeEhHcTZlZ1A0Tm0xSExQZ1ZXY2RyT2l4ZDdGMThNeWY2VWU2SU9VQjJBOHZaY1N6REthZTl6SF9jWHdFZmpObmZlSERoVVU5SndYUGI0T29VRmNSdUF3WlYxb2FfY1E3czJxdklQeHg3VW9kcGdoX1BvWkdHZGxzNmIxUWFOSkY0WmFMTTI2VHBlTU9XY1hJQS1XdHFzb2pkMWl6R05HZDhEX3NpSlZPS2Q?oc=5",
+   "source": "WCMU Public Media",
+   "region": "north",
+   "cat": "STATEWIDE",
+   "county": "Marquette",
+   "tag": "Policy",
+   "iso": "2026-08-14T21:04:00Z",
+   "kind": "story",
+   "id": "d9be348edb66",
+   "filed_at": "2026-08-15T09:53:14Z",
+   "origin": "google-news",
+   "headline_rewritten": true,
+   "source_title": "Bogus copyright claims target WCMU's reporting on UP bitcoin mine, congressional candidate - WCMU Public Media",
+   "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNX1pMY1ZyNF9qV2txdVFBMFJMZzNidUFTMTFVMkxsVG1hNzY5RHQteVo0M1N6RHF6OU1PeEhHcTZlZ1A0Tm0xSExQZ1ZXY2RyT2l4ZDdGMThNeWY2VWU2SU9VQjJBOHZaY1N6REthZTl6SF9jWHdFZmpObmZlSERoVVU5SndYUGI0T29VRmNSdUF3WlYxb2FfY1E3czJxdklQeHg3VW9kcGdoX1BvWkdHZGxzNmIxUWFOSkY0WmFMTTI2VHBlTU9XY1hJQS1XdHFzb2pkMWl6R05HZDhEX3NpSlZPS2Q?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8,
+   "judge_note": "Concrete new development with a chilling-effect angle: legal threats against a Michigan public-radio reporter covering data-center infrastructure strain is news"
+  },
   {
    "iso": "2026-08-14T18:00:00+00:00",
    "region": "statewide",
@@ -22,5 +43,5 @@
    "judge_note": "MPSC testimony to lawmakers on rate-hike reforms is document-based and relevant to data-center power costs, but lacks a specific decision or filing that would p"
   }
  ],
- "accuracy_checked_at": "2026-08-15T09:34:08+00:00"
+ "accuracy_checked_at": "2026-08-15T09:54:14+00:00"
 }
