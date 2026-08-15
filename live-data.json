@@ -1,7 +1,22 @@
 {
- "updated_at": "2026-08-15T10:31:22+00:00",
+ "updated_at": "2026-08-15T10:51:18Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "iso": "2026-08-15T05:00:00+00:00",
+   "region": "west",
+   "cat": "Mason Co.",
+   "tag": "Local Government",
+   "title": "Pere Marquette Township Board Enacts One-Year Data Center Moratorium",
+   "dek": "The board adopted ordinances imposing a temporary ban on new data center permitting and construction, citing concerns over energy and water demands, with possible extension.",
+   "source": "Ludington Daily News",
+   "url": "https://www.shorelinemedia.net/ludington_daily_news/news/data-center-moratorium-adopted/article_8c1bb012-cb44-4d66-8c68-7c6d247927fd.html",
+   "breaking": false,
+   "lead": true,
+   "id": "007f79abb424",
+   "accuracy": "checked",
+   "judge_score": 7
+  },
   {
    "title": "Coldwater area townships host first public data center briefing",
    "dek": "Branch County residents can hear details on proposed data centers at a joint meeting Monday. The session covers power needs, water use and local tax impacts before any formal applications arrive. Nearby communities are already weighing similar projects, making the discussion relevant to anyone within driving distance of Coldwater.",
@@ -165,23 +180,6 @@
    "origin": "google-news",
    "source_title": "Lake Township drafts tougher data center rules with water and power limits - Huron Daily Tribune",
    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVXNsTjRXa2o5MXBvT1VLZGxMdzV4Z0hoX1JsbWVHcFctRVNLbE5sbFlwR1l5NGhHcHhFRkFTajV2X040cHhSSzk4RTdpQUx6UlAwOFpUSDVNb3VjVmkyclVUUUNVdWg2UU9KY085LXBRMnFXUDUtRGlDY3RTZ3FsSmpGMjBnUVo5VjRMcmhrbTFqR1l4YjNn?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
-  },
-  {
-   "title": "Lyon Township residents push back on data center noise and traffic",
-   "dek": "Hundreds of Lyon Township homeowners packed a meeting to oppose a proposed facility they say would add constant hum and truck traffic near homes. Officials heard testimony that the project could affect property values and daily life for people living within a mile. The township has not yet voted on the plan.",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdUdwNU1YZkVIMkJQSEZlRnRKRDh3bEJrTm9lWFRGRmI3M2RWNS0yTjZySHZtQ1YzZURNVWN1Vl96Z0Vxb1h4ZTZ5VGpNUEJxOEVEbE9uR2o3T1VacW5yOGdlV1duQmhXUm0yMVp1VE53VW9zbkF3U0RTRUFvejZyX3VjWDZHZU9XQXVnMlhRY1dOT3Q4MlI1OVJIdHRrcEgza08zandlN2JrR3h5NGNtOEl2ZW83alg5dWNhSUNTY1hMeTc1NFczVE9KWTM2Zndta0JRbkl3MEhid3dNNUE?oc=5",
-   "source": "The Detroit News",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Oakland",
-   "tag": "Local Government",
-   "iso": "2026-08-14T04:10:00Z",
-   "id": "82e2382fd620",
-   "origin": "google-news",
-   "source_title": "Lyon Twp. residents respond to proposed data center - The Detroit News",
-   "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdUdwNU1YZkVIMkJQSEZlRnRKRDh3bEJrTm9lWFRGRmI3M2RWNS0yTjZySHZtQ1YzZURNVWN1Vl96Z0Vxb1h4ZTZ5VGpNUEJxOEVEbE9uR2o3T1VacW5yOGdlV1duQmhXUm0yMVp1VE53VW9zbkF3U0RTRUFvejZyX3VjWDZHZU9XQXVnMlhRY1dOT3Q4MlI1OVJIdHRrcEgza08zandlN2JrR3h5NGNtOEl2ZW83alg5dWNhSUNTY1hMeTc1NFczVE9KWTM2Zndta0JRbkl3MEhid3dNNUE?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
   }
