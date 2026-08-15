@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd1JRTzJfaXlGU2tRclR1QzZvejB2M0pJQVJnUzh4SFFORktrVTFpQUp2bldaMWQtX2JNNXhrODN6UHZ0aUZFWEpHMUcyWklNUnlGN3hCWDZkRkNZeF9xN2dZc0VkOHYxc1JmWjZLQk56M2V1OUd0QmZZVldXMjJMSWhodw?oc=5",
-   "title": "Hyperscale Data sells Bitcoin holdings to bankroll Michigan AI campus",
-   "at": "2026-08-01T11:01:26+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Same Bitcoin liquidation event already killed three times ('Hyperscale Data sells Bitcoin to fund $3B Michigan AI campus', 'Hyperscale Data sells Bitcoin to ban"
-  },
-  {
    "url": "https://www.cbsnews.com/detroit/news/saline-township-residents-frustrated-new-data-center-permit-application/",
    "title": "Saline River faces added pollutants as data center seeks discharge permit",
    "at": "2026-08-01T12:08:12+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-15T17:28:33+00:00",
    "by": "news_judge",
    "note": "score 4/10: National trend piece about lending practices with Michigan mentioned as one example among broader nationwide pushback; lacks specific Michigan decision, filing,"
+  },
+  {
+   "url": "https://tucson.com/news/nation-world/business/article_649747fc-3f55-5409-a968-254e89eb3ab0.html",
+   "title": "Michigan power bills at risk as banks pull back from opposed data centers",
+   "at": "2026-08-15T18:40:39+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece about lending practices with only generic Michigan mention in headline; already killed similar story 'Lenders Tighten Scrutiny on Data Cent"
   }
  ],
  "auto_published": [
