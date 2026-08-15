@@ -1,7 +1,26 @@
 {
- "updated_at": "2026-08-15T21:29:30+00:00",
+ "updated_at": "2026-08-15T21:49:37Z",
  "generator": "grok-wire-agent",
  "items": [
+  {
+   "iso": "2026-08-13T22:00:00+00:00",
+   "region": "north",
+   "cat": "Marquette Co.",
+   "tag": "Local Government",
+   "title": "Negaunee enacts data center rules capping power, noise and size",
+   "dek": "The 3-2 vote sets strict limits on power consumption, noise, vibration and building impacts plus an environmental review, though no projects have been proposed.",
+   "source": "WZMQ",
+   "url": "https://wzmq19.com/news/367333/negaunee-city-passes-data-center-zoning-regulation-ordinance-3-2/",
+   "breaking": false,
+   "lead": true,
+   "id": "73ab9e8d90b0",
+   "kind": "story",
+   "filed_at": "2026-08-15T21:49:17+00:00",
+   "accuracy": "checked-rewritten",
+   "headline_rewritten": true,
+   "judge_score": 8,
+   "judge_note": "A specific 3-2 vote enacting concrete regulatory limits in Negaunee is a real municipal action, even without active proposals yet."
+  },
   {
    "title": "UP bitcoin mine operator hits local reporter with copyright threats",
    "dek": "WCMU's story on the mine's water and power use drew legal letters aimed at blocking further coverage. The facility sits in the Upper Peninsula and draws from the same grid feeding other crypto and AI sites. Readers across the state see how one project's pushback can chill reporting on energy use.",
@@ -43,5 +62,5 @@
    "judge_note": "MPSC testimony to lawmakers on rate-hike reforms is document-based and relevant to data-center power costs, but lacks a specific decision or filing that would p"
   }
  ],
- "accuracy_checked_at": "2026-08-15T21:29:30+00:00"
+ "accuracy_checked_at": "2026-08-15T21:49:33+00:00"
 }

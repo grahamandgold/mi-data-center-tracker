@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.miningjournal.net/opinion/letters-to-the-editor/2026/08/we-need-a-better-conversation-about-data-centers/",
-   "title": "Letter Urges Thoughtful Planning on Data Centers in the UP",
-   "at": "2026-08-01T17:14:24+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: Opinion letter calling for better planning is soft commentary, not a concrete action or filing."
-  },
-  {
    "url": "https://www.wxyz.com/news/region/washtenaw-county/saline-river-at-center-of-permit-request-tied-to-oracle-openai-data-center-in-saline-township",
    "title": "Oracle and OpenAI seek state permit to discharge treated wastewater from Saline Township data center into Saline River",
    "at": "2026-08-01T21:04:08+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-15T20:52:49+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece with poll data but no Michigan-specific development, decision, or action."
+  },
+  {
+   "url": "https://datacenterpost.com/",
+   "title": "Delays hit 90% of data center projects nationwide",
+   "at": "2026-08-15T21:49:37+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece with only speculative connection to Michigan power users; lacks concrete local development."
   }
  ],
  "auto_published": [
@@ -2937,6 +2937,12 @@
    "title": "Cass County residents pack hall to block data center projects",
    "judge_score": 6,
    "at": "2026-08-15T19:48:50Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYlVWdlZoQ0t5ZkRkdWJsdHR6MmthSzZmZ3hNNTZEeUJHSHNwSXBWNHNFdklEd2tYdllKOVR4WmplcXZrTkNrRTVWLUNlLVNpeEJvb2JBRVQwQVY5NXhpUU9YWDFyRUNNOTlHSHV4UW84UmxlZ1piTFdnLVkzZ3FYRmRFQzhWQTJBdDFTaC1kWUtScVExa2Y2QjBDQzg2MTQwc1BJdlNPQWprd0Y2Yi13YXo2UFF1ekRzOUZOWkJHT2t4TFlvOHZWaFFaaVNTNGk1RWln?oc=5",
+   "title": "Michigan tightens rules on Great Lakes water pulls that data centers need",
+   "judge_score": 8,
+   "at": "2026-08-15T21:49:37Z"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-15T21:29:30+00:00",
+ "updated_at": "2026-08-15T21:49:37Z",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -18,6 +18,23 @@
    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQm5OZlRSXzdoV2lHeU5LOWZNWm5uY2E4a3FuT1lBV1ZPUDFDSXhkM090QWV1MV9FekdkazZHcmZqaGpfOEhaVzNsR1NRSEFHYjMxMnhIQ05mOTQ0QUN5Mm9xZnppSTNUbWR0OVc5cDJjLXhobUNaOU5tRkpLUFFvbmNXUWpJd0dIbEt4NkVoWWU2OWgtM0VMU3l0anhJb0FyS2fSAbYBQVVfeXFMT3d4aHVSMWxEVEJ0dHhhc0pqMEdCSTRmdkJQQVo1djVXMjhsa093c2hQWVkybHVuQVFtZDdrM1RZZjV6ZnFiekREUjYzcDlyekt4b0NoRHV2X2JtU0RXQ2JNVnpzSV9sY2JwTnhyZVloZHJUSE1Wd0d4QnhpekJfbkF0dGFlU0pKcVg1UHZiUXVGM2lqdlpLeWJiamdMdW1SMWgwdnFOYktkQnFfVldYQXpmdG9CYWc?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
+  },
+  {
+   "title": "Michigan tightens rules on Great Lakes water pulls that data centers need",
+   "dek": "State officials posted new diversion tracking that directly affects how much water large cooling operations can take from the Great Lakes basin. Data centers under discussion in several counties would need millions of gallons daily, making these rules a key limit on future builds. Michigan residents downstream or near intakes have a direct stake in whether the state grants or blocks those withdrawals.",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYlVWdlZoQ0t5ZkRkdWJsdHR6MmthSzZmZ3hNNTZEeUJHSHNwSXBWNHNFdklEd2tYdllKOVR4WmplcXZrTkNrRTVWLUNlLVNpeEJvb2JBRVQwQVY5NXhpUU9YWDFyRUNNOTlHSHV4UW84UmxlZ1piTFdnLVkzZ3FYRmRFQzhWQTJBdDFTaC1kWUtScVExa2Y2QjBDQzg2MTQwc1BJdlNPQWprd0Y2Yi13YXo2UFF1ekRzOUZOWkJHT2t4TFlvOHZWaFFaaVNTNGk1RWln?oc=5",
+   "source": "State of Michigan (.gov)",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Water",
+   "iso": "2026-08-15T11:57:51Z",
+   "id": "ce00c0b0ce5b",
+   "origin": "google-news",
+   "source_title": "Great Lakes water diversions - State of Michigan (.gov)",
+   "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYlVWdlZoQ0t5ZkRkdWJsdHR6MmthSzZmZ3hNNTZEeUJHSHNwSXBWNHNFdklEd2tYdllKOVR4WmplcXZrTkNrRTVWLUNlLVNpeEJvb2JBRVQwQVY5NXhpUU9YWDFyRUNNOTlHSHV4UW84UmxlZ1piTFdnLVkzZ3FYRmRFQzhWQTJBdDFTaC1kWUtScVExa2Y2QjBDQzg2MTQwc1BJdlNPQWprd0Y2Yi13YXo2UFF1ekRzOUZOWkJHT2t4TFlvOHZWaFFaaVNTNGk1RWln?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
   },
   {
    "iso": "2026-08-15T05:00:00+00:00",
@@ -164,23 +181,6 @@
    "lead": true,
    "id": "510b5f985286",
    "accuracy": "checked",
-   "judge_score": 7
-  },
-  {
-   "title": "Hyperscale Data sells $43M in Bitcoin to fund Michigan data center push",
-   "dek": "The crypto miner turned data-center developer unloaded 685 BTC to slash $30M in debt and boost liquidity. The cash directly supports its Michigan buildout plans. Readers statewide should watch how the company’s finances shape power demand and local tax deals.",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kQXo1ckx2ellHRzVVekhIR0toTjZzUjlCNGtJV0MtSm5rTVU5V0I4dFZCR0NBZFppbjNRdGhLcUJMOGVZaXo3NWx4U2gwN0lNdmtHSUdqWC1DWFBJeHB5dXgyZTd2QUtkYTVtUDNXUWxhWmNzOUE?oc=5",
-   "source": "The Cryptonomist",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Money",
-   "iso": "2026-08-14T10:39:12Z",
-   "id": "b99aad84f207",
-   "origin": "google-news",
-   "source_title": "Hyperscale Data Bitcoin Sale Nets $43M, Cuts Debt by $30M for Michigan Expansion - The Cryptonomist",
-   "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kQXo1ckx2ellHRzVVekhIR0toTjZzUjlCNGtJV0MtSm5rTVU5V0I4dFZCR0NBZFppbjNRdGhLcUJMOGVZaXo3NWx4U2gwN0lNdmtHSUdqWC1DWFBJeHB5dXgyZTd2QUtkYTVtUDNXUWxhWmNzOUE?oc=5",
-   "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
   }
  ],
