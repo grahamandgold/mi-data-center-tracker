@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-15T19:27:45+00:00",
+ "updated_at": "2026-08-15T19:48:50Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Cass County residents pack hall to block data center projects",
+   "dek": "Save Cass County drew a standing-room crowd to its latest town hall, where neighbors voiced worries over noise, water use and rising electric bills from proposed facilities. The group is pushing local officials to reject or heavily restrict the projects before more land is optioned. Michigan residents 30 miles away could see indirect rate hikes if these sites connect to the same grid.",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQm5OZlRSXzdoV2lHeU5LOWZNWm5uY2E4a3FuT1lBV1ZPUDFDSXhkM090QWV1MV9FekdkazZHcmZqaGpfOEhaVzNsR1NRSEFHYjMxMnhIQ05mOTQ0QUN5Mm9xZnppSTNUbWR0OVc5cDJjLXhobUNaOU5tRkpLUFFvbmNXUWpJd0dIbEt4NkVoWWU2OWgtM0VMU3l0anhJb0FyS2fSAbYBQVVfeXFMT3d4aHVSMWxEVEJ0dHhhc0pqMEdCSTRmdkJQQVo1djVXMjhsa093c2hQWVkybHVuQVFtZDdrM1RZZjV6ZnFiekREUjYzcDlyekt4b0NoRHV2X2JtU0RXQ2JNVnpzSV9sY2JwTnhyZVloZHJUSE1Wd0d4QnhpekJfbkF0dGFlU0pKcVg1UHZiUXVGM2lqdlpLeWJiamdMdW1SMWgwdnFOYktkQnFfVldYQXpmdG9CYWc?oc=5",
+   "source": "wndu.com",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Cass",
+   "tag": "Local Government",
+   "iso": "2026-08-15T19:00:00Z",
+   "id": "cd229818601d",
+   "origin": "google-news",
+   "source_title": "Save Cass County holds packed town hall - wndu.com",
+   "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQm5OZlRSXzdoV2lHeU5LOWZNWm5uY2E4a3FuT1lBV1ZPUDFDSXhkM090QWV1MV9FekdkazZHcmZqaGpfOEhaVzNsR1NRSEFHYjMxMnhIQ05mOTQ0QUN5Mm9xZnppSTNUbWR0OVc5cDJjLXhobUNaOU5tRkpLUFFvbmNXUWpJd0dIbEt4NkVoWWU2OWgtM0VMU3l0anhJb0FyS2fSAbYBQVVfeXFMT3d4aHVSMWxEVEJ0dHhhc0pqMEdCSTRmdkJQQVo1djVXMjhsa093c2hQWVkybHVuQVFtZDdrM1RZZjV6ZnFiekREUjYzcDlyekt4b0NoRHV2X2JtU0RXQ2JNVnpzSV9sY2JwTnhyZVloZHJUSE1Wd0d4QnhpekJfbkF0dGFlU0pKcVg1UHZiUXVGM2lqdlpLeWJiamdMdW1SMWgwdnFOYktkQnFfVldYQXpmdG9CYWc?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
   {
    "iso": "2026-08-15T05:00:00+00:00",
    "region": "west",
@@ -163,23 +180,6 @@
    "origin": "google-news",
    "source_title": "Hyperscale Data Bitcoin Sale Nets $43M, Cuts Debt by $30M for Michigan Expansion - The Cryptonomist",
    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kQXo1ckx2ellHRzVVekhIR0toTjZzUjlCNGtJV0MtSm5rTVU5V0I4dFZCR0NBZFppbjNRdGhLcUJMOGVZaXo3NWx4U2gwN0lNdmtHSUdqWC1DWFBJeHB5dXgyZTd2QUtkYTVtUDNXUWxhWmNzOUE?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
-  },
-  {
-   "title": "Lake Township caps data center water and power use",
-   "dek": "Lake Township is writing stricter zoning rules that would limit how much water and electricity new data centers can draw. Residents in this rural Huron County area worry large facilities could strain wells and the local grid. The draft rules come as more companies eye Michigan sites for AI servers.",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVXNsTjRXa2o5MXBvT1VLZGxMdzV4Z0hoX1JsbWVHcFctRVNLbE5sbFlwR1l5NGhHcHhFRkFTajV2X040cHhSSzk4RTdpQUx6UlAwOFpUSDVNb3VjVmkyclVUUUNVdWg2UU9KY085LXBRMnFXUDUtRGlDY3RTZ3FsSmpGMjBnUVo5VjRMcmhrbTFqR1l4YjNn?oc=5",
-   "source": "Huron Daily Tribune",
-   "region": "mid",
-   "cat": "STATEWIDE",
-   "county": "Huron",
-   "tag": "Local Government",
-   "iso": "2026-08-14T10:11:06Z",
-   "id": "28d63bc6c91c",
-   "origin": "google-news",
-   "source_title": "Lake Township drafts tougher data center rules with water and power limits - Huron Daily Tribune",
-   "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVXNsTjRXa2o5MXBvT1VLZGxMdzV4Z0hoX1JsbWVHcFctRVNLbE5sbFlwR1l5NGhHcHhFRkFTajV2X040cHhSSzk4RTdpQUx6UlAwOFpUSDVNb3VjVmkyclVUUUNVdWg2UU9KY085LXBRMnFXUDUtRGlDY3RTZ3FsSmpGMjBnUVo5VjRMcmhrbTFqR1l4YjNn?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
   }
