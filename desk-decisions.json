@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxONVVEZHJ4aklFTFM4Z0stVzRIdlNiMDN2Tl9QOUZwemtic1BraE9RbEllMjFwZndLcWFoeEdTZnZUbUtab2V4Y2dSVmdsNXEtWklFTXQ4YnBZdElSLV9IbDFyRVNRcE1xeUxCcms3NFJsLUZaQXdaeS1Ca2NPZzQ1YTludHpEdzNoQk9ld2d5bkxzaFB2dzVKQUdOM3VZQ2hfdVlIbS1NU0VxcldVbzlnSlNUVFh2VHlkaGhZUktFTm9VbXRYS0lNM2IwYW5haUdaNGs2dVVmS2h5a0lmMHE0SXh2Nm1hLWg0enE3ZmZFd1E1ckxhUlhaTkxEVjBHdVFPM29PcWd3a1N2X3FpQXQta0hsWXhnVVE5dE9LX1dQdGdOSHU4UnpUZUFqTnlmeUFCMHFWa2ZhRU0xbHlmTF9RbF9XVmFmbExIdGFPQVNTemhnX1doMG5uYw?oc=5",
-   "title": "Neighbors organize early to control tax breaks and utility costs before data centers arrive",
-   "at": "2026-08-01T11:01:26+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Organizing effort is real but pre-emptive with no concrete filing, hearing, or official action yet; similar to killed 'Cass County residents gear up to fight' s"
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd1JRTzJfaXlGU2tRclR1QzZvejB2M0pJQVJnUzh4SFFORktrVTFpQUp2bldaMWQtX2JNNXhrODN6UHZ0aUZFWEpHMUcyWklNUnlGN3hCWDZkRkNZeF9xN2dZc0VkOHYxc1JmWjZLQk56M2V1OUd0QmZZVldXMjJMSWhodw?oc=5",
    "title": "Hyperscale Data sells Bitcoin holdings to bankroll Michigan AI campus",
    "at": "2026-08-01T11:01:26+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-15T16:34:32+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece about a Tennessee primary result with no Michigan-specific development or connection to the state's data center buildout."
+  },
+  {
+   "url": "https://elkodaily.com/news/nation-world/business/article_4bc5e4f5-2153-5903-9de3-7a6df054280d.html",
+   "title": "Michigan protests add risk for data center loans as banks watch nationwide pushback",
+   "at": "2026-08-15T17:28:33+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: National trend piece about lending practices with Michigan mentioned as one example among broader nationwide pushback; lacks specific Michigan decision, filing,"
   }
  ],
  "auto_published": [

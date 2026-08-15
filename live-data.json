@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-15T16:55:09+00:00",
+ "updated_at": "2026-08-15T17:28:25+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -202,15 +202,15 @@
   {
    "iso": "2026-08-17",
    "body": "Coldwater City Council, Planning Commission and Board of Public Utilities",
-   "topic": "Joint informational meeting on data center impacts, regulation and potential ordinance development",
+   "topic": "Joint informational meeting on data center impacts, zoning and regulation options",
    "region": "Mid-Michigan",
    "regionKey": "mid",
    "county": "Branch",
    "time": "5:30 PM",
    "status": "Board meeting",
-   "urgent": false,
+   "urgent": true,
    "link": "https://www.coldwater.org/agendacenter",
-   "linkLabel": "Agenda",
+   "linkLabel": "Agenda Center",
    "stream": ""
   },
   {
