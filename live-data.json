@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-15T03:00:17+00:00",
+ "updated_at": "2026-08-15T03:48:41Z",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -35,6 +35,21 @@
    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUXZZb2YzVFpDRFZLSFNKYXR4eXFLUWZyT0RuMTFuQzZuZHMtSVgzNDl4UHExV3VQWTY3bHhKOUZFSVVJQi1GWEw4V0NEb2VHVGwzb3RIa2t3dFhzTjlMaWhfYnBFeUpNZHdseGhDY2F3TmpTN2x6dG94cUhNZ0F3S3B5SlFyZkc1X3A1Z0x2VkJSU1prWHhYU0FORDRfUWdvZU1OaEp3?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
+  },
+  {
+   "iso": "2026-08-14T19:24:00+00:00",
+   "region": "mid",
+   "cat": "Branch Co.",
+   "tag": "Local Government",
+   "title": "Coldwater readies zoning rules to shield neighborhoods from data centers",
+   "dek": "Monday meeting will gather feedback on permanent ordinances limiting noise and utility strain, with no projects proposed.",
+   "source": "WTVB",
+   "url": "https://wtvbam.com/2026/08/14/970442/",
+   "breaking": false,
+   "lead": false,
+   "id": "b69f3e7fb83d",
+   "accuracy": "checked-rewritten",
+   "judge_score": 6
   },
   {
    "title": "Saline Twp tax break for data center faces legal challenge",
@@ -169,23 +184,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdUdwNU1YZkVIMkJQSEZlRnRKRDh3bEJrTm9lWFRGRmI3M2RWNS0yTjZySHZtQ1YzZURNVWN1Vl96Z0Vxb1h4ZTZ5VGpNUEJxOEVEbE9uR2o3T1VacW5yOGdlV1duQmhXUm0yMVp1VE53VW9zbkF3U0RTRUFvejZyX3VjWDZHZU9XQXVnMlhRY1dOT3Q4MlI1OVJIdHRrcEgza08zandlN2JrR3h5NGNtOEl2ZW83alg5dWNhSUNTY1hMeTc1NFczVE9KWTM2Zndta0JRbkl3MEhid3dNNUE?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Detroit suburbs tighten zoning to block data center power spikes",
-   "dek": "Towns around Detroit are rewriting rules after residents complained about noise, water use and grid strain from proposed facilities. The changes would give local boards more say over size, location and utility demands. Southeast Michigan ratepayers could see higher bills if large projects connect without new safeguards.",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbGYtekNZV2VnZkhZS1k0ZG1qTnJZeTJOSUJzXzB1emxGRGpRdi1sZEMzQlNBYlphMlpoQ25RaEYwR25aYlMtVS05RU9ieE5CUldRWk1hWHVLcWtDSElBay1TdDlNRWIzQnJ6d0hxeDhNLS15RURQRE9zVGtqME8tcE1MNC1weDNZRzVBM2FUYm54aUNFVHhWNzVxNV8zcXMzTG5KM18wUnYtMTFZeHpnQ0pGSWV3Mm00cWM3WTVSd3M0OGZ4MkFOcW82cGl1cDVEUVJkVEdjOWNuUQ?oc=5",
-   "source": "The Detroit News",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Oakland",
-   "tag": "Local Government",
-   "iso": "2026-08-14T04:10:00Z",
-   "id": "b81e9c10e3bf",
-   "origin": "google-news",
-   "source_title": "As data center issues persist, Detroit area towns look to strengthen rules - The Detroit News",
-   "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbGYtekNZV2VnZkhZS1k0ZG1qTnJZeTJOSUJzXzB1emxGRGpRdi1sZEMzQlNBYlphMlpoQ25RaEYwR25aYlMtVS05RU9ieE5CUldRWk1hWHVLcWtDSElBay1TdDlNRWIzQnJ6d0hxeDhNLS15RURQRE9zVGtqME8tcE1MNC1weDNZRzVBM2FUYm54aUNFVHhWNzVxNV8zcXMzTG5KM18wUnYtMTFZeHpnQ0pGSWV3Mm00cWM3WTVSd3M0OGZ4MkFOcW82cGl1cDVEUVJkVEdjOWNuUQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {

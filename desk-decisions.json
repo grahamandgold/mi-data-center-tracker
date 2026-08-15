@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5Y1hRT19mNnRJZy1rWW5id2lqWkxBOUlJZlZjSVowbVFjZUhnUHlSdEp4Z2o5a2w4dU9hM0lFNm9GT3pzZ0FhWWVvWlhHQTNDMDVxZGRydURUWnh3ZHV5WGU0WS1ZOVJBLTUzNjRid2RuakQtUURqWEZuaUNNVFk?oc=5",
-   "title": "Hyperscale Data sells Bitcoin to bankroll Michigan AI campus",
-   "at": "2026-07-31T18:26:47+00:00",
-   "by": "news_judge",
-   "note": "score 1/10, duplicate: Identical to already-killed 'Hyperscale cashes out Bitcoin to bankroll Michigan AI campus' and multiple other killed Bitcoin sale stories."
-  },
-  {
-   "url": "https://example.com/national-data-center-power-2026",
-   "title": "U.S. Data Center Power Demand Surges as Tech Giants Accelerate AI Infrastructure Buildout",
-   "at": "2026-07-31T20:05:48+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece about grid operators' projections lacks Michigan-specific decision or development."
-  },
-  {
    "url": "https://bridgemi.com/michigan-government/fact-checks-john-james-perry-johnson-on-tax-cuts-data-centers-and-more/",
    "title": "Johnson Overstates Tax Savings for Michigan Families by $1,300",
    "at": "2026-07-31T21:18:37+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-15T03:00:30+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Same Bitcoin sale already killed three times under different headlines (Hyperscale Data cashes 685 BTC, Bitcoin miner funnels $43M, Hyperscale sells $43M in Bit"
+  },
+  {
+   "url": "https://montanafreepress.org/2026/08/14/butte-nonprofit-sues-county-over-initiative-reversal/",
+   "title": "Butte voters sue to restore say on data center growth",
+   "at": "2026-08-15T03:48:41+00:00",
+   "by": "news_judge",
+   "note": "score 2/10: Montana lawsuit with no Michigan angle; pure out-of-state noise for a Michigan-focused tracker."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNTRWRTJyRHJQR0dFamxCSXhGa1BNY0x4LWh2MnZLVnEzbTNBRW1lUnFSWEZ1TUQxMmdyQk1KNFI1ZE01NEQwNUgzcTVNdUNZQkxSejA5clg3U2ZBVktVVm9qMDI4dzdySkhjX1BRNl9ybUZmX0JKa0g1TUpCcXJ6dzRSWnB0aDFTSkRVZlZwY3Q4eVdoa1F2cHNITUZoTndQTFBteUVBZ0twVWRGSHdqb2ZHRnpOOVJPOXBRUlN3VHhza2Q3c0Q0bGMyNVR6WUt6?oc=5",
+   "title": "Washtenaw residents face higher bills as lawyer challenges data center abatement process",
+   "at": "2026-08-15T03:48:41+00:00",
+   "by": "news_judge",
+   "note": "score 4/10, duplicate: Same Saline Township tax abatement legal challenge already live in two variants; this is just a billing-impact reframe of the identical dispute."
   }
  ],
  "auto_published": [
@@ -2919,6 +2919,12 @@
    "title": "Coldwater area townships host first public data center briefing",
    "judge_score": 7,
    "at": "2026-08-14T23:51:56Z"
+  },
+  {
+   "url": "https://wtvbam.com/2026/08/14/970442/",
+   "title": "Coldwater readies zoning rules to shield neighborhoods from data centers",
+   "judge_score": 6,
+   "at": "2026-08-15T03:48:41Z"
   }
  ]
 }
