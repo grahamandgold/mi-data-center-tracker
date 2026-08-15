@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU3hINU0xNTRLSkpxY05yZ1pmU3E2ZWZjZjF0Vy1TTjN6V3ZMTG1iZ0E0T3M3MW94ZkRadnowWG01QmUweWlqbGN6ZXVKWExZWFJjRkVOTFhhYnlZcEJKSjY1TGQ5dmZ1MWxRMzdWU2Zud25rLWtkLV9COWhTTzU2MW9ERjQxMnZhSU5qSnpqVGtYUGxZSVA0ZHJR?oc=5",
-   "title": "Michigan Senate primary tests candidates on data center power deals",
-   "at": "2026-07-31T16:51:38+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Thin campaign-trail rehash that recycles already-covered positions without reporting a new debate, poll, or endorsement."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOekRLSzNaWDd5WHVpbkJzWXM4TVFmRlhWVnA1UHRtUHZsRnd1Y0N1VE1YbmxjZEg0WFR4OF84cW9fdTVHb3BkRGZZWmpZN3lyRUVUTTBvUjk2MFBUSU1pamExdEI5RWZyTHE0SE10UHNOdXJveDVzZ1hJT0tYaWpzXzFzSjh0TGJkdTR1ekVQNko4Z2gxSVV6UWgyblFsTkZqTFowSFFn?oc=5",
-   "title": "Cass County neighbors ready to block new data centers",
-   "at": "2026-07-31T16:51:38+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicates the already-live 'Cass County residents organize to shape future data center rules' story—same organizing effort, same county, same goal."
-  },
-  {
    "url": "https://www.governor.ny.gov/executive-order/no-62-establishing-temporary-moratorium-data-centers-new-york-while-state-develops",
    "title": "New York Pauses New Data Centers to Curb 12 GW Power and Water Demands",
    "at": "2026-07-31T18:26:47+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-14T22:32:46+00:00",
    "by": "news_judge",
    "note": "score 4/10: Vague statewide utility negotiations without specific projects, filings, or decisions—reads like a trend piece without concrete developments."
+  },
+  {
+   "url": "https://civicmedia.us/news/2026/08/14/in-bid-to-stop-saline-data-center-tax-break-an-attorney-argues-the-township-skipped-crucial-steps",
+   "title": "Attorney Challenges Saline Township Tax Abatement for Proposed Oracle-OpenAI Data Center",
+   "at": "2026-08-15T01:44:02+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: Same legal challenge to Saline Township tax abatement already covered in two live stories; this adds only the attorney detail."
+  },
+  {
+   "url": "https://www.wndu.com/video/2026/08/14/elkhart-city-council-consider-data-center-moratorium/",
+   "title": "Elkhart City Council to Weigh Temporary Data Center Moratorium",
+   "at": "2026-08-15T01:44:02+00:00",
+   "by": "news_judge",
+   "note": "score 2/10: Indiana city moratorium has no Michigan angle and offers nothing new to Michigan readers tracking local buildout."
   }
  ],
  "auto_published": [

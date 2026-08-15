@@ -1,26 +1,7 @@
 {
- "updated_at": "2026-08-14T23:51:56Z",
+ "updated_at": "2026-08-15T01:44:02+00:00",
  "generator": "grok-wire-agent",
  "items": [
-  {
-   "iso": "2026-08-13T12:00:00Z",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "tag": "Power & Grid",
-   "title": "Democrats Seek Rules to Block Data Center Water Costs for Michigan Homes",
-   "dek": "Eight-bill package requires annual state reports on hyperscale water and energy use from 2027 and stops operators from passing infrastructure upgrades to residential ratepayers.",
-   "source": "Bridge Michigan",
-   "url": "https://bridgemi.com/michigan-government/michigan-senate-democrats-push-for-stricter-data-center-energy-worker-rules/",
-   "breaking": false,
-   "lead": false,
-   "id": "0a2a913f31fc",
-   "kind": "national",
-   "filed_at": "2026-08-14T22:53:53+00:00",
-   "accuracy": "checked-rewritten",
-   "headline_rewritten": true,
-   "judge_score": 8,
-   "judge_note": "Concrete legislative action with an eight-bill package containing specific provisions (annual reporting from 2027, cost-shifting ban) that directly affects Mich"
-  },
   {
    "iso": "2026-08-13T21:30:00+00:00",
    "region": "metro",
@@ -69,5 +50,5 @@
    "judge_note": "Negaunee council voted 7-0 to advance a restrictive ordinance with a scheduled public hearing—a real decision and next step."
   }
  ],
- "accuracy_checked_at": "2026-08-14T23:51:53+00:00"
+ "accuracy_checked_at": "2026-08-15T01:43:58+00:00"
 }
