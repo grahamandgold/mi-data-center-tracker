@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.politico.com/news/2026/07/08/trump-data-centers-water-supreme-court-00958383",
-   "title": "Court ruling allows more data centers to bypass federal water permits in sensitive areas",
-   "at": "2026-08-01T21:04:08+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece with no Michigan-specific development or decision."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSjZWXy1NMEk2QVpQZURXUUh2SDlUamRTN0lqandaWUFhd3JMZVA3SEJTUzRjMDVMUkRwTnJmRC1oLVBLUGhrdnJXMVVYcEZYV3JvZE16TWNRRG50RmZPVWxoaDI4bnM1b05uWXRDTzJLaEM5YmQzcTdSbFotZkRaVTdsNFJQY21VbW9XMUNJUE1kUnNORVdROHh3bmJKNUFKb2hnQ1RjOElTa2owenNHeUFTdE1QZy1rVUFDVHVnNUl3bFN5UjI5UWd1UnNVYW15bUMzZkpEUVJLdGtz?oc=5",
    "title": "Michigan congressman seeks pause on server farms amid power grid concerns",
    "at": "2026-08-01T21:04:08+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-15T22:31:02+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece with generic polling data and only a brief mention of New York's moratorium; lacks Michigan-specific development or concrete local action."
+  },
+  {
+   "url": "https://michiganadvance.com/2026/08/14/in-bid-to-stop-saline-data-center-tax-break-an-attorney-argues-the-township-skipped-crucial-steps/",
+   "title": "Saline Resident Seeks to Block Tax Break for Oracle Data Center",
+   "at": "2026-08-15T23:28:12+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: Same legal challenge to Saline Township tax abatement already killed as 'Attorney Challenges Saline Township Tax Abatement for Proposed Oracle-OpenAI Data Cente"
   }
  ],
  "auto_published": [
