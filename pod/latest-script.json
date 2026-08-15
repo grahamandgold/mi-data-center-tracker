@@ -1,10 +1,10 @@
 {
- "title": "Mornings with Graham & Emmy",
- "teaser": "Pere Marquette pauses new data centers for a year over power and water worries.",
+ "title": "Evenings with Graham & Emmy",
+ "teaser": "Why one more township hit the brakes and what it means for power, water and your bills.",
  "lines": [
   {
    "host": "Graham",
-   "text": "Good morning and welcome to Mornings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
+   "text": "Good evening, and welcome to Evenings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
   },
   {
    "host": "Emmy",
@@ -12,194 +12,218 @@
   },
   {
    "host": "Graham",
-   "text": "Today we're leading with a big move out of Mason County where Pere Marquette Township just put a one-year moratorium on new data center permitting and construction."
-  },
-  {
-   "host": "Emmy",
-   "text": "That sounds like a significant pause. What's driving it?"
+   "text": "Tonight we're talking about the growing wave of local pauses on these massive projects and what it could mean for electric rates, water supplies, and communities across the state."
   },
   {
    "host": "Graham",
-   "text": "The board cited major concerns over energy and water demands from these facilities. It's a temporary ban that could be extended, and it comes as more communities across the state are weighing similar projects."
+   "text": "Yesterday Pere Marquette Township in Mason County enacted a one-year moratorium on new data center permitting and construction."
   },
   {
    "host": "Emmy",
-   "text": "Why now? Have there been other pauses like this recently?"
+   "text": "That's the second or third one we've heard about this week. What's driving these decisions, Graham?"
   },
   {
    "host": "Graham",
-   "text": "Yes, this fits a pattern we've seen building. Manistee Township joined a pause just yesterday, and East Lansing extended its own freeze while writing new rules. It's not isolated."
+   "text": "The board cited concerns over energy and water demands. They adopted ordinances that temporarily ban new projects, and it could be extended."
   },
   {
    "host": "Emmy",
-   "text": "So what's the bigger picture here for residents? How does a data center actually hit electric bills or water supplies?"
+   "text": "So this isn't just one isolated vote. How does this fit into the bigger picture of what's happening around Michigan?"
   },
   {
    "host": "Graham",
-   "text": "These facilities can pull enormous amounts of power — think gigawatts that strain the grid — and they need huge volumes of water for cooling. That can push up utility rates for everyone and affect local aquifers or farmland."
+   "text": "It's part of a pattern. Manistee Township also halted new proposals yesterday, aligning with nearby townships. East Lansing extended its own freeze while staff writes rules on power use and setbacks."
   },
   {
    "host": "Emmy",
-   "text": "And towns themselves? What are the trade-offs?"
+   "text": "And these aren't small places. What are the real stakes for residents who might live 30 or 40 miles away?"
   },
   {
    "host": "Graham",
-   "text": "On one side you get potential tax revenue and jobs, but on the other there's noise, land use changes, and pressure on infrastructure. Pere Marquette is trying to buy time to figure out the right balance."
+   "text": "That's the key point. Data centers can pull millions of gallons of water daily for cooling and require enormous amounts of power. If they connect to the same grid, ratepayers across the region can see indirect hikes even if the facility isn't in their backyard."
   },
   {
    "host": "Emmy",
-   "text": "Who are the main players pushing these projects?"
+   "text": "We've also got new state rules tightening Great Lakes water withdrawals that were posted today. How does that layer on top of these local moves?"
   },
   {
    "host": "Graham",
-   "text": "Developers like Hyperscale Data, which just sold Bitcoin holdings to fund its Michigan plans, along with big names tied to hyperscale builds. Local officials and residents are the ones reacting with these pauses."
+   "text": "Exactly. The new diversion tracking directly limits how much large cooling operations can take from the basin. Projects under discussion in several counties would need those volumes, so the state rules become a hard cap on future builds."
   },
   {
    "host": "Emmy",
-   "text": "What happens next in Pere Marquette? Can they extend it or will projects still come through later?"
+   "text": "And then there's the Cass County town hall today where Save Cass County packed the room with neighbors worried about noise, water, and rising bills. They're pushing officials to reject or restrict projects before more land gets optioned."
   },
   {
    "host": "Graham",
-   "text": "The ordinance allows for a possible extension, and the board will likely use this year to study impacts and craft permanent rules. Similar to what East Lansing is doing right now."
+   "text": "Right, and that meeting was standing-room only. It shows the grassroots pressure building in multiple counties at once."
   },
   {
    "host": "Emmy",
-   "text": "How does this affect nearby areas? Say folks 30 miles away?"
+   "text": "So when a township like Pere Marquette puts in a full year pause, what happens next? Can they extend it or turn it permanent?"
   },
   {
    "host": "Graham",
-   "text": "It sets a precedent. If one township pauses, neighbors start asking the same questions about their own zoning and utility rates. We've seen that ripple in Branch County and beyond."
+   "text": "The ordinance allows for possible extension, and many places are using the time to write permanent zoning rules on noise, setbacks, and utility strain. Coldwater is holding a joint meeting Monday to gather feedback on exactly that."
   },
   {
    "host": "Emmy",
-   "text": "Any sense of how many townships are now in some kind of holding pattern?"
+   "text": "What about the power side? We saw DTE scouting a Milan Township site for a new gas plant aimed at serving these big loads. Does that change the equation?"
   },
   {
    "host": "Graham",
-   "text": "At least a handful are actively pausing or reviewing rules — Manistee, East Lansing, and now Pere Marquette among them. It's becoming a common tool while communities catch up on the fast-moving demand."
+   "text": "It shows how the scramble is rippling out. A new gas plant would bring its own air-quality and rate impacts, and residents 30 miles away could feel both the higher bills and the infrastructure changes."
   },
   {
    "host": "Emmy",
-   "text": "What about the power side specifically? Is there enough generation coming online?"
+   "text": "There's also that legal challenge in Saline Township over a tax abatement that an attorney says bypassed required steps. Could that delay projects even where approvals have already happened?"
   },
   {
    "host": "Graham",
-   "text": "That's part of the scramble. DTE is even scouting sites like Milan Township for a new gas plant to serve these loads. It shows how the whole energy system is being pulled into the conversation."
+   "text": "Yes, the challenge claims the township didn't follow proper procedures, which could shift millions in taxes away from local services and schools. Nearby residents are watching how it affects their property taxes."
   },
   {
    "host": "Emmy",
-   "text": "And water? Is that the bigger long-term issue in some spots?"
+   "text": "And Coldwater area townships held their first public briefing yesterday on proposed centers, covering power needs, water use, and tax impacts before any formal applications."
   },
   {
    "host": "Graham",
-   "text": "It can be, especially in areas relying on aquifers. Coldwater officials are holding a meeting tomorrow to talk exactly about power and water strain before any projects advance."
+   "text": "That's the proactive approach some places are taking — getting the details out early so residents can weigh in before land is locked up."
   },
   {
    "host": "Emmy",
-   "text": "Sounds like these pauses are giving locals a seat at the table they didn't have before."
+   "text": "How many townships are now in some form of pause or review mode? It feels like it's spreading quickly."
   },
   {
    "host": "Graham",
-   "text": "Exactly. It's about slowing down to assess real impacts instead of reacting after construction starts."
+   "text": "At least half a dozen we've tracked in the last week alone, from Mason and Manistee to East Lansing and now Coldwater looking at permanent rules. The common thread is protecting farmland, water, and keeping utility rates stable for existing residents."
   },
   {
    "host": "Emmy",
-   "text": "Will we see more of these moratoriums this summer?"
+   "text": "What should listeners 30 or 60 miles from any of these sites be watching for in the coming weeks?"
   },
   {
    "host": "Graham",
-   "text": "It's possible as more briefings happen. The Coldwater area has its first public data center meeting on Monday, and Kalamazoo is voting on its own temporary pause that same day."
+   "text": "The Monday meetings in Coldwater and Kalamazoo, plus Caledonia Township's planning commission session on ordinance changes. Those are the next places where rules could get locked in."
   },
   {
    "host": "Emmy",
-   "text": "Let's shift to some quick hits from the last day or so."
+   "text": "And if more townships follow Pere Marquette's lead with a full year pause, does that slow the overall buildout or just push developers to other counties?"
   },
   {
    "host": "Graham",
-   "text": "Coldwater readies zoning rules to shield neighborhoods from data centers. Monday's meeting will gather feedback on permanent ordinances limiting noise and utility strain, even though no projects are proposed yet."
+   "text": "It creates breathing room for communities to set their own terms. Developers may look for friendlier spots, but the state water rules and grid constraints are statewide limits that apply everywhere."
   },
   {
    "host": "Emmy",
-   "text": "That proactive approach seems smart. How far does it reach?"
+   "text": "So the moratorium isn't the end of the story — it's the start of a longer zoning fight in many places."
   },
   {
    "host": "Graham",
-   "text": "It covers the city and nearby townships, so residents within driving distance get a direct look at the trade-offs."
+   "text": "That's right. The one-year clock gives time to study the real impacts on power and water before any permits move forward."
   },
   {
    "host": "Emmy",
-   "text": "Next one: Saline Township's tax break for a big data center is facing a legal challenge."
+   "text": "And with the new Great Lakes diversion tracking in place, some of those water-heavy proposals may simply not pencil out."
   },
   {
    "host": "Graham",
-   "text": "An attorney claims the township bypassed required steps for a $43 billion hyperscale project tied to Oracle and OpenAI interests. It could delay or derail the deal and affect local services and school funding."
+   "text": "Exactly. The combination of local pauses and tighter state water rules is reshaping where and whether these projects can proceed."
   },
   {
    "host": "Emmy",
-   "text": "What are the stakes for property taxes there?"
+   "text": "Listeners should keep an eye on how the Coldwater Monday meeting plays out — it could set a template for other townships."
   },
   {
    "host": "Graham",
-   "text": "The abatement would shift millions away from local services, so nearby residents are watching closely how the fight plays out."
+   "text": "We'll have the details on that and more tomorrow. Let's move to quick hits on the other stories from the last day."
   },
   {
    "host": "Emmy",
-   "text": "DTE is eyeing Milan Township for a new gas plant."
+   "text": "Starting with today's Cass County town hall — Save Cass County drew a huge crowd pushing officials to block or restrict data centers over noise, water, and electric bills."
   },
   {
    "host": "Graham",
-   "text": "Right — aimed at serving large new data center loads. If approved, folks 30 miles away could see higher utility rates and air-quality considerations."
+   "text": "And 30 miles away, residents could still see rate impacts if those sites tie into the same grid."
   },
   {
    "host": "Emmy",
-   "text": "And East Lansing is keeping its freeze in place."
+   "text": "Also today, Michigan posted new tracking on Great Lakes water diversions that will limit how much data centers can pull for cooling."
   },
   {
    "host": "Graham",
-   "text": "Yes, they extended the moratorium so staff can finish regulations on power use and setbacks. It blocks new proposals until the rules are set."
+   "text": "That's a direct limit on the millions of gallons daily that several proposed facilities would need."
   },
   {
    "host": "Emmy",
-   "text": "Coldwater officials are also setting a Monday meeting on power and water strain."
+   "text": "Yesterday in Branch County, Coldwater area townships held their first public briefing on proposed centers, covering power, water, and tax impacts."
   },
   {
    "host": "Graham",
-   "text": "Branch County leaders will hear how new facilities could affect utility rates and aquifer levels, pulling in township and county boards."
+   "text": "And Coldwater is also prepping permanent zoning rules to shield neighborhoods from noise and utility strain, with a Monday feedback session."
   },
   {
    "host": "Emmy",
-   "text": "Hyperscale Data sold Bitcoin to fund its Michigan push."
+   "text": "Manistee Township joined the pause yesterday, blocking large-scale projects that would draw heavy power and water."
   },
   {
    "host": "Graham",
-   "text": "They unloaded $43 million worth to slash debt and boost liquidity, directly supporting their buildout plans here."
+   "text": "Nearby communities now face the same questions about future growth and rates."
   },
   {
    "host": "Emmy",
-   "text": "Now for on deck — meetings listeners can actually attend."
+   "text": "In Saline Township, a tax break for a data center is facing a legal challenge over whether proper steps were followed."
   },
   {
    "host": "Graham",
-   "text": "Monday, August 17, Coldwater City Council, Planning Commission and Board of Public Utilities hold a joint informational meeting on data center impacts, regulation options and potential ordinance development."
+   "text": "That could delay or derail the deal and affect local services and school funding."
   },
   {
    "host": "Emmy",
-   "text": "Also on the 17th, Caledonia Township Planning Commission discusses data center ordinance and potential zoning amendments."
+   "text": "DTE is eyeing a Milan Township site for a new gas plant to serve data-center demand."
   },
   {
    "host": "Graham",
-   "text": "And Kalamazoo City Commission votes on a resolution for a temporary moratorium on data center development that same day."
+   "text": "Residents 30 miles away would feel it through higher rates and air-quality considerations if approved."
   },
   {
    "host": "Emmy",
-   "text": "Plenty happening early next week for anyone near those areas."
+   "text": "And East Lansing extended its moratorium yesterday so staff can finish rules on power use and setbacks."
   },
   {
    "host": "Graham",
+   "text": "That gives surrounding townships a model to watch for their own zoning fights."
+  },
+  {
+   "host": "Emmy",
+   "text": "Now let's look ahead to the meetings listeners can actually attend."
+  },
+  {
+   "host": "Graham",
+   "text": "Monday, August 17, Coldwater City Council, Planning Commission, and Board of Public Utilities are holding a joint informational meeting on data center impacts, zoning, and regulation options."
+  },
+  {
+   "host": "Emmy",
+   "text": "Same day, the City of Coldwater Planning Commission and CBPU Board will discuss zoning and regulation of high-utility data centers."
+  },
+  {
+   "host": "Graham",
+   "text": "Caledonia Township Planning Commission meets Monday for a data center ordinance discussion and potential zoning amendments."
+  },
+  {
+   "host": "Emmy",
+   "text": "And Kalamazoo City Commission will vote Monday on a resolution for a temporary moratorium on data center development."
+  },
+  {
+   "host": "Graham",
+   "text": "Those are the sessions where residents can show up and weigh in before rules get finalized."
+  },
+  {
+   "host": "Emmy",
    "text": "Full sources and the live map at the Michigan Data Center Tracker. We're back tomorrow."
   }
  ],
- "episode_title": "Pere Marquette Township Enacts One-Year Data Center Moratorium",
- "show": "Mornings with Graham & Emmy",
- "daypart": "Mornings"
+ "episode_title": "Pere Marquette's Year-Long Pause Signals Wider Michigan Pushback on Data Centers",
+ "show": "Evenings with Graham & Emmy",
+ "daypart": "Evenings"
 }
