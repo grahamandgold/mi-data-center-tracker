@@ -1,23 +1,30 @@
 {
- "generated_at": "2026-08-13T21:09:39+00:00",
+ "generated_at": "2026-08-16T10:00:38+00:00",
  "for_dates": [
-  "2026-08-13",
-  "2026-08-14"
+  "2026-08-16",
+  "2026-08-17"
  ],
  "items": [
   {
-   "iso": "2026-08-13",
-   "time": "TBD",
-   "meeting": "Negaunee City Council or Planning Commission",
-   "bullet": "Negaunee holds public hearing Aug. 13 on ordinance restricting data centers to industrial/mining zones with strict noise and emissions rules.",
-   "link": "https://www.miningjournal.net/news/front-page-news/2026/07/public-hearing-for-negaunee-data-center-ordinance-to-be-held-on-aug-13/"
+   "iso": "2026-08-17",
+   "time": "5:30 PM",
+   "meeting": "City of Coldwater, Planning Commission and CBPU Board",
+   "bullet": "Coldwater joint meeting Monday to shape permanent data center zoning rules after rejecting temporary freeze, with no active proposals on file.",
+   "link": "https://wtvbam.com/2026/08/14/970442/"
   },
   {
-   "iso": "2026-08-13",
-   "time": "6:00 PM",
-   "meeting": "Michigan for Responsible Data Centers Coalition",
-   "bullet": "Coalition webinar Thursday on data center development implications in Michigan.",
-   "link": "https://www.facebook.com/detroitchamber/posts/on-thursday-august-13-at-6-pm-join-the-michigan-for-responsible-data-centers-coa/1479381710891828/"
+   "iso": "2026-08-17",
+   "time": "7:00 PM",
+   "meeting": "Caledonia Township Planning Commission",
+   "bullet": "Caledonia PC discusses data center ordinance Aug. 17 while moratorium holds until Oct. 17 after earlier extension recommendation.",
+   "link": "https://www.caledoniatownship.org/AgendaCenter"
+  },
+  {
+   "iso": "2026-08-17",
+   "time": "7:00 PM",
+   "meeting": "Kalamazoo City Commission",
+   "bullet": "Kalamazoo Commission votes Aug. 17 on data center moratorium resolution after June opposition and no formal proposals submitted.",
+   "link": "https://kalamazoomi.portal.civicclerk.com"
   }
  ]
 }
