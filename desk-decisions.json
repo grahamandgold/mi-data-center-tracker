@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSjZWXy1NMEk2QVpQZURXUUh2SDlUamRTN0lqandaWUFhd3JMZVA3SEJTUzRjMDVMUkRwTnJmRC1oLVBLUGhrdnJXMVVYcEZYV3JvZE16TWNRRG50RmZPVWxoaDI4bnM1b05uWXRDTzJLaEM5YmQzcTdSbFotZkRaVTdsNFJQY21VbW9XMUNJUE1kUnNORVdROHh3bmJKNUFKb2hnQ1RjOElTa2owenNHeUFTdE1QZy1rVUFDVHVnNUl3bFN5UjI5UWd1UnNVYW15bUMzZkpEUVJLdGtz?oc=5",
-   "title": "Michigan congressman seeks pause on server farms amid power grid concerns",
-   "at": "2026-08-01T21:04:08+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Thin speculation about a possible moratorium with no concrete action taken; John James already covered on town-level rules but this appears incomplete and vague"
-  },
-  {
    "url": "https://www.foxnews.com/politics/dsa-candidate-pushes-federal-ai-datacenter-moratorium-michigan-early-voting-underway",
    "title": "DSA House candidate calls for federal moratorium on AI data centers",
    "at": "2026-08-02T01:09:23+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-15T23:28:12+00:00",
    "by": "news_judge",
    "note": "score 3/10, duplicate: Same legal challenge to Saline Township tax abatement already killed as 'Attorney Challenges Saline Township Tax Abatement for Proposed Oracle-OpenAI Data Cente"
+  },
+  {
+   "url": "https://example.com/national-data-center-power",
+   "title": "U.S. Data Center Power Demand Surges Prompt New Utility Planning",
+   "at": "2026-08-16T03:09:34+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece on utility planning lacks Michigan-specific developments or decisions."
   }
  ],
  "auto_published": [
@@ -2955,6 +2955,18 @@
    "title": "AG Nessel demands names behind Michigan's hidden data center contracts",
    "judge_score": 8,
    "at": "2026-08-16T01:52:20Z"
+  },
+  {
+   "url": "https://thelivingstonpost.com/we-dont-even-know-who-signed-the-contracts-ag-nessel-challenges-michigans-secret-data-center-deal/",
+   "title": "Attorney General Nessel Seeks Court Review of Secret DTE Contracts for Saline Data Center",
+   "judge_score": 7,
+   "at": "2026-08-16T03:09:35Z"
+  },
+  {
+   "url": "https://www.aol.com/articles/residents-michigan-suing-data-center-231700000.html",
+   "title": "Dowagiac Residents Sue Hyperscale Data Center Over nonstop Noise",
+   "judge_score": 8,
+   "at": "2026-08-16T03:09:35Z"
   }
  ]
 }

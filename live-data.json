@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-16T01:52:20Z",
+ "updated_at": "2026-08-16T03:09:35Z",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -18,6 +18,21 @@
    "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSlNuaHc5WnZkSDMzZi1ZVm14N0lWNTJQSkFUcEJFNGR3RXlZVS16b0lDZ1VULUc5Q3I4cDNNblJjZTdtdm10SUExa3BmN09FeVcyLVJicW5RSVZFWi1XX0FhT1d5UDFMRWhPR0RSY0dsbF8zWDhBQTBYbXN1WFZTX1JWT0ZrVnlaaDhTbG50TmVINzdMM1IzbzUyY1BLMjZhZlR0ckFhX2tQSkdZX2dZWXYzT2Q3Qmx0UU9kR2JNTXA1TEtpY2840gHHAUFVX3lxTE1KU25odzladmRIMzNmLVlWbXg3SVY1MlBKQVRwQkU0ZHdFeVlVLXpvSUNnVVQtRzlDcjhwM01uUmNlN212bXRJQTFrcGY3T0V5VzItUmJxblFJVkVaLVdfQWFPV3lQMUxFaE9HRFJjR2xsXzNYOEFBMFhtc3VYVlNfUlZPRmtWeVpoOFNsbnROZUg3N0wzUjNvNTJjUEsyNmFmVHRyQWFfa1BKR1lfZ1lZdjNPZDdCbHRRT2RHYk1NcDVMS2ljbzg?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
+  },
+  {
+   "iso": "2026-08-15T23:00:00+00:00",
+   "region": "metro",
+   "cat": "Washtenaw Co.",
+   "tag": "Power & Grid",
+   "title": "Attorney General Nessel Seeks Court Review of Secret DTE Contracts for Saline Data Center",
+   "dek": "Michigan AG Dana Nessel asks the Court of Appeals to reopen a contested hearing on DTE Energy contracts for the OpenAI/Oracle hyperscale project, arguing ratepayers deserve transparency on terms and costs.",
+   "source": "The Livingston Post",
+   "url": "https://thelivingstonpost.com/we-dont-even-know-who-signed-the-contracts-ag-nessel-challenges-michigans-secret-data-center-deal/",
+   "breaking": false,
+   "lead": true,
+   "id": "9d7214beafb2",
+   "accuracy": "checked",
+   "judge_score": 7
   },
   {
    "title": "Saline Township brings on ex-cop to steer zoning fights over big projects",
@@ -52,6 +67,21 @@
    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQm5OZlRSXzdoV2lHeU5LOWZNWm5uY2E4a3FuT1lBV1ZPUDFDSXhkM090QWV1MV9FekdkazZHcmZqaGpfOEhaVzNsR1NRSEFHYjMxMnhIQ05mOTQ0QUN5Mm9xZnppSTNUbWR0OVc5cDJjLXhobUNaOU5tRkpLUFFvbmNXUWpJd0dIbEt4NkVoWWU2OWgtM0VMU3l0anhJb0FyS2fSAbYBQVVfeXFMT3d4aHVSMWxEVEJ0dHhhc0pqMEdCSTRmdkJQQVo1djVXMjhsa093c2hQWVkybHVuQVFtZDdrM1RZZjV6ZnFiekREUjYzcDlyekt4b0NoRHV2X2JtU0RXQ2JNVnpzSV9sY2JwTnhyZVloZHJUSE1Wd0d4QnhpekJfbkF0dGFlU0pKcVg1UHZiUXVGM2lqdlpLeWJiamdMdW1SMWgwdnFOYktkQnFfVldYQXpmdG9CYWc?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
+  },
+  {
+   "iso": "2026-08-15T18:00:00+00:00",
+   "region": "metro",
+   "cat": "Washtenaw Co.",
+   "tag": "Local Government",
+   "title": "Dowagiac Residents Sue Hyperscale Data Center Over nonstop Noise",
+   "dek": "Neighbors say a former crypto site now run by Alliance Cloud Services produces a high-pitched whine that forces them indoors and violates the city's new noise limits.",
+   "source": "AOL",
+   "url": "https://www.aol.com/articles/residents-michigan-suing-data-center-231700000.html",
+   "breaking": false,
+   "lead": false,
+   "id": "ebf6694241b3",
+   "accuracy": "checked-rewritten",
+   "judge_score": 8
   },
   {
    "title": "Michigan tightens rules on Great Lakes water pulls that data centers need",
@@ -150,40 +180,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUXJ1bG51QWZZMlpKcDBRd2t3UjhQcnduT3lvNm5lTDZtaU1vZk9oZUYybGFrSXVfeVlMZElVZWgzbTNJZ2ViUThGNmJ3OHR5eEZ2UXVRbDZpQ0NKdWxWYklyWGNNU1ZBbWV0RkxYV3JSUlRiS2NrUDc0RWxBUmJBekQzSWctUUFoSG40a0g3SVBSV1M1cDhLMVBNRGVmZlctdWFyWVR5WFVYd3pEekt1Ri1QcG9mT2hhTE9waEMwWGoxN1daYk85cHBOYXAyN0dTcE0w?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
-  },
-  {
-   "title": "DTE eyes Milan Twp site for new gas plant to feed data-center demand",
-   "dek": "DTE is scouting Milan Township for a natural-gas power plant aimed at serving large new loads. Residents 30 miles away will feel the impact through higher utility rates and air-quality trade-offs if the plant is approved. The move shows how Michigan townships are being pulled into the data-center power scramble.",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSHQxUlRKa0VfQmNfTFZpNHd4cXJJU0pTODJYamFyYmIwUWE0UjhGcHNTWF9XLWhIUHRlMTF5SWlURzU2RW9wTmoyZTdYN3RQOWN1V1Q3Z2ZQTUFnVnJzN19QbjI4eUZ2TFozTHdWbU82Umc4RDF0cHJzZjV3eWxMLVo2S0FyN0xDdEIzclJB?oc=5",
-   "source": "The Sun Times News",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Power & Grid",
-   "iso": "2026-08-14T15:36:18Z",
-   "id": "704bd8677ab6",
-   "origin": "google-news",
-   "source_title": "DTE Considers Milan Township for Natural Gas Power Plant - The Sun Times News",
-   "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSHQxUlRKa0VfQmNfTFZpNHd4cXJJU0pTODJYamFyYmIwUWE0UjhGcHNTWF9XLWhIUHRlMTF5SWlURzU2RW9wTmoyZTdYN3RQOWN1V1Q3Z2ZQTUFnVnJzN19QbjI4eUZ2TFozTHdWbU82Umc4RDF0cHJzZjV3eWxMLVo2S0FyN0xDdEIzclJB?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
-  },
-  {
-   "title": "East Lansing keeps data-center freeze in place while writing new rules",
-   "dek": "City leaders extended the moratorium so staff can finish regulations on power use and setbacks. Residents 30 miles away in surrounding townships now have a model to watch for their own zoning fights. The pause blocks any new proposals until the rules are locked in.",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOFFqT0pLVW1KWjhjYkpUMFN2SkRXYlk0aFNRM25FTHV2b2Zza0ZyWlhhR09OTWZHWjl0UHhFVmVENWNrYk5FMGZ0N3oyNThQbkI5dVM1ejdEOGtvV1A4NHFJazZRZWt5LXZFcGxnbXRPN0Z4U2MzYlNoUWVOMERnVGJ5VDhRWjN6RmlnZktOWjJSZks3dm9vdzl6djduZjNqamd4VmU2Y2tfZw?oc=5",
-   "source": "East Lansing Info",
-   "region": "mid",
-   "cat": "STATEWIDE",
-   "county": "Ingham",
-   "tag": "Local Government",
-   "iso": "2026-08-14T14:30:00Z",
-   "id": "358a34dbe4ce",
-   "origin": "google-news",
-   "source_title": "East Lansing Extends Data Center Moratorium as City Develops New Regulations - East Lansing Info",
-   "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOFFqT0pLVW1KWjhjYkpUMFN2SkRXYlk0aFNRM25FTHV2b2Zza0ZyWlhhR09OTWZHWjl0UHhFVmVENWNrYk5FMGZ0N3oyNThQbkI5dVM1ejdEOGtvV1A4NHFJazZRZWt5LXZFcGxnbXRPN0Z4U2MzYlNoUWVOMERnVGJ5VDhRWjN6RmlnZktOWjJSZks3dm9vdzl6djduZjNqamd4VmU2Y2tfZw?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {
