@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdk9EZjRxY0ptWXRycjU2UFF2VlpCQjdWVDNWNW5Vc0tqMTZrZ2dtZ05Kc0JMNVBQVVNJaUxuT1JuQzdOcUF4amhKOUlmd3VJSnY3NHpnWG9SYVpfamZzV1lPdm9uSzlvN3pBWWI2SG1iNnc2OFNaZVg0RWlLSXlsNzlqdy1rRXVVaUlfMHlmcW5od2JJWkRzdU9LNXRITVk1R0pOV21iS0FkaGp1dzdPSlFPc3FENlZ40gG-AUFVX3lxTE1BajE3Q0ZCam9zdmZmNmY1SXF4ejhtWVJ6bHdyOXEwd1U1cjVXX2RxRk1iazFGRkxQWDlGd3V1cG5OUFo4cXZtQ0ZkLVdXZFJlQ0k1NWI1TlE1TVp1S0RGc2x2Z0J1LWQwSTM4NVJ3MXVWMkhVYy1VYW02cW9TSE1EOGJKWmFhWFFnN25RNE1zTkszZkJBXzl3bW1tcVBrcFB6cG5ja1BtLThNak4zMlduU2J4dDdtTnU2S25hRXc?oc=5",
-   "title": "Michigan Senate hopeful pushes nationwide AI data center freeze",
-   "at": "2026-08-02T10:05:36+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicate of killed story 'DSA House candidate calls for federal moratorium on AI data centers' and 'Michigan Senate hopeful backs nationwide halt on AI data ce"
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LbkhaRXZtZVFQWDdmV2R0QnduenQ5Rmd6bWxfQ0lTajh1Y0htTlg4TVZGNDZUZDVVX2V1QlBDSmNYRHRzLS14eGdKN2YwWXowMFYwSjE2V3hob3YybEEwSHRhRmM0XzBhdDRtamVUc1E3U3RCX3pTeQ?oc=5",
    "title": "John James wants towns, not state, to decide data-center rules",
    "at": "2026-08-02T11:29:22+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-16T14:53:02+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece from Kentucky with no Michigan connection or development; illustrates broader opposition pattern but lacks local relevance for Michigan dat"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPakJIV19jRHl1TzZRWFV5dWNkQkRtNDcxTm92c2x0M0tVSTV1SEdVdEJTa2dhTzA4WVpWd2o2eXc2WnRzNEpjQVU2TWl0ZElORWx3OHBRUnBIVnI1ZUEzQWRaWjFRT00xSHB0ZHp6bG9MazJWejVDVVpmSzl5TGF0T3M3MjdBTnBJeXc?oc=5",
+   "title": "Michigan city gains veto power over server farms threatening grid, water supply",
+   "at": "2026-08-16T15:30:11+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This is the same Wixom zoning action already live as 'Wixom tightens data center rules amid power and water concerns.'"
   }
  ],
  "auto_published": [
