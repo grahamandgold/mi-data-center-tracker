@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-16T12:59:33Z",
+ "updated_at": "2026-08-16T13:38:29+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -201,6 +201,33 @@
  "meetings": [
   {
    "iso": "2026-08-17",
+   "body": "Mason City Council",
+   "topic": "Continue debate on proposed hyperscale data center in nearby Vevay Township and consider amendments to citizen-initiated noise ordinance",
+   "region": "Mid-Michigan",
+   "regionKey": "mid",
+   "county": "Ingham",
+   "time": "6:30 PM",
+   "status": "Board meeting",
+   "urgent": true,
+   "link": "https://www.mason.mi.us/your_government/mayor_and_city_council/agendas_&_minutes.php",
+   "linkLabel": "Agenda",
+   "stream": "https://www.mason.mi.us/your_government/mayor_and_city_council/agendas_&_minutes.php"
+  },
+  {
+   "iso": "2026-08-17",
+   "body": "Caledonia Township Planning Commission",
+   "topic": "Data Center Ordinance Discussion and public comment on moratorium extension",
+   "region": "West Michigan",
+   "regionKey": "west",
+   "county": "Kent",
+   "time": "7:00 PM",
+   "status": "Planning commission",
+   "urgent": false,
+   "link": "https://www.caledoniatownship.org/AgendaCenter",
+   "linkLabel": "Agenda"
+  },
+  {
+   "iso": "2026-08-17",
    "body": "Coldwater City Council, Planning Commission and Board of Public Utilities",
    "topic": "Joint informational meeting on data center impacts, zoning and potential ordinance development",
    "region": "Mid-Michigan",
@@ -225,20 +252,6 @@
    "urgent": false,
    "link": "https://wtvbam.com/2026/08/14/970442/",
    "linkLabel": "Meeting Announcement",
-   "stream": ""
-  },
-  {
-   "iso": "2026-08-17",
-   "body": "Caledonia Township Planning Commission",
-   "topic": "Data Center Ordinance Discussion and potential zoning amendments",
-   "region": "West Michigan",
-   "regionKey": "west",
-   "county": "Kent",
-   "time": "7:00 PM",
-   "status": "Planning commission",
-   "urgent": false,
-   "link": "https://www.caledoniatownship.org/AgendaCenter",
-   "linkLabel": "Agenda",
    "stream": ""
   },
   {
