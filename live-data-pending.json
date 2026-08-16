@@ -1,7 +1,26 @@
 {
- "updated_at": "2026-08-16T06:53:44+00:00",
+ "updated_at": "2026-08-16T07:38:59+00:00",
  "generator": "grok-wire-agent",
  "items": [
+  {
+   "iso": "2026-08-15T20:00:00+00:00",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "tag": "Policy",
+   "title": "Michigan Bills Would Require Data Centers to Fund Local Benefits and Cover Power Costs",
+   "dek": "Proposed laws block permits until operators sign community deals and long-term contracts that keep energy and decommissioning expenses off resident bills.",
+   "source": "Multistate",
+   "url": "https://www.multistate.us/insider/2026/7/15/michigan-data-center-legislation-targets-energy-use-and-community-benefits",
+   "breaking": false,
+   "lead": false,
+   "id": "2799cfd22143",
+   "kind": "national",
+   "filed_at": "2026-08-16T07:38:44+00:00",
+   "accuracy": "checked-rewritten",
+   "headline_rewritten": true,
+   "judge_score": 8,
+   "judge_note": "Concrete new development: specific Michigan legislation requiring community benefit agreements and cost coverage represents a significant policy action distinct"
+  },
   {
    "title": "UP bitcoin mine operator hits local reporter with copyright threats",
    "dek": "WCMU's story on the mine's water and power use drew legal letters aimed at blocking further coverage. The facility sits in the Upper Peninsula and draws from the same grid feeding other crypto and AI sites. Readers across the state see how one project's pushback can chill reporting on energy use.",
@@ -24,5 +43,5 @@
    "judge_note": "Concrete new development with a chilling-effect angle: legal threats against a Michigan public-radio reporter covering data-center infrastructure strain is news"
   }
  ],
- "accuracy_checked_at": "2026-08-16T06:53:42+00:00"
+ "accuracy_checked_at": "2026-08-16T07:38:55+00:00"
 }
