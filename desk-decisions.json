@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZE1mTmN1d3oybEpBYUprbVg2Z25GWVAxTGJ2VVIyMGRBN2NSYkpmNTNTQ3BOVExET1ZESUN1cXA5dDQtR2VoT1NOU3ViWTE2QkdiM2JtaEladkR2eXdBcFNCWTM2UDZ2Z1JNcGxqU0FheUZsN3RHSXRmSkxNNEF4ZTFyQ2pPbnRNYjhKY2EtY2Z1UUs1QURIWjBMaw?oc=5",
-   "title": "Data center fights turn Michigan Dem primary into corporate power battle",
-   "at": "2026-08-02T18:37:19+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: This is the same Michigan Dem primary/corporate power battle story already killed by the News Director, just with a slightly different headline formulation."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYnI5Nl9samNsNG4weHR1eWZQMUlTVVlSOE1BdTc3dkJxZXlUZHBNOVBpTHF0UjZ2TVg0bk9mc0x4eVZYdXdJQ09SWFRsRUs4QXRCNEdUckhhUUE0alNXSmN6ci1CMWpzU2p6eHE3NVlGdTM5Nm1qYWZQTGIzMGFWSngtdjllSk93Y0hTdHdvQWNybkxad2hGTFR1ZzIzTEZWbGZSYS1qX1ZxTU9OU18tWmFaMWxVaHVZdlJ0eWNzQWh3cUpJNzhyeENEejdjUQ?oc=5",
    "title": "Dowagiac data center runs nonstop, neighbors call the noise 'demon screams'",
    "at": "2026-08-02T20:15:41+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-16T20:32:33+00:00",
    "by": "news_judge",
    "note": "score 1/10, duplicate: Duplicate of already-live 'Wixom tightens data center rules amid power and water concerns' — same zoning/noise action by Wixom officials."
+  },
+  {
+   "url": "https://www.reuters.com/",
+   "title": "No major new national data center developments reported in the last 24 hours",
+   "at": "2026-08-16T22:50:55+00:00",
+   "by": "news_judge",
+   "note": "score 1/10: This is a non-story placeholder stating that nothing happened — pure noise with zero news value for Michigan readers."
   }
  ],
  "auto_published": [
