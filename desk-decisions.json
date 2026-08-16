@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LbkhaRXZtZVFQWDdmV2R0QnduenQ5Rmd6bWxfQ0lTajh1Y0htTlg4TVZGNDZUZDVVX2V1QlBDSmNYRHRzLS14eGdKN2YwWXowMFYwSjE2V3hob3YybEEwSHRhRmM0XzBhdDRtamVUc1E3U3RCX3pTeQ?oc=5",
-   "title": "John James wants towns, not state, to decide data-center rules",
-   "at": "2026-08-02T11:29:22+00:00",
-   "by": "news_judge",
-   "note": "score 1/10, duplicate: This is the same John James position on local control already live in the first item of the ALREADY LIVE list."
-  },
-  {
    "url": "https://www.wsj.com/tech/ai/americas-data-center-build-out-is-falling-way-behind-schedule-e408a9a8",
    "title": "U.S. Data Center Construction Lags Behind Ambitious Schedules Amid Power and Permitting Hurdles",
    "at": "2026-08-02T12:37:36+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-16T15:30:11+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: This is the same Wixom zoning action already live as 'Wixom tightens data center rules amid power and water concerns.'"
+  },
+  {
+   "url": "https://nypost.com/2026/08/15/real-estate/ai-data-center-boom-minting-new-class-of-6-figure-jobs-how-it-affects-housing/",
+   "title": "Data Center Wages Top $200k but Pull Trades from Homebuilding",
+   "at": "2026-08-16T17:27:15+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National labor trend piece citing Nvidia CEO on wage competition with homebuilding—thin on Michigan specifics and speculative on local impact."
   }
  ],
  "auto_published": [
@@ -2979,6 +2979,18 @@
    "title": "Wixom tightens data center rules amid power and water concerns",
    "judge_score": 7,
    "at": "2026-08-16T12:59:33Z"
+  },
+  {
+   "url": "https://www.thecooldown.com/green-tech/wixom-michigan-tighten-zoning-data-centers/",
+   "title": "Wixom Council Backs Zoning Rules to Limit Data Center Noise and Utility Costs",
+   "judge_score": 8,
+   "at": "2026-08-16T17:27:15Z"
+  },
+  {
+   "url": "https://www.wkar.org/wkar-news/2026-08-16/what-roths-watching-jackson-personal-property-ordinance-data-center-debate-returns-to-mason-and-more",
+   "title": "Mason City Council to Resume Debate on Nearby Data Center Proposal and Noise Ordinance",
+   "judge_score": 6,
+   "at": "2026-08-16T17:27:15Z"
   }
  ]
 }
