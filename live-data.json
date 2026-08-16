@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-15T23:48:57+00:00",
+ "updated_at": "2026-08-16T01:52:20Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "AG Nessel demands names behind Michigan's hidden data center contracts",
+   "dek": "Michigan's attorney general is suing to uncover who signed secret deals for a major data center project. Residents could face higher electric bills and lost tax revenue if the terms stay hidden. The case could set rules for how future projects get approved across the state.",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSlNuaHc5WnZkSDMzZi1ZVm14N0lWNTJQSkFUcEJFNGR3RXlZVS16b0lDZ1VULUc5Q3I4cDNNblJjZTdtdm10SUExa3BmN09FeVcyLVJicW5RSVZFWi1XX0FhT1d5UDFMRWhPR0RSY0dsbF8zWDhBQTBYbXN1WFZTX1JWT0ZrVnlaaDhTbG50TmVINzdMM1IzbzUyY1BLMjZhZlR0ckFhX2tQSkdZX2dZWXYzT2Q3Qmx0UU9kR2JNTXA1TEtpY2840gHHAUFVX3lxTE1KU25odzladmRIMzNmLVlWbXg3SVY1MlBKQVRwQkU0ZHdFeVlVLXpvSUNnVVQtRzlDcjhwM01uUmNlN212bXRJQTFrcGY3T0V5VzItUmJxblFJVkVaLVdfQWFPV3lQMUxFaE9HRFJjR2xsXzNYOEFBMFhtc3VYVlNfUlZPRmtWeVpoOFNsbnROZUg3N0wzUjNvNTJjUEsyNmFmVHRyQWFfa1BKR1lfZ1lZdjNPZDdCbHRRT2RHYk1NcDVMS2ljbzg?oc=5",
+   "source": "thelivingstonpost.com",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Policy",
+   "iso": "2026-08-15T23:15:24Z",
+   "id": "e32dab6157e9",
+   "origin": "google-news",
+   "source_title": "‘We don’t even know who signed the contracts’: AG Nessel challenges Michigan’s secret data center deal - thelivingstonpost.com",
+   "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSlNuaHc5WnZkSDMzZi1ZVm14N0lWNTJQSkFUcEJFNGR3RXlZVS16b0lDZ1VULUc5Q3I4cDNNblJjZTdtdm10SUExa3BmN09FeVcyLVJicW5RSVZFWi1XX0FhT1d5UDFMRWhPR0RSY0dsbF8zWDhBQTBYbXN1WFZTX1JWT0ZrVnlaaDhTbG50TmVINzdMM1IzbzUyY1BLMjZhZlR0ckFhX2tQSkdZX2dZWXYzT2Q3Qmx0UU9kR2JNTXA1TEtpY2840gHHAUFVX3lxTE1KU25odzladmRIMzNmLVlWbXg3SVY1MlBKQVRwQkU0ZHdFeVlVLXpvSUNnVVQtRzlDcjhwM01uUmNlN212bXRJQTFrcGY3T0V5VzItUmJxblFJVkVaLVdfQWFPV3lQMUxFaE9HRFJjR2xsXzNYOEFBMFhtc3VYVlNfUlZPRmtWeVpoOFNsbnROZUg3N0wzUjNvNTJjUEsyNmFmVHRyQWFfa1BKR1lfZ1lZdjNPZDdCbHRRT2RHYk1NcDVMS2ljbzg?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "Saline Township brings on ex-cop to steer zoning fights over big projects",
    "dek": "The township hired a retired sergeant to manage zoning applications. Residents near Ann Arbor now have a direct contact point when large industrial proposals, including potential data centers, hit the planning desk. The hire signals Saline expects more complex land-use cases in the coming months.",
@@ -167,23 +184,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOFFqT0pLVW1KWjhjYkpUMFN2SkRXYlk0aFNRM25FTHV2b2Zza0ZyWlhhR09OTWZHWjl0UHhFVmVENWNrYk5FMGZ0N3oyNThQbkI5dVM1ejdEOGtvV1A4NHFJazZRZWt5LXZFcGxnbXRPN0Z4U2MzYlNoUWVOMERnVGJ5VDhRWjN6RmlnZktOWjJSZks3dm9vdzl6djduZjNqamd4VmU2Y2tfZw?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Coldwater officials set Monday meeting on data-center power and water strain",
-   "dek": "Branch County leaders will hear how new facilities could affect local utility rates and aquifer levels. The joint session pulls in township and county boards to discuss oversight options. Nearby residents get a direct look at the trade-offs before any projects advance.",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYWxsaVJ0U19Ea0hEc1FqejZFUGFXdWVWa0l3NGJDY2M2TU9oNTY2Q0dzSnY5VjJzbENLTUJFaEVNUTlvUGpvRG1iTEFEWFRyTjRsRkNSYVpreDJNb0x4RzVMWW41WWRGc3lzMlFuT2JlZEVVLVBOczZZS2h1Q0daS3FsVW1vdEpjNkxfemVkbVUzMk5WLWQ2RGN2ZFhPN1RSV29DZ2x0Zm9TQ1F4aENYNk9icWFUV0wzR2taNTBadTRQTnVuZUQxNVBiSjNKX2dDSkh0Nk50ZFg1cVVzSGRVa1E0cFQxREE?oc=5",
-   "source": "Coldwater Daily Reporter",
-   "region": "mid",
-   "cat": "STATEWIDE",
-   "county": "Branch",
-   "tag": "Power & Grid",
-   "iso": "2026-08-14T13:51:00Z",
-   "id": "c210de2ab901",
-   "origin": "google-news",
-   "source_title": "Monday joint meeting to explore data center impacts and oversight - Coldwater Daily Reporter",
-   "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYWxsaVJ0U19Ea0hEc1FqejZFUGFXdWVWa0l3NGJDY2M2TU9oNTY2Q0dzSnY5VjJzbENLTUJFaEVNUTlvUGpvRG1iTEFEWFRyTjRsRkNSYVpreDJNb0x4RzVMWW41WWRGc3lzMlFuT2JlZEVVLVBOczZZS2h1Q0daS3FsVW1vdEpjNkxfemVkbVUzMk5WLWQ2RGN2ZFhPN1RSV29DZ2x0Zm9TQ1F4aENYNk9icWFUV0wzR2taNTBadTRQTnVuZUQxNVBiSjNKX2dDSkh0Nk50ZFg1cVVzSGRVa1E0cFQxREE?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {
