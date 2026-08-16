@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-16T10:51:53+00:00",
+ "updated_at": "2026-08-16T11:27:58Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Mason revives data center tax fight as Jackson eyes personal property rules",
+   "dek": "Residents in Ingham and Jackson counties are watching new local rules that could decide how much data centers pay in taxes. The debate affects household electric bills and township budgets if big projects move forward. Mason’s return to the issue shows communities are still sorting out who pays for the power these facilities demand.",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZmIzbUtlQTFhN2lhTGQ5Mlp5ZURBblM1eUJZeE5UVldEWHg2U09HZ0UwNXpUZ1Z1aTNSRHgxSXdmVVRYQkRKQ3lxOGtGTFlCWmZFek5sTDlEVkhsYUZXaGtoWk9uTkpCZ2h6dnJSSWhCYi1mUUlYMEVjalVIZ0RMMVRaSzFOMWFMS3BlT2Rna3FYcVJCd09FT0ZNQW9HRnNZUWNhMFpxVThZU2ZJZy1fZHVDemY0b05xWlJGVGtxWnB1QkhuZmdfY2szaER0WndTM0w0eFpJbmtvdw?oc=5",
+   "source": "WKAR",
+   "region": "mid",
+   "cat": "STATEWIDE",
+   "county": "Ingham",
+   "tag": "Local Government",
+   "iso": "2026-08-16T11:00:00Z",
+   "id": "0ed74d6837b0",
+   "origin": "google-news",
+   "source_title": "What Roth's Watching: Jackson personal property ordinance, data center debate returns to Mason, and more - WKAR",
+   "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZmIzbUtlQTFhN2lhTGQ5Mlp5ZURBblM1eUJZeE5UVldEWHg2U09HZ0UwNXpUZ1Z1aTNSRHgxSXdmVVRYQkRKQ3lxOGtGTFlCWmZFek5sTDlEVkhsYUZXaGtoWk9uTkpCZ2h6dnJSSWhCYi1mUUlYMEVjalVIZ0RMMVRaSzFOMWFMS3BlT2Rna3FYcVJCd09FT0ZNQW9HRnNZUWNhMFpxVThZU2ZJZy1fZHVDemY0b05xWlJGVGtxWnB1QkhuZmdfY2szaER0WndTM0w0eFpJbmtvdw?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "AG Nessel demands names behind Michigan's hidden data center contracts",
    "dek": "Michigan's attorney general is suing to uncover who signed secret deals for a major data center project. Residents could face higher electric bills and lost tax revenue if the terms stay hidden. The case could set rules for how future projects get approved across the state.",
@@ -163,23 +180,6 @@
    "id": "b69f3e7fb83d",
    "accuracy": "checked-rewritten",
    "judge_score": 6
-  },
-  {
-   "title": "Saline Twp tax break for data center faces legal challenge",
-   "dek": "An attorney claims Saline Township bypassed required steps when approving a tax abatement for a large data-center project. The challenge could delay or derail the deal that would shift millions in taxes away from local services. Nearby residents are watching how the fight affects their property taxes and school funding.",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUXJ1bG51QWZZMlpKcDBRd2t3UjhQcnduT3lvNm5lTDZtaU1vZk9oZUYybGFrSXVfeVlMZElVZWgzbTNJZ2ViUThGNmJ3OHR5eEZ2UXVRbDZpQ0NKdWxWYklyWGNNU1ZBbWV0RkxYV3JSUlRiS2NrUDc0RWxBUmJBekQzSWctUUFoSG40a0g3SVBSV1M1cDhLMVBNRGVmZlctdWFyWVR5WFVYd3pEekt1Ri1QcG9mT2hhTE9waEMwWGoxN1daYk85cHBOYXAyN0dTcE0w?oc=5",
-   "source": "Michigan Advance",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Local Government",
-   "iso": "2026-08-14T17:14:26Z",
-   "id": "7375f4f35bb8",
-   "origin": "google-news",
-   "source_title": "In bid to stop Saline Data Center tax break, an attorney argues the township skipped crucial steps - Michigan Advance",
-   "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUXJ1bG51QWZZMlpKcDBRd2t3UjhQcnduT3lvNm5lTDZtaU1vZk9oZUYybGFrSXVfeVlMZElVZWgzbTNJZ2ViUThGNmJ3OHR5eEZ2UXVRbDZpQ0NKdWxWYklyWGNNU1ZBbWV0RkxYV3JSUlRiS2NrUDc0RWxBUmJBekQzSWctUUFoSG40a0g3SVBSV1M1cDhLMVBNRGVmZlctdWFyWVR5WFVYd3pEekt1Ri1QcG9mT2hhTE9waEMwWGoxN1daYk85cHBOYXAyN0dTcE0w?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
   }
  ],
  "national": {
