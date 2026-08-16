@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYnI5Nl9samNsNG4weHR1eWZQMUlTVVlSOE1BdTc3dkJxZXlUZHBNOVBpTHF0UjZ2TVg0bk9mc0x4eVZYdXdJQ09SWFRsRUs4QXRCNEdUckhhUUE0alNXSmN6ci1CMWpzU2p6eHE3NVlGdTM5Nm1qYWZQTGIzMGFWSngtdjllSk93Y0hTdHdvQWNybkxad2hGTFR1ZzIzTEZWbGZSYS1qX1ZxTU9OU18tWmFaMWxVaHVZdlJ0eWNzQWh3cUpJNzhyeENEejdjUQ?oc=5",
-   "title": "Dowagiac data center runs nonstop, neighbors call the noise 'demon screams'",
-   "at": "2026-08-02T20:15:41+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: This is a rehash of the already-live story 'Dowagiac data center noise torments nearby homes day and night' — same facility, same noise complaints, just more co"
-  },
-  {
    "url": "https://www.politico.com/news/magazine/2026/08/02/the-new-luddites-01017824",
    "title": "National Backlash Against Data Centers Grows as Local Officials Face Recall Efforts",
    "at": "2026-08-03T08:49:46+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-16T22:50:55+00:00",
    "by": "news_judge",
    "note": "score 1/10: This is a non-story placeholder stating that nothing happened — pure noise with zero news value for Michigan readers."
+  },
+  {
+   "url": "https://www.cbsnews.com/texas/news/data-centers-texas-politics-midterm-election-greg-abbott/",
+   "title": "Texas Data Center Audits Target Water Use and Power Bill Spikes",
+   "at": "2026-08-16T23:49:03+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece from Texas with no Michigan angle or development; similar regulatory responses have already been covered in killed stories about nationwide"
   }
  ],
  "auto_published": [
