@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-16T13:38:29+00:00",
+ "updated_at": "2026-08-16T14:31:54+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -201,6 +201,20 @@
  "meetings": [
   {
    "iso": "2026-08-17",
+   "body": "Coldwater City Council, Planning Commission and Board of Public Utilities",
+   "topic": "Joint informational meeting on data center impacts, zoning, energy use, neighborhood effects and potential ordinance development",
+   "region": "Mid-Michigan",
+   "regionKey": "mid",
+   "county": "Branch",
+   "time": "5:30 PM",
+   "status": "Board meeting",
+   "urgent": false,
+   "link": "https://www.coldwater.org/agendacenter",
+   "linkLabel": "Agenda",
+   "stream": null
+  },
+  {
+   "iso": "2026-08-17",
    "body": "Mason City Council",
    "topic": "Continue debate on proposed hyperscale data center in nearby Vevay Township and consider amendments to citizen-initiated noise ordinance",
    "region": "Mid-Michigan",
@@ -225,20 +239,6 @@
    "urgent": false,
    "link": "https://www.caledoniatownship.org/AgendaCenter",
    "linkLabel": "Agenda"
-  },
-  {
-   "iso": "2026-08-17",
-   "body": "Coldwater City Council, Planning Commission and Board of Public Utilities",
-   "topic": "Joint informational meeting on data center impacts, zoning and potential ordinance development",
-   "region": "Mid-Michigan",
-   "regionKey": "mid",
-   "county": "Branch",
-   "time": "5:30 PM",
-   "status": "Board meeting",
-   "urgent": false,
-   "link": "https://www.coldwater.org/agendacenter",
-   "linkLabel": "Agenda",
-   "stream": null
   },
   {
    "iso": "2026-08-17",
