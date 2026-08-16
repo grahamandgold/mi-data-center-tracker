@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-16T11:49:35+00:00",
+ "updated_at": "2026-08-16T12:59:33Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Wixom tightens data center rules amid power and water concerns",
+   "dek": "Wixom is advancing new regulations for data centers as residents express concerns over potential impacts on local power, water resources, and noise levels. The move aims to address community worries while accommodating technological growth. This decision could set a precedent for other Michigan towns facing similar challenges.",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMjdRMUN2eEVZdXdyeEY5Z0pFR2hUOW91ZjhwUTQtR1d0U1BfYS1iUHMwYWd5bEdZQjNmYjQ0Znl0SkVSTVF5UzF6YjVhRmpsQW95RHFfdW5ubWFIYUdNRHBYTUNkaUJGYnJacXlmSlZwQkVrVElWVzRtZ195M3lPdDR1UjdCNFZXa0t5bUg3X2pPMENCT1FTQ2p0WWVTOU1tRjB2TWZlUUxJSkZIdzdmOUh6eWR5aHBGQnI4WHBTaFFwWll2M3N4RFdVQ1RYdjJHcDRheDBjekphM28?oc=5",
+   "source": "sustainableconstruction-now.com",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Oakland",
+   "tag": "Local Government",
+   "iso": "2026-08-16T12:26:10Z",
+   "id": "0174948e63bc",
+   "origin": "google-news",
+   "source_title": "Wixom, Michigan, advances data center rules as worries grow over power, water, and noise - sustainableconstruction-now.com",
+   "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMjdRMUN2eEVZdXdyeEY5Z0pFR2hUOW91ZjhwUTQtR1d0U1BfYS1iUHMwYWd5bEdZQjNmYjQ0Znl0SkVSTVF5UzF6YjVhRmpsQW95RHFfdW5ubWFIYUdNRHBYTUNkaUJGYnJacXlmSlZwQkVrVElWVzRtZ195M3lPdDR1UjdCNFZXa0t5bUg3X2pPMENCT1FTQ2p0WWVTOU1tRjB2TWZlUUxJSkZIdzdmOUh6eWR5aHBGQnI4WHBTaFFwWll2M3N4RFdVQ1RYdjJHcDRheDBjekphM28?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Mason revives data center tax fight as Jackson eyes personal property rules",
    "dek": "Residents in Ingham and Jackson counties are watching new local rules that could decide how much data centers pay in taxes. The debate affects household electric bills and township budgets if big projects move forward. Mason’s return to the issue shows communities are still sorting out who pays for the power these facilities demand.",
@@ -165,21 +182,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUXZZb2YzVFpDRFZLSFNKYXR4eXFLUWZyT0RuMTFuQzZuZHMtSVgzNDl4UHExV3VQWTY3bHhKOUZFSVVJQi1GWEw4V0NEb2VHVGwzb3RIa2t3dFhzTjlMaWhfYnBFeUpNZHdseGhDY2F3TmpTN2x6dG94cUhNZ0F3S3B5SlFyZkc1X3A1Z0x2VkJSU1prWHhYU0FORDRfUWdvZU1OaEp3?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
-  },
-  {
-   "iso": "2026-08-14T19:24:00+00:00",
-   "region": "mid",
-   "cat": "Branch Co.",
-   "tag": "Local Government",
-   "title": "Coldwater readies zoning rules to shield neighborhoods from data centers",
-   "dek": "Monday meeting will gather feedback on permanent ordinances limiting noise and utility strain, with no projects proposed.",
-   "source": "WTVB",
-   "url": "https://wtvbam.com/2026/08/14/970442/",
-   "breaking": false,
-   "lead": false,
-   "id": "b69f3e7fb83d",
-   "accuracy": "checked-rewritten",
-   "judge_score": 6
   }
  ],
  "national": {
