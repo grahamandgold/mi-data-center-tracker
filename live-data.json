@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-16T20:32:29+00:00",
+ "updated_at": "2026-08-16T20:52:09+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -198,16 +198,15 @@
   {
    "iso": "2026-08-17",
    "body": "Mason City Council",
-   "topic": "Data center proposal in nearby Vevay Township and amendments to noise ordinance",
+   "topic": "Data center zoning ordinance revisions and related noise standards",
    "region": "Mid-Michigan",
    "regionKey": "mid",
    "county": "Ingham",
-   "time": "7:00 PM",
+   "time": "6:30 PM",
    "status": "Board meeting",
-   "urgent": false,
-   "link": "https://www.mason.mi.us/",
-   "linkLabel": "Agenda",
-   "stream": ""
+   "urgent": true,
+   "link": "https://www.mason.mi.us/your_government/mayor_and_city_council/agendas_&_minutes.php",
+   "linkLabel": "Agenda"
   },
   {
    "iso": "2026-08-17",

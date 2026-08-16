@@ -1,44 +1,7 @@
 {
- "updated_at": "2026-08-16T20:43:44+00:00",
+ "updated_at": "2026-08-16T20:52:09+00:00",
  "generator": "grok-wire-agent",
  "items": [
-  {
-   "title": "Caledonia planning commission to discuss data center ordinance Monday",
-   "dek": "The commission meets to work on ordinance language while a moratorium blocking new data center proposals runs until October 17, affecting how the township handles future projects that could reshape tax base, utilities and farmland across the area.",
-   "url": "https://www.caledoniatownship.org/AgendaCenter",
-   "source": "Caledonia Township Planning Commission agenda",
-   "region": "West Michigan",
-   "county": "Kent",
-   "cat": "Meetings",
-   "tag": "Agenda watch",
-   "iso": "2026-08-16T20:43:44+00:00",
-   "kind": "agenda",
-   "id": "e51145af0c54",
-   "filed_at": "2026-08-16T20:43:44+00:00",
-   "accuracy": "document-based",
-   "findings": "Agenda lists 'Data Center Ordinance Discussion' under unfinished business | July 20 minutes show public comments requesting updates on the 3-month moratorium extension, with planner confirming it runs until October 17 and attorney notified for next board action | No active data center application visible in the documents",
-   "perspective": "The commission previously recommended moratorium extensions after resident questions. Monday's discussion continues ordinance work before any formal project review. Future proposals could affect tax revenue and farmland across the region.",
-   "documents": [
-    {
-     "label": "Agenda page",
-     "url": "https://www.caledoniatownship.org/AgendaCenter"
-    },
-    {
-     "label": "Planning Commission Meeting Materials",
-     "url": "https://www.caledoniatownship.org/AgendaCenter/ViewFile/Agenda/_08172026-565"
-    },
-    {
-     "label": "Planning Commission Meeting Materials",
-     "url": "https://www.caledoniatownship.org/AgendaCenter/ViewFile/Agenda/_06152026-556"
-    },
-    {
-     "label": "_06152026-556",
-     "url": "https://www.caledoniatownship.org/AgendaCenter/ViewFile/Minutes/_06152026-556"
-    }
-   ],
-   "depth_score": 10,
-   "extraction_method": "plain"
-  },
   {
    "title": "Coldwater plans permanent rules to curb data center noise and utility strain",
    "dek": "City officials will host a joint meeting Monday to outline zoning limits on high-utility data centers after rejecting a temporary freeze. No proposals are active, but the session aims to set strict boundaries on noise, power and water use before any projects arrive.",
@@ -52,7 +15,7 @@
    "kind": "agenda",
    "id": "bc5814821205",
    "filed_at": "2026-08-16T20:43:44+00:00",
-   "accuracy": "thin — needs human background",
+   "accuracy": "checked",
    "findings": "No active data center proposals exist in Coldwater per city officials | Planning Commission rejected a temporary freeze on data centers | Meeting features MSU Extension land-use expert at 5:30 p.m. Monday at Henry L. Brown Municipal Building | City Council, Planning Commission and CBPU Board will gather community feedback before drafting final ordinances | Michigan Zoning Enabling Act bars outright bans, prompting focus on operational boundaries | City Manager Keith Baker says they are focusing on drafting strict permanent ordinances to dictate exact operational boundaries and preserve municipal resources",
    "perspective": "The Planning Commission rejected a temporary freeze, noting that fast-tracking a definitive legal framework would protect neighborhoods from noise and utility strain without stalling broader economic growth. The informational session serves as a foundational step for gathering community feedback before final ordinances are drafted and adopted.",
    "documents": [
@@ -62,7 +25,9 @@
     }
    ],
    "depth_score": 2,
-   "extraction_method": "plain"
+   "extraction_method": "plain",
+   "judge_score": 7,
+   "judge_note": "Concrete new development: a scheduled joint meeting to outline permanent zoning rules for data centers in Coldwater, a different municipality taking proactive r"
   },
   {
    "title": "Kalamazoo weighs data center moratorium over health and safety risks",
@@ -111,5 +76,5 @@
    "judge_note": "Concrete new development: specific Michigan legislation requiring community benefit agreements and cost coverage represents a significant policy action distinct"
   }
  ],
- "accuracy_checked_at": "2026-08-16T20:32:30+00:00"
+ "accuracy_checked_at": "2026-08-16T20:52:22+00:00"
 }
