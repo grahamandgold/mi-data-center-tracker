@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-16T05:37:19+00:00",
+ "updated_at": "2026-08-16T06:53:44+00:00",
  "generator": "grok-wire-agent",
  "items": [
   {
@@ -22,26 +22,7 @@
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8,
    "judge_note": "Concrete new development with a chilling-effect angle: legal threats against a Michigan public-radio reporter covering data-center infrastructure strain is news"
-  },
-  {
-   "iso": "2026-08-14T18:00:00+00:00",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "tag": "Power & Grid",
-   "title": "Michigan regulators urge law changes to slow utility rate hikes",
-   "dek": "MPSC told lawmakers that multiyear rate plans and ending automatic returns on new power lines would cut household bills more than any action the commission can take now.",
-   "source": "Winnipeg Free Press",
-   "url": "https://www.winnipegfreepress.com/arts-and-life/life/greenpage/2026/08/14/michigan-regulators-ask-lawmakers-to-end-annual-rate-hikes-change-how-dte-consumers-make-money",
-   "breaking": false,
-   "lead": false,
-   "id": "7ef3855d5d38",
-   "kind": "national",
-   "filed_at": "2026-08-15T04:40:22+00:00",
-   "accuracy": "checked-rewritten",
-   "headline_rewritten": true,
-   "judge_score": 6,
-   "judge_note": "MPSC testimony to lawmakers on rate-hike reforms is document-based and relevant to data-center power costs, but lacks a specific decision or filing that would p"
   }
  ],
- "accuracy_checked_at": "2026-08-16T05:37:20+00:00"
+ "accuracy_checked_at": "2026-08-16T06:53:42+00:00"
 }

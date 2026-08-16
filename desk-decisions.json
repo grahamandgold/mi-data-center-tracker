@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.detroitnews.com/story/news/politics/2026/08/01/john-james-data-center-moratorium-michigan-governor-race-perry-johnson/91134570007/",
-   "title": "Michigan candidates debate federal role in AI data center regulation",
-   "at": "2026-08-02T01:09:23+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: Thin national trend piece aggregating candidate positions without specific Michigan action or development."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01czk4VUQyRUt1WnoyeWlwN2YtUkMxM0swREZXMTNFQ1BwNlpCNUhaeFpOdng3eHlHaDdhX3ZidHVrLWkwWk5KR1JOSGI0NFEyb1JQemJR?oc=5",
    "title": "Michigan Senate hopeful backs nationwide halt on AI data centers",
    "at": "2026-08-02T01:09:23+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-16T04:11:25+00:00",
    "by": "news_judge",
    "note": "score 2/10: National financial deal for an Ohio project with no Michigan angle or relevance to Michigan's data center buildout."
+  },
+  {
+   "url": "https://www.facebook.com/Reuters/posts/nearly-half-of-the-us-data-centers-planned-for-2026-are-facing-delays-or-cancell/1525729762751084/",
+   "title": "Power bottlenecks delay nearly half of planned U.S. data centers for 2026",
+   "at": "2026-08-16T06:53:44+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece about power bottlenecks and delays with no Michigan-specific angle or development."
   }
  ],
  "auto_published": [
