@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.foxnews.com/politics/dsa-candidate-pushes-federal-ai-datacenter-moratorium-michigan-early-voting-underway",
-   "title": "DSA House candidate calls for federal moratorium on AI data centers",
-   "at": "2026-08-02T01:09:23+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Campaign position from a DSA House candidate on a national policy issue; lacks concrete Michigan development or decision."
-  },
-  {
    "url": "https://www.detroitnews.com/story/news/politics/2026/08/01/john-james-data-center-moratorium-michigan-governor-race-perry-johnson/91134570007/",
    "title": "Michigan candidates debate federal role in AI data center regulation",
    "at": "2026-08-02T01:09:23+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-16T03:09:34+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece on utility planning lacks Michigan-specific developments or decisions."
+  },
+  {
+   "url": "https://www.channelnewsasia.com/business/nvidia-eyes-investing-3-billion-in-sb-energy-under-openai-data-center-deal-information-says-6321736",
+   "title": "Nvidia may put up to $3B into SoftBank unit SB Energy for OpenAI Ohio campus",
+   "at": "2026-08-16T04:11:25+00:00",
+   "by": "news_judge",
+   "note": "score 2/10: National financial deal for an Ohio project with no Michigan angle or relevance to Michigan's data center buildout."
   }
  ],
  "auto_published": [
