@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.wsj.com/tech/ai/americas-data-center-build-out-is-falling-way-behind-schedule-e408a9a8",
-   "title": "U.S. Data Center Construction Lags Behind Ambitious Schedules Amid Power and Permitting Hurdles",
-   "at": "2026-08-02T12:37:36+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece with generic industry-wide statistics; no Michigan-specific decision, filing, or development."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc200eFBEYV9XODZWc3YyUXlsMHBkUmd2a1RRUlhHajlpaW9xWllndEEtTDAtOVZOZkN3NE55TEhyY3hSaFFya3M0OEh3RTRwYldlaDlJbi1yY09qWjVXLXpFSHNITk9vc2l6cGdDaFBiZmdXSXZsLXJsOFdFXzNTVUxvVzA0d1MxRGtLbVBaU0RlUWc?oc=5",
-   "title": "Data center fights turn Michigan Dem primary into corporate power battle",
-   "at": "2026-08-02T14:41:54+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: National/state trend piece about data centers becoming a campaign issue rather than reporting a specific filing, vote, or concrete development in Michigan's dat"
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZE1mTmN1d3oybEpBYUprbVg2Z25GWVAxTGJ2VVIyMGRBN2NSYkpmNTNTQ3BOVExET1ZESUN1cXA5dDQtR2VoT1NOU3ViWTE2QkdiM2JtaEladkR2eXdBcFNCWTM2UDZ2Z1JNcGxqU0FheUZsN3RHSXRmSkxNNEF4ZTFyQ2pPbnRNYjhKY2EtY2Z1UUs1QURIWjBMaw?oc=5",
    "title": "Data center fights turn Michigan Dem primary into corporate power battle",
    "at": "2026-08-02T18:37:19+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-16T17:27:15+00:00",
    "by": "news_judge",
    "note": "score 3/10: National labor trend piece citing Nvidia CEO on wage competition with homebuilding—thin on Michigan specifics and speculative on local impact."
+  },
+  {
+   "url": "https://www.nytimes.com/2026/08/16/business/ai-data-centers.html",
+   "title": "States Weigh Taxes and Limits as AI Data Center Power Demand Surges Nationwide",
+   "at": "2026-08-16T20:32:33+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece aggregating actions in other states (Virginia tax, NY moratorium already killed) with no Michigan-specific development."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaDhueGpwQXhwM3AyYlNWbmdCOE9rQlYzeUkzSzdIVUVHWkh2b1V4c1p5XzR2TmZRQk1VcGJUbVhLbUlVSERrNUNLWlRkcTdkQV9pX094UDlPLXpReVp0ZGRwWWo3UVhBWXBqLUFlQVRSODFoalhqdlB6RXlvN0tSblFNLUtXYzVXaWZnc1pPRG1FV1RrUG1BcVZ4OExtV0x6Q0dRV3RzUkhDc2pTRG9PUXRtQzM1MUpBVDVjT2Z3UVFCTWpZR1QyN2JKdzBlcTJaUEtvazVhQzA0MnVReVhTZnpR?oc=5",
+   "title": "Wixom tightens data center rules over power and water strain",
+   "at": "2026-08-16T20:32:33+00:00",
+   "by": "news_judge",
+   "note": "score 1/10, duplicate: Duplicate of already-live 'Wixom tightens data center rules amid power and water concerns' — same zoning/noise action by Wixom officials."
   }
  ],
  "auto_published": [
