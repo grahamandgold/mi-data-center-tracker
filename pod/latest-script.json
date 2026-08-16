@@ -1,10 +1,10 @@
 {
- "title": "Mornings with Graham & Emmy",
- "teaser": "Nessel fights secret DTE contracts for OpenAI/Oracle project; what it means for your bills.",
+ "title": "Evenings with Graham & Emmy",
+ "teaser": "Wixom backs zoning limits on a big project; what it signals for bills, water and other towns.",
  "lines": [
   {
    "host": "Graham",
-   "text": "Good morning and welcome to Mornings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
+   "text": "Good evening, and welcome to Evenings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
   },
   {
    "host": "Emmy",
@@ -12,114 +12,226 @@
   },
   {
    "host": "Graham",
-   "text": "Today we're talking about Attorney General Dana Nessel taking the fight for transparency straight to the Court of Appeals over those secret DTE contracts tied to the big OpenAI and Oracle hyperscale project in Saline."
+   "text": "Tonight we're looking at Wixom's narrow council vote on new zoning rules aimed at reining in noise and utility costs from a proposed hyperscale project."
   },
   {
    "host": "Emmy",
-   "text": "This feels like it could set a precedent for the whole state, Graham. Why is she pushing so hard right now?"
+   "text": "That 4-3 decision today really stood out. Graham, walk us through what happened in Oakland County."
   },
   {
    "host": "Graham",
-   "text": "She's arguing that ratepayers deserve to know the terms and costs before anything gets locked in. The contracts are hidden, and if the details stay secret, folks could end up with higher electric bills and lost tax revenue."
+   "text": "The council advanced changes during the ongoing 180-day moratorium for a 600,000-square-foot facility on 54 acres. Residents had raised alarms about power demand, water use, and noise that could push up household electric bills."
   },
   {
    "host": "Emmy",
-   "text": "How does this connect to everything else happening around Michigan lately?"
+   "text": "Why does a single township vote like this carry weight beyond Wixom's borders?"
   },
   {
    "host": "Graham",
-   "text": "It's part of a bigger wave. Just yesterday Pere Marquette Township enacted a one-year moratorium on new data centers over energy and water concerns. Manistee Township joined a pause on Friday. Cass County residents packed a hall yesterday worried about noise, water use, and rising bills."
+   "text": "It sets a potential template for other Michigan communities facing similar proposals. We've seen parallel debates in Ingham, Jackson, Washtenaw, and Cass counties this week alone."
   },
   {
    "host": "Emmy",
-   "text": "And now new state rules on Great Lakes water pulls that these facilities need millions of gallons for daily cooling. It all seems to be coming to a head."
+   "text": "So the bigger story here is local pushback against rapid data center growth and its ripple effects on everyday residents."
   },
   {
    "host": "Graham",
-   "text": "Exactly. Nessel's move today could force more openness on how these projects get approved, which might slow things down or change the economics for developers."
+   "text": "Exactly. These facilities need enormous amounts of power and water for cooling, and when they connect to the grid, costs can spread to nearby ratepayers even 30 or 60 miles away."
   },
   {
    "host": "Emmy",
-   "text": "Who are the main players here besides Nessel and DTE?"
+   "text": "How long has this tension been building in places like Wixom?"
   },
   {
    "host": "Graham",
-   "text": "OpenAI and Oracle are behind the hyperscale project in Washtenaw County. Local residents and townships are pushing back hard on the impacts to farmland, water supplies, and utility rates that could ripple out thirty miles or more."
+   "text": "The moratorium gave the council time to study the impacts after residents organized around the specific project. The 4-3 vote shows the divide is real but the majority wants stricter guardrails."
   },
   {
    "host": "Emmy",
-   "text": "What kind of history is behind these fights? Have we seen similar battles before?"
+   "text": "What specific changes are they advancing on noise and costs?"
   },
   {
    "host": "Graham",
-   "text": "Data centers have been landing in Michigan for a while now, often with big power demands that strain the grid. Townships are responding with pauses and zoning changes because once land is optioned, it's hard to walk back."
+   "text": "New zoning language targets noise levels and utility cost allocation so the data center doesn't shift burdens onto regular households through higher bills or strained infrastructure."
   },
   {
    "host": "Emmy",
-   "text": "And the water angle — how much is really at stake with the new tracking rules?"
+   "text": "And how does this connect to the water rules the state tightened yesterday?"
   },
   {
    "host": "Graham",
-   "text": "The state just posted updated diversion tracking that directly limits how much large cooling operations can take from the Great Lakes basin. Projects in several counties would need millions of gallons daily, so this becomes a real choke point."
+   "text": "Michigan posted updated tracking for Great Lakes basin withdrawals. Projects needing millions of gallons daily for cooling now face clearer limits, and Wixom's concerns line up with that statewide shift."
   },
   {
    "host": "Emmy",
-   "text": "If the court reopens the hearing, what happens next for ratepayers?"
+   "text": "Farmland conversion is another angle here with 54 acres involved. What does that mean for the area long term?"
   },
   {
    "host": "Graham",
-   "text": "More transparency could mean better scrutiny of who pays for infrastructure upgrades and whether hidden deals shift costs onto regular customers. It might also set rules that apply statewide for future approvals."
+   "text": "Losing productive land to industrial use changes the local tax base and character of the township. Councils are weighing that against potential economic benefits from the project."
   },
   {
    "host": "Emmy",
-   "text": "Sounds like this could influence those upcoming meetings in Coldwater and Kalamazoo tomorrow."
+   "text": "Who are the main players pushing back versus supporting the development?"
   },
   {
    "host": "Graham",
-   "text": "Absolutely. Let's move to quick hits. Saline Township just hired a retired sergeant to manage zoning applications for big industrial projects, including potential data centers. Residents near Ann Arbor now have a direct contact point."
+   "text": "Residents and some council members focused on protecting bills and quality of life. The developer side wants to move forward under the new rules once the moratorium lifts."
   },
   {
    "host": "Emmy",
-   "text": "That signals they're expecting more complex cases ahead. Meanwhile in Dowagiac, neighbors are suing a former crypto site now run by Alliance Cloud Services over nonstop high-pitched noise that violates new city limits."
+   "text": "What happens next in Wixom after this vote?"
   },
   {
    "host": "Graham",
-   "text": "And Cass County residents packed a town hall yesterday pushing officials to reject or restrict projects before more land gets optioned. Indirect rate hikes could hit people thirty miles away on the same grid."
+   "text": "The changes head toward final adoption while the moratorium continues, giving everyone more time to review the 600,000-square-foot plan against the tighter standards."
   },
   {
    "host": "Emmy",
-   "text": "Coldwater area townships are hosting their first public briefing tomorrow on proposed data centers, covering power, water, and tax impacts. Nearby communities are already weighing similar projects."
+   "text": "Does this make similar projects harder elsewhere or just smarter?"
   },
   {
    "host": "Graham",
-   "text": "Coldwater is also readying permanent zoning rules to shield neighborhoods from noise and utility strain, with no projects proposed yet."
+   "text": "It raises the bar for transparency on costs and impacts. Other towns watching Mason and Cass County debates may borrow from Wixom's approach."
   },
   {
    "host": "Emmy",
-   "text": "On deck for tomorrow, August 17: Coldwater City Council, Planning Commission, and Board of Public Utilities are holding a joint informational meeting on data center impacts, zoning, and potential ordinances."
+   "text": "Let's shift to Mason for a moment. What's happening there tomorrow?"
   },
   {
    "host": "Graham",
-   "text": "The City of Coldwater Planning Commission and CBPU Board will discuss zoning and regulation of high-utility data centers at the same time."
+   "text": "The city council resumes debate on a hyperscale proposal in nearby Vevay Township plus possible updates to the citizen-initiated noise ordinance."
   },
   {
    "host": "Emmy",
-   "text": "Caledonia Township Planning Commission has a data center ordinance discussion and potential zoning amendments on the agenda."
+   "text": "That ties directly into the tax fight mentioned in Ingham and Jackson counties."
   },
   {
    "host": "Graham",
-   "text": "And Kalamazoo City Commission will vote on a resolution for a temporary moratorium on data center development."
+   "text": "Residents are watching how much these facilities will pay in taxes and how that affects both household bills and local budgets if the projects advance."
   },
   {
    "host": "Emmy",
-   "text": "Plenty for folks to weigh in on if they're in driving distance."
+   "text": "Now turning to the attorney general's actions yesterday. What exactly is Dana Nessel seeking?"
+  },
+  {
+   "host": "Graham",
+   "text": "She's asking the Court of Appeals to reopen review of secret DTE contracts tied to the OpenAI/Oracle project in Saline Township, arguing ratepayers deserve to see the terms."
+  },
+  {
+   "host": "Emmy",
+   "text": "Why is transparency on those contracts so important for electric bills?"
+  },
+  {
+   "host": "Graham",
+   "text": "Hidden deals could mean ratepayers absorb unexpected costs or lose out on tax revenue. The case could influence how future projects get approved statewide."
+  },
+  {
+   "host": "Emmy",
+   "text": "Saline Township also hired a retired sergeant for zoning fights. What does that signal?"
+  },
+  {
+   "host": "Graham",
+   "text": "They're preparing for more complex industrial proposals, including potential data centers, and want a dedicated point person for residents near Ann Arbor."
+  },
+  {
+   "host": "Emmy",
+   "text": "Over in Cass County yesterday, residents packed a hall. What were the main worries?"
+  },
+  {
+   "host": "Graham",
+   "text": "Save Cass County drew a standing-room crowd concerned about noise, water use, and rising electric bills from proposed facilities. They're urging officials to reject or restrict projects."
+  },
+  {
+   "host": "Emmy",
+   "text": "And that Dowagiac lawsuit from yesterday involves nonstop noise from a former crypto site."
+  },
+  {
+   "host": "Graham",
+   "text": "Neighbors say the high-pitched whine from the Alliance Cloud Services operation violates the city's new noise limits and forces them indoors."
+  },
+  {
+   "host": "Emmy",
+   "text": "How does all this add up for communities 30 miles from any single project?"
+  },
+  {
+   "host": "Graham",
+   "text": "Grid connections mean rate impacts can spread regionally, which is why so many townships are acting now on zoning and noise before more land gets optioned."
+  },
+  {
+   "host": "Emmy",
+   "text": "Graham, any sense of how many places have paused or tightened rules recently?"
+  },
+  {
+   "host": "Graham",
+   "text": "At least a handful across Oakland, Ingham, Jackson, Washtenaw, and Cass counties have active moratoriums or new ordinances under discussion this week."
+  },
+  {
+   "host": "Emmy",
+   "text": "What should listeners watch for in the coming days?"
+  },
+  {
+   "host": "Graham",
+   "text": "Tomorrow's meetings will show whether the Wixom model spreads or if different communities take their own approaches."
+  },
+  {
+   "host": "Emmy",
+   "text": "Let's move to On Deck. What's on the calendar for Monday?"
+  },
+  {
+   "host": "Graham",
+   "text": "Mason City Council meets to continue the data center zoning ordinance revisions and noise standards discussion."
+  },
+  {
+   "host": "Emmy",
+   "text": "Coldwater has a joint session with the planning commission and board of public utilities."
+  },
+  {
+   "host": "Graham",
+   "text": "That meeting covers data center impacts on zoning, energy use, neighborhoods, and possible new ordinances."
+  },
+  {
+   "host": "Emmy",
+   "text": "Caledonia Township Planning Commission is also discussing its data center ordinance and a potential moratorium extension."
+  },
+  {
+   "host": "Graham",
+   "text": "Kalamazoo City Commission will vote on a resolution for a temporary moratorium on data center development."
+  },
+  {
+   "host": "Emmy",
+   "text": "Those are all actionable for listeners who want to attend or comment."
+  },
+  {
+   "host": "Graham",
+   "text": "Exactly. Agendas are public and the issues affect bills and land use directly."
+  },
+  {
+   "host": "Emmy",
+   "text": "Any final thoughts on the pattern we're seeing?"
+  },
+  {
+   "host": "Graham",
+   "text": "Communities are demanding more say on costs and side effects before projects scale up. The Wixom vote is one clear example of that push."
+  },
+  {
+   "host": "Emmy",
+   "text": "It feels like a turning point where local rules are catching up to the pace of proposals."
+  },
+  {
+   "host": "Graham",
+   "text": "We'll keep tracking how these play out across the state."
+  },
+  {
+   "host": "Emmy",
+   "text": "Thanks for breaking it down tonight, Graham."
   },
   {
    "host": "Graham",
    "text": "Full sources and the live map at the Michigan Data Center Tracker. We're back tomorrow."
   }
  ],
- "episode_title": "AG Nessel Pushes Transparency on Saline Data Center Deals Amid Statewide Pushback",
- "show": "Mornings with Graham & Emmy",
- "daypart": "Mornings"
+ "episode_title": "Wixom's Close Vote Tightens Data Center Rules Amid Power and Water Worries",
+ "show": "Evenings with Graham & Emmy",
+ "daypart": "Evenings"
 }
