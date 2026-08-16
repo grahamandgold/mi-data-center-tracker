@@ -1,44 +1,7 @@
 {
- "updated_at": "2026-08-16T10:00:38+00:00",
+ "updated_at": "2026-08-16T10:31:38+00:00",
  "generator": "grok-wire-agent",
  "items": [
-  {
-   "title": "Caledonia weighs data center rules as moratorium nears October end",
-   "dek": "Caledonia Township Planning Commission meets Aug. 17 to discuss a data center ordinance while a moratorium on new proposals runs through Oct. 17. The session could shape rules governing future large-scale facilities in this Kent County township.",
-   "url": "https://www.caledoniatownship.org/AgendaCenter",
-   "source": "Caledonia Township Planning Commission agenda",
-   "region": "West Michigan",
-   "county": "Kent",
-   "cat": "Meetings",
-   "tag": "Agenda watch",
-   "iso": "2026-08-16T10:00:38+00:00",
-   "kind": "agenda",
-   "id": "e51145af0c54",
-   "filed_at": "2026-08-16T10:00:38+00:00",
-   "accuracy": "document-based",
-   "findings": "Aug. 17 agenda lists 'Data Center Ordinance Discussion' under unfinished business | July 20 minutes note moratorium extended to Oct. 17 and township attorney notified to ensure next extension considered by township board as recommended by planning commission | Public hearing scheduled for home-based business called Platinum Ponds at 5380 100th St. SE (parcel 41-23-31-201-009) for special land use enabling a larger sign in RR zoning district | No specific acreage, megawatts or dollar figures appear in the Aug. 17 packet",
-   "perspective": "The commission recommended a 3-month moratorium extension discussed at the July 20 meeting, with the current moratorium set to expire Oct. 17. Discussion on the 17th could advance ordinance language or further delay action before the pause expires.",
-   "documents": [
-    {
-     "label": "Agenda page",
-     "url": "https://www.caledoniatownship.org/AgendaCenter"
-    },
-    {
-     "label": "Planning Commission Meeting Materials",
-     "url": "https://www.caledoniatownship.org/AgendaCenter/ViewFile/Agenda/_08172026-565"
-    },
-    {
-     "label": "Planning Commission Meeting Materials",
-     "url": "https://www.caledoniatownship.org/AgendaCenter/ViewFile/Agenda/_06152026-556"
-    },
-    {
-     "label": "_06152026-556",
-     "url": "https://www.caledoniatownship.org/AgendaCenter/ViewFile/Minutes/_06152026-556"
-    }
-   ],
-   "depth_score": 10,
-   "extraction_method": "plain"
-  },
   {
    "title": "Kalamazoo weighs data center moratorium over health and safety risks",
    "dek": "The City Commission is set to consider a resolution pausing new data center projects while staff examines public health, safety, and environmental impacts. No formal data center proposal is before the city, though a cannabis facility owner floated redevelopment of its site earlier this year. Residents 30 minutes away have reason to watch as neighboring townships already enacted similar pauses amid farmland and infrastructure concerns.",
@@ -52,7 +15,7 @@
    "kind": "agenda",
    "id": "73fb24c22ec1",
    "filed_at": "2026-08-16T10:00:38+00:00",
-   "accuracy": "thin — needs human background",
+   "accuracy": "unverified-source-unfetchable",
    "findings": "Per recent commission discussion, staff will draft a resolution addressing data centers’ public health, safety, and welfare concerns for the Aug. 17 vote | The packet and agenda details remain unavailable as of Aug. 16, with no specific parcels, acreage, megawatts, or abatement terms disclosed | Background coverage shows no formal data center application or approval for the Harbor Farmz site at 2839 Full Circle Drive | Public opposition to a data center concept was raised at the June 15, 2026 commission meeting | Oshtemo, Pavilion, and Texas townships plus Portage have enacted temporary data center moratoriums while reviewing zoning",
    "perspective": "The Kalamazoo City Commission has not previously voted on data center projects; a June 2026 statement from officials confirmed no proposal had been submitted or approved for the Harbor Farmz cannabis facility. The Aug. 17 regular business meeting follows a Committee of the Whole session and will consider the resolution, with any zoning moratorium process to begin later at the Planning Commission. ",
    "documents": [
@@ -62,7 +25,9 @@
     }
    ],
    "depth_score": 0,
-   "extraction_method": "vision-screenshot"
+   "extraction_method": "vision-screenshot",
+   "judge_score": 7,
+   "judge_note": "Concrete new development: Kalamazoo City Commission has scheduled consideration of a moratorium resolution, a different municipality and governing body than the"
   },
   {
    "iso": "2026-08-15T20:00:00+00:00",
@@ -84,5 +49,5 @@
    "judge_note": "Concrete new development: specific Michigan legislation requiring community benefit agreements and cost coverage represents a significant policy action distinct"
   }
  ],
- "accuracy_checked_at": "2026-08-16T09:55:20+00:00"
+ "accuracy_checked_at": "2026-08-16T10:31:42+00:00"
 }
