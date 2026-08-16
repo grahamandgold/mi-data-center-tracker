@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONUEtV1VGWE9MOUYyWUZwREpaNjBCV2JzNnpTQVZwQ01iOHBVdFRoQnhqdzFDTzlxNGVzeDJndGMzNlBXdFlWQW1zWTRtd05NS1lDNGdsWldTWVc3dVgtamcyMU1VVVlsT2EwTVg4a3VYdThfbGQ4a1RMYTlhRXhJQkF1Wk5QVTEyVWJGRmlvMUFPaFZheWE2M0Q4X2dac3VHSW5oc25tcW9Eem8?oc=5",
-   "title": "Hyperscale Data sells Bitcoin stash to fund Michigan AI center switch",
-   "at": "2026-08-02T04:59:18+00:00",
-   "by": "news_judge",
-   "note": "score 1/10, duplicate: Duplicate of killed story 'Hyperscale Data sells Bitcoin to bankroll Michigan AI campus' and 'Hyperscale Data sells Bitcoin holdings to bankroll Michigan AI cam"
-  },
-  {
    "url": "https://www.politico.com/news/2026/08/01/data-centers-have-a-politics-problem-and-industry-knows-it-01020412",
    "title": "Data Center Industry Faces Growing Populist Backlash Over Local Impacts and Costs",
    "at": "2026-08-02T07:37:57+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-16T07:38:59+00:00",
    "by": "news_judge",
    "note": "score 4/10, duplicate: Same Cass County town hall event already covered in 'Cass County residents pack hall to block data center projects' and 'Cass County residents pack town hall to"
+  },
+  {
+   "url": "https://centralcurrent.org/new-york-paused-ai-data-center-development-for-a-year-in-the-interim-lawmakers-want-to-block-tax-breaks/",
+   "title": "New York governor halts hyperscale data center permits for one year",
+   "at": "2026-08-16T08:39:23+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece from New York with no Michigan-specific angle or impact; similar to killed national stories about Tennessee, Ohio, and general U.S. trends."
   }
  ],
  "auto_published": [

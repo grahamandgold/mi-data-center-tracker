@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-16T07:38:59+00:00",
+ "updated_at": "2026-08-16T08:39:23+00:00",
  "generator": "grok-wire-agent",
  "items": [
   {
@@ -43,5 +43,5 @@
    "judge_note": "Concrete new development with a chilling-effect angle: legal threats against a Michigan public-radio reporter covering data-center infrastructure strain is news"
   }
  ],
- "accuracy_checked_at": "2026-08-16T07:38:55+00:00"
+ "accuracy_checked_at": "2026-08-16T08:39:21+00:00"
 }
