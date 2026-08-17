@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-17T04:27:03+00:00",
+ "updated_at": "2026-08-17T05:12:28+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -197,6 +197,20 @@
  "meetings": [
   {
    "iso": "2026-08-17",
+   "body": "Mason City Council",
+   "topic": "Data center zoning ordinance amendments and noise rules",
+   "region": "Mid-Michigan",
+   "regionKey": "mid",
+   "county": "Ingham",
+   "time": "6:30 PM",
+   "status": "Board meeting",
+   "urgent": true,
+   "link": "https://www.mason.mi.us/your_government/mayor_and_city_council/agendas_&_minutes.php",
+   "linkLabel": "Agenda",
+   "stream": "https://www.youtube.com/@CityofMasonStaff/streams"
+  },
+  {
+   "iso": "2026-08-17",
    "body": "Coldwater City Council, Planning Commission and Board of Public Utilities",
    "topic": "Joint informational meeting on data center impacts, zoning and potential local ordinance",
    "region": "Mid-Michigan",
@@ -222,19 +236,6 @@
    "link": "https://www.caledoniatownship.org/AgendaCenter/ViewFile/Agenda/_08172026-565",
    "linkLabel": "Agenda",
    "stream": ""
-  },
-  {
-   "iso": "2026-08-17",
-   "body": "Mason City Council",
-   "topic": "Data center zoning amendments, noise ordinance updates, and related development agreements",
-   "region": "Mid-Michigan",
-   "regionKey": "mid",
-   "county": "Ingham",
-   "time": "6:30 PM",
-   "status": "Board meeting",
-   "urgent": true,
-   "link": "https://www.mason.mi.us/your_government/mayor_and_city_council/agendas_&_minutes.php",
-   "linkLabel": "Agenda"
   },
   {
    "iso": "2026-08-17",
