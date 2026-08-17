@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRnZRTmxYS25SWEFyNGk1enJDN2wwWERvbzlCcjRnaVJmX0FQYVl4TkN1bDJPUW1DdjV1TTV2LU9YRE5ZVWFSRThpaFZ6MGdoeWVSTTlVdUtSVklUbEVTSGVhVXhkdWVEQXBFcjVidFlBckpVTXVCWkc0dENFUHJXbGhZd3RWN3U0LXF2RWw4TVMwbG80dkRzRGR2UlJxOHFpcXVseHBnQUdibmNSRmRmR2Fmb21mRjdDOXFBRkZ4VzZKUEZWQ1RLR1ZzTTIyZExtb2c?oc=5",
-   "title": "Michigan governor hopefuls pitch plans to win over residents wary of data centers",
-   "at": "2026-08-04T11:42:04+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Speculative 2026 campaign positioning piece without specific policy announcements or concrete developments; thin political trend coverage."
-  },
-  {
    "url": "https://enkiai.com/data-center/grid-infrastructure-for-data-center-power-2026-40-2-gw-dominion/",
    "title": "Dominion Outlines 40 Gigawatts of New Grid Capacity for Data Centers by 2026",
    "at": "2026-08-04T14:35:17+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-17T19:55:51+00:00",
    "by": "news_judge",
    "note": "score 3/10: National deal in Ohio with no Michigan angle; similar Nvidia/SoftBank/OpenAI Ohio story was already killed."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYXJHLVJNbVExV2NJdi1xY3N0dXNEQ19aZTIzVl9YaFFiaGIyNmtNQjBWcm42UExXRFdyODVFUTlnX1d5dVhWamtJU2lmVkVSWFBHcndVTEp1akQydnVtWExDN1hCdHRjSkt1NjdRSDl5TmFTRXlVMFZsUmhaR3NMOEVjSUFfZXl0R1k4WjNZdFR2X252dGpST0tLUGMtRXc4YXBCelhFaGgzSGwxdWVKOWxDU0RaXzg?oc=5",
+   "title": "Wixom tightens zoning to limit data center noise and footprint",
+   "at": "2026-08-17T20:36:01+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: This is the same Wixom zoning tightening already covered in multiple live stories (Wixom Council Backs Zoning Rules, Wixom tightens data center rules) and kille"
   }
  ],
  "auto_published": [
