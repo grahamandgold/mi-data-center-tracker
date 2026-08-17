@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdXl3LU9VSWgxaTlCQ2doZ05GWFMzVDN3V290UVdMOGN2TlJ0OWVKcGJQVklGd0QwdlRPRGtBaUxJV0RjSXgxWkVaTTNwVGx5R05iQndXaGJqZTg4bExaNktQdGNiaGpyUE1CTmxWZFc3VDFrTVlmV1BUd091cGRrUDNYQVpBVWNURVRZNmYxcmkwUGhKYTVYajV2bEV5ek9nbHNza3dSNjlLMlZBWWtaZ05QRVFKTWN5cGVZTG1USVM1VHVzLUM4UWFkeXFKbi1OcVczZ2JtbjluZnRid2x1dzdicw?oc=5",
-   "title": "AI singularity talk raises stakes for Michigan power and jobs",
-   "at": "2026-08-04T21:51:45+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National AI trend commentary pegged to Altman's general statements, lacks specific Michigan decision, filing, or concrete development."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOLTZ4dklRdDV1cFNWVnFtLW1FWjAybUdHVjM1eDNiU0ZqbFo0eHFoSkxOeTlaOFZZOUVDWmRMX0d3YnhvYlJ1M05kMVFOY1MzUTZpMmVYa3B0dzVmSWNKaFh1R0FjQm12SW0wcWlmck1EdXNKOFNQNG1mMnpkaEtvbldzQ3RMVWI2eERzMUJFcVlabEd3SlBjVzV1VG9scVhWUVNHa29ySU5jSVNXSmprVzkzV0xLVGplYW1ULU5tSXMwVU5ISl9mR3FwSzNEQmR2cDY5bU55dkFWSmhm?oc=5",
    "title": "Michigan voters rage at data center ads flooding their feeds",
    "at": "2026-08-04T23:12:04+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-17T22:54:13+00:00",
    "by": "news_judge",
    "note": "score 4/10: Commentary/opinion piece offering general advice to West Michigan towns rather than reporting a specific decision, filing, or concrete development."
+  },
+  {
+   "url": "https://www.reuters.com/business/us-canada-try-bridge-gaps-over-potential-autos-tariff-cuts-sources-say-2026-08-17/",
+   "title": "Nvidia Offers Up to $105 Billion Guarantee for OpenAI Ohio Data Center",
+   "at": "2026-08-17T23:30:24+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National deal with no Michigan angle; similar Nvidia/OpenAI Ohio stories already killed twice, and this is just a larger dollar figure on the same project."
   }
  ],
  "auto_published": [
