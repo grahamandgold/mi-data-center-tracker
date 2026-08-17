@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-17T18:51:31+00:00",
+ "updated_at": "2026-08-17T19:35:30+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -201,6 +201,33 @@
  "meetings": [
   {
    "iso": "2026-08-17",
+   "body": "Coldwater City Council, Planning Commission and Board of Public Utilities",
+   "topic": "Joint informational meeting on data center zoning and regulation",
+   "region": "Mid-Michigan",
+   "regionKey": "mid",
+   "county": "Branch",
+   "time": "5:30 PM",
+   "status": "Board meeting",
+   "urgent": true,
+   "link": "https://www.coldwater.org/",
+   "linkLabel": "Agenda",
+   "stream": ""
+  },
+  {
+   "iso": "2026-08-17",
+   "body": "Mason City Council",
+   "topic": "Data center zoning ordinance amendments and noise rules",
+   "region": "Mid-Michigan",
+   "regionKey": "mid",
+   "county": "Ingham",
+   "time": "6:30 PM",
+   "status": "Board meeting",
+   "urgent": true,
+   "link": "https://www.mason.mi.us/your_government/mayor_and_city_council/agendas_&_minutes.php",
+   "linkLabel": "Agenda"
+  },
+  {
+   "iso": "2026-08-17",
    "body": "Caledonia Township Planning Commission",
    "topic": "Data Center Ordinance Discussion",
    "region": "West Michigan",
@@ -211,34 +238,6 @@
    "urgent": false,
    "link": "https://www.caledoniatownship.org/AgendaCenter/ViewFile/Agenda/_08172026-565",
    "linkLabel": "Agenda"
-  },
-  {
-   "iso": "2026-08-17",
-   "body": "Coldwater City Council, Planning Commission and Board of Public Utilities",
-   "topic": "Joint informational meeting on data center zoning, operations and potential local ordinances",
-   "region": "West Michigan",
-   "regionKey": "west",
-   "county": "Branch",
-   "time": "5:30 PM",
-   "status": "Board meeting",
-   "urgent": true,
-   "link": "https://www.coldwater.org/agendacenter",
-   "linkLabel": "Agenda",
-   "stream": ""
-  },
-  {
-   "iso": "2026-08-17",
-   "body": "Mason City Council",
-   "topic": "Data center zoning amendments, noise ordinance revisions, and related development proposals",
-   "region": "Mid-Michigan",
-   "regionKey": "mid",
-   "county": "Ingham",
-   "time": "6:30 PM",
-   "status": "Board meeting",
-   "urgent": true,
-   "link": "https://www.mason.mi.us/your_government/mayor_and_city_council/agendas_&_minutes.php",
-   "linkLabel": "Agenda",
-   "stream": "https://youtube.com/live/8be2S9P1npY?feature=share"
   },
   {
    "iso": "2026-08-17",

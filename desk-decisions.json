@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.texastribune.org/2026/08/03/texas-data-center-project-audit-greg-abbott/",
-   "title": "Texas Governor Orders Pause on New Data Center Approvals Pending Grid Audits",
-   "at": "2026-08-03T23:41:22+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece from Texas with no Michigan angle or direct impact on Michigan data center buildout."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM1Ywc3lqM1NxXzVHYVJNZjVPODkzemdnZVdfWDlvWXdSekRYSlV1U1dDRl93bm5MZm01Y05Ic3VYZFR5SkJSemJ4dWY3YUpXTGZmVjlTbHdJaEZkRVM3UzJtMDh4akNUeHhYYnVrOE15S1h2QlJMQ05GT2EyUFUyM053bzRtWFhmLXIzUGVyZm1ZQ01CUmc?oc=5",
    "title": "Officials quash rumors: No one has filed to build server facility in Livingston County",
    "at": "2026-08-04T09:23:43+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-17T16:37:22+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Duplicate of already-live 'Wixom Council Backs Zoning Rules' and 'Wixom tightens data center rules' — same Wixom zoning action, just reworded."
+  },
+  {
+   "url": "https://wkzo.com/2026/08/17/960694/",
+   "title": "Kalamazoo Considers Data Center Moratorium to Update Zoning",
+   "at": "2026-08-17T19:35:40+00:00",
+   "by": "news_judge",
+   "note": "score 4/10, duplicate: This is the same Kalamazoo moratorium already live: 'Kalamazoo weighs year-long pause on all new data centers' reports the identical proposal."
   }
  ],
  "auto_published": [
