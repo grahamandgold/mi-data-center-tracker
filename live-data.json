@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-17T07:11:47+00:00",
+ "updated_at": "2026-08-17T08:09:54Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Branch County cities to hash out data center rules Monday",
+   "dek": "Two local governments in Branch County will hold a joint session to discuss how to handle incoming data center proposals. Residents 30 miles away could see new rules on power use and noise if the talks produce changes. The meeting comes as utilities and developers eye sites across southern Michigan.",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE55eURxUUI4d04zSVRhX2lpQVZZdlJXTnNxb1pNVmYwY3hpUTFZczJrTXFLZnlnSFZuTThmdTZnZUwtbkFXNnA4b1VoRTI2UQ?oc=5",
+   "source": "WTVB",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Branch",
+   "tag": "Local Government",
+   "iso": "2026-08-17T08:07:00Z",
+   "id": "b7d548f538a5",
+   "origin": "google-news",
+   "source_title": "Joint city meeting on data centers set for Monday evening - WTVB",
+   "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE55eURxUUI4d04zSVRhX2lpQVZZdlJXTnNxb1pNVmYwY3hpUTFZczJrTXFLZnlnSFZuTThmdTZnZUwtbkFXNnA4b1VoRTI2UQ?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "iso": "2026-08-16T14:00:00+00:00",
    "region": "metro",
@@ -163,21 +180,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYlVWdlZoQ0t5ZkRkdWJsdHR6MmthSzZmZ3hNNTZEeUJHSHNwSXBWNHNFdklEd2tYdllKOVR4WmplcXZrTkNrRTVWLUNlLVNpeEJvb2JBRVQwQVY5NXhpUU9YWDFyRUNNOTlHSHV4UW84UmxlZ1piTFdnLVkzZ3FYRmRFQzhWQTJBdDFTaC1kWUtScVExa2Y2QjBDQzg2MTQwc1BJdlNPQWprd0Y2Yi13YXo2UFF1ekRzOUZOWkJHT2t4TFlvOHZWaFFaaVNTNGk1RWln?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
-  },
-  {
-   "iso": "2026-08-15T05:00:00+00:00",
-   "region": "west",
-   "cat": "Mason Co.",
-   "tag": "Local Government",
-   "title": "Pere Marquette Township Board Enacts One-Year Data Center Moratorium",
-   "dek": "The board adopted ordinances imposing a temporary ban on new data center permitting and construction, citing concerns over energy and water demands, with possible extension.",
-   "source": "Ludington Daily News",
-   "url": "https://www.shorelinemedia.net/ludington_daily_news/news/data-center-moratorium-adopted/article_8c1bb012-cb44-4d66-8c68-7c6d247927fd.html",
-   "breaking": false,
-   "lead": true,
-   "id": "007f79abb424",
-   "accuracy": "checked",
-   "judge_score": 7
   }
  ],
  "national": {

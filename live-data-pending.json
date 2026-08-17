@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-17T07:11:47+00:00",
+ "updated_at": "2026-08-17T08:09:54Z",
  "generator": "grok-wire-agent",
  "items": [
   {
@@ -74,26 +74,7 @@
    "extraction_method": "vision-screenshot",
    "judge_score": 7,
    "judge_note": "Concrete new development: Kalamazoo City Commission has scheduled consideration of a moratorium resolution, a different municipality and governing body than the"
-  },
-  {
-   "iso": "2026-08-15T20:00:00+00:00",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "tag": "Policy",
-   "title": "Michigan Bills Would Require Data Centers to Fund Local Benefits and Cover Power Costs",
-   "dek": "Proposed laws block permits until operators sign community deals and long-term contracts that keep energy and decommissioning expenses off resident bills.",
-   "source": "Multistate",
-   "url": "https://www.multistate.us/insider/2026/7/15/michigan-data-center-legislation-targets-energy-use-and-community-benefits",
-   "breaking": false,
-   "lead": false,
-   "id": "2799cfd22143",
-   "kind": "national",
-   "filed_at": "2026-08-16T07:38:44+00:00",
-   "accuracy": "checked-rewritten",
-   "headline_rewritten": true,
-   "judge_score": 8,
-   "judge_note": "Concrete new development: specific Michigan legislation requiring community benefit agreements and cost coverage represents a significant policy action distinct"
   }
  ],
- "accuracy_checked_at": "2026-08-17T07:11:47+00:00"
+ "accuracy_checked_at": "2026-08-17T08:09:47+00:00"
 }
