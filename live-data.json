@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-17T10:59:46+00:00",
+ "updated_at": "2026-08-17T11:34:23Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "U-M locks in $1.2B Ypsilanti data center site over township objections",
+   "dek": "University of Michigan has confirmed the Ypsilanti location for its massive new computing facility. Local officials in the township say they will continue fighting the project. Residents 30 miles away could see higher power rates and water strain if the $1.2 billion campus moves forward.",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMmJ3Ry1HNkRzdHg0elduWUhBeVBUb1FEUWRaNG1MaFk2MC1FZC1QWlFDV19rWXlOVzJNcVNzdktyejl4VHlFcWFNUklZNzdNMTByc2NRTFF5dm5HWmpra1RSWVFyUmg0TUtGa0cwVVpjLWp3cVhmM2dzQUhwcE1nTlZiV3pNMU9BUjM3S1NfSjBzd2VpaExZeWxQbXBRWF9hWEctSGhfTVhQVGtiRTBWWDQyLWFjRVV3eV9OdFVB?oc=5",
+   "source": "The Manchester Mirror",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Local Government",
+   "iso": "2026-08-17T11:20:22Z",
+   "id": "d5a5cd962495",
+   "origin": "google-news",
+   "source_title": "U-M affirms Ypsilanti $1.2B computing center site; township officials vow fight - The Manchester Mirror",
+   "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMmJ3Ry1HNkRzdHg0elduWUhBeVBUb1FEUWRaNG1MaFk2MC1FZC1QWlFDV19rWXlOVzJNcVNzdktyejl4VHlFcWFNUklZNzdNMTByc2NRTFF5dm5HWmpra1RSWVFyUmg0TUtGa0cwVVpjLWp3cVhmM2dzQUhwcE1nTlZiV3pNMU9BUjM3S1NfSjBzd2VpaExZeWxQbXBRWF9hWEctSGhfTVhQVGtiRTBWWDQyLWFjRVV3eV9OdFVB?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 9
+  },
   {
    "title": "Marshall drops charges after threats tied to data center fight",
    "dek": "Calhoun County officials say no one will face charges over threats made during heated debates on a proposed data center. The decision comes as the city council weighs tax breaks and power upgrades for the project. Local residents worry about rising utility bills and industrial noise.",
@@ -165,21 +182,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQm5OZlRSXzdoV2lHeU5LOWZNWm5uY2E4a3FuT1lBV1ZPUDFDSXhkM090QWV1MV9FekdkazZHcmZqaGpfOEhaVzNsR1NRSEFHYjMxMnhIQ05mOTQ0QUN5Mm9xZnppSTNUbWR0OVc5cDJjLXhobUNaOU5tRkpLUFFvbmNXUWpJd0dIbEt4NkVoWWU2OWgtM0VMU3l0anhJb0FyS2fSAbYBQVVfeXFMT3d4aHVSMWxEVEJ0dHhhc0pqMEdCSTRmdkJQQVo1djVXMjhsa093c2hQWVkybHVuQVFtZDdrM1RZZjV6ZnFiekREUjYzcDlyekt4b0NoRHV2X2JtU0RXQ2JNVnpzSV9sY2JwTnhyZVloZHJUSE1Wd0d4QnhpekJfbkF0dGFlU0pKcVg1UHZiUXVGM2lqdlpLeWJiamdMdW1SMWgwdnFOYktkQnFfVldYQXpmdG9CYWc?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
-  },
-  {
-   "iso": "2026-08-15T18:00:00+00:00",
-   "region": "metro",
-   "cat": "Washtenaw Co.",
-   "tag": "Local Government",
-   "title": "Dowagiac Residents Sue Hyperscale Data Center Over nonstop Noise",
-   "dek": "Neighbors say a former crypto site now run by Alliance Cloud Services produces a high-pitched whine that forces them indoors and violates the city's new noise limits.",
-   "source": "AOL",
-   "url": "https://www.aol.com/articles/residents-michigan-suing-data-center-231700000.html",
-   "breaking": false,
-   "lead": false,
-   "id": "ebf6694241b3",
-   "accuracy": "checked-rewritten",
-   "judge_score": 8
   }
  ],
  "national": {
@@ -197,6 +199,20 @@
   "accuracy": "checked"
  },
  "meetings": [
+  {
+   "iso": "2026-08-17",
+   "body": "Caledonia Township Planning Commission",
+   "topic": "Data Center Ordinance Discussion",
+   "region": "West Michigan",
+   "regionKey": "west",
+   "county": "Kent Co.",
+   "time": "7:00 PM",
+   "status": "Planning commission",
+   "urgent": false,
+   "link": "https://www.caledoniatownship.org/AgendaCenter/ViewFile/Agenda/_08172026-565",
+   "linkLabel": "Agenda",
+   "stream": null
+  },
   {
    "iso": "2026-08-17",
    "body": "Mason City Council",
@@ -223,19 +239,6 @@
    "link": "https://www.coldwater.org/Calendar.aspx?EID=4070&month=8&year=2026&day=7&calType=0",
    "linkLabel": "Agenda",
    "stream": null
-  },
-  {
-   "iso": "2026-08-17",
-   "body": "Caledonia Township Planning Commission",
-   "topic": "Data Center Ordinance Discussion, including draft regulations on high-intensity land uses, electrical and water demands, and potential moratorium extension",
-   "region": "West Michigan",
-   "regionKey": "west",
-   "county": "Kent",
-   "time": "7:00 PM",
-   "status": "Planning commission",
-   "urgent": false,
-   "link": "https://www.caledoniatownship.org/AgendaCenter/ViewFile/Agenda/_08172026-565",
-   "linkLabel": "Agenda"
   },
   {
    "iso": "2026-08-17",
