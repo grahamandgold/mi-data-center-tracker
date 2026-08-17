@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mNUZaNThHamN1TDVYS0k3VlR0c2lsN25CM1dReGVMTGduMlFrbHdOeVFOUGNnLTlUSXpmQ3RPemMwOUdtaWhKOVFuUnU5dmt1bW8yM05tN1lpTkVwX0FkTDM1b9IBY0FVX3lxTE1mNUZaNThHamN1TDVYS0k3VlR0c2lsN25CM1dReGVMTGduMlFrbHdOeVFOUGNnLTlUSXpmQ3RPemMwOUdtaWhKOVFuUnU5dmt1bW8yM05tN1lpTkVwX0FkTDM1bw?oc=5",
-   "title": "Bitcoin loans bankroll Hyperscale push into Michigan AI data centers",
-   "at": "2026-08-03T15:28:44+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: This is the same $30M Bitcoin loan financing already killed twice under different headlines ('Hyperscale Data sells Bitcoin stash' and 'borrows $30M in Bitcoin'"
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVTk3czI4NnliYm1URjZXbTl5eUtsZzhaOHR1VnMxVVlwZ291cjFZTVl5b21rN2ZIWmotSEdxZ2QzTlVDMmM5dUJGcXAzM1ZRUE1FMXYyUXR3OHJtUkZfOUdhWXRwc0lMZjdPWFpndVZ3WTZ5RmpRa0Zyc2NBVW5VYzBPWnljd3dwTGZROU9ZQ0FZZw?oc=5",
-   "title": "Op-ed urges scrutiny of BX data-center plans in Michigan",
-   "at": "2026-08-03T17:27:34+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Opinion piece offering commentary on existing BX data center developments rather than reporting a new filing, decision, or official action."
-  },
-  {
    "url": "https://www.prnewswire.com/news-releases/hyperscale-data-establishes-bitcoin-backed-defi-financing-program-through-morpho-protocol-current-borrowings-approximately-30-million-at-4-9-to-support-michigan-ai-data-center-expansion-302840711.html",
    "title": "Hyperscale Data Secures Bitcoin-Backed Financing to Advance Michigan AI Campus",
    "at": "2026-08-03T22:14:52+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-17T13:46:09+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: This is the same U-M Ypsilanti $1.2B data center site confirmation already live in the first headline."
+  },
+  {
+   "url": "https://www.mlive.com/news/detroit/2026/08/5-takeaways-on-wixoms-proposed-zoning-changes-for-data-centers.html",
+   "title": "Wixom Council Advances Tighter Zoning Rules for Data Centers After Close Vote",
+   "at": "2026-08-17T15:33:36+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: Duplicate of already-live 'Wixom Council Backs Zoning Rules to Limit Data Center Noise and Utility Costs' and 'Wixom tightens data center rules amid power and w"
+  },
+  {
+   "url": "https://www.irecruit.co/insights/data-center-construction-cost-per-mw-2026-benchmarks-owners",
+   "title": "Data Center Construction Costs Surge to Record Highs in 2026",
+   "at": "2026-08-17T15:33:36+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece about construction costs with no Michigan-specific development or decision."
   }
  ],
  "auto_published": [
