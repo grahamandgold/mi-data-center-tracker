@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-17T01:49:37+00:00",
+ "updated_at": "2026-08-17T03:08:50+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -197,6 +197,20 @@
  "meetings": [
   {
    "iso": "2026-08-17",
+   "body": "Caledonia Township Planning Commission",
+   "topic": "Data Center Ordinance Discussion and moratorium extension update",
+   "region": "West Michigan",
+   "regionKey": "west",
+   "county": "Kent",
+   "time": "7:00 PM",
+   "status": "Planning commission",
+   "urgent": true,
+   "link": "https://www.caledoniatownship.org/AgendaCenter/ViewFile/Agenda/_08172026-565",
+   "linkLabel": "Agenda",
+   "stream": ""
+  },
+  {
+   "iso": "2026-08-17",
    "body": "Mason City Council",
    "topic": "Data center zoning amendments, noise ordinance updates, and related development agreements",
    "region": "Mid-Michigan",
@@ -221,19 +235,6 @@
    "link": "https://www.coldwater.org/Calendar.aspx",
    "linkLabel": "Agenda",
    "stream": null
-  },
-  {
-   "iso": "2026-08-17",
-   "body": "Caledonia Township Planning Commission",
-   "topic": "Data Center Ordinance Discussion and public comment on moratorium extension",
-   "region": "West Michigan",
-   "regionKey": "west",
-   "county": "Kent",
-   "time": "7:00 PM",
-   "status": "Planning commission",
-   "urgent": false,
-   "link": "https://www.caledoniatownship.org/AgendaCenter",
-   "linkLabel": "Agenda"
   },
   {
    "iso": "2026-08-17",
