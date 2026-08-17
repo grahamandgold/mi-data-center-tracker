@@ -1,32 +1,7 @@
 {
- "updated_at": "2026-08-17T10:16:04+00:00",
+ "updated_at": "2026-08-17T11:00:02+00:00",
  "generator": "grok-wire-agent",
  "items": [
-  {
-   "title": "Coldwater council, planning commission and utilities board meet jointly",
-   "dek": "Coldwater City Council, Planning Commission and Board of Public Utilities hold a joint meeting tonight at 5:30 PM. The agenda does not specify topics for discussion.",
-   "url": "https://www.coldwater.org/Calendar.aspx?EID=4070&month=8&year=2026&day=7&calType=0",
-   "source": "Coldwater City Council, Planning Commission and Board of Public Utilities agenda",
-   "region": "Mid-Michigan",
-   "county": "Branch",
-   "cat": "Meetings",
-   "tag": "Agenda watch",
-   "iso": "2026-08-17T10:16:04+00:00",
-   "kind": "agenda",
-   "id": "22543f0d1ab4",
-   "filed_at": "2026-08-17T10:16:04+00:00",
-   "accuracy": "thin — needs human background",
-   "findings": "Joint meeting scheduled for August 17, 2026 at 5:30 PM at One Grand Street, Coldwater, MI 49036 (per city calendar) | Meeting involves City Council, Planning Commission and Board of Public Utilities | No agenda details or packet materials provided in the document",
-   "perspective": "Joint meetings of these three bodies are relatively uncommon and typically signal discussion of matters that cross planning, governance and utility operations. Without a published agenda or packet, the specific topics remain unclear.",
-   "documents": [
-    {
-     "label": "Agenda page",
-     "url": "https://www.coldwater.org/Calendar.aspx?EID=4070&month=8&year=2026&day=7&calType=0"
-    }
-   ],
-   "depth_score": 1,
-   "extraction_method": "plain"
-  },
   {
    "title": "Coldwater readies permanent rules to cap data center strain on power, water and neighborhoods",
    "dek": "City officials will host a joint informational session Monday with an MSU Extension zoning expert to shape strict ordinances after social media rumors sparked concern. No data center proposals are active, but the Michigan Zoning Enabling Act bars outright bans, so the focus is on permanent limits to protect municipal resources.",
@@ -40,7 +15,7 @@
    "kind": "agenda",
    "id": "bc5814821205",
    "filed_at": "2026-08-17T10:16:04+00:00",
-   "accuracy": "thin — needs human background",
+   "accuracy": "checked",
    "findings": "No active data center proposals exist in Coldwater per city officials | Meeting features MSU Extension land-use expert and targets exact operational boundaries for noise, utility strain and resource preservation | Joint session involves City Council, Planning Commission and CBPU board at 5:30 p.m. at Henry L. Brown Municipal Building | Michigan Zoning Enabling Act prevents local bans, prompting emphasis on permanent rules instead | Planning Commission previously rejected a temporary freeze, noting that fast-tracking a definitive legal framework would protect neighborhoods from noise and utility strain",
    "perspective": "The informational meeting gathers community feedback ahead of drafting and adopting final ordinances. City Manager Keith Baker says they are focusing on drafting strict permanent ordinances to dictate exact operational boundaries and preserve municipal resources. The session connects to state limits on local control and concerns over power, water and land use.",
    "documents": [
@@ -50,7 +25,9 @@
     }
    ],
    "depth_score": 3,
-   "extraction_method": "plain"
+   "extraction_method": "plain",
+   "judge_score": 6,
+   "judge_note": "Document-based agenda preview of a real Monday informational session with MSU Extension to shape ordinances—incremental but concrete upcoming event in a new jur"
   },
   {
    "iso": "2026-08-16T18:00:00+00:00",
@@ -99,5 +76,5 @@
    "judge_note": "Concrete new development: Kalamazoo City Commission has scheduled consideration of a moratorium resolution, a different municipality and governing body than the"
   }
  ],
- "accuracy_checked_at": "2026-08-17T10:08:09+00:00"
+ "accuracy_checked_at": "2026-08-17T10:59:58+00:00"
 }

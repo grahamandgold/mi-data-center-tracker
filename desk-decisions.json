@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.politico.com/news/magazine/2026/08/02/the-new-luddites-01017824",
-   "title": "National Backlash Against Data Centers Grows as Local Officials Face Recall Efforts",
-   "at": "2026-08-03T08:49:46+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece with no specific Michigan decision, development, or official action; generic protest/recall framing already covered by existing Michigan-sp"
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQXzRYakhBa0lfeTA5V3dvcHRRTmtEbXhnd2duNGJIMWZkdllSRGNXOXVVTEthUjBXNVp2dUlxSVZaNWR6ZEhrQ0tlckMybDVTbFlyaUMteFkyYl9VLVdnMC1NbDExckl0WVBGVHd5aWNwM0VEMi1LNFBRSVRVcmwzcTB6YnJHaEhKV1EtMjQ4d29ERklmbnNGMzNROWprTm5jV2Jjb2gzcWhFMFREUHBmQ1pOblNxR18yOTg2b01jN2dkbXhsQXc4VktEajhxeVhSemxMTXB1OS0waFJqZ2dWTk03ZWlUR2g5cmZQNU9Id1NSMGZYUzNZck9KVXNnMEE3N0czaFBNeHRqODEyMm95b2xQTzZMWHcwekVwTmRSdG5UT3JwaXBiUW1xclNFcVVwRDk2WGNpTWduYWotYlBMdEp2Xy1Ec0hEYTlGVkFOOWJrYlVEWXo5bW11dElBQQ?oc=5",
    "title": "Hyperscale Data borrows $30M in Bitcoin to grow Michigan AI site",
    "at": "2026-08-03T12:34:41+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-16T23:49:03+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece from Texas with no Michigan angle or development; similar regulatory responses have already been covered in killed stories about nationwide"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZDNjck8zWmNJUXJpVTJ5QjZGbWRicXJTR0hQQmwwa2Q0aDREOHJJc3NfLWtLeVlxbktZOGZpZExlX2xUWTNpRWQxN3RhT19hcFZleDd4enluaU1IcndvUU9lRnRmTG5lUFJZMF9jY2RvaE9Uc1ZDTlVzNkNLLWc3Y1dBZFhNSEdYYnBHT2lUWjl0SjlPS2dXeTNsTnlnX3pN?oc=5",
+   "title": "Michigan data center projects keep advancing despite local pushback",
+   "at": "2026-08-17T11:00:02+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Generic roundup of ongoing activity with no specific decision, filing, or concrete development—reads like a trend summary rather than a discrete newsworthy even"
   }
  ],
  "auto_published": [
