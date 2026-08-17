@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-17T13:00:21Z",
+ "updated_at": "2026-08-17T13:46:09Z",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -33,6 +33,23 @@
    "origin": "google-news",
    "source_title": "Michigan regulator seeks utility rate changes - Axios",
    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYUx2bjNYalItbUtpM3A0RU5hRzRLZk11RF83VnlHVm00LTlJeW9tQWtobVJocWxMNTJ1WldTSUFoNWpJeWlzcUhBR3ByeTBzYVp1WFZPd1Z2NEJnWGxKa2Z3cFp3cTNZZXg3NENJZlg0azJnMjZna0tmQzF5WDVFOHB0cHBhRlVnak5vdzUzN2Jra2c0eW8xUzJ4QmYwMmdqcldrT0lYaF9xOXV2azFQSFlR?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
+  {
+   "title": "Kalamazoo weighs year-long pause on all new data centers",
+   "dek": "City commissioners will vote tonight on a moratorium that would stop any fresh data-center proposals while planners study power and water limits. Kalamazoo residents could avoid sudden spikes in utility bills if the pause gives time to line up new generation. The measure also responds to complaints about noise and truck traffic from similar projects elsewhere in Michigan.",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RazdBSU1qaWxMTHJZdjhUNnpMY3NCcVZTeWcxUXJ6UUZobG1tSVRlYkxwSnl5Tmh5Rkg1YTFYY0NtRTJDMmZza2VoZUtKU0RFUzdN?oc=5",
+   "source": "WNWN-FM",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Kalamazoo",
+   "tag": "Local Government",
+   "iso": "2026-08-17T10:32:11Z",
+   "id": "7e37b8ca6bcb",
+   "origin": "google-news",
+   "source_title": "Data center moratorium on Kalamazoo city commission agenda tonight - WNWN-FM",
+   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RazdBSU1qaWxMTHJZdjhUNnpMY3NCcVZTeWcxUXJ6UUZobG1tSVRlYkxwSnl5Tmh5Rkg1YTFYY0NtRTJDMmZza2VoZUtKU0RFUzdN?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
   },
@@ -165,21 +182,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSlNuaHc5WnZkSDMzZi1ZVm14N0lWNTJQSkFUcEJFNGR3RXlZVS16b0lDZ1VULUc5Q3I4cDNNblJjZTdtdm10SUExa3BmN09FeVcyLVJicW5RSVZFWi1XX0FhT1d5UDFMRWhPR0RSY0dsbF8zWDhBQTBYbXN1WFZTX1JWT0ZrVnlaaDhTbG50TmVINzdMM1IzbzUyY1BLMjZhZlR0ckFhX2tQSkdZX2dZWXYzT2Q3Qmx0UU9kR2JNTXA1TEtpY2840gHHAUFVX3lxTE1KU25odzladmRIMzNmLVlWbXg3SVY1MlBKQVRwQkU0ZHdFeVlVLXpvSUNnVVQtRzlDcjhwM01uUmNlN212bXRJQTFrcGY3T0V5VzItUmJxblFJVkVaLVdfQWFPV3lQMUxFaE9HRFJjR2xsXzNYOEFBMFhtc3VYVlNfUlZPRmtWeVpoOFNsbnROZUg3N0wzUjNvNTJjUEsyNmFmVHRyQWFfa1BKR1lfZ1lZdjNPZDdCbHRRT2RHYk1NcDVMS2ljbzg?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
-  },
-  {
-   "iso": "2026-08-15T23:00:00+00:00",
-   "region": "metro",
-   "cat": "Washtenaw Co.",
-   "tag": "Power & Grid",
-   "title": "Attorney General Nessel Seeks Court Review of Secret DTE Contracts for Saline Data Center",
-   "dek": "Michigan AG Dana Nessel asks the Court of Appeals to reopen a contested hearing on DTE Energy contracts for the OpenAI/Oracle hyperscale project, arguing ratepayers deserve transparency on terms and costs.",
-   "source": "The Livingston Post",
-   "url": "https://thelivingstonpost.com/we-dont-even-know-who-signed-the-contracts-ag-nessel-challenges-michigans-secret-data-center-deal/",
-   "breaking": false,
-   "lead": true,
-   "id": "9d7214beafb2",
-   "accuracy": "checked",
-   "judge_score": 7
   }
  ],
  "national": {

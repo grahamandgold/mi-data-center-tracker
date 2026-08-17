@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.eenews.net/articles/primaries-test-power-of-data-center-politics-solar-spending/",
-   "title": "Michigan Senate Candidates Differ on Data Center Costs and Union Rules",
-   "at": "2026-08-03T15:28:44+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Campaign positioning ahead of primary adds little new substance beyond the already-live El-Sayed rally story and general candidate debate pieces already killed."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mNUZaNThHamN1TDVYS0k3VlR0c2lsN25CM1dReGVMTGduMlFrbHdOeVFOUGNnLTlUSXpmQ3RPemMwOUdtaWhKOVFuUnU5dmt1bW8yM05tN1lpTkVwX0FkTDM1b9IBY0FVX3lxTE1mNUZaNThHamN1TDVYS0k3VlR0c2lsN25CM1dReGVMTGduMlFrbHdOeVFOUGNnLTlUSXpmQ3RPemMwOUdtaWhKOVFuUnU5dmt1bW8yM05tN1lpTkVwX0FkTDM1bw?oc=5",
    "title": "Bitcoin loans bankroll Hyperscale push into Michigan AI data centers",
    "at": "2026-08-03T15:28:44+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-17T13:00:21+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Duplicate of already-live 'Wixom tightens data center rules amid power and water concerns' — same zoning changes, just reworded."
+  },
+  {
+   "url": "https://themanchestermirror.com/2026/08/17/u-m-affirms-ypsilanti-1-2b-computing-center-site-township-officials-vow-fight/",
+   "title": "U-M Locks In Ypsilanti Township Site for $1.2B Research Computing Center",
+   "at": "2026-08-17T13:46:09+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This is the same U-M Ypsilanti $1.2B data center site confirmation already live in the first headline."
   }
  ],
  "auto_published": [
@@ -3021,6 +3021,12 @@
    "title": "State utility regulator eyes rate hikes tied to data center demand",
    "judge_score": 8,
    "at": "2026-08-17T13:00:21Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RazdBSU1qaWxMTHJZdjhUNnpMY3NCcVZTeWcxUXJ6UUZobG1tSVRlYkxwSnl5Tmh5Rkg1YTFYY0NtRTJDMmZza2VoZUtKU0RFUzdN?oc=5",
+   "title": "Kalamazoo weighs year-long pause on all new data centers",
+   "judge_score": 8,
+   "at": "2026-08-17T13:46:09Z"
   }
  ]
 }
