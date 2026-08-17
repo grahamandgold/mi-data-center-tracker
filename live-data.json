@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-17T23:30:16+00:00",
+ "updated_at": "2026-08-17T23:51:00Z",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -18,6 +18,23 @@
    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQTBIVTc1VG1fMkVyLUZWMzMxdFp0dE9mSEplM09YeWo3UmNSdXFKTHozMHFqekwyZXAxT1hYOGFkVDRjVmpRZktKVmxwUXo0RTItdEN5T3pEZ0d3MGhITnlqZ01pTHFIOUdFTHUtSHhiNmY3QU5Pa3IxVmVZdFl2RENpbWZBM0p1amFLSFNwVQ?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
+  },
+  {
+   "title": "Ypsilanti Township blocks new power lines to stall U-M data center",
+   "dek": "Ypsilanti Township is weighing a moratorium on power transmission upgrades aimed squarely at slowing a University of Michigan data center. The move would delay the project's massive electricity needs and give residents time to examine water and grid impacts. Washtenaw County locals could face higher utility costs if the facility moves forward unchecked.",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOFU5SVctZml2bnA3NkVBNHFYTlFBWmpMSHpqSlZYTGJTbFNUYVA4UVFfZmRMUGl1Mzk3SGVTR2xneGxLTXlqcm54RVhob3lzTWJ1Zk9fNmZUN2piRG5uWjAwOHJ1bjh4Q1Q1dnBMZHgxTkl5RnZmNkJ0SjF2ckRRNERuUjBLTHhUZFRCWXJRUXU1R0Q0QmhxOWtTQzJWYVNEZFdkb0I3a2lMa0RvZzkyd1FWUnIwLVA2?oc=5",
+   "source": "Bridge Michigan",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Power & Grid",
+   "iso": "2026-08-17T21:56:20Z",
+   "id": "ee4d62fecf8c",
+   "origin": "google-news",
+   "source_title": "Ypsilanti Township eyes moratorium on power transmission to slow U-M data center - Bridge Michigan",
+   "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOFU5SVctZml2bnA3NkVBNHFYTlFBWmpMSHpqSlZYTGJTbFNUYVA4UVFfZmRMUGl1Mzk3SGVTR2xneGxLTXlqcm54RVhob3lzTWJ1Zk9fNmZUN2piRG5uWjAwOHJ1bjh4Q1Q1dnBMZHgxTkl5RnZmNkJ0SjF2ckRRNERuUjBLTHhUZFRCWXJRUXU1R0Q0QmhxOWtTQzJWYVNEZFdkb0I3a2lMa0RvZzkyd1FWUnIwLVA2?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
   },
   {
    "title": "U-M locks in $1.2B Ypsilanti data center site over township objections",
@@ -165,23 +182,6 @@
    "id": "01fcff4cae2a",
    "accuracy": "checked",
    "judge_score": 6
-  },
-  {
-   "title": "Mason revives data center tax fight as Jackson eyes personal property rules",
-   "dek": "Residents in Ingham and Jackson counties are watching new local rules that could decide how much data centers pay in taxes. The debate affects household electric bills and township budgets if big projects move forward. Mason’s return to the issue shows communities are still sorting out who pays for the power these facilities demand.",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZmIzbUtlQTFhN2lhTGQ5Mlp5ZURBblM1eUJZeE5UVldEWHg2U09HZ0UwNXpUZ1Z1aTNSRHgxSXdmVVRYQkRKQ3lxOGtGTFlCWmZFek5sTDlEVkhsYUZXaGtoWk9uTkpCZ2h6dnJSSWhCYi1mUUlYMEVjalVIZ0RMMVRaSzFOMWFMS3BlT2Rna3FYcVJCd09FT0ZNQW9HRnNZUWNhMFpxVThZU2ZJZy1fZHVDemY0b05xWlJGVGtxWnB1QkhuZmdfY2szaER0WndTM0w0eFpJbmtvdw?oc=5",
-   "source": "WKAR",
-   "region": "mid",
-   "cat": "STATEWIDE",
-   "county": "Ingham",
-   "tag": "Local Government",
-   "iso": "2026-08-16T11:00:00Z",
-   "id": "0ed74d6837b0",
-   "origin": "google-news",
-   "source_title": "What Roth's Watching: Jackson personal property ordinance, data center debate returns to Mason, and more - WKAR",
-   "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZmIzbUtlQTFhN2lhTGQ5Mlp5ZURBblM1eUJZeE5UVldEWHg2U09HZ0UwNXpUZ1Z1aTNSRHgxSXdmVVRYQkRKQ3lxOGtGTFlCWmZFek5sTDlEVkhsYUZXaGtoWk9uTkpCZ2h6dnJSSWhCYi1mUUlYMEVjalVIZ0RMMVRaSzFOMWFMS3BlT2Rna3FYcVJCd09FT0ZNQW9HRnNZUWNhMFpxVThZU2ZJZy1fZHVDemY0b05xWlJGVGtxWnB1QkhuZmdfY2szaER0WndTM0w0eFpJbmtvdw?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {
@@ -201,6 +201,19 @@
  "meetings": [
   {
    "iso": "2026-08-17",
+   "body": "Kalamazoo City Commission",
+   "topic": "Vote on resolution for data center moratorium addressing health, safety and welfare impacts",
+   "region": "West Michigan",
+   "regionKey": "west",
+   "county": "Kalamazoo",
+   "time": "7:00 PM",
+   "status": "Board meeting",
+   "urgent": true,
+   "link": "https://kalamazoomi.portal.civicclerk.com/",
+   "linkLabel": "Agenda"
+  },
+  {
+   "iso": "2026-08-17",
    "body": "Coldwater City Council, Planning Commission and Board of Public Utilities",
    "topic": "Educational presentation on data center operations and local ordinance considerations",
    "region": "Mid-Michigan",
@@ -210,20 +223,6 @@
    "status": "Board meeting",
    "urgent": true,
    "link": "https://www.coldwater.org/agendacenter",
-   "linkLabel": "Agenda",
-   "stream": ""
-  },
-  {
-   "iso": "2026-08-17",
-   "body": "Kalamazoo City Commission",
-   "topic": "Consideration of resolution for moratorium on new data centers",
-   "region": "West Michigan",
-   "regionKey": "west",
-   "county": "Kalamazoo",
-   "time": "7:00 PM",
-   "status": "Board meeting",
-   "urgent": true,
-   "link": "https://kalamazoomi.portal.civicclerk.com/",
    "linkLabel": "Agenda",
    "stream": ""
   },
