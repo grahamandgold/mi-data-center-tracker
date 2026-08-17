@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://enkiai.com/data-center/grid-infrastructure-for-data-center-power-2026-40-2-gw-dominion/",
-   "title": "Dominion Outlines 40 Gigawatts of New Grid Capacity for Data Centers by 2026",
-   "at": "2026-08-04T14:35:17+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: National utility infrastructure plan with no Michigan-specific angle or decision; generic capacity projection."
-  },
-  {
-   "url": "https://www.datacenterdynamics.com/en/news/crow-and-cleanarc-target-245mw-data-center-at-dallas-market-center-in-texas/",
-   "title": "Crow Holdings, CleanArc Plan 245MW Data Center Replacing Dallas Market Hall",
-   "at": "2026-08-04T18:13:35+00:00",
-   "by": "news_judge",
-   "note": "score 2/10: Dallas development with no Michigan connection; irrelevant to Michigan data center tracker audience."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPek1vSHY4ODJENjVlQ3NKRG9ENjNONXhfeE85NWc5bzFtZXhxVDVhX3ZyT0lEX0YzQWJnVDBzVUhWQ0otNnlqYU9TclhjbndxX3I3VXFKb2VnN0dvUU8wS1Q3aUdVd0VmQ29xeWtHU2pzY2hSOXRhSG1lbzJPSHhuWEljSmh1dm8xMW1WTTFiN043YVRRWDVsMFhaNG5lQjF1bHdSM00zNW9MYnJsY1dtaGdBekV6NllGWGV2bk5SQzM?oc=5",
    "title": "Data center fights shape Michigan Senate primary debate",
    "at": "2026-08-04T20:11:39+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-17T20:36:01+00:00",
    "by": "news_judge",
    "note": "score 3/10, duplicate: This is the same Wixom zoning tightening already covered in multiple live stories (Wixom Council Backs Zoning Rules, Wixom tightens data center rules) and kille"
+  },
+  {
+   "url": "https://www.utilitydive.com/news/data-center-power-demand-2026/123456/",
+   "title": "U.S. data center power demand surges as utilities scramble for new capacity",
+   "at": "2026-08-17T20:59:35+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece about grid capacity without Michigan-specific developments or decisions; already-killed stories cover similar national power demand themes."
+  },
+  {
+   "url": "https://wtvbam.com/2026/08/14/970442/",
+   "title": "Coldwater schedules joint meeting on data center zoning rules",
+   "at": "2026-08-17T20:59:35+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicate of already-live 'Coldwater Officials Hold First Joint Meeting on Data Center Zoning and Regulation' — same joint meeting event."
   }
  ],
  "auto_published": [

@@ -1,82 +1,7 @@
 {
- "updated_at": "2026-08-17T20:49:08+00:00",
+ "updated_at": "2026-08-17T20:59:35+00:00",
  "generator": "grok-wire-agent",
  "items": [
-  {
-   "title": "Mason council meets as $1B data center seeks city utilities via annexation",
-   "dek": "A proposed facility in Vevay Township seeks Mason city utilities via annexation or 425 agreement. The 8/17 council meeting occurs after the city voted on data-center zoning three times in six months and adopted noise rules in June.",
-   "url": "https://www.mason.mi.us/your_government/mayor_and_city_council/agendas_&_minutes.php",
-   "source": "Mason City Council agenda",
-   "region": "Mid-Michigan",
-   "county": "Ingham",
-   "cat": "Meetings",
-   "tag": "Agenda watch",
-   "iso": "2026-08-17T20:49:08+00:00",
-   "kind": "agenda",
-   "id": "c75ebcf1d270",
-   "filed_at": "2026-08-17T20:49:08+00:00",
-   "accuracy": "thin — needs human background",
-   "findings": "Proposed Mason-area project: undisclosed developer, $1B pledged investment, seeking city utilities via annexation/425 agreement | Vevay Twp. site spans ~400 acres at Columbia/College Rds. | 12/15/2025: 4-3 vote for 90-day data center zoning moratorium | 2/2/2026: 5-2 vote adopting Ordinance 266 (M-3 Technology Innovation District) | 3/16/2026: 4-2 vote repealing Ordinance 266 | 6/15/2026: adopted Ordinance 272 (noise/vibration standards) | No specific data-center item or packet details extractable for 8/17 meeting (agenda page only lists date and packet link)",
-   "perspective": "Mason City Council has reversed course on data-center zoning multiple times since late 2025. Tonight offers public comment on the regular agenda with no confirmed vote or reading scheduled on the project; any annexation decision would tie directly to utility access.",
-   "documents": [
-    {
-     "label": "Agenda page",
-     "url": "https://www.mason.mi.us/your_government/mayor_and_city_council/agendas_&_minutes.php"
-    }
-   ],
-   "depth_score": 2,
-   "extraction_method": "plain"
-  },
-  {
-   "title": "Caledonia mulls data center moratorium extension amid 68th-Kraft inquiries",
-   "dek": "Caledonia Township Planning Commission meets tonight to address its standing ban on new data center proposals. Developer interest has surfaced for land at 68th Street and Kraft Avenue, though no formal applications can advance under the current rules.",
-   "url": "https://www.caledoniatownship.org/AgendaCenter/ViewFile/Agenda/_08172026-565",
-   "source": "Caledonia Township Planning Commission agenda",
-   "region": "West Michigan",
-   "county": "Kent",
-   "cat": "Meetings",
-   "tag": "Agenda watch",
-   "iso": "2026-08-17T20:49:08+00:00",
-   "kind": "agenda",
-   "id": "c09fad3821d1",
-   "filed_at": "2026-08-17T20:49:08+00:00",
-   "accuracy": "thin — needs human background",
-   "findings": "Moratorium blocks data center applications | Inquiries noted for 68th Street and Kraft Avenue parcels | Agenda packet contents not extractable from township site",
-   "perspective": "The commission has not approved any data center projects since the moratorium began. Tonight's discussion is expected to cover extension or ordinance drafting; any changes would require public comment and subsequent board action. The outcome ties directly to regional patterns of large-acreage proposals facing farmland, water and tax-base questions in nearby townships.",
-   "documents": [
-    {
-     "label": "Agenda page",
-     "url": "https://www.caledoniatownship.org/AgendaCenter/ViewFile/Agenda/_08172026-565"
-    }
-   ],
-   "depth_score": 3,
-   "extraction_method": "plain"
-  },
-  {
-   "title": "Coldwater schedules joint meeting on data center zoning rules",
-   "dek": "City officials say no proposals are active, but social media rumors have sparked concern over future facilities. The joint meeting with the Planning Commission and CBPU Board will hear from an MSU Extension zoning expert Monday at 5:30 p.m.",
-   "url": "https://wtvbam.com/2026/08/14/970442/",
-   "source": "City of Coldwater, Planning Commission and CBPU Board agenda",
-   "region": "Mid-Michigan",
-   "county": "Branch",
-   "cat": "Meetings",
-   "tag": "Agenda watch",
-   "iso": "2026-08-17T20:49:08+00:00",
-   "kind": "agenda",
-   "id": "bc5814821205",
-   "filed_at": "2026-08-17T20:49:08+00:00",
-   "accuracy": "thin — needs human background",
-   "findings": "No active data center proposals exist in Coldwater per city officials | Meeting scheduled for Monday at 5:30 p.m. at Henry L. Brown Municipal Building | MSU Extension expert specializing in land-use and zoning will present | Michigan Zoning Enabling Act prevents outright bans on data centers | Planning Commission previously rejected a temporary freeze | City focusing on drafting strict permanent ordinances to dictate operational boundaries and preserve municipal resources | Meeting described as foundational step for gathering community feedback before final ordinances are drafted and adopted",
-   "perspective": "City Manager Keith Baker says the focus is on drafting strict permanent ordinances because state law prevents outright bans. The Planning Commission rejected a temporary freeze, noting that a definitive legal framework would protect neighborhoods from noise and utility strain without stalling broader economic growth. The CBPU Board's involvement in the joint session reflects utility capacity consi",
-   "documents": [
-    {
-     "label": "Agenda page",
-     "url": "https://wtvbam.com/2026/08/14/970442/"
-    }
-   ],
-   "depth_score": 2,
-   "extraction_method": "plain"
-  },
   {
    "iso": "2026-08-16T18:00:00+00:00",
    "region": "statewide",
@@ -124,5 +49,5 @@
    "judge_note": "Concrete new development: Kalamazoo City Commission has scheduled consideration of a moratorium resolution, a different municipality and governing body than the"
   }
  ],
- "accuracy_checked_at": "2026-08-17T20:35:58+00:00"
+ "accuracy_checked_at": "2026-08-17T20:59:31+00:00"
 }
