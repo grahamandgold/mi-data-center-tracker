@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-17T09:12:06+00:00",
+ "updated_at": "2026-08-17T10:08:12Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Marshall drops charges after threats tied to data center fight",
+   "dek": "Calhoun County officials say no one will face charges over threats made during heated debates on a proposed data center. The decision comes as the city council weighs tax breaks and power upgrades for the project. Local residents worry about rising utility bills and industrial noise.",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wM3dvdjBMbHE0eEdWQkNNem5mQVRVX1Z1aEh6Q29ja3VQcGNNVlllTEIzTzlVdXF6MEZfY2JVdC1SQTNMSFNZUVI4LUtsUQ?oc=5",
+   "source": "WTVB",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Calhoun",
+   "tag": "Local Government",
+   "iso": "2026-08-17T08:21:10Z",
+   "id": "9260d3386e34",
+   "origin": "google-news",
+   "source_title": "Marshall Police say no charges will be filed in threats to city council, urge civility - WTVB",
+   "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wM3dvdjBMbHE0eEdWQkNNem5mQVRVX1Z1aEh6Q29ja3VQcGNNVlllTEIzTzlVdXF6MEZfY2JVdC1SQTNMSFNZUVI4LUtsUQ?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Branch County cities to hash out data center rules Monday",
    "dek": "Two local governments in Branch County will hold a joint session to discuss how to handle incoming data center proposals. Residents 30 miles away could see new rules on power use and noise if the talks produce changes. The meeting comes as utilities and developers eye sites across southern Michigan.",
@@ -163,23 +180,6 @@
    "id": "ebf6694241b3",
    "accuracy": "checked-rewritten",
    "judge_score": 8
-  },
-  {
-   "title": "Michigan tightens rules on Great Lakes water pulls that data centers need",
-   "dek": "State officials posted new diversion tracking that directly affects how much water large cooling operations can take from the Great Lakes basin. Data centers under discussion in several counties would need millions of gallons daily, making these rules a key limit on future builds. Michigan residents downstream or near intakes have a direct stake in whether the state grants or blocks those withdrawals.",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYlVWdlZoQ0t5ZkRkdWJsdHR6MmthSzZmZ3hNNTZEeUJHSHNwSXBWNHNFdklEd2tYdllKOVR4WmplcXZrTkNrRTVWLUNlLVNpeEJvb2JBRVQwQVY5NXhpUU9YWDFyRUNNOTlHSHV4UW84UmxlZ1piTFdnLVkzZ3FYRmRFQzhWQTJBdDFTaC1kWUtScVExa2Y2QjBDQzg2MTQwc1BJdlNPQWprd0Y2Yi13YXo2UFF1ekRzOUZOWkJHT2t4TFlvOHZWaFFaaVNTNGk1RWln?oc=5",
-   "source": "State of Michigan (.gov)",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Water",
-   "iso": "2026-08-15T11:57:51Z",
-   "id": "ce00c0b0ce5b",
-   "origin": "google-news",
-   "source_title": "Great Lakes water diversions - State of Michigan (.gov)",
-   "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYlVWdlZoQ0t5ZkRkdWJsdHR6MmthSzZmZ3hNNTZEeUJHSHNwSXBWNHNFdklEd2tYdllKOVR4WmplcXZrTkNrRTVWLUNlLVNpeEJvb2JBRVQwQVY5NXhpUU9YWDFyRUNNOTlHSHV4UW84UmxlZ1piTFdnLVkzZ3FYRmRFQzhWQTJBdDFTaC1kWUtScVExa2Y2QjBDQzg2MTQwc1BJdlNPQWprd0Y2Yi13YXo2UFF1ekRzOUZOWkJHT2t4TFlvOHZWaFFaaVNTNGk1RWln?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
   }
  ],
  "national": {
@@ -197,6 +197,20 @@
   "accuracy": "checked"
  },
  "meetings": [
+  {
+   "iso": "2026-08-17",
+   "body": "Coldwater City Council, Planning Commission and Board of Public Utilities",
+   "topic": "Joint informational meeting with MSU Extension presentation on data center impacts, zoning and potential local ordinance development",
+   "region": "Mid-Michigan",
+   "regionKey": "mid",
+   "county": "Branch",
+   "time": "5:30 PM",
+   "status": "Board meeting",
+   "urgent": false,
+   "link": "https://www.coldwater.org/Calendar.aspx?EID=4070&month=8&year=2026&day=7&calType=0",
+   "linkLabel": "Agenda",
+   "stream": null
+  },
   {
    "iso": "2026-08-17",
    "body": "Caledonia Township Planning Commission",
@@ -223,20 +237,6 @@
    "link": "https://www.mason.mi.us/your_government/mayor_and_city_council/agendas_&_minutes.php",
    "linkLabel": "Agenda",
    "stream": "https://www.youtube.com/@CityofMasonStaff/streams"
-  },
-  {
-   "iso": "2026-08-17",
-   "body": "Coldwater City Council, Planning Commission and Board of Public Utilities",
-   "topic": "Joint informational meeting on data center impacts, zoning and potential local ordinance",
-   "region": "Mid-Michigan",
-   "regionKey": "mid",
-   "county": "Branch",
-   "time": "5:30 PM",
-   "status": "Special joint meeting",
-   "urgent": true,
-   "link": "https://www.coldwater.org/agendacenter",
-   "linkLabel": "Agenda Center",
-   "stream": ""
   },
   {
    "iso": "2026-08-17",
