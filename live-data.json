@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-17T16:37:18+00:00",
+ "updated_at": "2026-08-17T17:39:56+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -201,6 +201,19 @@
  "meetings": [
   {
    "iso": "2026-08-17",
+   "body": "Caledonia Township Planning Commission",
+   "topic": "Data Center Ordinance Discussion",
+   "region": "West Michigan",
+   "regionKey": "west",
+   "county": "Kent",
+   "time": "7:00 PM",
+   "status": "Planning commission",
+   "urgent": false,
+   "link": "https://www.caledoniatownship.org/AgendaCenter/ViewFile/Agenda/_08172026-565",
+   "linkLabel": "Agenda"
+  },
+  {
+   "iso": "2026-08-17",
    "body": "Coldwater City Council, Planning Commission and Board of Public Utilities",
    "topic": "Joint informational meeting on data center zoning, operations and potential local ordinances",
    "region": "West Michigan",
@@ -226,20 +239,6 @@
    "link": "https://www.mason.mi.us/your_government/mayor_and_city_council/agendas_&_minutes.php",
    "linkLabel": "Agenda",
    "stream": "https://youtube.com/live/8be2S9P1npY?feature=share"
-  },
-  {
-   "iso": "2026-08-17",
-   "body": "Caledonia Township Planning Commission",
-   "topic": "Data Center Ordinance Discussion",
-   "region": "West Michigan",
-   "regionKey": "west",
-   "county": "Kent Co.",
-   "time": "7:00 PM",
-   "status": "Planning commission",
-   "urgent": false,
-   "link": "https://www.caledoniatownship.org/AgendaCenter/ViewFile/Agenda/_08172026-565",
-   "linkLabel": "Agenda",
-   "stream": null
   },
   {
    "iso": "2026-08-17",
