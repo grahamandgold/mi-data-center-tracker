@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-17T11:59:14+00:00",
+ "updated_at": "2026-08-17T13:00:21Z",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -18,6 +18,38 @@
    "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMmJ3Ry1HNkRzdHg0elduWUhBeVBUb1FEUWRaNG1MaFk2MC1FZC1QWlFDV19rWXlOVzJNcVNzdktyejl4VHlFcWFNUklZNzdNMTByc2NRTFF5dm5HWmpra1RSWVFyUmg0TUtGa0cwVVpjLWp3cVhmM2dzQUhwcE1nTlZiV3pNMU9BUjM3S1NfSjBzd2VpaExZeWxQbXBRWF9hWEctSGhfTVhQVGtiRTBWWDQyLWFjRVV3eV9OdFVB?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 9
+  },
+  {
+   "title": "State utility regulator eyes rate hikes tied to data center demand",
+   "dek": "Michigan's power commission wants to change how utilities recover costs for new transmission lines and substations. Data centers are driving much of the projected load growth in the state. Ratepayers across the Lower Peninsula could see bigger monthly bills if the changes are approved.",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYUx2bjNYalItbUtpM3A0RU5hRzRLZk11RF83VnlHVm00LTlJeW9tQWtobVJocWxMNTJ1WldTSUFoNWpJeWlzcUhBR3ByeTBzYVp1WFZPd1Z2NEJnWGxKa2Z3cFp3cTNZZXg3NENJZlg0azJnMjZna0tmQzF5WDVFOHB0cHBhRlVnak5vdzUzN2Jra2c0eW8xUzJ4QmYwMmdqcldrT0lYaF9xOXV2azFQSFlR?oc=5",
+   "source": "Axios",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Power & Grid",
+   "iso": "2026-08-17T10:41:57Z",
+   "id": "e2e8804225ff",
+   "origin": "google-news",
+   "source_title": "Michigan regulator seeks utility rate changes - Axios",
+   "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYUx2bjNYalItbUtpM3A0RU5hRzRLZk11RF83VnlHVm00LTlJeW9tQWtobVJocWxMNTJ1WldTSUFoNWpJeWlzcUhBR3ByeTBzYVp1WFZPd1Z2NEJnWGxKa2Z3cFp3cTNZZXg3NENJZlg0azJnMjZna0tmQzF5WDVFOHB0cHBhRlVnak5vdzUzN2Jra2c0eW8xUzJ4QmYwMmdqcldrT0lYaF9xOXV2azFQSFlR?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
+  {
+   "iso": "2026-08-17T09:00:00+00:00",
+   "region": "mid",
+   "cat": "Branch Co.",
+   "tag": "Local Government",
+   "title": "Coldwater Officials Hold First Joint Meeting on Data Center Zoning and Regulation",
+   "dek": "City Council, Planning Commission and Board of Public Utilities convene tonight for an informational session on managing potential data center development, though no proposals are currently active in the area.",
+   "source": "WTVB",
+   "url": "https://wtvbam.com/2026/08/17/971324/",
+   "breaking": false,
+   "lead": true,
+   "id": "3492590020c2",
+   "accuracy": "checked",
+   "judge_score": 7
   },
   {
    "title": "Marshall drops charges after threats tied to data center fight",
@@ -148,40 +180,6 @@
    "id": "9d7214beafb2",
    "accuracy": "checked",
    "judge_score": 7
-  },
-  {
-   "title": "Saline Township brings on ex-cop to steer zoning fights over big projects",
-   "dek": "The township hired a retired sergeant to manage zoning applications. Residents near Ann Arbor now have a direct contact point when large industrial proposals, including potential data centers, hit the planning desk. The hire signals Saline expects more complex land-use cases in the coming months.",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaGtST1lKTXlxdkZ6SnlscGI4aVJVUmhXSHdGVlBMUk1xS2ZDQl83RDFldDNIQTRNN0NnMjB2bEg1OWx0VlU1a3FjNy1YTzhXTFc0SXI2T01sb0xkRTFyRVZncnFaV3VKNHBKTjNHQ1pOTHRWTDN4WTYzbXQyMWV3cU5LX0p3Um5uRDRIdmpR?oc=5",
-   "source": "The Sun Times News",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Local Government",
-   "iso": "2026-08-15T19:11:33Z",
-   "id": "f46bd0868e40",
-   "origin": "google-news",
-   "source_title": "Saline Township Selects Retired Sergeant for Zoning Role - The Sun Times News",
-   "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaGtST1lKTXlxdkZ6SnlscGI4aVJVUmhXSHdGVlBMUk1xS2ZDQl83RDFldDNIQTRNN0NnMjB2bEg1OWx0VlU1a3FjNy1YTzhXTFc0SXI2T01sb0xkRTFyRVZncnFaV3VKNHBKTjNHQ1pOTHRWTDN4WTYzbXQyMWV3cU5LX0p3Um5uRDRIdmpR?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
-  },
-  {
-   "title": "Cass County residents pack hall to block data center projects",
-   "dek": "Save Cass County drew a standing-room crowd to its latest town hall, where neighbors voiced worries over noise, water use and rising electric bills from proposed facilities. The group is pushing local officials to reject or heavily restrict the projects before more land is optioned. Michigan residents 30 miles away could see indirect rate hikes if these sites connect to the same grid.",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQm5OZlRSXzdoV2lHeU5LOWZNWm5uY2E4a3FuT1lBV1ZPUDFDSXhkM090QWV1MV9FekdkazZHcmZqaGpfOEhaVzNsR1NRSEFHYjMxMnhIQ05mOTQ0QUN5Mm9xZnppSTNUbWR0OVc5cDJjLXhobUNaOU5tRkpLUFFvbmNXUWpJd0dIbEt4NkVoWWU2OWgtM0VMU3l0anhJb0FyS2fSAbYBQVVfeXFMT3d4aHVSMWxEVEJ0dHhhc0pqMEdCSTRmdkJQQVo1djVXMjhsa093c2hQWVkybHVuQVFtZDdrM1RZZjV6ZnFiekREUjYzcDlyekt4b0NoRHV2X2JtU0RXQ2JNVnpzSV9sY2JwTnhyZVloZHJUSE1Wd0d4QnhpekJfbkF0dGFlU0pKcVg1UHZiUXVGM2lqdlpLeWJiamdMdW1SMWgwdnFOYktkQnFfVldYQXpmdG9CYWc?oc=5",
-   "source": "wndu.com",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Cass",
-   "tag": "Local Government",
-   "iso": "2026-08-15T19:00:00Z",
-   "id": "cd229818601d",
-   "origin": "google-news",
-   "source_title": "Save Cass County holds packed town hall - wndu.com",
-   "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQm5OZlRSXzdoV2lHeU5LOWZNWm5uY2E4a3FuT1lBV1ZPUDFDSXhkM090QWV1MV9FekdkazZHcmZqaGpfOEhaVzNsR1NRSEFHYjMxMnhIQ05mOTQ0QUN5Mm9xZnppSTNUbWR0OVc5cDJjLXhobUNaOU5tRkpLUFFvbmNXUWpJd0dIbEt4NkVoWWU2OWgtM0VMU3l0anhJb0FyS2fSAbYBQVVfeXFMT3d4aHVSMWxEVEJ0dHhhc0pqMEdCSTRmdkJQQVo1djVXMjhsa093c2hQWVkybHVuQVFtZDdrM1RZZjV6ZnFiekREUjYzcDlyekt4b0NoRHV2X2JtU0RXQ2JNVnpzSV9sY2JwTnhyZVloZHJUSE1Wd0d4QnhpekJfbkF0dGFlU0pKcVg1UHZiUXVGM2lqdlpLeWJiamdMdW1SMWgwdnFOYktkQnFfVldYQXpmdG9CYWc?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {
