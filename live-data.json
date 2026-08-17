@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-17T15:53:50+00:00",
+ "updated_at": "2026-08-17T16:37:18+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -201,6 +201,20 @@
  "meetings": [
   {
    "iso": "2026-08-17",
+   "body": "Coldwater City Council, Planning Commission and Board of Public Utilities",
+   "topic": "Joint informational meeting on data center zoning, operations and potential local ordinances",
+   "region": "West Michigan",
+   "regionKey": "west",
+   "county": "Branch",
+   "time": "5:30 PM",
+   "status": "Board meeting",
+   "urgent": true,
+   "link": "https://www.coldwater.org/agendacenter",
+   "linkLabel": "Agenda",
+   "stream": ""
+  },
+  {
+   "iso": "2026-08-17",
    "body": "Mason City Council",
    "topic": "Data center zoning amendments, noise ordinance revisions, and related development proposals",
    "region": "Mid-Michigan",
@@ -224,20 +238,6 @@
    "status": "Planning commission",
    "urgent": false,
    "link": "https://www.caledoniatownship.org/AgendaCenter/ViewFile/Agenda/_08172026-565",
-   "linkLabel": "Agenda",
-   "stream": null
-  },
-  {
-   "iso": "2026-08-17",
-   "body": "Coldwater City Council, Planning Commission and Board of Public Utilities",
-   "topic": "Joint informational meeting with MSU Extension presentation on data center impacts, zoning and potential local ordinance development",
-   "region": "Mid-Michigan",
-   "regionKey": "mid",
-   "county": "Branch",
-   "time": "5:30 PM",
-   "status": "Board meeting",
-   "urgent": false,
-   "link": "https://www.coldwater.org/Calendar.aspx?EID=4070&month=8&year=2026&day=7&calType=0",
    "linkLabel": "Agenda",
    "stream": null
   },

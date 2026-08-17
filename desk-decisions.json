@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.prnewswire.com/news-releases/hyperscale-data-establishes-bitcoin-backed-defi-financing-program-through-morpho-protocol-current-borrowings-approximately-30-million-at-4-9-to-support-michigan-ai-data-center-expansion-302840711.html",
-   "title": "Hyperscale Data Secures Bitcoin-Backed Financing to Advance Michigan AI Campus",
-   "at": "2026-08-03T22:14:52+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Bitcoin financing for Michigan AI campus already killed multiple times under various headlines (Hyperscale Bitcoin holdings/loans/stash stories)."
-  },
-  {
-   "url": "https://mrsc.org/stay-informed/mrsc-insight/august-2026/data-centers",
-   "title": "Washington Data Centers Slash Local Tax Rates but Strain Power Grids and Water",
-   "at": "2026-08-03T22:14:52+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: Washington state case study offers national context but lacks Michigan-specific relevance or actionable local angle."
-  },
-  {
    "url": "https://www.texastribune.org/2026/08/03/texas-data-center-project-audit-greg-abbott/",
    "title": "Texas Governor Orders Pause on New Data Center Approvals Pending Grid Audits",
    "at": "2026-08-03T23:41:22+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-17T15:33:36+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece about construction costs with no Michigan-specific development or decision."
+  },
+  {
+   "url": "https://www.crainsdetroit.com/politics-policy/cdb-dte-google-data-center-contracts-20260815/",
+   "title": "No major non-Michigan data center developments reported in last 24 hours",
+   "at": "2026-08-17T16:37:22+00:00",
+   "by": "news_judge",
+   "note": "score 1/10: Meta-commentary about lack of news is noise, not news; already killed a similar non-story."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNclYzY0Y1ZFZHa282aTQ3UnJ3U1FsSmhjUEhyUmVKTmdhTXB5cFhIdlhNNTM3Nk03TlJuXzlQX0dRenNaMWQyUFVQZ1ZZS0lUR0VvM2JiT21JTE81LVpIVV90Smd3eXBNMHkyVldJTlR3V2RoV2hUS3praEpPdkc4MS03M0NRZEt0THZlYjJxM2FiQWRnUy00VWJQRWEtdXMzU1loN1pNT1JDZ1NSRWd2ZW5WZ2tUbUdZSkdSZ2t3c2pIejTSAcMBQVVfeXFMTXJWM2NGNWRWR2tvNmk0N1Jyd1NRbEpoY1BIclJlSk5nYU1weXBYSHZYTTUzNzZNN05Sbl85UF9HUXpzWjFkMlBVUGdWWUtJVEdFbzNiYk9tSUxPNS1aSFVfdEpnd3lwTTB5MlZXSU5Ud1dkaFdoVEt6a2hKT3ZHODEtNzNDUWRLdEx2ZWIycTNhYkFkZ1MtNFViUEVhLXVzM1NZaDdaTU9SQ2dTUkVndmVuVmdrVG1HWUpHUmdrd3NqSHo0?oc=5",
+   "title": "Wixom tightens data center zoning to limit industrial sprawl",
+   "at": "2026-08-17T16:37:22+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicate of already-live 'Wixom Council Backs Zoning Rules' and 'Wixom tightens data center rules' — same Wixom zoning action, just reworded."
   }
  ],
  "auto_published": [
