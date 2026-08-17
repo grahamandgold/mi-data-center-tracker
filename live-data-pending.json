@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-17T15:33:36+00:00",
+ "updated_at": "2026-08-17T15:53:50+00:00",
  "generator": "grok-wire-agent",
  "items": [
   {
@@ -76,5 +76,5 @@
    "judge_note": "Concrete new development: Kalamazoo City Commission has scheduled consideration of a moratorium resolution, a different municipality and governing body than the"
   }
  ],
- "accuracy_checked_at": "2026-08-17T15:33:28+00:00"
+ "accuracy_checked_at": "2026-08-17T15:53:50+00:00"
 }
