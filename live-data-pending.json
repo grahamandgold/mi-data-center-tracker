@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-17T21:55:00+00:00",
+ "updated_at": "2026-08-17T22:33:15Z",
  "generator": "grok-wire-agent",
  "items": [
   {
@@ -20,34 +20,7 @@
    "headline_rewritten": true,
    "judge_score": 9,
    "judge_note": "Groundbreaking is a concrete milestone with specific dollar figures, job counts, acreage, and power details for a major Michigan project—this is a decision made"
-  },
-  {
-   "title": "Kalamazoo weighs data center moratorium over health and safety risks",
-   "dek": "The City Commission is set to consider a resolution pausing new data center projects while staff examines public health, safety, and environmental impacts. No formal data center proposal is before the city, though a cannabis facility owner floated redevelopment of its site earlier this year. Residents 30 minutes away have reason to watch as neighboring townships already enacted similar pauses amid farmland and infrastructure concerns.",
-   "url": "https://kalamazoomi.portal.civicclerk.com",
-   "source": "Kalamazoo City Commission agenda",
-   "region": "West Michigan",
-   "county": "Kalamazoo",
-   "cat": "Meetings",
-   "tag": "Agenda watch",
-   "iso": "2026-08-16T10:00:38+00:00",
-   "kind": "agenda",
-   "id": "73fb24c22ec1",
-   "filed_at": "2026-08-16T10:00:38+00:00",
-   "accuracy": "unverified-source-unfetchable",
-   "findings": "Per recent commission discussion, staff will draft a resolution addressing data centers’ public health, safety, and welfare concerns for the Aug. 17 vote | The packet and agenda details remain unavailable as of Aug. 16, with no specific parcels, acreage, megawatts, or abatement terms disclosed | Background coverage shows no formal data center application or approval for the Harbor Farmz site at 2839 Full Circle Drive | Public opposition to a data center concept was raised at the June 15, 2026 commission meeting | Oshtemo, Pavilion, and Texas townships plus Portage have enacted temporary data center moratoriums while reviewing zoning",
-   "perspective": "The Kalamazoo City Commission has not previously voted on data center projects; a June 2026 statement from officials confirmed no proposal had been submitted or approved for the Harbor Farmz cannabis facility. The Aug. 17 regular business meeting follows a Committee of the Whole session and will consider the resolution, with any zoning moratorium process to begin later at the Planning Commission. ",
-   "documents": [
-    {
-     "label": "Agenda page",
-     "url": "https://kalamazoomi.portal.civicclerk.com"
-    }
-   ],
-   "depth_score": 0,
-   "extraction_method": "vision-screenshot",
-   "judge_score": 7,
-   "judge_note": "Concrete new development: Kalamazoo City Commission has scheduled consideration of a moratorium resolution, a different municipality and governing body than the"
   }
  ],
- "accuracy_checked_at": "2026-08-17T21:55:00+00:00"
+ "accuracy_checked_at": "2026-08-17T22:33:07+00:00"
 }

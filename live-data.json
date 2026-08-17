@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-17T21:55:00+00:00",
+ "updated_at": "2026-08-17T22:33:15Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Mason neighbors fight data center over noise, power and water strain",
+   "dek": "Residents near Mason are organizing against a proposed data center, citing concerns over constant noise, heavy electricity demand and water use. The project would sit in Ingham County, where local infrastructure and power rates could feel the impact. Michigan readers 30 miles away should watch because similar proposals are surfacing across mid-Michigan townships facing the same trade-offs between jobs and quality of life.",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQTBIVTc1VG1fMkVyLUZWMzMxdFp0dE9mSEplM09YeWo3UmNSdXFKTHozMHFqekwyZXAxT1hYOGFkVDRjVmpRZktKVmxwUXo0RTItdEN5T3pEZ0d3MGhITnlqZ01pTHFIOUdFTHUtSHhiNmY3QU5Pa3IxVmVZdFl2RENpbWZBM0p1amFLSFNwVQ?oc=5",
+   "source": "WLNS 6 News",
+   "region": "mid",
+   "cat": "STATEWIDE",
+   "county": "Ingham",
+   "tag": "Local Government",
+   "iso": "2026-08-17T22:05:43Z",
+   "id": "3c453462b1d3",
+   "origin": "google-news",
+   "source_title": "Community opposes proposed data center near Mason - WLNS 6 News",
+   "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQTBIVTc1VG1fMkVyLUZWMzMxdFp0dE9mSEplM09YeWo3UmNSdXFKTHozMHFqekwyZXAxT1hYOGFkVDRjVmpRZktKVmxwUXo0RTItdEN5T3pEZ0d3MGhITnlqZ01pTHFIOUdFTHUtSHhiNmY3QU5Pa3IxVmVZdFl2RENpbWZBM0p1amFLSFNwVQ?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "U-M locks in $1.2B Ypsilanti data center site over township objections",
    "dek": "University of Michigan has confirmed the Ypsilanti location for its massive new computing facility. Local officials in the township say they will continue fighting the project. Residents 30 miles away could see higher power rates and water strain if the $1.2 billion campus moves forward.",
@@ -165,23 +182,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZmIzbUtlQTFhN2lhTGQ5Mlp5ZURBblM1eUJZeE5UVldEWHg2U09HZ0UwNXpUZ1Z1aTNSRHgxSXdmVVRYQkRKQ3lxOGtGTFlCWmZFek5sTDlEVkhsYUZXaGtoWk9uTkpCZ2h6dnJSSWhCYi1mUUlYMEVjalVIZ0RMMVRaSzFOMWFMS3BlT2Rna3FYcVJCd09FT0ZNQW9HRnNZUWNhMFpxVThZU2ZJZy1fZHVDemY0b05xWlJGVGtxWnB1QkhuZmdfY2szaER0WndTM0w0eFpJbmtvdw?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "AG Nessel demands names behind Michigan's hidden data center contracts",
-   "dek": "Michigan's attorney general is suing to uncover who signed secret deals for a major data center project. Residents could face higher electric bills and lost tax revenue if the terms stay hidden. The case could set rules for how future projects get approved across the state.",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSlNuaHc5WnZkSDMzZi1ZVm14N0lWNTJQSkFUcEJFNGR3RXlZVS16b0lDZ1VULUc5Q3I4cDNNblJjZTdtdm10SUExa3BmN09FeVcyLVJicW5RSVZFWi1XX0FhT1d5UDFMRWhPR0RSY0dsbF8zWDhBQTBYbXN1WFZTX1JWT0ZrVnlaaDhTbG50TmVINzdMM1IzbzUyY1BLMjZhZlR0ckFhX2tQSkdZX2dZWXYzT2Q3Qmx0UU9kR2JNTXA1TEtpY2840gHHAUFVX3lxTE1KU25odzladmRIMzNmLVlWbXg3SVY1MlBKQVRwQkU0ZHdFeVlVLXpvSUNnVVQtRzlDcjhwM01uUmNlN212bXRJQTFrcGY3T0V5VzItUmJxblFJVkVaLVdfQWFPV3lQMUxFaE9HRFJjR2xsXzNYOEFBMFhtc3VYVlNfUlZPRmtWeVpoOFNsbnROZUg3N0wzUjNvNTJjUEsyNmFmVHRyQWFfa1BKR1lfZ1lZdjNPZDdCbHRRT2RHYk1NcDVMS2ljbzg?oc=5",
-   "source": "thelivingstonpost.com",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Policy",
-   "iso": "2026-08-15T23:15:24Z",
-   "id": "e32dab6157e9",
-   "origin": "google-news",
-   "source_title": "‘We don’t even know who signed the contracts’: AG Nessel challenges Michigan’s secret data center deal - thelivingstonpost.com",
-   "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSlNuaHc5WnZkSDMzZi1ZVm14N0lWNTJQSkFUcEJFNGR3RXlZVS16b0lDZ1VULUc5Q3I4cDNNblJjZTdtdm10SUExa3BmN09FeVcyLVJicW5RSVZFWi1XX0FhT1d5UDFMRWhPR0RSY0dsbF8zWDhBQTBYbXN1WFZTX1JWT0ZrVnlaaDhTbG50TmVINzdMM1IzbzUyY1BLMjZhZlR0ckFhX2tQSkdZX2dZWXYzT2Q3Qmx0UU9kR2JNTXA1TEtpY2840gHHAUFVX3lxTE1KU25odzladmRIMzNmLVlWbXg3SVY1MlBKQVRwQkU0ZHdFeVlVLXpvSUNnVVQtRzlDcjhwM01uUmNlN212bXRJQTFrcGY3T0V5VzItUmJxblFJVkVaLVdfQWFPV3lQMUxFaE9HRFJjR2xsXzNYOEFBMFhtc3VYVlNfUlZPRmtWeVpoOFNsbnROZUg3N0wzUjNvNTJjUEsyNmFmVHRyQWFfa1BKR1lfZ1lZdjNPZDdCbHRRT2RHYk1NcDVMS2ljbzg?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
   }
  ],
  "national": {
@@ -201,6 +201,34 @@
  "meetings": [
   {
    "iso": "2026-08-17",
+   "body": "Coldwater City Council, Planning Commission and Board of Public Utilities",
+   "topic": "Joint informational meeting on data center zoning, regulation and ordinance development",
+   "region": "West Michigan",
+   "regionKey": "west",
+   "county": "Branch",
+   "time": "5:30 PM",
+   "status": "Board meeting",
+   "urgent": true,
+   "link": "https://www.coldwater.org/agendacenter",
+   "linkLabel": "Agenda",
+   "stream": ""
+  },
+  {
+   "iso": "2026-08-17",
+   "body": "Kalamazoo City Commission",
+   "topic": "Consideration of resolution for moratorium on new data centers",
+   "region": "West Michigan",
+   "regionKey": "west",
+   "county": "Kalamazoo",
+   "time": "7:00 PM",
+   "status": "Board meeting",
+   "urgent": true,
+   "link": "https://kalamazoomi.portal.civicclerk.com/",
+   "linkLabel": "Agenda",
+   "stream": ""
+  },
+  {
+   "iso": "2026-08-17",
    "body": "Mason City Council",
    "topic": "Data center zoning ordinance and noise rules review",
    "region": "Mid-Michigan",
@@ -211,20 +239,6 @@
    "urgent": true,
    "link": "https://www.mason.mi.us/your_government/mayor_and_city_council/agendas_&_minutes.php",
    "linkLabel": "Agenda"
-  },
-  {
-   "iso": "2026-08-17",
-   "body": "Coldwater City Council, Planning Commission and Board of Public Utilities",
-   "topic": "Joint informational meeting on data center operations, impacts and local ordinance considerations",
-   "region": "Mid-Michigan",
-   "regionKey": "mid",
-   "county": "Branch",
-   "time": "5:30 PM",
-   "status": "Board meeting",
-   "urgent": true,
-   "link": "https://www.coldwater.org/agendacenter",
-   "linkLabel": "Agenda",
-   "stream": ""
   },
   {
    "iso": "2026-08-17",
@@ -252,20 +266,6 @@
    "link": "https://wtvbam.com/2026/08/14/970442/",
    "linkLabel": "Meeting Announcement",
    "stream": ""
-  },
-  {
-   "iso": "2026-08-17",
-   "body": "Kalamazoo City Commission",
-   "topic": "Vote on resolution for temporary moratorium on data center development",
-   "region": "West Michigan",
-   "regionKey": "west",
-   "county": "Kalamazoo",
-   "time": "7:00 PM",
-   "status": "Board meeting",
-   "urgent": true,
-   "link": "https://kalamazoomi.portal.civicclerk.com",
-   "linkLabel": "Agenda",
-   "stream": "https://videoplayer.telvue.com/player/2bm0gzQWeVRzdCgvjXziXKwO3icSKh05/series/3444/media/1039794"
   }
  ],
  "accuracy_checked_at": "2026-07-08T08:45:16+00:00"
