@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-17T10:16:04+00:00",
+ "generated_at": "2026-08-17T20:49:08+00:00",
  "for_dates": [
   "2026-08-17",
   "2026-08-18"
@@ -7,16 +7,23 @@
  "items": [
   {
    "iso": "2026-08-17",
-   "time": "5:30 PM",
-   "meeting": "Coldwater City Council, Planning Commission and Board of Public Utilities",
-   "bullet": "Coldwater holds joint meeting of council, planning commission and utilities board tonight; agenda not detailed.",
-   "link": "https://www.coldwater.org/Calendar.aspx?EID=4070&month=8&year=2026&day=7&calType=0"
+   "time": "6:30 PM",
+   "meeting": "Mason City Council",
+   "bullet": "Mason council meets 8/17 after three zoning votes on data centers; $1B Vevay Twp. proposal seeks city utilities with no packet details public yet.",
+   "link": "https://www.mason.mi.us/your_government/mayor_and_city_council/agendas_&_minutes.php"
+  },
+  {
+   "iso": "2026-08-17",
+   "time": "7:00 PM",
+   "meeting": "Caledonia Township Planning Commission",
+   "bullet": "Caledonia Planning Commission weighs data center moratorium tonight as 68th-Kraft inquiries noted.",
+   "link": "https://www.caledoniatownship.org/AgendaCenter/ViewFile/Agenda/_08172026-565"
   },
   {
    "iso": "2026-08-17",
    "time": "5:30 PM",
    "meeting": "City of Coldwater, Planning Commission and CBPU Board",
-   "bullet": "Coldwater holds joint meeting Monday on data center zoning rules; no proposals active.",
+   "bullet": "Coldwater has zero active data center proposals but is holding a joint informational meeting Monday to gather feedback before drafting permanent zoning rules.",
    "link": "https://wtvbam.com/2026/08/14/970442/"
   }
  ]
