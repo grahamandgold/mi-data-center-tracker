@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-16T23:48:52+00:00",
+ "updated_at": "2026-08-17T01:49:37+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -197,6 +197,19 @@
  "meetings": [
   {
    "iso": "2026-08-17",
+   "body": "Mason City Council",
+   "topic": "Data center zoning amendments, noise ordinance updates, and related development agreements",
+   "region": "Mid-Michigan",
+   "regionKey": "mid",
+   "county": "Ingham",
+   "time": "6:30 PM",
+   "status": "Board meeting",
+   "urgent": true,
+   "link": "https://www.mason.mi.us/your_government/mayor_and_city_council/agendas_&_minutes.php",
+   "linkLabel": "Agenda"
+  },
+  {
+   "iso": "2026-08-17",
    "body": "Coldwater City Council, Planning Commission and Board of Public Utilities",
    "topic": "Joint informational meeting on data center impacts, regulation and ordinance drafting with MSU Extension presentation",
    "region": "West Michigan",
@@ -208,20 +221,6 @@
    "link": "https://www.coldwater.org/Calendar.aspx",
    "linkLabel": "Agenda",
    "stream": null
-  },
-  {
-   "iso": "2026-08-17",
-   "body": "Mason City Council",
-   "topic": "Consider proposed ordinance allowing hyperscale data center in Vevay Township; possible amendments to noise ordinance",
-   "region": "Mid-Michigan",
-   "regionKey": "mid",
-   "county": "Ingham",
-   "time": "6:30 PM",
-   "status": "Board meeting",
-   "urgent": true,
-   "link": "https://www.mason.mi.us/your_government/mayor_and_city_council/agendas_&_minutes.php",
-   "linkLabel": "Agenda",
-   "stream": "https://youtube.com/live/8be2S9P1npY?feature=share"
   },
   {
    "iso": "2026-08-17",
