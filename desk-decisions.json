@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.nahb.org/blog/2026/07/servers-over-shelter-ai-data-centers-outbidding-home-builders-for-land",
-   "title": "AI data centers outbid home builders for land across multiple states",
-   "at": "2026-08-08T18:51:28+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: National trend piece about land-price competition with no Michigan-specific decision, filing, or development reported."
-  },
-  {
    "url": "https://www.detroitnews.com/",
    "title": "No major non-Michigan U.S. data center developments reported in the last 24 hours",
    "at": "2026-08-08T23:37:23+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-18T23:30:01+00:00",
    "by": "news_judge",
    "note": "score 2/10: National campaign trail speculation about a 'proposed national pause' with no concrete legislative action or Michigan-specific development."
+  },
+  {
+   "url": "https://future-bridge.us/time-to-power-data-centers-summit-2026/",
+   "title": "Dallas 2026 Summit Targets Faster Grid Power for AI Data Centers",
+   "at": "2026-08-18T23:51:10+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece about a Dallas summit discussing grid interconnection delays—no Michigan angle, no specific decision or development for Michigan readers tr"
   }
  ],
  "auto_published": [
