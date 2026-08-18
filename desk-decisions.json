@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdjJua1JPZjlyelRYWjFOSmVleHpGVGE2UGdHaHR6Sm42eFhSWThDTGtiR19ROEZud29nNkJHUEtFYkdoQUp6eFVGcGJ3MnlnUHpLSXZhR01ERjAzNDh6clE0bXp0aHRISUpqcVU3TEdyWDhhMWRCX1VZRkJsN0ZRV1dlazJBT2lIY2psZE4zanBKRnVYNWNwR2o1YmU0YlVJNjB3YWd2cVpobVNGLWk2Tk5mUjQwSFhfbkRUZnk3SEkxVXPSAdcBQVVfeXFMUEc3c3lveHpMOWtFN083MkhmTVlET285alBoRWp2anFUQkkyNnMwUnNEcHpmWTM1eEM5czB6YUhwc1IwNVBySWdab1ZhazU3d0MxWlFqZHNsM1JHZ0pPMC0xTm94NEtHUlA3blFMclFUWFNRMzE3Mk1SSVBTT3Z6d2phbkdlNnJzbncxVTdNQ0RONlJDTkh6aHozeVdfVXlEMV9zNm93MnNBc2M3QkE0OVZHOUFHNGFrX1J6dC03MzVXVzdnQWlmR21Fb2pueUU3ZjlZNFVPQkk?oc=5",
-   "title": "Microsoft facility threatens Kent County water bills as town delays rate decision",
-   "at": "2026-08-06T14:57:46+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Lowell pausing rate negotiations is thin follow-up given 'Lowell kills data center talks' already live; no concrete decision made here, just a delay."
-  },
-  {
-   "url": "https://blockclubchicago.org/2026/08/06/data-centers-should-be-required-to-disclose-water-and-energy-use-city-panel-recommends/",
-   "title": "Chicago Report Urges Permits and Wastewater Reuse for Data Centers",
-   "at": "2026-08-07T03:57:05+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece from Chicago with generic recommendations and only one vague proposal mentioned, not Michigan-specific."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNThpNVhHZzFyeFFseEhnQWJWMmxXcTFybUF6LTZIQmx1MXEycm1DaUJYTzZsYUp3U2Nlb3k5NDRlMVQyWENOVzR3b1hJMklKSDIzX24tcEVBVXBDWmh4N0JqNHVwTVAwakU5dUxfTG1rVkdLdGxPYXV4N2laVktSWENrUEJHZDdfeUJxdUNjVW4wQWZvOU9sbU9iaFo1TEE?oc=5",
    "title": "Augusta Township voters kill data center rezoning",
    "at": "2026-08-07T03:57:05+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-18T11:33:42+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Duplicates the already-live story 'Kalamazoo blocks new data centers and battery plants for a full year' — same moratorium approval, just reworded."
+  },
+  {
+   "url": "https://www.levernews.com/the-senate-candidate-with-an-ai-investment-problem/",
+   "title": "Senate Candidate Mike Rogers Holds Investments Tied to Data Center Development",
+   "at": "2026-08-18T11:55:35+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Conflict-of-interest angle on a candidate's investments is tangential to actual data center development decisions in Michigan; more political speculation than c"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcmNmUjVqenIzZ2JVS1FTcGNDTWhKQzZnYlVFbW1jSDZ3LVZzY1g3WE9QWnFYb1E3akVVX1ZuYXR5U003ZXFYNWdYN1RjakNXUkNfZlVLZDVrZTJ2MmRuTlRzR25IbGNlV0Rta1RvcEhaMXhpWmpER2NfdllsTEk5WGlqa2NnNzMzYXpJSEh1VkZkQmVFTlo5bURjVl9Yd9IBngFBVV95cUxPcmNmUjVqenIzZ2JVS1FTcGNDTWhKQzZnYlVFbW1jSDZ3LVZzY1g3WE9QWnFYb1E3akVVX1ZuYXR5U003ZXFYNWdYN1RjakNXUkNfZlVLZDVrZTJ2MmRuTlRzR25IbGNlV0Rta1RvcEhaMXhpWmpER2NfdllsTEk5WGlqa2NnNzMzYXpJSEh1VkZkQmVFTlo5bURjVl9Ydw?oc=5",
+   "title": "Kalamazoo commission locks in one-year data center freeze",
+   "at": "2026-08-18T11:55:35+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This is the same Kalamazoo moratorium vote already covered multiple times in ALREADY-LIVE and KILLED lists, just with slightly different framing about the commi"
   }
  ],
  "auto_published": [
