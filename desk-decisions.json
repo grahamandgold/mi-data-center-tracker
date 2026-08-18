@@ -1,34 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.eenews.net/articles/data-center-foes-win-big-in-tuesdays-primaries/",
-   "title": "William Lawrence Wins Michigan House Primary After Campaigning Against Data Center Expansion",
-   "at": "2026-08-05T22:18:20+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Same event as already-live 'Lawrence beats Stevens in MI-7 after vowing to block data centers' — identical primary win, just reworded."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORXltVHNIQVJWZ2RBelV3WUhtcHNWQUptdXU0RXhiUGY3Rm5Eb19qZF8waGJvTTVWTzB5bEhWb01oeVRGZnpUR2hmc2dCVG53QWNlQXBGaWZkZkswbkZXamZUYUNtcHRmdmtCX0xsNnF4Tzd6N0hXUlZMckVtOWZqNmV2dzZEVTFGUlZtemMxdUZ2YlZ0cDZYbkZ3ZTk?oc=5",
-   "title": "Data center opponents sweep key Michigan primaries",
-   "at": "2026-08-05T22:18:20+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: Vague multi-race roundup with no specific new results beyond what's already covered; reads like thin aggregation rather than concrete reporting."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQllZbVR6UHlHTzNfZEdRSUFJMGxrRDk5b2FtSVI3S2tBSC1sdnFVd2w1WV9nbjlOa1k0b055bFZSMVFCWUZMTU91ME04dXdaNmVvZGJIRnBxVnBfTkVTNno1V29zMkMzX0daZ3NPU0ZyUENrdF9xTnJsYTEtR1FRQWNUYjVVOEFtQmRYa3dlRFd1VmN5YVVZVlVpdVNUaElsWC1QTjlLYW4xUjU4dUN3RkJmUXZzSWJERlQxd3hURFRSMjU0WGtBaUxUd21SM3otbFNDMWY4RkdRa3JwSnhuYWZn?oc=5",
-   "title": "Lawrence beats big money in House primary by opposing data centers",
-   "at": "2026-08-05T22:18:20+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Same Lawrence primary victory already live; this is just another angle on the identical event."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSUtVdnZTSnVJMDJna2dGTXZ1eWtwTDMzRlRUM1NqUHJLT2tIblJCelg1ZU8tU2ttdVZaSm9rSENTVWZuUUtNQWVKeFJEaV96cmVRS2xMbUV5OW9ielAtZ016aGRQVHZ3NEVmUnV0Sm5BVzlhVmtEYlFqNkNjUk96SEctNTJhU05kZlJCanFjRTByckVZQmd5MHZTN1JZdV9NbmV0UzJXaTc4enBkS3g1cTBLUk5MVl9mLWc1NUpJdXZ6MzR6bzFkOC16elBSSnpFYnRCMDVNQjjSAewBQVVfeXFMTkk4c2FmMzkyVFIyOVRsVkZOaDNtcU9CZXFCMDdqZURRejBqYVdhbmlqZ21xek5wNmhxRUpXOHY3bTI1NWdnWk1ReXBTUFF3M3JDYTd2eV9kaDlkb0dtcFgtWUtYRlVYX0dXcGVUY2tMV0R2WXFSdF9rV3YtMmRONi1wS3pldFZIUEJmMzh2di04NEF4SG03QnRrdmd0cjNMUnpMa2t3RlhlWl9WcGRWRVhQUFV1X2l4V25VNUVrSDM3cjVmdjI3SFROampZcDBaMl81ekJxdmR2Sm9vUElMY3MzVVBNZ1VSR3Z0MG0?oc=5",
-   "title": "Washtenaw voters crush $1B data center plan by 90%",
-   "at": "2026-08-05T22:18:20+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Same Washtenaw rezoning vote already live as 'Washtenaw voters kill $1B data center rezoning in rural township' — identical ballot measure."
-  },
-  {
    "url": "https://www.foxcarolinanews.com/2026/08/05/live-oral-arguments-begin-over-proposed-data-center-spartanburg-county/",
    "title": "South Carolina regulators hear arguments on proposed large data center project",
    "at": "2026-08-05T23:31:49+00:00",
@@ -1399,6 +1371,34 @@
    "at": "2026-08-18T06:57:27+00:00",
    "by": "news_judge",
    "note": "score 10/10, duplicate: This is the exact same moratorium approval already live in the first ALREADY-LIVE item."
+  },
+  {
+   "url": "https://wwmt.com/news/local/kalamazoo-moratorium-data-centers-prevent-pause-ai-city-commission-adopt-resolution-meeting-development-harbor-farmz-michigan-wwmt",
+   "title": "Kalamazoo Halts All Data Center, Battery Storage and Crypto Projects for One Year",
+   "at": "2026-08-18T07:47:14+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Same Kalamazoo moratorium vote already live under multiple headlines; no new development."
+  },
+  {
+   "url": "https://www.wzzm13.com/article/news/local/kalamazoo-implements-yearlong-halt-on-data-centers-amid-community-concerns/69-26dd349c-6e48-4af0-8e13-014b3b88ad62",
+   "title": "Kalamazoo Approves Moratorium Targeting Data Centers, Battery Storage and Crypto Mining",
+   "at": "2026-08-18T07:47:14+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Identical Kalamazoo commission vote blocking data centers already covered in live stories."
+  },
+  {
+   "url": "https://michiganadvance.com/2026/08/17/michigan-data-centers-the-weekly-download-3-2-2-2-2-2-2-2-2",
+   "title": "Michigan towns clash over data center tax breaks, zoning and threats",
+   "at": "2026-08-18T07:47:14+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Thin multi-town rehash combining already-live developments (UM site, Wixom moratorium) without new decisions."
+  },
+  {
+   "url": "https://www.detroitnews.com/story/business/2026/08/17/chip-giant-nvidia-reaches-1-5-billion-deal-for-ai-computing-capacity/91335586007",
+   "title": "Nvidia Commits $1.5 Billion to Ohio AI Data Center Project with OpenAI Ties",
+   "at": "2026-08-18T07:47:14+00:00",
+   "by": "news_judge",
+   "note": "score 2/10: National Ohio project with no Michigan angle; already killed similar Nvidia/OpenAI Ohio stories."
   }
  ],
  "auto_published": [
