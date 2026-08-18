@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.salemreporter.com/2026/08/07/verrus-official-briefs-chamber-members-on-data-center-early-thursday-morning/",
-   "title": "Verrus Faces Fresh Questions on Salem Data Center as Opposition Rises",
-   "at": "2026-08-08T10:47:41+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National story (Salem, not Michigan) about a council discussion and rally—no decision made, just ongoing opposition and talk of a possible moratorium."
-  },
-  {
-   "url": "https://www.npr.org/2026/08/08/g-s1-137853/data-centers-primaries-midterms",
-   "title": "Michigan Senate and House Hopefuls Use Data Center Backlash to Court Voters",
-   "at": "2026-08-08T14:40:27+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: Thin rehash of already-live primary victories (Lawrence, data center opponent defeats incumbent) repackaged as a trend piece without new specific events or fili"
-  },
-  {
    "url": "https://www.opb.org/article/2026/08/08/data-centers-are-a-top-issue-in-midterms-for-voters-candidates/",
    "title": "Michigan Candidate Rallies Against Data Center Power Costs and Pollution",
    "at": "2026-08-08T17:38:59+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-18T22:32:53+00:00",
    "by": "news_judge",
    "note": "score 4/10: National political figure's campaign rhetoric about data centers, not a Michigan-specific decision, filing, or concrete development."
+  },
+  {
+   "url": "https://www.detroitnews.com/videos/business/real-estate/2026/08/18/data-centers-michigan/91357244007/",
+   "title": "Data Center Boom Sparks Backlash in Michigan Campaign Stops",
+   "at": "2026-08-18T22:55:39+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Campaign trail Q&A about data center policies is thin political coverage without a concrete development, decision, or policy announcement."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUHhLcDN2ZlQxQ1pRTmc2azNibm9JaXFpRWo3cFpJbm56NERuSUhhSnV6c1dRRzk0U19ESG5NWmVtcXQ1cnFEb096dk11ZjZ3MmdDUXdHTWpUZ3NyMG1aWV83aUFGVXpHanJhdGlRSHpPeURwQUJRbnRxVnl1OGg0aGRjZXFfNXV4NDFXaGdPRG03NDRnbGt0dEYybm5VU1HSAVZBVV95cUxOSWhpeV9DUXp5dGJUMFhhNmJOR2d6M3BVTTF6TFROYlprRFVpdE1BNzBqWGloV0NJbklFTEtSdTRjT01JQXd6ZkdrVVlMQ0wtS1lPQ1NZUQ?oc=5",
+   "title": "Two firms sue Michigan city, call data center moratorium illegal",
+   "at": "2026-08-18T22:55:39+00:00",
+   "by": "news_judge",
+   "note": "score 1/10, duplicate: This is the same lawsuit already covered in live stories 'Developer sues Michigan city over data center ban' and 'Two firms sue Michigan city, say data center m"
   }
  ],
  "auto_published": [
