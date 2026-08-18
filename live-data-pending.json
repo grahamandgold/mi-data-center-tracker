@@ -1,7 +1,23 @@
 {
- "updated_at": "2026-08-18T16:40:53+00:00",
+ "updated_at": "2026-08-18T17:01:54+00:00",
  "generator": "grok-wire-agent",
  "items": [
+  {
+   "iso": "2026-08-26T12:00:00+00:00",
+   "region": "statewide",
+   "cat": "CAPITOL",
+   "tag": "Policy",
+   "title": "Capitol watch: SB1047 — Senate Co-sponsor(s) Named: Jeremy Moss",
+   "dek": "Public utilities: rates; separate rate class for large-load customers; require. Amends 1939 PA 3 (MCL 460.1 - 460.11) by adding sec. 10ii. Recorded action in the Michigan Legislature; see the full bill history at the source link.",
+   "source": "Michigan Legislature",
+   "url": "https://legiscan.com/MI/bill/SB1047/2025",
+   "breaking": false,
+   "lead": false,
+   "accuracy": "checked",
+   "id": "8b3b99b618e0",
+   "kind": "capitol",
+   "filed_at": "2026-08-18T17:01:54+00:00"
+  },
   {
    "title": "Data center project files posted for Aug. 21 board agenda",
    "dek": "Agenda includes an April 2025 data center document and a separate presentation file ahead of the meeting.",
