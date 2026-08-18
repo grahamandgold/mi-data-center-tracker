@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNThpNVhHZzFyeFFseEhnQWJWMmxXcTFybUF6LTZIQmx1MXEycm1DaUJYTzZsYUp3U2Nlb3k5NDRlMVQyWENOVzR3b1hJMklKSDIzX24tcEVBVXBDWmh4N0JqNHVwTVAwakU5dUxfTG1rVkdLdGxPYXV4N2laVktSWENrUEJHZDdfeUJxdUNjVW4wQWZvOU9sbU9iaFo1TEE?oc=5",
-   "title": "Augusta Township voters kill data center rezoning",
-   "at": "2026-08-07T03:57:05+00:00",
-   "by": "news_judge",
-   "note": "score 1/10, duplicate: This is the exact same Augusta Township voter rezoning rejection already live in the queue."
-  },
-  {
-   "url": "https://www.cnbc.com/2026/08/06/khanna-to-introduce-data-center-bill-of-rights-in-ai-power-plants-fight.html",
-   "title": "Rep. Ro Khanna to Introduce Data Center Bill of Rights Aimed at Local Control",
-   "at": "2026-08-07T05:48:10+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: National legislative speculation with only a Michigan name-check; no Michigan-specific action, filing, or decision reported."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wTl9FMEVkVmFtb1lvd0l0Q0Y3Q0pCT20tc1RUVWkzSnlaNTlXaUxyWEhXa3pyM2lzUmp5TVFMMXFlaWd1OUpiSWdtV1A3ZzQ?oc=5",
    "title": "Data centers helped hand Al-Sayed his Michigan primary win",
    "at": "2026-08-07T10:28:57+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-18T11:55:35+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: This is the same Kalamazoo moratorium vote already covered multiple times in ALREADY-LIVE and KILLED lists, just with slightly different framing about the commi"
+  },
+  {
+   "url": "https://www.bisnow.com/news/data-center",
+   "title": "Data Center Owners Pledge Climate Cuts as Emissions Climb",
+   "at": "2026-08-18T13:01:46+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece about climate pledges and emissions without Michigan-specific action or development."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd0hWTU5JMUt6NGthVzVpUW45NlpmYTZNUHgtVHFyVDZadklGNHVuNTlRSWlpdHQ2ZWNxaDluUW5zSHZPOGFjaU1fS3VaTDZwVnd6YllBa0FvUDlwaE1UZlhkWGJKcEZEWmZOZnhyTmRfX1lKSHRCamVoNTlkZW4ySU1DLVlzOHNQbnk4MDhBQlJJa2k0ck1hVF9OcHBCdmZ0X0ZxZ0o2eUJvNTFxWm80WU44c1g2NXdhUFN30gHPAUFVX3lxTFBvZ1ZXdDJnZTdSdGQzbWlWUmc2OXZTRVkydWdEMFJVOHVDM20wX2VQNWFCZHB5LWlWWEFBQW45UXpuT1VfdkZMTFVxUzNlR281WkhpaW4tMnZuNXNjVzg5cVY3a1FnWkotVzQxY1dIQkVKYnNhaUhpZDhDZDRxdmF1a1FLXy1LZ1hMTVR1Rnh1RnpBTEVmMzNJbjFCXzFPZzItY3BIa1I1bmNPZXJlVklLQ3BEdS03TWplMnNiS04yNnVUZEpyc2RraG9DOHRhMA?oc=5",
+   "title": "Kalamazoo halts new data centers and battery plants for a full year",
+   "at": "2026-08-18T13:01:46+00:00",
+   "by": "news_judge",
+   "note": "score 1/10, duplicate: Identical to multiple already-live stories reporting the same Kalamazoo moratorium decision."
   }
  ],
  "auto_published": [
