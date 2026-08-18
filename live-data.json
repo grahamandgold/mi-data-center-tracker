@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-18T13:49:47+00:00",
+ "updated_at": "2026-08-18T14:42:28Z",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -18,6 +18,21 @@
    "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ITmJjZHJFRDBiR0RwS2duQ21uZ2ZXVERXRFVzTHp5M3RDSFEzSGU4V3lQODkzRkpJSl9TNGNnT3l2S1RKYUpBWHhBX3BkUQ?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
+  },
+  {
+   "iso": "2026-08-18T05:00:00Z",
+   "region": "mid",
+   "cat": "Branch Co.",
+   "tag": "Local Government",
+   "title": "Coldwater Mayor Says No Interest in Data Center Over Water and Power Use",
+   "dek": "MSU expert told joint council meeting that consumption and property-value effects scale with facility size. Officials plan new ordinances to discourage developers.",
+   "source": "WTVB",
+   "url": "https://wtvbam.com/2026/08/18/971643/",
+   "breaking": false,
+   "lead": true,
+   "id": "800f895d28f9",
+   "accuracy": "checked-rewritten",
+   "judge_score": 8
   },
   {
    "title": "Kalamazoo blocks new data centers and battery plants for a full year",
@@ -167,23 +182,6 @@
    "origin": "google-news",
    "source_title": "Michigan regulator seeks utility rate changes - Axios",
    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYUx2bjNYalItbUtpM3A0RU5hRzRLZk11RF83VnlHVm00LTlJeW9tQWtobVJocWxMNTJ1WldTSUFoNWpJeWlzcUhBR3ByeTBzYVp1WFZPd1Z2NEJnWGxKa2Z3cFp3cTNZZXg3NENJZlg0azJnMjZna0tmQzF5WDVFOHB0cHBhRlVnak5vdzUzN2Jra2c0eW8xUzJ4QmYwMmdqcldrT0lYaF9xOXV2azFQSFlR?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
-  },
-  {
-   "title": "Kalamazoo weighs year-long pause on all new data centers",
-   "dek": "City commissioners will vote tonight on a moratorium that would stop any fresh data-center proposals while planners study power and water limits. Kalamazoo residents could avoid sudden spikes in utility bills if the pause gives time to line up new generation. The measure also responds to complaints about noise and truck traffic from similar projects elsewhere in Michigan.",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RazdBSU1qaWxMTHJZdjhUNnpMY3NCcVZTeWcxUXJ6UUZobG1tSVRlYkxwSnl5Tmh5Rkg1YTFYY0NtRTJDMmZza2VoZUtKU0RFUzdN?oc=5",
-   "source": "WNWN-FM",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Kalamazoo",
-   "tag": "Local Government",
-   "iso": "2026-08-17T10:32:11Z",
-   "id": "7e37b8ca6bcb",
-   "origin": "google-news",
-   "source_title": "Data center moratorium on Kalamazoo city commission agenda tonight - WNWN-FM",
-   "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RazdBSU1qaWxMTHJZdjhUNnpMY3NCcVZTeWcxUXJ6UUZobG1tSVRlYkxwSnl5Tmh5Rkg1YTFYY0NtRTJDMmZza2VoZUtKU0RFUzdN?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
   }

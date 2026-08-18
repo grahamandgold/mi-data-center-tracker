@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wTl9FMEVkVmFtb1lvd0l0Q0Y3Q0pCT20tc1RUVWkzSnlaNTlXaUxyWEhXa3pyM2lzUmp5TVFMMXFlaWd1OUpiSWdtV1A3ZzQ?oc=5",
-   "title": "Data centers helped hand Al-Sayed his Michigan primary win",
-   "at": "2026-08-07T10:28:57+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: This is a rehash of the already-killed 'El-Sayed Edges Stevens in Michigan Senate Primary' and 'Data center opponents sweep key Michigan primaries' stories — sa"
-  },
-  {
    "url": "https://www.chicagobusiness.com/real-estate/commercial/ccb-west-adams-street-data-center-conversion-20260806/",
    "title": "Chicago Landmark Office Building Advances Toward Partial Data Center Conversion",
    "at": "2026-08-07T15:03:05+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-18T13:01:46+00:00",
    "by": "news_judge",
    "note": "score 1/10, duplicate: Identical to multiple already-live stories reporting the same Kalamazoo moratorium decision."
+  },
+  {
+   "url": "https://www.datacenterdynamics.com/en/news/cherokee-nation-in-the-us-bans-data-center-development/",
+   "title": "Cherokee Nation Bars Hyperscale Data Centers on Reservation Lands",
+   "at": "2026-08-18T14:42:28+00:00",
+   "by": "news_judge",
+   "note": "score 2/10: National story about Oklahoma tribal land with no Michigan angle or relevance to Michigan's data center buildout."
   }
  ],
  "auto_published": [
@@ -3075,6 +3075,12 @@
    "title": "Coldwater residents get first look at data center plans and risks",
    "judge_score": 6,
    "at": "2026-08-18T09:42:05Z"
+  },
+  {
+   "url": "https://wtvbam.com/2026/08/18/971643/",
+   "title": "Coldwater Mayor Says No Interest in Data Center Over Water and Power Use",
+   "judge_score": 8,
+   "at": "2026-08-18T14:42:28Z"
   }
  ]
 }
