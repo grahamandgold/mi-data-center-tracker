@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-18T10:38:07+00:00",
+ "updated_at": "2026-08-18T11:33:38+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -203,6 +203,20 @@
   "accuracy": "checked"
  },
  "meetings": [
+  {
+   "iso": "2026-08-18",
+   "body": "Morley Village Council",
+   "topic": "Data center proposal for Morley dam site",
+   "region": "West Michigan",
+   "regionKey": "west",
+   "county": "Mecosta",
+   "time": "7:00 PM",
+   "status": "Board meeting",
+   "urgent": true,
+   "link": "https://www.facebook.com/groups/1440945756997286/posts/1690375618720964/",
+   "linkLabel": "Meeting Notice",
+   "stream": null
+  },
   {
    "iso": "2026-08-18",
    "body": "Ypsilanti Township Board of Trustees",

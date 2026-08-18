@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RdW13UlI2UTREWGZ2VmhoMVZuMVVrNldsRjVkOUJpMnpUcEhSMjBPcEczRmNiOGRiWWsySnhEaWlSQldPNjJ3Y1o1b2tFNGJTZWlCR3J4LU1RR1AyMmdqMEZoMkRubVN3Z1E?oc=5",
-   "title": "Pittsfield Township tightens data center zoning to shield nearby homes",
-   "at": "2026-08-06T12:28:56+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Already live: 'Pittsfield Township tightens data center zoning to curb sprawl' covers this exact zoning action."
-  },
-  {
-   "url": "https://www.notus.org/energy/trump-is-losing-the-battle-with-public-opinion-on-data-centers",
-   "title": "Trump administration approves data center on federal land in Boulder City without local input or full environmental review",
-   "at": "2026-08-06T14:57:46+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece about federal land and Trump administration policy, not a Michigan development."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdjJua1JPZjlyelRYWjFOSmVleHpGVGE2UGdHaHR6Sm42eFhSWThDTGtiR19ROEZud29nNkJHUEtFYkdoQUp6eFVGcGJ3MnlnUHpLSXZhR01ERjAzNDh6clE0bXp0aHRISUpqcVU3TEdyWDhhMWRCX1VZRkJsN0ZRV1dlazJBT2lIY2psZE4zanBKRnVYNWNwR2o1YmU0YlVJNjB3YWd2cVpobVNGLWk2Tk5mUjQwSFhfbkRUZnk3SEkxVXPSAdcBQVVfeXFMUEc3c3lveHpMOWtFN083MkhmTVlET285alBoRWp2anFUQkkyNnMwUnNEcHpmWTM1eEM5czB6YUhwc1IwNVBySWdab1ZhazU3d0MxWlFqZHNsM1JHZ0pPMC0xTm94NEtHUlA3blFMclFUWFNRMzE3Mk1SSVBTT3Z6d2phbkdlNnJzbncxVTdNQ0RONlJDTkh6aHozeVdfVXlEMV9zNm93MnNBc2M3QkE0OVZHOUFHNGFrX1J6dC03MzVXVzdnQWlmR21Fb2pueUU3ZjlZNFVPQkk?oc=5",
    "title": "Microsoft facility threatens Kent County water bills as town delays rate decision",
    "at": "2026-08-06T14:57:46+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-18T10:38:26+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Reports the same Kalamazoo moratorium vote already covered in multiple live stories."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTVhrUFpqeDJTQ1ZkeGdhRXc1R3lqdllVenNzeDRDUmVFN1dQSVo2RFhmV0ZSX08tVF9mZkNPTnNQS2E5M3pNRzN1eUJrMkRzTGFMV2NScVltUnZsVUdFUm9xcTJrVmNLaEFMYlVtUlJGclFCNHg5d3o2U0pNcFY2LTRGaGt4UzJkRTd3VWV1MjA4T1JHQ2fSAaoBQVVfeXFMTXZIZ05CZFpNMGFDbkQtOWNMbFhlcTVyMjR1SldxUkVTSlZUcGNTeDBoTmxoMGtxM3dxQXdCdi1zOVpfV1JkdE42YUhBRHZ3cFRSTC1qM0lIcUhmYzViQlBla25HTDhFb3BkTm5Ua0ZaUHYzN1hUeHRabHAxcWlnZEczczdlX3FENEpMZmQ0dllwRXI3czZtakV4TGk3cGZZSFBZZTY2Zkh1dXc?oc=5",
+   "title": "Mason council OKs outreach plan before any data center arrives",
+   "at": "2026-08-18T11:33:42+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicates the already-live story 'Mason City Council Approves Outreach Plan for Potential Data Center Projects' — same council action, same outreach plan."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BZ0N5RnhNWU1IcGJCTFlfcExMZ1JYWW8tNmJMdGExWjk1a2dWTjFzU1RQOWFtNVFpZnVMSno5Yk5aQjEyU0RUY2ptNENJcktmRW5J?oc=5",
+   "title": "Kalamazoo enacts yearlong freeze on new data centers and battery plants",
+   "at": "2026-08-18T11:33:42+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicates the already-live story 'Kalamazoo blocks new data centers and battery plants for a full year' — same moratorium approval, just reworded."
   }
  ],
  "auto_published": [
