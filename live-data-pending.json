@@ -1,7 +1,25 @@
 {
- "updated_at": "2026-08-18T18:51:24+00:00",
+ "updated_at": "2026-08-18T19:34:21+00:00",
  "generator": "grok-wire-agent",
  "items": [
+  {
+   "iso": "2026-08-17T12:00:00+00:00",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "tag": "Policy",
+   "title": "Communities Across Michigan Expand Data Center Moratoriums Covering Over 1,500 Square Miles",
+   "dek": "Local governments continue pausing new proposals as opposition grows over energy demands, water use and community impacts; MLive analysis highlights the scale equivalent to Rhode Island.",
+   "source": "MLive",
+   "url": "https://www.mlive.com/news/detroit/2026/08/a-michigan-town-is-fighting-back-against-data-centers-residents-say-its-giving-them-hope.html",
+   "breaking": false,
+   "lead": false,
+   "id": "2f90de810b44",
+   "kind": "national",
+   "filed_at": "2026-08-18T19:34:21+00:00",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6,
+   "judge_note": "MLive analysis aggregating the cumulative scale of Michigan moratoriums is incremental/contextual rather than reporting a new decision, but the 1,500-square-mil"
+  },
   {
    "iso": "2026-08-26T12:00:00+00:00",
    "region": "statewide",
@@ -49,5 +67,5 @@
    "judge_note": "Document-based agenda preview for an upcoming Aug. 21 board meeting on a data center project, though location unspecified."
   }
  ],
- "accuracy_checked_at": "2026-08-18T18:51:24+00:00"
+ "accuracy_checked_at": "2026-08-18T19:34:22+00:00"
 }
