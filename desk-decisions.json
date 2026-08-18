@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.cbsnews.com/texas/video/westlake-data-center-plan-advances-after-hours-of-emotional-testimony/",
-   "title": "Westlake Planning Commission Advances Controversial Data Center Proposal After Public Testimony",
-   "at": "2026-08-06T00:55:53+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: Texas planning commission vote is a national story with no Michigan connection, falling into the 'national trend piece' category that Michigan readers tracking "
-  },
-  {
-   "url": "https://www.aol.com/articles/paulding-county-approves-data-center-030732000.html",
-   "title": "Paulding County Pauses Data Centers Until 2027 After Resident Protests",
-   "at": "2026-08-06T10:13:55+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: Georgia county moratorium is a national trend piece with no Michigan connection."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSDhFR2lJdjhTV2pWWDBFQlJORl9DY1RqMUdzNVRTRFo0MkZrTXlkWDNXbW5EdnpCX3dmNk5EX2l3cmV0dzJJY2lMTGMtdGJfVm1LR3pTTEFfN1plRHVFd1NaVWxEbDRaRklIZjZ1MXJXUGloeVlET0hEM0dNTnB6X1BGS2dqOWZ1dUtRdUZXNFRxaldXSk1qTkhqVVNWWmJTVjJERnRlV0V5c296THpkWlJhWmVXdUJzZXRqZ1daUnJrYXcyZ3R1eDVlQzhLdlZJTS04?oc=5",
    "title": "Rural Michigan residents block data center after grassroots push",
    "at": "2026-08-06T10:13:55+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-18T08:48:32+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece about Texas grid reviews with no Michigan-specific angle, development, or impact."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOGRNQzI5OFFCS1FnRVdxc0M5Y0JpalRidGE4RUNJdml6bE9tRXoyUUxIRkszb0hHeVc3VGJZOXVyQUtKSlYtdkdiVmpDX0Y1clZZN3FBMDhVMmZJbVc3YTIyakItY01TWHowVmtYYnYybUlUdkQ1MFZINkRjdEM4akxibzJvYWhJMkl6TkVvbHRqRkJMbHhxNHVrT1hhc213YmNKbmpDZ1Y3NlJqakJhdzVxTXBhVDNFQjdkaXNmM2FyY2wtTVI0elBvb0xydkVXME53NE9KYw?oc=5",
+   "title": "Why Michigan towns are suddenly in the crosshairs for data center developers",
+   "at": "2026-08-18T09:42:05+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Explainer/trend piece on why Michigan attracts data centers—no specific decision, filing, or development."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa3JnR2tYVVkzZWUtY3VQUGpZSTIwY0JUWGJxWW50YTJBYTZnS1B5cU81Y3paRnBOVjdybHJnUW9XUjBqNnNjLUJvSm5GeUllZldMZ1lZSlJIc01JX1NXbWZzZlpGU1ByZ2FpZU5lc0RxVnVaQlpicmg4VHd2am01eFJnWW90UDZlR1hBZF82dlRjcXVwcWVCbVFsTkRGQkJVOTdCYnY1cFRiMkRu?oc=5",
+   "title": "Detroit chamber spells out real costs and payoffs of data centers for Michigan towns",
+   "at": "2026-08-18T09:42:05+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Town hall recap providing general information but no concrete action, vote, or official decision reported."
   }
  ],
  "auto_published": [
@@ -3069,6 +3069,12 @@
    "title": "Mason residents push back on data center plan at packed council meeting",
    "judge_score": 6,
    "at": "2026-08-18T04:44:36Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ITmJjZHJFRDBiR0RwS2duQ21uZ2ZXVERXRFVzTHp5M3RDSFEzSGU4V3lQODkzRkpJSl9TNGNnT3l2S1RKYUpBWHhBX3BkUQ?oc=5",
+   "title": "Coldwater residents get first look at data center plans and risks",
+   "judge_score": 6,
+   "at": "2026-08-18T09:42:05Z"
   }
  ]
 }

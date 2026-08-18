@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-18T08:48:22+00:00",
+ "updated_at": "2026-08-18T09:42:05Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Coldwater residents get first look at data center plans and risks",
+   "dek": "City officials in Coldwater held an informational session to lay out what data centers could mean for local power use, water demand and tax revenue. Branch County residents now have concrete numbers on potential jobs versus infrastructure strain. The meeting comes as more developers eye southwest Michigan sites.",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ITmJjZHJFRDBiR0RwS2duQ21uZ2ZXVERXRFVzTHp5M3RDSFEzSGU4V3lQODkzRkpJSl9TNGNnT3l2S1RKYUpBWHhBX3BkUQ?oc=5",
+   "source": "wtvbam.com",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Branch",
+   "tag": "Local Government",
+   "iso": "2026-08-18T09:02:33Z",
+   "id": "08c96dd9b56b",
+   "origin": "google-news",
+   "source_title": "Coldwater city officials hold informational meeting on data centers - wtvbam.com",
+   "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ITmJjZHJFRDBiR0RwS2duQ21uZ2ZXVERXRFVzTHp5M3RDSFEzSGU4V3lQODkzRkpJSl9TNGNnT3l2S1RKYUpBWHhBX3BkUQ?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
   {
    "title": "Kalamazoo blocks new data centers and battery plants for a full year",
    "dek": "The city enacted the moratorium after residents raised alarms over noise, power strain and water use. The one-year pause gives officials time to write permanent zoning rules that could limit where these facilities can locate. Kalamazoo joins other Michigan communities trying to slow the rapid spread of large-scale data projects.",
@@ -169,21 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RazdBSU1qaWxMTHJZdjhUNnpMY3NCcVZTeWcxUXJ6UUZobG1tSVRlYkxwSnl5Tmh5Rkg1YTFYY0NtRTJDMmZza2VoZUtKU0RFUzdN?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
-  },
-  {
-   "iso": "2026-08-17T09:00:00+00:00",
-   "region": "mid",
-   "cat": "Branch Co.",
-   "tag": "Local Government",
-   "title": "Coldwater Officials Hold First Joint Meeting on Data Center Zoning and Regulation",
-   "dek": "City Council, Planning Commission and Board of Public Utilities convene tonight for an informational session on managing potential data center development, though no proposals are currently active in the area.",
-   "source": "WTVB",
-   "url": "https://wtvbam.com/2026/08/17/971324/",
-   "breaking": false,
-   "lead": true,
-   "id": "3492590020c2",
-   "accuracy": "checked",
-   "judge_score": 7
   }
  ],
  "national": {
