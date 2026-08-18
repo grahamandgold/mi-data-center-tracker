@@ -1,7 +1,41 @@
 {
- "updated_at": "2026-08-18T01:44:04+00:00",
+ "updated_at": "2026-08-18T03:04:18Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Mason residents get city updates on nearby data center plans",
+   "dek": "Mason City Council approved a communication plan to keep residents informed about data center proposals. The move comes as opposition grows to a project near the city. Local taxpayers could see impacts on power rates and services if large facilities move forward.",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTVhrUFpqeDJTQ1ZkeGdhRXc1R3lqdllVenNzeDRDUmVFN1dQSVo2RFhmV0ZSX08tVF9mZkNPTnNQS2E5M3pNRzN1eUJrMkRzTGFMV2NScVltUnZsVUdFUm9xcTJrVmNLaEFMYlVtUlJGclFCNHg5d3o2U0pNcFY2LTRGaGt4UzJkRTd3VWV1MjA4T1JHQ2c?oc=5",
+   "source": "WILX",
+   "region": "mid",
+   "cat": "STATEWIDE",
+   "county": "Ingham",
+   "tag": "Local Government",
+   "iso": "2026-08-18T02:52:00Z",
+   "id": "df828eb63e60",
+   "origin": "google-news",
+   "source_title": "Mason City Council approves data center communication plan - WILX",
+   "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTVhrUFpqeDJTQ1ZkeGdhRXc1R3lqdllVenNzeDRDUmVFN1dQSVo2RFhmV0ZSX08tVF9mZkNPTnNQS2E5M3pNRzN1eUJrMkRzTGFMV2NScVltUnZsVUdFUm9xcTJrVmNLaEFMYlVtUlJGclFCNHg5d3o2U0pNcFY2LTRGaGt4UzJkRTd3VWV1MjA4T1JHQ2c?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
+  {
+   "title": "Nessel fights to close Campbell plant despite data center power needs",
+   "dek": "Michigan AG Dana Nessel is challenging the latest federal order keeping the Campbell coal plant running. Data centers are driving up electricity demand across the state. Keeping the plant open longer means continued emissions and costs for ratepayers.",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdUMyZDZMNU83Sjk0VFdBRmwwN3lfNE92YU8taDZMMnZ6Q01wb2UtTXpQVXlRaTJ5VXJCSDFHQWQ4YXM3OGRZaGtwNU0xbGNZWDBYYXV6a0s2dUtLRTJfX2xuSjhRNEoxLXZ2Q2RzUGVqb094YTFJVkJ1RFBYbmtNRjJKSWFDN3MxaXN3SWRSakh4ZjJvR1piQU4xdFBDb245U0ladzNiaVhiVjhrYnVlMGxzRm5ybWVIQW83TnJn?oc=5",
+   "source": "Michigan Advance",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Ottawa",
+   "tag": "Power & Grid",
+   "iso": "2026-08-17T23:10:29Z",
+   "id": "5a847e051602",
+   "origin": "google-news",
+   "source_title": "Nessel vows another challenge as DOE issues 6th order keeping Campbell plant open - Michigan Advance",
+   "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdUMyZDZMNU83Sjk0VFdBRmwwN3lfNE92YU8taDZMMnZ6Q01wb2UtTXpQVXlRaTJ5VXJCSDFHQWQ4YXM3OGRZaGtwNU0xbGNZWDBYYXV6a0s2dUtLRTJfX2xuSjhRNEoxLXZ2Q2RzUGVqb094YTFJVkJ1RFBYbmtNRjJKSWFDN3MxaXN3SWRSakh4ZjJvR1piQU4xdFBDb245U0ladzNiaVhiVjhrYnVlMGxzRm5ybWVIQW83TnJn?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "Mason neighbors fight data center over noise, power and water strain",
    "dek": "Residents near Mason are organizing against a proposed data center, citing concerns over constant noise, heavy electricity demand and water use. The project would sit in Ingham County, where local infrastructure and power rates could feel the impact. Michigan readers 30 miles away should watch because similar proposals are surfacing across mid-Michigan townships facing the same trade-offs between jobs and quality of life.",
@@ -150,38 +184,6 @@
    "id": "8217498f50db",
    "accuracy": "checked-rewritten",
    "judge_score": 8
-  },
-  {
-   "title": "Wixom tightens data center rules amid power and water concerns",
-   "dek": "Wixom is advancing new regulations for data centers as residents express concerns over potential impacts on local power, water resources, and noise levels. The move aims to address community worries while accommodating technological growth. This decision could set a precedent for other Michigan towns facing similar challenges.",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMjdRMUN2eEVZdXdyeEY5Z0pFR2hUOW91ZjhwUTQtR1d0U1BfYS1iUHMwYWd5bEdZQjNmYjQ0Znl0SkVSTVF5UzF6YjVhRmpsQW95RHFfdW5ubWFIYUdNRHBYTUNkaUJGYnJacXlmSlZwQkVrVElWVzRtZ195M3lPdDR1UjdCNFZXa0t5bUg3X2pPMENCT1FTQ2p0WWVTOU1tRjB2TWZlUUxJSkZIdzdmOUh6eWR5aHBGQnI4WHBTaFFwWll2M3N4RFdVQ1RYdjJHcDRheDBjekphM28?oc=5",
-   "source": "sustainableconstruction-now.com",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Oakland",
-   "tag": "Local Government",
-   "iso": "2026-08-16T12:26:10Z",
-   "id": "0174948e63bc",
-   "origin": "google-news",
-   "source_title": "Wixom, Michigan, advances data center rules as worries grow over power, water, and noise - sustainableconstruction-now.com",
-   "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMjdRMUN2eEVZdXdyeEY5Z0pFR2hUOW91ZjhwUTQtR1d0U1BfYS1iUHMwYWd5bEdZQjNmYjQ0Znl0SkVSTVF5UzF6YjVhRmpsQW95RHFfdW5ubWFIYUdNRHBYTUNkaUJGYnJacXlmSlZwQkVrVElWVzRtZ195M3lPdDR1UjdCNFZXa0t5bUg3X2pPMENCT1FTQ2p0WWVTOU1tRjB2TWZlUUxJSkZIdzdmOUh6eWR5aHBGQnI4WHBTaFFwWll2M3N4RFdVQ1RYdjJHcDRheDBjekphM28?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
-  },
-  {
-   "iso": "2026-08-16T12:00:00+00:00",
-   "region": "mid",
-   "cat": "Ingham Co.",
-   "tag": "Local Government",
-   "title": "Mason City Council to Resume Debate on Nearby Data Center Proposal and Noise Ordinance",
-   "dek": "Council members will discuss a proposed hyperscale facility in Vevay Township and potential amendments to a citizen-initiated noise ordinance at Monday's meeting.",
-   "source": "WKAR",
-   "url": "https://www.wkar.org/wkar-news/2026-08-16/what-roths-watching-jackson-personal-property-ordinance-data-center-debate-returns-to-mason-and-more",
-   "breaking": false,
-   "lead": false,
-   "id": "01fcff4cae2a",
-   "accuracy": "checked",
-   "judge_score": 6
   }
  ],
  "national": {
@@ -198,6 +200,33 @@
   "id": "02d7912fe03d",
   "accuracy": "checked"
  },
- "meetings": [],
+ "meetings": [
+  {
+   "iso": "2026-08-18",
+   "body": "Ypsilanti Township Board of Trustees",
+   "topic": "Vote on six-month moratorium on power transmission infrastructure for data centers",
+   "region": "SE Michigan",
+   "regionKey": "metro",
+   "county": "Washtenaw",
+   "time": "6:00 PM",
+   "status": "Board meeting",
+   "urgent": true,
+   "link": "https://ypsitownship.org/government/boards___commissions/board_of_trustees/agendas___minutes.php",
+   "linkLabel": "Agenda"
+  },
+  {
+   "iso": "2026-08-18",
+   "body": "Village of Morley Board",
+   "topic": "Data center proposal discussion and vote",
+   "region": "West Michigan",
+   "regionKey": "west",
+   "county": "Mecosta",
+   "time": "7:00 PM",
+   "status": "Board meeting",
+   "urgent": true,
+   "link": "https://ow.ly/X8o550WIls8",
+   "linkLabel": "Agenda"
+  }
+ ],
  "accuracy_checked_at": "2026-07-08T08:45:16+00:00"
 }
