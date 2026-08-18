@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-18T19:34:21+00:00",
+ "updated_at": "2026-08-18T19:53:47+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -240,6 +240,20 @@
    "urgent": true,
    "link": "https://ow.ly/X8o550WIls8",
    "linkLabel": "Agenda"
+  },
+  {
+   "iso": "2026-08-19",
+   "body": "City of Ypsilanti Planning Commission",
+   "topic": "Public hearing and recommendation on zoning text amendment establishing definitions, standards and locations for data centers including noise, water, energy and decommissioning rules",
+   "region": "SE Michigan",
+   "regionKey": "metro",
+   "county": "Washtenaw",
+   "time": "6:30 PM",
+   "status": "Planning commission",
+   "urgent": true,
+   "link": "https://cityofypsilanti.com/CivicAlerts.aspx?AID=2736",
+   "linkLabel": "Agenda",
+   "stream": ""
   }
  ],
  "accuracy_checked_at": "2026-07-08T08:45:16+00:00"

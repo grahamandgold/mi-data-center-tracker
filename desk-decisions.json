@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.aol.com/articles/detroit-weighs-data-center-rules-171847000.html",
-   "title": "Detroit Report: Hyperscale Data Centers Would Need Major New Power Lines or Own Plant",
-   "at": "2026-08-08T00:03:03+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Appears to be a thin rehash of the already-live 'Detroit drafts data center rules after report flags power strain' — same city report, same power/water cost con"
-  },
-  {
    "url": "https://www.cbsnews.com/news/nevada-data-center-lawsuit-ai-energy-costs/",
    "title": "Nevada Utility Sues Tract to Keep Data Center Power Costs Off Ratepayers",
    "at": "2026-08-08T00:03:03+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-18T17:58:30+00:00",
    "by": "news_judge",
    "note": "score 5/10: Expert analysis claiming projects are being dropped but lacks specifics on which operators, which sites, or documentary evidence."
+  },
+  {
+   "url": "https://www.wnem.com/video/2026/08/17/franklin-county-data-center-project-dropped/",
+   "title": "Franklin County drops proposed data center project",
+   "at": "2026-08-18T19:53:50+00:00",
+   "by": "news_judge",
+   "note": "score 2/10: National story about Franklin County (not Michigan-specific, unclear which state) with vague details about an abandoned project—lacks concrete Michigan relevanc"
   }
  ],
  "auto_published": [
