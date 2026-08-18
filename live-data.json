@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-18T03:54:04Z",
+ "updated_at": "2026-08-18T04:44:36Z",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -20,6 +20,23 @@
    "judge_score": 9
   },
   {
+   "title": "Mason residents push back on data center plan at packed council meeting",
+   "dek": "Neighbors voiced worries about noise, traffic and electricity costs from a proposed facility near the city. The council responded by approving a public communication plan instead of moving straight to approvals. The debate shows how even smaller Michigan towns are now facing big-tech development pressure.",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOXc1UnRObmhpS1BxS1dnZ1V2WmhJVk9xMy1qQzJDS0RLREJQclJyUmtrOEV3TTgzSGtqeVpXOG5SZDQ2dURNMW1jVVJrRDFvYlBMX0ZVLVItZWRsa3Jhalg2QzctblBWLWIyZFdDS0dVa0tiNDNIOWhVbGVmbU5qc0c0MWp4QXJodWNFV1BmdzFDTkZKSjFQYnRGN0tiaklj0gGmAUFVX3lxTE90RThQSUNxWkxxNEZyeVhEeUhMT0xoNjBoWWdaMVN2dnE1VVlHMWRhMFFNa3RMQ0h4MV9uOXRGZ05oSzdMZUN2Slg4X2czZ3Z2SkpBMlBzWkJSWVE3d1dCMElhTlRHc1lYdjBQVzBXTDFSYjM1ZzlhWm9iUHRUTHYzMVBLZFBxZ0tfbU04VXhTYW40LVZkdllrR29Db00xTFBldW1fX0E?oc=5",
+   "source": "WLNS 6 News",
+   "region": "mid",
+   "cat": "STATEWIDE",
+   "county": "Ingham",
+   "tag": "Local Government",
+   "iso": "2026-08-18T03:07:58Z",
+   "id": "b18715a6f243",
+   "origin": "google-news",
+   "source_title": "Residents speak out against data center at Mason City Council meeting - WLNS 6 News",
+   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOXc1UnRObmhpS1BxS1dnZ1V2WmhJVk9xMy1qQzJDS0RLREJQclJyUmtrOEV3TTgzSGtqeVpXOG5SZDQ2dURNMW1jVVJrRDFvYlBMX0ZVLVItZWRsa3Jhalg2QzctblBWLWIyZFdDS0dVa0tiNDNIOWhVbGVmbU5qc0c0MWp4QXJodWNFV1BmdzFDTkZKSjFQYnRGN0tiaklj0gGmAUFVX3lxTE90RThQSUNxWkxxNEZyeVhEeUhMT0xoNjBoWWdaMVN2dnE1VVlHMWRhMFFNa3RMQ0h4MV9uOXRGZ05oSzdMZUN2Slg4X2czZ3Z2SkpBMlBzWkJSWVE3d1dCMElhTlRHc1lYdjBQVzBXTDFSYjM1ZzlhWm9iUHRUTHYzMVBLZFBxZ0tfbU04VXhTYW40LVZkdllrR29Db00xTFBldW1fX0E?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
+  {
    "title": "Mason residents get city updates on nearby data center plans",
    "dek": "Mason City Council approved a communication plan to keep residents informed about data center proposals. The move comes as opposition grows to a project near the city. Local taxpayers could see impacts on power rates and services if large facilities move forward.",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTVhrUFpqeDJTQ1ZkeGdhRXc1R3lqdllVenNzeDRDUmVFN1dQSVo2RFhmV0ZSX08tVF9mZkNPTnNQS2E5M3pNRzN1eUJrMkRzTGFMV2NScVltUnZsVUdFUm9xcTJrVmNLaEFMYlVtUlJGclFCNHg5d3o2U0pNcFY2LTRGaGt4UzJkRTd3VWV1MjA4T1JHQ2c?oc=5",
@@ -35,6 +52,21 @@
    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTVhrUFpqeDJTQ1ZkeGdhRXc1R3lqdllVenNzeDRDUmVFN1dQSVo2RFhmV0ZSX08tVF9mZkNPTnNQS2E5M3pNRzN1eUJrMkRzTGFMV2NScVltUnZsVUdFUm9xcTJrVmNLaEFMYlVtUlJGclFCNHg5d3o2U0pNcFY2LTRGaGt4UzJkRTd3VWV1MjA4T1JHQ2c?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
+  },
+  {
+   "iso": "2026-08-18T02:00:00Z",
+   "region": "mid",
+   "cat": "Ingham Co.",
+   "tag": "Local Government",
+   "title": "Mason City Council Approves Outreach Plan for Potential Data Center Projects",
+   "dek": "The council unanimously passed the Mason Connect plan Monday night, scheduling a Sept. 14 town hall and neighborhood meetings to update residents on any future data center proposals amid strong public opposition during comment.",
+   "source": "WILX",
+   "url": "https://www.wilx.com/2026/08/18/mason-city-council-approves-data-center-communication-plan/",
+   "breaking": false,
+   "lead": true,
+   "id": "3da6ece02dae",
+   "accuracy": "social-post",
+   "judge_score": 7
   },
   {
    "title": "Nessel fights to close Campbell plant despite data center power needs",
@@ -151,40 +183,6 @@
    "lead": true,
    "id": "3492590020c2",
    "accuracy": "checked",
-   "judge_score": 7
-  },
-  {
-   "title": "Marshall drops charges after threats tied to data center fight",
-   "dek": "Calhoun County officials say no one will face charges over threats made during heated debates on a proposed data center. The decision comes as the city council weighs tax breaks and power upgrades for the project. Local residents worry about rising utility bills and industrial noise.",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wM3dvdjBMbHE0eEdWQkNNem5mQVRVX1Z1aEh6Q29ja3VQcGNNVlllTEIzTzlVdXF6MEZfY2JVdC1SQTNMSFNZUVI4LUtsUQ?oc=5",
-   "source": "WTVB",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Calhoun",
-   "tag": "Local Government",
-   "iso": "2026-08-17T08:21:10Z",
-   "id": "9260d3386e34",
-   "origin": "google-news",
-   "source_title": "Marshall Police say no charges will be filed in threats to city council, urge civility - WTVB",
-   "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wM3dvdjBMbHE0eEdWQkNNem5mQVRVX1Z1aEh6Q29ja3VQcGNNVlllTEIzTzlVdXF6MEZfY2JVdC1SQTNMSFNZUVI4LUtsUQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
-  },
-  {
-   "title": "Branch County cities to hash out data center rules Monday",
-   "dek": "Two local governments in Branch County will hold a joint session to discuss how to handle incoming data center proposals. Residents 30 miles away could see new rules on power use and noise if the talks produce changes. The meeting comes as utilities and developers eye sites across southern Michigan.",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE55eURxUUI4d04zSVRhX2lpQVZZdlJXTnNxb1pNVmYwY3hpUTFZczJrTXFLZnlnSFZuTThmdTZnZUwtbkFXNnA4b1VoRTI2UQ?oc=5",
-   "source": "WTVB",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Branch",
-   "tag": "Local Government",
-   "iso": "2026-08-17T08:07:00Z",
-   "id": "b7d548f538a5",
-   "origin": "google-news",
-   "source_title": "Joint city meeting on data centers set for Monday evening - WTVB",
-   "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE55eURxUUI4d04zSVRhX2lpQVZZdlJXTnNxb1pNVmYwY3hpUTFZczJrTXFLZnlnSFZuTThmdTZnZUwtbkFXNnA4b1VoRTI2UQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
   }
  ],

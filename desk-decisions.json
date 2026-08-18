@@ -1,27 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.npr.org/2026/08/04/nx-s1-5918063/the-role-of-data-centers-in-the-democratic-primaries",
-   "title": "Data Centers Emerge as Flashpoint in Michigan Democratic Primaries",
-   "at": "2026-08-05T12:25:45+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece rehashing already-covered primary dynamics without reporting a new debate, poll, filing, or candidate statement."
-  },
-  {
-   "url": "https://www.reuters.com/world/trump-administration-drafting-ban-chinese-data-center-devices-sources-say-2026-08-04/",
-   "title": "Trump Administration Drafts Ban on New Chinese Data Center Components",
-   "at": "2026-08-05T16:48:21+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: National policy story with Michigan implications but no Michigan-specific action or decision yet."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTGw2SVRRMk1mcXUtdlhNbGE5bTNqQ0ZuaEQ0ck5fZG50UGk0SW1IcHJwOC1oUnhmNlNUZU9MSmlyeENyenhMVXFTOW1BU1JtRG1WYlc5eXVZTE9LRkhkOE00OTZMS2xTM3N1Qk9rbGt2Sl9KalR6dmFNNHBUV2c4SFBkMFBFZnZwX1VWdldmcXl0S0VIQll6cVJHaw?oc=5",
-   "title": "Michigan crypto data center noise prompts resident complaints of nonstop racket",
-   "at": "2026-08-05T16:48:21+00:00",
-   "by": "news_judge",
-   "note": "score 2/10: Appears to rehash the already-killed Dowagiac/crypto noise story without a new development or decision."
-  },
-  {
    "url": "https://bridgemi.com/michigan-government/michigan-democratic-senate-primary-results-abdul-el-sayed-haley-stevens/",
    "title": "El-Sayed Edges Stevens in Michigan Senate Primary",
    "at": "2026-08-05T22:18:20+00:00",
@@ -1399,6 +1378,27 @@
    "at": "2026-08-18T03:04:18+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece bundling Michigan complaints with broader pushback; no specific Michigan lawsuit, filing, or decision identified."
+  },
+  {
+   "url": "https://www.shorelinemedia.net/ludington_daily_news/news/why-data-centers-and-why-michigan/article_aca0ee90-6e45-4c29-8c98-4dd54947e8e1.html",
+   "title": "Report Examines Why Data Centers Are Targeting Michigan Communities",
+   "at": "2026-08-18T04:44:36+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Explanatory series on why Michigan attracts data centers is a trend/background piece without a specific decision or event."
+  },
+  {
+   "url": "https://example.com/none",
+   "title": "No major non-Michigan data center developments reported in the last 24 hours",
+   "at": "2026-08-18T04:44:36+00:00",
+   "by": "news_judge",
+   "note": "score 1/10: Explicit non-news placeholder with no Michigan relevance."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTmpsTUtITGpUcmw0eG44YWx0elpVeWsxeVdpZ19XWUM1eWZCWmtVMUlaUS1Vak8wNmJqNHVfVmdLSndRN0hKSzRTNi0ydzFNbXpDZUhxX3VnelFQdkxNTWFVUWtaQ1JuV0UyN2dzQjZPYi1JSkU2bFlHa0RQNzY4c1lYaElrX2NqcTlMaHBqQkNJV1VVLUtVSUtyTFl4Nl9IRVZCZU5FSkUtWXJXektQdFpxQzBCTTdPRnZNNUx3T3VrbXdOYV9IWFE0eFVRXzI2RXFCM25ROFN0OGtqbXhyRDlFQTBmY2h5Q2pocE5Mbw?oc=5",
+   "title": "Kalamazoo halts all new data centers and battery plants for a year",
+   "at": "2026-08-18T04:44:36+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Reports the same Kalamazoo moratorium approval already live in the queue."
   }
  ],
  "auto_published": [
@@ -3057,6 +3057,18 @@
    "title": "Kalamazoo blocks new data centers and battery plants for a full year",
    "judge_score": 9,
    "at": "2026-08-18T03:54:04Z"
+  },
+  {
+   "url": "https://www.wilx.com/2026/08/18/mason-city-council-approves-data-center-communication-plan/",
+   "title": "Mason City Council Approves Outreach Plan for Potential Data Center Projects",
+   "judge_score": 7,
+   "at": "2026-08-18T04:44:36Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOXc1UnRObmhpS1BxS1dnZ1V2WmhJVk9xMy1qQzJDS0RLREJQclJyUmtrOEV3TTgzSGtqeVpXOG5SZDQ2dURNMW1jVVJrRDFvYlBMX0ZVLVItZWRsa3Jhalg2QzctblBWLWIyZFdDS0dVa0tiNDNIOWhVbGVmbU5qc0c0MWp4QXJodWNFV1BmdzFDTkZKSjFQYnRGN0tiaklj0gGmAUFVX3lxTE90RThQSUNxWkxxNEZyeVhEeUhMT0xoNjBoWWdaMVN2dnE1VVlHMWRhMFFNa3RMQ0h4MV9uOXRGZ05oSzdMZUN2Slg4X2czZ3Z2SkpBMlBzWkJSWVE3d1dCMElhTlRHc1lYdjBQVzBXTDFSYjM1ZzlhWm9iUHRUTHYzMVBLZFBxZ0tfbU04VXhTYW40LVZkdllrR29Db00xTFBldW1fX0E?oc=5",
+   "title": "Mason residents push back on data center plan at packed council meeting",
+   "judge_score": 6,
+   "at": "2026-08-18T04:44:36Z"
   }
  ]
 }
