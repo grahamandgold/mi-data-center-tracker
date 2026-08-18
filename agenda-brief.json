@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-18T10:04:25+00:00",
+ "generated_at": "2026-08-18T20:44:59+00:00",
  "for_dates": [
   "2026-08-18",
   "2026-08-19"
@@ -9,8 +9,15 @@
    "iso": "2026-08-18",
    "time": "7:00 PM",
    "meeting": "Village of Morley Board",
-   "bullet": "Morley board to hear data center presentation Thursday with no project details yet public.",
+   "bullet": "Morley agenda lists data center project item but withholds size, cost and impact details.",
    "link": "https://ow.ly/X8o550WIls8"
+  },
+  {
+   "iso": "2026-08-19",
+   "time": "6:30 PM",
+   "meeting": "City of Ypsilanti Planning Commission",
+   "bullet": "Ypsilanti Planning Commission holds public hearing Aug. 19, 2026 on zoning text amendment creating data center definitions, use tables and standards for noise, water and energy eff",
+   "link": "https://cityofypsilanti.com/CivicAlerts.aspx?AID=2736"
   }
  ]
 }
