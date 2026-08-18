@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://usdatacenterprojects.com/colorado/lochbuie-colorado-passes-five-year-data-center-moratorium",
-   "title": "Colorado Town Approves Five-Year Data Center Ban With No Projects Pending",
-   "at": "2026-08-07T17:07:27+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: Colorado town action with no Michigan connection and no active project threat makes this a thin national trend piece for Michigan readers."
-  },
-  {
    "url": "https://dailyenergyinsider.com/data-centers/",
    "title": "Michigan Plan Requires Data Centers to Pay Full Construction Costs",
    "at": "2026-08-07T20:09:34+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-18T15:40:09+00:00",
    "by": "news_judge",
    "note": "score 1/10, duplicate: Exact duplicate of already-killed item reporting no national developments."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQV2c1Z0RpbEo1dEduWElKUjVEMkIzR1o2TlJ5emJ1YzhvSHk5dnh3UnQzMWtkSjBGRTVzM2NhU0xpX0RjeGVTbzhsbVM5d2VMZTFnQzI0WHBvNW9XZW1BanAwNjRMLXU3Sl8wMFdXTDZoU3hjekJHZDRVTjRVelZhby11Z0M4RzY3b1lhVEZRMGJXRXd1SnM2eHU2aUxtTEpaT3ZDT2ttNzczMURCUnlBZm0yUHlkcm9kcDAxSzgtendzX3o2aEpvNU9seDJrbjkySVF3cGxzbl8?oc=5",
+   "title": "Mason residents get first look at data center plans at town hall",
+   "at": "2026-08-18T17:35:37+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: Duplicate of already-live 'Mason residents get city updates on nearby data center plans' — same town hall event, just reworded."
   }
  ],
  "auto_published": [

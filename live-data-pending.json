@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-18T17:01:54+00:00",
+ "updated_at": "2026-08-18T17:35:37+00:00",
  "generator": "grok-wire-agent",
  "items": [
   {
@@ -16,7 +16,9 @@
    "accuracy": "checked",
    "id": "8b3b99b618e0",
    "kind": "capitol",
-   "filed_at": "2026-08-18T17:01:54+00:00"
+   "filed_at": "2026-08-18T17:01:54+00:00",
+   "judge_score": 7,
+   "judge_note": "Concrete legislative development: Jeremy Moss added as co-sponsor to utility rate bill targeting data centers, a new action on a relevant bill."
   },
   {
    "title": "Data center project files posted for Aug. 21 board agenda",
@@ -47,5 +49,5 @@
    "judge_note": "Document-based agenda preview for an upcoming Aug. 21 board meeting on a data center project, though location unspecified."
   }
  ],
- "accuracy_checked_at": "2026-08-18T16:40:53+00:00"
+ "accuracy_checked_at": "2026-08-18T17:35:33+00:00"
 }
