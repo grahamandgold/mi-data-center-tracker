@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-18T03:04:18Z",
+ "updated_at": "2026-08-18T03:54:04Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Kalamazoo blocks new data centers and battery plants for a full year",
+   "dek": "The city enacted the moratorium after residents raised alarms over noise, power strain and water use. The one-year pause gives officials time to write permanent zoning rules that could limit where these facilities can locate. Kalamazoo joins other Michigan communities trying to slow the rapid spread of large-scale data projects.",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeGtja3ZaclVjdEN5MTBKZUNNNUNzQ3VXUmxpNjlMVUN1d1VkaVBGeGE4Vl9LMEEtY0NaNVA2UE5QVWhrb0ZlSUhTTkM2U1hfckFYMF9xSEtXSDcxZzY1OXF5RXctY0F5YVcxbkRUaFlBNHRSUGJVMjQzMi1MVnRPSnlaVDQ1STBVY21YTmh5aDBVR29xckRJM1ZPUTJBM1dNcEFFNWs4NENReUNGZ2RPbFRhLW1abmlOU0FwZEhOUUNma0J1OG9FSjhOR1N4dzJ2ektwd0VnSW9wMDQtNWhJbS1VendsUTltX01jeg?oc=5",
+   "source": "WZZM13.com",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Kalamazoo",
+   "tag": "Local Government",
+   "iso": "2026-08-18T03:35:00Z",
+   "id": "73f9297973f1",
+   "origin": "google-news",
+   "source_title": "Kalamazoo implements yearlong halt on data centers, battery plants amid community concerns - WZZM13.com",
+   "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeGtja3ZaclVjdEN5MTBKZUNNNUNzQ3VXUmxpNjlMVUN1d1VkaVBGeGE4Vl9LMEEtY0NaNVA2UE5QVWhrb0ZlSUhTTkM2U1hfckFYMF9xSEtXSDcxZzY1OXF5RXctY0F5YVcxbkRUaFlBNHRSUGJVMjQzMi1MVnRPSnlaVDQ1STBVY21YTmh5aDBVR29xckRJM1ZPUTJBM1dNcEFFNWs4NENReUNGZ2RPbFRhLW1abmlOU0FwZEhOUUNma0J1OG9FSjhOR1N4dzJ2ektwd0VnSW9wMDQtNWhJbS1VendsUTltX01jeg?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 9
+  },
   {
    "title": "Mason residents get city updates on nearby data center plans",
    "dek": "Mason City Council approved a communication plan to keep residents informed about data center proposals. The move comes as opposition grows to a project near the city. Local taxpayers could see impacts on power rates and services if large facilities move forward.",
@@ -169,21 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE55eURxUUI4d04zSVRhX2lpQVZZdlJXTnNxb1pNVmYwY3hpUTFZczJrTXFLZnlnSFZuTThmdTZnZUwtbkFXNnA4b1VoRTI2UQ?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "iso": "2026-08-16T14:00:00+00:00",
-   "region": "metro",
-   "cat": "Oakland Co.",
-   "tag": "Local Government",
-   "title": "Wixom Council Backs Zoning Rules to Limit Data Center Noise and Utility Costs",
-   "dek": "The 4-3 vote advances changes during the 180-day moratorium for a proposed 600,000-square-foot project on 54 acres, after residents raised concerns over power demand, water use, and noise that could raise household bills.",
-   "source": "The Cooldown",
-   "url": "https://www.thecooldown.com/green-tech/wixom-michigan-tighten-zoning-data-centers/",
-   "breaking": false,
-   "lead": true,
-   "id": "8217498f50db",
-   "accuracy": "checked-rewritten",
-   "judge_score": 8
   }
  ],
  "national": {
