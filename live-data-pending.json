@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-08-18T10:04:25+00:00",
+ "updated_at": "2026-08-18T10:38:26+00:00",
  "generator": "grok-wire-agent",
  "items": [
   {
-   "title": "Data center proposal reaches Morley board Thursday",
-   "dek": "Village of Morley trustees will hear a presentation on a proposed data center project at their Aug. 21 meeting, with agenda documents dated April 2025 and a separate presentation file posted this week.",
+   "title": "Data center project files posted for Aug. 21 board agenda",
+   "dek": "Agenda includes an April 2025 data center document and a separate presentation file ahead of the meeting.",
    "url": "https://ow.ly/X8o550WIls8",
    "source": "Village of Morley Board agenda",
    "region": "West Michigan",
@@ -15,7 +15,7 @@
    "kind": "agenda",
    "id": "09ec9c812f7d",
    "filed_at": "2026-08-18T10:04:25+00:00",
-   "accuracy": "thin — needs human background",
+   "accuracy": "checked-rewritten",
    "findings": "Agenda lists Item 4a Data Center Project document dated 4-21-25 | Separate Item 4a Data Center Presentation.pdf posted Aug. 25, 2025 | No acreage, megawatt, dollar or abatement figures appear in the public agenda listing | Agenda dated 08/21/2025",
    "perspective": "The board is scheduled to receive the presentation at the Aug. 21 meeting with public comment expected under standard meeting procedures.",
    "documents": [
@@ -25,8 +25,11 @@
     }
    ],
    "depth_score": 3,
-   "extraction_method": "playwright"
+   "extraction_method": "playwright",
+   "headline_rewritten": true,
+   "judge_score": 6,
+   "judge_note": "Document-based agenda preview for an upcoming Aug. 21 board meeting on a data center project, though location unspecified."
   }
  ],
- "accuracy_checked_at": "2026-08-18T09:41:59+00:00"
+ "accuracy_checked_at": "2026-08-18T10:38:22+00:00"
 }

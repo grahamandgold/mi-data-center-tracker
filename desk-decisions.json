@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSDhFR2lJdjhTV2pWWDBFQlJORl9DY1RqMUdzNVRTRFo0MkZrTXlkWDNXbW5EdnpCX3dmNk5EX2l3cmV0dzJJY2lMTGMtdGJfVm1LR3pTTEFfN1plRHVFd1NaVWxEbDRaRklIZjZ1MXJXUGloeVlET0hEM0dNTnB6X1BGS2dqOWZ1dUtRdUZXNFRxaldXSk1qTkhqVVNWWmJTVjJERnRlV0V5c296THpkWlJhWmVXdUJzZXRqZ1daUnJrYXcyZ3R1eDVlQzhLdlZJTS04?oc=5",
-   "title": "Rural Michigan residents block data center after grassroots push",
-   "at": "2026-08-06T10:13:55+00:00",
-   "by": "news_judge",
-   "note": "score 2/10: Vague summary with no specific township, vote, or timeline—reads like generic engagement bait."
-  },
-  {
-   "url": "https://www.politico.com/news/2026/08/05/data-center-foes-win-big-in-tuesdays-primaries-01025481",
-   "title": "Data Center Foes Score Primary Victories in Michigan and Kansas",
-   "at": "2026-08-06T12:28:56+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Rehashes already-live primary victories (Lawrence, data center opponent wins) as a national trend piece without new Michigan developments."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RdW13UlI2UTREWGZ2VmhoMVZuMVVrNldsRjVkOUJpMnpUcEhSMjBPcEczRmNiOGRiWWsySnhEaWlSQldPNjJ3Y1o1b2tFNGJTZWlCR3J4LU1RR1AyMmdqMEZoMkRubVN3Z1E?oc=5",
    "title": "Pittsfield Township tightens data center zoning to shield nearby homes",
    "at": "2026-08-06T12:28:56+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-18T09:42:05+00:00",
    "by": "news_judge",
    "note": "score 4/10: Town hall recap providing general information but no concrete action, vote, or official decision reported."
+  },
+  {
+   "url": "https://www.politico.com/news/magazine/2026/08/02/the-new-luddites-01017824",
+   "title": "Anger over data centers fuels recall efforts and political shifts nationwide",
+   "at": "2026-08-18T10:38:26+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: National trend piece about recall efforts in multiple states lacks Michigan-specific action or decision."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS0t4bkp2d0wyNXdrS1RsNmdKTW5Da3pEQ2FHcnJ3cVQ4NG10c24tTFRaX29PbWw3emxRcmR3OWxWWTNqMUhhNlFLbEtQZ19iTF9GLW1yMy1QQUZHYUx5dDN3RkpCUTc1N2d1VVZ1NDRvbVpnVUxiRkF6V0ktUGpNR1dETG1ob0QzVDdUeVZzWGE2YnpxOWRfZ9IBngFBVV95cUxPcmNmUjVqenIzZ2JVS1FTcGNDTWhKQzZnYlVFbW1jSDZ3LVZzY1g3WE9QWnFYb1E3akVVX1ZuYXR5U003ZXFYNWdYN1RjakNXUkNfZlVLZDVrZTJ2MmRuTlRzR25IbGNlV0Rta1RvcEhaMXhpWmpER2NfdllsTEk5WGlqa2NnNzMzYXpJSEh1VkZkQmVFTlo5bURjVl9Ydw?oc=5",
+   "title": "Kalamazoo halts all new data centers for a year over power and noise fears",
+   "at": "2026-08-18T10:38:26+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Reports the same Kalamazoo moratorium vote already covered in multiple live stories."
   }
  ],
  "auto_published": [
