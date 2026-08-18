@@ -1,26 +1,6 @@
 {
- "updated_at": "2026-08-18T05:37:51+00:00",
+ "updated_at": "2026-08-18T06:57:27+00:00",
  "generator": "grok-wire-agent",
- "items": [
-  {
-   "iso": "2026-08-16T18:00:00+00:00",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "tag": "Power & Grid",
-   "title": "$16B OpenAI-Oracle Data Center Breaks Ground in Saline Township",
-   "dek": "The 1.4-GW campus on 250 acres will add 2,500 union construction jobs and 450 permanent roles while pulling power from existing DTE resources plus project-funded batteries and using less water than an office building.",
-   "source": "Industry Reports",
-   "url": "https://www.enr.com/articles/63087-record-16b-data-center-project-advances-in-michigan",
-   "breaking": false,
-   "lead": false,
-   "id": "aea5d3e8dfcd",
-   "kind": "national",
-   "filed_at": "2026-08-17T03:08:50+00:00",
-   "accuracy": "checked-rewritten",
-   "headline_rewritten": true,
-   "judge_score": 9,
-   "judge_note": "Groundbreaking is a concrete milestone with specific dollar figures, job counts, acreage, and power details for a major Michigan project—this is a decision made"
-  }
- ],
- "accuracy_checked_at": "2026-08-18T05:37:52+00:00"
+ "items": [],
+ "accuracy_checked_at": "2026-08-18T06:57:25+00:00"
 }

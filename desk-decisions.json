@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://bridgemi.com/michigan-government/michigan-democratic-senate-primary-results-abdul-el-sayed-haley-stevens/",
-   "title": "El-Sayed Edges Stevens in Michigan Senate Primary",
-   "at": "2026-08-05T22:18:20+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: General Senate primary result with no data center angle mentioned in the summary; Michigan-relevant but not data-center-tracker material."
-  },
-  {
    "url": "https://www.eenews.net/articles/data-center-foes-win-big-in-tuesdays-primaries/",
    "title": "William Lawrence Wins Michigan House Primary After Campaigning Against Data Center Expansion",
    "at": "2026-08-05T22:18:20+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-18T04:44:36+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Reports the same Kalamazoo moratorium approval already live in the queue."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbUd3RWt1RElBYXA2QlU0WXNBVTg5Nnc4VnRtaUdDQnMxemM0bWVxNkhHOGNmeXI2N0pjT3RqSFdoN0ZfWHpmSWZVdkY2WS0zejFCTE9FMHlfMVNXamY0NkY4NVpKeDFLZUZBemplamI2a2Zlem1NcHF6QW1TVmY5dDVVeC1qZTY2NTJrWUZfai14dTlLUk9LU1M3MEs5MUItWjJoYktad3Qta3pmUlg2VnJCdUxmZjBSTUdpWW0wNlNMdmN2OVBjTjRaWkszT0I0NmQzWTRfVUpsSExBUWFLYU9MaE1ubUpkZ0lNdUtHdkQySGRaUlJNZGx0T3RTUQ?oc=5",
+   "title": "Kalamazoo blocks new data centers and battery plants for a year",
+   "at": "2026-08-18T06:57:27+00:00",
+   "by": "news_judge",
+   "note": "score 10/10, duplicate: This is the exact same moratorium approval already live in the first ALREADY-LIVE item."
   }
  ],
  "auto_published": [
