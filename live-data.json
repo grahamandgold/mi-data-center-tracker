@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-17T23:51:00Z",
+ "updated_at": "2026-08-18T01:44:04+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -198,74 +198,6 @@
   "id": "02d7912fe03d",
   "accuracy": "checked"
  },
- "meetings": [
-  {
-   "iso": "2026-08-17",
-   "body": "Kalamazoo City Commission",
-   "topic": "Vote on resolution for data center moratorium addressing health, safety and welfare impacts",
-   "region": "West Michigan",
-   "regionKey": "west",
-   "county": "Kalamazoo",
-   "time": "7:00 PM",
-   "status": "Board meeting",
-   "urgent": true,
-   "link": "https://kalamazoomi.portal.civicclerk.com/",
-   "linkLabel": "Agenda"
-  },
-  {
-   "iso": "2026-08-17",
-   "body": "Coldwater City Council, Planning Commission and Board of Public Utilities",
-   "topic": "Educational presentation on data center operations and local ordinance considerations",
-   "region": "Mid-Michigan",
-   "regionKey": "mid",
-   "county": "Branch",
-   "time": "5:30 PM",
-   "status": "Board meeting",
-   "urgent": true,
-   "link": "https://www.coldwater.org/agendacenter",
-   "linkLabel": "Agenda",
-   "stream": ""
-  },
-  {
-   "iso": "2026-08-17",
-   "body": "Mason City Council",
-   "topic": "Data center zoning ordinance and noise rules review",
-   "region": "Mid-Michigan",
-   "regionKey": "mid",
-   "county": "Ingham",
-   "time": "6:30 PM",
-   "status": "Board meeting",
-   "urgent": true,
-   "link": "https://www.mason.mi.us/your_government/mayor_and_city_council/agendas_&_minutes.php",
-   "linkLabel": "Agenda"
-  },
-  {
-   "iso": "2026-08-17",
-   "body": "Caledonia Township Planning Commission",
-   "topic": "Data Center Ordinance Discussion",
-   "region": "West Michigan",
-   "regionKey": "west",
-   "county": "Kent",
-   "time": "7:00 PM",
-   "status": "Planning commission",
-   "urgent": false,
-   "link": "https://www.caledoniatownship.org/AgendaCenter/ViewFile/Agenda/_08172026-565",
-   "linkLabel": "Agenda"
-  },
-  {
-   "iso": "2026-08-17",
-   "body": "City of Coldwater, Planning Commission and CBPU Board",
-   "topic": "Zoning and regulation of high-utility data centers",
-   "region": "Mid-Michigan",
-   "regionKey": "mid",
-   "county": "Branch",
-   "time": "5:30 PM",
-   "status": "Joint informational meeting",
-   "urgent": false,
-   "link": "https://wtvbam.com/2026/08/14/970442/",
-   "linkLabel": "Meeting Announcement",
-   "stream": ""
-  }
- ],
+ "meetings": [],
  "accuracy_checked_at": "2026-07-08T08:45:16+00:00"
 }

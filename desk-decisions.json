@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOLTZ4dklRdDV1cFNWVnFtLW1FWjAybUdHVjM1eDNiU0ZqbFo0eHFoSkxOeTlaOFZZOUVDWmRMX0d3YnhvYlJ1M05kMVFOY1MzUTZpMmVYa3B0dzVmSWNKaFh1R0FjQm12SW0wcWlmck1EdXNKOFNQNG1mMnpkaEtvbldzQ3RMVWI2eERzMUJFcVlabEd3SlBjVzV1VG9scVhWUVNHa29ySU5jSVNXSmprVzkzV0xLVGplYW1ULU5tSXMwVU5ISl9mR3FwSzNEQmR2cDY5bU55dkFWSmhm?oc=5",
-   "title": "Michigan voters rage at data center ads flooding their feeds",
-   "at": "2026-08-04T23:12:04+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Vague story about campaign ads and voter sentiment without reporting a specific filing, vote, poll result, or spending disclosure that would make it concrete ne"
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQjFFMExZUWthNFVVMGxxajRiNXlFQVlwcktXaHRnSHFFTU1QcFNQTHlDNU1QOGdZYUF5Q2staVpSUlpBQjFVSGxIUjNIdE1rbzBQWk80bWV0RlZWd21GcjN3TGhqenBvVWwyS05rQWh2NzNheldzUTRScTNBWnBqTFVMdzZFendzS0ZzMVFySThQS09y?oc=5",
    "title": "Lowell kills data center talks, ending project negotiations",
    "at": "2026-08-05T04:18:38+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-17T23:30:24+00:00",
    "by": "news_judge",
    "note": "score 3/10: National deal with no Michigan angle; similar Nvidia/OpenAI Ohio stories already killed twice, and this is just a larger dollar figure on the same project."
+  },
+  {
+   "url": "https://bridgemi.com/business-watch/ypsilanti-township-eyes-moratorium-on-power-transmission-to-slow-u-m-data-center/",
+   "title": "Ypsilanti Seeks Six-Month Power Pause to Block U-M Data Center",
+   "at": "2026-08-18T01:44:16+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Appears to be a rehash of already-live stories about Ypsilanti blocking power lines and the U-M data center conflict, with no new decision, filing, or concrete "
   }
  ],
  "auto_published": [
