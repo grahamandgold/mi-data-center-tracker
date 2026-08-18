@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-18T22:57:29+00:00",
+ "updated_at": "2026-08-18T23:30:01+00:00",
  "generator": "grok-wire-agent",
  "items": [
   {
@@ -16,7 +16,9 @@
    "accuracy": "checked",
    "id": "9fd0d933de24",
    "kind": "capitol",
-   "filed_at": "2026-08-18T22:57:29+00:00"
+   "filed_at": "2026-08-18T22:57:29+00:00",
+   "judge_score": 7,
+   "judge_note": "Concrete legislative development: Senator Jeremy Moss adds co-sponsorship to zoning bill tied to data center community benefit requirements."
   },
   {
    "iso": "2026-08-26T12:00:00+00:00",
@@ -32,7 +34,9 @@
    "accuracy": "checked",
    "id": "55358b05f01a",
    "kind": "capitol",
-   "filed_at": "2026-08-18T22:57:29+00:00"
+   "filed_at": "2026-08-18T22:57:29+00:00",
+   "judge_score": 7,
+   "judge_note": "Concrete legislative development: Senator Jeremy Moss adds co-sponsorship to new community benefit agreement bill for data centers."
   },
   {
    "iso": "2026-08-26T12:00:00+00:00",
@@ -48,7 +52,9 @@
    "accuracy": "checked",
    "id": "e1b77b8f50b9",
    "kind": "capitol",
-   "filed_at": "2026-08-18T22:57:29+00:00"
+   "filed_at": "2026-08-18T22:57:29+00:00",
+   "judge_score": 7,
+   "judge_note": "Concrete legislative development: Senator Jeremy Moss adds co-sponsorship to bill requiring project labor agreements for data center utility contracts."
   },
   {
    "iso": "2026-08-18T12:00:00+00:00",
@@ -138,5 +144,5 @@
    "judge_note": "Concrete legislative development: Jeremy Moss added as co-sponsor to utility rate bill targeting data centers, a new action on a relevant bill."
   }
  ],
- "accuracy_checked_at": "2026-08-18T22:55:35+00:00"
+ "accuracy_checked_at": "2026-08-18T23:29:57+00:00"
 }

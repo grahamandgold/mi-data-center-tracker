@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.opb.org/article/2026/08/08/data-centers-are-a-top-issue-in-midterms-for-voters-candidates/",
-   "title": "Michigan Candidate Rallies Against Data Center Power Costs and Pollution",
-   "at": "2026-08-08T17:38:59+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece rehashing campaign rhetoric already covered in killed stories about primary victories and voter backlash, with no new Michigan-specific dec"
-  },
-  {
    "url": "https://www.nahb.org/blog/2026/07/servers-over-shelter-ai-data-centers-outbidding-home-builders-for-land",
    "title": "AI data centers outbid home builders for land across multiple states",
    "at": "2026-08-08T18:51:28+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-18T22:55:39+00:00",
    "by": "news_judge",
    "note": "score 1/10, duplicate: This is the same lawsuit already covered in live stories 'Developer sues Michigan city over data center ban' and 'Two firms sue Michigan city, say data center m"
+  },
+  {
+   "url": "https://www.detroitnews.com/story/news/local/michigan/2026/08/18/johnson-warns-against-data-center-pause-stumping-in-michigan-swing-seat/91358562007/",
+   "title": "House Speaker Johnson Campaigns Against Federal Data Center Moratorium in Michigan Swing District",
+   "at": "2026-08-18T23:30:01+00:00",
+   "by": "news_judge",
+   "note": "score 2/10: National campaign trail speculation about a 'proposed national pause' with no concrete legislative action or Michigan-specific development."
   }
  ],
  "auto_published": [
