@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://dailyenergyinsider.com/data-centers/",
-   "title": "Michigan Plan Requires Data Centers to Pay Full Construction Costs",
-   "at": "2026-08-07T20:09:34+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Vague description of a plan with no specifics about when it was approved, who voted, or what body enacted it—reads like thin policy summary without a concrete d"
-  },
-  {
-   "url": "https://www.eenews.net/articles/data-center-foes-win-big-in-tuesdays-primaries-3/",
-   "title": "Data Center Foes Secure Major Primary Wins in Michigan and Kansas",
-   "at": "2026-08-07T20:09:34+00:00",
-   "by": "news_judge",
-   "note": "score 1/10, duplicate: Rehashes the same Michigan primary victories already covered in multiple KILLED and LIVE stories (Lawrence, Al-Sayed wins), just bundled with Kansas for nationa"
-  },
-  {
    "url": "https://www.aol.com/articles/detroit-weighs-data-center-rules-171847000.html",
    "title": "Detroit Report: Hyperscale Data Centers Would Need Major New Power Lines or Own Plant",
    "at": "2026-08-08T00:03:03+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-18T17:35:37+00:00",
    "by": "news_judge",
    "note": "score 3/10, duplicate: Duplicate of already-live 'Mason residents get city updates on nearby data center plans' — same town hall event, just reworded."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDg0c3NjUG1MOWxsb1VPYmpJNkd0V214NTBHbXd5OXR3QUVKcFppUWg1QnhLU3VFZVFWVlk0ZnVkOFI5dWxNUlU1eG5yZm82cUMtX29IWHI2eFQzcUhUSVBFclVRMklmU2FSeHV6YjI1NUxRRklxeEl1UEVmcWVSNk1uTE5NR0R2Tmx1by1uYVhGalBTWDQw?oc=5",
+   "title": "Michigan bets big on AI data centers despite national pullback",
+   "at": "2026-08-18T17:58:30+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: National trend piece with Michigan angle but no specific decision, filing, or concrete development reported."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcnBBSWR4Xy1sZ3R2YUxiOFlvNGhBZGYweVdsdlgtRHhSSGFpMG5NUktDVDVnbGpUbjNlSjBSa01XeWdRQm5ubWlacG0ybHJIb21VWGp3UFNCcUdQTk4ydHU0a1FVbkFxc3hCbFotcjdET1hBR0UwRnBrSHczMDhVUDRHTjRQYU81bGlRNk1KbDN2N3gySHNxMXJDalV3RUV3eG5SVHZjRk1NZmlKdkN5WTd2dkxBOE5yY214M180YWJxVE8tcWFfYVlra0FMTHVoY3E5bjlKZXNMR3c?oc=5",
+   "title": "MSU experts: data centers cooling on Michigan sites",
+   "at": "2026-08-18T17:58:30+00:00",
+   "by": "news_judge",
+   "note": "score 5/10: Expert analysis claiming projects are being dropped but lacks specifics on which operators, which sites, or documentary evidence."
   }
  ],
  "auto_published": [
@@ -3093,6 +3093,18 @@
    "title": "Bay City drafts rules to curb data center sprawl and noise",
    "judge_score": 7,
    "at": "2026-08-18T15:40:10Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM0NHQWJVZnZyUTd1SVIyd3ZjMm1WOWI5NzZXS1JmbGJ1Ulp0VUJiMXVqaWoxMVI4MGE1cDlUYVBXSy1VeDRUdmlGUmxOcXpFQV91MTVLUVIzVkNtcmhXTlhtX0VwSVVXRWtBeEZRLXkwNXE2SFByYmZ3Y3RSVVg2SjdsV3hoZUl6akNFSmpZcnpidlM1UDY2eWVaYWJKVVU?oc=5",
+   "title": "Developer sues Michigan city over data center ban",
+   "judge_score": 8,
+   "at": "2026-08-18T17:58:30Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNVN1OGliMXdSTTdwQXlmdUtNd0JzTmZteFpJaS1uWHBRekoyRC1Tc3AzeUNUOVR2aGt4bl9oRmFiVjhjQU9rbVlIN1RGNktGUFRTbUZ0WlcxTTZCNkQ3WVgzYml4OHhSZW0yMlhMMXV0QnV1WEI3cnF6eTFaTnhQb0xOc3VoMTIybERKYlJPREt2NkVPWEw4WGJMbzBNalViQ2lJSzNHYm9YcjZxeTluYUFfR2FGbTl0eDQtWEJNcHhwSkk1MGFEMkVKaGc3V0dEY2VwcHFha0VJblJIX1p3?oc=5",
+   "title": "Coldwater drafts rules to steer data center growth",
+   "judge_score": 6,
+   "at": "2026-08-18T17:58:30Z"
   }
  ]
 }
