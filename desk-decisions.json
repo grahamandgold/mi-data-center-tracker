@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.chicagobusiness.com/real-estate/commercial/ccb-west-adams-street-data-center-conversion-20260806/",
-   "title": "Chicago Landmark Office Building Advances Toward Partial Data Center Conversion",
-   "at": "2026-08-07T15:03:05+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece about a Chicago building conversion with no Michigan connection or concrete decision announced."
-  },
-  {
    "url": "https://usdatacenterprojects.com/colorado/lochbuie-colorado-passes-five-year-data-center-moratorium",
    "title": "Colorado Town Approves Five-Year Data Center Ban With No Projects Pending",
    "at": "2026-08-07T17:07:27+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-18T14:42:28+00:00",
    "by": "news_judge",
    "note": "score 2/10: National story about Oklahoma tribal land with no Michigan angle or relevance to Michigan's data center buildout."
+  },
+  {
+   "url": "https://example.com",
+   "title": "No major non-Michigan data center developments reported in last 24 hours",
+   "at": "2026-08-18T15:40:09+00:00",
+   "by": "news_judge",
+   "note": "score 1/10, duplicate: Exact duplicate of already-killed item reporting no national developments."
   }
  ],
  "auto_published": [
@@ -3081,6 +3081,18 @@
    "title": "Coldwater Mayor Says No Interest in Data Center Over Water and Power Use",
    "judge_score": 8,
    "at": "2026-08-18T14:42:28Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNak9KS1VUMVVGU2ZFRHU2OGRiVDdUcHl0alRXQ3NVN1YyU1Z5T25BWkc4RXo0dWJTTU81dVh0OGNyTm1BQklORXI1LW1QZ0RYNFI4amItVm83LWFrNkduamx5NDQzVDgxSVZMclFYbFJkVmVIaUNBRUptRnduWHQwT2pNczh3NVp4dnh2LUF4LU43ZTNTMnBkZG13?oc=5",
+   "title": "Genoa Township keeps data center freeze in place another year",
+   "judge_score": 9,
+   "at": "2026-08-18T15:40:10Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWmk1SnFUd0pZcXdhVkFoOTVwWjNmU2M1LWNjWkw0U2VkWkZTZ0N6aThFdWt1TWtoV0x2VU10MDNFcVZfTmMtZmpOMXd0RnJKUl9OQUkzMHdXZEY1YWtndXRqZUMxcEZBdzJhZ3Q2dGd4SEhQa1VTcjNQOEpmZV91ZUxRejlNc0tFUlVwaXBzazdKVDRjWTN0ODBzNk53eldqVWl5d0NpWE4zZXZOQktrd1EzNNIBxwFBVV95cUxQeFF0UElOOElzSm9Tak8xT3RhZFotN3duaU9RQ2toc3d0THB1U0lEY3FzclRRUzVCTWdPTDctWTVnaGpOeVhhOHhaSHQtRmhHZnVxQkZDYUZneXpkSjNyY2tIb25rRnJXUmFta3JTQ1VXa3RldlU4a21FV0d4a19jaWxzRHlzNHVCRkpVb3NINS1BS3Bsb29tbUpoTDRoU2txOFZEajBKaUwxbzRrUTN5bE1nM0IxcFZpR29wUXZqeU1TRWFnZ3M4?oc=5",
+   "title": "Bay City drafts rules to curb data center sprawl and noise",
+   "judge_score": 7,
+   "at": "2026-08-18T15:40:10Z"
   }
  ]
 }
