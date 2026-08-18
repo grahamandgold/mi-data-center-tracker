@@ -1,7 +1,26 @@
 {
- "updated_at": "2026-08-18T21:52:05+00:00",
+ "updated_at": "2026-08-18T22:32:53+00:00",
  "generator": "grok-wire-agent",
  "items": [
+  {
+   "iso": "2026-08-18T12:00:00+00:00",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "tag": "Power & Grid",
+   "title": "Michigan Utilities Face 5.65 Gigawatts of New Data Center Power Demand",
+   "dek": "Consumers and DTE forecast major new electricity loads from proposed hyperscale projects, including a $7 billion campus near Ann Arbor, on top of state tax breaks and local pushback.",
+   "source": "Industry Reports",
+   "url": "https://bridgemi.com/michigan-environment-watch/data-centers-eyed-in-at-least-10-michigan-towns-how-they-might-change-state/",
+   "breaking": false,
+   "lead": false,
+   "id": "ba0de9201311",
+   "kind": "national",
+   "filed_at": "2026-08-18T22:32:38+00:00",
+   "accuracy": "checked-rewritten",
+   "headline_rewritten": true,
+   "judge_score": 7,
+   "judge_note": "Concrete new development with specific utility forecasts (5.65 GW) and a named $7B Ann Arbor campus project, though lacks a discrete decision or filing."
+  },
   {
    "title": "Ypsilanti zoning overhaul adds dedicated data center rules",
    "dek": "Planners will hold a public hearing on a new zoning division for data centers plus updated definitions and use charts that would apply across city districts.",
@@ -71,5 +90,5 @@
    "judge_note": "Concrete legislative development: Jeremy Moss added as co-sponsor to utility rate bill targeting data centers, a new action on a relevant bill."
   }
  ],
- "accuracy_checked_at": "2026-08-18T21:52:06+00:00"
+ "accuracy_checked_at": "2026-08-18T22:32:46+00:00"
 }

@@ -1,27 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.detroitnews.com/story/news/local/michigan/2026/08/07/nessel-groups-file-briefs-in-saline-data-center-mpsc-appeal-case/91219219007/",
-   "title": "Tech Giants Accelerate Data Center Expansion Amid Surging National Power Demand",
-   "at": "2026-08-08T05:06:50+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece with no Michigan-specific development, decision, or filing—exactly the type of thin aggregation that scores 3-4."
-  },
-  {
-   "url": "https://www.sa.gov/Directory/News-Releases/District-6-Councilmember-Calls-for-Temporary-Moratorium-on-New-Data-Centers",
-   "title": "San Antonio Councilmember Pushes Temporary Moratorium on New Data Centers",
-   "at": "2026-08-08T07:32:51+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: San Antonio moratorium proposal is not Michigan-specific and offers no concrete local development; thin national trend piece with minimal relevance to Michigan "
-  },
-  {
-   "url": "https://www.mlive.com/news/2026/08/michigan-could-reward-or-fine-utilities-over-how-fast-they-connect-rooftop-solar.html",
-   "title": "Michigan Regulators Consider Incentives and Penalties for Utility Solar Connections Amid Rising Data Center Demand",
-   "at": "2026-08-08T10:05:41+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Utility solar hookup incentives are tangentially related to data centers but this is primarily a renewable energy policy story without a concrete Michigan data-"
-  },
-  {
    "url": "https://www.salemreporter.com/2026/08/07/verrus-official-briefs-chamber-members-on-data-center-early-thursday-morning/",
    "title": "Verrus Faces Fresh Questions on Salem Data Center as Opposition Rises",
    "at": "2026-08-08T10:47:41+00:00",
@@ -1399,6 +1378,27 @@
    "at": "2026-08-18T20:54:54+00:00",
    "by": "news_judge",
    "note": "score 3/10: Indiana city action, not Michigan; lacks direct relevance to Michigan data center tracker despite regional proximity."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQlhLdlA5R3lkc3VXaV9ZOThnUFVtOXRCNUREZEdoQWpHenczaUowTG8tQms0N3U5S1ZtcTZ6cVFkX0tzUnRiTmRORlg5UENNanR2X0ZiZ1RlbWtSdko1NUZJZTh4NjRTaTJzUkU4MFdDYmZIcGxYUGR5SHFRanE3TE1uX2RGX0pyOW1faHE5eUFNR0JlRUN0UkdIb0tmZnBhR2Y0?oc=5",
+   "title": "Michigan data center rush triggers local pushback on power and taxes",
+   "at": "2026-08-18T22:32:53+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Generic trend piece rehashing already-covered local pushback themes without identifying a specific new event, vote, or filing."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZzJkR2N2LWtJN2dlMVNUOXVGV25wVEZ2S09LZnI5REo2UlltMUVNR213V1ZMWnB4Snl4eWFyc0ZqaGpUZnpweUVhWUVuTnlzcXZuZTh4TF9VSzQwYnNaWm0yUGVaR29xOWs4OFhlQlJNZmN2WnIxQmVEa3RzQnJzbldMdVIxV0ZFcGdqaWNyUWFHVUhmOTAyU0NBN0E3N3p2anVERmtLRmRGeVRLTTRvWdIBVkFVX3lxTE5JaGl5X0NRenl0YlQwWGE2Yk5HZ3ozcFVNMXpMVE5iWmtEVWl0TUE3MGpYaWhXQ0luSUVMS1J1NGNPTUlBd3pmR2tVWUxDTC1LWU9DU1lR?oc=5",
+   "title": "Two firms sue Michigan city, say data center moratorium breaks state law",
+   "at": "2026-08-18T22:32:53+00:00",
+   "by": "news_judge",
+   "note": "score 8/10, duplicate: This is the same lawsuit already live as 'Developer sues Michigan city over data center ban' and 'Developer Sues Gibraltar Over Yearlong Data Center Moratorium."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZXJmMGRBLTUtTFFRd1JCT1B6alpqUExhVnVWbWFYT1pKeU1iQkY3REtaLUhnMDM5dmZEMkJVRjJfd0VzNmhyRWRjX0ZSZWZ6bVVtRHJ3SDJ2TUdUYUo1QjJ5a3NsOEF3TzBuUEMxX2RlYmVEdlVHRldjMExqOUpmUXJZSTRXY1p5VGs1WDN6dWkzNERuRWFTa1ZIcExMQndGeWN5OXVIYXlXUTVYVFMzQlEtSFluX3BoNXAxVjZDSFJtMkg5eU1uRnV5eGpDLTMybG1ocEpMTUF2RHU0ZE9tM2Rjbw?oc=5",
+   "title": "Johnson tells Michigan voters a data center pause would kill jobs",
+   "at": "2026-08-18T22:32:53+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: National political figure's campaign rhetoric about data centers, not a Michigan-specific decision, filing, or concrete development."
   }
  ],
  "auto_published": [

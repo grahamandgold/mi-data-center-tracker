@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-18T21:52:05+00:00",
+ "updated_at": "2026-08-18T22:32:38+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -199,6 +199,20 @@
   "accuracy": "checked"
  },
  "meetings": [
+  {
+   "iso": "2026-08-18",
+   "body": "Saugatuck Township Planning Commission",
+   "topic": "Public hearing on Data Center/Digital Mining/Battery Storage Zoning Ordinance Amendments",
+   "region": "West Michigan",
+   "regionKey": "west",
+   "county": "Allegan",
+   "time": "7:00 PM",
+   "status": "Public hearing",
+   "urgent": true,
+   "link": "https://saugatucktownshipmi.gov/",
+   "linkLabel": "Agenda",
+   "stream": ""
+  },
   {
    "iso": "2026-08-18",
    "body": "Morley Village Council",
