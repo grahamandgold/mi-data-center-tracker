@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.cbsnews.com/news/nevada-data-center-lawsuit-ai-energy-costs/",
-   "title": "Nevada Utility Sues Tract to Keep Data Center Power Costs Off Ratepayers",
-   "at": "2026-08-08T00:03:03+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: Nevada utility lawsuit is a concrete filing but has zero Michigan angle; purely national/Nevada story with no relevance to Michigan data center buildout."
-  },
-  {
    "url": "https://www.detroitnews.com/story/news/local/michigan/2026/08/07/nessel-groups-file-briefs-in-saline-data-center-mpsc-appeal-case/91219219007/",
    "title": "Tech Giants Accelerate Data Center Expansion Amid Surging National Power Demand",
    "at": "2026-08-08T05:06:50+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-18T19:53:50+00:00",
    "by": "news_judge",
    "note": "score 2/10: National story about Franklin County (not Michigan-specific, unclear which state) with vague details about an abandoned project—lacks concrete Michigan relevanc"
+  },
+  {
+   "url": "https://www.wndu.com/2026/08/18/elkhart-council-advances-data-center-battery-storage-moratorium/",
+   "title": "Elkhart Advances One-Year Moratorium on Data Centers and Battery Storage",
+   "at": "2026-08-18T20:54:54+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Indiana city action, not Michigan; lacks direct relevance to Michigan data center tracker despite regional proximity."
   }
  ],
  "auto_published": [

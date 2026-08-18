@@ -1,35 +1,10 @@
 {
- "updated_at": "2026-08-18T20:44:59+00:00",
+ "updated_at": "2026-08-18T20:54:54+00:00",
  "generator": "grok-wire-agent",
  "items": [
   {
-   "title": "Morley board to hear data center project presentation",
-   "dek": "Village trustees will review a data center project item at tonight's meeting, though the public agenda does not disclose acreage, power demand, tax terms or water use figures.",
-   "url": "https://ow.ly/X8o550WIls8",
-   "source": "Village of Morley Board agenda",
-   "region": "Mid-Michigan",
-   "county": "Mecosta",
-   "cat": "Meetings",
-   "tag": "Agenda watch",
-   "iso": "2026-08-18T20:44:59+00:00",
-   "kind": "agenda",
-   "id": "09ec9c812f7d",
-   "filed_at": "2026-08-18T20:44:59+00:00",
-   "accuracy": "thin — needs human background",
-   "findings": "Agenda Item 4a titled Data Center Project includes a document dated 4-21-25 and a presentation file uploaded Aug 25, 2025 | No parcel numbers, megawatts, abatement terms or developer name appear in the public agenda listing | No water, power or land-use specifics released ahead of the meeting",
-   "perspective": "The item appears as Item 4a on the agenda with a 10.9 MB document and a 2.8 MB presentation file. The agenda does not indicate whether this is an initial presentation, public hearing, or action item.",
-   "documents": [
-    {
-     "label": "Agenda page",
-     "url": "https://ow.ly/X8o550WIls8"
-    }
-   ],
-   "depth_score": 3,
-   "extraction_method": "playwright"
-  },
-  {
-   "title": "Ypsilanti Planning Commission to weigh data center zoning rules",
-   "dek": "The City of Ypsilanti Planning Commission will hold a public hearing on a zoning text amendment that adds definitions and use standards for accessory and principal data centers. The changes would amend permissible use charts across multiple districts and create a new division with requirements on site design, noise limits, water consumption, energy efficiency via PUE, landscaping, decommissioning and other performance standards.",
+   "title": "Ypsilanti zoning overhaul adds dedicated data center rules",
+   "dek": "Planners will hold a public hearing on a new zoning division for data centers plus updated definitions and use charts that would apply across city districts.",
    "url": "https://cityofypsilanti.com/CivicAlerts.aspx?AID=2736",
    "source": "City of Ypsilanti Planning Commission agenda",
    "region": "Southeast Michigan",
@@ -40,7 +15,7 @@
    "kind": "agenda",
    "id": "74ff967bb43c",
    "filed_at": "2026-08-18T20:44:59+00:00",
-   "accuracy": "document-based",
+   "accuracy": "checked-rewritten",
    "findings": "New definitions added for Accessory Data Center, C-A Differential, Data Center, dB(A), dB(C), leq and Power Utilization Effectiveness (PUE) per the agenda packet | Permissible use charts amended in Parks, Single-Family Residential, Multiple Dwelling Residential, Production/Manufacturing/Distribution, Core Neighborhoods, Center, Corridors and Health and Human Services districts | New Article V, Division 4 establishes intent, accessory data center rules and principal data center rules covering application requirements, site design, operational standards, noise, water use, energy efficiency, landscaping, architectural design and decommissioning | Purpose stated as protecting public health, safety and welfare; promoting compatibility with surrounding uses; protecting infrastructure; and suppor",
    "perspective": "",
    "documents": [
@@ -54,7 +29,10 @@
     }
    ],
    "depth_score": 8,
-   "extraction_method": "plain"
+   "extraction_method": "plain",
+   "headline_rewritten": true,
+   "judge_score": 7,
+   "judge_note": "Concrete new development: Ypsilanti scheduling a public hearing on specific zoning rules for data centers, a different municipality taking regulatory action."
   },
   {
    "iso": "2026-08-17T12:00:00+00:00",
@@ -93,5 +71,5 @@
    "judge_note": "Concrete legislative development: Jeremy Moss added as co-sponsor to utility rate bill targeting data centers, a new action on a relevant bill."
   }
  ],
- "accuracy_checked_at": "2026-08-18T20:33:43+00:00"
+ "accuracy_checked_at": "2026-08-18T20:54:50+00:00"
 }
