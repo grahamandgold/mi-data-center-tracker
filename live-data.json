@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-18T20:54:27+00:00",
+ "updated_at": "2026-08-18T21:36:04Z",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -35,6 +35,21 @@
    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM0NHQWJVZnZyUTd1SVIyd3ZjMm1WOWI5NzZXS1JmbGJ1Ulp0VUJiMXVqaWoxMVI4MGE1cDlUYVBXSy1VeDRUdmlGUmxOcXpFQV91MTVLUVIzVkNtcmhXTlhtX0VwSVVXRWtBeEZRLXkwNXE2SFByYmZ3Y3RSVVg2SjdsV3hoZUl6akNFSmpZcnpidlM1UDY2eWVaYWJKVVU?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
+  },
+  {
+   "iso": "2026-08-18T17:00:00+00:00",
+   "region": "metro",
+   "cat": "Wayne Co.",
+   "tag": "Local Government",
+   "title": "Developer Sues Gibraltar Over Yearlong Data Center Moratorium",
+   "dek": "CAL Realty LLC and Raeden Acquisitions LLC filed a federal lawsuit Monday alleging the city's one-year ban on data center approvals is an unlawful blanket prohibition that ignores compliance with existing zoning standards.",
+   "source": "Bloomberg Law",
+   "url": "https://news.bloomberglaw.com/litigation/michigan-city-sued-by-developer-over-yearlong-data-center-ban",
+   "breaking": true,
+   "lead": true,
+   "id": "864245d1bd8e",
+   "accuracy": "checked",
+   "judge_score": 7
   },
   {
    "title": "Bay City drafts rules to curb data center sprawl and noise",
@@ -167,23 +182,6 @@
    "id": "3da6ece02dae",
    "accuracy": "social-post",
    "judge_score": 7
-  },
-  {
-   "title": "Nessel fights to close Campbell plant despite data center power needs",
-   "dek": "Michigan AG Dana Nessel is challenging the latest federal order keeping the Campbell coal plant running. Data centers are driving up electricity demand across the state. Keeping the plant open longer means continued emissions and costs for ratepayers.",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdUMyZDZMNU83Sjk0VFdBRmwwN3lfNE92YU8taDZMMnZ6Q01wb2UtTXpQVXlRaTJ5VXJCSDFHQWQ4YXM3OGRZaGtwNU0xbGNZWDBYYXV6a0s2dUtLRTJfX2xuSjhRNEoxLXZ2Q2RzUGVqb094YTFJVkJ1RFBYbmtNRjJKSWFDN3MxaXN3SWRSakh4ZjJvR1piQU4xdFBDb245U0ladzNiaVhiVjhrYnVlMGxzRm5ybWVIQW83TnJn?oc=5",
-   "source": "Michigan Advance",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Ottawa",
-   "tag": "Power & Grid",
-   "iso": "2026-08-17T23:10:29Z",
-   "id": "5a847e051602",
-   "origin": "google-news",
-   "source_title": "Nessel vows another challenge as DOE issues 6th order keeping Campbell plant open - Michigan Advance",
-   "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdUMyZDZMNU83Sjk0VFdBRmwwN3lfNE92YU8taDZMMnZ6Q01wb2UtTXpQVXlRaTJ5VXJCSDFHQWQ4YXM3OGRZaGtwNU0xbGNZWDBYYXV6a0s2dUtLRTJfX2xuSjhRNEoxLXZ2Q2RzUGVqb094YTFJVkJ1RFBYbmtNRjJKSWFDN3MxaXN3SWRSakh4ZjJvR1piQU4xdFBDb245U0ladzNiaVhiVjhrYnVlMGxzRm5ybWVIQW83TnJn?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
   }
  ],
  "national": {
@@ -240,6 +238,20 @@
    "urgent": true,
    "link": "https://ow.ly/X8o550WIls8",
    "linkLabel": "Agenda"
+  },
+  {
+   "iso": "2026-08-19",
+   "body": "Ypsilanti Planning Commission",
+   "topic": "Public hearing and recommendation on zoning ordinance text amendment establishing definitions, permissible uses, and performance standards for accessory and principal data centers",
+   "region": "SE Michigan",
+   "regionKey": "metro",
+   "county": "Washtenaw",
+   "time": "7:00 PM",
+   "status": "Planning commission",
+   "urgent": true,
+   "link": "https://cityofypsilanti.com/agendacenter",
+   "linkLabel": "Agenda Center",
+   "stream": ""
   },
   {
    "iso": "2026-08-19",
