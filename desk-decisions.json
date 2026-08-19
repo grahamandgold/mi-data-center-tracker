@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.nytimes.com/2026/08/10/business/trump-artificial-intelligence-data-centers-ai.html",
-   "title": "Trump Dismisses Concerns Over AI and Data Center Expansion Despite Protests",
-   "at": "2026-08-11T06:30:53+00:00",
-   "by": "news_judge",
-   "note": "score 2/10: Campaign trail color piece with no concrete Michigan development, just vague references to protesters at rallies."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLWNldHBzNDBnc3BBeUVoX0Nsd1NHS2FXdlBJdU8zLXlUc2RaMFNGaUkxbmN1M1hWcnpTalVoQkx3TWRGZjBlbEw3UFdnbGNXcXpjZHYzUjBFTU9XLUZwTW5FWEZ5Ty0zXzJYOERtenBNSUVwR3c1OEkyOU5LcW4yaWQwNlhnRk1DWFBrcF9LUjRXeDE2ckhIWDFQVk16V1N6SVR0dnFoTUJJNU1jOG5HaVlfNHg0YTFpMHd4ZU5LYmxLM0lyMldzYVdiTUg?oc=5",
    "title": "Lowell pushes data center rules back by months",
    "at": "2026-08-11T06:30:53+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-19T18:47:10+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece with no Michigan-specific development, decision, or concrete action; generic complaints about noise already covered in Michigan-specific st"
+  },
+  {
+   "url": "https://www.stocktitan.net/sec-filings/GPUS/10-q-hyperscale-data-inc-quarterly-earnings-report-f51398058d61.html",
+   "title": "Hyperscale Data Reports Strong Revenue but Flags Going-Concern Doubt Over Michigan Project",
+   "at": "2026-08-19T19:54:48+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: National earnings report with generic Michigan mention lacks concrete local development, project location, or actionable news for Michigan readers tracking spec"
   }
  ],
  "auto_published": [
