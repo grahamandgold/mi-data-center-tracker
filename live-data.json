@@ -1,7 +1,41 @@
 {
- "updated_at": "2026-08-19T11:55:27+00:00",
+ "updated_at": "2026-08-19T13:02:54Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Ypsilanti Township freezes new data center projects",
+   "dek": "The township enacted a land-use moratorium that blocks data center proposals while officials study impacts on roads, power and noise. Residents 30 miles away in Ann Arbor and beyond could see ripple effects on regional growth and utility rates. The pause gives local leaders time to set rules before big projects lock in.",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTkY3T0NpS0Rsdkk3TzZpdThsNm5QMERZeHpWUGozdDFpYmY3YWZYU3VEbW1CNUNkT3BUSUl0dlY2ZkJ6SVVRTExBM000RkFjZW1VN1RZTVZGa2VLcWtrTDB1Z3VsT0dpRzdIMVZfTmptV1k1eFpXaklFaXc2RWhyZXVycE91cXdpcm5tTDEyYzNIZ05vTGx2eDR0TW9fWUdkTlR4V0dmN3U5cUM4UXo2eUZB?oc=5",
+   "source": "The Eastern Echo",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Local Government",
+   "iso": "2026-08-19T12:02:50Z",
+   "id": "b2d1425d421b",
+   "origin": "google-news",
+   "source_title": "Ypsilanti Township issues land-use moratorium impacting data centers - The Eastern Echo",
+   "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTkY3T0NpS0Rsdkk3TzZpdThsNm5QMERZeHpWUGozdDFpYmY3YWZYU3VEbW1CNUNkT3BUSUl0dlY2ZkJ6SVVRTExBM000RkFjZW1VN1RZTVZGa2VLcWtrTDB1Z3VsT0dpRzdIMVZfTmptV1k1eFpXaklFaXc2RWhyZXVycE91cXdpcm5tTDEyYzNIZ05vTGx2eDR0TW9fWUdkTlR4V0dmN3U5cUM4UXo2eUZB?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
+  {
+   "title": "Saline presses state on data center wastewater permit",
+   "dek": "Township officials want EGLE to explain how a proposed data center would handle millions of gallons of wastewater and protect local wells. The answers will decide whether the project moves forward or faces stricter limits. Downstream communities share the same aquifer and treatment systems.",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNS0ZqTEo2WkgwcGdRenlyTFR6Q1ZqSFpBM2RJSzY0cGdJdDU4d243YzFpZEN4cWh4WEh4OGpiUTNPRE5BZU1uRGJGZFJOV2ZZU0laUVZzVWVOc1J1SDJqR2FiMjI0UUw3NThoYlR0cDI5c3NKTDVhbDhOVkZjV3RWc2ZfanFwbkRXZ0JKeWhCUG9jNGMwRV9jdFBNcnpRdkR1N3dtdmZ5a0FoaVVEOFBpR2R3V1Q?oc=5",
+   "source": "WEMU",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Water",
+   "iso": "2026-08-19T12:01:00Z",
+   "id": "67f28aa2d907",
+   "origin": "google-news",
+   "source_title": "Saline wants answers from EGLE on proposed data center wastewater permit - WEMU",
+   "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNS0ZqTEo2WkgwcGdRenlyTFR6Q1ZqSFpBM2RJSzY0cGdJdDU4d243YzFpZEN4cWh4WEh4OGpiUTNPRE5BZU1uRGJGZFJOV2ZZU0laUVZzVWVOc1J1SDJqR2FiMjI0UUw3NThoYlR0cDI5c3NKTDVhbDhOVkZjV3RWc2ZfanFwbkRXZ0JKeWhCUG9jNGMwRV9jdFBNcnpRdkR1N3dtdmZ5a0FoaVVEOFBpR2R3V1Q?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "Oakland County data center project reaches make-or-break vote",
    "dek": "A proposed facility faces a pivotal local decision while lawsuits and state rules create uncertainty. Residents could see changes in power demand and tax revenue if the project advances. The outcome will set precedent for similar proposals across metro Detroit suburbs.",
@@ -152,40 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWmk1SnFUd0pZcXdhVkFoOTVwWjNmU2M1LWNjWkw0U2VkWkZTZ0N6aThFdWt1TWtoV0x2VU10MDNFcVZfTmMtZmpOMXd0RnJKUl9OQUkzMHdXZEY1YWtndXRqZUMxcEZBdzJhZ3Q2dGd4SEhQa1VTcjNQOEpmZV91ZUxRejlNc0tFUlVwaXBzazdKVDRjWTN0ODBzNk53eldqVWl5d0NpWE4zZXZOQktrd1EzNNIBxwFBVV95cUxQeFF0UElOOElzSm9Tak8xT3RhZFotN3duaU9RQ2toc3d0THB1U0lEY3FzclRRUzVCTWdPTDctWTVnaGpOeVhhOHhaSHQtRmhHZnVxQkZDYUZneXpkSjNyY2tIb25rRnJXUmFta3JTQ1VXa3RldlU4a21FV0d4a19jaWxzRHlzNHVCRkpVb3NINS1BS3Bsb29tbUpoTDRoU2txOFZEajBKaUwxbzRrUTN5bE1nM0IxcFZpR29wUXZqeU1TRWFnZ3M4?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Genoa Township keeps data center freeze in place another year",
-   "dek": "The board voted to extend the moratorium, blocking new proposals while it studies impacts on roads, power and wells. Livingston County residents could face higher taxes or utility bills if big projects slip through later. The pause gives locals more time to weigh the trade-offs.",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNak9KS1VUMVVGU2ZFRHU2OGRiVDdUcHl0alRXQ3NVN1YyU1Z5T25BWkc4RXo0dWJTTU81dVh0OGNyTm1BQklORXI1LW1QZ0RYNFI4amItVm83LWFrNkduamx5NDQzVDgxSVZMclFYbFJkVmVIaUNBRUptRnduWHQwT2pNczh3NVp4dnh2LUF4LU43ZTNTMnBkZG13?oc=5",
-   "source": "WHMI",
-   "region": "mid",
-   "cat": "STATEWIDE",
-   "county": "Livingston",
-   "tag": "Local Government",
-   "iso": "2026-08-18T15:02:15Z",
-   "id": "a9a09f321a47",
-   "origin": "google-news",
-   "source_title": "Genoa Township Board Extends Data Center Moratorium - WHMI",
-   "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNak9KS1VUMVVGU2ZFRHU2OGRiVDdUcHl0alRXQ3NVN1YyU1Z5T25BWkc4RXo0dWJTTU81dVh0OGNyTm1BQklORXI1LW1QZ0RYNFI4amItVm83LWFrNkduamx5NDQzVDgxSVZMclFYbFJkVmVIaUNBRUptRnduWHQwT2pNczh3NVp4dnh2LUF4LU43ZTNTMnBkZG13?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 9
-  },
-  {
-   "title": "Coldwater residents get first look at data center plans and risks",
-   "dek": "City officials in Coldwater held an informational session to lay out what data centers could mean for local power use, water demand and tax revenue. Branch County residents now have concrete numbers on potential jobs versus infrastructure strain. The meeting comes as more developers eye southwest Michigan sites.",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ITmJjZHJFRDBiR0RwS2duQ21uZ2ZXVERXRFVzTHp5M3RDSFEzSGU4V3lQODkzRkpJSl9TNGNnT3l2S1RKYUpBWHhBX3BkUQ?oc=5",
-   "source": "wtvbam.com",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Branch",
-   "tag": "Local Government",
-   "iso": "2026-08-18T09:02:33Z",
-   "id": "08c96dd9b56b",
-   "origin": "google-news",
-   "source_title": "Coldwater city officials hold informational meeting on data centers - wtvbam.com",
-   "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ITmJjZHJFRDBiR0RwS2duQ21uZ2ZXVERXRFVzTHp5M3RDSFEzSGU4V3lQODkzRkpJSl9TNGNnT3l2S1RKYUpBWHhBX3BkUQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {

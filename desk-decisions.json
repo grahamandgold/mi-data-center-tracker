@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.reuters.com/legal/transactional/lenders-scrutinize-us-data-center-financing-community-opposition-builds-2026-08-10/",
-   "title": "Lenders tighten scrutiny on data center projects amid rising community pushback",
-   "at": "2026-08-10T20:18:36+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicate of already-killed 'Banks Add Community Checks to Data Center Loan Reviews' — same national lending trend, no Michigan angle."
-  },
-  {
    "url": "https://michiganadvance.com/2026/08/10/nessel-and-environmental-groups-file-initial-arguments-in-appeal-of-dte-saline-data-center-contract/",
    "title": "Attorney General Nessel Files Appeal Brief Challenging DTE Contracts for Saline Data Center",
    "at": "2026-08-10T23:09:09+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-19T10:38:31+00:00",
    "by": "news_judge",
    "note": "score 7/10, duplicate: Same August 19 Ypsilanti hearing and zoning amendment as candidate 4, just reworded."
+  },
+  {
+   "url": "https://www.mlive.com/news/kalamazoo/2026/08/kalamazoo-approves-moratorium-on-data-center-battery-storage-projects.html",
+   "title": "Kalamazoo Enacts One-Year Moratorium on New Data Centers and Battery Storage",
+   "at": "2026-08-19T13:02:54+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: Duplicate of already-killed 'Kalamazoo City Commission approves one-year moratorium on data centers and related facilities' — same Monday vote, same moratorium."
   }
  ],
  "auto_published": [
@@ -3141,6 +3141,18 @@
    "title": "Oakland County data center project reaches make-or-break vote",
    "judge_score": 6,
    "at": "2026-08-19T10:38:31Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNS0ZqTEo2WkgwcGdRenlyTFR6Q1ZqSFpBM2RJSzY0cGdJdDU4d243YzFpZEN4cWh4WEh4OGpiUTNPRE5BZU1uRGJGZFJOV2ZZU0laUVZzVWVOc1J1SDJqR2FiMjI0UUw3NThoYlR0cDI5c3NKTDVhbDhOVkZjV3RWc2ZfanFwbkRXZ0JKeWhCUG9jNGMwRV9jdFBNcnpRdkR1N3dtdmZ5a0FoaVVEOFBpR2R3V1Q?oc=5",
+   "title": "Saline presses state on data center wastewater permit",
+   "judge_score": 8,
+   "at": "2026-08-19T13:02:54Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTkY3T0NpS0Rsdkk3TzZpdThsNm5QMERZeHpWUGozdDFpYmY3YWZYU3VEbW1CNUNkT3BUSUl0dlY2ZkJ6SVVRTExBM000RkFjZW1VN1RZTVZGa2VLcWtrTDB1Z3VsT0dpRzdIMVZfTmptV1k1eFpXaklFaXc2RWhyZXVycE91cXdpcm5tTDEyYzNIZ05vTGx2eDR0TW9fWUdkTlR4V0dmN3U5cUM4UXo2eUZB?oc=5",
+   "title": "Ypsilanti Township freezes new data center projects",
+   "judge_score": 7,
+   "at": "2026-08-19T13:02:54Z"
   }
  ]
 }
