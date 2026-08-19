@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.wzzm13.com/article/news/local/township-continues-work-on-data-center-ordinance/69-8421d448-a676-4674-8304-f9ece3e54707",
-   "title": "Lowell Township Planning Commission Advances Data Center Ordinance Work",
-   "at": "2026-08-11T09:09:22+00:00",
-   "by": "news_judge",
-   "note": "score 4/10, duplicate: Duplicate of already-live 'Lowell pushes data center rules back by months' and 'Lowell Twp drafts rules to tame data center growth' — same ongoing ordinance dra"
-  },
-  {
    "url": "https://www.texastribune.org/2026/06/05/texas-hill-county-moratorium-rescinded-data-centers/",
    "title": "Texas County Repeals Data Center Moratorium After Developer Files $100 Million Federal Lawsuit",
    "at": "2026-08-11T11:24:51+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-19T21:55:55+00:00",
    "by": "news_judge",
    "note": "score 2/10: Ohio project with no Michigan angle; national noise that doesn't advance Michigan data center tracking."
+  },
+  {
+   "url": "https://www.spokesman.com/stories/2026/aug/19/tech-deploys-charm-offensive-to-combat-ai-data-cen/",
+   "title": "Michigan towns halt data centers as Oracle pushes New Mexico project",
+   "at": "2026-08-19T22:59:15+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: National trend piece bundling already-covered Michigan moratoriums with an out-of-state Oracle project; no new Michigan decision or development."
   }
  ],
  "auto_published": [
