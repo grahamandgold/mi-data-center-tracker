@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeEJJUnVsNXJjQVJ0amNVd3FQWWNUcnZYMEpJUU9YbGE5MGpfdGVsV0ViUTJERzlkQmxqU2N0TmxRU19MTDE5Z1REaFZjUmVrdGJjWENMUnJqVGRrUWdNRnJxalVLWjQ0LTNhb0hWYkFzWkVFOEpqNTZYZFg3NmZtQUpsTzVYX0dtZHZKSXNDWW1hRW9EaVBJT1ZSVG5pV1lOY3BsQnFiT2N2SVduSUNIemdnbHYzMm8?oc=5",
-   "title": "EMU experts spell out water and electric costs data centers could bring to Washtenaw towns",
-   "at": "2026-08-09T15:41:29+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Educational session providing general information rather than reporting a specific decision, filing, or official action by a governing body."
-  },
-  {
    "url": "https://www.pressreader.com/usa/detroit-free-press/20260808/281694031595539",
    "title": "FCC Drafts Measure Targeting Chinese Components in U.S. Data Centers",
    "at": "2026-08-09T16:46:46+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-19T01:46:15+00:00",
    "by": "news_judge",
    "note": "score 1/10, duplicate: Duplicate of already-killed Kalamazoo freeze stories; same moratorium decision already covered multiple times."
+  },
+  {
+   "url": "https://www.charlottenc.gov/City-News/Data-Centers-City-Establishes-Task-Force",
+   "title": "Charlotte Launches Task Force to Shape Data Center Policies Amid Growth Concerns",
+   "at": "2026-08-19T05:05:38+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Out-of-state task force formation is a thin national development with no Michigan impact."
   }
  ],
  "auto_published": [
@@ -3111,6 +3111,18 @@
    "title": "Developer Sues Gibraltar Over Yearlong Data Center Moratorium",
    "judge_score": 7,
    "at": "2026-08-18T21:36:04Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbFIyb3BTcVpPdThDTzM1cEtITGoxUlo5VV9NWjlJa2FGOHRKTm5GUlgyeVVEczBOaXVVYVRYVmtHTEVtZTc4UEVrTWdzX2NTbmtFNkZQQkhyTkNyZ1B1a3FoTi1tNkVIZTc1akgyUjBVMGpyeVgzanFLbjJ3M2VBWUxOQmhmT09FV3pDQWc0Nlp2UWlOTUJKT1ptcjRsQW5Wb0NjdTlxS1dJQU9tWTVJU2k3V3pFejFaTFE2Z0c4WUFTTFNRVm1tMG9veTh2NWxnXzhadVZpS3dya00xZHJ4UUhaZXNVcDRYT0tadzJrZ0JZRUNtWmZz?oc=5",
+   "title": "Carrollton data-center developers bar reporters from public session",
+   "judge_score": 8,
+   "at": "2026-08-19T05:05:39Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNc0NpMHV0aTFXRUZNV3Z0Zjlhdl9XblJPbjlfZHJ2ZGZibUFMTElJMUlwMkxfdFdveWpXVW9jYjROZnRzcnQ3SHNqNUc1TGZuQmExSkV6dkZOMUp1WEFnRlRSMkdCRWJvX1VxcWlLdjFaTWRqWnE3cHdfRWxXUkx6WG1WWGVHamFSa1AzZzBLbWJ3QkY4aldtUEdjSGZQU0RvSXFlUDNmUnh2d3JpYno0NGhtY21VQkNId1g1TkJHaHhUdGtZSjUtMTRHcXpqZERC?oc=5",
+   "title": "Caledonia Township tightens land rules that could block data centers",
+   "judge_score": 7,
+   "at": "2026-08-19T05:05:39Z"
   }
  ]
 }

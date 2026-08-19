@@ -1,7 +1,41 @@
 {
- "updated_at": "2026-08-19T03:06:17+00:00",
+ "updated_at": "2026-08-19T05:05:39Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Caledonia Township tightens land rules that could block data centers",
+   "dek": "Caledonia Township in Kent County is rewriting its special land-use rules, a step that will decide whether large data-center projects can locate there. Residents 30 miles away should care because the outcome sets the template for power demand, noise, and tax revenue across western Michigan. The meeting focused on ordinance details that will govern future proposals.",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNc0NpMHV0aTFXRUZNV3Z0Zjlhdl9XblJPbjlfZHJ2ZGZibUFMTElJMUlwMkxfdFdveWpXVW9jYjROZnRzcnQ3SHNqNUc1TGZuQmExSkV6dkZOMUp1WEFnRlRSMkdCRWJvX1VxcWlLdjFaTWRqWnE3cHdfRWxXUkx6WG1WWGVHamFSa1AzZzBLbWJ3QkY4aldtUEdjSGZQU0RvSXFlUDNmUnh2d3JpYno0NGhtY21VQkNId1g1TkJHaHhUdGtZSjUtMTRHcXpqZERC?oc=5",
+   "source": "The Collegiate Live",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Kent",
+   "tag": "Local Government",
+   "iso": "2026-08-19T03:53:14Z",
+   "id": "9b61c1cabc6a",
+   "origin": "google-news",
+   "source_title": "Caledonia Township held a Public Meating to Continue Discussing Their Special Land Use Ordinance - The Collegiate Live",
+   "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNc0NpMHV0aTFXRUZNV3Z0Zjlhdl9XblJPbjlfZHJ2ZGZibUFMTElJMUlwMkxfdFdveWpXVW9jYjROZnRzcnQ3SHNqNUc1TGZuQmExSkV6dkZOMUp1WEFnRlRSMkdCRWJvX1VxcWlLdjFaTWRqWnE3cHdfRWxXUkx6WG1WWGVHamFSa1AzZzBLbWJ3QkY4aldtUEdjSGZQU0RvSXFlUDNmUnh2d3JpYno0NGhtY21VQkNId1g1TkJHaHhUdGtZSjUtMTRHcXpqZERC?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
+  {
+   "title": "Carrollton data-center developers bar reporters from public session",
+   "dek": "Developers seeking to build in Carrollton Township, Saginaw County, held an information meeting but refused media access. The closed-door approach leaves residents without details on power needs, water use, or tax offers that would affect the mid-Michigan grid and local bills. The episode raises transparency questions for any future project in the area.",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbFIyb3BTcVpPdThDTzM1cEtITGoxUlo5VV9NWjlJa2FGOHRKTm5GUlgyeVVEczBOaXVVYVRYVmtHTEVtZTc4UEVrTWdzX2NTbmtFNkZQQkhyTkNyZ1B1a3FoTi1tNkVIZTc1akgyUjBVMGpyeVgzanFLbjJ3M2VBWUxOQmhmT09FV3pDQWc0Nlp2UWlOTUJKT1ptcjRsQW5Wb0NjdTlxS1dJQU9tWTVJU2k3V3pFejFaTFE2Z0c4WUFTTFNRVm1tMG9veTh2NWxnXzhadVZpS3dya00xZHJ4UUhaZXNVcDRYT0tadzJrZ0JZRUNtWmZz?oc=5",
+   "source": "WHAS11",
+   "region": "mid",
+   "cat": "STATEWIDE",
+   "county": "Saginaw",
+   "tag": "Local Government",
+   "iso": "2026-08-19T03:23:00Z",
+   "id": "08f122a72a78",
+   "origin": "google-news",
+   "source_title": "Data center developers host info meeting in Carrollton; deny media access - WHAS11",
+   "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbFIyb3BTcVpPdThDTzM1cEtITGoxUlo5VV9NWjlJa2FGOHRKTm5GUlgyeVVEczBOaXVVYVRYVmtHTEVtZTc4UEVrTWdzX2NTbmtFNkZQQkhyTkNyZ1B1a3FoTi1tNkVIZTc1akgyUjBVMGpyeVgzanFLbjJ3M2VBWUxOQmhmT09FV3pDQWc0Nlp2UWlOTUJKT1ptcjRsQW5Wb0NjdTlxS1dJQU9tWTVJU2k3V3pFejFaTFE2Z0c4WUFTTFNRVm1tMG9veTh2NWxnXzhadVZpS3dya00xZHJ4UUhaZXNVcDRYT0tadzJrZ0JZRUNtWmZz?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "Coldwater drafts rules to steer data center growth",
    "dek": "Township officials heard from a consultant on how to limit building size, noise and power use. The draft ordinance would give local boards more say over where centers can locate. Residents nearby could face fewer surprise projects and clearer limits on industrial sprawl.",
@@ -150,38 +184,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOXc1UnRObmhpS1BxS1dnZ1V2WmhJVk9xMy1qQzJDS0RLREJQclJyUmtrOEV3TTgzSGtqeVpXOG5SZDQ2dURNMW1jVVJrRDFvYlBMX0ZVLVItZWRsa3Jhalg2QzctblBWLWIyZFdDS0dVa0tiNDNIOWhVbGVmbU5qc0c0MWp4QXJodWNFV1BmdzFDTkZKSjFQYnRGN0tiaklj0gGmAUFVX3lxTE90RThQSUNxWkxxNEZyeVhEeUhMT0xoNjBoWWdaMVN2dnE1VVlHMWRhMFFNa3RMQ0h4MV9uOXRGZ05oSzdMZUN2Slg4X2czZ3Z2SkpBMlBzWkJSWVE3d1dCMElhTlRHc1lYdjBQVzBXTDFSYjM1ZzlhWm9iUHRUTHYzMVBLZFBxZ0tfbU04VXhTYW40LVZkdllrR29Db00xTFBldW1fX0E?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
-  },
-  {
-   "title": "Mason residents get city updates on nearby data center plans",
-   "dek": "Mason City Council approved a communication plan to keep residents informed about data center proposals. The move comes as opposition grows to a project near the city. Local taxpayers could see impacts on power rates and services if large facilities move forward.",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTVhrUFpqeDJTQ1ZkeGdhRXc1R3lqdllVenNzeDRDUmVFN1dQSVo2RFhmV0ZSX08tVF9mZkNPTnNQS2E5M3pNRzN1eUJrMkRzTGFMV2NScVltUnZsVUdFUm9xcTJrVmNLaEFMYlVtUlJGclFCNHg5d3o2U0pNcFY2LTRGaGt4UzJkRTd3VWV1MjA4T1JHQ2c?oc=5",
-   "source": "WILX",
-   "region": "mid",
-   "cat": "STATEWIDE",
-   "county": "Ingham",
-   "tag": "Local Government",
-   "iso": "2026-08-18T02:52:00Z",
-   "id": "df828eb63e60",
-   "origin": "google-news",
-   "source_title": "Mason City Council approves data center communication plan - WILX",
-   "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTVhrUFpqeDJTQ1ZkeGdhRXc1R3lqdllVenNzeDRDUmVFN1dQSVo2RFhmV0ZSX08tVF9mZkNPTnNQS2E5M3pNRzN1eUJrMkRzTGFMV2NScVltUnZsVUdFUm9xcTJrVmNLaEFMYlVtUlJGclFCNHg5d3o2U0pNcFY2LTRGaGt4UzJkRTd3VWV1MjA4T1JHQ2c?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
-  },
-  {
-   "iso": "2026-08-18T02:00:00Z",
-   "region": "mid",
-   "cat": "Ingham Co.",
-   "tag": "Local Government",
-   "title": "Mason City Council Approves Outreach Plan for Potential Data Center Projects",
-   "dek": "The council unanimously passed the Mason Connect plan Monday night, scheduling a Sept. 14 town hall and neighborhood meetings to update residents on any future data center proposals amid strong public opposition during comment.",
-   "source": "WILX",
-   "url": "https://www.wilx.com/2026/08/18/mason-city-council-approves-data-center-communication-plan/",
-   "breaking": false,
-   "lead": true,
-   "id": "3da6ece02dae",
-   "accuracy": "social-post",
-   "judge_score": 7
   }
  ],
  "national": {
