@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.texastribune.org/2026/06/05/texas-hill-county-moratorium-rescinded-data-centers/",
-   "title": "Texas County Repeals Data Center Moratorium After Developer Files $100 Million Federal Lawsuit",
-   "at": "2026-08-11T11:24:51+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Texas development with no Michigan angle; illustrates national legal trend but lacks local relevance for Michigan data center tracker."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdDRNcDFQRGp0c3dLbDhVZ0wxWTVtYUYwMWJVZUQ4eXNiUHJhTjd3TVdGZVhfcEo2dzJpMjUzQWVoUlVPdDBtVFhHNnR0ZG42b0g0VFF3UklDa05hUDQ5am5SVjg3Q1NCaGczd0VaYzExby1KN1Vza0hDbDNyT1kzdHk0TUJtSDZqMHRhTWtPQ3F4SXdKNGFBUkp6VWRscXg3Z1BCdGxUU3hORkRrdjB6VzNQdEZfcmcyQVphWUs4V3pIUnVXdlNhaFlB?oc=5",
    "title": "Lowell Township data center rules still months from final vote",
    "at": "2026-08-11T11:24:51+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-19T22:59:15+00:00",
    "by": "news_judge",
    "note": "score 4/10: National trend piece bundling already-covered Michigan moratoriums with an out-of-state Oracle project; no new Michigan decision or development."
+  },
+  {
+   "url": "https://www.clickondetroit.com/video/news/2026/08/19/data-center-developer-sues-gibraltar-claims-city-illegally-blocked-project/",
+   "title": "Gibraltar Hit With Lawsuit After Halting Data Center Project",
+   "at": "2026-08-19T23:34:42+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This is the same lawsuit already covered in the LIVE story 'Gibraltar sued after rejecting data center project' — just a different headline for the identical le"
   }
  ],
  "auto_published": [
