@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.uppermichiganssource.com/2026/08/11/we-cant-be-afraid-marquette-residents-learn-how-have-voice-data-centers/",
-   "title": "Marquette Residents Learn Strategies to Influence Data Center Decisions",
-   "at": "2026-08-11T02:22:13+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Community organizing event/workshop is process-oriented without a concrete development, decision, or official action."
-  },
-  {
    "url": "https://www.detroitnews.com/story/business/2026/08/10/meta-ceo-zuckerberg-ai-manifesto-future/91249807007/",
    "title": "Meta Announces $1 Billion Fund to Support Communities Hosting Data Centers",
    "at": "2026-08-11T02:22:13+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-19T14:42:44+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece about power demand surge lacks Michigan-specific developments, decisions, or concrete local impact."
+  },
+  {
+   "url": "https://www.wsj.com/articles/openai-locks-in-lease-for-huge-data-center-in-ohio-with-backing-from-nvidia-7474bb9c",
+   "title": "OpenAI Secures Lease for Major Data Center Project in Ohio",
+   "at": "2026-08-19T16:39:55+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National story about Ohio project with no Michigan angle or impact."
   }
  ],
  "auto_published": [
@@ -3159,6 +3159,12 @@
    "title": "Ypsilanti Township blocks new power lines to slow data center rush",
    "judge_score": 8,
    "at": "2026-08-19T13:51:56Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONnJ0LW1EbkFZblUzaVIwVlRWVUNvMHpnV3FybE91RUpDZG1jWUFuSThrSU1acjdDNGxWLUlkb2JqaVNPODlROGV4amJaQV84WEVDR1FMY004cFpuNm90T1FfVW5TQzZSYkdUb19KNzNIU1NLRkJac1ZNRWNlZnNfMFNFNWFMcmtuem93Nk11TENQNXlmYUQ5bkZla09lUl9tWlpuVmNjVEo1c2J6S0tqa0VxblNNWDd5NVpJTjlseGJaV2RvVWtxUzBrc25VdmFzdTRLYnl6MDNDdEnSAe8BQVVfeXFMUE9PMTdXNkdFZ0o3NGVZeDJTRTVQWW5GYjBWNVFKdDFwd2VLU0tvNjh6S3Fyb19SNDV4WDlYRXJoWTJHVzlBZ3BXMk1nZTk1cXppTWM5TE1zWktHWWpwdVI0MXRSaWV3WWxUbm9XNlI1SkgtMTBhSVRFQXdKY3czSEJVc010VjhheW51b3B4dGxsT2JjbFZ4VEtfQlBnMklCRURMX2dFMjVINC1yZURxRjlXUnl4WFNKbDFDXzQ5QnhwNG92Z1pTT2UzVHJtQjZ5UlZ4SHNoeWZzUjRGaXlqS1pleGJhM1owNGwzaXdNN3c?oc=5",
+   "title": "Resident demands rule changes after recall bid over data center vote fails",
+   "judge_score": 6,
+   "at": "2026-08-19T16:39:55Z"
   }
  ]
 }
