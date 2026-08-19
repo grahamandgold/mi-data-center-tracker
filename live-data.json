@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-19T05:05:39Z",
+ "updated_at": "2026-08-19T05:41:11+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -204,15 +204,15 @@
   {
    "iso": "2026-08-19",
    "body": "Ypsilanti Planning Commission",
-   "topic": "Public hearing and recommendation on zoning ordinance text amendment establishing definitions, permissible uses, and performance standards for accessory and principal data centers",
+   "topic": "Public hearing on zoning ordinance text amendments to regulate data centers, including new definitions and use-based standards",
    "region": "SE Michigan",
    "regionKey": "metro",
    "county": "Washtenaw",
    "time": "7:00 PM",
    "status": "Planning commission",
    "urgent": true,
-   "link": "https://cityofypsilanti.com/agendacenter",
-   "linkLabel": "Agenda Center",
+   "link": "https://cityofypsilanti.com/CivicAlerts.aspx?AID=2736",
+   "linkLabel": "Agenda",
    "stream": ""
   },
   {

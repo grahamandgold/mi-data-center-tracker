@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.pressreader.com/usa/detroit-free-press/20260808/281694031595539",
-   "title": "FCC Drafts Measure Targeting Chinese Components in U.S. Data Centers",
-   "at": "2026-08-09T16:46:46+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National security/regulatory story with no Michigan angle, no concrete action taken yet (only 'preparing rules'), and minimal relevance to Michigan's data cente"
-  },
-  {
-   "url": "https://www.reddit.com/r/technology/comments/1vk2qlt/kansas_town_silences_public_comment_on_gigawatt/",
-   "title": "Kansas Town Limits Public Comment on Proposed Gigawatt AI Data Center",
-   "at": "2026-08-10T07:57:35+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece about Kansas meeting procedures with no Michigan angle or concrete development."
-  },
-  {
    "url": "https://kfgo.com/2026/08/10/lenders-scrutinize-us-data-center-financing-as-community-opposition-builds/",
    "title": "Banks Add Community Checks to Data Center Loan Reviews",
    "at": "2026-08-10T11:16:15+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-19T05:05:38+00:00",
    "by": "news_judge",
    "note": "score 3/10: Out-of-state task force formation is a thin national development with no Michigan impact."
+  },
+  {
+   "url": "https://www.facebook.com/pittsburghpostgazette/posts/pennsylvania-gov-josh-shapiro-on-tuesday-said-his-administration-would-no-longer/1466270368881153/",
+   "title": "Pennsylvania governor imposes new guardrails on data center permits and tax breaks",
+   "at": "2026-08-19T05:41:27+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece about Pennsylvania policy with no Michigan angle or impact."
+  },
+  {
+   "url": "https://legiscan.com/MI/bill/SB1049/2025",
+   "title": "Capitol watch: SB1049 — Senate Co-sponsor(s) Named: Jeremy Moss",
+   "at": "2026-08-19T05:41:27+00:00",
+   "by": "news_judge",
+   "note": "score 2/10: Routine legislative procedural update (co-sponsor added) on a bill unrelated to data centers."
   }
  ],
  "auto_published": [

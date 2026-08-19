@@ -1,23 +1,7 @@
 {
- "updated_at": "2026-08-19T05:06:50+00:00",
+ "updated_at": "2026-08-19T05:41:27+00:00",
  "generator": "grok-wire-agent",
  "items": [
-  {
-   "iso": "2026-08-26T12:00:00+00:00",
-   "region": "statewide",
-   "cat": "CAPITOL",
-   "tag": "Policy",
-   "title": "Capitol watch: SB1049 — Senate Co-sponsor(s) Named: Jeremy Moss",
-   "dek": "Public employees and officers: other; certain nondisclosure agreements; prohibit. Creates new act. Recorded action in the Michigan Legislature; see the full bill history at the source link.",
-   "source": "Michigan Legislature",
-   "url": "https://legiscan.com/MI/bill/SB1049/2025",
-   "breaking": false,
-   "lead": false,
-   "accuracy": "checked",
-   "id": "42f65b4e67de",
-   "kind": "capitol",
-   "filed_at": "2026-08-19T05:06:50+00:00"
-  },
   {
    "iso": "2026-08-26T12:00:00+00:00",
    "region": "statewide",
@@ -32,7 +16,9 @@
    "accuracy": "checked",
    "id": "39d0627c8aa3",
    "kind": "capitol",
-   "filed_at": "2026-08-19T05:06:50+00:00"
+   "filed_at": "2026-08-19T05:06:50+00:00",
+   "judge_score": 6,
+   "judge_note": "Michigan bill addressing water permits for consumptive use is directly relevant to data center water concerns, though this is just a co-sponsor addition rather "
   },
   {
    "iso": "2026-08-26T12:00:00+00:00",
@@ -158,5 +144,5 @@
    "judge_note": "Concrete legislative development: Jeremy Moss added as co-sponsor to utility rate bill targeting data centers, a new action on a relevant bill."
   }
  ],
- "accuracy_checked_at": "2026-08-19T05:05:34+00:00"
+ "accuracy_checked_at": "2026-08-19T05:41:22+00:00"
 }
