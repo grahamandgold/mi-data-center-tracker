@@ -1,7 +1,65 @@
 {
- "updated_at": "2026-08-19T20:37:51+00:00",
+ "updated_at": "2026-08-19T20:51:43+00:00",
  "generator": "grok-wire-agent",
  "items": [
+  {
+   "title": "Ypsilanti Planning Commission weighs data center zoning rules with noise, water limits",
+   "dek": "The Planning Commission holds a public hearing August 19, 2026, on a zoning text amendment that would establish definitions and use-based standards for data centers, including noise limits, water consumption rules, energy efficiency metrics, and site design requirements.",
+   "url": "https://cityofypsilanti.com/CivicAlerts.aspx?AID=2736",
+   "source": "Ypsilanti Planning Commission agenda",
+   "region": "Southeast Michigan",
+   "county": "Washtenaw",
+   "cat": "Meetings",
+   "tag": "Agenda watch",
+   "iso": "2026-08-19T20:51:43+00:00",
+   "kind": "agenda",
+   "id": "74ff967bb43c",
+   "filed_at": "2026-08-19T20:51:43+00:00",
+   "accuracy": "document-based",
+   "findings": "New definitions proposed for Accessory Data Center, C-A Differential, Data Center, dB(A), dB(C), leq, and Power Utilization Effectiveness (PUE) per the agenda | Permissible use charts would be amended in Parks, Single-Family Residential, Multiple Dwelling Residential, Production Manufacturing Distribution, Core Neighborhoods, Center, Corridors, and Health and Human Services districts per the agenda | New Article V Division 4 would establish standards for application requirements, site design, operational standards, noise, water use, energy efficiency, landscaping, architectural design, and decommissioning per the agenda | Amendment would establish where accessory, small, and large data centers may be permitted and under what review procedures per the agenda | Public hearing and possible re",
+   "perspective": "The Planning Commission will hear a presentation, hold a public hearing, and may make a recommendation to City Council regarding the zoning ordinance text amendment. The proposed amendment is intended to provide clear zoning regulations for data centers while protecting public health, safety, and welfare; promoting compatibility with surrounding land uses; protecting public infrastructure; support",
+   "documents": [
+    {
+     "label": "Agenda page",
+     "url": "https://cityofypsilanti.com/CivicAlerts.aspx?AID=2736"
+    },
+    {
+     "label": "Master Plan (PDF)",
+     "url": "https://cityofypsilanti.com/DocumentCenter/View/5282/FINAL-2026-2030-City-of-Ypsilanti-Parks-And-Recreation-Master-Plan"
+    }
+   ],
+   "depth_score": 8,
+   "extraction_method": "plain"
+  },
+  {
+   "title": "Ypsilanti Planning Commission weighs data center zoning rules",
+   "dek": "The City of Ypsilanti Planning Commission holds a public hearing August 19, 2026 on a zoning text amendment that would define accessory and principal data centers and set standards for noise, water use, energy efficiency and site design across multiple zoning districts.",
+   "url": "https://cityofypsilanti.com/CivicAlerts.aspx?AID=2736",
+   "source": "City of Ypsilanti Planning Commission agenda",
+   "region": "Southeast Michigan",
+   "county": "Washtenaw",
+   "cat": "Meetings",
+   "tag": "Agenda watch",
+   "iso": "2026-08-19T20:51:43+00:00",
+   "kind": "agenda",
+   "id": "74ff967bb43c",
+   "filed_at": "2026-08-19T20:51:43+00:00",
+   "accuracy": "document-based",
+   "findings": "The amendment adds definitions for Accessory Data Center, C-A Differential, Data Center, dB(A), dB(C), leq and Power Utilization Effectiveness (PUE) per the agenda | It amends permissible use charts in §122-416 Parks, §122-421 Single-Family Residential, §122-426 Multiple Dwelling Residential, §122-431 Production, §122-441 Core Neighborhoods, §122-446 Center, §122-451 Corridors and §122-461 Health and Human Services | Creates new Article V, Division 4 with sections §122-580 Intent, §122-581 Accessory Data Centers and §122-582 Data Centers covering application requirements, site design, operational standards, noise, water use, energy efficiency, landscaping, architectural design and decommissioning | Purpose stated as protecting public health, safety, welfare, infrastructure and promoting su",
+   "perspective": "The Planning Commission will hear a presentation, hold a public hearing, and may make a recommendation to City Council regarding the zoning ordinance text amendment. The proposed amendment is intended to provide clear zoning regulations for data centers while protecting public health, safety and welfare.",
+   "documents": [
+    {
+     "label": "Agenda page",
+     "url": "https://cityofypsilanti.com/CivicAlerts.aspx?AID=2736"
+    },
+    {
+     "label": "Master Plan (PDF)",
+     "url": "https://cityofypsilanti.com/DocumentCenter/View/5282/FINAL-2026-2030-City-of-Ypsilanti-Parks-And-Recreation-Master-Plan"
+    }
+   ],
+   "depth_score": 8,
+   "extraction_method": "plain"
+  },
   {
    "iso": "2026-08-18T12:00:00+00:00",
    "region": "metro",
