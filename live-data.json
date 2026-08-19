@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-19T20:37:40+00:00",
+ "updated_at": "2026-08-19T21:34:09Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Detroit-area residents describe daily life next to large data centers",
+   "dek": "The Detroit Free Press reports on noise, traffic, and electricity costs felt by people living beside Michigan data centers. Nearby homes face constant equipment hum and higher utility bills as more facilities come online. The story shows concrete effects for anyone within a short drive of proposed sites.",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQWRpOFBpaUNFdzlhR3NGTzFpamw4MUVITUotMWh6MzNkVXhnNHRUZWRtT3pqdWg2YlgwaWZfbE51Tlljc3lteldFWW5nekxhRTJ6TTJLejV3SWlOVlN3cTdOZDFZNGY1VjExcHRGaVVrclcxZ2pJc1puaFBTOXVzdDZMYjRSby1CXzd2a0NCbWNlbDBLek52NVRZVndqYlVFRS1wN1BBMk9YcXp3Vmc?oc=5",
+   "source": "Detroit Free Press",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Wayne",
+   "tag": "Explainers",
+   "iso": "2026-08-19T17:50:00Z",
+   "id": "fabd4f40591f",
+   "origin": "google-news",
+   "source_title": "What it looks like to live next to a sprawling data center - Detroit Free Press",
+   "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQWRpOFBpaUNFdzlhR3NGTzFpamw4MUVITUotMWh6MzNkVXhnNHRUZWRtT3pqdWg2YlgwaWZfbE51Tlljc3lteldFWW5nekxhRTJ6TTJLejV3SWlOVlN3cTdOZDFZNGY1VjExcHRGaVVrclcxZ2pJc1puaFBTOXVzdDZMYjRSby1CXzd2a0NCbWNlbDBLek52NVRZVndqYlVFRS1wN1BBMk9YcXp3Vmc?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Resident demands rule changes after recall bid over data center vote fails",
    "dek": "A Michigan voter tried to oust local officials who backed a data center project and lost. She is now pushing broader changes to how such votes are handled. Readers across the state see how one township fight could shape future projects and accountability.",
@@ -171,23 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbFIyb3BTcVpPdThDTzM1cEtITGoxUlo5VV9NWjlJa2FGOHRKTm5GUlgyeVVEczBOaXVVYVRYVmtHTEVtZTc4UEVrTWdzX2NTbmtFNkZQQkhyTkNyZ1B1a3FoTi1tNkVIZTc1akgyUjBVMGpyeVgzanFLbjJ3M2VBWUxOQmhmT09FV3pDQWc0Nlp2UWlOTUJKT1ptcjRsQW5Wb0NjdTlxS1dJQU9tWTVJU2k3V3pFejFaTFE2Z0c4WUFTTFNRVm1tMG9veTh2NWxnXzhadVZpS3dya00xZHJ4UUhaZXNVcDRYT0tadzJrZ0JZRUNtWmZz?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
-  },
-  {
-   "title": "Coldwater drafts rules to steer data center growth",
-   "dek": "Township officials heard from a consultant on how to limit building size, noise and power use. The draft ordinance would give local boards more say over where centers can locate. Residents nearby could face fewer surprise projects and clearer limits on industrial sprawl.",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNVN1OGliMXdSTTdwQXlmdUtNd0JzTmZteFpJaS1uWHBRekoyRC1Tc3AzeUNUOVR2aGt4bl9oRmFiVjhjQU9rbVlIN1RGNktGUFRTbUZ0WlcxTTZCNkQ3WVgzYml4OHhSZW0yMlhMMXV0QnV1WEI3cnF6eTFaTnhQb0xOc3VoMTIybERKYlJPREt2NkVPWEw4WGJMbzBNalViQ2lJSzNHYm9YcjZxeTluYUFfR2FGbTl0eDQtWEJNcHhwSkk1MGFEMkVKaGc3V0dEY2VwcHFha0VJblJIX1p3?oc=5",
-   "source": "Coldwater Daily Reporter",
-   "region": "mid",
-   "cat": "STATEWIDE",
-   "county": "Branch",
-   "tag": "Local Government",
-   "iso": "2026-08-18T17:50:00Z",
-   "id": "45e08bc09698",
-   "origin": "google-news",
-   "source_title": "Coldwater hears expert as it drafts data center control ordinance - Coldwater Daily Reporter",
-   "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNVN1OGliMXdSTTdwQXlmdUtNd0JzTmZteFpJaS1uWHBRekoyRC1Tc3AzeUNUOVR2aGt4bl9oRmFiVjhjQU9rbVlIN1RGNktGUFRTbUZ0WlcxTTZCNkQ3WVgzYml4OHhSZW0yMlhMMXV0QnV1WEI3cnF6eTFaTnhQb0xOc3VoMTIybERKYlJPREt2NkVPWEw4WGJMbzBNalViQ2lJSzNHYm9YcjZxeTluYUFfR2FGbTl0eDQtWEJNcHhwSkk1MGFEMkVKaGc3V0dEY2VwcHFha0VJblJIX1p3?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {
