@@ -1,7 +1,41 @@
 {
- "updated_at": "2026-08-19T09:42:09+00:00",
+ "updated_at": "2026-08-19T10:38:31Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Oakland County data center project reaches make-or-break vote",
+   "dek": "A proposed facility faces a pivotal local decision while lawsuits and state rules create uncertainty. Residents could see changes in power demand and tax revenue if the project advances. The outcome will set precedent for similar proposals across metro Detroit suburbs.",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbGhDRF9NMktJbVJGbEhidXVrRklVbmtHNV84VDhzTFEtOVR5Zi1vUG1qQUR1NkdRWENWVFB3M0ZsT1AtdFdZVWtnT0lDX1EwTm5lZHhmeTgybWx6NTdTa0ZoY1pXM2J0UE5mZHliSDdueEQwNmtFbnVnQnFTTVlBeHlFdi11RjhkWHhfU0Fn?oc=5",
+   "source": "Crain's Detroit",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Oakland",
+   "tag": "Local Government",
+   "iso": "2026-08-19T09:45:00Z",
+   "id": "d856650ad7c2",
+   "origin": "google-news",
+   "source_title": "Data center in Oakland County faces critical vote amid legal, regulatory hurdles - Crain's Detroit",
+   "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbGhDRF9NMktJbVJGbEhidXVrRklVbmtHNV84VDhzTFEtOVR5Zi1vUG1qQUR1NkdRWENWVFB3M0ZsT1AtdFdZVWtnT0lDX1EwTm5lZHhmeTgybWx6NTdTa0ZoY1pXM2J0UE5mZHliSDdueEQwNmtFbnVnQnFTTVlBeHlFdi11RjhkWHhfU0Fn?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
+  {
+   "title": "Developer snaps up Saline golf course to make way for server farm",
+   "dek": "The purchase of Rustic Glen positions the developer to convert recreational land into a large-scale facility. Washtenaw County taxpayers and neighbors will feel effects on property values, water use, and local taxes. The move follows earlier tax-break talks for the same company.",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSXNsREhDdmhCY1RDaWE5Vk4tMmhXY2ZXVTlZNWxVTkFnM0FNeUEweEUzUWRXai1LV1REZGFSNnBMa29KNTVFVHNUNl9sT1lndXJZdmZ1UldaRWdGLUVaVVZsemVTNkpVbmx5a1JxdXBFWUdWSGFRNDBwSC00d194M0tkTVF1QmNnQVdGNWFjN2I1RUs4cFFlRjdGcw?oc=5",
+   "source": "The Saline Post",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Money",
+   "iso": "2026-08-19T07:58:41Z",
+   "id": "de1e3c2f68f5",
+   "origin": "google-news",
+   "source_title": "Related Digital Acquires Rustic Glen Golf Course - The Saline Post",
+   "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSXNsREhDdmhCY1RDaWE5Vk4tMmhXY2ZXVTlZNWxVTkFnM0FNeUEweEUzUWRXai1LV1REZGFSNnBMa29KNTVFVHNUNl9sT1lndXJZdmZ1UldaRWdGLUVaVVZsemVTNkpVbmx5a1JxdXBFWUdWSGFRNDBwSC00d194M0tkTVF1QmNnQVdGNWFjN2I1RUs4cFFlRjdGcw?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "Mason-area residents fight proposed data center over noise and power strain",
    "dek": "Neighbors near Mason are organizing against a new data center project in Ingham County. The facility would add significant electricity demand and potential constant noise to a rural area already concerned about industrial growth. Local pushback could shape how quickly data centers expand around Lansing.",
@@ -152,38 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ITmJjZHJFRDBiR0RwS2duQ21uZ2ZXVERXRFVzTHp5M3RDSFEzSGU4V3lQODkzRkpJSl9TNGNnT3l2S1RKYUpBWHhBX3BkUQ?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
-  },
-  {
-   "iso": "2026-08-18T05:00:00Z",
-   "region": "mid",
-   "cat": "Branch Co.",
-   "tag": "Local Government",
-   "title": "Coldwater Mayor Says No Interest in Data Center Over Water and Power Use",
-   "dek": "MSU expert told joint council meeting that consumption and property-value effects scale with facility size. Officials plan new ordinances to discourage developers.",
-   "source": "WTVB",
-   "url": "https://wtvbam.com/2026/08/18/971643/",
-   "breaking": false,
-   "lead": true,
-   "id": "800f895d28f9",
-   "accuracy": "checked-rewritten",
-   "judge_score": 8
-  },
-  {
-   "title": "Kalamazoo blocks new data centers and battery plants for a full year",
-   "dek": "The city enacted the moratorium after residents raised alarms over noise, power strain and water use. The one-year pause gives officials time to write permanent zoning rules that could limit where these facilities can locate. Kalamazoo joins other Michigan communities trying to slow the rapid spread of large-scale data projects.",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeGtja3ZaclVjdEN5MTBKZUNNNUNzQ3VXUmxpNjlMVUN1d1VkaVBGeGE4Vl9LMEEtY0NaNVA2UE5QVWhrb0ZlSUhTTkM2U1hfckFYMF9xSEtXSDcxZzY1OXF5RXctY0F5YVcxbkRUaFlBNHRSUGJVMjQzMi1MVnRPSnlaVDQ1STBVY21YTmh5aDBVR29xckRJM1ZPUTJBM1dNcEFFNWs4NENReUNGZ2RPbFRhLW1abmlOU0FwZEhOUUNma0J1OG9FSjhOR1N4dzJ2ektwd0VnSW9wMDQtNWhJbS1VendsUTltX01jeg?oc=5",
-   "source": "WZZM13.com",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Kalamazoo",
-   "tag": "Local Government",
-   "iso": "2026-08-18T03:35:00Z",
-   "id": "73f9297973f1",
-   "origin": "google-news",
-   "source_title": "Kalamazoo implements yearlong halt on data centers, battery plants amid community concerns - WZZM13.com",
-   "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeGtja3ZaclVjdEN5MTBKZUNNNUNzQ3VXUmxpNjlMVUN1d1VkaVBGeGE4Vl9LMEEtY0NaNVA2UE5QVWhrb0ZlSUhTTkM2U1hfckFYMF9xSEtXSDcxZzY1OXF5RXctY0F5YVcxbkRUaFlBNHRSUGJVMjQzMi1MVnRPSnlaVDQ1STBVY21YTmh5aDBVR29xckRJM1ZPUTJBM1dNcEFFNWs4NENReUNGZ2RPbFRhLW1abmlOU0FwZEhOUUNma0J1OG9FSjhOR1N4dzJ2ektwd0VnSW9wMDQtNWhJbS1VendsUTltX01jeg?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 9
   }
  ],
  "national": {
@@ -204,7 +206,7 @@
   {
    "iso": "2026-08-19",
    "body": "Ypsilanti Planning Commission",
-   "topic": "Public hearing on zoning ordinance text amendments to regulate data centers, including new definitions and use-based standards",
+   "topic": "Public hearing on zoning ordinance text amendment for data centers",
    "region": "SE Michigan",
    "regionKey": "metro",
    "county": "Washtenaw",
@@ -212,7 +214,7 @@
    "status": "Planning commission",
    "urgent": true,
    "link": "https://cityofypsilanti.com/CivicAlerts.aspx?AID=2736",
-   "linkLabel": "Agenda",
+   "linkLabel": "Agenda & Notice",
    "stream": ""
   },
   {

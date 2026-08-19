@@ -1,27 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
-   "title": "Amazon's Texas Data Center Plan Raises Concerns Over Massive New Pollution Source",
-   "at": "2026-08-10T19:34:58+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National story about Texas pollution concerns; no Michigan angle or development."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMHpJbVFpME1rNTFPODRnNjhsR0dzQmZZMXltaG1NRldxQWZkMkxKM3RmRm9sQTgtLVkyak9DQ0pxRmYyQTFZWGNhM1FqdFRsQzJ1d0g3a0ZjMnRDWWxUZHFZcnZUZmZZZk0wWmNIeTFPRk1CS1J0VDdJZmhhVnZUSkNkTUdZbjNieGE2WGNWVl9ybmpzMUE?oc=5",
-   "title": "Crain’s Detroit warns data-center growth will test Michigan’s grid and tax base",
-   "at": "2026-08-10T19:34:58+00:00",
-   "by": "news_judge",
-   "note": "score 5/10: Editorial/opinion piece calling for stronger rules but reports no actual policy action or decision."
-  },
-  {
-   "url": "https://www.aol.com/articles/nessel-wants-hold-mpsc-accountable-210656000.html",
-   "title": "Attorney General Nessel appeals MPSC approval of Saline Township data center energy contracts",
-   "at": "2026-08-10T20:18:36+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Duplicate of already-live 'Nessel appeals DTE deal to supply power to Saline data center' — same appeal, same project."
-  },
-  {
    "url": "https://www.reuters.com/legal/transactional/lenders-scrutinize-us-data-center-financing-community-opposition-builds-2026-08-10/",
    "title": "Lenders tighten scrutiny on data center projects amid rising community pushback",
    "at": "2026-08-10T20:18:36+00:00",
@@ -1399,6 +1378,27 @@
    "at": "2026-08-19T08:49:36+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Duplicate of killed story 'House Speaker Johnson Campaigns Against Federal Data Center Moratorium in Michigan Swing District'—same campaign visit, same topic."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPYUJDczVIcENta29QM1VrdWNEWlhqUUtBTkFHQVd3dUo3Rmp1M3FWYjVOaTZVZ1V0MWRiYzJIeFhRZlc5blpqSWdPWlBkb28xbVVGZnpwVXhuM3NMN3JmME1oUWxEbXY1MWJPbGY0Sk1UOS1sVzh3bnY0N25XSmhCUW4xcV91SE1PakIweDl2SlRhaTU2WndxWHlUOGlQTXl6U3lNMF9SaDRzc3ZQcXdhYWxxYVpBcXI5WFRZQU9Uby11bG9zamtWcUJmTWlWZkhYZHItM2l1WUtjNGZLbHp0Ri1TNll3UkVuMUw5bGpaQk9xS1d0bkluaG4wWk5ydi05VWh5VlVPakN4a2htVGpwRzg3bVVMZndrNlEyR2lQRzM?oc=5",
+   "title": "Michigan township pushes back on state data center law Whitmer just endorsed",
+   "at": "2026-08-19T10:38:31+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Vague reaction piece to state law without identifying specific township, specific vote, or concrete local action."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaVNlYlkwS0xjNUdMSlM3cHN3R0lXanZYMTdFVTBwM0Z4bUlOUEV6WWV1Nmlvd0p0LXE2QmNGZ0VFNkZDT1JnNUtiZEVMXzVJdjN3azdkYTVaRl9LYXc5R1pIazNDTnhsc1RxNElLTDJnM201OEJhTURfYkhfRzl5NVQyQ09wMkg1NGVVUUk1N1k?oc=5",
+   "title": "Kalamazoo area residents get update on local data center plans",
+   "at": "2026-08-19T10:38:31+00:00",
+   "by": "news_judge",
+   "note": "score 2/10: Roundup/aggregation piece with no new concrete development, just 'update' on existing activity."
+  },
+  {
+   "url": "https://cityofypsilanti.com/CivicAlerts.aspx?AID=2736",
+   "title": "Ypsilanti proposes new zoning division for data centers",
+   "at": "2026-08-19T10:38:31+00:00",
+   "by": "news_judge",
+   "note": "score 7/10, duplicate: Same August 19 Ypsilanti hearing and zoning amendment as candidate 4, just reworded."
   }
  ],
  "auto_published": [
@@ -3129,6 +3129,18 @@
    "title": "Mason-area residents fight proposed data center over noise and power strain",
    "judge_score": 7,
    "at": "2026-08-19T08:49:36Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSXNsREhDdmhCY1RDaWE5Vk4tMmhXY2ZXVTlZNWxVTkFnM0FNeUEweEUzUWRXai1LV1REZGFSNnBMa29KNTVFVHNUNl9sT1lndXJZdmZ1UldaRWdGLUVaVVZsemVTNkpVbmx5a1JxdXBFWUdWSGFRNDBwSC00d194M0tkTVF1QmNnQVdGNWFjN2I1RUs4cFFlRjdGcw?oc=5",
+   "title": "Developer snaps up Saline golf course to make way for server farm",
+   "judge_score": 8,
+   "at": "2026-08-19T10:38:31Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbGhDRF9NMktJbVJGbEhidXVrRklVbmtHNV84VDhzTFEtOVR5Zi1vUG1qQUR1NkdRWENWVFB3M0ZsT1AtdFdZVWtnT0lDX1EwTm5lZHhmeTgybWx6NTdTa0ZoY1pXM2J0UE5mZHliSDdueEQwNmtFbnVnQnFTTVlBeHlFdi11RjhkWHhfU0Fn?oc=5",
+   "title": "Oakland County data center project reaches make-or-break vote",
+   "judge_score": 6,
+   "at": "2026-08-19T10:38:31Z"
   }
  ]
 }
