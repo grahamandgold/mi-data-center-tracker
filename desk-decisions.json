@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://kfgo.com/2026/08/10/lenders-scrutinize-us-data-center-financing-as-community-opposition-builds/",
-   "title": "Banks Add Community Checks to Data Center Loan Reviews",
-   "at": "2026-08-10T11:16:15+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: National trend piece about lending practices with only vague references to Virginia and Illinois, lacks Michigan-specific development or concrete local action."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSUlUSFlud3RESU1yUWpCNXZNR0drVFl5MGxXUmFEOHpUSFNtbGpnaUs1TmNVUEtDYlBrem1yX2VYTjd0SkpzeUZORHJQeDhjZnZVWl91VFhtWF9XcFZOWlVySG85bUhxRXlhMjNtWTRibmVnY2ZrWWRMbndwSWN5XzlBN0ZnRVV1NzFjalJjRk95QQ?oc=5",
-   "title": "Lowell Township readies ordinance to steer data center growth",
-   "at": "2026-08-10T12:11:53+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: This is the same Lowell Township ordinance development already live in the first headline, just reworded."
-  },
-  {
    "url": "https://michiganadvance.com/2026/08/10/michigan-data-centers-the-weekly-download-3-2-2-2-2-2-2-2/",
    "title": "Augusta Voters Reject Rezoning for Proposed Data Center",
    "at": "2026-08-10T18:26:51+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-19T05:41:27+00:00",
    "by": "news_judge",
    "note": "score 2/10: Routine legislative procedural update (co-sponsor added) on a bill unrelated to data centers."
+  },
+  {
+   "url": "https://watershedvoice.com/2026/08/18/kalamazoo-city-commission-passes-one-year-data-center-moratorium/",
+   "title": "Kalamazoo City Commission approves one-year moratorium on data centers and related facilities",
+   "at": "2026-08-19T06:57:58+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This is the same Kalamazoo one-year moratorium already covered in multiple LIVE and KILLED stories, just with slightly different wording about the vote."
+  },
+  {
+   "url": "https://www.wilx.com/2026/08/18/mason-city-council-approves-data-center-communication-plan/",
+   "title": "Mason City Council adopts outreach plan for potential data center project, schedules September town hall",
+   "at": "2026-08-19T06:57:58+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This Mason outreach plan and town hall scheduling is the same event already KILLED as 'Mason council OKs outreach plan before any data center arrives.'"
   }
  ],
  "auto_published": [
