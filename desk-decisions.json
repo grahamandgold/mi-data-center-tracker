@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdDRNcDFQRGp0c3dLbDhVZ0wxWTVtYUYwMWJVZUQ4eXNiUHJhTjd3TVdGZVhfcEo2dzJpMjUzQWVoUlVPdDBtVFhHNnR0ZG42b0g0VFF3UklDa05hUDQ5am5SVjg3Q1NCaGczd0VaYzExby1KN1Vza0hDbDNyT1kzdHk0TUJtSDZqMHRhTWtPQ3F4SXdKNGFBUkp6VWRscXg3Z1BCdGxUU3hORkRrdjB6VzNQdEZfcmcyQVphWUs4V3pIUnVXdlNhaFlB?oc=5",
-   "title": "Lowell Township data center rules still months from final vote",
-   "at": "2026-08-11T11:24:51+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Rehashes the same Lowell Township delay already covered in 'Lowell pushes data center rules back by months' — no new development reported."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOV2hZdTcxMFl1OHVvNlVvcTREZHFVdjBHSXFJaGplYlVqZEVzU1pEZHlrbnRkN08yNXJEMGE3U3d5YVVMVGQ1V0VGM09DUmhXMFYxTlAzOEdaTlZuS3hOcFE4NHpkT1VUS3ZvUUE3Q21fWDlLcEJRY2RUdGFjc0xCZGN4NVBPSHRxVnB3eFRIT21SZ0I0ZUR5TVc1bVFEV1NZTGRBb29jTGR6alZNN0JxMDJpUDB6SjlzMy0yc1dXdTE0RGtNZ2pvTWR2d1ZxZDUtR3I1S2Q3bWVYSjNjSk9uRUFNLTUzR1Npcm9FclN5SGFEbzhoZmdSWGRBNV9sR2hXLS03Ym56MFBuOFB1SWF3?oc=5",
    "title": "Hyperscale Data weighs sale of its Michigan data center",
    "at": "2026-08-11T11:24:51+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-19T23:34:42+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: This is the same lawsuit already covered in the LIVE story 'Gibraltar sued after rejecting data center project' — just a different headline for the identical le"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ3V2ZEtKWnNuQ2N2c0c2akYzOWdRVEdtcnEydklvZ2lmRWZjQlZkSF9zZ2g0XzlvZno2Q1BLdEtkcnlkdlBuNG01ODFhM3IyUGtDUExOS0RTc3pCWDlYNjFocW5PNGxlRTYtaXIzM29OU0NTUWQ0d1ZzTTlRZ0trWjRIOUJLZ2Z3c2VyaTJhaXpNX0g3MTJtNGhWZ3Z3OFJpLVFJa2N2bXhsbWxYSWM0ZmlSejhqRk5ORGpoQWo5RXlQS2RKVENaYi1sVG9kR0N4TTBiNGV3RTVoR29ibHNJ?oc=5",
+   "title": "Gibraltar developer sues city after data center block",
+   "at": "2026-08-19T23:51:02+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: This is the same lawsuit already covered in the ALREADY-LIVE story 'Gibraltar sued after rejecting data center project' — just a different headline phrasing for"
   }
  ],
  "auto_published": [
