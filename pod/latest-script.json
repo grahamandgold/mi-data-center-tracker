@@ -1,10 +1,10 @@
 {
  "title": "Evenings with Graham & Emmy",
- "teaser": "Developer sues over Gibraltar ban while Coldwater and others draft limits on power, noise and water use.",
+ "teaser": "Grattan enacts 8-month data center halt while Ypsilanti targets power lines for U-M plans",
  "lines": [
   {
    "host": "Graham",
-   "text": "Good evening, and welcome to Evenings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
+   "text": "Good evening and welcome to Evenings with Graham & Emmy, the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
   },
   {
    "host": "Emmy",
@@ -12,266 +12,254 @@
   },
   {
    "host": "Graham",
-   "text": "Tonight we're digging into a federal lawsuit filed yesterday against the city of Gibraltar over its year-long data center moratorium."
+   "text": "Tonight we're digging into why more townships are hitting the brakes on these massive projects."
   },
   {
    "host": "Emmy",
-   "text": "That sounds like it could set a precedent for all these other towns we've been hearing about."
+   "text": "Let's start with the lead story out of Kent County."
   },
   {
    "host": "Graham",
-   "text": "Exactly. CAL Realty and Raeden Acquisitions say the ban is an unlawful blanket prohibition that ignores their compliance with existing zoning."
+   "text": "Grattan Township's board voted Monday for an eight-month moratorium on new data centers."
   },
   {
    "host": "Emmy",
-   "text": "So what's the bigger picture here? Why are so many communities hitting pause right now?"
+   "text": "It expires April 30, 2027, and it came on a recommendation from their legal counsel."
   },
   {
    "host": "Graham",
-   "text": "Residents keep raising the same concerns: massive power draws that could drive up electric bills, heavy water use for cooling, noise from the facilities, and pressure on farmland and local roads."
+   "text": "Exactly. This fits a pattern we've seen building across the state this summer."
   },
   {
    "host": "Emmy",
-   "text": "How long has this tension been building? It feels like more than just this week."
+   "text": "Why are these pauses happening now? What's the bigger pressure point?"
   },
   {
    "host": "Graham",
-   "text": "It's been accelerating this year. Towns like Kalamazoo just enacted a full-year moratorium yesterday after similar pushback on noise, power and water."
+   "text": "Data centers need enormous amounts of power and water, and local officials are realizing the grid and aquifers weren't built for that scale."
   },
   {
    "host": "Emmy",
-   "text": "And Genoa Township extended theirs another year, right?"
+   "text": "So it's not just one township reacting to one proposal."
   },
   {
    "host": "Graham",
-   "text": "Yes, they voted to keep the freeze in place while they study impacts on roads, power and wells."
+   "text": "Right. Grattan is looking at the same issues Ypsilanti Township tackled today with its own moratorium on large utility structures tied to the University of Michigan's supercomputer expansion."
   },
   {
    "host": "Emmy",
-   "text": "What does a typical moratorium actually accomplish for a small city?"
+   "text": "That one specifically blocks infrastructure that could feed heavy electricity users."
   },
   {
    "host": "Graham",
-   "text": "It buys time to write permanent zoning rules that set limits on size, sound, setbacks and where these projects can even go."
+   "text": "Yes, and it gives officials time to study impacts on power demand and land use before anything gets locked in."
   },
   {
    "host": "Emmy",
-   "text": "Coldwater is doing something similar today, drafting rules to steer growth."
+   "text": "How does this affect everyday residents who aren't right next door?"
   },
   {
    "host": "Graham",
-   "text": "Township officials heard from a consultant on limiting building size, noise and power use. The draft would give local boards more say over locations."
+   "text": "Washtenaw County residents could see delayed projects, but also potential ripple effects on regional utility rates if demand keeps spiking."
   },
   {
    "host": "Emmy",
-   "text": "Bay City is also moving on an ordinance with strict limits on size, sound and setbacks."
+   "text": "What about the noise and traffic stories we've been hearing?"
   },
   {
    "host": "Graham",
-   "text": "Residents even 30 miles away could feel changes in power rates and water use if big projects move forward anyway."
+   "text": "The Detroit Free Press piece today shows people living beside existing centers dealing with constant equipment hum and higher bills already."
   },
   {
    "host": "Emmy",
-   "text": "So the lawsuit in Gibraltar is really testing whether these pauses can hold up in court."
+   "text": "So the concerns aren't theoretical anymore."
   },
   {
    "host": "Graham",
-   "text": "The developers argue it blocks projects that would otherwise meet zoning standards. A win for them could open doors that residents have been fighting on power and noise grounds."
+   "text": "No, and that's feeding into why Grattan and others are acting before more facilities come online."
   },
   {
    "host": "Emmy",
-   "text": "Who are the main players in these fights across the state?"
+   "text": "Let's talk about the land angle too. There's that golf course sale near Saline."
   },
   {
    "host": "Graham",
-   "text": "On one side, developers and companies looking for tax incentives and available land. On the other, city councils, residents and sometimes neighboring towns worried about infrastructure strain."
+   "text": "Related Digital bought Rustic Glen to expand near the big Oracle campus. That adds years of construction pressure on roads, power lines, and water."
   },
   {
    "host": "Emmy",
-   "text": "What kind of power demand are we talking about that makes electric bills a real issue?"
+   "text": "And Saline is pressing the state on wastewater permits for millions of gallons."
   },
   {
    "host": "Graham",
-   "text": "These facilities can consume enormous amounts of electricity. Even mid-sized ones scale up fast, and that demand can affect rates for everyone on the grid."
+   "text": "Township officials want EGLE to explain how it protects local wells, since downstream communities share the aquifer."
   },
   {
    "host": "Emmy",
-   "text": "Water use is another big one for cooling systems."
+   "text": "What happens next in these places after a moratorium passes?"
   },
   {
    "host": "Graham",
-   "text": "Exactly. Some proposals would pull significant volumes, raising questions about local wells and overall supply in certain areas."
+   "text": "Officials use the time to write rules on noise, water use, energy efficiency, and decommissioning."
   },
   {
    "host": "Emmy",
-   "text": "And farmland conversion is part of the sprawl concern too."
+   "text": "We've seen that in Ypsilanti's planning commission agenda tonight."
   },
   {
    "host": "Graham",
-   "text": "Yes, especially in rural townships where large sites are easier to find but residents worry about losing agricultural land and seeing industrial development creep in."
+   "text": "Exactly. They're holding public hearings on zoning text amendments that would set standards for all those things."
   },
   {
    "host": "Emmy",
-   "text": "Coldwater residents got their first look at plans and risks yesterday in an informational session."
+   "text": "How many other townships have done something similar recently?"
   },
   {
    "host": "Graham",
-   "text": "Officials laid out potential jobs versus infrastructure strain, with concrete numbers on power and water demand."
+   "text": "It's becoming a common tool. Grattan's eight months gives them breathing room similar to what others have sought this year."
   },
   {
    "host": "Emmy",
-   "text": "The mayor there has already said there's no interest because of water and power use."
+   "text": "And there's that resident in one township who tried to recall officials over a data center vote and lost."
   },
   {
    "host": "Graham",
-   "text": "An MSU expert told the joint council meeting that consumption and property-value effects scale directly with facility size."
+   "text": "She's now pushing for broader changes in how these votes are handled statewide."
   },
   {
    "host": "Emmy",
-   "text": "So they're planning new ordinances to discourage developers."
+   "text": "So accountability questions are rising too."
   },
   {
    "host": "Graham",
-   "text": "That's the pattern we're seeing: more towns moving from moratoriums to permanent rules."
+   "text": "Yes, and that could shape how future projects get approved or blocked."
   },
   {
    "host": "Emmy",
-   "text": "What happens next in the Gibraltar case specifically?"
+   "text": "What about the Oakland County project that's heading to a make-or-break vote?"
   },
   {
    "host": "Graham",
-   "text": "The federal lawsuit will play out in court. It puts local tax incentives and land-use rules under scrutiny."
+   "text": "Lawsuits and state rules are creating uncertainty there, and the outcome could set precedent for metro Detroit suburbs."
   },
   {
    "host": "Emmy",
-   "text": "Could a ruling affect the other moratoriums happening right now?"
+   "text": "Tax revenue versus power demand is the classic tradeoff."
   },
   {
    "host": "Graham",
-   "text": "Potentially. If the developers win, it might encourage more challenges elsewhere or push towns to craft tighter but defensible ordinances."
+   "text": "Residents will feel changes in both if it advances."
   },
   {
    "host": "Emmy",
-   "text": "Meanwhile Mason residents are pushing back on a plan near the city."
+   "text": "Back to Grattan for a minute. Who are the main players pushing for or against these pauses?"
   },
   {
    "host": "Graham",
-   "text": "They voiced worries about noise, traffic and electricity costs at a packed council meeting yesterday."
+   "text": "Local boards and residents concerned about farmland conversion and infrastructure strain versus developers and sometimes utilities wanting to move fast."
   },
   {
    "host": "Emmy",
-   "text": "The council approved a public communication plan instead of rushing approvals."
+   "text": "Any sense of how long these fights usually last?"
   },
   {
    "host": "Graham",
-   "text": "That shows even smaller towns are now facing this pressure and choosing to slow down."
+   "text": "They've been stretching out over months as more proposals surface near existing campuses like Oracle's in Saline."
   },
   {
    "host": "Emmy",
-   "text": "Kalamazoo also blocked new data centers and battery plants for a full year yesterday."
+   "text": "What could break the logjam at the state level?"
   },
   {
    "host": "Graham",
-   "text": "After residents raised alarms over the same issues: noise, power strain and water use."
+   "text": "Clearer rules from EGLE on wastewater and from the utilities on how new demand gets allocated without raising everyone's bills."
   },
   {
    "host": "Emmy",
-   "text": "It feels like a statewide wave of communities trying to get ahead of the buildout."
+   "text": "That seems to be what the Ypsilanti and Grattan pauses are buying time for."
   },
   {
    "host": "Graham",
-   "text": "The lawsuit is the first big legal test of whether those pauses can stick."
+   "text": "Precisely. Local control while the bigger picture gets sorted."
   },
   {
    "host": "Emmy",
-   "text": "What should listeners watch for in the coming weeks?"
+   "text": "Okay, let's move to quick hits. Starting with the Detroit-area resident stories."
   },
   {
    "host": "Graham",
-   "text": "Court filings in Gibraltar, more ordinance votes like the ones in Coldwater and Bay City, and whether other developers file similar suits."
+   "text": "The Free Press reports concrete effects: constant hum, traffic, and higher utility bills for neighbors."
   },
   {
    "host": "Emmy",
-   "text": "And how residents 30 or 60 miles away might start feeling the ripple effects on their own utility bills."
+   "text": "And that one voter pushing rule changes after her recall bid failed."
   },
   {
    "host": "Graham",
-   "text": "Exactly. The outcomes here could shape what these facilities look like across Michigan."
+   "text": "She wants broader reforms so townships handle these votes differently going forward."
   },
   {
    "host": "Emmy",
-   "text": "Thanks for laying that out. Let's move to some quick hits on the other stories from today and yesterday."
+   "text": "On the Saline side, the golf course purchase adds to the Oracle expansion pressure."
   },
   {
    "host": "Graham",
-   "text": "Coldwater residents got their first look at data center plans and risks in an informational session yesterday."
+   "text": "Related Digital now controls more land right next to the $43 billion campus."
   },
   {
    "host": "Emmy",
-   "text": "Branch County folks now have concrete numbers on jobs versus infrastructure strain."
+   "text": "Ypsilanti Township also enacted a full land-use moratorium blocking new data center proposals."
   },
   {
    "host": "Graham",
-   "text": "Bay City is drafting rules to curb sprawl and noise with strict limits on size, sound and setbacks."
+   "text": "That one studies roads, power, and noise impacts before anything moves ahead."
   },
   {
    "host": "Emmy",
-   "text": "Genoa Township voted to extend its data center freeze another year while studying impacts."
+   "text": "And separately they halted big utility builds tied to the U-M supercomputer."
   },
   {
    "host": "Graham",
-   "text": "Kalamazoo enacted its own one-year moratorium yesterday after resident concerns."
+   "text": "Both moves aim to give locals more say before industrial-scale development locks in."
   },
   {
    "host": "Emmy",
-   "text": "Mason residents pushed back at a packed meeting and the council approved a communication plan instead of quick approvals."
+   "text": "Oakland County's project is still at that pivotal local decision point."
   },
   {
    "host": "Graham",
-   "text": "And another update: Mason City Council also approved that communication plan to keep residents informed."
+   "text": "Lawsuits and state rules keep the uncertainty high there."
   },
   {
    "host": "Emmy",
-   "text": "Now let's look at what's on deck for listeners who want to attend meetings."
+   "text": "Now for on deck."
   },
   {
    "host": "Graham",
-   "text": "Tonight the Morley Village Council is taking up a data center proposal for the Morley dam site."
+   "text": "Tonight the Ypsilanti Planning Commission holds a public hearing on zoning ordinance text amendments for data centers."
   },
   {
    "host": "Emmy",
-   "text": "Also tonight, Ypsilanti Township Board of Trustees will vote on a six-month moratorium on power transmission infrastructure for data centers."
+   "text": "That covers definitions, noise standards, water use, energy efficiency, and decommissioning rules."
   },
   {
    "host": "Graham",
-   "text": "The Village of Morley Board has the same proposal discussion and vote on its agenda."
+   "text": "The City of Ypsilanti Planning Commission has the same hearing on its agenda."
   },
   {
    "host": "Emmy",
-   "text": "Tomorrow the Ypsilanti Planning Commission holds a public hearing and recommendation on zoning ordinance text amendments for data centers."
+   "text": "Listeners can attend either one if they're in the area."
   },
   {
    "host": "Graham",
-   "text": "That includes definitions, permissible uses, performance standards, noise, water, energy and decommissioning rules."
-  },
-  {
-   "host": "Emmy",
-   "text": "And the City of Ypsilanti Planning Commission has a similar public hearing on zoning text amendments for data centers."
-  },
-  {
-   "host": "Graham",
-   "text": "Plenty of chances for residents to weigh in directly."
-  },
-  {
-   "host": "Emmy",
    "text": "Full sources and the live map at the Michigan Data Center Tracker."
   },
   {
-   "host": "Graham",
+   "host": "Emmy",
    "text": "We're back tomorrow."
   }
  ],
- "episode_title": "Gibraltar Lawsuit Tests Data Center Moratoriums as Towns Tighten Rules",
+ "episode_title": "Grattan Township Pauses Data Centers as Ypsilanti Freezes Utility Builds",
  "show": "Evenings with Graham & Emmy",
  "daypart": "Evenings"
 }
