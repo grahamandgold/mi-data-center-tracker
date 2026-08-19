@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLWNldHBzNDBnc3BBeUVoX0Nsd1NHS2FXdlBJdU8zLXlUc2RaMFNGaUkxbmN1M1hWcnpTalVoQkx3TWRGZjBlbEw3UFdnbGNXcXpjZHYzUjBFTU9XLUZwTW5FWEZ5Ty0zXzJYOERtenBNSUVwR3c1OEkyOU5LcW4yaWQwNlhnRk1DWFBrcF9LUjRXeDE2ckhIWDFQVk16V1N6SVR0dnFoTUJJNU1jOG5HaVlfNHg0YTFpMHd4ZU5LYmxLM0lyMldzYVdiTUg?oc=5",
-   "title": "Lowell pushes data center rules back by months",
-   "at": "2026-08-11T06:30:53+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Already live: 'Lowell pushes data center rules back by months' reports this exact same delay."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNU2cxNElLQXZvMWxFU0R6NWpKanRXOHpsbHJGVVR4N1kzQXlXSUpJeWI0djJTSUZoVXl5TTU1MDdpSVZfRmdEeEp0OXVpbTM4Wm5mdEpWMENQQ1FzU2drMDE0MlF6YTFDbjJyYXRfdDQyNG9maFI5SDRhR1ptYWcwVzAtTmVnSGRfaVF4YUVVUmFHdVh5UlRSRU1xMjFYQ1FnSElmMnlaSGNreVVqN3ZfZ1hPRmp3X1JQdHlzZWR5aWloZGd6QzNsYURn0gHKAUFVX3lxTE1TZzE0SUtBdm8xbEVTRHo1akpqdFc4emxsckZVVHg3WTNBeVdJSkl5YjR2MlNJRmhVeXlNNTUwN2lJVl9GZ0R4SnQ5dWltMzhabmZ0SlYwQ1BDUXNTZ2swMTQyUXphMUNuMnJhdF90NDI0b2ZoUjlINGFHWm1hZzBXMC1OZWdIZF9pUXhhRVVSYUd1WHlSVFJFTXEyMVhDUWdISWYyeVpIY2t5VWo3dl9nWE9GandfUlB0eXNlZHlpaWhkZ3pDM2xhRGc?oc=5",
    "title": "Lowell keeps data center rules months from reality",
    "at": "2026-08-11T07:48:47+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-19T19:54:48+00:00",
    "by": "news_judge",
    "note": "score 4/10: National earnings report with generic Michigan mention lacks concrete local development, project location, or actionable news for Michigan readers tracking spec"
+  },
+  {
+   "url": "https://www.aol.com/articles/details-emerge-data-center-planned-190841000.html",
+   "title": "Mason officials schedule town hall as hyperscale data center proposal advances to state review",
+   "at": "2026-08-19T20:37:51+00:00",
+   "by": "news_judge",
+   "note": "score 4/10, duplicate: This is the same Mason town hall event already covered in the killed story 'Mason City Council adopts outreach plan for potential data center project, schedules"
   }
  ],
  "auto_published": [
