@@ -1,7 +1,25 @@
 {
- "updated_at": "2026-08-19T07:47:20+00:00",
+ "updated_at": "2026-08-19T08:49:36Z",
  "generator": "grok-wire-agent",
  "items": [
+  {
+   "iso": "2026-08-18T18:00:00Z",
+   "region": "west",
+   "cat": "Kalamazoo Co.",
+   "tag": "Local Government",
+   "title": "Kalamazoo Moratorium Heads to Planning Commission for Review",
+   "dek": "The city commission's approved resolution now moves to the planning commission for recommendations before final adoption, aiming to give staff time to craft zoning rules for high-resource facilities.",
+   "source": "WKZO",
+   "url": "https://wkzo.com/2026/08/18/961011/",
+   "breaking": false,
+   "lead": false,
+   "id": "3afd00f43a4e",
+   "kind": "story",
+   "filed_at": "2026-08-19T08:49:21+00:00",
+   "accuracy": "checked",
+   "judge_score": 6,
+   "judge_note": "Incremental next step in Kalamazoo saga—moratorium moving to planning commission is a procedural development distinct from the initial vote."
+  },
   {
    "iso": "2026-08-26T12:00:00+00:00",
    "region": "statewide",
@@ -144,5 +162,5 @@
    "judge_note": "Concrete legislative development: Jeremy Moss added as co-sponsor to utility rate bill targeting data centers, a new action on a relevant bill."
   }
  ],
- "accuracy_checked_at": "2026-08-19T07:47:20+00:00"
+ "accuracy_checked_at": "2026-08-19T08:49:31+00:00"
 }

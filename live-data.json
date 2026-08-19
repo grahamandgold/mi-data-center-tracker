@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-19T07:47:20+00:00",
+ "updated_at": "2026-08-19T08:49:36Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Mason-area residents fight proposed data center over noise and power strain",
+   "dek": "Neighbors near Mason are organizing against a new data center project in Ingham County. The facility would add significant electricity demand and potential constant noise to a rural area already concerned about industrial growth. Local pushback could shape how quickly data centers expand around Lansing.",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQTBIVTc1VG1fMkVyLUZWMzMxdFp0dE9mSEplM09YeWo3UmNSdXFKTHozMHFqekwyZXAxT1hYOGFkVDRjVmpRZktKVmxwUXo0RTItdEN5T3pEZ0d3MGhITnlqZ01pTHFIOUdFTHUtSHhiNmY3QU5Pa3IxVmVZdFl2RENpbWZBM0p1amFLSFNwVQ?oc=5",
+   "source": "WLNS 6 News",
+   "region": "mid",
+   "cat": "STATEWIDE",
+   "county": "Ingham",
+   "tag": "Local Government",
+   "iso": "2026-08-19T06:59:59Z",
+   "id": "3c453462b1d3",
+   "origin": "google-news",
+   "source_title": "Community opposes proposed data center near Mason - WLNS 6 News",
+   "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQTBIVTc1VG1fMkVyLUZWMzMxdFp0dE9mSEplM09YeWo3UmNSdXFKTHozMHFqekwyZXAxT1hYOGFkVDRjVmpRZktKVmxwUXo0RTItdEN5T3pEZ0d3MGhITnlqZ01pTHFIOUdFTHUtSHhiNmY3QU5Pa3IxVmVZdFl2RENpbWZBM0p1amFLSFNwVQ?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Caledonia Township tightens land rules that could block data centers",
    "dek": "Caledonia Township in Kent County is rewriting its special land-use rules, a step that will decide whether large data-center projects can locate there. Residents 30 miles away should care because the outcome sets the template for power demand, noise, and tax revenue across western Michigan. The meeting focused on ordinance details that will govern future proposals.",
@@ -167,23 +184,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeGtja3ZaclVjdEN5MTBKZUNNNUNzQ3VXUmxpNjlMVUN1d1VkaVBGeGE4Vl9LMEEtY0NaNVA2UE5QVWhrb0ZlSUhTTkM2U1hfckFYMF9xSEtXSDcxZzY1OXF5RXctY0F5YVcxbkRUaFlBNHRSUGJVMjQzMi1MVnRPSnlaVDQ1STBVY21YTmh5aDBVR29xckRJM1ZPUTJBM1dNcEFFNWs4NENReUNGZ2RPbFRhLW1abmlOU0FwZEhOUUNma0J1OG9FSjhOR1N4dzJ2ektwd0VnSW9wMDQtNWhJbS1VendsUTltX01jeg?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 9
-  },
-  {
-   "title": "Mason residents push back on data center plan at packed council meeting",
-   "dek": "Neighbors voiced worries about noise, traffic and electricity costs from a proposed facility near the city. The council responded by approving a public communication plan instead of moving straight to approvals. The debate shows how even smaller Michigan towns are now facing big-tech development pressure.",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOXc1UnRObmhpS1BxS1dnZ1V2WmhJVk9xMy1qQzJDS0RLREJQclJyUmtrOEV3TTgzSGtqeVpXOG5SZDQ2dURNMW1jVVJrRDFvYlBMX0ZVLVItZWRsa3Jhalg2QzctblBWLWIyZFdDS0dVa0tiNDNIOWhVbGVmbU5qc0c0MWp4QXJodWNFV1BmdzFDTkZKSjFQYnRGN0tiaklj0gGmAUFVX3lxTE90RThQSUNxWkxxNEZyeVhEeUhMT0xoNjBoWWdaMVN2dnE1VVlHMWRhMFFNa3RMQ0h4MV9uOXRGZ05oSzdMZUN2Slg4X2czZ3Z2SkpBMlBzWkJSWVE3d1dCMElhTlRHc1lYdjBQVzBXTDFSYjM1ZzlhWm9iUHRUTHYzMVBLZFBxZ0tfbU04VXhTYW40LVZkdllrR29Db00xTFBldW1fX0E?oc=5",
-   "source": "WLNS 6 News",
-   "region": "mid",
-   "cat": "STATEWIDE",
-   "county": "Ingham",
-   "tag": "Local Government",
-   "iso": "2026-08-18T03:07:58Z",
-   "id": "b18715a6f243",
-   "origin": "google-news",
-   "source_title": "Residents speak out against data center at Mason City Council meeting - WLNS 6 News",
-   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOXc1UnRObmhpS1BxS1dnZ1V2WmhJVk9xMy1qQzJDS0RLREJQclJyUmtrOEV3TTgzSGtqeVpXOG5SZDQ2dURNMW1jVVJrRDFvYlBMX0ZVLVItZWRsa3Jhalg2QzctblBWLWIyZFdDS0dVa0tiNDNIOWhVbGVmbU5qc0c0MWp4QXJodWNFV1BmdzFDTkZKSjFQYnRGN0tiaklj0gGmAUFVX3lxTE90RThQSUNxWkxxNEZyeVhEeUhMT0xoNjBoWWdaMVN2dnE1VVlHMWRhMFFNa3RMQ0h4MV9uOXRGZ05oSzdMZUN2Slg4X2czZ3Z2SkpBMlBzWkJSWVE3d1dCMElhTlRHc1lYdjBQVzBXTDFSYjM1ZzlhWm9iUHRUTHYzMVBLZFBxZ0tfbU04VXhTYW40LVZkdllrR29Db00xTFBldW1fX0E?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {
