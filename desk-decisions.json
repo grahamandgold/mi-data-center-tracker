@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://example.com/no-national-update",
-   "title": "No major non-Michigan data center developments reported in the last 24 hours",
-   "at": "2026-08-10T23:09:09+00:00",
-   "by": "news_judge",
-   "note": "score 1/10: Non-story placeholder with zero news value for Michigan readers."
-  },
-  {
    "url": "https://www.uppermichiganssource.com/2026/08/11/we-cant-be-afraid-marquette-residents-learn-how-have-voice-data-centers/",
    "title": "Marquette Residents Learn Strategies to Influence Data Center Decisions",
    "at": "2026-08-11T02:22:13+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-19T13:51:56+00:00",
    "by": "news_judge",
    "note": "score 2/10: Arkansas county action has no Michigan relevance and adds nothing to Michigan data center tracking."
+  },
+  {
+   "url": "https://example.com/national-data-center-power-2026",
+   "title": "U.S. Data Center Power Demand Continues Surge as Utilities Report Record Requests",
+   "at": "2026-08-19T14:42:44+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece about power demand surge lacks Michigan-specific developments, decisions, or concrete local impact."
   }
  ],
  "auto_published": [
