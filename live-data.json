@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-19T16:39:55Z",
+ "updated_at": "2026-08-19T17:34:49Z",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -18,6 +18,23 @@
    "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONnJ0LW1EbkFZblUzaVIwVlRWVUNvMHpnV3FybE91RUpDZG1jWUFuSThrSU1acjdDNGxWLUlkb2JqaVNPODlROGV4amJaQV84WEVDR1FMY004cFpuNm90T1FfVW5TQzZSYkdUb19KNzNIU1NLRkJac1ZNRWNlZnNfMFNFNWFMcmtuem93Nk11TENQNXlmYUQ5bkZla09lUl9tWlpuVmNjVEo1c2J6S0tqa0VxblNNWDd5NVpJTjlseGJaV2RvVWtxUzBrc25VdmFzdTRLYnl6MDNDdEnSAe8BQVVfeXFMUE9PMTdXNkdFZ0o3NGVZeDJTRTVQWW5GYjBWNVFKdDFwd2VLU0tvNjh6S3Fyb19SNDV4WDlYRXJoWTJHVzlBZ3BXMk1nZTk1cXppTWM5TE1zWktHWWpwdVI0MXRSaWV3WWxUbm9XNlI1SkgtMTBhSVRFQXdKY3czSEJVc010VjhheW51b3B4dGxsT2JjbFZ4VEtfQlBnMklCRURMX2dFMjVINC1yZURxRjlXUnl4WFNKbDFDXzQ5QnhwNG92Z1pTT2UzVHJtQjZ5UlZ4SHNoeWZzUjRGaXlqS1pleGJhM1owNGwzaXdNN3c?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
+  },
+  {
+   "title": "Golf course next to Oracle's Saline site sold to data center firm",
+   "dek": "Related Digital bought Rustic Glen to expand near the $43B Oracle campus. The purchase adds pressure on Washtenaw roads, power lines and water use. Nearby homeowners could see construction lasting years.",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWHdvRWw5QlJZeGZ4TDcyTjU2QkIwVHh2MVF2SWZGLTBxZ2RzWDc4ZkdTU1NBM2FTdDRkWlVVb1JWYmN1bGdoZ3BPeGN1QU1ROFUyYnRMTHJyYmNKYTlILTA0cHhCeFBuLWlmUlpQMG5EUlVGZnF4MUh4SGFfdldfX3dzN1BkSzY1R21wNWFXUFRNZmFUTktNb19R?oc=5",
+   "source": "Crain's Detroit",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Money",
+   "iso": "2026-08-19T15:33:00Z",
+   "id": "4b995c7aa913",
+   "origin": "google-news",
+   "source_title": "Data center developer buys golf course next to massive Oracle construction site - Crain's Detroit",
+   "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWHdvRWw5QlJZeGZ4TDcyTjU2QkIwVHh2MVF2SWZGLTBxZ2RzWDc4ZkdTU1NBM2FTdDRkWlVVb1JWYmN1bGdoZ3BPeGN1QU1ROFUyYnRMTHJyYmNKYTlILTA0cHhCeFBuLWlmUlpQMG5EUlVGZnF4MUh4SGFfdldfX3dzN1BkSzY1R21wNWFXUFRNZmFUTktNb19R?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
   },
   {
    "title": "Ypsilanti Township blocks new power lines to slow data center rush",
@@ -171,23 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNVN1OGliMXdSTTdwQXlmdUtNd0JzTmZteFpJaS1uWHBRekoyRC1Tc3AzeUNUOVR2aGt4bl9oRmFiVjhjQU9rbVlIN1RGNktGUFRTbUZ0WlcxTTZCNkQ3WVgzYml4OHhSZW0yMlhMMXV0QnV1WEI3cnF6eTFaTnhQb0xOc3VoMTIybERKYlJPREt2NkVPWEw4WGJMbzBNalViQ2lJSzNHYm9YcjZxeTluYUFfR2FGbTl0eDQtWEJNcHhwSkk1MGFEMkVKaGc3V0dEY2VwcHFha0VJblJIX1p3?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
-  },
-  {
-   "title": "Developer sues Michigan city over data center ban",
-   "dek": "A company is challenging a year-long moratorium that blocks new data center proposals. The lawsuit puts local tax incentives and land-use rules in the spotlight. A win for the developer could open the door to projects that residents have opposed on power and noise grounds.",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM0NHQWJVZnZyUTd1SVIyd3ZjMm1WOWI5NzZXS1JmbGJ1Ulp0VUJiMXVqaWoxMVI4MGE1cDlUYVBXSy1VeDRUdmlGUmxOcXpFQV91MTVLUVIzVkNtcmhXTlhtX0VwSVVXRWtBeEZRLXkwNXE2SFByYmZ3Y3RSVVg2SjdsV3hoZUl6akNFSmpZcnpidlM1UDY2eWVaYWJKVVU?oc=5",
-   "source": "Bloomberg Law News",
-   "region": "mid",
-   "cat": "STATEWIDE",
-   "county": "Lenawee",
-   "tag": "Local Government",
-   "iso": "2026-08-18T17:38:00Z",
-   "id": "f245c9552da4",
-   "origin": "google-news",
-   "source_title": "Michigan City Sued by Developer Over Yearlong Data Center Ban - Bloomberg Law News",
-   "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM0NHQWJVZnZyUTd1SVIyd3ZjMm1WOWI5NzZXS1JmbGJ1Ulp0VUJiMXVqaWoxMVI4MGE1cDlUYVBXSy1VeDRUdmlGUmxOcXpFQV91MTVLUVIzVkNtcmhXTlhtX0VwSVVXRWtBeEZRLXkwNXE2SFByYmZ3Y3RSVVg2SjdsV3hoZUl6akNFSmpZcnpidlM1UDY2eWVaYWJKVVU?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
   }
  ],
  "national": {
