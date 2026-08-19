@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.detroitnews.com/",
-   "title": "No major non-Michigan U.S. data center developments reported in the last 24 hours",
-   "at": "2026-08-08T23:37:23+00:00",
-   "by": "news_judge",
-   "note": "score 2/10: Meta-commentary about lack of national news is not a reportable development for Michigan data center tracking."
-  },
-  {
-   "url": "https://www.ualrpublicradio.org/npr-news/2026-08-08/data-centers-are-a-political-issue-crossing-party-lines-driving-voters-to-candidates",
-   "title": "Data center fights fuel campaigns from Michigan to Ohio and Wisconsin",
-   "at": "2026-08-09T08:55:02+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: National trend piece aggregating campaign rhetoric across multiple states with Michigan as one example; El-Sayed's opposition already covered in live story abou"
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeEJJUnVsNXJjQVJ0amNVd3FQWWNUcnZYMEpJUU9YbGE5MGpfdGVsV0ViUTJERzlkQmxqU2N0TmxRU19MTDE5Z1REaFZjUmVrdGJjWENMUnJqVGRrUWdNRnJxalVLWjQ0LTNhb0hWYkFzWkVFOEpqNTZYZFg3NmZtQUpsTzVYX0dtZHZKSXNDWW1hRW9EaVBJT1ZSVG5pV1lOY3BsQnFiT2N2SVduSUNIemdnbHYzMm8?oc=5",
    "title": "EMU experts spell out water and electric costs data centers could bring to Washtenaw towns",
    "at": "2026-08-09T15:41:29+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-18T23:51:10+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece about a Dallas summit discussing grid interconnection delays—no Michigan angle, no specific decision or development for Michigan readers tr"
+  },
+  {
+   "url": "https://www.washingtonpost.com/nation/2026/08/18/pennsylvania-gov-josh-shapiro-set-order-new-limits-data-center-development/",
+   "title": "Pennsylvania Gov. Shapiro Issues Executive Order Sharply Limiting New Data Center Development",
+   "at": "2026-08-19T01:46:15+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: National trend piece from Pennsylvania with no Michigan angle or impact."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOTNDUDJRQXVKYjVkc3h5UEJ2eFhfSU1RMmJuTGFYdDRXNmlhZm5aSHFyRXd5MUxyWGRvS19KVjI3eGdYTlJrQ2U5MEp1SFBEXzBkbVA1cTFzdUZUU0pfbDJyUG1OMTZSYXNXX2tDR29RZS1yd1MtcEdWUERXMldpVTZSSWVfaUY1Y21OVDNzb1Q4eWNLYUJpZloyZ25jWnJfb25xeFZfM2xkU3JodlJrcFJKOGhGckxldDZYN2JTbWg?oc=5",
+   "title": "Kalamazoo freezes new data centers amid power concerns",
+   "at": "2026-08-19T01:46:15+00:00",
+   "by": "news_judge",
+   "note": "score 1/10, duplicate: Duplicate of already-killed Kalamazoo freeze stories; same moratorium decision already covered multiple times."
   }
  ],
  "auto_published": [

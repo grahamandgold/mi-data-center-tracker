@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-18T23:51:10+00:00",
+ "updated_at": "2026-08-19T01:46:15+00:00",
  "generator": "grok-wire-agent",
  "items": [
   {
@@ -108,24 +108,6 @@
    "judge_note": "Concrete new development: Ypsilanti scheduling a public hearing on specific zoning rules for data centers, a different municipality taking regulatory action."
   },
   {
-   "iso": "2026-08-17T12:00:00+00:00",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "tag": "Policy",
-   "title": "Communities Across Michigan Expand Data Center Moratoriums Covering Over 1,500 Square Miles",
-   "dek": "Local governments continue pausing new proposals as opposition grows over energy demands, water use and community impacts; MLive analysis highlights the scale equivalent to Rhode Island.",
-   "source": "MLive",
-   "url": "https://www.mlive.com/news/detroit/2026/08/a-michigan-town-is-fighting-back-against-data-centers-residents-say-its-giving-them-hope.html",
-   "breaking": false,
-   "lead": false,
-   "id": "2f90de810b44",
-   "kind": "national",
-   "filed_at": "2026-08-18T19:34:21+00:00",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6,
-   "judge_note": "MLive analysis aggregating the cumulative scale of Michigan moratoriums is incremental/contextual rather than reporting a new decision, but the 1,500-square-mil"
-  },
-  {
    "iso": "2026-08-26T12:00:00+00:00",
    "region": "statewide",
    "cat": "CAPITOL",
@@ -144,5 +126,5 @@
    "judge_note": "Concrete legislative development: Jeremy Moss added as co-sponsor to utility rate bill targeting data centers, a new action on a relevant bill."
   }
  ],
- "accuracy_checked_at": "2026-08-18T23:51:07+00:00"
+ "accuracy_checked_at": "2026-08-19T01:46:12+00:00"
 }

@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-18T23:50:57+00:00",
+ "updated_at": "2026-08-19T01:45:52+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -199,60 +199,6 @@
   "accuracy": "checked"
  },
  "meetings": [
-  {
-   "iso": "2026-08-18",
-   "body": "Saugatuck Township Planning Commission",
-   "topic": "Public hearing on Data Center/Digital Mining/Battery Storage Zoning Ordinance Amendments",
-   "region": "West Michigan",
-   "regionKey": "west",
-   "county": "Allegan",
-   "time": "7:00 PM",
-   "status": "Public hearing",
-   "urgent": true,
-   "link": "https://saugatucktownshipmi.gov/",
-   "linkLabel": "Agenda",
-   "stream": ""
-  },
-  {
-   "iso": "2026-08-18",
-   "body": "Morley Village Council",
-   "topic": "Data center proposal for Morley dam site",
-   "region": "West Michigan",
-   "regionKey": "west",
-   "county": "Mecosta",
-   "time": "7:00 PM",
-   "status": "Board meeting",
-   "urgent": true,
-   "link": "https://www.facebook.com/groups/1440945756997286/posts/1690375618720964/",
-   "linkLabel": "Meeting Notice",
-   "stream": null
-  },
-  {
-   "iso": "2026-08-18",
-   "body": "Ypsilanti Township Board of Trustees",
-   "topic": "Vote on six-month moratorium on power transmission infrastructure for data centers",
-   "region": "SE Michigan",
-   "regionKey": "metro",
-   "county": "Washtenaw",
-   "time": "6:00 PM",
-   "status": "Board meeting",
-   "urgent": true,
-   "link": "https://ypsitownship.org/government/boards___commissions/board_of_trustees/agendas___minutes.php",
-   "linkLabel": "Agenda"
-  },
-  {
-   "iso": "2026-08-18",
-   "body": "Village of Morley Board",
-   "topic": "Data center proposal discussion and vote",
-   "region": "West Michigan",
-   "regionKey": "west",
-   "county": "Mecosta",
-   "time": "7:00 PM",
-   "status": "Board meeting",
-   "urgent": true,
-   "link": "https://ow.ly/X8o550WIls8",
-   "linkLabel": "Agenda"
-  },
   {
    "iso": "2026-08-19",
    "body": "Ypsilanti Planning Commission",
