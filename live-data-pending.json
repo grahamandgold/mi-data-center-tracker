@@ -1,7 +1,25 @@
 {
- "updated_at": "2026-08-19T11:33:35+00:00",
+ "updated_at": "2026-08-19T11:55:27+00:00",
  "generator": "grok-wire-agent",
  "items": [
+  {
+   "iso": "2026-08-18T12:00:00+00:00",
+   "region": "metro",
+   "cat": "Oakland Co.",
+   "tag": "Local Government",
+   "title": "Springfield Township Adds New Map and Letter to Ongoing Data Center Review",
+   "dek": "Officials posted an Oakland County lithology map and a fresh letter received August 18 as the township continues its moratorium while developing zoning rules.",
+   "source": "Springfield Township",
+   "url": "https://www.springfield-twp.us/departments/supervisor/data_centers/latest_updates.php",
+   "breaking": false,
+   "lead": false,
+   "id": "5bc26a08fae4",
+   "kind": "story",
+   "filed_at": "2026-08-19T11:55:27+00:00",
+   "accuracy": "checked",
+   "judge_score": 6,
+   "judge_note": "Incremental document addition to an ongoing review process; real but modest progress during a moratorium rather than a concrete decision or filing."
+  },
   {
    "iso": "2026-08-18T18:00:00Z",
    "region": "west",
@@ -130,5 +148,5 @@
    "judge_note": "Concrete legislative development: Jeremy Moss added as co-sponsor to utility rate bill targeting data centers, a new action on a relevant bill."
   }
  ],
- "accuracy_checked_at": "2026-08-19T11:33:35+00:00"
+ "accuracy_checked_at": "2026-08-19T11:55:35+00:00"
 }
