@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://wwmt.com/news/local/marshall-data-center-moratorium-delays-development-one-year-alterra-brooks-industrial-park-acres-wetland-lake-energy-environment-calhoun-county-west-michigan",
-   "title": "Marshall Halts Data Center Plans for Year Over Noise and Power Concerns",
-   "at": "2026-08-11T04:04:44+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: This is the same Marshall moratorium already covered in the LIVE story 'Marshall blocks new data centers for a full year' — just a rehash with slightly differen"
-  },
-  {
    "url": "https://www.nytimes.com/2026/08/10/business/trump-artificial-intelligence-data-centers-ai.html",
    "title": "Trump Dismisses Concerns Over AI and Data Center Expansion Despite Protests",
    "at": "2026-08-11T06:30:53+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-19T17:34:49+00:00",
    "by": "news_judge",
    "note": "score 2/10: Thin story about a single visitor touring a facility with no decision, filing, or concrete development—just public interest speculation."
+  },
+  {
+   "url": "https://www.facebook.com/NBCNews/posts/residents-across-the-us-fed-up-with-the-incessant-hum-of-data-centers-in-their-c/1445894797402381/",
+   "title": "Residents Nationwide Push Back Against Data Center Noise and Infrastructure Strain",
+   "at": "2026-08-19T18:47:10+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece with no Michigan-specific development, decision, or concrete action; generic complaints about noise already covered in Michigan-specific st"
   }
  ],
  "auto_published": [
