@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-19T21:34:09Z",
+ "updated_at": "2026-08-19T21:55:55Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Ypsilanti halts big utility builds over U-M supercomputer plans",
+   "dek": "Ypsilanti Township approved a moratorium on large utility structures that could support the University of Michigan's expanding supercomputing needs. The pause gives local officials time to assess impacts on power demand and land use in the township. Washtenaw County residents could see delayed infrastructure projects tied to heavy electricity users.",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZ3Y2N20tZkdIREVQX1M4SjR2RzA0bTBPeXpJT2xWVXk5TURqaTVZQTFFMUF3VWJMM0paSTZqc3VaaUNWRWpxcmFYTlE1VDZVckV2RUJvUTUzZGd1YXJWU1liMGVHQ2MxbkpEaVpiUklnbmduU2NiSEM2bDVCZGQxaXZxdW5pb2ZpQlpfTlJWUURNRC1iQ3plYWc4Z1FiVU16aDRReEQtVlNGbVVveDVzb1dJbmN3NGtjWlE0NmM4dmZGT2hDTFBRQzFNbV9yQWFnbGJqVWJJZHBEQW42NVBPY05DMA?oc=5",
+   "source": "WXYZ 7 News Detroit",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Local Government",
+   "iso": "2026-08-19T21:13:41Z",
+   "id": "7364f5a6ce84",
+   "origin": "google-news",
+   "source_title": "Ypsilanti Township approves moratorium on large utility structures amid U of M supercomputing plans - WXYZ 7 News Detroit",
+   "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZ3Y2N20tZkdIREVQX1M4SjR2RzA0bTBPeXpJT2xWVXk5TURqaTVZQTFFMUF3VWJMM0paSTZqc3VaaUNWRWpxcmFYTlE1VDZVckV2RUJvUTUzZGd1YXJWU1liMGVHQ2MxbkpEaVpiUklnbmduU2NiSEM2bDVCZGQxaXZxdW5pb2ZpQlpfTlJWUURNRC1iQ3plYWc4Z1FiVU16aDRReEQtVlNGbVVveDVzb1dJbmN3NGtjWlE0NmM4dmZGT2hDTFBRQzFNbV9yQWFnbGJqVWJJZHBEQW42NVBPY05DMA?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
   {
    "title": "Detroit-area residents describe daily life next to large data centers",
    "dek": "The Detroit Free Press reports on noise, traffic, and electricity costs felt by people living beside Michigan data centers. Nearby homes face constant equipment hum and higher utility bills as more facilities come online. The story shows concrete effects for anyone within a short drive of proposed sites.",
@@ -68,6 +85,21 @@
    "source_title": "Ypsilanti Township passes moratorium on new major electric infrastructure - WEMU",
    "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeUVCbmt5U09iZTB0TGxvbW1UNDlIZlhHdGVlWlRXREZLZV9RcHBlM0d1ZFY1R2hXMy1uV3dpVHRpYlFCaFU1OTluY3d2R0gwTE1qR1NvZVdueDczZ3c1d1lUeFVkOVlXZGxDbGRBcDhES0Nib052czMyMTdHbTVhSDVXYUN4djV1SmZjdG5WcVlqbjNiUEFSZ2FrM3JfX2VIQnhmeHVoVk9xaFNybmpWX1FyMnJCQQ?oc=5",
    "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
+  {
+   "iso": "2026-08-19T13:00:00+00:00",
+   "region": "west",
+   "cat": "Kent Co.",
+   "tag": "Local Government",
+   "title": "Grattan Township Votes 8-Month Halt on New Data Centers",
+   "dek": "The board approved the moratorium Monday on a legal counsel recommendation; it expires April 30, 2027.",
+   "source": "Lowell Ledger",
+   "url": "https://lowellledger.org/2026/08/19/?post_type=oht_article",
+   "breaking": false,
+   "lead": true,
+   "id": "8bf99c1f4874",
+   "accuracy": "checked-rewritten",
    "judge_score": 8
   },
   {
@@ -154,40 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQTBIVTc1VG1fMkVyLUZWMzMxdFp0dE9mSEplM09YeWo3UmNSdXFKTHozMHFqekwyZXAxT1hYOGFkVDRjVmpRZktKVmxwUXo0RTItdEN5T3pEZ0d3MGhITnlqZ01pTHFIOUdFTHUtSHhiNmY3QU5Pa3IxVmVZdFl2RENpbWZBM0p1amFLSFNwVQ?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Caledonia Township tightens land rules that could block data centers",
-   "dek": "Caledonia Township in Kent County is rewriting its special land-use rules, a step that will decide whether large data-center projects can locate there. Residents 30 miles away should care because the outcome sets the template for power demand, noise, and tax revenue across western Michigan. The meeting focused on ordinance details that will govern future proposals.",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNc0NpMHV0aTFXRUZNV3Z0Zjlhdl9XblJPbjlfZHJ2ZGZibUFMTElJMUlwMkxfdFdveWpXVW9jYjROZnRzcnQ3SHNqNUc1TGZuQmExSkV6dkZOMUp1WEFnRlRSMkdCRWJvX1VxcWlLdjFaTWRqWnE3cHdfRWxXUkx6WG1WWGVHamFSa1AzZzBLbWJ3QkY4aldtUEdjSGZQU0RvSXFlUDNmUnh2d3JpYno0NGhtY21VQkNId1g1TkJHaHhUdGtZSjUtMTRHcXpqZERC?oc=5",
-   "source": "The Collegiate Live",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Kent",
-   "tag": "Local Government",
-   "iso": "2026-08-19T03:53:14Z",
-   "id": "9b61c1cabc6a",
-   "origin": "google-news",
-   "source_title": "Caledonia Township held a Public Meating to Continue Discussing Their Special Land Use Ordinance - The Collegiate Live",
-   "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNc0NpMHV0aTFXRUZNV3Z0Zjlhdl9XblJPbjlfZHJ2ZGZibUFMTElJMUlwMkxfdFdveWpXVW9jYjROZnRzcnQ3SHNqNUc1TGZuQmExSkV6dkZOMUp1WEFnRlRSMkdCRWJvX1VxcWlLdjFaTWRqWnE3cHdfRWxXUkx6WG1WWGVHamFSa1AzZzBLbWJ3QkY4aldtUEdjSGZQU0RvSXFlUDNmUnh2d3JpYno0NGhtY21VQkNId1g1TkJHaHhUdGtZSjUtMTRHcXpqZERC?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
-  },
-  {
-   "title": "Carrollton data-center developers bar reporters from public session",
-   "dek": "Developers seeking to build in Carrollton Township, Saginaw County, held an information meeting but refused media access. The closed-door approach leaves residents without details on power needs, water use, or tax offers that would affect the mid-Michigan grid and local bills. The episode raises transparency questions for any future project in the area.",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbFIyb3BTcVpPdThDTzM1cEtITGoxUlo5VV9NWjlJa2FGOHRKTm5GUlgyeVVEczBOaXVVYVRYVmtHTEVtZTc4UEVrTWdzX2NTbmtFNkZQQkhyTkNyZ1B1a3FoTi1tNkVIZTc1akgyUjBVMGpyeVgzanFLbjJ3M2VBWUxOQmhmT09FV3pDQWc0Nlp2UWlOTUJKT1ptcjRsQW5Wb0NjdTlxS1dJQU9tWTVJU2k3V3pFejFaTFE2Z0c4WUFTTFNRVm1tMG9veTh2NWxnXzhadVZpS3dya00xZHJ4UUhaZXNVcDRYT0tadzJrZ0JZRUNtWmZz?oc=5",
-   "source": "WHAS11",
-   "region": "mid",
-   "cat": "STATEWIDE",
-   "county": "Saginaw",
-   "tag": "Local Government",
-   "iso": "2026-08-19T03:23:00Z",
-   "id": "08f122a72a78",
-   "origin": "google-news",
-   "source_title": "Data center developers host info meeting in Carrollton; deny media access - WHAS11",
-   "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbFIyb3BTcVpPdThDTzM1cEtITGoxUlo5VV9NWjlJa2FGOHRKTm5GUlgyeVVEczBOaXVVYVRYVmtHTEVtZTc4UEVrTWdzX2NTbmtFNkZQQkhyTkNyZ1B1a3FoTi1tNkVIZTc1akgyUjBVMGpyeVgzanFLbjJ3M2VBWUxOQmhmT09FV3pDQWc0Nlp2UWlOTUJKT1ptcjRsQW5Wb0NjdTlxS1dJQU9tWTVJU2k3V3pFejFaTFE2Z0c4WUFTTFNRVm1tMG9veTh2NWxnXzhadVZpS3dya00xZHJ4UUhaZXNVcDRYT0tadzJrZ0JZRUNtWmZz?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
   }
  ],
  "national": {

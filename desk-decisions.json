@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNU2cxNElLQXZvMWxFU0R6NWpKanRXOHpsbHJGVVR4N1kzQXlXSUpJeWI0djJTSUZoVXl5TTU1MDdpSVZfRmdEeEp0OXVpbTM4Wm5mdEpWMENQQ1FzU2drMDE0MlF6YTFDbjJyYXRfdDQyNG9maFI5SDRhR1ptYWcwVzAtTmVnSGRfaVF4YUVVUmFHdVh5UlRSRU1xMjFYQ1FnSElmMnlaSGNreVVqN3ZfZ1hPRmp3X1JQdHlzZWR5aWloZGd6QzNsYURn0gHKAUFVX3lxTE1TZzE0SUtBdm8xbEVTRHo1akpqdFc4emxsckZVVHg3WTNBeVdJSkl5YjR2MlNJRmhVeXlNNTUwN2lJVl9GZ0R4SnQ5dWltMzhabmZ0SlYwQ1BDUXNTZ2swMTQyUXphMUNuMnJhdF90NDI0b2ZoUjlINGFHWm1hZzBXMC1OZWdIZF9pUXhhRVVSYUd1WHlSVFJFTXEyMVhDUWdISWYyeVpIY2t5VWo3dl9nWE9GandfUlB0eXNlZHlpaWhkZ3pDM2xhRGc?oc=5",
-   "title": "Lowell keeps data center rules months from reality",
-   "at": "2026-08-11T07:48:47+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: This is the same Lowell timeline delay already covered in the LIVE story 'Lowell pushes data center rules back by months' and the KILLED story with identical he"
-  },
-  {
    "url": "https://www.wzzm13.com/article/news/local/township-continues-work-on-data-center-ordinance/69-8421d448-a676-4674-8304-f9ece3e54707",
    "title": "Lowell Township Planning Commission Advances Data Center Ordinance Work",
    "at": "2026-08-11T09:09:22+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-19T20:37:51+00:00",
    "by": "news_judge",
    "note": "score 4/10, duplicate: This is the same Mason town hall event already covered in the killed story 'Mason City Council adopts outreach plan for potential data center project, schedules"
+  },
+  {
+   "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/datacenters/openai-joins-worlds-largest-data-center-project-brings-35000-construction-jobs-to-ohio/",
+   "title": "OpenAI Joins Massive Ohio Data Center Project Expected to Create 35,000 Construction Jobs",
+   "at": "2026-08-19T21:55:55+00:00",
+   "by": "news_judge",
+   "note": "score 2/10: Ohio project with no Michigan angle; national noise that doesn't advance Michigan data center tracking."
   }
  ],
  "auto_published": [
@@ -3177,6 +3177,18 @@
    "title": "Detroit-area residents describe daily life next to large data centers",
    "judge_score": 7,
    "at": "2026-08-19T21:34:09Z"
+  },
+  {
+   "url": "https://lowellledger.org/2026/08/19/?post_type=oht_article",
+   "title": "Grattan Township Votes 8-Month Halt on New Data Centers",
+   "judge_score": 8,
+   "at": "2026-08-19T21:55:55Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZ3Y2N20tZkdIREVQX1M4SjR2RzA0bTBPeXpJT2xWVXk5TURqaTVZQTFFMUF3VWJMM0paSTZqc3VaaUNWRWpxcmFYTlE1VDZVckV2RUJvUTUzZGd1YXJWU1liMGVHQ2MxbkpEaVpiUklnbmduU2NiSEM2bDVCZGQxaXZxdW5pb2ZpQlpfTlJWUURNRC1iQ3plYWc4Z1FiVU16aDRReEQtVlNGbVVveDVzb1dJbmN3NGtjWlE0NmM4dmZGT2hDTFBRQzFNbV9yQWFnbGJqVWJJZHBEQW42NVBPY05DMA?oc=5",
+   "title": "Ypsilanti halts big utility builds over U-M supercomputer plans",
+   "judge_score": 6,
+   "at": "2026-08-19T21:55:55Z"
   }
  ]
 }
