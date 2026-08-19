@@ -1,39 +1,7 @@
 {
- "updated_at": "2026-08-19T10:38:31Z",
+ "updated_at": "2026-08-19T11:33:35+00:00",
  "generator": "grok-wire-agent",
  "items": [
-  {
-   "title": "Ypsilanti hearing to weigh new data center zoning rules",
-   "dek": "The Planning Commission will hold a public hearing August 19 on a zoning text amendment that would create a new division regulating data centers in the city.",
-   "url": "https://cityofypsilanti.com/CivicAlerts.aspx?AID=2736",
-   "source": "Ypsilanti Planning Commission agenda",
-   "region": "Southeast Michigan",
-   "county": "Washtenaw",
-   "cat": "Meetings",
-   "tag": "Agenda watch",
-   "iso": "2026-08-19T10:05:08+00:00",
-   "kind": "agenda",
-   "id": "74ff967bb43c",
-   "filed_at": "2026-08-19T10:05:08+00:00",
-   "accuracy": "checked-rewritten",
-   "findings": "Per the agenda notice, the amendment adds definitions for Accessory Data Center, Data Center, C-A Differential, dB(A), dB(C), leq and Power Utilization Effectiveness (PUE) in §122-203 | It creates a new Article V, Division 4 with sections on intent, accessory data centers and data centers covering application requirements, site design, operational standards, noise, water use, energy efficiency, landscaping, architectural design and decommissioning | The amendment amends permissible use charts in Parks, Single-Family Residential, Multiple Dwelling Residential, Production/Manufacturing/Distribution, Core Neighborhoods, Center, Corridors and Health and Human Services districts | It establishes where accessory, small and large data centers may be permitted and under what review procedures | Th",
-   "perspective": "The commission will hold a public hearing and may make a recommendation to City Council on the data-center regulations.",
-   "documents": [
-    {
-     "label": "Agenda page",
-     "url": "https://cityofypsilanti.com/CivicAlerts.aspx?AID=2736"
-    },
-    {
-     "label": "Master Plan (PDF)",
-     "url": "https://cityofypsilanti.com/DocumentCenter/View/5282/FINAL-2026-2030-City-of-Ypsilanti-Parks-And-Recreation-Master-Plan"
-    }
-   ],
-   "depth_score": 8,
-   "extraction_method": "plain",
-   "headline_rewritten": true,
-   "judge_score": 7,
-   "judge_note": "Scheduled public hearing August 19 in Ypsilanti on data center zoning text amendment."
-  },
   {
    "iso": "2026-08-18T18:00:00Z",
    "region": "west",
@@ -162,5 +130,5 @@
    "judge_note": "Concrete legislative development: Jeremy Moss added as co-sponsor to utility rate bill targeting data centers, a new action on a relevant bill."
   }
  ],
- "accuracy_checked_at": "2026-08-19T10:38:24+00:00"
+ "accuracy_checked_at": "2026-08-19T11:33:35+00:00"
 }
