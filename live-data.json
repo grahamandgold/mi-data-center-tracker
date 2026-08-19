@@ -1,7 +1,41 @@
 {
- "updated_at": "2026-08-19T21:55:55Z",
+ "updated_at": "2026-08-19T22:33:38Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Gibraltar sued after rejecting data center project",
+   "dek": "A developer claims Gibraltar illegally blocked its data center and is taking the city to court. The lawsuit puts local zoning power and potential tax revenue on the line for Wayne County residents. Michigan readers 30 miles away will watch how the case shapes future project fights near Detroit.",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN1hkX2JqNGlHdDlpTlJiWVU1WG1NV2d2VjZLRllSaG5BTXA1NnJ2TDhlMHJIVy1RR3ZpNEN1Z1pJYUtVY0hnQVdaSXdpaWN3LUI4emVoZHdFaXdhVElwcE1HZ0dDU3AxVnRfbF9aR0k2cy14TmlhMzFQeWt5NmJ0aW1wUzRWalp1Q1VqYjdWSENGUFBtYUlkVnl6RTN3WElsZVk2MXdGOHZXSzZzTWswMnJ3d25RVTRKdXh2dTAzN0JSd2VXbGZV?oc=5",
+   "source": "clickondetroit.com",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Wayne",
+   "tag": "Local Government",
+   "iso": "2026-08-19T21:55:34Z",
+   "id": "fccd1d37513d",
+   "origin": "google-news",
+   "source_title": "Data center developer sues Gibraltar, claims city illegally blocked project - clickondetroit.com",
+   "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN1hkX2JqNGlHdDlpTlJiWVU1WG1NV2d2VjZLRllSaG5BTXA1NnJ2TDhlMHJIVy1RR3ZpNEN1Z1pJYUtVY0hnQVdaSXdpaWN3LUI4emVoZHdFaXdhVElwcE1HZ0dDU3AxVnRfbF9aR0k2cy14TmlhMzFQeWt5NmJ0aW1wUzRWalp1Q1VqYjdWSENGUFBtYUlkVnl6RTN3WElsZVk2MXdGOHZXSzZzTWswMnJ3d25RVTRKdXh2dTAzN0JSd2VXbGZV?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
+  {
+   "title": "Forsyth Township residents press officials on Sawyer data center",
+   "dek": "A town hall drew locals worried about noise, power use and water strain from a proposed data center in the Sawyer area. Marquette County taxpayers could face higher utility bills if the project moves forward. The meeting shows how Upper Peninsula communities are pushing back on big tech builds.",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbDIxWFhLTVZsel8zeXN6TmJvMFhkV2FVVWMzMng4T0JkVDV1d25XMEdfWnZxNV9LOTUxVDZ1dDlLc3BTVUZhZjZNVUMyaUlTcWFjekpRUGs3cVcyZlptX1d3Vm1yQkhxd0FranV5TjZGLVE2cnI5T3JtSHNPaURvM1dSMjloc3FFZms1R0JsTzVTMkdkMWNJNmR1WmEzdUZycXFBZ2xhQ25wel94QU5PblU3TmR3Y2UwZE8zMjBHZXRhTG90QlpXcVVsTEFqUEFVRkhGWVhVS2hSY2M5ZVk2SzZMVDdhQQ?oc=5",
+   "source": "myupnow.com",
+   "region": "north",
+   "cat": "STATEWIDE",
+   "county": "Marquette",
+   "tag": "Local Government",
+   "iso": "2026-08-19T21:55:00Z",
+   "id": "a8277e608191",
+   "origin": "google-news",
+   "source_title": "Forsyth Township town hall addresses data center concerns in Sawyer area - myupnow.com",
+   "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbDIxWFhLTVZsel8zeXN6TmJvMFhkV2FVVWMzMng4T0JkVDV1d25XMEdfWnZxNV9LOTUxVDZ1dDlLc3BTVUZhZjZNVUMyaUlTcWFjekpRUGs3cVcyZlptX1d3Vm1yQkhxd0FranV5TjZGLVE2cnI5T3JtSHNPaURvM1dSMjloc3FFZms1R0JsTzVTMkdkMWNJNmR1WmEzdUZycXFBZ2xhQ25wel94QU5PblU3TmR3Y2UwZE8zMjBHZXRhTG90QlpXcVVsTEFqUEFVRkhGWVhVS2hSY2M5ZVk2SzZMVDdhQQ?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
   {
    "title": "Ypsilanti halts big utility builds over U-M supercomputer plans",
    "dek": "Ypsilanti Township approved a moratorium on large utility structures that could support the University of Michigan's expanding supercomputing needs. The pause gives local officials time to assess impacts on power demand and land use in the township. Washtenaw County residents could see delayed infrastructure projects tied to heavy electricity users.",
@@ -152,40 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbGhDRF9NMktJbVJGbEhidXVrRklVbmtHNV84VDhzTFEtOVR5Zi1vUG1qQUR1NkdRWENWVFB3M0ZsT1AtdFdZVWtnT0lDX1EwTm5lZHhmeTgybWx6NTdTa0ZoY1pXM2J0UE5mZHliSDdueEQwNmtFbnVnQnFTTVlBeHlFdi11RjhkWHhfU0Fn?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
-  },
-  {
-   "title": "Developer snaps up Saline golf course to make way for server farm",
-   "dek": "The purchase of Rustic Glen positions the developer to convert recreational land into a large-scale facility. Washtenaw County taxpayers and neighbors will feel effects on property values, water use, and local taxes. The move follows earlier tax-break talks for the same company.",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSXNsREhDdmhCY1RDaWE5Vk4tMmhXY2ZXVTlZNWxVTkFnM0FNeUEweEUzUWRXai1LV1REZGFSNnBMa29KNTVFVHNUNl9sT1lndXJZdmZ1UldaRWdGLUVaVVZsemVTNkpVbmx5a1JxdXBFWUdWSGFRNDBwSC00d194M0tkTVF1QmNnQVdGNWFjN2I1RUs4cFFlRjdGcw?oc=5",
-   "source": "The Saline Post",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Money",
-   "iso": "2026-08-19T07:58:41Z",
-   "id": "de1e3c2f68f5",
-   "origin": "google-news",
-   "source_title": "Related Digital Acquires Rustic Glen Golf Course - The Saline Post",
-   "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSXNsREhDdmhCY1RDaWE5Vk4tMmhXY2ZXVTlZNWxVTkFnM0FNeUEweEUzUWRXai1LV1REZGFSNnBMa29KNTVFVHNUNl9sT1lndXJZdmZ1UldaRWdGLUVaVVZsemVTNkpVbmx5a1JxdXBFWUdWSGFRNDBwSC00d194M0tkTVF1QmNnQVdGNWFjN2I1RUs4cFFlRjdGcw?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
-  },
-  {
-   "title": "Mason-area residents fight proposed data center over noise and power strain",
-   "dek": "Neighbors near Mason are organizing against a new data center project in Ingham County. The facility would add significant electricity demand and potential constant noise to a rural area already concerned about industrial growth. Local pushback could shape how quickly data centers expand around Lansing.",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQTBIVTc1VG1fMkVyLUZWMzMxdFp0dE9mSEplM09YeWo3UmNSdXFKTHozMHFqekwyZXAxT1hYOGFkVDRjVmpRZktKVmxwUXo0RTItdEN5T3pEZ0d3MGhITnlqZ01pTHFIOUdFTHUtSHhiNmY3QU5Pa3IxVmVZdFl2RENpbWZBM0p1amFLSFNwVQ?oc=5",
-   "source": "WLNS 6 News",
-   "region": "mid",
-   "cat": "STATEWIDE",
-   "county": "Ingham",
-   "tag": "Local Government",
-   "iso": "2026-08-19T06:59:59Z",
-   "id": "3c453462b1d3",
-   "origin": "google-news",
-   "source_title": "Community opposes proposed data center near Mason - WLNS 6 News",
-   "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQTBIVTc1VG1fMkVyLUZWMzMxdFp0dE9mSEplM09YeWo3UmNSdXFKTHozMHFqekwyZXAxT1hYOGFkVDRjVmpRZktKVmxwUXo0RTItdEN5T3pEZ0d3MGhITnlqZ01pTHFIOUdFTHUtSHhiNmY3QU5Pa3IxVmVZdFl2RENpbWZBM0p1amFLSFNwVQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {

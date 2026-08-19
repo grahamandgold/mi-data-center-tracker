@@ -1,7 +1,25 @@
 {
- "updated_at": "2026-08-19T21:55:55Z",
+ "updated_at": "2026-08-19T22:33:38Z",
  "generator": "grok-wire-agent",
  "items": [
+  {
+   "iso": "2026-08-18T12:00:00Z",
+   "region": "metro",
+   "cat": "St. Clair Co.",
+   "tag": "Local Government",
+   "title": "Port Huron Charter Township Enacts Temporary Moratorium on Data Centers",
+   "dek": "The township adopted Ordinance #257 to halt applications for data centers and other high-resource facilities while it develops permanent rules.",
+   "source": "Port Huron Charter Township",
+   "url": "https://www.porthurontownship.org/news/ordinance-254-dda-and-tifa-plan-renewal",
+   "breaking": false,
+   "lead": false,
+   "id": "73f0c8c366e0",
+   "kind": "story",
+   "filed_at": "2026-08-19T22:33:25+00:00",
+   "accuracy": "checked",
+   "judge_score": 7,
+   "judge_note": "Concrete action: Port Huron Charter Township passed a specific ordinance creating a moratorium, a clear legislative decision with an ordinance number."
+  },
   {
    "iso": "2026-08-18T12:00:00+00:00",
    "region": "metro",
@@ -148,5 +166,5 @@
    "judge_note": "Concrete legislative development: Jeremy Moss added as co-sponsor to utility rate bill targeting data centers, a new action on a relevant bill."
   }
  ],
- "accuracy_checked_at": "2026-08-19T21:55:49+00:00"
+ "accuracy_checked_at": "2026-08-19T22:33:32+00:00"
 }
