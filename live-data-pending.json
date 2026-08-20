@@ -1,43 +1,7 @@
 {
- "updated_at": "2026-08-19T23:51:02+00:00",
+ "updated_at": "2026-08-20T01:49:25Z",
  "generator": "grok-wire-agent",
  "items": [
-  {
-   "iso": "2026-08-18T12:00:00Z",
-   "region": "metro",
-   "cat": "St. Clair Co.",
-   "tag": "Local Government",
-   "title": "Port Huron Charter Township Enacts Temporary Moratorium on Data Centers",
-   "dek": "The township adopted Ordinance #257 to halt applications for data centers and other high-resource facilities while it develops permanent rules.",
-   "source": "Port Huron Charter Township",
-   "url": "https://www.porthurontownship.org/news/ordinance-254-dda-and-tifa-plan-renewal",
-   "breaking": false,
-   "lead": false,
-   "id": "73f0c8c366e0",
-   "kind": "story",
-   "filed_at": "2026-08-19T22:33:25+00:00",
-   "accuracy": "checked",
-   "judge_score": 7,
-   "judge_note": "Concrete action: Port Huron Charter Township passed a specific ordinance creating a moratorium, a clear legislative decision with an ordinance number."
-  },
-  {
-   "iso": "2026-08-18T12:00:00+00:00",
-   "region": "metro",
-   "cat": "Oakland Co.",
-   "tag": "Local Government",
-   "title": "Springfield Township Adds New Map and Letter to Ongoing Data Center Review",
-   "dek": "Officials posted an Oakland County lithology map and a fresh letter received August 18 as the township continues its moratorium while developing zoning rules.",
-   "source": "Springfield Township",
-   "url": "https://www.springfield-twp.us/departments/supervisor/data_centers/latest_updates.php",
-   "breaking": false,
-   "lead": false,
-   "id": "5bc26a08fae4",
-   "kind": "story",
-   "filed_at": "2026-08-19T11:55:27+00:00",
-   "accuracy": "checked",
-   "judge_score": 6,
-   "judge_note": "Incremental document addition to an ongoing review process; real but modest progress during a moratorium rather than a concrete decision or filing."
-  },
   {
    "iso": "2026-08-18T18:00:00Z",
    "region": "west",
@@ -129,25 +93,6 @@
    "judge_note": "Concrete legislative development: Senator Jeremy Moss adds co-sponsorship to bill requiring project labor agreements for data center utility contracts."
   },
   {
-   "iso": "2026-08-18T12:00:00+00:00",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "tag": "Power & Grid",
-   "title": "Michigan Utilities Face 5.65 Gigawatts of New Data Center Power Demand",
-   "dek": "Consumers and DTE forecast major new electricity loads from proposed hyperscale projects, including a $7 billion campus near Ann Arbor, on top of state tax breaks and local pushback.",
-   "source": "Industry Reports",
-   "url": "https://bridgemi.com/michigan-environment-watch/data-centers-eyed-in-at-least-10-michigan-towns-how-they-might-change-state/",
-   "breaking": false,
-   "lead": false,
-   "id": "ba0de9201311",
-   "kind": "national",
-   "filed_at": "2026-08-18T22:32:38+00:00",
-   "accuracy": "checked-rewritten",
-   "headline_rewritten": true,
-   "judge_score": 7,
-   "judge_note": "Concrete new development with specific utility forecasts (5.65 GW) and a named $7B Ann Arbor campus project, though lacks a discrete decision or filing."
-  },
-  {
    "iso": "2026-08-26T12:00:00+00:00",
    "region": "statewide",
    "cat": "CAPITOL",
@@ -166,5 +111,5 @@
    "judge_note": "Concrete legislative development: Jeremy Moss added as co-sponsor to utility rate bill targeting data centers, a new action on a relevant bill."
   }
  ],
- "accuracy_checked_at": "2026-08-19T23:50:58+00:00"
+ "accuracy_checked_at": "2026-08-20T01:49:21+00:00"
 }

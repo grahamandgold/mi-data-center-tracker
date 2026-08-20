@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOV2hZdTcxMFl1OHVvNlVvcTREZHFVdjBHSXFJaGplYlVqZEVzU1pEZHlrbnRkN08yNXJEMGE3U3d5YVVMVGQ1V0VGM09DUmhXMFYxTlAzOEdaTlZuS3hOcFE4NHpkT1VUS3ZvUUE3Q21fWDlLcEJRY2RUdGFjc0xCZGN4NVBPSHRxVnB3eFRIT21SZ0I0ZUR5TVc1bVFEV1NZTGRBb29jTGR6alZNN0JxMDJpUDB6SjlzMy0yc1dXdTE0RGtNZ2pvTWR2d1ZxZDUtR3I1S2Q3bWVYSjNjSk9uRUFNLTUzR1Npcm9FclN5SGFEbzhoZmdSWGRBNV9sR2hXLS03Ym56MFBuOFB1SWF3?oc=5",
-   "title": "Hyperscale Data weighs sale of its Michigan data center",
-   "at": "2026-08-11T11:24:51+00:00",
-   "by": "news_judge",
-   "note": "score 5/10: Potential ownership change at existing Michigan facility is incremental; board review stage lacks the concrete decision that would make it highly newsworthy."
-  },
-  {
    "url": "https://www.prnewswire.com/news-releases/hyperscale-data-board-considers-all-options-to-maximize-stockholder-value-including-potential-sale-of-its-michigan-data-center-302847878.html",
    "title": "Hyperscale Data Explores Sale or Partnerships for Michigan Campus",
    "at": "2026-08-11T14:00:10+00:00",
@@ -1399,15 +1392,16 @@
    "at": "2026-08-19T23:51:02+00:00",
    "by": "news_judge",
    "note": "score 3/10, duplicate: This is the same lawsuit already covered in the ALREADY-LIVE story 'Gibraltar sued after rejecting data center project' — just a different headline phrasing for"
+  },
+  {
+   "url": "https://www.reuters.com/technology/demand-us-data-center-boom-radiates-out-through-factory-supply-chains-2026-08-19/",
+   "title": "Data center boom lifts unexpected suppliers like generator makers",
+   "at": "2026-08-20T01:49:25+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece about a supplier's factory expansion plans, not a Michigan data center decision or development."
   }
  ],
  "auto_published": [
-  {
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdEI5NDVGaEpkQVNPMnpSZjdFYzJDVFIwcTBWNzRHRF9RNXo1bXRXb1F1WmM1OTBPUk1Ta2dBMU9oZlp0aUk2X2hBSVV2RFJUSEZySTJOTFpJVGlPdURCeWVCd2hsakJFa2xpVzJKdHRLdEd6bVpEVXZfcjc0aFNsaUt1bUNhQkMyeUVvaFhGTDJxU3lEOXRraXY4UmdXQQ?oc=5",
-   "title": "Mason recall drive keeps pressure on mayor over data center fight",
-   "judge_score": 6,
-   "at": "2026-07-08T22:08:27Z"
-  },
   {
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQ0xCMzZYQmFuVXNfcXBMZnBhc1JaVXJXeE9sRW1MLWgydkF1dmtJSHBKNHpZYzZPNWkyejctNHhXOHN3VXdMSXZoZTNSZl9XWDhpS3FlcU5kRzB4SkFHazg0b3BDcE9veEhZRG00bFduLUZma3JuZmYybzgyWkd4UXhHZFJqUWFfcnJuNHFURjAyTS1YYW9kQk1OVnhQSmNPVFJlelJWYnA4MlVVMDNZQmZ3SkNkWE9CalhtcGZHdXh2UGFYZEotZkFWSE5xcnNsZnZZMWMxQ2NCbUR0?oc=5",
    "title": "Adrian bars new data center proposals for the next year",
@@ -3201,6 +3195,12 @@
    "title": "Gibraltar sued after rejecting data center project",
    "judge_score": 8,
    "at": "2026-08-19T22:33:38Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZUhPMjBCZkcybzR2VDBYS3dDM2d6ejg0NVE4aXNNUmxXY2FSVTNyQUIyLW9GRHoxMWpTV1NBQ1JTV2tiOUhMQUFnQmlzMldQeERrd1czbHN0VGM0LXJ2YXBXTGJjUXB3SlIyU1ZoX0tBcGRaVS1yQ2VEekl1dDg0Uzk0akgwUXdPaHU1OHBIcGZjcmE2cnF3WDh4dmdVZ0ZTTS0wZW1DZVc4NXZSYVhBOHhjUG1YXzBVMV83TllzVVpFUXc1R3ZxUnZkbmVjb1dRNnRqYkVR0gHqAUFVX3lxTE1MbUthb3hteVY0MmtXeDlFbF9XQnZuN19SbnF1SjFTX0xxZHk0MkNnMXNwckd1U2FqQXFhQkhBSFhaZVlhbmtsTjl1M1dnc0d0YXlIcGhTdXdsT2xDMkl2Z2lUVjNfY2JIS1Q1anQ0NEdrdldxWDJ4OGF2bjItVERtQ0dSa3RWQUlrTFBEN1lDQzdIMzdmcExuZTNQYWRWVm1iTXBHbmwyX1gxbXBZVVVNUkRLOWFzd3V5N1pmLThGb29DeEVRakJ1WjNkUlJrUHVpM2ZqVzJobGZSckx4WmVURlBIQkNnRHFSZw?oc=5",
+   "title": "Bay City neighbors push back on data center plans over power and noise",
+   "judge_score": 7,
+   "at": "2026-08-20T01:49:25Z"
   }
  ]
 }

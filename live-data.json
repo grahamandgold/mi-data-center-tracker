@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-19T23:50:58+00:00",
+ "updated_at": "2026-08-20T01:49:25Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Bay City neighbors push back on data center plans over power and noise",
+   "dek": "Residents packed a Bay City planning commission meeting to oppose data centers proposed for their area. They raised alarms about heavy electricity and water demands plus industrial noise that could reach homes. The outcry shows how Michigan towns are starting to question the rapid spread of these facilities.",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZUhPMjBCZkcybzR2VDBYS3dDM2d6ejg0NVE4aXNNUmxXY2FSVTNyQUIyLW9GRHoxMWpTV1NBQ1JTV2tiOUhMQUFnQmlzMldQeERrd1czbHN0VGM0LXJ2YXBXTGJjUXB3SlIyU1ZoX0tBcGRaVS1yQ2VEekl1dDg0Uzk0akgwUXdPaHU1OHBIcGZjcmE2cnF3WDh4dmdVZ0ZTTS0wZW1DZVc4NXZSYVhBOHhjUG1YXzBVMV83TllzVVpFUXc1R3ZxUnZkbmVjb1dRNnRqYkVR0gHqAUFVX3lxTE1MbUthb3hteVY0MmtXeDlFbF9XQnZuN19SbnF1SjFTX0xxZHk0MkNnMXNwckd1U2FqQXFhQkhBSFhaZVlhbmtsTjl1M1dnc0d0YXlIcGhTdXdsT2xDMkl2Z2lUVjNfY2JIS1Q1anQ0NEdrdldxWDJ4OGF2bjItVERtQ0dSa3RWQUlrTFBEN1lDQzdIMzdmcExuZTNQYWRWVm1iTXBHbmwyX1gxbXBZVVVNUkRLOWFzd3V5N1pmLThGb29DeEVRakJ1WjNkUlJrUHVpM2ZqVzJobGZSckx4WmVURlBIQkNnRHFSZw?oc=5",
+   "source": "MLive.com",
+   "region": "mid",
+   "cat": "STATEWIDE",
+   "county": "Bay",
+   "tag": "Local Government",
+   "iso": "2026-08-20T01:00:00Z",
+   "id": "6b6d18e5b405",
+   "origin": "google-news",
+   "source_title": "Bay City residents voice opposition to data centers at planning commission meeting - MLive.com",
+   "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZUhPMjBCZkcybzR2VDBYS3dDM2d6ejg0NVE4aXNNUmxXY2FSVTNyQUIyLW9GRHoxMWpTV1NBQ1JTV2tiOUhMQUFnQmlzMldQeERrd1czbHN0VGM0LXJ2YXBXTGJjUXB3SlIyU1ZoX0tBcGRaVS1yQ2VEekl1dDg0Uzk0akgwUXdPaHU1OHBIcGZjcmE2cnF3WDh4dmdVZ0ZTTS0wZW1DZVc4NXZSYVhBOHhjUG1YXzBVMV83TllzVVpFUXc1R3ZxUnZkbmVjb1dRNnRqYkVR0gHqAUFVX3lxTE1MbUthb3hteVY0MmtXeDlFbF9XQnZuN19SbnF1SjFTX0xxZHk0MkNnMXNwckd1U2FqQXFhQkhBSFhaZVlhbmtsTjl1M1dnc0d0YXlIcGhTdXdsT2xDMkl2Z2lUVjNfY2JIS1Q1anQ0NEdrdldxWDJ4OGF2bjItVERtQ0dSa3RWQUlrTFBEN1lDQzdIMzdmcExuZTNQYWRWVm1iTXBHbmwyX1gxbXBZVVVNUkRLOWFzd3V5N1pmLThGb29DeEVRakJ1WjNkUlJrUHVpM2ZqVzJobGZSckx4WmVURlBIQkNnRHFSZw?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Gibraltar sued after rejecting data center project",
    "dek": "A developer claims Gibraltar illegally blocked its data center and is taking the city to court. The lawsuit puts local zoning power and potential tax revenue on the line for Wayne County residents. Michigan readers 30 miles away will watch how the case shapes future project fights near Detroit.",
@@ -169,23 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNS0ZqTEo2WkgwcGdRenlyTFR6Q1ZqSFpBM2RJSzY0cGdJdDU4d243YzFpZEN4cWh4WEh4OGpiUTNPRE5BZU1uRGJGZFJOV2ZZU0laUVZzVWVOc1J1SDJqR2FiMjI0UUw3NThoYlR0cDI5c3NKTDVhbDhOVkZjV3RWc2ZfanFwbkRXZ0JKeWhCUG9jNGMwRV9jdFBNcnpRdkR1N3dtdmZ5a0FoaVVEOFBpR2R3V1Q?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
-  },
-  {
-   "title": "Oakland County data center project reaches make-or-break vote",
-   "dek": "A proposed facility faces a pivotal local decision while lawsuits and state rules create uncertainty. Residents could see changes in power demand and tax revenue if the project advances. The outcome will set precedent for similar proposals across metro Detroit suburbs.",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbGhDRF9NMktJbVJGbEhidXVrRklVbmtHNV84VDhzTFEtOVR5Zi1vUG1qQUR1NkdRWENWVFB3M0ZsT1AtdFdZVWtnT0lDX1EwTm5lZHhmeTgybWx6NTdTa0ZoY1pXM2J0UE5mZHliSDdueEQwNmtFbnVnQnFTTVlBeHlFdi11RjhkWHhfU0Fn?oc=5",
-   "source": "Crain's Detroit",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Oakland",
-   "tag": "Local Government",
-   "iso": "2026-08-19T09:45:00Z",
-   "id": "d856650ad7c2",
-   "origin": "google-news",
-   "source_title": "Data center in Oakland County faces critical vote amid legal, regulatory hurdles - Crain's Detroit",
-   "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbGhDRF9NMktJbVJGbEhidXVrRklVbmtHNV84VDhzTFEtOVR5Zi1vUG1qQUR1NkdRWENWVFB3M0ZsT1AtdFdZVWtnT0lDX1EwTm5lZHhmeTgybWx6NTdTa0ZoY1pXM2J0UE5mZHliSDdueEQwNmtFbnVnQnFTTVlBeHlFdi11RjhkWHhfU0Fn?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {
@@ -202,35 +202,6 @@
   "id": "02d7912fe03d",
   "accuracy": "checked"
  },
- "meetings": [
-  {
-   "iso": "2026-08-19",
-   "body": "Ypsilanti Planning Commission",
-   "topic": "Public hearing and recommendation on zoning ordinance text amendment for data centers, including definitions, standards for noise, water use, energy efficiency and decommissioning",
-   "region": "SE Michigan",
-   "regionKey": "metro",
-   "county": "Washtenaw",
-   "time": "7:00 PM",
-   "status": "Planning commission",
-   "urgent": true,
-   "link": "https://cityofypsilanti.com/CivicAlerts.aspx?AID=2736",
-   "linkLabel": "Agenda",
-   "stream": ""
-  },
-  {
-   "iso": "2026-08-19",
-   "body": "City of Ypsilanti Planning Commission",
-   "topic": "Public hearing and recommendation on zoning text amendment establishing definitions, standards and locations for data centers including noise, water, energy and decommissioning rules",
-   "region": "SE Michigan",
-   "regionKey": "metro",
-   "county": "Washtenaw",
-   "time": "6:30 PM",
-   "status": "Planning commission",
-   "urgent": true,
-   "link": "https://cityofypsilanti.com/CivicAlerts.aspx?AID=2736",
-   "linkLabel": "Agenda",
-   "stream": ""
-  }
- ],
+ "meetings": [],
  "accuracy_checked_at": "2026-07-08T08:45:16+00:00"
 }
