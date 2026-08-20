@@ -1,41 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPdjVNUmNiSXl5XzVkQ2JmZXRHTS1KMjluZTJSZ2w3N1Fzc256WXNoV29vYTgzTlZPeGtDZ094SC1URVRyWjE3WWlTQVpWUWVuUGN1VFRLbUtZX2lhR25xOUhQRWEyQ0xjdVdmREJvcnNvT3lNaHVMS1NNNE50OU5FMUxNTTVNZ0l2X1MyZFZDRWVhNWVJbWZuSnQ3ak9fQ2tESXhpWE9leXFra3lkeXF0aXNFTUV6VFNXbXRUNUVHQVpKUnNSYUVQRV81ZUNPS3lMLTViaUJwOTZDY0NpaXNVV0RKak41Yzc2Q2xWb0NlaGNQNlBuVmlGV1huaXIzQQ?oc=5",
-   "title": "Hyperscale Data weighs sale of Dowagiac data center",
-   "at": "2026-08-12T16:05:32+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Same Hyperscale Data Dowagiac sale story already killed twice by News Director."
-  },
-  {
-   "url": "https://earthjustice.org/experts/shannon-fisk/michigan%E2%80%99s-public-service-commission-grapples-with-ai-data-center-load",
-   "title": "Ratepayers may pay for DTE's 1.4-gigawatt Oracle AI data center",
-   "at": "2026-08-12T17:08:53+00:00",
-   "by": "news_judge",
-   "note": "score 8/10, duplicate: This is the same Saline/Oracle deal already covered in the live story 'Michigan AG challenges OpenAI-Oracle data center deal over costs to ratepayers' — same ch"
-  },
-  {
-   "url": "https://planetdetroit.org/2026/08/dte-oracle-contract-appeal-michigan/",
-   "title": "Michigan Attorney General Appeals Fast-Tracked DTE Contracts for Saline Township Oracle Data Center",
-   "at": "2026-08-12T18:29:44+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Duplicate of already-live 'Nessel and green groups challenge DTE power deals for Saline data centers' and killed 'Nessel Asks Appeals Court to Block Energy Cont"
-  },
-  {
-   "url": "https://grahamandgold.github.io/mi-data-center-tracker/",
-   "title": "No major non-Michigan data center developments reported in the last 24 hours meeting wire criteria",
-   "at": "2026-08-12T18:29:44+00:00",
-   "by": "news_judge",
-   "note": "score 1/10: Not a story — just a meta-note about lack of national news."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbWlhMnduOTZOT3FPcktRU1Q0NFRDWnBoRkZvcTJQWkxha0tBdWJsaE1jUUxob3dQeFFHR1pJcHVZY2U3UzU0N1NCMkRuaVlTWU5XSDcyeE1jejdUX2lFeHI4OTFyOU4wVGxjNUEybXFsTllLZVlsMU5YYWFqYk9UYy1iVU5SbTJ4ZnVzR195MEJhQ1pYejA1ZFVLMA?oc=5",
-   "title": "Morley delays vote on hydro-powered data center",
-   "at": "2026-08-12T18:29:44+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Duplicate of already-live 'Morley delays hydro data center hearing to Aug 18' — identical delay to same date for same project."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNeUp6ejZRRjltczItUHhaRzJFWVVCczY5YlRKRS1sRnJab09vX0dxXzBGZmVQRGw1LW1pdTdYMlhYYVdva3YwT2dBQTZVcU8tNWhZcTJwTXFBc3pOaXFIcF9CZl93WEVUVGRrczBESDBIc2tpWHlLeVlhbERHR2xyVUFfT3owdEJwcE9VaVZXdW9vdlpTcFo3ZmhYVzk1al9fS1NxTVpCSE1UTE9EaVJ4aFcxallNb2FqRjNUZnVRNVY3bllPaklSa29IZ2F1alF4QXpQajZCTDVnTnUtd1FaVlo2NUw4MW5IdW9RTG4zV3JVOXdkT25rR2Z6N0M2VFg3TlhWTEpqRklwWGM?oc=5",
    "title": "Hyperscale Data weighs sale of Dowagiac facility",
    "at": "2026-08-12T18:29:44+00:00",
@@ -1399,6 +1364,41 @@
    "at": "2026-08-20T16:44:18+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece with limited Michigan-specific relevance."
+  },
+  {
+   "url": "https://www.404media.co/township-fights-nuclear-weapons-data-center-by-passing-a-moratorium-on-electrical-infrastructure/",
+   "title": "Ypsilanti Township Approves Six-Month Moratorium on Major Electric Infrastructure",
+   "at": "2026-08-20T17:37:49+00:00",
+   "by": "news_judge",
+   "note": "score 1/10, duplicate: Duplicate of already live story on Ypsilanti Township moratorium."
+  },
+  {
+   "url": "https://www.axios.com/2026/08/20/data-center-uproar-2026-midterms",
+   "title": "Data Center Backlash Reshapes 2026 Midterm Campaigns Nationwide",
+   "at": "2026-08-20T17:37:49+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece with limited Michigan-specific news."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZjJGMkp3NGNMQTJaUVVfbHVvdjNCeTBCVGhOWXliM1dZY2ZMN2FCc2h5MVA4X29nbkFHcmNaSl9yQXE1dnRhQU9HX1BzalJURG9QcTdDX2d2LU9NWkFxRVBPUE9BUENMQlBReGVhdldKUi1WN0VaMk5MaGlrUWlXb1hkSzZpNE5hUW9PRTF1OVpwQkN1ejNrNlo1ckRKZTZqLVdqZE95R1Bzck1Qck9qXzIyUFpaa3ZxR1ExcU9jcXY?oc=5",
+   "title": "Michigan's EV plants now compete with AI data centers for power",
+   "at": "2026-08-20T17:37:49+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Speculative piece on competition for power, lacks concrete developments."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNEFKNlJYVWIxVmNfYTdvOGFYS3EwYjdwcmNNU3BoRzg3ZU1WYmw3c2p5aG41VjNabDZCRW9NcjlPRnRMY2ZwdXl6UVY0bGZvcDdjTVBBTjdZZWctMFUtNWRVSWZib05BQUVSdGd2N0tBc0U5UlhJaHJOcXlMaThUSDJRU1ZyMFFxUERVSXU2NG1fdWdDbEFKdnplUlBVRXVfYW0yY09uTTUwSHJT?oc=5",
+   "title": "Mike Rogers backs pause on new Michigan data centers",
+   "at": "2026-08-20T17:37:49+00:00",
+   "by": "news_judge",
+   "note": "score 1/10, duplicate: Duplicate of already live story on Rogers' stance on data centers."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQS1NwOUh2b1hIa3c3RlcwWnpsbFJUaV9fNURDb1RNWTFJdmlfeEtWWk95aXlKRnlRRkQ4alVjWFlfVFctRWwyQVVPaUxodEhQWUlFMUpKaGRHeGV5ZnpQY29CYk1hTEFzVzZORHUxdUlzc3NLR3dqNFFOaDhraE1mM2p1Vk1FMGxJVHJFLVBXNW5UX0doMWJ3azA2eC0xWEwwd0RPUGZvRmlOWF9QdXhveERUX0dzSUoyQU00QS04QmZOdEZEUk1r?oc=5",
+   "title": "Barrett bill shields local data center fights from federal meddling",
+   "at": "2026-08-20T17:37:49+00:00",
+   "by": "news_judge",
+   "note": "score 5/10: Incremental development on state-level legislative proposal."
   }
  ],
  "auto_published": [
