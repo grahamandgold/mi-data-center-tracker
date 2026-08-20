@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-20T13:04:44+00:00",
+ "updated_at": "2026-08-20T13:55:18+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -201,6 +201,20 @@
   "accuracy": "checked"
  },
  "meetings": [
+  {
+   "iso": "2026-08-20",
+   "body": "Emmet County Board of Commissioners",
+   "topic": "Resolution to delay data center permits until March 2027",
+   "region": "Northern Michigan",
+   "regionKey": "north",
+   "county": "Emmet",
+   "time": "6:00 PM",
+   "status": "Board meeting",
+   "urgent": true,
+   "link": "https://www.emmetcounty.org/government/board_of_commissioners/index.php",
+   "linkLabel": "Agenda",
+   "stream": "https://youtube.com/live/N4y9zwqaKoU"
+  },
   {
    "iso": "2026-08-20",
    "body": "Lodi Township Planning Commission Data Center Subcommittee",
