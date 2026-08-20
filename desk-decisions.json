@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.keranews.org/news/2026-08-12/data-center-moratorium-takes-first-steps-after-fort-worth-city-councils-unanimous-vote",
-   "title": "Fort Worth Backs 90-Day Data Center Pause to Check Water and Power Use",
-   "at": "2026-08-12T14:40:53+00:00",
-   "by": "news_judge",
-   "note": "score 2/10: Fort Worth, Texas development has no Michigan angle and belongs in national trend/noise category."
-  },
-  {
-   "url": "https://commercial.allianz.com/news-and-insights/news/data-centers-construction-risks-2026.html",
-   "title": "Data center boom raises new infrastructure and climate risks for insurers",
-   "at": "2026-08-12T16:05:32+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece from Allianz about global insurance risks, no Michigan-specific development or decision."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPdjVNUmNiSXl5XzVkQ2JmZXRHTS1KMjluZTJSZ2w3N1Fzc256WXNoV29vYTgzTlZPeGtDZ094SC1URVRyWjE3WWlTQVpWUWVuUGN1VFRLbUtZX2lhR25xOUhQRWEyQ0xjdVdmREJvcnNvT3lNaHVMS1NNNE50OU5FMUxNTTVNZ0l2X1MyZFZDRWVhNWVJbWZuSnQ3ak9fQ2tESXhpWE9leXFra3lkeXF0aXNFTUV6VFNXbXRUNUVHQVpKUnNSYUVQRV81ZUNPS3lMLTViaUJwOTZDY0NpaXNVV0RKak41Yzc2Q2xWb0NlaGNQNlBuVmlGV1huaXIzQQ?oc=5",
    "title": "Hyperscale Data weighs sale of Dowagiac data center",
    "at": "2026-08-12T16:05:32+00:00",
@@ -1399,15 +1385,23 @@
    "at": "2026-08-20T15:42:07+00:00",
    "by": "news_judge",
    "note": "score 1/10, duplicate: Duplicate of already killed stories about Gibraltar lawsuit over data center moratorium."
+  },
+  {
+   "url": "https://mitechnews.com/clean-green-hybrid/michigan-built-for-the-ev-boom-now-ai-data-centers-could-become-the-bigger-prize/",
+   "title": "Michigan EV investments eyed as power source for AI data centers",
+   "at": "2026-08-20T16:44:18+00:00",
+   "by": "news_judge",
+   "note": "score 5/10: Incremental development on potential power sources for data centers."
+  },
+  {
+   "url": "https://finance-commerce.com/2026/08/ai-data-centers-manufacturing-growth/",
+   "title": "AI data center construction drives U.S. factory investments in generators and electrical equipment",
+   "at": "2026-08-20T16:44:18+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece with limited Michigan-specific relevance."
   }
  ],
  "auto_published": [
-  {
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaUI5N3poQk9makJjdjFrT2czbHBTcmZtbEdqYzZUMWE1N1luSV82NWhhenZDOHY5bWh3Y2U1T3M5MzIxd2RjczhJMmNQZVhGaFpCSDNlZGdXSldPNGdhMkoyYk1aUG1SZFNySjZ0ZjhkaHVBWVJ2UFFLZW9xU3BiM0Y1WjlGQXM?oc=5",
-   "title": "Michigan town sues over nonstop data-center noise in federal court",
-   "judge_score": 7,
-   "at": "2026-07-09T17:34:47Z"
-  },
   {
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUlZrd0prX0dOMmJXWWxMcjYtR20tUnUxY2JEUGhnc2lTX0JadFVXeDNzclRHLWM3SFFVNXJJYl9yZy0tejQwMkM1OVYxdkpmUDBRelRLZ1JpRzRWZExzMFp4dm1POUZjNGFHTlBGZEt6TWlEWVJOUElqbG04QTJZNmZEUUVicGNacVl1NnRkb255UjQ0SURGT1FieWtManp4d3BJMFdhVjQ4WVdVdkZOdnFjRGlCQzJmUldyY29TWlBCTjRaQ2p4aHhnalN5X3lLWEtUekxGc1FKUzA?oc=5",
    "title": "Eaton planners flag power and water risks from Amazon-linked site",
@@ -3201,6 +3195,12 @@
    "title": "Township blocks power lines to halt U-M backed hyperscale project",
    "judge_score": 9,
    "at": "2026-08-20T15:42:07Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUHJkUTdfbUlhZktGRjlWN3FZbzZxcEtOZHdVRGVpVmVUY2FycmMwTU9zeEJOSFVVUUlkMXhoRnZlSEdqX2ctbDQyT3lqU3BHb0NPMVZSWWJaRWt4VjNNaVNhZWtWY09HeXgwRzE0bkt0SGNQRUdONzBjb0RVWUtrYVdpQzBnak1CSHFxQV9YOXNwQm5rUVc1ZWpIR3VreWdjRnpnTWp0TUVwOTJuSDZhZGlHUjNteGFPNjJNN0J0ZnU4dmRaenpIVm0xbW42Qkpo?oc=5",
+   "title": "Rogers: Halt new data centers to prevent higher power costs in Michigan",
+   "judge_score": 6,
+   "at": "2026-08-20T16:44:19Z"
   }
  ]
 }

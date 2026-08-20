@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-20T15:42:07Z",
+ "updated_at": "2026-08-20T16:44:19Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Rogers: Halt new data centers to prevent higher power costs in Michigan",
+   "dek": "Former congressman Mike Rogers told Detroit voters he supports a temporary halt on new data centers. The stance comes as power demand from AI projects strains Michigan utilities and local grids. Residents 30 miles away could see higher electric bills if large facilities move forward without limits.",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUHJkUTdfbUlhZktGRjlWN3FZbzZxcEtOZHdVRGVpVmVUY2FycmMwTU9zeEJOSFVVUUlkMXhoRnZlSEdqX2ctbDQyT3lqU3BHb0NPMVZSWWJaRWt4VjNNaVNhZWtWY09HeXgwRzE0bkt0SGNQRUdONzBjb0RVWUtrYVdpQzBnak1CSHFxQV9YOXNwQm5rUVc1ZWpIR3VreWdjRnpnTWp0TUVwOTJuSDZhZGlHUjNteGFPNjJNN0J0ZnU4dmRaenpIVm0xbW42Qkpo?oc=5",
+   "source": "The Detroit News",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Wayne",
+   "tag": "Policy",
+   "iso": "2026-08-20T16:31:00Z",
+   "id": "9a2f4b1e5cdc",
+   "origin": "google-news",
+   "source_title": "Mike Rogers backs data center 'pause' at campaign stop in Detroit - The Detroit News",
+   "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUHJkUTdfbUlhZktGRjlWN3FZbzZxcEtOZHdVRGVpVmVUY2FycmMwTU9zeEJOSFVVUUlkMXhoRnZlSEdqX2ctbDQyT3lqU3BHb0NPMVZSWWJaRWt4VjNNaVNhZWtWY09HeXgwRzE0bkt0SGNQRUdONzBjb0RVWUtrYVdpQzBnak1CSHFxQV9YOXNwQm5rUVc1ZWpIR3VreWdjRnpnTWp0TUVwOTJuSDZhZGlHUjNteGFPNjJNN0J0ZnU4dmRaenpIVm0xbW42Qkpo?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
   {
    "title": "Township blocks power lines to halt U-M backed hyperscale project",
    "dek": "A Michigan township passed a ban on new electrical infrastructure to stop a 220,000-square-foot data center tied to the University of Michigan and Los Alamos National Laboratory. Residents face the prospect of massive power infrastructure serving a nuclear-weapons-linked facility without local say. The move directly affects nearby homes and farms by cutting off the project's grid connection.",
@@ -167,23 +184,6 @@
    "origin": "google-news",
    "source_title": "Forsyth Township town hall addresses data center concerns in Sawyer area - myupnow.com",
    "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbDIxWFhLTVZsel8zeXN6TmJvMFhkV2FVVWMzMng4T0JkVDV1d25XMEdfWnZxNV9LOTUxVDZ1dDlLc3BTVUZhZjZNVUMyaUlTcWFjekpRUGs3cVcyZlptX1d3Vm1yQkhxd0FranV5TjZGLVE2cnI5T3JtSHNPaURvM1dSMjloc3FFZms1R0JsTzVTMkdkMWNJNmR1WmEzdUZycXFBZ2xhQ25wel94QU5PblU3TmR3Y2UwZE8zMjBHZXRhTG90QlpXcVVsTEFqUEFVRkhGWVhVS2hSY2M5ZVk2SzZMVDdhQQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
-  },
-  {
-   "title": "Ypsilanti halts big utility builds over U-M supercomputer plans",
-   "dek": "Ypsilanti Township approved a moratorium on large utility structures that could support the University of Michigan's expanding supercomputing needs. The pause gives local officials time to assess impacts on power demand and land use in the township. Washtenaw County residents could see delayed infrastructure projects tied to heavy electricity users.",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZ3Y2N20tZkdIREVQX1M4SjR2RzA0bTBPeXpJT2xWVXk5TURqaTVZQTFFMUF3VWJMM0paSTZqc3VaaUNWRWpxcmFYTlE1VDZVckV2RUJvUTUzZGd1YXJWU1liMGVHQ2MxbkpEaVpiUklnbmduU2NiSEM2bDVCZGQxaXZxdW5pb2ZpQlpfTlJWUURNRC1iQ3plYWc4Z1FiVU16aDRReEQtVlNGbVVveDVzb1dJbmN3NGtjWlE0NmM4dmZGT2hDTFBRQzFNbV9yQWFnbGJqVWJJZHBEQW42NVBPY05DMA?oc=5",
-   "source": "WXYZ 7 News Detroit",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Local Government",
-   "iso": "2026-08-19T21:13:41Z",
-   "id": "7364f5a6ce84",
-   "origin": "google-news",
-   "source_title": "Ypsilanti Township approves moratorium on large utility structures amid U of M supercomputing plans - WXYZ 7 News Detroit",
-   "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZ3Y2N20tZkdIREVQX1M4SjR2RzA0bTBPeXpJT2xWVXk5TURqaTVZQTFFMUF3VWJMM0paSTZqc3VaaUNWRWpxcmFYTlE1VDZVckV2RUJvUTUzZGd1YXJWU1liMGVHQ2MxbkpEaVpiUklnbmduU2NiSEM2bDVCZGQxaXZxdW5pb2ZpQlpfTlJWUURNRC1iQ3plYWc4Z1FiVU16aDRReEQtVlNGbVVveDVzb1dJbmN3NGtjWlE0NmM4dmZGT2hDTFBRQzFNbV9yQWFnbGJqVWJJZHBEQW42NVBPY05DMA?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
   }
