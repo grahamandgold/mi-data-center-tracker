@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcHRDV2ZuSnA4cnVxNXZsZzNUQTVYa2I0VXJkY0t5eU9wLUZqZFhyVFVZVXQxclRmenBsd1YwVExVSENGM01BR2k0cUtvTW9Yb1k3Q01GNUhZbnA4b3JmeldDYXRTM1g4S1Bkcm84aTk2Ylp6UkItSklxRmVBcXo2SWV0bE00TEswTnZ4Nk1HczAtZGUzOEQwMUF4bm50Q0c1SkNNaks2eGFuNnhMLWd3OUVqWWs4bHI2TjQwa3JmMW5XeFd00gHYAUFVX3lxTE9qdmVJMGZ1YU5nMW5nWXc2RGoxSE83MmhTeWNYSlZwWU1rUmI2MFVPY21qRnRuNGdqVnlWV1lQQzZHSHotNXRSMWF1WDA2eEhLdVNWWkJZNklJcmRNOHVQMFUyMnNBM3NCRGJ4Y2RiYkVBelZBdkNMMG9nOGQyaFpGSWVjMFpFZ1lqeTJIbVVGTmUycG45elIxbGMxVW9Ra3BWNTNGNzZMd0lRMVFpcFBmQ1ZrcDJvR09mOWU4UHVOUHNEYlF1VjhWS3MyaUU0d1V2RG56Rnpocw?oc=5",
-   "title": "Kalamazoo eyes one-year halt on new data centers",
-   "at": "2026-08-11T16:27:54+00:00",
-   "by": "news_judge",
-   "note": "score 4/10, duplicate: Kalamazoo weighing a freeze is already live; this appears to be the same consideration unless a vote occurred, which the summary doesn't indicate."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORGx1b1JBNHNVNUZuekN0U1NfNVgxRkhRTEl3Z2VDelRWZnFNblExUDVzdHQyd3pjb3ZGVjBGSmdWWWc3TnRfRms2bktjUk9NWlhvajhZa3c0VXdvY2RkZ2JTeTdCRUM5Z2x5dTg5eVJtc0JEQUxQSzlYNi1YZGJqYmYzU2xNUnBKY0xpWk02dVhoX3lybWNhRGRIWQ?oc=5",
-   "title": "Detroit grid can't support large data centers, new study finds",
-   "at": "2026-08-11T18:29:30+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: This is a rehash of the already-live story 'Detroit Grid Too Weak for Hyperscale Data Centers, DTE Tells Planners' — same finding about Detroit's grid capacity "
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdnZ4RFNRVzd0MVcxVVgwYmVfbUFZcnc4RTVJR1F5ekJUcnJOZWVpaV9OQ2N1NnpNT1AyN09qRTNITXlhSlZqTTJiNDB0RVo1RjFJaWpHcEJ3aWdpUzFMczBhckx5UW4wSUhyUjRrNG5hSUN0QVU2RUtXX1JQZi04YXpZeXR3ekdjR0o5NDBBS3M3V3JiaXFNS2EtT2lQemk2a2dKXzNOcnVTTmVrTUhvNXAwX3pDVXVWaXRlRkhZS09JZVBJbTVnTkhUcE9CcEJZNExzVkpMU0ZRQ3YzelpqejVQaTdyQWJyU3FkX2x4YVlaSmV3a0Y5Rg?oc=5",
    "title": "Kalamazoo may block new data centers with moratorium vote",
    "at": "2026-08-11T22:53:48+00:00",
@@ -1399,21 +1385,23 @@
    "at": "2026-08-20T03:55:43+00:00",
    "by": "news_judge",
    "note": "score 4/10: General commentary on data center concerns without new developments."
+  },
+  {
+   "url": "https://www.wlns.com/news/local-news/expert-some-data-center-concerns-valid-others-overblown/amp/",
+   "title": "Michigan Data Centers Promise Jobs but Risk Tax Breaks and Nearby Home Value Drops",
+   "at": "2026-08-20T04:46:24+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Speculative piece on potential impacts of data centers, lacking concrete developments."
+  },
+  {
+   "url": "https://votesolar.org/pa-executive-order-signals-progress-on-data-center-accountability/",
+   "title": "Shapiro Order Requires Data Centers to Pay Energy Costs and Boost Clean Power",
+   "at": "2026-08-20T04:46:24+00:00",
+   "by": "news_judge",
+   "note": "score 2/10: National story with no direct relevance to Michigan's data center developments."
   }
  ],
  "auto_published": [
-  {
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWGtiUG1BMmJaakNVdlV1eWhaNnNQTkZJSERzNmpiZV9mcW5MOFZlRWxVbWt2czFMOTJ1N2lVMVdtbm1KSTAxSnBDbGE0YXpmZGlDbjdSZFdrX0ZFd3AySE5ZN0NLUlc1b2xHMGhHNzFoSkxvUGN1dG9ENDJQX3pjb3pJSm9yMlMwM3doTFNtRlRkNy0zT0dFOTg0c19kaE5EQTdSaEV4UWtEYWl4QWZ3MEVjdzI5Q0ViVnJDS0JuNXI3b1o0Zm9GQllR?oc=5",
-   "title": "Oracle asks Saline Twp to skip 12 years of taxes on $43B campus",
-   "judge_score": 9,
-   "at": "2026-07-08T22:08:27Z"
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSUw3bEFEVGZQMTA2MUt4ZkY2TTdwNVhzVzlja2FXNTF1YndUYU5hWjVuUmtmd2VjOEVQYjA5WUdRZ0g1cHRQbDRCZUV3VXpMR2NPLW45Z2h6VEV3bU9jQTlPalUyVmlZTWowbFJ4MzNRaG9WX291a3hlOXBtXzFaVDRUM0R2Y2ZSTVpvZjk3M29FbGYtMUY5ZC1JR1F0MUZaY0VsbGh1M2V1RE1zbkZVdE5LTnJ3VURUZGQxRjJtSjRrUENVRjdIZDhSTGpYWU1CVGxNOERibUVRSjNvV2huRnZNak5xdUxx?oc=5",
-   "title": "Girard Twp green-lights data center rules while Coldwater drafts its own",
-   "judge_score": 7,
-   "at": "2026-07-08T22:08:27Z"
-  },
   {
    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQd3FWb1ZTdkoyd2FaRGU1UDBhVWxuVGFJbmRLVGxPT0J2cjJGOFBTREFiOUluSVRZN2xjNWJWdmpPLU1nbThqQ1hvUi1xRnYyaWtjZlNEU3loOHpHdENOTFFqWGNWMUZiS1ZJTENDNmxSYlNpb2x4ZmJQLWZ0ZVZTYVh3N0t1dnNTeWdXVWdRZ3BZTjZkWUxYTkJ2OTlrVV9TeGc2MW5kampyQm4wYlZJSnprQ2dVQUtiN2pQRkxQblJubEVXTlkybm4yeHBmMjZ2a0l3SFpJRGlPbnptN2pxS1R6WQ?oc=5",
    "title": "Hundreds pack hearing as Garfield Township pushes data-center moratorium",
@@ -3201,6 +3189,18 @@
    "title": "Michigan Regulators Release Energy Cost Recommendations as Advocates Push for Stronger Data Center Protections",
    "judge_score": 7,
    "at": "2026-08-20T03:55:43Z"
+  },
+  {
+   "url": "https://www.easternecho.com/article/2026/08/ypsilanti-township-issues-land-use-moratorium-impacting-data-centers",
+   "title": "Ypsilanti Township Board Approves Land-Use Moratorium Targeting Electric Infrastructure for Data Centers",
+   "judge_score": 9,
+   "at": "2026-08-20T04:46:24Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMTZxZjhOdXVzaGlpRURIamxVWW9tVXl2bXVNWlpsbXpoVHFSQjRab2lxd2c1enhZZnpaMnM4NWlrbFJ1eUE4MVNiTnVEWEV3X1F2MzhvcXlHaG8wa1Y1MDFVRXJXMDNHYThSUlYyekZ0X1RjZkhKRDc0WEJiTktqR283M2MwWWxD?oc=5",
+   "title": "St. Joseph County weighs year-long data center moratorium",
+   "judge_score": 7,
+   "at": "2026-08-20T04:46:24Z"
   }
  ]
 }
