@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-20T23:33:37+00:00",
+ "updated_at": "2026-08-20T23:54:45Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Vevay Twp landowners push Mason annexation to clear path for data center",
+   "dek": "Property owners in Vevay Township want their land moved into the city of Mason so a data center can move forward. The annexation would shift tax revenue and local control from the township to the city. Residents 30 miles away in Lansing or Jackson could see new power and water demand if the project advances.",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON3A0aXp1c2FUNml3akdzTFlwX0JfSjQyY3ZzY2NXU2gtcnJ3VUpyT1NhcUllV2g3RkN4RE1mZ3dGTXBtNkpETnh5WHZvazlJckpPYkR2X1dYVTBxZUE3QVlRWGhnMWpYTlVnd2htRlhza2pKTWVUMU9fTV84R2M0dks5a2ZmQ2RhVzBEd0tpVWp6ZHp1dGNpdGhZUV8wUmdmYXZoNHRZNkxVY3hUbWM00gGvAUFVX3lxTE43cDRpenVzYVQ2aXdqR3NMWXBfQl9KNDJjdnNjY1dTaC1ycndVSnJPU2FxSWVXaDdGQ3hETWZnd0ZNcG02SkROeHlYdm9rOUlySk9iRHZfV1hVMHFlQTdBWVFYaGcxalhOVWd3aG1GWHNrakpNZVQxT19NXzhHYzR2SzlrZmZDZGFXMER3S2lVanpkenV0Y2l0aFlRXzBSZ2Zhdmg0dFk2TFVjeFRtYzQ?oc=5",
+   "source": "WILX",
+   "region": "mid",
+   "cat": "STATEWIDE",
+   "county": "Ingham",
+   "tag": "Local Government",
+   "iso": "2026-08-20T22:25:00Z",
+   "id": "b1f6d58bef7d",
+   "origin": "google-news",
+   "source_title": "Vevay Township landowners seeking Mason annexation for data center - WILX",
+   "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON3A0aXp1c2FUNml3akdzTFlwX0JfSjQyY3ZzY2NXU2gtcnJ3VUpyT1NhcUllV2g3RkN4RE1mZ3dGTXBtNkpETnh5WHZvazlJckpPYkR2X1dYVTBxZUE3QVlRWGhnMWpYTlVnd2htRlhza2pKTWVUMU9fTV84R2M0dks5a2ZmQ2RhVzBEd0tpVWp6ZHp1dGNpdGhZUV8wUmdmYXZoNHRZNkxVY3hUbWM00gGvAUFVX3lxTE43cDRpenVzYVQ2aXdqR3NMWXBfQl9KNDJjdnNjY1dTaC1ycndVSnJPU2FxSWVXaDdGQ3hETWZnd0ZNcG02SkROeHlYdm9rOUlySk9iRHZfV1hVMHFlQTdBWVFYaGcxalhOVWd3aG1GWHNrakpNZVQxT19NXzhHYzR2SzlrZmZDZGFXMER3S2lVanpkenV0Y2l0aFlRXzBSZ2Zhdmg0dFk2TFVjeFRtYzQ?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Saline data center backer buys golf course next door",
    "dek": "The developer behind a large proposed campus in Washtenaw County’s Saline Township has purchased the neighboring golf course. Residents worry the move signals bigger land use, power demand and tax-break requests ahead. Local officials have not yet said how the purchase affects pending reviews.",
@@ -169,23 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMTZxZjhOdXVzaGlpRURIamxVWW9tVXl2bXVNWlpsbXpoVHFSQjRab2lxd2c1enhZZnpaMnM4NWlrbFJ1eUE4MVNiTnVEWEV3X1F2MzhvcXlHaG8wa1Y1MDFVRXJXMDNHYThSUlYyekZ0X1RjZkhKRDc0WEJiTktqR283M2MwWWxD?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Gibraltar sued after rejecting data center project",
-   "dek": "A developer claims Gibraltar illegally blocked its data center and is taking the city to court. The lawsuit puts local zoning power and potential tax revenue on the line for Wayne County residents. Michigan readers 30 miles away will watch how the case shapes future project fights near Detroit.",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN1hkX2JqNGlHdDlpTlJiWVU1WG1NV2d2VjZLRllSaG5BTXA1NnJ2TDhlMHJIVy1RR3ZpNEN1Z1pJYUtVY0hnQVdaSXdpaWN3LUI4emVoZHdFaXdhVElwcE1HZ0dDU3AxVnRfbF9aR0k2cy14TmlhMzFQeWt5NmJ0aW1wUzRWalp1Q1VqYjdWSENGUFBtYUlkVnl6RTN3WElsZVk2MXdGOHZXSzZzTWswMnJ3d25RVTRKdXh2dTAzN0JSd2VXbGZV?oc=5",
-   "source": "clickondetroit.com",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Wayne",
-   "tag": "Local Government",
-   "iso": "2026-08-19T21:55:34Z",
-   "id": "fccd1d37513d",
-   "origin": "google-news",
-   "source_title": "Data center developer sues Gibraltar, claims city illegally blocked project - clickondetroit.com",
-   "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN1hkX2JqNGlHdDlpTlJiWVU1WG1NV2d2VjZLRllSaG5BTXA1NnJ2TDhlMHJIVy1RR3ZpNEN1Z1pJYUtVY0hnQVdaSXdpaWN3LUI4emVoZHdFaXdhVElwcE1HZ0dDU3AxVnRfbF9aR0k2cy14TmlhMzFQeWt5NmJ0aW1wUzRWalp1Q1VqYjdWSENGUFBtYUlkVnl6RTN3WElsZVk2MXdGOHZXSzZzTWswMnJ3d25RVTRKdXh2dTAzN0JSd2VXbGZV?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
   }
  ],
  "national": {
