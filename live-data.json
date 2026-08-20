@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-20T03:06:37+00:00",
+ "updated_at": "2026-08-20T03:55:43Z",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -69,6 +69,21 @@
    "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZ3Y2N20tZkdIREVQX1M4SjR2RzA0bTBPeXpJT2xWVXk5TURqaTVZQTFFMUF3VWJMM0paSTZqc3VaaUNWRWpxcmFYTlE1VDZVckV2RUJvUTUzZGd1YXJWU1liMGVHQ2MxbkpEaVpiUklnbmduU2NiSEM2bDVCZGQxaXZxdW5pb2ZpQlpfTlJWUURNRC1iQ3plYWc4Z1FiVU16aDRReEQtVlNGbVVveDVzb1dJbmN3NGtjWlE0NmM4dmZGT2hDTFBRQzFNbV9yQWFnbGJqVWJJZHBEQW42NVBPY05DMA?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
+  },
+  {
+   "iso": "2026-08-19T18:00:00+00:00",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "tag": "Power & Grid",
+   "title": "Michigan Regulators Release Energy Cost Recommendations as Advocates Push for Stronger Data Center Protections",
+   "dek": "The Michigan Public Service Commission unveiled steps to lower energy costs, prompting calls for swift action on data center guardrails to protect ratepayers and the grid.",
+   "source": "Michigan Advance",
+   "url": "https://michiganadvance.com/2026/08/19/as-michigan-regulators-unveil-recommendations-for-lowering-energy-costs-advocates-urge-action/",
+   "breaking": false,
+   "lead": true,
+   "id": "fdac456431ea",
+   "accuracy": "checked",
+   "judge_score": 7
   },
   {
    "title": "Detroit-area residents describe daily life next to large data centers",
@@ -169,23 +184,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTkY3T0NpS0Rsdkk3TzZpdThsNm5QMERZeHpWUGozdDFpYmY3YWZYU3VEbW1CNUNkT3BUSUl0dlY2ZkJ6SVVRTExBM000RkFjZW1VN1RZTVZGa2VLcWtrTDB1Z3VsT0dpRzdIMVZfTmptV1k1eFpXaklFaXc2RWhyZXVycE91cXdpcm5tTDEyYzNIZ05vTGx2eDR0TW9fWUdkTlR4V0dmN3U5cUM4UXo2eUZB?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Saline presses state on data center wastewater permit",
-   "dek": "Township officials want EGLE to explain how a proposed data center would handle millions of gallons of wastewater and protect local wells. The answers will decide whether the project moves forward or faces stricter limits. Downstream communities share the same aquifer and treatment systems.",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNS0ZqTEo2WkgwcGdRenlyTFR6Q1ZqSFpBM2RJSzY0cGdJdDU4d243YzFpZEN4cWh4WEh4OGpiUTNPRE5BZU1uRGJGZFJOV2ZZU0laUVZzVWVOc1J1SDJqR2FiMjI0UUw3NThoYlR0cDI5c3NKTDVhbDhOVkZjV3RWc2ZfanFwbkRXZ0JKeWhCUG9jNGMwRV9jdFBNcnpRdkR1N3dtdmZ5a0FoaVVEOFBpR2R3V1Q?oc=5",
-   "source": "WEMU",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Water",
-   "iso": "2026-08-19T12:01:00Z",
-   "id": "67f28aa2d907",
-   "origin": "google-news",
-   "source_title": "Saline wants answers from EGLE on proposed data center wastewater permit - WEMU",
-   "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNS0ZqTEo2WkgwcGdRenlyTFR6Q1ZqSFpBM2RJSzY0cGdJdDU4d243YzFpZEN4cWh4WEh4OGpiUTNPRE5BZU1uRGJGZFJOV2ZZU0laUVZzVWVOc1J1SDJqR2FiMjI0UUw3NThoYlR0cDI5c3NKTDVhbDhOVkZjV3RWc2ZfanFwbkRXZ0JKeWhCUG9jNGMwRV9jdFBNcnpRdkR1N3dtdmZ5a0FoaVVEOFBpR2R3V1Q?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
   }
  ],
  "national": {

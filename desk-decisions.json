@@ -1,27 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://wkzo.com/2026/08/11/958704/",
-   "title": "Kalamazoo commissioners seek draft moratorium on data centers and crypto mines",
-   "at": "2026-08-11T15:08:11+00:00",
-   "by": "news_judge",
-   "note": "score 4/10, duplicate: Duplicate of already-live 'Kalamazoo weighs year-long freeze on new data centers' — same city considering same moratorium action."
-  },
-  {
-   "url": "https://www.stocktitan.net/news/GPUS/hyperscale-data-board-considers-all-options-to-maximize-stockholder-k35ooy1x6boz.html",
-   "title": "Michigan AI Site With $3 Billion Contract Potential Explored for Sale or Lease",
-   "at": "2026-08-11T15:08:11+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Duplicate of killed 'Hyperscale Data Explores Sale or Partnerships for Michigan Campus' — same sale exploration story with contract details added but no new dev"
-  },
-  {
-   "url": "https://michiganadvance.com/news/",
-   "title": "Nessel Asks Appeals Court to Block Energy Contracts for Saline Data Center",
-   "at": "2026-08-11T16:27:54+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Same Nessel appeal of Saline DTE contracts already covered in multiple killed stories and the live 'Nessel appeals DTE deal' item."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcHRDV2ZuSnA4cnVxNXZsZzNUQTVYa2I0VXJkY0t5eU9wLUZqZFhyVFVZVXQxclRmenBsd1YwVExVSENGM01BR2k0cUtvTW9Yb1k3Q01GNUhZbnA4b3JmeldDYXRTM1g4S1Bkcm84aTk2Ylp6UkItSklxRmVBcXo2SWV0bE00TEswTnZ4Nk1HczAtZGUzOEQwMUF4bm50Q0c1SkNNaks2eGFuNnhMLWd3OUVqWWs4bHI2TjQwa3JmMW5XeFd00gHYAUFVX3lxTE9qdmVJMGZ1YU5nMW5nWXc2RGoxSE83MmhTeWNYSlZwWU1rUmI2MFVPY21qRnRuNGdqVnlWV1lQQzZHSHotNXRSMWF1WDA2eEhLdVNWWkJZNklJcmRNOHVQMFUyMnNBM3NCRGJ4Y2RiYkVBelZBdkNMMG9nOGQyaFpGSWVjMFpFZ1lqeTJIbVVGTmUycG45elIxbGMxVW9Ra3BWNTNGNzZMd0lRMVFpcFBmQ1ZrcDJvR09mOWU4UHVOUHNEYlF1VjhWS3MyaUU0d1V2RG56Rnpocw?oc=5",
    "title": "Kalamazoo eyes one-year halt on new data centers",
    "at": "2026-08-11T16:27:54+00:00",
@@ -1399,15 +1378,30 @@
    "at": "2026-08-20T03:07:00+00:00",
    "by": "news_judge",
    "note": "score 4/10: National trend piece on state incentives with speculative impact."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd0ItVFB6YjJUSzJzT3ZHMTJpUHhuNi1JQ0ZQSnVDSGgtRFBBZ2FVbzdmbnFkNHlZd3lTaVBVUkYzVGh0MjFlZmplSm1CWFQxcWFycEdmZjNtNUpRUXBpNXJSMjdRSEM3M1pYREVFYXNVY1Z6VlUzNFA4SkhZTno3dS1SM0ZVZm91cG0xaWNNMzJaaHo0U25Ta1liVTFrcmd6NnFLTUZhYXhnVFlLVDBfaExJdUxoRlNZaXJiQlhXaHpfam9r?oc=5",
+   "title": "Detroit News: 'The Barn' shows how Michigan can host data centers",
+   "at": "2026-08-20T03:55:43+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Speculative piece on potential data center benefits without concrete developments."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTG1LYW94bXlWNDJrV3g5RWxfV0J2bjdfUm5xdUoxU19McWR5NDJDZzFzcHJHdVNhakFxYUJIQUhYWmVZYW5rbE45dTNXZ3NHdGF5SHBoU3V3bE9sQzJJdmdpVFYzX2NiSEtUNWp0NDRHa3ZXcVgyeDhhdm4yLVREbUNHUmt0VkFJa0xQRDdZQ0M3SDM3ZnBMbmUzUGFkVlZtYk1wR25sMl9YMW1wWVVVTVJESzlhc3d1eTdaZi04Rm9vQ3hFUWpCdVozZFJSa1B1aTNmalcyaGxmUnJMeFplVEZQSEJDZ0RxUmfSAeoBQVVfeXFMTUxtS2FveG15VjQya1d4OUVsX1dCdm43X1JucXVKMVNfTHFkeTQyQ2cxc3ByR3VTYWpBcWFCSEFIWFplWWFua2xOOXUzV2dzR3RheUhwaFN1d2xPbEMySXZnaVRWM19jYkhLVDVqdDQ0R2t2V3FYMng4YXZuMi1URG1DR1JrdFZBSWtMUEQ3WUNDN0gzN2ZwTG5lM1BhZFZWbWJNcEdubDJfWDFtcFlVVU1SREs5YXN3dXk3WmYtOEZvb0N4RVFqQnVaM2RSUmtQdWkzZmpXMmhsZlJyTHhaZVRGUEhCQ2dEcVJn?oc=5",
+   "title": "Bay City residents push back on data-center power and noise",
+   "at": "2026-08-20T03:55:43+00:00",
+   "by": "news_judge",
+   "note": "score 9/10, duplicate: Duplicate of already live story about Bay City residents pushing back on data center plans."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOHpfQmRMc1lnRmtSWXNqdjlEeUFaV0RIeEVldTI2V2Q1d3pqZkExNlVnTFVWWjFyN2l5b2p5NnZmVE5LSHRnT2I0S3kwOS1jTURZeGw3QnhxNUdZMGQyZ3FQM3ZfdGxUa01SQkZqeS1xLVMydkxfVGRrN3ktdmdHTjZfQWhpRlpPa2dyYlBpbDVxZkktVzFtZ9IBngFBVV95cUxQdFZNajdUNW9taDdyNTNwSEN6RXpuU1NISXgzeW9FWHVYUGk1bHp0RXZSdUlMeGVXaExnLXplOWFETG9GQ0ljSklLa0JWUnIwcUdqQXBwbll2aVlEWGgyZUpIaG1DNUt0ZHVBQW5YYk81N2sxQnRVV3B6T1JYZ1hWVktueWYyeDB6VlJNdVpUZDBCUDVSREc2QnZFU2Jvdw?oc=5",
+   "title": "Lansing-area expert says some data-center fears are real",
+   "at": "2026-08-20T03:55:43+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: General commentary on data center concerns without new developments."
   }
  ],
  "auto_published": [
-  {
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQ0xCMzZYQmFuVXNfcXBMZnBhc1JaVXJXeE9sRW1MLWgydkF1dmtJSHBKNHpZYzZPNWkyejctNHhXOHN3VXdMSXZoZTNSZl9XWDhpS3FlcU5kRzB4SkFHazg0b3BDcE9veEhZRG00bFduLUZma3JuZmYybzgyWkd4UXhHZFJqUWFfcnJuNHFURjAyTS1YYW9kQk1OVnhQSmNPVFJlelJWYnA4MlVVMDNZQmZ3SkNkWE9CalhtcGZHdXh2UGFYZEotZkFWSE5xcnNsZnZZMWMxQ2NCbUR0?oc=5",
-   "title": "Adrian bars new data center proposals for the next year",
-   "judge_score": 9,
-   "at": "2026-07-08T22:08:27Z"
-  },
   {
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWGtiUG1BMmJaakNVdlV1eWhaNnNQTkZJSERzNmpiZV9mcW5MOFZlRWxVbWt2czFMOTJ1N2lVMVdtbm1KSTAxSnBDbGE0YXpmZGlDbjdSZFdrX0ZFd3AySE5ZN0NLUlc1b2xHMGhHNzFoSkxvUGN1dG9ENDJQX3pjb3pJSm9yMlMwM3doTFNtRlRkNy0zT0dFOTg0c19kaE5EQTdSaEV4UWtEYWl4QWZ3MEVjdzI5Q0ViVnJDS0JuNXI3b1o0Zm9GQllR?oc=5",
    "title": "Oracle asks Saline Twp to skip 12 years of taxes on $43B campus",
@@ -3201,6 +3195,12 @@
    "title": "Bay City neighbors push back on data center plans over power and noise",
    "judge_score": 7,
    "at": "2026-08-20T01:49:25Z"
+  },
+  {
+   "url": "https://michiganadvance.com/2026/08/19/as-michigan-regulators-unveil-recommendations-for-lowering-energy-costs-advocates-urge-action/",
+   "title": "Michigan Regulators Release Energy Cost Recommendations as Advocates Push for Stronger Data Center Protections",
+   "judge_score": 7,
+   "at": "2026-08-20T03:55:43Z"
   }
  ]
 }
