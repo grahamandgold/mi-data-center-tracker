@@ -1,7 +1,41 @@
 {
- "updated_at": "2026-08-20T13:55:18+00:00",
+ "updated_at": "2026-08-20T14:45:19Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "OpenAI-Oracle developer snaps up golf course beside planned Michigan campus",
+   "dek": "The firm behind a massive proposed data center has purchased adjacent land once used as a golf course. The move signals intent to expand the footprint in the area despite local pushback. Nearby residents face questions about noise, traffic, and how much power the project will pull from the grid.",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTWlwemFnaGM5cnZPaWVXb0Q0YTUwTjdON3dwVXJOQV91b3U4VDN6UWNJN0dnZS10Z2V4RnZSSHFpYnEtX0JFQTd4SmNZTW16YzNOR2lKRGpFYUpteGxUV1dUc2hVd1VCR1BURE10VkY4dHR5VXhUYU50VTQ2SW9vNTRiZ3Bnd3IxTFZFNGtxbldyVmY5SGp6cjZmU3J1ZmxtbHVyejVzUEVmdWd2ZXZnWFhQMk9hRVdzNVRUM0I3LXNUNjBuSUxjSNIB3AFBVV95cUxPREtNd0k4ZzJwMEZXRlJpY2FOM0xQdndPZmZOX3hrTFBvV2FKSERCOTh3LUpTNmdvRHhYM1JqNU9DSHpidzNrbkU0NVBaejNkdkpmYlVkU2c5ZGl5SnhnbVVzSkdSLXpiOFdVNkowUC1KTWRVLTlCd3JQa004dnlzNl8zRXRqT1Bmb2RnQVZLekdibkg0RjRoRHM1cWVzaV9pYVM5OWNhZmhxVklVa0IyNmFHN2xkQkRxakg4dVhWY0ZMbzVLaVlyNUs2ejRZcC1uZDFSLWszSVRSalZo?oc=5",
+   "source": "MLive.com",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Money",
+   "iso": "2026-08-20T14:16:00Z",
+   "id": "c188c9959830",
+   "origin": "google-news",
+   "source_title": "Developer of controversial OpenAI, Oracle data center buys golf course next door - MLive.com",
+   "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTWlwemFnaGM5cnZPaWVXb0Q0YTUwTjdON3dwVXJOQV91b3U4VDN6UWNJN0dnZS10Z2V4RnZSSHFpYnEtX0JFQTd4SmNZTW16YzNOR2lKRGpFYUpteGxUV1dUc2hVd1VCR1BURE10VkY4dHR5VXhUYU50VTQ2SW9vNTRiZ3Bnd3IxTFZFNGtxbldyVmY5SGp6cjZmU3J1ZmxtbHVyejVzUEVmdWd2ZXZnWFhQMk9hRVdzNVRUM0I3LXNUNjBuSUxjSNIB3AFBVV95cUxPREtNd0k4ZzJwMEZXRlJpY2FOM0xQdndPZmZOX3hrTFBvV2FKSERCOTh3LUpTNmdvRHhYM1JqNU9DSHpidzNrbkU0NVBaejNkdkpmYlVkU2c5ZGl5SnhnbVVzSkdSLXpiOFdVNkowUC1KTWRVLTlCd3JQa004dnlzNl8zRXRqT1Bmb2RnQVZLekdibkg0RjRoRHM1cWVzaV9pYVM5OWNhZmhxVklVa0IyNmFHN2xkQkRxakg4dVhWY0ZMbzVLaVlyNUs2ejRZcC1uZDFSLWszSVRSalZo?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
+  {
+   "title": "New Buffalo Township rejects special land use for proposed data center site",
+   "dek": "The township board turned down a request to allow a data center on Kluver Road after hearing resident concerns. The denial keeps the project from advancing for now in this southwest Michigan community. Locals worry about water use and noise if similar proposals return.",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObmEwUXhhZnpBcWw4am11dmlLczJFR0d3WFhaVkEzVGFKXzZDWHZ6WFNLNElXZ2RIektaemxQUGY4bzRzbHowUjNnWDRLUk1PT2FJbzlCX1RqcG5LaDNldHp6S0NJUkIwUURGQlZyMG0tYVpuc044LWV6aUIwb3pyRHFtamVNMTBIM1JNaHVib0F1VUZreVVMSDFfZ19veUZWbTc1YTE0cVgwSUQxeWVzZXNQOHR0X2lsbzk3eDRjTTFvbWhZblpqRkZuR3NyVmFUd25zZTItSjhsN2w2Q3VjVmxR?oc=5",
+   "source": "Harbor Country News",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Berrien",
+   "tag": "Local Government",
+   "iso": "2026-08-20T12:40:12Z",
+   "id": "a63af28ce733",
+   "origin": "google-news",
+   "source_title": "New Buffalo Township Board denies SLU for Kluver Road site - Harbor Country News",
+   "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObmEwUXhhZnpBcWw4am11dmlLczJFR0d3WFhaVkEzVGFKXzZDWHZ6WFNLNElXZ2RIektaemxQUGY4bzRzbHowUjNnWDRLUk1PT2FJbzlCX1RqcG5LaDNldHp6S0NJUkIwUURGQlZyMG0tYVpuc044LWV6aUIwb3pyRHFtamVNMTBIM1JNaHVib0F1VUZreVVMSDFfZ19veUZWbTc1YTE0cVgwSUQxeWVzZXNQOHR0X2lsbzk3eDRjTTFvbWhZblpqRkZuR3NyVmFUd25zZTItSjhsN2w2Q3VjVmxR?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 9
+  },
   {
    "iso": "2026-08-20T04:00:00+00:00",
    "region": "metro",
@@ -150,40 +184,6 @@
    "id": "fdac456431ea",
    "accuracy": "checked",
    "judge_score": 7
-  },
-  {
-   "title": "Detroit-area residents describe daily life next to large data centers",
-   "dek": "The Detroit Free Press reports on noise, traffic, and electricity costs felt by people living beside Michigan data centers. Nearby homes face constant equipment hum and higher utility bills as more facilities come online. The story shows concrete effects for anyone within a short drive of proposed sites.",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQWRpOFBpaUNFdzlhR3NGTzFpamw4MUVITUotMWh6MzNkVXhnNHRUZWRtT3pqdWg2YlgwaWZfbE51Tlljc3lteldFWW5nekxhRTJ6TTJLejV3SWlOVlN3cTdOZDFZNGY1VjExcHRGaVVrclcxZ2pJc1puaFBTOXVzdDZMYjRSby1CXzd2a0NCbWNlbDBLek52NVRZVndqYlVFRS1wN1BBMk9YcXp3Vmc?oc=5",
-   "source": "Detroit Free Press",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Wayne",
-   "tag": "Explainers",
-   "iso": "2026-08-19T17:50:00Z",
-   "id": "fabd4f40591f",
-   "origin": "google-news",
-   "source_title": "What it looks like to live next to a sprawling data center - Detroit Free Press",
-   "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQWRpOFBpaUNFdzlhR3NGTzFpamw4MUVITUotMWh6MzNkVXhnNHRUZWRtT3pqdWg2YlgwaWZfbE51Tlljc3lteldFWW5nekxhRTJ6TTJLejV3SWlOVlN3cTdOZDFZNGY1VjExcHRGaVVrclcxZ2pJc1puaFBTOXVzdDZMYjRSby1CXzd2a0NCbWNlbDBLek52NVRZVndqYlVFRS1wN1BBMk9YcXp3Vmc?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
-  },
-  {
-   "title": "Resident demands rule changes after recall bid over data center vote fails",
-   "dek": "A Michigan voter tried to oust local officials who backed a data center project and lost. She is now pushing broader changes to how such votes are handled. Readers across the state see how one township fight could shape future projects and accountability.",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONnJ0LW1EbkFZblUzaVIwVlRWVUNvMHpnV3FybE91RUpDZG1jWUFuSThrSU1acjdDNGxWLUlkb2JqaVNPODlROGV4amJaQV84WEVDR1FMY004cFpuNm90T1FfVW5TQzZSYkdUb19KNzNIU1NLRkJac1ZNRWNlZnNfMFNFNWFMcmtuem93Nk11TENQNXlmYUQ5bkZla09lUl9tWlpuVmNjVEo1c2J6S0tqa0VxblNNWDd5NVpJTjlseGJaV2RvVWtxUzBrc25VdmFzdTRLYnl6MDNDdEnSAe8BQVVfeXFMUE9PMTdXNkdFZ0o3NGVZeDJTRTVQWW5GYjBWNVFKdDFwd2VLU0tvNjh6S3Fyb19SNDV4WDlYRXJoWTJHVzlBZ3BXMk1nZTk1cXppTWM5TE1zWktHWWpwdVI0MXRSaWV3WWxUbm9XNlI1SkgtMTBhSVRFQXdKY3czSEJVc010VjhheW51b3B4dGxsT2JjbFZ4VEtfQlBnMklCRURMX2dFMjVINC1yZURxRjlXUnl4WFNKbDFDXzQ5QnhwNG92Z1pTT2UzVHJtQjZ5UlZ4SHNoeWZzUjRGaXlqS1pleGJhM1owNGwzaXdNN3c?oc=5",
-   "source": "MLive.com",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Local Government",
-   "iso": "2026-08-19T16:00:00Z",
-   "id": "fcdd073b1170",
-   "origin": "google-news",
-   "source_title": "Her effort to recall officials over data center vote was rejected. Now she’s calling for reform. - MLive.com",
-   "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONnJ0LW1EbkFZblUzaVIwVlRWVUNvMHpnV3FybE91RUpDZG1jWUFuSThrSU1acjdDNGxWLUlkb2JqaVNPODlROGV4amJaQV84WEVDR1FMY004cFpuNm90T1FfVW5TQzZSYkdUb19KNzNIU1NLRkJac1ZNRWNlZnNfMFNFNWFMcmtuem93Nk11TENQNXlmYUQ5bkZla09lUl9tWlpuVmNjVEo1c2J6S0tqa0VxblNNWDd5NVpJTjlseGJaV2RvVWtxUzBrc25VdmFzdTRLYnl6MDNDdEnSAe8BQVVfeXFMUE9PMTdXNkdFZ0o3NGVZeDJTRTVQWW5GYjBWNVFKdDFwd2VLU0tvNjh6S3Fyb19SNDV4WDlYRXJoWTJHVzlBZ3BXMk1nZTk1cXppTWM5TE1zWktHWWpwdVI0MXRSaWV3WWxUbm9XNlI1SkgtMTBhSVRFQXdKY3czSEJVc010VjhheW51b3B4dGxsT2JjbFZ4VEtfQlBnMklCRURMX2dFMjVINC1yZURxRjlXUnl4WFNKbDFDXzQ5QnhwNG92Z1pTT2UzVHJtQjZ5UlZ4SHNoeWZzUjRGaXlqS1pleGJhM1owNGwzaXdNN3c?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {

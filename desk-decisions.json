@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMjVWWGMzdUdkcno1RVAyU0ZybzVmR01OcVZSNnFUdFJEZUpLVTYzeTBkamM2bjVKXzFmUk9fNlYwaklsQjJCVFNTTzFOSmh1Y0czYmlXc1JiN2RxWEtsVUIwUW0tRnYyTm05VDJjOXhUUHNXby0wSkE2eS1jS2F4UGpoTTNDaEM0cUV0Rkp5dWpGQmhNdG1lWkE0MEZCcXBK?oc=5",
-   "title": "UM picks Textile Road site for new data center campus",
-   "at": "2026-08-12T10:38:46+00:00",
-   "by": "news_judge",
-   "note": "score 1/10, duplicate: Duplicate of already-live story 'UM locks in Textile Road for $1.2B Los Alamos supercomputer campus' reporting the same site selection decision."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ3lMcXAydmhxbmZ1VlZjbTROb2wySVM4ZDBXVFNvU2NFM2dIWHpMTGE3OEFxNGpJUFBDaS0wb3c4TUdsSm95LWl1MmxfbGFWR0tqXy1DVURnWWdlc05LOG1MMkJKVW1lLUZPQklabE9qMVk1anQyV2YyZC1QVnFwaVV3azk4SGxQZ3ZDUGF6NVVnTGFlZ2VuT01qQ3I?oc=5",
-   "title": "Lansing hosts next stops on statewide tour pushing data center regulations",
-   "at": "2026-08-12T13:35:51+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Incremental follow-up to Sen. Gonzalez's already-live tour; no new decision, filing, or concrete development—just additional tour stops in the same ongoing advo"
-  },
-  {
    "url": "https://insideclimatenews.org/news/12082026/michigan-primary-votes-against-data-centers/",
    "title": "Anti-Data Center Candidates Win Michigan Primaries",
    "at": "2026-08-12T14:40:53+00:00",
@@ -1399,21 +1385,23 @@
    "at": "2026-08-20T13:55:22+00:00",
    "by": "news_judge",
    "note": "score 1/10, duplicate: Duplicate of already killed stories about Gibraltar developers suing over data center moratorium."
+  },
+  {
+   "url": "https://www.axios.com/2026/08/19/ai-power-data-center-electricity-construction",
+   "title": "Data center backlash intensifies nationwide as AI power demand surges",
+   "at": "2026-08-20T14:45:19+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece with limited new information specific to Michigan."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVVpXS3JGY2ljRWl1SGNlQ2pDdDFuVU1XZkREcTE2YzM4SE0xZGlvckxDZEJPV0tVTWJoanh4dW9qTlRkYWZ4eUhFMHFMSUZWZTJhM3RNWEdxSkp2UUZRX2FsYXBVWURDQXNRem5lM2tmNjRCaFpVcklPVlhNQ3Z6b1B0M2Z3dEQ4bnI2U19leG83QnNnT1pMRk10M2tMZG55VEVHSUNFN09FWVA3RHBVRVNUVGd1U1l6U0lsWVdIRElCQTQ3R2fSAdoBQVVfeXFMUFg5WFZzUFlTQkJyUkZMZGFLcmlpUVRFZjgyNDJ2RTVJdEhHSkthRE13VkhRQlhVYnpVSFpJS05UVDV4cThzRTNxeE5GeXQ1dE5OY2Y3Y1hValJrSTZhOWZ3a1B2UTVaLUxoSFNPX1BNRGpBUnhkb3NMSlhIeEZQN2xrVVJOeTVJVzM3dWh1VzM4a0JpZ1cxOTY1VVJkSkNNM0lMQWQ1QS1ENVJ3QVBfWlFqcmRoaTFHX3hmZ19fd1N1ZXM4R21oQjRyTU5rWjFzUmNYeTlhQmFRWWc?oc=5",
+   "title": "Developer sues Gibraltar to overturn year-long data center ban",
+   "at": "2026-08-20T14:45:19+00:00",
+   "by": "news_judge",
+   "note": "score 1/10, duplicate: Duplicate of previously killed stories about Gibraltar lawsuit."
   }
  ],
  "auto_published": [
-  {
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTWprakVKamYtUGx3N2xFRU1BQzJfX3VVUERGX1dLcm5veUk1WEptT1JKVEFMMnlXRjRVT2NDd3drOGRnSUpPUXNjTkZuSUtMMDJJcFRqZnJGbW16UmdObE1HLXI2YnVHbFJlQk9pbF9UejNKM0FNRng2LWhjT0RlckFjUTVsV3JyNkJQSTFST1hocU1hekhKc0F6VHFpZUtQcENuQ3NxNHBKb1NMRWVfUGtQYmptYTlpTGJ2SDFpNFI2X2l4SE80bmprOHg?oc=5",
-   "title": "York Township schedules hearing on data center moratorium",
-   "judge_score": 7,
-   "at": "2026-07-09T12:23:32Z"
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd3BCOGJOX1cwYWtSdmtUaGFKOHRaeXEwSGd4MUFnQ1E0TW1yYWFodWFvLWxNSWJMWHFmOUdkRHpJWUVRNHVKb1hZN1hlWVpSYVkyRGJuMDhYOW9EeWlhS2MwTnRMUmFPWHhPOC0zZXQ1UDVPdHZHQ29IeXpNbDBQOVUyZUY3TW9XUVRqeEVrcDVBMWxCVkN1VHhnc3VENkJQNHJmN0lxY1E5d0VoVjRURmdxWUJ5UQ?oc=5",
-   "title": "State officials may decide Mason-area data center instead of locals",
-   "judge_score": 8,
-   "at": "2026-07-09T12:23:32Z"
-  },
   {
    "url": "https://thesuntimesnews.com/saline-township-delays-vote-on-oracle-data-center-tax-break/",
    "title": "Saline Township Delays 12-Year Tax Cut for Oracle Data Center",
@@ -3201,6 +3189,18 @@
    "title": "Mundy Township advanced site draws data center interest",
    "judge_score": 7,
    "at": "2026-08-20T11:35:57Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObmEwUXhhZnpBcWw4am11dmlLczJFR0d3WFhaVkEzVGFKXzZDWHZ6WFNLNElXZ2RIektaemxQUGY4bzRzbHowUjNnWDRLUk1PT2FJbzlCX1RqcG5LaDNldHp6S0NJUkIwUURGQlZyMG0tYVpuc044LWV6aUIwb3pyRHFtamVNMTBIM1JNaHVib0F1VUZreVVMSDFfZ19veUZWbTc1YTE0cVgwSUQxeWVzZXNQOHR0X2lsbzk3eDRjTTFvbWhZblpqRkZuR3NyVmFUd25zZTItSjhsN2w2Q3VjVmxR?oc=5",
+   "title": "New Buffalo Township rejects special land use for proposed data center site",
+   "judge_score": 9,
+   "at": "2026-08-20T14:45:19Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTWlwemFnaGM5cnZPaWVXb0Q0YTUwTjdON3dwVXJOQV91b3U4VDN6UWNJN0dnZS10Z2V4RnZSSHFpYnEtX0JFQTd4SmNZTW16YzNOR2lKRGpFYUpteGxUV1dUc2hVd1VCR1BURE10VkY4dHR5VXhUYU50VTQ2SW9vNTRiZ3Bnd3IxTFZFNGtxbldyVmY5SGp6cjZmU3J1ZmxtbHVyejVzUEVmdWd2ZXZnWFhQMk9hRVdzNVRUM0I3LXNUNjBuSUxjSNIB3AFBVV95cUxPREtNd0k4ZzJwMEZXRlJpY2FOM0xQdndPZmZOX3hrTFBvV2FKSERCOTh3LUpTNmdvRHhYM1JqNU9DSHpidzNrbkU0NVBaejNkdkpmYlVkU2c5ZGl5SnhnbVVzSkdSLXpiOFdVNkowUC1KTWRVLTlCd3JQa004dnlzNl8zRXRqT1Bmb2RnQVZLekdibkg0RjRoRHM1cWVzaV9pYVM5OWNhZmhxVklVa0IyNmFHN2xkQkRxakg4dVhWY0ZMbzVLaVlyNUs2ejRZcC1uZDFSLWszSVRSalZo?oc=5",
+   "title": "OpenAI-Oracle developer snaps up golf course beside planned Michigan campus",
+   "judge_score": 6,
+   "at": "2026-08-20T14:45:19Z"
   }
  ]
 }
