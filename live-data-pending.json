@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-20T10:12:12+00:00",
+ "updated_at": "2026-08-20T10:40:00+00:00",
  "generator": "grok-wire-agent",
  "items": [
   {
@@ -15,7 +15,7 @@
    "kind": "agenda",
    "id": "f7373d0135d2",
    "filed_at": "2026-08-20T10:12:12+00:00",
-   "accuracy": "document-based",
+   "accuracy": "checked",
    "findings": "The proposed Data Center Moratorium Regulatory Ordinance would halt development, approval, construction and permitting of data centers within Somerset Township per the township website notice | The public hearing is scheduled for Tuesday, September 1, 2026 at 7:00pm at 12715 East Chicago Road, Somerset Center | Purpose is to receive public comments and allow the township to review and consider all matters associated with data center development, per the notice | Somerset Township Board of Trustees holds its regular meeting tonight at 7:00pm at the same address with live stream available | No past votes or minutes on data centers or similar large projects appear in township records or older agendas",
    "perspective": "Background research found no prior Somerset Township handling of data-center items. The board meets tonight while the planning commission hearing on the moratorium follows next month. This occurs alongside multiple proposed or approved data center projects in nearby townships.",
    "documents": [
@@ -29,7 +29,9 @@
     }
    ],
    "depth_score": 7,
-   "extraction_method": "plain"
+   "extraction_method": "plain",
+   "judge_score": 7,
+   "judge_note": "New development with a scheduled public hearing on a proposed moratorium."
   },
   {
    "iso": "2026-08-26T12:00:00+00:00",
@@ -122,5 +124,5 @@
    "judge_note": "Concrete legislative development: Jeremy Moss added as co-sponsor to utility rate bill targeting data centers, a new action on a relevant bill."
   }
  ],
- "accuracy_checked_at": "2026-08-20T09:43:24+00:00"
+ "accuracy_checked_at": "2026-08-20T10:39:57+00:00"
 }
