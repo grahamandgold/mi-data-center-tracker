@@ -1,27 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.electricchoice.com/datacenters/",
-   "title": "Data center power use triples, pushing rates up in some states and down in others",
-   "at": "2026-08-12T23:52:40+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece with generic statistics about power use and rates across multiple states; no Michigan-specific decision or development."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa1JkX1V3Z1FPbjVrVEtzenVIWUYzR1B5eHJQSmhuV3l3ZjJlR0hwdmhVVDlpWHpnanN2Y21oUDM3eGNWOUpkSWJOTFh2MTJFLWc3V19hLWJBRU14SW0tRmZreFQ4T2VrN0RVbFMyVkllbDc1V29ZMjZrVHVBZVNhUmhON28tU0ZqWDBaa2tCc3o0SV9PelJaVDdlaDRiTS0xU1Zpak8tRTBoVFNBN2o0TkxYNGZRVWtnT1Uyb2ZLc1o?oc=5",
-   "title": "Ypsilanti Twp rejects U-M plan for Los Alamos data center",
-   "at": "2026-08-12T23:52:40+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicate of already-live 'Ypsilanti Township rejects University of Michigan data center site' — same rejection decision by same township, just different wordin"
-  },
-  {
-   "url": "https://bridgemi.com/michigan-environment-watch/dte-consumers-advance-plans-for-power-hungry-data-centers-in-michigan/",
-   "title": "Michigan's First Hyperscale Data Center to Draw 1.4 Gigawatts from DTE",
-   "at": "2026-08-13T02:37:20+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: Reads like a project announcement but no confirmed decision, vote, or filing is evident; appears speculative about a future campus without concrete action."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVDZfQkFXRXhfNnVIY3BxRkVnZl9EMWlrNGdVYTBZaFk0aXJfLWZLaHp1NzJXRHpaVkhRMzRaTXJfaFplX3JMNzZqaFFCdVJpam4wblZjbW1fZEVVczFQbDdnTHBmVGRDNFRRNWdiTkhhdXpxMUxvUlNpYXNqN1pXRUlwelZqM1hyZ1ZUMlZIVWFlVkE?oc=5",
    "title": "El-Sayed makes data center backlash a centerpiece of Senate campaign",
    "at": "2026-08-13T02:37:20+00:00",
@@ -1399,6 +1378,27 @@
    "at": "2026-08-20T22:36:54+00:00",
    "by": "news_judge",
    "note": "score 1/10, duplicate: Duplicate of 'Rogers: Halt new data centers to prevent higher power costs in Michigan'."
+  },
+  {
+   "url": "https://michiganadvance.com/2026/08/20/after-data-center-investments-revealed-rogers-backs-statewide-moratorium/",
+   "title": "Rogers backs data center halt after disclosure of his $2.6M tech holdings",
+   "at": "2026-08-20T23:33:53+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: Duplicate of already killed stories about Rogers backing data center halt."
+  },
+  {
+   "url": "https://grahamandgold.github.io/mi-data-center-tracker/",
+   "title": "No major non-Michigan data center developments reported in last 24 hours",
+   "at": "2026-08-20T23:33:53+00:00",
+   "by": "news_judge",
+   "note": "score 1/10: No new information relevant to Michigan data center developments."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYnFldHBiYWE3SV94N3htTXlYdTc1MmRrZ2FQUlZDOVpxclZOX3B4QlRPUE90cHlxUThfZ3NjWE03MnA3bjVKTy1SSTR5YkV0ZjltRlRsMkNSMTJtNFpFMnpCYWdVbmhud0R5MjYwd3RWVXBXQlFZUTJ3Q3ZPbTRiMm5XV2xVQWNtS2RUNU9Dd1FLc3lvNUZlblZZTlUzN09peWl4dmJtR0l1VmFFRU9hOU5mNUlVSzZrLUE?oc=5",
+   "title": "Tom Barrett bill would block federal override of local data center rules",
+   "at": "2026-08-20T23:33:53+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: Duplicate of already killed stories about Barrett's bill blocking federal override."
   }
  ],
  "auto_published": [
