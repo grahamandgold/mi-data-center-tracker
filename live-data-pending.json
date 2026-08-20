@@ -1,7 +1,36 @@
 {
- "updated_at": "2026-08-20T09:43:27+00:00",
+ "updated_at": "2026-08-20T10:12:12+00:00",
  "generator": "grok-wire-agent",
  "items": [
+  {
+   "title": "Somerset Township proposes data center moratorium to review development effects",
+   "dek": "The Somerset Township Planning Commission will hold a public hearing September 1 on a proposed regulatory ordinance pausing data center development, approval, construction and permitting. The measure would give township officials time to examine all associated matters before any projects advance. Residents across southern Michigan should pay attention as data center developments can impact local infrastructure and resources.",
+   "url": "https://somersettownship.org/",
+   "source": "Somerset Township Board of Trustees agenda",
+   "region": "Southeast Michigan",
+   "county": "Hillsdale",
+   "cat": "Meetings",
+   "tag": "Agenda watch",
+   "iso": "2026-08-20T10:12:12+00:00",
+   "kind": "agenda",
+   "id": "f7373d0135d2",
+   "filed_at": "2026-08-20T10:12:12+00:00",
+   "accuracy": "document-based",
+   "findings": "The proposed Data Center Moratorium Regulatory Ordinance would halt development, approval, construction and permitting of data centers within Somerset Township per the township website notice | The public hearing is scheduled for Tuesday, September 1, 2026 at 7:00pm at 12715 East Chicago Road, Somerset Center | Purpose is to receive public comments and allow the township to review and consider all matters associated with data center development, per the notice | Somerset Township Board of Trustees holds its regular meeting tonight at 7:00pm at the same address with live stream available | No past votes or minutes on data centers or similar large projects appear in township records or older agendas",
+   "perspective": "Background research found no prior Somerset Township handling of data-center items. The board meets tonight while the planning commission hearing on the moratorium follows next month. This occurs alongside multiple proposed or approved data center projects in nearby townships.",
+   "documents": [
+    {
+     "label": "Agenda page",
+     "url": "https://somersettownship.org/"
+    },
+    {
+     "label": "Employment Application",
+     "url": "https://somersettownship.org/Files/Misc/Employment%20Application.pdf"
+    }
+   ],
+   "depth_score": 7,
+   "extraction_method": "plain"
+  },
   {
    "iso": "2026-08-26T12:00:00+00:00",
    "region": "statewide",

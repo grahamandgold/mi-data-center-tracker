@@ -1,23 +1,16 @@
 {
- "generated_at": "2026-08-19T20:51:43+00:00",
+ "generated_at": "2026-08-20T10:12:12+00:00",
  "for_dates": [
-  "2026-08-19",
-  "2026-08-20"
+  "2026-08-20",
+  "2026-08-21"
  ],
  "items": [
   {
-   "iso": "2026-08-19",
+   "iso": "2026-08-20",
    "time": "7:00 PM",
-   "meeting": "Ypsilanti Planning Commission",
-   "bullet": "Ypsilanti Planning Commission reviews data center zoning text amendment with noise, water, and energy standards on August 19, 2026.",
-   "link": "https://cityofypsilanti.com/CivicAlerts.aspx?AID=2736"
-  },
-  {
-   "iso": "2026-08-19",
-   "time": "6:30 PM",
-   "meeting": "City of Ypsilanti Planning Commission",
-   "bullet": "Ypsilanti Planning Commission hears zoning text amendment for data centers with standards on noise, water and power use.",
-   "link": "https://cityofypsilanti.com/CivicAlerts.aspx?AID=2736"
+   "meeting": "Somerset Township Board of Trustees",
+   "bullet": "Somerset Twp announces Sept. 1 hearing on data center moratorium to review all associated matters.",
+   "link": "https://somersettownship.org/"
   }
  ]
 }
