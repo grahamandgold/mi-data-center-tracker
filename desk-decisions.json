@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNOHJBd2JoYjJpZ1pjaGRuYXI3ZkNWRjNiLW9MLU9VdldKc3JkdlBXM2JDNUxSY05oNlpUYS15R3QzTUJHUHd3MExqSFpTaWdyVGNwdDZEYTVzZE9YOExDRGNsV1NWLUF0WGp3RDFZc3hSbXNEYVVGbmNqLXEya241bmY3al9YOV9PTTVTOTRGaE9ycWw2QXdFVnNJSlYxQzMtREphYW4zbVVqdF9Xdng2UkI4WmJmT1I1ZmF6TmhaYzAzMUpUWmNCYlJyS1RjQkMxNUxMMjZhdlVnRnVw?oc=5",
-   "title": "UM Los Alamos computing site draws Washtenaw pushback over location",
-   "at": "2026-08-12T20:57:20+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicate of already-live 'Ypsilanti Township vows fight against UM's $1.2B Huron River data center' — same Los Alamos/UM computing facility and Washtenaw oppos"
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVkVUU3Jlc2xRcXFHY0lXZVBuamVNSHVQRXhXUm9weWZUeTd3bWF5UzhNdmxkVURjMFNuZXMxZERHc2dwMFBEQUxiNVF4bElQQ1NYUmtzaVNsNW14czVRUlJOV3p2YmkyVnpxTUQ2aVZVNHFGSGJWZTk4ZGg1aUpVUlF6OFZ1c1N6bkY2TWJobHBaUGsyVUxhbDJ3RDk1UTVkRVV6MUpUNWxKejRlNkExWEZGRS1aTUJuTTAzTmNVTUZYY3J0NHpZdkhGLWZSc0JsYkHSAeYBQVVfeXFMTklwZ3MwOHpBb2dxTi15VGZLc3RuRHZNTnA1aThVaHBFWmlvZkZXQmhlaFJZNEFhSFVjcFVSR1B3Vy1FQXNKbm5aUkFrNXJueWRTZTdXMWZIQ3NSZG8tX0tfcDdYeWJqb1VuSEo0dHFsRF9UbzNmS3dEaHlPOGNnODlrYTBUZGZQYTdibjduZ2JkTDlacXcyN1hUbndUeUxDVXAtV1ZaZzNUMXM5bWNBM1N4akVRd2tlWFE5RUJtWk5UbE1LQ1ljMWIyY3FQNkoxcjJsVlBHVDk3d0ROdlRCTnNRYzFlRmc?oc=5",
    "title": "Michigan residents organize to block data centers and see early wins",
    "at": "2026-08-12T21:57:11+00:00",
@@ -1399,15 +1392,16 @@
    "at": "2026-08-20T20:38:53+00:00",
    "by": "news_judge",
    "note": "score 1/10, duplicate: Duplicate of already killed story about Mike Rogers backing a pause on new Michigan data centers."
+  },
+  {
+   "url": "https://www.facebook.com/13abc/posts/13-action-news-big-story-continued-data-center-debate-/1534773815345180/",
+   "title": "U.S. Data Center Construction Spending Surges Past $58 Billion in 2026 Amid AI Boom",
+   "at": "2026-08-20T21:36:18+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece with no specific Michigan focus."
   }
  ],
  "auto_published": [
-  {
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUlZrd0prX0dOMmJXWWxMcjYtR20tUnUxY2JEUGhnc2lTX0JadFVXeDNzclRHLWM3SFFVNXJJYl9yZy0tejQwMkM1OVYxdkpmUDBRelRLZ1JpRzRWZExzMFp4dm1POUZjNGFHTlBGZEt6TWlEWVJOUElqbG04QTJZNmZEUUVicGNacVl1NnRkb255UjQ0SURGT1FieWtManp4d3BJMFdhVjQ4WVdVdkZOdnFjRGlCQzJmUldyY29TWlBCTjRaQ2p4aHhnalN5X3lLWEtUekxGc1FKUzA?oc=5",
-   "title": "Eaton planners flag power and water risks from Amazon-linked site",
-   "judge_score": 7,
-   "at": "2026-07-09T17:34:47Z"
-  },
   {
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yZEo1RURocXVKaDhXcW8zNnh3Z1hkTkV6LWpKendDUkd0ZFB0SmVodkNFaDlZREY3eGVob0V2WXlfbWZtbk1zbk9iU00tUQ?oc=5",
    "title": "Girard Township locks in tight new rules for any data center",
@@ -3201,6 +3195,12 @@
    "title": "Rogers: Halt new data centers to prevent higher power costs in Michigan",
    "judge_score": 6,
    "at": "2026-08-20T16:44:19Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOXFJV09kc3ZIdTlwajlxMF9LRlFYMEZMbURET1RjcHRQc1FEb2RrQ25HR29adXBTSU51TzdNRGktZXdYZDBiZkZBcXg2YUtaUlktWEZQR25oVDBta3lXSk9HR2JZb0pfNXlWdThPcXRvSEdiYzRfYjBFTVVUZE5DSWFzdjdnc0E?oc=5",
+   "title": "Saline data center backer buys golf course next door",
+   "judge_score": 8,
+   "at": "2026-08-20T21:36:18Z"
   }
  ]
 }

@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-20T20:38:38+00:00",
+ "updated_at": "2026-08-20T21:36:18Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Saline data center backer buys golf course next door",
+   "dek": "The developer behind a large proposed campus in Washtenaw County’s Saline Township has purchased the neighboring golf course. Residents worry the move signals bigger land use, power demand and tax-break requests ahead. Local officials have not yet said how the purchase affects pending reviews.",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOXFJV09kc3ZIdTlwajlxMF9LRlFYMEZMbURET1RjcHRQc1FEb2RrQ25HR29adXBTSU51TzdNRGktZXdYZDBiZkZBcXg2YUtaUlktWEZQR25oVDBta3lXSk9HR2JZb0pfNXlWdThPcXRvSEdiYzRfYjBFTVVUZE5DSWFzdjdnc0E?oc=5",
+   "source": "CBS News",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Local Government",
+   "iso": "2026-08-20T21:03:44Z",
+   "id": "3a66d61b3271",
+   "origin": "google-news",
+   "source_title": "Developer of controversial Saline Township data center buys neighboring golf course - CBS News",
+   "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOXFJV09kc3ZIdTlwajlxMF9LRlFYMEZMbURET1RjcHRQc1FEb2RrQ25HR29adXBTSU51TzdNRGktZXdYZDBiZkZBcXg2YUtaUlktWEZQR25oVDBta3lXSk9HR2JZb0pfNXlWdThPcXRvSEdiYzRfYjBFTVVUZE5DSWFzdjdnc0E?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "Rogers: Halt new data centers to prevent higher power costs in Michigan",
    "dek": "Former congressman Mike Rogers told Detroit voters he supports a temporary halt on new data centers. The stance comes as power demand from AI projects strains Michigan utilities and local grids. Residents 30 miles away could see higher electric bills if large facilities move forward without limits.",
@@ -169,23 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN1hkX2JqNGlHdDlpTlJiWVU1WG1NV2d2VjZLRllSaG5BTXA1NnJ2TDhlMHJIVy1RR3ZpNEN1Z1pJYUtVY0hnQVdaSXdpaWN3LUI4emVoZHdFaXdhVElwcE1HZ0dDU3AxVnRfbF9aR0k2cy14TmlhMzFQeWt5NmJ0aW1wUzRWalp1Q1VqYjdWSENGUFBtYUlkVnl6RTN3WElsZVk2MXdGOHZXSzZzTWswMnJ3d25RVTRKdXh2dTAzN0JSd2VXbGZV?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
-  },
-  {
-   "title": "Forsyth Township residents press officials on Sawyer data center",
-   "dek": "A town hall drew locals worried about noise, power use and water strain from a proposed data center in the Sawyer area. Marquette County taxpayers could face higher utility bills if the project moves forward. The meeting shows how Upper Peninsula communities are pushing back on big tech builds.",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbDIxWFhLTVZsel8zeXN6TmJvMFhkV2FVVWMzMng4T0JkVDV1d25XMEdfWnZxNV9LOTUxVDZ1dDlLc3BTVUZhZjZNVUMyaUlTcWFjekpRUGs3cVcyZlptX1d3Vm1yQkhxd0FranV5TjZGLVE2cnI5T3JtSHNPaURvM1dSMjloc3FFZms1R0JsTzVTMkdkMWNJNmR1WmEzdUZycXFBZ2xhQ25wel94QU5PblU3TmR3Y2UwZE8zMjBHZXRhTG90QlpXcVVsTEFqUEFVRkhGWVhVS2hSY2M5ZVk2SzZMVDdhQQ?oc=5",
-   "source": "myupnow.com",
-   "region": "north",
-   "cat": "STATEWIDE",
-   "county": "Marquette",
-   "tag": "Local Government",
-   "iso": "2026-08-19T21:55:00Z",
-   "id": "a8277e608191",
-   "origin": "google-news",
-   "source_title": "Forsyth Township town hall addresses data center concerns in Sawyer area - myupnow.com",
-   "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbDIxWFhLTVZsel8zeXN6TmJvMFhkV2FVVWMzMng4T0JkVDV1d25XMEdfWnZxNV9LOTUxVDZ1dDlLc3BTVUZhZjZNVUMyaUlTcWFjekpRUGs3cVcyZlptX1d3Vm1yQkhxd0FranV5TjZGLVE2cnI5T3JtSHNPaURvM1dSMjloc3FFZms1R0JsTzVTMkdkMWNJNmR1WmEzdUZycXFBZ2xhQ25wel94QU5PblU3TmR3Y2UwZE8zMjBHZXRhTG90QlpXcVVsTEFqUEFVRkhGWVhVS2hSY2M5ZVk2SzZMVDdhQQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {
