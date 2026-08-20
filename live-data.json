@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-20T10:39:48+00:00",
+ "updated_at": "2026-08-20T11:35:57Z",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -16,6 +16,23 @@
    "id": "9a267775636b",
    "accuracy": "checked",
    "judge_score": 9
+  },
+  {
+   "title": "Mundy Township advanced site draws data center interest",
+   "dek": "Genesee County officials are fielding questions about whether the former manufacturing parcel could host a data center. Early talks have residents asking about water draw and grid upgrades. A decision could affect nearby property values and taxes.",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOVFieDMxSGZET1drYmVCbzUtVU1SNGxZNHY0VzdZUW9rSmxPVjlLQzRBZnJ1dzBYVHAzSmtXVUtIMVNydEJvXzRuY3FOeElyWHQ4Y3Rldkxubk9lVzFuT1lsV0R1S0E5dDRLMlRGUjIwR0E4S2RyWWpyR3pVNDdJal9YRTM5MWxRbUtIRWxtZGhIQWtNMG44WGk3ZHlJbGc4OFlpcWFWTFg4bzlmbFB3eVhFaW9qWlhoM3VjWjE4V25nbENMem56V2pPaE1wdw?oc=5",
+   "source": "WSMH",
+   "region": "mid",
+   "cat": "STATEWIDE",
+   "county": "Genesee",
+   "tag": "Local Government",
+   "iso": "2026-08-20T01:17:53Z",
+   "id": "a96386ee1e8c",
+   "origin": "google-news",
+   "source_title": "FORWARD FOCUS: What's happening now with the advanced manufacturing site in Mundy Twp? - WSMH",
+   "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOVFieDMxSGZET1drYmVCbzUtVU1SNGxZNHY0VzdZUW9rSmxPVjlLQzRBZnJ1dzBYVHAzSmtXVUtIMVNydEJvXzRuY3FOeElyWHQ4Y3Rldkxubk9lVzFuT1lsV0R1S0E5dDRLMlRGUjIwR0E4S2RyWWpyR3pVNDdJal9YRTM5MWxRbUtIRWxtZGhIQWtNMG44WGk3ZHlJbGc4OFlpcWFWTFg4bzlmbFB3eVhFaW9qWlhoM3VjWjE4V25nbENMem56V2pPaE1wdw?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
   },
   {
    "title": "Bay City neighbors push back on data center plans over power and noise",
@@ -167,23 +184,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONnJ0LW1EbkFZblUzaVIwVlRWVUNvMHpnV3FybE91RUpDZG1jWUFuSThrSU1acjdDNGxWLUlkb2JqaVNPODlROGV4amJaQV84WEVDR1FMY004cFpuNm90T1FfVW5TQzZSYkdUb19KNzNIU1NLRkJac1ZNRWNlZnNfMFNFNWFMcmtuem93Nk11TENQNXlmYUQ5bkZla09lUl9tWlpuVmNjVEo1c2J6S0tqa0VxblNNWDd5NVpJTjlseGJaV2RvVWtxUzBrc25VdmFzdTRLYnl6MDNDdEnSAe8BQVVfeXFMUE9PMTdXNkdFZ0o3NGVZeDJTRTVQWW5GYjBWNVFKdDFwd2VLU0tvNjh6S3Fyb19SNDV4WDlYRXJoWTJHVzlBZ3BXMk1nZTk1cXppTWM5TE1zWktHWWpwdVI0MXRSaWV3WWxUbm9XNlI1SkgtMTBhSVRFQXdKY3czSEJVc010VjhheW51b3B4dGxsT2JjbFZ4VEtfQlBnMklCRURMX2dFMjVINC1yZURxRjlXUnl4WFNKbDFDXzQ5QnhwNG92Z1pTT2UzVHJtQjZ5UlZ4SHNoeWZzUjRGaXlqS1pleGJhM1owNGwzaXdNN3c?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
-  },
-  {
-   "title": "Golf course next to Oracle's Saline site sold to data center firm",
-   "dek": "Related Digital bought Rustic Glen to expand near the $43B Oracle campus. The purchase adds pressure on Washtenaw roads, power lines and water use. Nearby homeowners could see construction lasting years.",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWHdvRWw5QlJZeGZ4TDcyTjU2QkIwVHh2MVF2SWZGLTBxZ2RzWDc4ZkdTU1NBM2FTdDRkWlVVb1JWYmN1bGdoZ3BPeGN1QU1ROFUyYnRMTHJyYmNKYTlILTA0cHhCeFBuLWlmUlpQMG5EUlVGZnF4MUh4SGFfdldfX3dzN1BkSzY1R21wNWFXUFRNZmFUTktNb19R?oc=5",
-   "source": "Crain's Detroit",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Money",
-   "iso": "2026-08-19T15:33:00Z",
-   "id": "4b995c7aa913",
-   "origin": "google-news",
-   "source_title": "Data center developer buys golf course next to massive Oracle construction site - Crain's Detroit",
-   "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWHdvRWw5QlJZeGZ4TDcyTjU2QkIwVHh2MVF2SWZGLTBxZ2RzWDc4ZkdTU1NBM2FTdDRkWlVVb1JWYmN1bGdoZ3BPeGN1QU1ROFUyYnRMTHJyYmNKYTlILTA0cHhCeFBuLWlmUlpQMG5EUlVGZnF4MUh4SGFfdldfX3dzN1BkSzY1R21wNWFXUFRNZmFUTktNb19R?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
   }
  ],
  "national": {
@@ -201,6 +201,20 @@
   "accuracy": "checked"
  },
  "meetings": [
+  {
+   "iso": "2026-08-20",
+   "body": "Lodi Township Planning Commission Data Center Subcommittee",
+   "topic": "Review and discuss data center zoning regulations and moratorium options",
+   "region": "SE Michigan",
+   "regionKey": "metro",
+   "county": "Washtenaw",
+   "time": "9:00 AM",
+   "status": "Planning commission",
+   "urgent": true,
+   "link": "https://loditownshipmi.org/upcoming-meetings/",
+   "linkLabel": "Agenda",
+   "stream": ""
+  },
   {
    "iso": "2026-08-20",
    "body": "Lodi Township Data Center Subcommittee",
