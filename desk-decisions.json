@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdnZ4RFNRVzd0MVcxVVgwYmVfbUFZcnc4RTVJR1F5ekJUcnJOZWVpaV9OQ2N1NnpNT1AyN09qRTNITXlhSlZqTTJiNDB0RVo1RjFJaWpHcEJ3aWdpUzFMczBhckx5UW4wSUhyUjRrNG5hSUN0QVU2RUtXX1JQZi04YXpZeXR3ekdjR0o5NDBBS3M3V3JiaXFNS2EtT2lQemk2a2dKXzNOcnVTTmVrTUhvNXAwX3pDVXVWaXRlRkhZS09JZVBJbTVnTkhUcE9CcEJZNExzVkpMU0ZRQ3YzelpqejVQaTdyQWJyU3FkX2x4YVlaSmV3a0Y5Rg?oc=5",
-   "title": "Kalamazoo may block new data centers with moratorium vote",
-   "at": "2026-08-11T22:53:48+00:00",
-   "by": "news_judge",
-   "note": "score 4/10, duplicate: This is the same Kalamazoo moratorium vote already covered in the ALREADY-LIVE item 'Kalamazoo weighs year-long freeze on new data centers.'"
-  },
-  {
    "url": "https://www.jll.com/en-us/insights/market-dynamics/north-america-data-centers",
    "title": "North America Data Center Vacancy Stays Near Zero Amid Record Construction",
    "at": "2026-08-11T23:52:28+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-20T04:46:24+00:00",
    "by": "news_judge",
    "note": "score 2/10: National story with no direct relevance to Michigan's data center developments."
+  },
+  {
+   "url": "https://www.facebook.com/Fox59News/posts/the-indianapolis-metropolitan-development-commission-has-approved-a-data-center-/1663076108752116/",
+   "title": "Indianapolis Commission Approves Data Center Moratorium",
+   "at": "2026-08-20T05:39:19+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece with limited direct relevance to Michigan readers."
   }
  ],
  "auto_published": [
