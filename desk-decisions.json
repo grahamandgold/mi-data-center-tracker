@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.jll.com/en-us/insights/market-dynamics/north-america-data-centers",
-   "title": "North America Data Center Vacancy Stays Near Zero Amid Record Construction",
-   "at": "2026-08-11T23:52:28+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece with generic industry statistics, no Michigan-specific decision or development."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00RUUzc1VSNVdPUUhzaW1VeUdhTnNhNEFVaG9PdkpPV21wcUdObFhybWVKcFZ6SDZXVUU4cXMwdzNNdGpXaWplSHRFLU5IeDV4aENZOWp4RHdYb0NVOWJvOTNad0NBdXF6TVU4Y2tVLTFMUkQ2OWxVUnBB?oc=5",
    "title": "NMU professor teams with comedian to explain data-center risks",
    "at": "2026-08-11T23:52:28+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-20T05:39:19+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece with limited direct relevance to Michigan readers."
+  },
+  {
+   "url": "https://www.uppermichiganssource.com/2026/08/20/forsyth-township-officials-hear-opposition-data-centers-during-town-hall-meeting/",
+   "title": "Forsyth Residents Oppose Data Centers, Urge Local Control at Sawyer",
+   "at": "2026-08-20T07:03:02+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: This story is a duplicate of the already-killed 'Forsyth Township residents slam data center plans at Sawyer town hall' and lacks new developments."
   }
  ],
  "auto_published": [
