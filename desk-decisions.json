@@ -1,34 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVkVUU3Jlc2xRcXFHY0lXZVBuamVNSHVQRXhXUm9weWZUeTd3bWF5UzhNdmxkVURjMFNuZXMxZERHc2dwMFBEQUxiNVF4bElQQ1NYUmtzaVNsNW14czVRUlJOV3p2YmkyVnpxTUQ2aVZVNHFGSGJWZTk4ZGg1aUpVUlF6OFZ1c1N6bkY2TWJobHBaUGsyVUxhbDJ3RDk1UTVkRVV6MUpUNWxKejRlNkExWEZGRS1aTUJuTTAzTmNVTUZYY3J0NHpZdkhGLWZSc0JsYkHSAeYBQVVfeXFMTklwZ3MwOHpBb2dxTi15VGZLc3RuRHZNTnA1aThVaHBFWmlvZkZXQmhlaFJZNEFhSFVjcFVSR1B3Vy1FQXNKbm5aUkFrNXJueWRTZTdXMWZIQ3NSZG8tX0tfcDdYeWJqb1VuSEo0dHFsRF9UbzNmS3dEaHlPOGNnODlrYTBUZGZQYTdibjduZ2JkTDlacXcyN1hUbndUeUxDVXAtV1ZaZzNUMXM5bWNBM1N4akVRd2tlWFE5RUJtWk5UbE1LQ1ljMWIyY3FQNkoxcjJsVlBHVDk3d0ROdlRCTnNRYzFlRmc?oc=5",
-   "title": "Michigan residents organize to block data centers and see early wins",
-   "at": "2026-08-12T21:57:11+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: Vague trend piece lacking specific events, decisions, or named towns; no concrete development reported."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNS3RsVHlDRGtKc2Y1VTdLMnp0TENOczVyR1FFZ0RFSzkyZWxnSTJzYkVWdUhoWDFZRlRlYXhHWDZZZmxNak4ta2oxb0ZfRlR3Y2E1ZVF3cEdDdkRZT0VDNDhtaFlyVlRVTnlycnFPNEtuNl8tOFdra05LalBwaVQzV0VPS2lkM19lMHdqU3hUVXFvaUZPRFpxd3NOTkpCaGp3YjlGRmRCQWpaWDA1QTZGT1drdWFmbzZsRkZlOUt3cTNtRGtsNTRWdjNrTVdFTTY3M204SDI2NTY?oc=5",
-   "title": "U-M data center site for Los Alamos lab sparks township and lawmaker pushback",
-   "at": "2026-08-12T21:57:11+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Same UM-Los Alamos site selection already killed: 'UM Los Alamos computing site draws Washtenaw pushback over location.'"
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTFhHRllDTkZBN0JSMGNueEUwT3prbXFwOVNZbHNESXBfR2dUd1cyaC1seGV3SDItZVA5NElxTnA3ZXFBaHNHMlVCRzhzdXJFVDJwRlRGdFd0aGVhU0hVeWVLMWZ2bVNnd01sT0ZEczdDWGNlY2VqUTFHVG9SbDNBTExLM2tiWlIzdTh1cE03aS05bElSdHNJTlkydFRsNHBsN1hrcE1QazBua0ltSGcyRG5MUjlBdw?oc=5",
-   "title": "Washtenaw residents gain powerful ally as regent calls riverfront data center a mistake",
-   "at": "2026-08-12T22:52:40+00:00",
-   "by": "news_judge",
-   "note": "score 4/10, duplicate: Same regent objection already covered in 'U-M regent urges pause on Ypsilanti Twp data center over grid strain' — just a different framing of the same official "
-  },
-  {
-   "url": "https://earthjustice.org/experts/shannon-fisk/michigans-public-service-commission-grapples-with-ai-data-center-load",
-   "title": "Ratepayers may cover costs of DTE's 1.4 GW Oracle AI data center after rushed approval",
-   "at": "2026-08-12T23:52:40+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Duplicate of already-live 'Nessel and green groups challenge DTE power deals for Saline data centers' and killed 'Michigan Attorney General Appeals Fast-Tracked"
-  },
-  {
    "url": "https://www.electricchoice.com/datacenters/",
    "title": "Data center power use triples, pushing rates up in some states and down in others",
    "at": "2026-08-12T23:52:40+00:00",
@@ -1399,6 +1371,34 @@
    "at": "2026-08-20T21:36:18+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece with no specific Michigan focus."
+  },
+  {
+   "url": "https://www.tomshardware.com/tech-industry/data-centers/michigan-township-combats-nuclear-weapons-data-center-by-passing-ban-on-new-electrical-infrastructure-220-000-square-foot-hyperscale-project-is-backed-by-university-of-michigan-and-the-los-alamos-national-laboratory",
+   "title": "Township Blocks Power Lines for 220,000-Square-Foot Nuclear Research Data Center",
+   "at": "2026-08-20T22:36:54+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: Duplicate of 'Township blocks power lines to halt U-M backed hyperscale project'."
+  },
+  {
+   "url": "https://www.detroitnews.com/story/news/politics/2026/08/20/data-centers-tom-barrett-will-lawrence-michigan-congress/91385542007/",
+   "title": "Michigan Congressman Files Bill to Block Federal Override of Local Data Center Rules",
+   "at": "2026-08-20T22:36:54+00:00",
+   "by": "news_judge",
+   "note": "score 2/10: National legislative proposal with limited immediate impact on Michigan data center developments."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWk13UUNvVkFRTmUxcFE3WDJaMVd2d05Ua0dnX3BWSVV6SGt3QWl4OHhlYm5vZVBzREdTbmdsR3h1VHgwaVU3TEY1LTRrSU02OFZqTjIxbkRLQmoyNnBNNHYzSTB3RjR0Yi03MUxhZ0NhRTVsMVZXNmxYeXA5N3ZwcEdFbkpTODZFNjY0b2MxdUViU055WmNmMHNzTElyVHBxVk5jMHZ1QkxPVXV3RTRVaF84WWhqMlNWREkwX2xwN2Q?oc=5",
+   "title": "Barrett bill blocks feds from overriding Michigan towns on data centers",
+   "at": "2026-08-20T22:36:54+00:00",
+   "by": "news_judge",
+   "note": "score 1/10, duplicate: Duplicate of 'Barrett bill shields local data center fights from federal meddling'."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORUo3WG1zaWgwZDNvbV9GRkpUV1hKRGNTeTlyU0JnTGNQMno5Y3JfQ1NoRUxNUXVxOWFISEUzLWxucXMtY3k0MjJSZThjUjQtSDFuOFpDZXE4NFBqLW9kVDRUdUtkUWtvU2o2Q28tSlZweThtMFA0XzJ3bGtvcDNFaUxmWFdkb2trdTNwVG1UUWtOSnpQU3JSRG9xbHVDbVprdGVrUFEyTnZwZ3pVOThwcklR?oc=5",
+   "title": "Rogers calls for Michigan data center pause; AI investments spark debate",
+   "at": "2026-08-20T22:36:54+00:00",
+   "by": "news_judge",
+   "note": "score 1/10, duplicate: Duplicate of 'Rogers: Halt new data centers to prevent higher power costs in Michigan'."
   }
  ],
  "auto_published": [
