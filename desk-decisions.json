@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://insideclimatenews.org/news/12082026/michigan-primary-votes-against-data-centers/",
-   "title": "Anti-Data Center Candidates Win Michigan Primaries",
-   "at": "2026-08-12T14:40:53+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: Election results are newsworthy but this appears to be primary results framed through a single-issue lens without confirmation of actual votes or specific races"
-  },
-  {
-   "url": "https://spectrumlocalnews.com/mi/michigan/news/2026/08/11/lowell-township-data-center-ordinance-microsoft",
-   "title": "Lowell Residents Seek Water and Lighting Limits for Proposed Microsoft Data Center",
-   "at": "2026-08-12T14:40:53+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Lowell advisory committee drafting rules is incremental movement but still months from any decision, and previous Lowell stories were killed for being too preli"
-  },
-  {
    "url": "https://www.keranews.org/news/2026-08-12/data-center-moratorium-takes-first-steps-after-fort-worth-city-councils-unanimous-vote",
    "title": "Fort Worth Backs 90-Day Data Center Pause to Check Water and Power Use",
    "at": "2026-08-12T14:40:53+00:00",
@@ -1399,15 +1385,23 @@
    "at": "2026-08-20T14:45:19+00:00",
    "by": "news_judge",
    "note": "score 1/10, duplicate: Duplicate of previously killed stories about Gibraltar lawsuit."
+  },
+  {
+   "url": "https://www.shorelinemedia.net/ludington_daily_news/news/michigan-wants-data-centers-what-did-the-state-offer/article_2cc97e84-e86f-48f7-98b6-84ceefc79b5a.html",
+   "title": "State Incentives for Data Centers Examined in New Report on Michigan's Strategy",
+   "at": "2026-08-20T15:42:07+00:00",
+   "by": "news_judge",
+   "note": "score 5/10: Incremental development in a series on state incentives, but lacks a concrete new decision or event."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbEJUbU5rZWlMZHhobkNrLXNIUkVMZ2dZUjBCMWs0VV9UZmNtUWdRVVdKcklRQkFvNmIyWVhHY050RTRwdkF3VlQ1TE0wMDR0TERHTTZMa0N3S3J6alA1dC1LRllWdW8wRUtQY0NYRUgyUUNhVjVQRm1OdElWTG5wVHU3Wi1PWXdEQTZjSEREbUhnUkFDb2pnZ1Qzd1lxdw?oc=5",
+   "title": "Gibraltar faces lawsuit over data center moratorium",
+   "at": "2026-08-20T15:42:07+00:00",
+   "by": "news_judge",
+   "note": "score 1/10, duplicate: Duplicate of already killed stories about Gibraltar lawsuit over data center moratorium."
   }
  ],
  "auto_published": [
-  {
-   "url": "https://thesuntimesnews.com/saline-township-delays-vote-on-oracle-data-center-tax-break/",
-   "title": "Saline Township Delays 12-Year Tax Cut for Oracle Data Center",
-   "judge_score": 8,
-   "at": "2026-07-09T17:34:47Z"
-  },
   {
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaUI5N3poQk9makJjdjFrT2czbHBTcmZtbEdqYzZUMWE1N1luSV82NWhhenZDOHY5bWh3Y2U1T3M5MzIxd2RjczhJMmNQZVhGaFpCSDNlZGdXSldPNGdhMkoyYk1aUG1SZFNySjZ0ZjhkaHVBWVJ2UFFLZW9xU3BiM0Y1WjlGQXM?oc=5",
    "title": "Michigan town sues over nonstop data-center noise in federal court",
@@ -3201,6 +3195,12 @@
    "title": "OpenAI-Oracle developer snaps up golf course beside planned Michigan campus",
    "judge_score": 6,
    "at": "2026-08-20T14:45:19Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxON040S0dsMHF6VkhCMjVGOC1YTHJmLWRrWFVxSDJWcW0telBmTzAwLUc5Y2liRjVRZlJqTkNEOEQyVC1pVEZCOThyUm1hSDZBYkpmemxkVUM4cWJnX0RhaFQtTFctcjd3ZEVTUmNLSVFKb0gxNTljZ3VhZEFzNGZaTnlPY2cwM2lrQXZ3VFJvaGVtUElNTV9sb3A1TnlQMUpONFZ4cXB0bGpTREtRczRpa25uZU4zNW5RVUg0VlNTY0w4cTV6RGhUZ2hpYlU3TXA3Y0xfLXAyRGhEVTZQYXRYQjcxOW9rMnpEQU0yc1hKbW5KeWlVSnh2UWlVTFd5UF9FR2pmNmdrSy1BUWQxRTJ4VXpDc0NHWERHN0ptZ2U4RHR1SlJYT256LVQ0bk82cWVpaHhtWENBdVV3Uk90QWZnOFp0bkw4MzNOWGF5Q1p3aGFNZ1JUT1lTTHRVOEpRckp3WEtDRjdzZHlVSHgwZ3VhV18zdWNMNUt2cU9QM0RWbG5TS2tpTXc?oc=5",
+   "title": "Township blocks power lines to halt U-M backed hyperscale project",
+   "judge_score": 9,
+   "at": "2026-08-20T15:42:07Z"
   }
  ]
 }

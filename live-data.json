@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-20T14:45:19Z",
+ "updated_at": "2026-08-20T15:42:07Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Township blocks power lines to halt U-M backed hyperscale project",
+   "dek": "A Michigan township passed a ban on new electrical infrastructure to stop a 220,000-square-foot data center tied to the University of Michigan and Los Alamos National Laboratory. Residents face the prospect of massive power infrastructure serving a nuclear-weapons-linked facility without local say. The move directly affects nearby homes and farms by cutting off the project's grid connection.",
+   "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxON040S0dsMHF6VkhCMjVGOC1YTHJmLWRrWFVxSDJWcW0telBmTzAwLUc5Y2liRjVRZlJqTkNEOEQyVC1pVEZCOThyUm1hSDZBYkpmemxkVUM4cWJnX0RhaFQtTFctcjd3ZEVTUmNLSVFKb0gxNTljZ3VhZEFzNGZaTnlPY2cwM2lrQXZ3VFJvaGVtUElNTV9sb3A1TnlQMUpONFZ4cXB0bGpTREtRczRpa25uZU4zNW5RVUg0VlNTY0w4cTV6RGhUZ2hpYlU3TXA3Y0xfLXAyRGhEVTZQYXRYQjcxOW9rMnpEQU0yc1hKbW5KeWlVSnh2UWlVTFd5UF9FR2pmNmdrSy1BUWQxRTJ4VXpDc0NHWERHN0ptZ2U4RHR1SlJYT256LVQ0bk82cWVpaHhtWENBdVV3Uk90QWZnOFp0bkw4MzNOWGF5Q1p3aGFNZ1JUT1lTTHRVOEpRckp3WEtDRjdzZHlVSHgwZ3VhV18zdWNMNUt2cU9QM0RWbG5TS2tpTXc?oc=5",
+   "source": "Tom's Hardware",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Local Government",
+   "iso": "2026-08-20T15:37:29Z",
+   "id": "c83adbeab1fd",
+   "origin": "google-news",
+   "source_title": "Michigan township combats nuclear weapons data center by passing ban on new electrical infrastructure — 220,000-square-foot hyperscale project is backed by University of Michigan and the Los Alamos Na",
+   "source_url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxON040S0dsMHF6VkhCMjVGOC1YTHJmLWRrWFVxSDJWcW0telBmTzAwLUc5Y2liRjVRZlJqTkNEOEQyVC1pVEZCOThyUm1hSDZBYkpmemxkVUM4cWJnX0RhaFQtTFctcjd3ZEVTUmNLSVFKb0gxNTljZ3VhZEFzNGZaTnlPY2cwM2lrQXZ3VFJvaGVtUElNTV9sb3A1TnlQMUpONFZ4cXB0bGpTREtRczRpa25uZU4zNW5RVUg0VlNTY0w4cTV6RGhUZ2hpYlU3TXA3Y0xfLXAyRGhEVTZQYXRYQjcxOW9rMnpEQU0yc1hKbW5KeWlVSnh2UWlVTFd5UF9FR2pmNmdrSy1BUWQxRTJ4VXpDc0NHWERHN0ptZ2U4RHR1SlJYT256LVQ0bk82cWVpaHhtWENBdVV3Uk90QWZnOFp0bkw4MzNOWGF5Q1p3aGFNZ1JUT1lTTHRVOEpRckp3WEtDRjdzZHlVSHgwZ3VhV18zdWNMNUt2cU9QM0RWbG5TS2tpTXc?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 9
+  },
   {
    "title": "OpenAI-Oracle developer snaps up golf course beside planned Michigan campus",
    "dek": "The firm behind a massive proposed data center has purchased adjacent land once used as a golf course. The move signals intent to expand the footprint in the area despite local pushback. Nearby residents face questions about noise, traffic, and how much power the project will pull from the grid.",
@@ -169,21 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZ3Y2N20tZkdIREVQX1M4SjR2RzA0bTBPeXpJT2xWVXk5TURqaTVZQTFFMUF3VWJMM0paSTZqc3VaaUNWRWpxcmFYTlE1VDZVckV2RUJvUTUzZGd1YXJWU1liMGVHQ2MxbkpEaVpiUklnbmduU2NiSEM2bDVCZGQxaXZxdW5pb2ZpQlpfTlJWUURNRC1iQ3plYWc4Z1FiVU16aDRReEQtVlNGbVVveDVzb1dJbmN3NGtjWlE0NmM4dmZGT2hDTFBRQzFNbV9yQWFnbGJqVWJJZHBEQW42NVBPY05DMA?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
-  },
-  {
-   "iso": "2026-08-19T18:00:00+00:00",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "tag": "Power & Grid",
-   "title": "Michigan Regulators Release Energy Cost Recommendations as Advocates Push for Stronger Data Center Protections",
-   "dek": "The Michigan Public Service Commission unveiled steps to lower energy costs, prompting calls for swift action on data center guardrails to protect ratepayers and the grid.",
-   "source": "Michigan Advance",
-   "url": "https://michiganadvance.com/2026/08/19/as-michigan-regulators-unveil-recommendations-for-lowering-energy-costs-advocates-urge-action/",
-   "breaking": false,
-   "lead": true,
-   "id": "fdac456431ea",
-   "accuracy": "checked",
-   "judge_score": 7
   }
  ],
  "national": {
