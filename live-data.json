@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-20T01:49:25Z",
+ "updated_at": "2026-08-20T03:06:37+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -202,6 +202,49 @@
   "id": "02d7912fe03d",
   "accuracy": "checked"
  },
- "meetings": [],
+ "meetings": [
+  {
+   "iso": "2026-08-20",
+   "body": "Lodi Township Data Center Subcommittee",
+   "topic": "Data center ordinance and related planning discussion",
+   "region": "SE Michigan",
+   "regionKey": "metro",
+   "county": "Washtenaw",
+   "time": "9:00 AM",
+   "status": "Board meeting",
+   "urgent": false,
+   "link": "https://loditownshipmi.org/upcoming-meetings/",
+   "linkLabel": "Agenda",
+   "stream": null
+  },
+  {
+   "iso": "2026-08-20",
+   "body": "Somerset Township Board of Trustees",
+   "topic": "Regular meeting; proposed data center moratorium ordinance may be discussed",
+   "region": "Mid-Michigan",
+   "regionKey": "mid",
+   "county": "Hillsdale",
+   "time": "7:00 PM",
+   "status": "Board meeting",
+   "urgent": false,
+   "link": "https://somersettownship.org/",
+   "linkLabel": "Agenda",
+   "stream": null
+  },
+  {
+   "iso": "2026-08-20",
+   "body": "Grass Lake Charter Township Planning Commission",
+   "topic": "Planning commission meeting; data center topics possible on calendar",
+   "region": "Mid-Michigan",
+   "regionKey": "mid",
+   "county": "Jackson",
+   "time": "7:00 PM",
+   "status": "Planning commission",
+   "urgent": false,
+   "link": "https://www.grasslaketownship.gov/",
+   "linkLabel": "Agenda",
+   "stream": null
+  }
+ ],
  "accuracy_checked_at": "2026-07-08T08:45:16+00:00"
 }

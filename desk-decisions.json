@@ -1,27 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.prnewswire.com/news-releases/hyperscale-data-board-considers-all-options-to-maximize-stockholder-value-including-potential-sale-of-its-michigan-data-center-302847878.html",
-   "title": "Hyperscale Data Explores Sale or Partnerships for Michigan Campus",
-   "at": "2026-08-11T14:00:10+00:00",
-   "by": "news_judge",
-   "note": "score 4/10, duplicate: Same Hyperscale Data Michigan sale story already killed; no new development reported."
-  },
-  {
-   "url": "https://bridgemi.com/guest-commentary/opinion-with-the-right-guardrails-we-should-consider-embracing-data-centers/",
-   "title": "Bridge Michigan Commentary Urges Guardrails for Data Center Growth",
-   "at": "2026-08-11T14:00:10+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: Opinion piece offering general policy recommendations, not a concrete development or decision."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRVFkUXp1aDRDRnhPQmJNcktXczlsV1l4ZTFpQ0JobEdfS1B3d0daNUQwaExZcERtMWJTb1dndEJEdDlkbV82TUU4NEtrVXh0VHE1dnpoOVhrZEhtRGxSVTFqeGMxUHRaeEg0aWx0WXU3S1F3andmRFhuNy1aU0syNWFsamhZNTg0dkcyUW9TX0NsQkdiek5kOXNXYzN4NUI0aXR6ZmNBbnlUaW5YQ0laZXFFOVNseDZaR3fSAb8BQVVfeXFMTW5fRmJlMlVadFZ1RGROZ29sVmZvWEFqQjdETFo0YnBsVG5LOTNtelI3NmdlZ2tXTVdKcDMzQm14Z3FNWEJJdTNEQ0pRRWJaamw0SjJyS2FPZ0dYek9ESFhlMmN0Y2U3cjhlaF92eWNvQUsxN1FRM29YNXhkakoxNmNfaUhaOHFoUG5sZ3gxTm95WjV4dE9aQU5VSDdNai0yUnU3dlNMTkFmUzl1TE9EOWZRUnJNVmRyak45NEphOGc?oc=5",
-   "title": "Lowell Township data center rules remain months from approval",
-   "at": "2026-08-11T14:00:10+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Rehashes the already-live Lowell delay stories with no new meeting, vote, or timeline change."
-  },
-  {
    "url": "https://wkzo.com/2026/08/11/958704/",
    "title": "Kalamazoo commissioners seek draft moratorium on data centers and crypto mines",
    "at": "2026-08-11T15:08:11+00:00",
@@ -1399,6 +1378,27 @@
    "at": "2026-08-20T01:49:25+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece about a supplier's factory expansion plans, not a Michigan data center decision or development."
+  },
+  {
+   "url": "https://www.clickondetroit.com/news/local/2026/08/19/moratorium-fight-developer-claims-gibraltar-unlawfully-stopped-data-center-takes-legal-route/",
+   "title": "Gibraltar Developer Sues City Over Targeted Data Center Moratorium",
+   "at": "2026-08-20T03:07:00+00:00",
+   "by": "news_judge",
+   "note": "score 1/10, duplicate: Duplicate of already-killed story about Gibraltar lawsuit."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRHRnMHNuWG40dGdUUUZsYWlSc0I2S3hTQ3hFRlBwdzNpNU5QX2F6UjlWZmt6ZkNxWUpuOC1IZVF3Ti1DMVJQZEc1SzhUZTJQbmsxWTIwT1AxQy1RUFJWM1NjNXlvdWVpZndQV1hGWmNjZGk3OTllVlJoR010a1RJdXFZY3VVQlN0cFdqWWI5c25FV0tMd3BHWXRtVE1feWg0dmZQY0tmYy1yakwxTFB0VVdVQngtR253M2lYZ09YVDlDZzFyTHVzWQ?oc=5",
+   "title": "Forsyth Township residents slam data center plans at Sawyer town hall",
+   "at": "2026-08-20T03:07:00+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Rehash of Forsyth Township residents' concerns already covered."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbHAzVjFnREpGTTFoLVF0YzRtbzJVQ09sd3o1YzlUZ1B6ZDZSX0FVaUdkQnpSZmR3WFNteXN0VXI1U19ZZWhqT2kzNlhadzVfQ0pEZTlwdU5oaE81NFlOZDc5LUZDeFpGXzN0VUFtcWN2TE9uT3NuV2IwMUpiY0VLMldLYUdRRTF6TlZtc2dSSzZzaXBhd09TekVVR055RmcxOXU4YXE1eG9VRlRLbkp4cVdsZGNQS2s0M2RnR0FrZzV4Y2JrUkJqQzB4NW1oYjJPU2RDOFE4TDkyRGUtNWpBQzhWUUxwa3ctV2g1Yk5QZXg?oc=5",
+   "title": "State dangles tax breaks and power deals to lure data centers",
+   "at": "2026-08-20T03:07:00+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: National trend piece on state incentives with speculative impact."
   }
  ],
  "auto_published": [
