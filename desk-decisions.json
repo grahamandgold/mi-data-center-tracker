@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNeUp6ejZRRjltczItUHhaRzJFWVVCczY5YlRKRS1sRnJab09vX0dxXzBGZmVQRGw1LW1pdTdYMlhYYVdva3YwT2dBQTZVcU8tNWhZcTJwTXFBc3pOaXFIcF9CZl93WEVUVGRrczBESDBIc2tpWHlLeVlhbERHR2xyVUFfT3owdEJwcE9VaVZXdW9vdlpTcFo3ZmhYVzk1al9fS1NxTVpCSE1UTE9EaVJ4aFcxallNb2FqRjNUZnVRNVY3bllPaklSa29IZ2F1alF4QXpQajZCTDVnTnUtd1FaVlo2NUw4MW5IdW9RTG4zV3JVOXdkT25rR2Z6N0M2VFg3TlhWTEpqRklwWGM?oc=5",
-   "title": "Hyperscale Data weighs sale of Dowagiac facility",
-   "at": "2026-08-12T18:29:44+00:00",
-   "by": "news_judge",
-   "note": "score 4/10, duplicate: Duplicate of killed 'Hyperscale Data weighs sale of Dowagiac data center' — same potential sale, same facility, same speculative nature."
-  },
-  {
    "url": "https://www.microgridknowledge.com/utility-microgrids/article/55397181/how-pjms-plans-for-meeting-data-center-energy-needs-make-deploying-microgrids-and-ders-difficult",
    "title": "PJM Plan Risks Costlier Fossil Power for Michigan Data Centers After 2027",
    "at": "2026-08-12T19:41:28+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-20T17:37:49+00:00",
    "by": "news_judge",
    "note": "score 5/10: Incremental development on state-level legislative proposal."
+  },
+  {
+   "url": "https://news.bloomberglaw.com/litigation/michigan-city-sued-by-developer-over-yearlong-data-center-ban",
+   "title": "Developer Sues Gibraltar Over Yearlong Data Center Moratorium",
+   "at": "2026-08-20T18:52:48+00:00",
+   "by": "news_judge",
+   "note": "score 1/10, duplicate: This story is a duplicate of multiple already-killed stories about Gibraltar developers suing over the data center moratorium."
   }
  ],
  "auto_published": [
