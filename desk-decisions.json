@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.theoaklandpress.com/2026/08/13/u-m-affirms-ypsilanti-1-2b-computing-center-site-township-officials-vow-fight/",
-   "title": "University of Michigan stands by Ypsilanti Township site for $1.2 billion data center despite local opposition",
-   "at": "2026-08-14T07:44:21+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: Thin rehash of already-covered U-M site selection and township opposition without new decision, filing, or concrete development."
-  },
-  {
-   "url": "https://www.mlive.com/opinion/2026/08/letter-from-the-editor-big-tech-big-questions-the-story-behind-the-data-center-stories.html",
-   "title": "MLive expands data center coverage with new interactive dashboard tracking proposals statewide",
-   "at": "2026-08-14T07:44:21+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Meta-story about news coverage itself rather than substantive development; the dashboard is a journalism tool, not a policy or project action."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE00eGlZbjhxanFzOW1Ld2NGX01aU2lCaHdqbHB1QUFEclFTY2U4LWtaY0NIbi1MNlVQRWVkcW9MbzdPNjRfQUVEbHI2RTJOQQ?oc=5",
    "title": "County officials threatened with violence as power-hungry facilities seek tax breaks",
    "at": "2026-08-14T09:15:26+00:00",
@@ -1399,15 +1385,23 @@
    "at": "2026-08-21T22:33:48+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Rogers' call for a pause has been covered multiple times in killed stories including 'Rogers calls for one-year halt,' 'Mike Rogers calls for Michigan data cent"
+  },
+  {
+   "url": "https://www.sltrib.com/news/2026/08/21/spanish-fork-data-center-what-know",
+   "title": "Volition Seeks Data Center in Million-Square-Foot Spanish Fork Warehouse",
+   "at": "2026-08-21T22:55:32+00:00",
+   "by": "news_judge",
+   "note": "score 1/10: Utah project with no Michigan connection; pure noise for Michigan data center tracker."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOc3JRS0xyQm5rLTFyVzZ3S0dQLTRFaThjT2F4OWFDU0c2UnVzcVlVTVJWUldZYzlsWFU1V2lCSEFaYko4dzRibHFjQmFUY0tEVVpYSlB4X2tGeHh4S1JJdUJraEY3aEQ5UWF4bjlwbVJYaVEteWNENG9qeXpKRGtMaFFNX3JIYUJhTVAwM0lYNlZ1Y2NQZTdrMF9tUU1KdU1MbThNTlNzMndvVWxPLWJnM1FBUGU5aUJBcV9mYVpZQ3pya3hYTjRWQm9zUXNBaFJPQjVHV0VHbHQ5d1VORGdTQmRZeGEwdzJQX3NvRkE1TUY5Vzl4Q0x6VW52NUh1dw?oc=5",
+   "title": "Mike Rogers calls for pause on Michigan data centers",
+   "at": "2026-08-21T22:55:32+00:00",
+   "by": "news_judge",
+   "note": "score 1/10, duplicate: Rogers calling for a pause has been killed multiple times already; this is the same announcement reworded."
   }
  ],
  "auto_published": [
-  {
-   "url": "https://thesuntimesnews.com/saline-data-center-work-raises-dewatering-pond-questions/",
-   "title": "Saline Township Checks if Data Center Dewatering Dropped Nearby Pond by Two Feet",
-   "judge_score": 7,
-   "at": "2026-07-10T15:59:18Z"
-  },
   {
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON2JENVdwRExKbTg3emxVRS1KazRUb19lNXJNeTh0V2c5ZWEyejRsMkxLVHBSWkRxN1lBV2xhSFpfWnJHd0dILWd4YWh0Nkp5OXVLaTd2VW1GekFZQlhVOVc2VmRPSFZacWJjV24teWw3M3Q3SzdQUXl6eXVtQUxiOU4xYXJrNjM5Rmhvb0M1NkFVdHE4?oc=5",
    "title": "Monroe expert warns data-center load could spike bills",
@@ -3201,6 +3195,12 @@
    "title": "Firm behind Mason data center project finally named",
    "judge_score": 7,
    "at": "2026-08-21T22:33:48Z"
+  },
+  {
+   "url": "https://bridgemi.com/michigan-environment-watch/residents-and-officials-feeling-powerless-in-michigan-data-center-fights/",
+   "title": "Michigan Officials Face Growing Recall Pressure Over Data Center Decisions",
+   "judge_score": 7,
+   "at": "2026-08-21T22:55:32Z"
   }
  ]
 }

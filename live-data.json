@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-21T22:33:48Z",
+ "updated_at": "2026-08-21T22:55:32Z",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -35,6 +35,21 @@
    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNakM5cnpkbWYtUlJsMV9hMGlSMzJic2tOQmRONmZPSjE2RHJ1V0tGaWQ0dDhJUkhBMTlnMXJxekpCanNzamZGRHVySUE1YklyMlR5VzNoT1o1T0FoaWlnQWZUQkpEdWJrQ2I5a0ZqQmMzc3UtLWN0ODdOZC1UTUV6TDVqeGZLSVozUDJQYXJ0ZUxmWkhScy1FWE90cnctQ05iNzNmd0NXYmg?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
+  },
+  {
+   "iso": "2026-08-21T19:00:00+00:00",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "tag": "Local Government",
+   "title": "Michigan Officials Face Growing Recall Pressure Over Data Center Decisions",
+   "dek": "At least 28 officials in eight communities have faced recall efforts tied to data center votes, with only one recall reaching the November ballot, according to a new Bridge Michigan analysis of local fights statewide.",
+   "source": "Bridge Michigan",
+   "url": "https://bridgemi.com/michigan-environment-watch/residents-and-officials-feeling-powerless-in-michigan-data-center-fights/",
+   "breaking": false,
+   "lead": true,
+   "id": "2963dfca5d52",
+   "accuracy": "checked",
+   "judge_score": 7
   },
   {
    "title": "Saline residents voice fears over data center power and tax costs",
@@ -171,23 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxON040S0dsMHF6VkhCMjVGOC1YTHJmLWRrWFVxSDJWcW0telBmTzAwLUc5Y2liRjVRZlJqTkNEOEQyVC1pVEZCOThyUm1hSDZBYkpmemxkVUM4cWJnX0RhaFQtTFctcjd3ZEVTUmNLSVFKb0gxNTljZ3VhZEFzNGZaTnlPY2cwM2lrQXZ3VFJvaGVtUElNTV9sb3A1TnlQMUpONFZ4cXB0bGpTREtRczRpa25uZU4zNW5RVUg0VlNTY0w4cTV6RGhUZ2hpYlU3TXA3Y0xfLXAyRGhEVTZQYXRYQjcxOW9rMnpEQU0yc1hKbW5KeWlVSnh2UWlVTFd5UF9FR2pmNmdrSy1BUWQxRTJ4VXpDc0NHWERHN0ptZ2U4RHR1SlJYT256LVQ0bk82cWVpaHhtWENBdVV3Uk90QWZnOFp0bkw4MzNOWGF5Q1p3aGFNZ1JUT1lTTHRVOEpRckp3WEtDRjdzZHlVSHgwZ3VhV18zdWNMNUt2cU9QM0RWbG5TS2tpTXc?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 9
-  },
-  {
-   "title": "OpenAI-Oracle developer snaps up golf course beside planned Michigan campus",
-   "dek": "The firm behind a massive proposed data center has purchased adjacent land once used as a golf course. The move signals intent to expand the footprint in the area despite local pushback. Nearby residents face questions about noise, traffic, and how much power the project will pull from the grid.",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTWlwemFnaGM5cnZPaWVXb0Q0YTUwTjdON3dwVXJOQV91b3U4VDN6UWNJN0dnZS10Z2V4RnZSSHFpYnEtX0JFQTd4SmNZTW16YzNOR2lKRGpFYUpteGxUV1dUc2hVd1VCR1BURE10VkY4dHR5VXhUYU50VTQ2SW9vNTRiZ3Bnd3IxTFZFNGtxbldyVmY5SGp6cjZmU3J1ZmxtbHVyejVzUEVmdWd2ZXZnWFhQMk9hRVdzNVRUM0I3LXNUNjBuSUxjSNIB3AFBVV95cUxPREtNd0k4ZzJwMEZXRlJpY2FOM0xQdndPZmZOX3hrTFBvV2FKSERCOTh3LUpTNmdvRHhYM1JqNU9DSHpidzNrbkU0NVBaejNkdkpmYlVkU2c5ZGl5SnhnbVVzSkdSLXpiOFdVNkowUC1KTWRVLTlCd3JQa004dnlzNl8zRXRqT1Bmb2RnQVZLekdibkg0RjRoRHM1cWVzaV9pYVM5OWNhZmhxVklVa0IyNmFHN2xkQkRxakg4dVhWY0ZMbzVLaVlyNUs2ejRZcC1uZDFSLWszSVRSalZo?oc=5",
-   "source": "MLive.com",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Money",
-   "iso": "2026-08-20T14:16:00Z",
-   "id": "c188c9959830",
-   "origin": "google-news",
-   "source_title": "Developer of controversial OpenAI, Oracle data center buys golf course next door - MLive.com",
-   "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTWlwemFnaGM5cnZPaWVXb0Q0YTUwTjdON3dwVXJOQV91b3U4VDN6UWNJN0dnZS10Z2V4RnZSSHFpYnEtX0JFQTd4SmNZTW16YzNOR2lKRGpFYUpteGxUV1dUc2hVd1VCR1BURE10VkY4dHR5VXhUYU50VTQ2SW9vNTRiZ3Bnd3IxTFZFNGtxbldyVmY5SGp6cjZmU3J1ZmxtbHVyejVzUEVmdWd2ZXZnWFhQMk9hRVdzNVRUM0I3LXNUNjBuSUxjSNIB3AFBVV95cUxPREtNd0k4ZzJwMEZXRlJpY2FOM0xQdndPZmZOX3hrTFBvV2FKSERCOTh3LUpTNmdvRHhYM1JqNU9DSHpidzNrbkU0NVBaejNkdkpmYlVkU2c5ZGl5SnhnbVVzSkdSLXpiOFdVNkowUC1KTWRVLTlCd3JQa004dnlzNl8zRXRqT1Bmb2RnQVZLekdibkg0RjRoRHM1cWVzaV9pYVM5OWNhZmhxVklVa0IyNmFHN2xkQkRxakg4dVhWY0ZMbzVLaVlyNUs2ejRZcC1uZDFSLWszSVRSalZo?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {
