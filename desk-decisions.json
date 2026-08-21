@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.clickondetroit.com/video/news/2026/08/13/local-4-news-at-4-aug-13-2026/",
-   "title": "Township pushes back on data center proposal in recent local coverage",
-   "at": "2026-08-14T10:35:25+00:00",
-   "by": "news_judge",
-   "note": "score 2/10: Vague rehash with no specific project, location, or development identified—just generic 'Detroit-area township' opposition already covered multiple times."
-  },
-  {
-   "url": "https://www.aterio.io/datasets/lst_us_data_centers",
-   "title": "U.S. data center power demand and construction pipeline tracked in new industry dataset",
-   "at": "2026-08-14T10:35:25+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece tracking industry-wide data with no Michigan-specific decision or development."
-  },
-  {
    "url": "https://www.detroitnews.com/story/news/local/michigan/2026/08/14/data-center-concerns-detroit-area-towns-cities-strengthen-zoning/91201218007/",
    "title": "Data center development pressures prompt zoning and regulatory responses in multiple states",
    "at": "2026-08-14T11:27:33+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-21T23:31:54+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece rehashing Rogers' already-covered moratorium call with generic campaign positioning and no new Michigan-specific development or policy acti"
+  },
+  {
+   "url": "https://abcnews4.com/news/nation-world/data-centers-emerge-as-bipartisan-flashpoint-ahead-of-2026-midterm-elections-political-issues-national-president-donald-trump?ref=elplaneta.com",
+   "title": "Data centers emerge as bipartisan flashpoint in 2026 midterm races nationwide",
+   "at": "2026-08-21T23:53:00+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece about 2026 midterms with no Michigan-specific development, decision, or filing."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQdE5uMXRjenNoemFrNW9kMkpSc0wtMk9RT0MybVV1TTJNbUh0VUtlb1FCRVlzS3BXdURnaXRwSEtRNXVIU2hFcEwtRFlzNFg0MmlGRk9LV2dVa3JVQmN0SU5JVEdTUVBJS1VGT1JjWUVHcVVodUpKTnJYdnhQcnVQXzN1ZXZzNkVzZ1NORjB2ckhwM2dKSFVBUWlBdGJ4U1BaTDVhQUdGMnRMcTdZNGV4TGVRS1oxWE9rWlYyLVZXUW9qQzY5V2FKR0ZzVF9nV3JyZE52aGl4Vi1jeWNlLW9pOGhoNXdQMWhuUTdHMjFsZW9jWmRtUGtwb0F5VEVWamE2djB3?oc=5",
+   "title": "Mike Rogers pushes pause on new Michigan data centers",
+   "at": "2026-08-21T23:53:00+00:00",
+   "by": "news_judge",
+   "note": "score 1/10, duplicate: Rogers calling for a data center pause has been killed multiple times already; this is the same call rehashed."
   }
  ],
  "auto_published": [
