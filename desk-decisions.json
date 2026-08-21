@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.fox2detroit.com/video/fmc-xijj9uowt88git6t",
-   "title": "UM Regent Urges Pause on Proposed Ypsilanti Township Computing Center",
-   "at": "2026-08-13T16:29:12+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: A regent's opinion/call for pause is softer than the township's actual rejection already live, and weaker than the killed regent story that reported a specific "
-  },
-  {
    "url": "https://www.thecooldown.com/green-tech/abdul-el-sayed-senate-candidate-michigan-data-centers-campaign/",
    "title": "El-Sayed Rallies at Saline Site to Block Data Centers Lacking Federal Rules",
    "at": "2026-08-13T16:29:12+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-21T11:33:37+00:00",
    "by": "news_judge",
    "note": "score 4/10: National trend piece from a financial institution about community resistance as investment risk—no Michigan-specific development, decision, or filing."
+  },
+  {
+   "url": "https://www.detroitnews.com/story/news/politics/2026/08/20/data-center-politics-michigan-senate-mike-rogers-abdul-el-sayed/91385736007/",
+   "title": "U.S. Data Center Power Demand Continues Sharp Rise as Hyperscale Projects Advance",
+   "at": "2026-08-21T13:53:54+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece with no Michigan-specific development, decision, or filing—generic update on power demand and vague references to 'several states' consider"
   }
  ],
  "auto_published": [
