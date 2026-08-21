@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.datacenterdynamics.com/en/news/data-center-operators-sneak-in-pair-of-projects-hours-before-moratorium-enacted-in-hillsboro-oregon/",
-   "title": "Hillsboro gets 40MW data center filings hours before moratorium",
-   "at": "2026-08-13T15:06:47+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: Oregon story with no Michigan connection; national trend piece about moratorium tactics."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdWlDQ05ZaGo5TEFaTUhyMjMybHRfVHlobmhGSjVycWhGbndyVXBfbTNSWmQwaWZaSHpUNnV2NzZFTXZaZEVoTjFFb3FGSkRrUXMzMVBoaEZRSlJ5STY3dGYtYXQ5LVdCY2JzUHJXb1NDTFFfOFlhWnBLdHRDRkVFM1pURnc2MGpETGxVZkVXaEZsN3ZlcFBNTDFSMEFkcUl0bTFoaWpmSVJ1dUhWNXVFVGlSVXdNV2R0MlJwd1l2anhWMklob25OOA?oc=5",
    "title": "MLive explains why data centers are reshaping Michigan towns",
    "at": "2026-08-13T15:06:47+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-21T09:46:14+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece about a Maryland industry summit with no Michigan-specific developments, decisions, or policy actions."
+  },
+  {
+   "url": "https://www.timesfreepress.com/news/2026/aug/20/tva-to-charge-data-centers-more-for-power-under/",
+   "title": "TVA Board Creates Separate Higher Rate Class for Data Centers",
+   "at": "2026-08-21T10:38:58+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: National utility rate decision with potential precedent value but no direct Michigan impact; thin relevance for Michigan data center tracker."
   }
  ],
  "auto_published": [
