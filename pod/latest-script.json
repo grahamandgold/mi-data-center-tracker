@@ -1,10 +1,10 @@
 {
- "title": "Evenings with Graham & Emmy",
- "teaser": "Ypsilanti's new moratorium and the fight over Michigan data center power",
+ "title": "Mornings with Graham & Emmy",
+ "teaser": "Ypsilanti Twp halts power infrastructure for a major data center as local pushback grows statewide.",
  "lines": [
   {
    "host": "Graham",
-   "text": "Good evening, and welcome to Evenings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
+   "text": "Good morning and welcome to Mornings with Graham & Emmy, the Michigan Data Wire, your daily podcast on Michigan's data center buildout. I'm Graham."
   },
   {
    "host": "Emmy",
@@ -12,202 +12,274 @@
   },
   {
    "host": "Graham",
-   "text": "Tonight we're zeroing in on Ypsilanti Township's unanimous vote yesterday to freeze major utility projects, a move aimed squarely at a proposed University of Michigan and Los Alamos National Laboratory data center."
+   "text": "It's Friday, August 21, and local boards are moving fast on data center rules while power demand keeps rising."
   },
   {
    "host": "Emmy",
-   "text": "That moratorium on electric infrastructure is the big development we're unpacking first, Graham, because it shows how local pushback is evolving beyond just zoning fights."
+   "text": "Our big story today is yesterday's unanimous vote in Ypsilanti Township."
   },
   {
    "host": "Graham",
-   "text": "Exactly. Trustees passed it at their August 18 meeting to limit big power lines and substations, directly blocking grid connections for the project at Textile and Bridge roads."
+   "text": "Trustees approved a land-use moratorium aimed squarely at new electric infrastructure for data centers."
   },
   {
    "host": "Emmy",
-   "text": "Why does this one matter more than the others we've seen? What's the history here with the U-M and Los Alamos proposal?"
+   "text": "This directly hits a proposed University of Michigan and Los Alamos National Laboratory research facility at Textile and Bridge roads."
   },
   {
    "host": "Graham",
-   "text": "The project has been in the works for a while as a research-focused hyperscale facility. Yesterday's vote builds on earlier concerns about massive infrastructure serving a site tied to national lab work."
+   "text": "The 220,000-square-foot project would need major new power lines, and the township just blocked that path for now."
   },
   {
    "host": "Emmy",
-   "text": "Residents are worried about power demand straining the grid for everyone else, right? What happens to electric bills if something like this goes through without limits?"
+   "text": "Graham, why does this moratorium matter beyond that one site?"
   },
   {
    "host": "Graham",
-   "text": "That's the core worry. A facility this size could pull enormous amounts of electricity, and without new lines or upgrades, nearby homes and farms might face higher rates or reliability issues."
+   "text": "It shows townships using zoning and infrastructure rules to regain local control instead of waiting for state action."
   },
   {
    "host": "Emmy",
-   "text": "And water use? These centers need cooling. How does that play into the farmland and town impacts we're hearing about across the state?"
+   "text": "We've seen similar moves in other places recently."
   },
   {
    "host": "Graham",
-   "text": "Water draw is a recurring flashpoint. In Ypsilanti's case, the moratorium gives the township time to review how any new infrastructure would affect local resources before anything is locked in."
+   "text": "Exactly. Yesterday a different Michigan township banned new power lines to stop its own hyperscale project."
   },
   {
    "host": "Emmy",
-   "text": "Who are the main players pushing back here? Is it mostly residents, or are township officials leading the charge?"
+   "text": "And New Buffalo Township rejected a special land-use request after residents raised water and noise concerns."
   },
   {
    "host": "Graham",
-   "text": "It was a unanimous board vote, so officials are aligned with resident concerns about losing local say over power routes that could cut through neighborhoods and fields."
+   "text": "Bay City neighbors packed a planning meeting to oppose proposals over electricity, water, and industrial noise."
   },
   {
    "host": "Emmy",
-   "text": "What happens next? Does this moratorium stick, or could the project find another route around it?"
+   "text": "So what's the bigger picture on power demand here?"
   },
   {
    "host": "Graham",
-   "text": "The township will likely use the pause to draft stricter rules on utility projects. Similar moves in other areas suggest this could slow things down for months while reviews happen."
+   "text": "Former congressman Mike Rogers told Detroit voters yesterday he supports a temporary halt on new data centers to avoid higher electric bills."
   },
   {
    "host": "Emmy",
-   "text": "We've seen power-line bans in other spots too. How does this fit the bigger pattern of townships trying to hit the brakes?"
+   "text": "How would one big facility affect bills for people 30 miles away?"
   },
   {
    "host": "Graham",
-   "text": "It's part of a growing wave where communities are targeting the infrastructure first because that's what actually enables the buildout. It forces developers to negotiate or scale back."
+   "text": "Utilities have said AI-driven demand is already straining grids, and adding large loads without limits could push rates up across the region."
   },
   {
    "host": "Emmy",
-   "text": "And for listeners 30 or 60 miles away, why should they care about one township's vote?"
+   "text": "What about water use?"
   },
   {
    "host": "Graham",
-   "text": "Because power grids are connected. One big project without proper limits can ripple into rate increases or capacity issues for utilities serving a much wider area."
+   "text": "Cooling systems in these centers can draw millions of gallons daily, which worries rural and suburban areas already managing their own supplies."
   },
   {
    "host": "Emmy",
-   "text": "Fair point. Let's shift to today's other developments starting with the Saline area."
+   "text": "And farmland?"
   },
   {
    "host": "Graham",
-   "text": "Right. The developer behind the large Saline Township campus bought the neighboring golf course today, which has residents concerned it signals plans for even bigger land use and more tax-break requests."
+   "text": "Many proposals sit on former agricultural land, so towns are weighing lost tax revenue from farms against potential data center payments."
   },
   {
    "host": "Emmy",
-   "text": "Local officials haven't commented yet on how this changes pending reviews. Does the purchase change the power demand picture?"
+   "text": "Who are the main players in the Ypsilanti case?"
   },
   {
    "host": "Graham",
-   "text": "It likely does. Expanding onto that extra land could mean higher overall electricity needs, which ties directly into the same grid strain worries we just discussed."
+   "text": "The University of Michigan and Los Alamos National Laboratory are tied to the research center, while local residents and the township board are pushing back on infrastructure."
   },
   {
    "host": "Emmy",
-   "text": "Next up, former congressman Mike Rogers spoke in Detroit today calling for a temporary halt on new data centers to avoid higher power costs."
+   "text": "Is this the first time Ypsilanti Township has taken this kind of step?"
   },
   {
    "host": "Graham",
-   "text": "Yes, he told voters that AI-driven demand is already pressuring utilities, and facilities 30 miles away could push bills up for residents if there's no pause."
+   "text": "It's part of a wave we've seen this week, with boards tightening rules on size, location, and utility connections rather than leaving it to state regulators."
   },
   {
    "host": "Emmy",
-   "text": "That aligns with the rate concerns from the moratorium story. Any sense of how widespread those cost impacts could be?"
+   "text": "What happens next for that specific project?"
   },
   {
    "host": "Graham",
-   "text": "It's the same theme: without caps or better planning, the load from multiple large projects adds up quickly across the state."
+   "text": "The moratorium limits major utility work, so the developers may need to revise plans or seek other routes, and more public hearings are likely."
   },
   {
    "host": "Emmy",
-   "text": "Another today story: a township passed a ban on new electrical infrastructure to stop a 220,000-square-foot U-M backed project tied to Los Alamos."
+   "text": "How does this fit with the Saline Township news?"
   },
   {
    "host": "Graham",
-   "text": "That one directly cuts off the grid connection for the hyperscale site, leaving residents and farms facing the prospect of major power lines without much local input."
+   "text": "The backer there just bought the neighboring golf course, which residents see as a sign of bigger expansion and more power requests ahead."
   },
   {
    "host": "Emmy",
-   "text": "Sounds like a more aggressive version of the Ypsilanti approach. How do these bans usually hold up legally?"
+   "text": "And in Vevay Township today?"
   },
   {
    "host": "Graham",
-   "text": "They often lead to negotiations or court challenges, but they buy time for communities to write clearer rules first."
+   "text": "Landowners want to annex into the city of Mason to clear the way for a data center, shifting tax revenue and control from the township."
   },
   {
    "host": "Emmy",
-   "text": "Also today, the OpenAI-Oracle developer bought a golf course next to their planned Michigan campus, signaling possible expansion despite pushback."
+   "text": "That could affect Lansing or Jackson residents too."
   },
   {
    "host": "Graham",
-   "text": "Nearby residents are now asking about noise, traffic, and exactly how much power the larger footprint would draw from the grid."
+   "text": "Yes, through added power and water demand if the project scales up."
   },
   {
    "host": "Emmy",
-   "text": "New Buffalo Township turned down a special land-use request for a data center on Kluver Road after hearing concerns about water and noise."
+   "text": "Meanwhile Washtenaw County is expanding local oversight on multiple proposals."
   },
   {
    "host": "Graham",
-   "text": "The denial keeps that project from moving forward for now in southwest Michigan."
+   "text": "The Sun Times News roundup shows boards moving ahead with tighter rules on size and location instead of waiting for Lansing."
   },
   {
    "host": "Emmy",
-   "text": "Shifting to yesterday's items, Mundy Township in Genesee County is seeing early interest in a former manufacturing site for a potential data center."
+   "text": "Mundy Township in Genesee County is also seeing early interest in a former manufacturing site."
   },
   {
    "host": "Graham",
-   "text": "Officials are fielding questions about water draw and grid upgrades, with residents concerned about property values and taxes."
+   "text": "Officials are fielding questions about water draw and grid upgrades that could touch nearby property values."
   },
   {
    "host": "Emmy",
-   "text": "Bay City neighbors packed a planning meeting yesterday to oppose proposed data centers over power, water, and industrial noise reaching homes."
+   "text": "So the pattern is clear: more communities are asking hard questions before projects advance."
   },
   {
    "host": "Graham",
-   "text": "The turnout shows how quickly these worries are spreading in mid-Michigan towns."
+   "text": "And yesterday's moratorium in Ypsilanti is the latest example of that local-first approach."
   },
   {
    "host": "Emmy",
-   "text": "Mason residents also rejected a proposal yesterday, warning it would push local utilities past capacity and raise household rates."
+   "text": "What should listeners watch for in the coming weeks?"
   },
   {
    "host": "Graham",
-   "text": "Speakers questioned whether any promised tax revenue would cover the long-term costs to the community."
+   "text": "More township meetings on infrastructure bans, annexation votes, and possible developer responses to the new limits."
   },
   {
    "host": "Emmy",
-   "text": "And St. Joseph County is weighing a year-long moratorium after similar alarms on power and water use."
+   "text": "Thanks for laying that out, Graham."
   },
   {
    "host": "Graham",
-   "text": "That pause would give them time to write rules before projects lock in contracts, affecting how fast these facilities spread into rural counties."
+   "text": "Now let's move to quick hits on the other stories from the last day."
   },
   {
    "host": "Emmy",
-   "text": "Plenty of activity. Let's look ahead to tonight's meetings listeners might want to follow or attend."
+   "text": "Rogers' call for a temporary halt got attention in Detroit."
   },
   {
    "host": "Graham",
-   "text": "Emmet County Board of Commissioners is considering a resolution to delay data center permits until March 2027."
+   "text": "He linked it directly to avoiding higher power costs from AI projects."
   },
   {
    "host": "Emmy",
-   "text": "Lodi Township Planning Commission Data Center Subcommittee meets to review zoning regulations and moratorium options."
+   "text": "The OpenAI-Oracle developer also bought a golf course next to its planned Michigan campus."
   },
   {
    "host": "Graham",
-   "text": "There's also the Lodi Township Data Center Subcommittee discussing the ordinance and planning."
+   "text": "That signals possible expansion despite local concerns about footprint and grid pull."
   },
   {
    "host": "Emmy",
-   "text": "Somerset Township Board of Trustees has a regular meeting where a proposed data center moratorium ordinance could come up."
+   "text": "And the Saline backer did the same thing with its own neighboring course."
   },
   {
    "host": "Graham",
-   "text": "And Grass Lake Charter Township Planning Commission is meeting, with data center topics possibly on the agenda."
+   "text": "Residents there are watching for bigger tax-break requests down the line."
   },
   {
    "host": "Emmy",
-   "text": "Good chances for public input in several spots tonight."
+   "text": "New Buffalo Township turned down the special land-use request after hearing from residents."
   },
   {
    "host": "Graham",
-   "text": "Full sources and the live map at the Michigan Data Center Tracker. We're back tomorrow."
+   "text": "The denial keeps that southwest Michigan project on hold for now."
+  },
+  {
+   "host": "Emmy",
+   "text": "Bay City residents turned out in force at the planning commission."
+  },
+  {
+   "host": "Graham",
+   "text": "They flagged heavy electricity and water demands plus noise that could reach homes."
+  },
+  {
+   "host": "Emmy",
+   "text": "Mundy Township is getting early inquiries on that old manufacturing parcel."
+  },
+  {
+   "host": "Graham",
+   "text": "Genesee County officials are fielding questions on water and upgrades."
+  },
+  {
+   "host": "Emmy",
+   "text": "Vevay Township landowners are pushing for annexation into Mason today."
+  },
+  {
+   "host": "Graham",
+   "text": "That would move tax revenue and control to the city for the data center path."
+  },
+  {
+   "host": "Emmy",
+   "text": "Washtenaw County oversight is expanding on multiple proposals per the weekly roundup."
+  },
+  {
+   "host": "Graham",
+   "text": "Boards there are setting their own size and location rules."
+  },
+  {
+   "host": "Emmy",
+   "text": "And the Rogers comments came just as utilities warn about grid strain."
+  },
+  {
+   "host": "Graham",
+   "text": "All of it points to rising local pushback this week."
+  },
+  {
+   "host": "Emmy",
+   "text": "Let's check what's on deck for listeners who want to attend meetings."
+  },
+  {
+   "host": "Graham",
+   "text": "No major data center-related meetings are listed on public agendas for the weekend."
+  },
+  {
+   "host": "Emmy",
+   "text": "We'll keep watching township boards and planning commissions as new items drop."
+  },
+  {
+   "host": "Graham",
+   "text": "Residents should check their local clerk's office or websites for updates."
+  },
+  {
+   "host": "Emmy",
+   "text": "That wraps our look at the latest developments."
+  },
+  {
+   "host": "Graham",
+   "text": "Full sources and the live map at the Michigan Data Center Tracker."
+  },
+  {
+   "host": "Emmy",
+   "text": "We're back tomorrow."
+  },
+  {
+   "host": "Graham",
+   "text": "Thanks for listening."
   }
  ],
- "episode_title": "Ypsilanti Moratorium Targets U-M Data Center Power Lines",
- "show": "Evenings with Graham & Emmy",
- "daypart": "Evenings"
+ "episode_title": "Ypsilanti Twp Moratorium Targets Power Lines for U-M Data Center Project",
+ "show": "Mornings with Graham & Emmy",
+ "daypart": "Mornings"
 }
