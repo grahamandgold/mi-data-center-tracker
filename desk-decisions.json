@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://finance.yahoo.com/economy/article/heres-the-biggest-risk-to-americas-data-center-building-boom-121942236.html",
-   "title": "Labor Shortages Pose Growing Risk to U.S. Data Center Construction Boom",
-   "at": "2026-08-13T19:37:21+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece about labor shortages with no Michigan-specific angle, development, or decision."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOLUVmRmRGVWNpUHdxeUdvRkhCaGREUVZJaWpfVDNrM2F0X25sNWVUMGZJblZRR0xKRUtlSzJVdlhuVVJJdk1OS2xuelJjQXhuWnA3R0lac2o0RHlIQ2NrUWxOVFVaaUttcVRWNEJxSVJYUUZoY0s1X2gxdy1OcUp1cTdXYkdMQlluYnRmUUxCak9YSkVDQ21MbWtyb1VfQm9RNHhtNHNDYkFDV3BhX3JkemRaeDFqMFZ2Z1d5Sl93ZFNDOUFXdWJCZ1pDN0ZDRWhHUnRSS0pBRUxGZw?oc=5",
-   "title": "Data centers emerge as flashpoint in Lawrence-Barrett congressional race",
-   "at": "2026-08-13T20:54:53+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Campaign trail positioning on data centers in a congressional race; lacks concrete policy action or new development."
-  },
-  {
    "url": "https://www.facebook.com/detroitchamber/posts/on-thursday-august-13-at-6-pm-join-the-michigan-for-responsible-data-centers-coa/1479381710891828/",
    "title": "Michigan Coalition Town Hall to Weigh Data Center Development Implications",
    "at": "2026-08-13T21:56:01+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-21T17:37:26+00:00",
    "by": "news_judge",
    "note": "score 4/10: National trend piece quantifying opposition across the U.S. but lacking Michigan-specific developments or decisions; provides context but no actionable news for"
+  },
+  {
+   "url": "https://insideclimatenews.org/news/12082026/michigan-primary-votes-against-data-centers/",
+   "title": "Michigan Voters Delivered Clear Signal Against Data Center Expansion in Recent Primaries",
+   "at": "2026-08-21T19:51:16+00:00",
+   "by": "news_judge",
+   "note": "score 2/10: Vague post-election analysis without specific races, vote tallies, or named candidates—reads like speculative commentary rather than concrete reporting."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQkpPM0xwamJpTDJnY292bkhNQ3o3XzBfX3FOTlN2NU5WT0doWHRVSi1DSTNWZkxSdEVzcHBBY0k3STZ2OWQxYzFURjhMekdyMkpESE5sZzAtcE9kR3ZNOUJjS0FaU3otWkZERU52VFRVcHFLQ0xiSExBdV8zYjh5MlVxa3RQbGVsOUlLX241RmZfTjVzZHNvejJJaEFQYXllNEp5Y1dfYmkxeGV5a3Fndk5wUURVNEw2dldmeVB3?oc=5",
+   "title": "Michigan residents say data centers steamroll local voices on power and taxes",
+   "at": "2026-08-21T19:51:16+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: General Bridge Michigan feature aggregating resident concerns already covered in multiple live stories (Saline, Palmyra, Ypsilanti); no new specific event or de"
   }
  ],
  "auto_published": [
