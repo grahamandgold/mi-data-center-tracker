@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdWlDQ05ZaGo5TEFaTUhyMjMybHRfVHlobmhGSjVycWhGbndyVXBfbTNSWmQwaWZaSHpUNnV2NzZFTXZaZEVoTjFFb3FGSkRrUXMzMVBoaEZRSlJ5STY3dGYtYXQ5LVdCY2JzUHJXb1NDTFFfOFlhWnBLdHRDRkVFM1pURnc2MGpETGxVZkVXaEZsN3ZlcFBNTDFSMEFkcUl0bTFoaWpmSVJ1dUhWNXVFVGlSVXdNV2R0MlJwd1l2anhWMklob25OOA?oc=5",
-   "title": "MLive explains why data centers are reshaping Michigan towns",
-   "at": "2026-08-13T15:06:47+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Explainer/overview piece rehashing already-covered Michigan developments rather than reporting a new event or decision."
-  },
-  {
    "url": "https://www.fox2detroit.com/video/fmc-xijj9uowt88git6t",
    "title": "UM Regent Urges Pause on Proposed Ypsilanti Township Computing Center",
    "at": "2026-08-13T16:29:12+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-21T10:38:58+00:00",
    "by": "news_judge",
    "note": "score 4/10: National utility rate decision with potential precedent value but no direct Michigan impact; thin relevance for Michigan data center tracker."
+  },
+  {
+   "url": "https://fortune.com/2026/08/20/data-centers-money-era-morgan-stanley/",
+   "title": "Morgan Stanley Warns Community Resistance Now Poses Major Financial Risk to Data Center Development",
+   "at": "2026-08-21T11:33:37+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: National trend piece from a financial institution about community resistance as investment risk—no Michigan-specific development, decision, or filing."
   }
  ],
  "auto_published": [
