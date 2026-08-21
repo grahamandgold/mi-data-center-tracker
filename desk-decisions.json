@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.facebook.com/wwmtnews/videos/httpsbitly3urx2xm-data-centers-are-dominating-michigan-politics-and-more-local-l/1722020525744456/",
-   "title": "Data Center Development Sparks Political Debates Across Multiple States",
-   "at": "2026-08-13T11:55:15+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece aggregating multiple states' actions without specific Michigan development or decision."
-  },
-  {
    "url": "https://apnews.com/article/data-centers-power-demand-2026",
    "title": "Data Center Power Demand Surges Prompt New Regulatory Scrutiny Across Multiple States",
    "at": "2026-08-13T13:36:30+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-21T07:50:49+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: This is the same Ypsilanti Township moratorium already live: 'Ypsilanti Township Board Approves Land-Use Moratorium Targeting Electric Infrastructure for Data C"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOFJmWnF1Z2p6RVphNFU0b2FuT082OWVNWlBIMk1POGNtQjZNS1ZOQUVXTjgwT1F3TFFOWTE5Qk1OV2JrSUFTY1F3dXFBWWNKYm9oanpZTkJNZGhnVmtRRWFQdWhTYXNLZDJ5YVdEdlZ0OWZQekw4MDZ0bF9hSjVRZ0kwRk1PVXgxTGo2N3RVWUZsSDNsZXk1OHJFY9IBrwFBVV95cUxON3A0aXp1c2FUNml3akdzTFlwX0JfSjQyY3ZzY2NXU2gtcnJ3VUpyT1NhcUllV2g3RkN4RE1mZ3dGTXBtNkpETnh5WHZvazlJckpPYkR2X1dYVTBxZUE3QVlRWGhnMWpYTlVnd2htRlhza2pKTWVUMU9fTV84R2M0dks5a2ZmQ2RhVzBEd0tpVWp6ZHp1dGNpdGhZUV8wUmdmYXZoNHRZNkxVY3hUbWM0?oc=5",
+   "title": "Property owners push city border change to unlock server farm construction",
+   "at": "2026-08-21T08:51:53+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: This is the same Vevay Township Mason annexation story already live, just reworded with 'city border change' and 'server farm' instead of 'data center.'"
   }
  ],
  "auto_published": [
