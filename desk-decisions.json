@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.datacenterdynamics.com/en/news/bloomberg-nef-texas-grid-pause-puts-20-percent-of-us-data-center-pipeline-at-risk/",
-   "title": "Texas grid pause puts 20% of U.S. data center pipeline at risk, BloombergNEF warns",
-   "at": "2026-08-13T18:31:30+00:00",
-   "by": "news_judge",
-   "note": "score 2/10: National trend piece about Texas grid issues with no Michigan angle or relevance to Michigan data center buildout."
-  },
-  {
    "url": "https://finance.yahoo.com/economy/article/heres-the-biggest-risk-to-americas-data-center-building-boom-121942236.html",
    "title": "Labor Shortages Pose Growing Risk to U.S. Data Center Construction Boom",
    "at": "2026-08-13T19:37:21+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-21T16:44:00+00:00",
    "by": "news_judge",
    "note": "score 3/10: Vague messaging/political response piece with no specific event, filing, or decision reported."
+  },
+  {
+   "url": "https://www.datacenterwatch.org/report",
+   "title": "Report Details $64 Billion in U.S. Data Center Projects Blocked or Delayed by Local Opposition",
+   "at": "2026-08-21T17:37:26+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: National trend piece quantifying opposition across the U.S. but lacking Michigan-specific developments or decisions; provides context but no actionable news for"
   }
  ],
  "auto_published": [
