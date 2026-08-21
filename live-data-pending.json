@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-21T04:12:59+00:00",
+ "updated_at": "2026-08-21T05:08:14Z",
  "generator": "grok-wire-agent",
  "items": [
   {
@@ -142,5 +142,5 @@
    "judge_note": "Concrete legislative development: Jeremy Moss added as co-sponsor to utility rate bill targeting data centers, a new action on a relevant bill."
   }
  ],
- "accuracy_checked_at": "2026-08-21T04:12:56+00:00"
+ "accuracy_checked_at": "2026-08-21T05:08:10+00:00"
 }

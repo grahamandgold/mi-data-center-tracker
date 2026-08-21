@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-21T04:12:55+00:00",
+ "updated_at": "2026-08-21T05:08:14Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Washtenaw data center projects advance under new local oversight",
+   "dek": "The Sun Times News weekly roundup shows oversight expanding in Washtenaw County as multiple data center proposals move forward. Residents 30 miles away feel the impact through rising power demand and potential tax deals. Local boards are tightening rules on size and location rather than waiting for state action.",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNnZXRFk0YnFURVBxV1IwSkloTnRwLURkckpFTm1SdUNnU3R6STR1VWNmOWE2TGp6bGFLYzhxR1lKam85d21vR08tYjJFWFRmR1EyYlNaXzBUYkp6MTZ6NGZ4Y2pyV2ZlYlVYRU9tVDZfY2EyRDhMUE91alJKaFpUbkY1TS1id0FESy1Da0ZXRVR1MkRsZXg2MUxQak1lVnlUdDg3Qw?oc=5",
+   "source": "The Sun Times News",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Local Government",
+   "iso": "2026-08-21T00:26:24Z",
+   "id": "66ca0f65614d",
+   "origin": "google-news",
+   "source_title": "Weekly Data Center Watch: Local Oversight Expands as Projects Move Forward - The Sun Times News",
+   "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNnZXRFk0YnFURVBxV1IwSkloTnRwLURkckpFTm1SdUNnU3R6STR1VWNmOWE2TGp6bGFLYzhxR1lKam85d21vR08tYjJFWFRmR1EyYlNaXzBUYkp6MTZ6NGZ4Y2pyV2ZlYlVYRU9tVDZfY2EyRDhMUE91alJKaFpUbkY1TS1id0FESy1Da0ZXRVR1MkRsZXg2MUxQak1lVnlUdDg3Qw?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
   {
    "title": "Vevay Twp landowners push Mason annexation to clear path for data center",
    "dek": "Property owners in Vevay Township want their land moved into the city of Mason so a data center can move forward. The annexation would shift tax revenue and local control from the township to the city. Residents 30 miles away in Lansing or Jackson could see new power and water demand if the project advances.",
@@ -167,23 +184,6 @@
    "origin": "google-news",
    "source_title": "Residents speak out against data center at Mason City Council meeting - WLNS 6 News",
    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeC1PRENJaU5qTFQ3S2kxZVJ4czJKMHpRckUxek1jYUZ2V0VBcDlsNkZkRmdocWowMElwLUpGbUtNVlRHQVVoclh0VnhxWXJ1Q2NMMXhaU0N5RjFYbmc4Tm9sc3NKZjJmbmhMMG5TemhKdDVoNTdBU1ZNc1E5YVZiU2d0TlRiMDJoUEt1T0hrbWUtS3F0MGF3ZjBUZ1RfZWNydFUzemJMOEZTZw?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
-  },
-  {
-   "title": "St. Joseph County weighs year-long data center moratorium",
-   "dek": "Officials are considering a pause on new proposals after residents raised alarms over power and water use. A moratorium would give the county time to write rules before projects lock in land and utility contracts. Southwest Michigan communities should care because the decision will influence how quickly data centers spread into rural counties.",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMTZxZjhOdXVzaGlpRURIamxVWW9tVXl2bXVNWlpsbXpoVHFSQjRab2lxd2c1enhZZnpaMnM4NWlrbFJ1eUE4MVNiTnVEWEV3X1F2MzhvcXlHaG8wa1Y1MDFVRXJXMDNHYThSUlYyekZ0X1RjZkhKRDc0WEJiTktqR283M2MwWWxD?oc=5",
-   "source": "WSBT",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "St. Joseph",
-   "tag": "Local Government",
-   "iso": "2026-08-19T22:43:09Z",
-   "id": "2567cc82cf07",
-   "origin": "google-news",
-   "source_title": "Push for a data center moratorium in St. Joseph County - WSBT",
-   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMTZxZjhOdXVzaGlpRURIamxVWW9tVXl2bXVNWlpsbXpoVHFSQjRab2lxd2c1enhZZnpaMnM4NWlrbFJ1eUE4MVNiTnVEWEV3X1F2MzhvcXlHaG8wa1Y1MDFVRXJXMDNHYThSUlYyekZ0X1RjZkhKRDc0WEJiTktqR283M2MwWWxD?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
   }

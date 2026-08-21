@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.clickondetroit.com/all-about-ann-arbor/2026/08/12/we-dont-matter-to-them-ypsilanti-township-pushed-back-on-university-of-michigan-los-alamos-data-center/",
-   "title": "Ypsilanti leaders say U-M ignored them on Los Alamos-linked center site",
-   "at": "2026-08-13T08:03:40+00:00",
-   "by": "news_judge",
-   "note": "score 4/10, duplicate: Rehashes the already-live Ypsilanti Township rejection story with the same grievances about being ignored and the Los Alamos connection."
-  },
-  {
-   "url": "https://fortworthreport.org/2026/08/12/data-center-moratorium-takes-first-steps-after-fort-worth-city-councils-unanimous-vote/",
-   "title": "Fort Worth nears 90-day halt on new data centers after resident pressure",
-   "at": "2026-08-13T08:03:40+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Fort Worth Texas story already killed; this is the same 90-day pause development in a non-Michigan city."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN1NUSGJraFdQZWE1TnM4dmpMWTZCY09VUDFOWHhGOGViakNFVjRodlF1YVNaT3VYNlVjVGUtSk1hNGdadzJaSVFKTUcyLV8yVHB3LVhLcWI3aUdYdDVtV09uV2xTUHloOEpqVnJnTERfTXRnd3pMbGpVZUpYYnA4Z1hjcFdyUDMxYXF4X0gwZzg1UUlDMWcwTDYxalR5eDFlS1U0bQ?oc=5",
    "title": "El-Sayed uses Michigan data center backlash to fuel Senate campaign",
    "at": "2026-08-13T08:03:40+00:00",
@@ -1399,15 +1385,23 @@
    "at": "2026-08-21T04:12:59+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Same Barrett federal override bill already killed multiple times in different phrasings."
+  },
+  {
+   "url": "https://about.bnef.com/insights/data-centers/six-things-to-know-about-bnefs-new-us-data-center-capacity-outlook/",
+   "title": "BloombergNEF Revises U.S. Data Center Capacity Forecast Sharply Upward",
+   "at": "2026-08-21T05:08:14+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece with forecast revision—no Michigan-specific decision or development."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ3FDYlRLemNrUUNiRi1wYURZWHFqM2lCTldCVHVRckxkdEVjNkw5MnJZWEhCRXV4Z2JfUUlYVktGQWdZeEZ0cVY5b3pUb01rVlBKd2RiVGlwQjZwbEw5d0RzY1NoVGdobW9FczZyaDV4QWdTa3BHRXdiNS1NYW5fNnluQ1RZZWwzdE80LW8xSXJlS3lKV01Z0gGcAUFVX3lxTFA4MDZCaC1TZWRyb2ZkU2pKODV5UVhUcnZ0TEpiYjlTYVNsZE91STEyZ3BmV2puckJoYlhJTGZjMTV4QnJKWmpuVklaOXJQQzF0ZWljalVoN2ZzR2YxRC1zTU9xclRqYzY2Y29XQ0xnQURrZ0xWbjd2X1NaTE9xVW1pZGZ4eGhfSWROSEhFcHlBb04wdC1WVHFDWG9wRw?oc=5",
+   "title": "Rogers calls for one-year halt on new Michigan data centers",
+   "at": "2026-08-21T05:08:14+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Same Rogers one-year halt proposal already covered in multiple LIVE and KILLED stories."
   }
  ],
  "auto_published": [
-  {
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTGNDVl8yQWhSclVKa1BNNUExNGw5b0VqYjdHWmpnR09IbWdzYURoSkhDYmxyRDB0M0JLS1NxUzJvNFRBV282cGd2N2d5dnZ4dlZNZUhwZTVILVdVMjlXMmxBeWdIYU1LMFVCOXZYQzJEa2lyZjB5TWVqWXZsRGU4OF80bXltUV9mdEwxTnBxWENYME1jMG9qSTU4SS04RWFDeDFF?oc=5",
-   "title": "Portage drafts rules to keep data centers out of neighborhoods",
-   "judge_score": 6,
-   "at": "2026-07-09T18:56:08Z"
-  },
   {
    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOczE0S0RtUU1zR3FiYzFMcFpOaTlpQ3h1SzhVc1lEMkxnUHA0aHNONjNsbUdhQ09wdW45WWN6cFd4RWhYWjV6UlVGakNma1RwZEVZRzhqTlFNc1VpMDZaOXdldWRzNHdZUmlWbENMLTVSV1djWEFUSHJFOW5XZVU1cWJzVTZaWXJCeHhHWW5wel9OV0dTdURaeXBITjNrZTNVOXZfbUtSTVRTTGxWdk9Ma2xyY3hPUlFQcDFiQVBsYnVsY1RPVkpwSkFnR19HS3VoNnNXYUNRdXctbFdBUHllckRkWkzSAeQBQVVfeXFMTnMxNEtEbVFNc0dxYmMxTHBaTmk5aUN4dUs4VXNZRDJMZ1BwNGhzTjYzbG1HYUNPcHVuOVljenBXeEVoWFo1elJVRmpDZmtUcGRFWUc4ak5RTXNVaTA2Wjl3ZXVkczR3WVJpVmxDTC01UldXY1hBVEhyRTluV2VVNXFic1U2WllyQnh4R1lucHpfTldHU3VEWnlwSE4za2UzVTl2X21LUk1UU0xsVnZPTGtscmN4T1JRUHAxYkFQbGJ1bGNUT1ZKcEpBZ0dfR0t1aDZzV2FDUXV3LWxXQVB5ZXJEZFpM?oc=5",
    "title": "Rural township hits pause on data-center tax deal after backlash",
@@ -3201,6 +3195,12 @@
    "title": "Vevay Twp landowners push Mason annexation to clear path for data center",
    "judge_score": 7,
    "at": "2026-08-20T23:54:45Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNnZXRFk0YnFURVBxV1IwSkloTnRwLURkckpFTm1SdUNnU3R6STR1VWNmOWE2TGp6bGFLYzhxR1lKam85d21vR08tYjJFWFRmR1EyYlNaXzBUYkp6MTZ6NGZ4Y2pyV2ZlYlVYRU9tVDZfY2EyRDhMUE91alJKaFpUbkY1TS1id0FESy1Da0ZXRVR1MkRsZXg2MUxQak1lVnlUdDg3Qw?oc=5",
+   "title": "Washtenaw data center projects advance under new local oversight",
+   "judge_score": 6,
+   "at": "2026-08-21T05:08:14Z"
   }
  ]
 }
