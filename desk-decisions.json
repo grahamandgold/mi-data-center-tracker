@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.detroitnews.com/story/opinion/2026/08/11/data-centers-are-creating-new-opportunities-for-michigans-skilled-trades-opinion/91254860007/",
-   "title": "Data Centers Drive Surging Electricity Demand Across U.S. States",
-   "at": "2026-08-13T06:23:16+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece without Michigan-specific decision or development; lacks concrete local news value."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRk5OaS1SdW9jNkdWMzlUQ3pRaGZSamdGWFFMR0EtaURxaGVtQm1DaUdKTFEwd2FwVEFYYXJrSGNzNTNBSzRhYk9Wa21hdV9ucmJqVHhIT3hQWmcyYXRpWTRBTFR6U0Q5VTNCQkczVUQ0UnRuX2c4V0FpUWdPeXUwSHZKek1CYnp1WGxHcm1KaUtwbXVtMUx5cUdqUGd5T1lDUzE5OWtsMVBkNElFWUV0cFpOa0lvQWVnZ1l6amtjbHdqSEMtalBoT0k5ZXlpdHNjQndOT3B2VHRZYkQwUGJwYXlGRlgyZ1dWY1p1N2NBUnRpTmdra0hqZw?oc=5",
-   "title": "Ypsilanti Township tells U-M and Los Alamos their data center is not welcome",
-   "at": "2026-08-13T06:23:16+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicate of 'Ypsilanti Township rejects University of Michigan data center site' already live; same rejection event reworded."
-  },
-  {
    "url": "https://www.clickondetroit.com/all-about-ann-arbor/2026/08/12/we-dont-matter-to-them-ypsilanti-township-pushed-back-on-university-of-michigan-los-alamos-data-center/",
    "title": "Ypsilanti leaders say U-M ignored them on Los Alamos-linked center site",
    "at": "2026-08-13T08:03:40+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-21T03:12:10+00:00",
    "by": "news_judge",
    "note": "score 3/10: National development in Kentucky with no Michigan angle; thin relevance for Michigan data center tracker readers."
+  },
+  {
+   "url": "https://www.facebook.com/CBS6Albany/videos/data-center-plans-are-seeing-some-pushback-in-nys-morningminute/1018120163877403/",
+   "title": "New York communities push back against proposed data centers amid rising local concerns",
+   "at": "2026-08-21T04:12:59+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece about New York localities with no Michigan-specific development or decision."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOajJfUkxwamI5VFI4XzhaelExaHNUaHZsbVpPbTZhcWl1UHZPVzl2NzYzVVYwdU1QUUJwMjJTSDl3a2ROWlhnZWthRENmNVFEMW9jR2wwWl82Z29UVTkyYUtqNEdMSnAyYzY2ZDJibHJFSzh2dDVJcmhHbWJ6Z29ncFNYRm1NVWRCYnFLUU1Fam5ZMDA4VUlmcVgxYklBWk13U3NDdC1qeWlQUUNfTkt5Q1JqZ2R6Qlk?oc=5",
+   "title": "Barrett bill would let Michigan towns block data centers outright",
+   "at": "2026-08-21T04:12:59+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Same Barrett federal override bill already killed multiple times in different phrasings."
   }
  ],
  "auto_published": [
