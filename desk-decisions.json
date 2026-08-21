@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.thecooldown.com/green-tech/abdul-el-sayed-senate-candidate-michigan-data-centers-campaign/",
-   "title": "El-Sayed Rallies at Saline Site to Block Data Centers Lacking Federal Rules",
-   "at": "2026-08-13T16:29:12+00:00",
-   "by": "news_judge",
-   "note": "score 5/10: Campaign rally/stump speech is incremental to the already-killed El-Sayed campaign stories; no new policy action or decision, just political positioning at a si"
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWG5jV294clVrZDNyNjFmUkFNX0lvd254elR5LTdHZnRfaURGVEQ1UjYwRW51M09YSVd1cHBzb01ObmZ5bmxmT2laWUszU0JaemFXak52V3pENS1vcDRWMUF4UTJjRDJERHJkN0loVlRKbWhRYk9IdXY5OERaazRKNDRpZDlnRUhCRXQyR19zcHdMSXpxT2VOdnhxcDNqZ2hhMm53V3FZYUhscnZ2T3lfeU1pN3dWUGJx?oc=5",
    "title": "Ypsilanti township vows to fight U-M's $1.2B data center site",
    "at": "2026-08-13T16:29:12+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-21T13:53:54+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece with no Michigan-specific development, decision, or filing—generic update on power demand and vague references to 'several states' consider"
+  },
+  {
+   "url": "https://www.mprnews.org/story/2026/08/20/google-launches-a-charm-offensive-in-2-minnesota-towns-as-data-center-opposition-grows",
+   "title": "Google holds events in Hermantown and Pine Island to promote data centers",
+   "at": "2026-08-21T14:44:13+00:00",
+   "by": "news_judge",
+   "note": "score 2/10: Community outreach events in Minnesota (not Michigan) with generic protest mention; no concrete development or decision reported."
   }
  ],
  "auto_published": [
