@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-21T11:56:32+00:00",
+ "updated_at": "2026-08-21T13:04:06Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Hyperscale Data sells $43M Bitcoin to bankroll Michigan data center push",
+   "dek": "The firm offloaded 685 BTC and cut debt by $30M, freeing cash specifically earmarked for its Michigan buildout. Michigan residents will feel the impact through added power demand, water use, and potential tax deals tied to the project. The move shows how crypto volatility now directly funds local infrastructure plans.",
+   "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQQ0ZON3RYVTJDUi1wY1R1ZzBGMFY5cHMzN3c5bU1iTWlqMENSUVAtd25IeGJlVV9SWmNDc0lZT0hvOW11WVRvWTlVVVFMMmgwbnR1Q1F0U296ajRmMnVNcmx0SlJ0NzVHQTBXcDdRYmZsa21EdTM2MjFRM0JYTFFIVEZ4ekFzQVR4ZjRJSHNVT1JLc0hCOXVGMXFfbm43aTJxakhnUjhWbXRLMnZRVFh4OWtrNllNOGViRkdnTTlsMUU3NGNIR1ZDUlN5U3FwcnN2cUdjbGVRWFVoSDRIZDZPRGNZWXIwRzFWTTZZZUt2ZHo1R2JRTjZmdFV3dDJBSXAtd21fNDJzVHNacVdKQXN4cDV6YjdTbXhoVFNCMkZrZDl0MERpbXpfTVU4YVJGMlZGU0xNR0N3V2tpemM?oc=5",
+   "source": "Bitcoin World",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Money",
+   "iso": "2026-08-21T11:17:02Z",
+   "id": "8622fcc50ee2",
+   "origin": "google-news",
+   "source_title": "Hyperscale Data Has Sold Approximately 685 Bitcoin for Approximately $43 Million, Reduces Debt by Approximately $30 Million and Strengthens Liquidity to Support Michigan Data Center Buildout - Bitcoin",
+   "source_url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQQ0ZON3RYVTJDUi1wY1R1ZzBGMFY5cHMzN3c5bU1iTWlqMENSUVAtd25IeGJlVV9SWmNDc0lZT0hvOW11WVRvWTlVVVFMMmgwbnR1Q1F0U296ajRmMnVNcmx0SlJ0NzVHQTBXcDdRYmZsa21EdTM2MjFRM0JYTFFIVEZ4ekFzQVR4ZjRJSHNVT1JLc0hCOXVGMXFfbm43aTJxakhnUjhWbXRLMnZRVFh4OWtrNllNOGViRkdnTTlsMUU3NGNIR1ZDUlN5U3FwcnN2cUdjbGVRWFVoSDRIZDZPRGNZWXIwRzFWTTZZZUt2ZHo1R2JRTjZmdFV3dDJBSXAtd21fNDJzVHNacVdKQXN4cDV6YjdTbXhoVFNCMkZrZDl0MERpbXpfTVU4YVJGMlZGU0xNR0N3V2tpemM?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "Washtenaw data center projects advance under new local oversight",
    "dek": "The Sun Times News weekly roundup shows oversight expanding in Washtenaw County as multiple data center proposals move forward. Residents 30 miles away feel the impact through rising power demand and potential tax deals. Local boards are tightening rules on size and location rather than waiting for state action.",
@@ -167,23 +184,6 @@
    "origin": "google-news",
    "source_title": "Bay City residents voice opposition to data centers at planning commission meeting - MLive.com",
    "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZUhPMjBCZkcybzR2VDBYS3dDM2d6ejg0NVE4aXNNUmxXY2FSVTNyQUIyLW9GRHoxMWpTV1NBQ1JTV2tiOUhMQUFnQmlzMldQeERrd1czbHN0VGM0LXJ2YXBXTGJjUXB3SlIyU1ZoX0tBcGRaVS1yQ2VEekl1dDg0Uzk0akgwUXdPaHU1OHBIcGZjcmE2cnF3WDh4dmdVZ0ZTTS0wZW1DZVc4NXZSYVhBOHhjUG1YXzBVMV83TllzVVpFUXc1R3ZxUnZkbmVjb1dRNnRqYkVR0gHqAUFVX3lxTE1MbUthb3hteVY0MmtXeDlFbF9XQnZuN19SbnF1SjFTX0xxZHk0MkNnMXNwckd1U2FqQXFhQkhBSFhaZVlhbmtsTjl1M1dnc0d0YXlIcGhTdXdsT2xDMkl2Z2lUVjNfY2JIS1Q1anQ0NEdrdldxWDJ4OGF2bjItVERtQ0dSa3RWQUlrTFBEN1lDQzdIMzdmcExuZTNQYWRWVm1iTXBHbmwyX1gxbXBZVVVNUkRLOWFzd3V5N1pmLThGb29DeEVRakJ1WjNkUlJrUHVpM2ZqVzJobGZSckx4WmVURlBIQkNnRHFSZw?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
-  },
-  {
-   "title": "Mason residents reject data center proposal over grid and water strain",
-   "dek": "City council heard repeated warnings that the project would push local utilities past capacity and raise rates for households. Speakers questioned whether promised tax revenue would offset the long-term costs to residents. The debate reflects wider worries in mid-Michigan towns about who pays when big tech arrives.",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeC1PRENJaU5qTFQ3S2kxZVJ4czJKMHpRckUxek1jYUZ2V0VBcDlsNkZkRmdocWowMElwLUpGbUtNVlRHQVVoclh0VnhxWXJ1Q2NMMXhaU0N5RjFYbmc4Tm9sc3NKZjJmbmhMMG5TemhKdDVoNTdBU1ZNc1E5YVZiU2d0TlRiMDJoUEt1T0hrbWUtS3F0MGF3ZjBUZ1RfZWNydFUzemJMOEZTZw?oc=5",
-   "source": "WLNS 6 News",
-   "region": "mid",
-   "cat": "STATEWIDE",
-   "county": "Ingham",
-   "tag": "Local Government",
-   "iso": "2026-08-20T00:18:40Z",
-   "id": "272f041c9a28",
-   "origin": "google-news",
-   "source_title": "Residents speak out against data center at Mason City Council meeting - WLNS 6 News",
-   "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeC1PRENJaU5qTFQ3S2kxZVJ4czJKMHpRckUxek1jYUZ2V0VBcDlsNkZkRmdocWowMElwLUpGbUtNVlRHQVVoclh0VnhxWXJ1Q2NMMXhaU0N5RjFYbmc4Tm9sc3NKZjJmbmhMMG5TemhKdDVoNTdBU1ZNc1E5YVZiU2d0TlRiMDJoUEt1T0hrbWUtS3F0MGF3ZjBUZ1RfZWNydFUzemJMOEZTZw?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
   }
