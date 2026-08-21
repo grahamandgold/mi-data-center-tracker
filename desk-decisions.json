@@ -1,27 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVDZfQkFXRXhfNnVIY3BxRkVnZl9EMWlrNGdVYTBZaFk0aXJfLWZLaHp1NzJXRHpaVkhRMzRaTXJfaFplX3JMNzZqaFFCdVJpam4wblZjbW1fZEVVczFQbDdnTHBmVGRDNFRRNWdiTkhhdXpxMUxvUlNpYXNqN1pXRUlwelZqM1hyZ1ZUMlZIVWFlVkE?oc=5",
-   "title": "El-Sayed makes data center backlash a centerpiece of Senate campaign",
-   "at": "2026-08-13T02:37:20+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Campaign messaging about data centers as an issue, not a concrete development or decision in the buildout itself."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWkk5dDRpcVROWFFjNEhYUFhaTk5pTTNlZ040djEzbHJpRHRSa3d0Um1FSV95WWI3R3lTU2RRNXpNaHBmSGxqcHlCR09aSF9jalZUNDVmMzNnX2RBamRQTXlVWm5KVkN5LVkzZWRSRGhELUhzdW9CS29kS2NVUXZDUlk3aVVMMWlvUG5NLTY4SG5mdk9uNVFwTXk3RmN4V3RseWNKbjVzWU5uQnQ2WWluVU5waDNidDY4T1ZIb2lLUE5yaHVHazVHczhQRzBMUlJKdzhF?oc=5",
-   "title": "UMich picks Ypsilanti site for Los Alamos-linked computing center",
-   "at": "2026-08-13T02:37:20+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Same UM site selection and Ypsilanti Township objection already covered in multiple LIVE stories (Ypsilanti Township rejects/vows fight against UM's Huron River"
-  },
-  {
-   "url": "https://michiganadvance.com/2026/08/12/university-of-michigan-selects-site-for-los-alamos-computing-center/",
-   "title": "University of Michigan Narrows Site for Los Alamos Research Computing Center in Ypsilanti Township",
-   "at": "2026-08-13T06:23:16+00:00",
-   "by": "news_judge",
-   "note": "score 4/10, duplicate: Rehashes the already-killed UM site selection story; 'narrows site' and 'picks site' report the same underlying decision."
-  },
-  {
    "url": "https://www.detroitnews.com/story/opinion/2026/08/11/data-centers-are-creating-new-opportunities-for-michigans-skilled-trades-opinion/91254860007/",
    "title": "Data Centers Drive Surging Electricity Demand Across U.S. States",
    "at": "2026-08-13T06:23:16+00:00",
@@ -1399,6 +1378,27 @@
    "at": "2026-08-20T23:33:53+00:00",
    "by": "news_judge",
    "note": "score 3/10, duplicate: Duplicate of already killed stories about Barrett's bill blocking federal override."
+  },
+  {
+   "url": "https://www.facebook.com/wilxnews10/posts/property-owners-in-vevay-township-have-applied-to-annex-more-than-400-acres-of-l/1586964366210298/",
+   "title": "Vevay Township Owners Seek Annexation of 400+ Acres for Proposed Data Center",
+   "at": "2026-08-21T03:12:10+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This is the same Vevay Township annexation filing already covered in the live story about landowners pushing Mason annexation for a data center."
+  },
+  {
+   "url": "https://www.wkar.org/election-2026/2026-08-20/barrett-legislation-would-bar-federal-override-of-local-data-center-decisions",
+   "title": "Barrett Bill Aims to Shield Michigan Residents from Data Center Costs",
+   "at": "2026-08-21T03:12:10+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Barrett bill blocking federal override of local data center rules has been killed multiple times already in different phrasings."
+  },
+  {
+   "url": "https://www.wsj.com/topics/industry/data-centers",
+   "title": "Brookfield and NextEra Plan $100 Billion Data Center Campus on Kentucky DOE Site",
+   "at": "2026-08-21T03:12:10+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National development in Kentucky with no Michigan angle; thin relevance for Michigan data center tracker readers."
   }
  ],
  "auto_published": [
