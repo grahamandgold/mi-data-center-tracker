@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.cbsnews.com/detroit/news/university-of-michigan-ypsilanti-township-data-center/",
-   "title": "Ypsilanti Township Rejects U-M's Proposed $1.25B Huron River Data Center",
-   "at": "2026-08-13T09:21:40+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: This is the same Ypsilanti Township rejection of the U-M data center already live in the queue, just with additional color details."
-  },
-  {
    "url": "https://example.com/national-dc-power",
    "title": "U.S. Data Center Power Demand Continues Surge Amid National Grid Strain Reports",
    "at": "2026-08-13T09:21:40+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-21T06:01:06+00:00",
    "by": "news_judge",
    "note": "score 4/10: Thin political repositioning story without a concrete new vote, filing, or policy action—speculative campaign framing rather than a documented development."
+  },
+  {
+   "url": "https://www.politico.com/news/2026/08/20/republican-mike-rogers-michigan-data-center-moratorium-01044140",
+   "title": "Michigan Senate Race Highlights Data Center Regulation Divide",
+   "at": "2026-08-21T06:59:45+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: National campaign trend piece rehashing Rogers' already-covered moratorium position with no new policy development or concrete action."
   }
  ],
  "auto_published": [
