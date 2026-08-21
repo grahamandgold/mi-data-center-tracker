@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.theguardian.com/us-news/2026/aug/12/datacenter-everglades-risk",
-   "title": "600MW data center near Everglades could raise power bills and algal bloom risks",
-   "at": "2026-08-13T23:52:24+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National/Florida story with no Michigan angle; falls into the 'national trend piece' category despite concrete project details."
-  },
-  {
    "url": "https://www.clickondetroit.com/video/news/2026/08/13/township-pushes-back-against-data-center-proposal/",
    "title": "Ypsilanti Township Officials Resist 144-Acre University of Michigan Data Center Site",
    "at": "2026-08-14T06:00:30+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-21T20:56:14+00:00",
    "by": "news_judge",
    "note": "score 1/10, duplicate: Rogers' call for a halt has been covered multiple times in already-live and killed stories; no new development here."
+  },
+  {
+   "url": "https://www.washingtonexaminer.com/daily-on-energy/4696677/daily-on-energy-mike-rogers-call-for-a-data-center-pause/",
+   "title": "Senate hopeful Mike Rogers urges one-year pause on new Michigan data centers",
+   "at": "2026-08-21T21:54:20+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This is the same Rogers moratorium call already covered in multiple killed stories ('Rogers calls for one-year halt on new Michigan data centers' and 'Mike Roge"
   }
  ],
  "auto_published": [
