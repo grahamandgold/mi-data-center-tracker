@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-21T21:54:10+00:00",
+ "updated_at": "2026-08-21T22:33:48Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Firm behind Mason data center project finally named",
+   "dek": "A development company has been identified for the proposed data center in Mason. Ingham County residents now know who is behind the project that could affect local power use and taxes. The disclosure gives the community a clearer target for questions about water, noise, and grid impact.",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS1djNUt1bkpBc0w3dWRCTkVOM1A4LWduOTZBYnBSQ2J3dDNpaW9UYkc3NmlfOGFtSnBsQmhGRl9WbVNDbld0MGxhMFk1TGdRN1FkUmZQR0FmbllVcUlJZjdZWDg5ZjM3cm1jQ3hSLTRJME1pTTJCa0RXSVFfejRXLVN5c2k1b1VDVFNnVzZ2TDByb3c0RE1MS3paYnN4eThMS095X1JJeG11YUo3cUotdnpRRWZuZTFZYzFWZXo5NUE5Mkc5WmhzWENlUGE?oc=5",
+   "source": "Lansing State Journal",
+   "region": "mid",
+   "cat": "STATEWIDE",
+   "county": "Ingham",
+   "tag": "Local Government",
+   "iso": "2026-08-21T22:25:00Z",
+   "id": "520b909f4ce9",
+   "origin": "google-news",
+   "source_title": "Development firm behind proposed Mason data center identified - Lansing State Journal",
+   "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS1djNUt1bkpBc0w3dWRCTkVOM1A4LWduOTZBYnBSQ2J3dDNpaW9UYkc3NmlfOGFtSnBsQmhGRl9WbVNDbld0MGxhMFk1TGdRN1FkUmZQR0FmbllVcUlJZjdZWDg5ZjM3cm1jQ3hSLTRJME1pTTJCa0RXSVFfejRXLVN5c2k1b1VDVFNnVzZ2TDByb3c0RE1MS3paYnN4eThMS095X1JJeG11YUo3cUotdnpRRWZuZTFZYzFWZXo5NUE5Mkc5WmhzWENlUGE?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "St. Joseph County weighs two-year freeze on data center projects",
    "dek": "County leaders are debating a moratorium that would block new proposals while they study impacts on roads, water and electricity. Residents nearby worry about higher utility bills and lost farmland. A decision could set the tone for other southwest Michigan townships.",
@@ -171,23 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTWlwemFnaGM5cnZPaWVXb0Q0YTUwTjdON3dwVXJOQV91b3U4VDN6UWNJN0dnZS10Z2V4RnZSSHFpYnEtX0JFQTd4SmNZTW16YzNOR2lKRGpFYUpteGxUV1dUc2hVd1VCR1BURE10VkY4dHR5VXhUYU50VTQ2SW9vNTRiZ3Bnd3IxTFZFNGtxbldyVmY5SGp6cjZmU3J1ZmxtbHVyejVzUEVmdWd2ZXZnWFhQMk9hRVdzNVRUM0I3LXNUNjBuSUxjSNIB3AFBVV95cUxPREtNd0k4ZzJwMEZXRlJpY2FOM0xQdndPZmZOX3hrTFBvV2FKSERCOTh3LUpTNmdvRHhYM1JqNU9DSHpidzNrbkU0NVBaejNkdkpmYlVkU2c5ZGl5SnhnbVVzSkdSLXpiOFdVNkowUC1KTWRVLTlCd3JQa004dnlzNl8zRXRqT1Bmb2RnQVZLekdibkg0RjRoRHM1cWVzaV9pYVM5OWNhZmhxVklVa0IyNmFHN2xkQkRxakg4dVhWY0ZMbzVLaVlyNUs2ejRZcC1uZDFSLWszSVRSalZo?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
-  },
-  {
-   "title": "New Buffalo Township rejects special land use for proposed data center site",
-   "dek": "The township board turned down a request to allow a data center on Kluver Road after hearing resident concerns. The denial keeps the project from advancing for now in this southwest Michigan community. Locals worry about water use and noise if similar proposals return.",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObmEwUXhhZnpBcWw4am11dmlLczJFR0d3WFhaVkEzVGFKXzZDWHZ6WFNLNElXZ2RIektaemxQUGY4bzRzbHowUjNnWDRLUk1PT2FJbzlCX1RqcG5LaDNldHp6S0NJUkIwUURGQlZyMG0tYVpuc044LWV6aUIwb3pyRHFtamVNMTBIM1JNaHVib0F1VUZreVVMSDFfZ19veUZWbTc1YTE0cVgwSUQxeWVzZXNQOHR0X2lsbzk3eDRjTTFvbWhZblpqRkZuR3NyVmFUd25zZTItSjhsN2w2Q3VjVmxR?oc=5",
-   "source": "Harbor Country News",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Berrien",
-   "tag": "Local Government",
-   "iso": "2026-08-20T12:40:12Z",
-   "id": "a63af28ce733",
-   "origin": "google-news",
-   "source_title": "New Buffalo Township Board denies SLU for Kluver Road site - Harbor Country News",
-   "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObmEwUXhhZnpBcWw4am11dmlLczJFR0d3WFhaVkEzVGFKXzZDWHZ6WFNLNElXZ2RIektaemxQUGY4bzRzbHowUjNnWDRLUk1PT2FJbzlCX1RqcG5LaDNldHp6S0NJUkIwUURGQlZyMG0tYVpuc044LWV6aUIwb3pyRHFtamVNMTBIM1JNaHVib0F1VUZreVVMSDFfZ19veUZWbTc1YTE0cVgwSUQxeWVzZXNQOHR0X2lsbzk3eDRjTTFvbWhZblpqRkZuR3NyVmFUd25zZTItSjhsN2w2Q3VjVmxR?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 9
   }
  ],
  "national": {

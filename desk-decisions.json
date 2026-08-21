@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.clickondetroit.com/video/news/2026/08/13/township-pushes-back-against-data-center-proposal/",
-   "title": "Ypsilanti Township Officials Resist 144-Acre University of Michigan Data Center Site",
-   "at": "2026-08-14T06:00:30+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: This is the same U-M Textile Road site selection and Ypsilanti Township opposition already covered in multiple LIVE and KILLED stories."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSVp6dHdMS05oU0Q5S1ZTeURyeWdTSWRHVGdPZnFZTUlOdjVUbEdJSklOck5kaTB4S05RQjZEQnlkS0pqYTY4Y3IyMjY3eDFsZlRJVkRBWGM2WV9SVUh2TUZZVm1yeU1iT0ItQmhVNzl6YkstRVJOeU1XRm9qNU4wT0cyd0FrdzdiY1VCRU8xWkwtc2ZPRTZ4QWtIOElaZ1ROTUFUQnNNcjB3X3FkaThSSjdhOVQxV2tKSHpJdzJ5ZWN6Sm9NQzV2TkdxMGg?oc=5",
-   "title": "Negaunee City Council passes new zoning rules for data centers",
-   "at": "2026-08-14T06:00:30+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Negaunee locking in zoning rules for data centers is already LIVE in the approved queue."
-  },
-  {
    "url": "https://www.theoaklandpress.com/2026/08/13/u-m-affirms-ypsilanti-1-2b-computing-center-site-township-officials-vow-fight/",
    "title": "University of Michigan stands by Ypsilanti Township site for $1.2 billion data center despite local opposition",
    "at": "2026-08-14T07:44:21+00:00",
@@ -1399,15 +1385,23 @@
    "at": "2026-08-21T21:54:20+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: This is the same Rogers moratorium call already covered in multiple killed stories ('Rogers calls for one-year halt on new Michigan data centers' and 'Mike Roge"
+  },
+  {
+   "url": "https://www.easternecho.com/article/2026/08/ypsilanti-township-issues-land-use-moratorium-impacting-data-centers",
+   "title": "Ypsilanti Township Pauses Major Utility Builds Near Data Center Site",
+   "at": "2026-08-21T22:33:48+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: This is the same Ypsilanti Township utility moratorium already killed as 'Ypsilanti Township Freezes New Utility Facilities for 180 Days Over Data Center Load.'"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQWElMcmJlaXVTLW56NjZYOW0wLTVFa1p5N1B4SjNBcGF1Z09Dbnp6TERIZjRhX0RSSDZVeE1QeENfT3lnNWhkVThiNEIzdjVNX1VUQWxmZGNDM1JGVTV6TEJYSlRaSm93LUlldjRtMmdlRDNubDhEZ2d1NHBlSzdFN0F4Nnl5RnMyNjc0b2RqRXJNZ01UUGZWMFBCQWoyd1gtZmR3bktUb29lX3NCeUR1WElJbVA1U09aWlVtM2l3M1N4SkJoelZBTl9ZOUo4ZDlWNXZUQm9STWRUS2lVWjhJN0lZMzdEb2NZckR2dkRMaWNvYWFHWTV3WXd4MUdrR2xlS2VRdzZESEFlUQ?oc=5",
+   "title": "Rogers calls for pause on new Michigan data centers",
+   "at": "2026-08-21T22:33:48+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Rogers' call for a pause has been covered multiple times in killed stories including 'Rogers calls for one-year halt,' 'Mike Rogers calls for Michigan data cent"
   }
  ],
  "auto_published": [
-  {
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLWxDRVVqbnFFeWJYdXRrWE1aR0xVZFlJV1FvX0NodGFsNVotaHVwajR1aXVNalBldWQ4Y3pYY19XNnhOWjFlS3RoU2xVVDlHbUxGSEw2TW00ZnFkYXZVRm5MVmZtRlV4LXNLNWJQLURpMUh6ZDg0MXUxd3lYeU0xOUVNV05Zd0d4SGRiRFlB?oc=5",
-   "title": "Saline data center digging threatens ponds and groundwater",
-   "judge_score": 6,
-   "at": "2026-07-10T13:31:31Z"
-  },
   {
    "url": "https://thesuntimesnews.com/saline-data-center-work-raises-dewatering-pond-questions/",
    "title": "Saline Township Checks if Data Center Dewatering Dropped Nearby Pond by Two Feet",
@@ -3201,6 +3195,12 @@
    "title": "St. Joseph County weighs two-year freeze on data center projects",
    "judge_score": 8,
    "at": "2026-08-21T20:56:14Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS1djNUt1bkpBc0w3dWRCTkVOM1A4LWduOTZBYnBSQ2J3dDNpaW9UYkc3NmlfOGFtSnBsQmhGRl9WbVNDbld0MGxhMFk1TGdRN1FkUmZQR0FmbllVcUlJZjdZWDg5ZjM3cm1jQ3hSLTRJME1pTTJCa0RXSVFfejRXLVN5c2k1b1VDVFNnVzZ2TDByb3c0RE1MS3paYnN4eThMS095X1JJeG11YUo3cUotdnpRRWZuZTFZYzFWZXo5NUE5Mkc5WmhzWENlUGE?oc=5",
+   "title": "Firm behind Mason data center project finally named",
+   "judge_score": 7,
+   "at": "2026-08-21T22:33:48Z"
   }
  ]
 }
