@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-21T20:34:26+00:00",
+ "updated_at": "2026-08-21T20:56:14Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "St. Joseph County weighs two-year freeze on data center projects",
+   "dek": "County leaders are debating a moratorium that would block new proposals while they study impacts on roads, water and electricity. Residents nearby worry about higher utility bills and lost farmland. A decision could set the tone for other southwest Michigan townships.",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNakM5cnpkbWYtUlJsMV9hMGlSMzJic2tOQmRONmZPSjE2RHJ1V0tGaWQ0dDhJUkhBMTlnMXJxekpCanNzamZGRHVySUE1YklyMlR5VzNoT1o1T0FoaWlnQWZUQkpEdWJrQ2I5a0ZqQmMzc3UtLWN0ODdOZC1UTUV6TDVqeGZLSVozUDJQYXJ0ZUxmWkhScy1FWE90cnctQ05iNzNmd0NXYmg?oc=5",
+   "source": "WVPE",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "St. Joseph",
+   "tag": "Local Government",
+   "iso": "2026-08-21T19:36:00Z",
+   "id": "71b82b042cef",
+   "origin": "google-news",
+   "source_title": "St. Joseph County leaders debate two-year data center moratorium - WVPE",
+   "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNakM5cnpkbWYtUlJsMV9hMGlSMzJic2tOQmRONmZPSjE2RHJ1V0tGaWQ0dDhJUkhBMTlnMXJxekpCanNzamZGRHVySUE1YklyMlR5VzNoT1o1T0FoaWlnQWZUQkpEdWJrQ2I5a0ZqQmMzc3UtLWN0ODdOZC1UTUV6TDVqeGZLSVozUDJQYXJ0ZUxmWkhScy1FWE90cnctQ05iNzNmd0NXYmg?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "Saline residents voice fears over data center power and tax costs",
    "dek": "Dozens packed a Saline coffee hour to question local leaders about proposed data centers. Residents focused on higher electric bills, water use, and lost tax revenue if big projects win breaks. The session showed how quickly the issue is becoming a flashpoint in Washtenaw County townships.",
@@ -170,21 +187,6 @@
    "source_title": "New Buffalo Township Board denies SLU for Kluver Road site - Harbor Country News",
    "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObmEwUXhhZnpBcWw4am11dmlLczJFR0d3WFhaVkEzVGFKXzZDWHZ6WFNLNElXZ2RIektaemxQUGY4bzRzbHowUjNnWDRLUk1PT2FJbzlCX1RqcG5LaDNldHp6S0NJUkIwUURGQlZyMG0tYVpuc044LWV6aUIwb3pyRHFtamVNMTBIM1JNaHVib0F1VUZreVVMSDFfZ19veUZWbTc1YTE0cVgwSUQxeWVzZXNQOHR0X2lsbzk3eDRjTTFvbWhZblpqRkZuR3NyVmFUd25zZTItSjhsN2w2Q3VjVmxR?oc=5",
    "accuracy": "unverified-source-unfetchable",
-   "judge_score": 9
-  },
-  {
-   "iso": "2026-08-20T04:00:00+00:00",
-   "region": "metro",
-   "cat": "Washtenaw Co.",
-   "tag": "Local Government",
-   "title": "Ypsilanti Township Board Approves Land-Use Moratorium Targeting Electric Infrastructure for Data Centers",
-   "dek": "Trustees unanimously passed the measure at their Aug. 18 meeting to limit major utility projects, directly affecting a proposed University of Michigan and Los Alamos National Laboratory research data center at Textile and Bridge roads.",
-   "source": "The Eastern Echo",
-   "url": "https://www.easternecho.com/article/2026/08/ypsilanti-township-issues-land-use-moratorium-impacting-data-centers",
-   "breaking": false,
-   "lead": true,
-   "id": "9a267775636b",
-   "accuracy": "checked",
    "judge_score": 9
   }
  ],

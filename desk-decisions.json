@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.facebook.com/detroitchamber/posts/on-thursday-august-13-at-6-pm-join-the-michigan-for-responsible-data-centers-coa/1479381710891828/",
-   "title": "Michigan Coalition Town Hall to Weigh Data Center Development Implications",
-   "at": "2026-08-13T21:56:01+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Advocacy coalition town hall is a scheduled event but lacks the weight of an official government action or filing."
-  },
-  {
-   "url": "https://www.greatlakesnow.org/2026/08/13/are-data-centers-the-roads-of-the-future-inside-the-ai-infrastructure-debate/",
-   "title": "Data center debates intensify nationwide as communities weigh energy and water demands",
-   "at": "2026-08-13T22:54:20+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece with only vague reference to Michigan mirroring broader discussions; lacks specific Michigan development, decision, or filing."
-  },
-  {
    "url": "https://www.theguardian.com/us-news/2026/aug/12/datacenter-everglades-risk",
    "title": "600MW data center near Everglades could raise power bills and algal bloom risks",
    "at": "2026-08-13T23:52:24+00:00",
@@ -1399,15 +1385,23 @@
    "at": "2026-08-21T19:51:16+00:00",
    "by": "news_judge",
    "note": "score 4/10: General Bridge Michigan feature aggregating resident concerns already covered in multiple live stories (Saline, Palmyra, Ypsilanti); no new specific event or de"
+  },
+  {
+   "url": "https://www.cnbc.com/amp/2026/08/20/ai-data-center-election-backlash.html",
+   "title": "Pennsylvania Governor Signs Order Adding Strict Data Center Rules as Opposition Spreads",
+   "at": "2026-08-21T20:56:14+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece about Pennsylvania and Florida with no Michigan-specific development or decision."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPSTJRVVIyYnNsWVotOU1EMUYwZ0FQbGdyVVdnQ3NuSUpsbHlTVW5Kd050bjIteFlLdFZmZEgtOTZHYUFtUGxzUzVMYUVQZnlLaGQyN3VrdFpCSFN4RWdtMWViRV9GNXB6NzY5bnoxUkhOdTVVZ0JCQm5mTXp4dFJqVTlrMWRiMnZRZHFRTmNyOUhzVEJFTUtZUkZQcXVQcUlVRXdpeFV1RjhTOEg4Ml9ZWlFvTmNjeUhfWldzMHJkQXdIMG50S3cxM0lxOVZadjF4cGI4OXV5Y0F6cy1SUVFxNlhLQV9aNl9fN0d0THNFZ3E0RFRGbDVhOUQ0bzNWbE5tTmFSWG5LZmM5RXRUUXpR?oc=5",
+   "title": "Rogers calls for temporary halt on new Michigan data centers",
+   "at": "2026-08-21T20:56:14+00:00",
+   "by": "news_judge",
+   "note": "score 1/10, duplicate: Rogers' call for a halt has been covered multiple times in already-live and killed stories; no new development here."
   }
  ],
  "auto_published": [
-  {
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOGlOWWh5V3ZjRzJBYS0tYzRiU3lTbmM2QVZtWV9sWW9JLUVWeGNuVWxFVF9MVElFRWZUQUhWb2hTczhUWTl5OXIzSGVnSVE0M3dsWVJvRkdNYzdwRGVjVHc5ZFZfWWZBZEhkOGpBLXJhd2VwME82dTZuYzlGYUpuVDFmeGNFR2RtLWR3WWw2UUhkSFNZYWJfMWtZMWtmQXF6MW0tZXhGaExNWmRwNGlfcURxTDg?oc=5",
-   "title": "Taylor residents push own rules to block proposed data center",
-   "judge_score": 7,
-   "at": "2026-07-10T13:31:31Z"
-  },
   {
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLWxDRVVqbnFFeWJYdXRrWE1aR0xVZFlJV1FvX0NodGFsNVotaHVwajR1aXVNalBldWQ4Y3pYY19XNnhOWjFlS3RoU2xVVDlHbUxGSEw2TW00ZnFkYXZVRm5MVmZtRlV4LXNLNWJQLURpMUh6ZDg0MXUxd3lYeU0xOUVNV05Zd0d4SGRiRFlB?oc=5",
    "title": "Saline data center digging threatens ponds and groundwater",
@@ -3201,6 +3195,12 @@
    "title": "Saline residents voice fears over data center power and tax costs",
    "judge_score": 6,
    "at": "2026-08-21T16:44:00Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNakM5cnpkbWYtUlJsMV9hMGlSMzJic2tOQmRONmZPSjE2RHJ1V0tGaWQ0dDhJUkhBMTlnMXJxekpCanNzamZGRHVySUE1YklyMlR5VzNoT1o1T0FoaWlnQWZUQkpEdWJrQ2I5a0ZqQmMzc3UtLWN0ODdOZC1UTUV6TDVqeGZLSVozUDJQYXJ0ZUxmWkhScy1FWE90cnctQ05iNzNmd0NXYmg?oc=5",
+   "title": "St. Joseph County weighs two-year freeze on data center projects",
+   "judge_score": 8,
+   "at": "2026-08-21T20:56:14Z"
   }
  ]
 }
