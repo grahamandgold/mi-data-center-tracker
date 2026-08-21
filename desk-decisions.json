@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://example.com/national-dc-power",
-   "title": "U.S. Data Center Power Demand Continues Surge Amid National Grid Strain Reports",
-   "at": "2026-08-13T09:21:40+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece with no Michigan-specific developments or decisions; generic capacity discussion already covered in killed stories."
-  },
-  {
    "url": "https://www.facebook.com/wwmtnews/videos/httpsbitly3urx2xm-data-centers-are-dominating-michigan-politics-and-more-local-l/1722020525744456/",
    "title": "Data Center Development Sparks Political Debates Across Multiple States",
    "at": "2026-08-13T11:55:15+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-21T06:59:45+00:00",
    "by": "news_judge",
    "note": "score 4/10: National campaign trend piece rehashing Rogers' already-covered moratorium position with no new policy development or concrete action."
+  },
+  {
+   "url": "https://thesuntimesnews.com/weekly-data-center-watch-local-oversight-expands-as-projects-move-forward/",
+   "title": "Ypsilanti Township Freezes New Utility Facilities for 180 Days Over Data Center Load",
+   "at": "2026-08-21T07:50:49+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This is the same Ypsilanti Township moratorium already live: 'Ypsilanti Township Board Approves Land-Use Moratorium Targeting Electric Infrastructure for Data C"
   }
  ],
  "auto_published": [
