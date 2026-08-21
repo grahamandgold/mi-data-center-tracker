@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd1JfX2llaVhfYzVTMm9JWWpGZjd1dENSVXczQUFnN0ZXdUlHMTJPS2hHZWYyYU5FcG80dW5wT2dMLVc4aThkVGVha0duMUg5MkRPMjV0aUc0QWFObVdfblFzcl9zcHh5OEhURGl3aERFTnhGSGMtNnh5N2VzS1pUSUlXT2ZZX3RPdGpJb3RZdE9xQlhqUTlmUnRGWTJ6Q25pVEtzNG80WGdGRnFxdUFESg?oc=5",
-   "title": "Garfield Township weighs year-long halt on new data centers",
-   "at": "2026-08-13T17:33:19+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: This is the same Garfield Township year-long data center freeze already live in the system, just reworded."
-  },
-  {
    "url": "https://www.datacenterdynamics.com/en/news/bloomberg-nef-texas-grid-pause-puts-20-percent-of-us-data-center-pipeline-at-risk/",
    "title": "Texas grid pause puts 20% of U.S. data center pipeline at risk, BloombergNEF warns",
    "at": "2026-08-13T18:31:30+00:00",
@@ -1399,15 +1392,16 @@
    "at": "2026-08-21T15:42:15+00:00",
    "by": "news_judge",
    "note": "score 1/10, duplicate: Same Rogers moratorium call already covered in multiple killed stories; no new development reported."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVGl6SFJDa3ZGRlpUREVwaGVYR3dtUjhGZTdKa3pzUUx6SUYzVW05TVRsYXRFNVFNSl9waTFRS1Jub0dMX2hJaUNBTVI4QU5OU1lhNHJRS2RZZ0hxUElNQmNQY3F6YjlqT0JnRFNiSktlMFNORzBmWm5QYmpSSnhxb0pPbUJFT1Zzd2ZUcE5iU29ZNHNxck5GLVJGaGltNmxYeEhNOXhhamlIYUdrOXB4SkVR?oc=5",
+   "title": "Michigan GOP fights back against Democratic data center attacks",
+   "at": "2026-08-21T16:44:00+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Vague messaging/political response piece with no specific event, filing, or decision reported."
   }
  ],
  "auto_published": [
-  {
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ250Zlo5dTB0cE40VXBjTnY4LTFXM2FVMTBjYkcyTjhXWmk5aW96MEF3MWtGWEVid0RwZnJBNjN1bzlZTktTYWh0WlNiY0tJZjFTS0hCal9iOVh1MWJKUG03UXROU05FR25MeUZNM2ZtQWE2MEcwSllQWnFJN1lXb2VBb2tCSVNOdUVsNXRLT1ZDNDE2MUFVeXdreFlub0tLV1RhalRFZGVfaEZBNFRhT25R0gHGAUFVX3lxTE9VVUVpTlozeG9IVTNXbTNsaUg2d3RWT00xT3A2VDdFeHd5U21qdXlNaTBHeW1keDFiMXJYVEMtVnZNMlBjMXJKRFdVc1V2aUg2ZVFRcDl3aVN3VWNNT0RVVFNSWEN3dlZCMjBQQlJ5TWRlR3RWV3VGNHZXYlpnYWlLNUJSWFJscW5MZjNwZ3ZVR25oSjZHeGVLQ0ZSaG14ZVA5S25fTE4tVmhLN0gwal85VVlYQzZSVURQWGVZVkJpbWJUaVJjdw?oc=5",
-   "title": "Houghton bans new data centers for a year after resident pushback",
-   "judge_score": 9,
-   "at": "2026-07-10T04:37:14Z"
-  },
   {
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOGlOWWh5V3ZjRzJBYS0tYzRiU3lTbmM2QVZtWV9sWW9JLUVWeGNuVWxFVF9MVElFRWZUQUhWb2hTczhUWTl5OXIzSGVnSVE0M3dsWVJvRkdNYzdwRGVjVHc5ZFZfWWZBZEhkOGpBLXJhd2VwME82dTZuYzlGYUpuVDFmeGNFR2RtLWR3WWw2UUhkSFNZYWJfMWtZMWtmQXF6MW0tZXhGaExNWmRwNGlfcURxTDg?oc=5",
    "title": "Taylor residents push own rules to block proposed data center",
@@ -3201,6 +3195,12 @@
    "title": "Palmyra residents push back on data center plans over power and noise fears",
    "judge_score": 7,
    "at": "2026-08-21T15:42:15Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMEE0QXhNaHE0U2xXMjNzbU1mVzgweFhPVFYxcFVCTWFERDhVU2JKcnlEVnlFWkV3WjVmaU56c3JwR0RrSFltRWlQbTl4RlBERThmMEtlZjFHR0t4ajZpUFhtdi1rSVdEcWJFekxBXzluV2JTWWJQcWNxRTRRLUxvaFVpdw?oc=5",
+   "title": "Saline residents voice fears over data center power and tax costs",
+   "judge_score": 6,
+   "at": "2026-08-21T16:44:00Z"
   }
  ]
 }

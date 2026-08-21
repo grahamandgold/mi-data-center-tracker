@@ -1,25 +1,7 @@
 {
- "updated_at": "2026-08-21T15:42:15Z",
+ "updated_at": "2026-08-21T16:44:00Z",
  "generator": "grok-wire-agent",
  "items": [
-  {
-   "iso": "2026-08-20T04:00:00+00:00",
-   "region": "mid",
-   "cat": "Bay County",
-   "tag": "Local Government",
-   "title": "Bay City Residents Raise Concerns Over Data Center Regulations at Planning Commission Meeting",
-   "dek": "Opposition focused on environmental monitoring, enforcement and quality-of-life issues as commissioners formed a subcommittee for further review in October.",
-   "source": "MLive",
-   "url": "https://www.mlive.com/",
-   "breaking": false,
-   "lead": false,
-   "id": "9f84055aa815",
-   "kind": "story",
-   "filed_at": "2026-08-21T01:49:55+00:00",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6,
-   "judge_note": "Incremental follow-up to the already-live Bay City pushback story: subcommittee formation is a procedural step forward but not a decision or vote."
-  },
   {
    "title": "Somerset Township proposes data center moratorium to review development effects",
    "dek": "The Somerset Township Planning Commission will hold a public hearing September 1 on a proposed regulatory ordinance pausing data center development, approval, construction and permitting. The measure would give township officials time to examine all associated matters before any projects advance. Residents across southern Michigan should pay attention as data center developments can impact local infrastructure and resources.",
@@ -142,5 +124,5 @@
    "judge_note": "Concrete legislative development: Jeremy Moss added as co-sponsor to utility rate bill targeting data centers, a new action on a relevant bill."
   }
  ],
- "accuracy_checked_at": "2026-08-21T15:42:11+00:00"
+ "accuracy_checked_at": "2026-08-21T16:43:57+00:00"
 }
