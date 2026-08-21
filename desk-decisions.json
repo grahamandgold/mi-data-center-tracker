@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://apnews.com/article/data-centers-power-demand-2026",
-   "title": "Data Center Power Demand Surges Prompt New Regulatory Scrutiny Across Multiple States",
-   "at": "2026-08-13T13:36:30+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece with Michigan mentioned only as part of broader multi-state conversation, no specific Michigan development reported."
-  },
-  {
    "url": "https://www.datacenterdynamics.com/en/news/data-center-operators-sneak-in-pair-of-projects-hours-before-moratorium-enacted-in-hillsboro-oregon/",
    "title": "Hillsboro gets 40MW data center filings hours before moratorium",
    "at": "2026-08-13T15:06:47+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-21T08:51:53+00:00",
    "by": "news_judge",
    "note": "score 3/10, duplicate: This is the same Vevay Township Mason annexation story already live, just reworded with 'city border change' and 'server farm' instead of 'data center.'"
+  },
+  {
+   "url": "https://mdtechcouncil.com/maryland-data-center-summit/",
+   "title": "Maryland Data Center Summit Draws Industry Leaders to Discuss Growth and Challenges",
+   "at": "2026-08-21T09:46:14+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece about a Maryland industry summit with no Michigan-specific developments, decisions, or policy actions."
   }
  ],
  "auto_published": [
