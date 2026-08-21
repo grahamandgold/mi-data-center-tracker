@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWG5jV294clVrZDNyNjFmUkFNX0lvd254elR5LTdHZnRfaURGVEQ1UjYwRW51M09YSVd1cHBzb01ObmZ5bmxmT2laWUszU0JaemFXak52V3pENS1vcDRWMUF4UTJjRDJERHJkN0loVlRKbWhRYk9IdXY5OERaazRKNDRpZDlnRUhCRXQyR19zcHdMSXpxT2VOdnhxcDNqZ2hhMm53V3FZYUhscnZ2T3lfeU1pN3dWUGJx?oc=5",
-   "title": "Ypsilanti township vows to fight U-M's $1.2B data center site",
-   "at": "2026-08-13T16:29:12+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: This is the same Ypsilanti Township rejection of the U-M data center site already live and killed multiple times in different phrasings."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd1JfX2llaVhfYzVTMm9JWWpGZjd1dENSVXczQUFnN0ZXdUlHMTJPS2hHZWYyYU5FcG80dW5wT2dMLVc4aThkVGVha0duMUg5MkRPMjV0aUc0QWFObVdfblFzcl9zcHh5OEhURGl3aERFTnhGSGMtNnh5N2VzS1pUSUlXT2ZZX3RPdGpJb3RZdE9xQlhqUTlmUnRGWTJ6Q25pVEtzNG80WGdGRnFxdUFESg?oc=5",
    "title": "Garfield Township weighs year-long halt on new data centers",
    "at": "2026-08-13T17:33:19+00:00",
@@ -1399,15 +1392,16 @@
    "at": "2026-08-21T14:44:13+00:00",
    "by": "news_judge",
    "note": "score 2/10: Community outreach events in Minnesota (not Michigan) with generic protest mention; no concrete development or decision reported."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQndHV3hBUE1mWmhfUlV0Q2V2eWpxbUxkbHlpbXQyMlVzUFdWeFg1TUQzN00zMmxYRXRCQ2NRT0tvbkg0bER4ZUpnVHVCSUJSWTRiWThoZkRVMWtjRm0tOGVQY2VnREVESFpHVW5FajdBN0lzWmF5TVFET1JTRnpVZGQ4UjZRVE41SjdtM0RQZm94cDQzTEtpZ0UzMHpueDdRZ3ZadA?oc=5",
+   "title": "Mike Rogers calls for Michigan data center pause amid rising local pushback",
+   "at": "2026-08-21T15:42:15+00:00",
+   "by": "news_judge",
+   "note": "score 1/10, duplicate: Same Rogers moratorium call already covered in multiple killed stories; no new development reported."
   }
  ],
  "auto_published": [
-  {
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdk1rYUVOZFZJUl9Zb2hxRXczb0pqZlZQOVMtMnEzZ3VRVUZTN3Y4SEc2Zkt0RldpVEV6bFpEOVdHTlliTWJGUVhLT1liWGFYS1hManl3WnI4Z3p3UXlZMEIxd2VYV2thVkRRMlFMbE1HYTFWQS12RW1OYUFZYXFyUFQtLU1Lazg?oc=5",
-   "title": "Houghton moratorium ripples across Upper Peninsula townships",
-   "judge_score": 6,
-   "at": "2026-07-10T04:37:14Z"
-  },
   {
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ250Zlo5dTB0cE40VXBjTnY4LTFXM2FVMTBjYkcyTjhXWmk5aW96MEF3MWtGWEVid0RwZnJBNjN1bzlZTktTYWh0WlNiY0tJZjFTS0hCal9iOVh1MWJKUG03UXROU05FR25MeUZNM2ZtQWE2MEcwSllQWnFJN1lXb2VBb2tCSVNOdUVsNXRLT1ZDNDE2MUFVeXdreFlub0tLV1RhalRFZGVfaEZBNFRhT25R0gHGAUFVX3lxTE9VVUVpTlozeG9IVTNXbTNsaUg2d3RWT00xT3A2VDdFeHd5U21qdXlNaTBHeW1keDFiMXJYVEMtVnZNMlBjMXJKRFdVc1V2aUg2ZVFRcDl3aVN3VWNNT0RVVFNSWEN3dlZCMjBQQlJ5TWRlR3RWV3VGNHZXYlpnYWlLNUJSWFJscW5MZjNwZ3ZVR25oSjZHeGVLQ0ZSaG14ZVA5S25fTE4tVmhLN0gwal85VVlYQzZSVURQWGVZVkJpbWJUaVJjdw?oc=5",
    "title": "Houghton bans new data centers for a year after resident pushback",
@@ -3201,6 +3195,12 @@
    "title": "Hyperscale Data sells $43M Bitcoin to bankroll Michigan data center push",
    "judge_score": 8,
    "at": "2026-08-21T13:04:06Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQVpFZ1RRb2lBUkVmTkk1UFdaanFJSG5vcHVPWjJtZVU5ZGlyOS1Idm1sY2dlQ1JYeF9nVERYV3RieVQtcnU5TGhXNVFsVGhVVkVoekVqeU80VzhXcnBnb1ZrYkdKZmZRcWF4YTg4TmRpTmFDVVV2N0hmaEtpQkhoYmE5Sktpb3FKWjU5blg2a0swSEhm?oc=5",
+   "title": "Palmyra residents push back on data center plans over power and noise fears",
+   "judge_score": 7,
+   "at": "2026-08-21T15:42:15Z"
   }
  ]
 }

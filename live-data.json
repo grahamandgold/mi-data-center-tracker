@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-21T14:44:00+00:00",
+ "updated_at": "2026-08-21T15:42:15Z",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -18,6 +18,23 @@
    "source_url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQQ0ZON3RYVTJDUi1wY1R1ZzBGMFY5cHMzN3c5bU1iTWlqMENSUVAtd25IeGJlVV9SWmNDc0lZT0hvOW11WVRvWTlVVVFMMmgwbnR1Q1F0U296ajRmMnVNcmx0SlJ0NzVHQTBXcDdRYmZsa21EdTM2MjFRM0JYTFFIVEZ4ekFzQVR4ZjRJSHNVT1JLc0hCOXVGMXFfbm43aTJxakhnUjhWbXRLMnZRVFh4OWtrNllNOGViRkdnTTlsMUU3NGNIR1ZDUlN5U3FwcnN2cUdjbGVRWFVoSDRIZDZPRGNZWXIwRzFWTTZZZUt2ZHo1R2JRTjZmdFV3dDJBSXAtd21fNDJzVHNacVdKQXN4cDV6YjdTbXhoVFNCMkZrZDl0MERpbXpfTVU4YVJGMlZGU0xNR0N3V2tpemM?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
+  },
+  {
+   "title": "Palmyra residents push back on data center plans over power and noise fears",
+   "dek": "Neighbors in Lenawee County’s Palmyra Township voiced worries that proposed facilities would spike electric bills and create constant noise. Local officials heard the concerns during a public session focused on zoning changes. Anyone within 50 miles could face higher utility costs if the projects move forward without stricter limits.",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQVpFZ1RRb2lBUkVmTkk1UFdaanFJSG5vcHVPWjJtZVU5ZGlyOS1Idm1sY2dlQ1JYeF9nVERYV3RieVQtcnU5TGhXNVFsVGhVVkVoekVqeU80VzhXcnBnb1ZrYkdKZmZRcWF4YTg4TmRpTmFDVVV2N0hmaEtpQkhoYmE5Sktpb3FKWjU5blg2a0swSEhm?oc=5",
+   "source": "WITN",
+   "region": "mid",
+   "cat": "STATEWIDE",
+   "county": "Lenawee",
+   "tag": "Local Government",
+   "iso": "2026-08-21T03:51:00Z",
+   "id": "a26c3222513c",
+   "origin": "google-news",
+   "source_title": "Palmyra residents weigh in on data centers - WITN",
+   "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQVpFZ1RRb2lBUkVmTkk1UFdaanFJSG5vcHVPWjJtZVU5ZGlyOS1Idm1sY2dlQ1JYeF9nVERYV3RieVQtcnU5TGhXNVFsVGhVVkVoekVqeU80VzhXcnBnb1ZrYkdKZmZRcWF4YTg4TmRpTmFDVVV2N0hmaEtpQkhoYmE5Sktpb3FKWjU5blg2a0swSEhm?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
   },
   {
    "title": "Washtenaw data center projects advance under new local oversight",
@@ -167,23 +184,6 @@
    "origin": "google-news",
    "source_title": "FORWARD FOCUS: What's happening now with the advanced manufacturing site in Mundy Twp? - WSMH",
    "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOVFieDMxSGZET1drYmVCbzUtVU1SNGxZNHY0VzdZUW9rSmxPVjlLQzRBZnJ1dzBYVHAzSmtXVUtIMVNydEJvXzRuY3FOeElyWHQ4Y3Rldkxubk9lVzFuT1lsV0R1S0E5dDRLMlRGUjIwR0E4S2RyWWpyR3pVNDdJal9YRTM5MWxRbUtIRWxtZGhIQWtNMG44WGk3ZHlJbGc4OFlpcWFWTFg4bzlmbFB3eVhFaW9qWlhoM3VjWjE4V25nbENMem56V2pPaE1wdw?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
-  },
-  {
-   "title": "Bay City neighbors push back on data center plans over power and noise",
-   "dek": "Residents packed a Bay City planning commission meeting to oppose data centers proposed for their area. They raised alarms about heavy electricity and water demands plus industrial noise that could reach homes. The outcry shows how Michigan towns are starting to question the rapid spread of these facilities.",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZUhPMjBCZkcybzR2VDBYS3dDM2d6ejg0NVE4aXNNUmxXY2FSVTNyQUIyLW9GRHoxMWpTV1NBQ1JTV2tiOUhMQUFnQmlzMldQeERrd1czbHN0VGM0LXJ2YXBXTGJjUXB3SlIyU1ZoX0tBcGRaVS1yQ2VEekl1dDg0Uzk0akgwUXdPaHU1OHBIcGZjcmE2cnF3WDh4dmdVZ0ZTTS0wZW1DZVc4NXZSYVhBOHhjUG1YXzBVMV83TllzVVpFUXc1R3ZxUnZkbmVjb1dRNnRqYkVR0gHqAUFVX3lxTE1MbUthb3hteVY0MmtXeDlFbF9XQnZuN19SbnF1SjFTX0xxZHk0MkNnMXNwckd1U2FqQXFhQkhBSFhaZVlhbmtsTjl1M1dnc0d0YXlIcGhTdXdsT2xDMkl2Z2lUVjNfY2JIS1Q1anQ0NEdrdldxWDJ4OGF2bjItVERtQ0dSa3RWQUlrTFBEN1lDQzdIMzdmcExuZTNQYWRWVm1iTXBHbmwyX1gxbXBZVVVNUkRLOWFzd3V5N1pmLThGb29DeEVRakJ1WjNkUlJrUHVpM2ZqVzJobGZSckx4WmVURlBIQkNnRHFSZw?oc=5",
-   "source": "MLive.com",
-   "region": "mid",
-   "cat": "STATEWIDE",
-   "county": "Bay",
-   "tag": "Local Government",
-   "iso": "2026-08-20T01:00:00Z",
-   "id": "6b6d18e5b405",
-   "origin": "google-news",
-   "source_title": "Bay City residents voice opposition to data centers at planning commission meeting - MLive.com",
-   "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZUhPMjBCZkcybzR2VDBYS3dDM2d6ejg0NVE4aXNNUmxXY2FSVTNyQUIyLW9GRHoxMWpTV1NBQ1JTV2tiOUhMQUFnQmlzMldQeERrd1czbHN0VGM0LXJ2YXBXTGJjUXB3SlIyU1ZoX0tBcGRaVS1yQ2VEekl1dDg0Uzk0akgwUXdPaHU1OHBIcGZjcmE2cnF3WDh4dmdVZ0ZTTS0wZW1DZVc4NXZSYVhBOHhjUG1YXzBVMV83TllzVVpFUXc1R3ZxUnZkbmVjb1dRNnRqYkVR0gHqAUFVX3lxTE1MbUthb3hteVY0MmtXeDlFbF9XQnZuN19SbnF1SjFTX0xxZHk0MkNnMXNwckd1U2FqQXFhQkhBSFhaZVlhbmtsTjl1M1dnc0d0YXlIcGhTdXdsT2xDMkl2Z2lUVjNfY2JIS1Q1anQ0NEdrdldxWDJ4OGF2bjItVERtQ0dSa3RWQUlrTFBEN1lDQzdIMzdmcExuZTNQYWRWVm1iTXBHbmwyX1gxbXBZVVVNUkRLOWFzd3V5N1pmLThGb29DeEVRakJ1WjNkUlJrUHVpM2ZqVzJobGZSckx4WmVURlBIQkNnRHFSZw?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
   }
