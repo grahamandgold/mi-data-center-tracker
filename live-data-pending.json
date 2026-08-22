@@ -1,25 +1,7 @@
 {
- "updated_at": "2026-08-22T11:49:40+00:00",
+ "updated_at": "2026-08-22T12:54:20Z",
  "generator": "grok-wire-agent",
  "items": [
-  {
-   "iso": "2026-08-21T00:00:00+00:00",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "tag": "Policy",
-   "title": "Michigan Lawmakers' Data Center Guardrail Bills Remain in Committee Amid Ongoing Local Fights",
-   "dek": "Packages including SB 1018-1020 and HB 6135-6142, which would impose moratoria, water limits, community benefit agreements and ratepayer protections, have seen no floor action as communities continue adopting local pauses and regulations.",
-   "source": "Multiple Outlets",
-   "url": "https://legislature.mi.gov",
-   "breaking": false,
-   "lead": false,
-   "id": "1a041c66099e",
-   "kind": "national",
-   "filed_at": "2026-08-21T18:49:40+00:00",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6,
-   "judge_note": "Document-based legislative update with specific bill numbers showing lack of progress, incremental but real status check on pending Michigan guardrail legislati"
-  },
   {
    "iso": "2026-08-26T12:00:00+00:00",
    "region": "statewide",
@@ -111,5 +93,5 @@
    "judge_note": "Concrete legislative development: Jeremy Moss added as co-sponsor to utility rate bill targeting data centers, a new action on a relevant bill."
   }
  ],
- "accuracy_checked_at": "2026-08-22T11:49:40+00:00"
+ "accuracy_checked_at": "2026-08-22T12:54:18+00:00"
 }
