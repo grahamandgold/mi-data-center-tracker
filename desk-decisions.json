@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.crainscleveland.com/politics-policy/ccl-ohio-supreme-court-data-center-20260814/",
-   "title": "Ohio Supreme Court issues key ruling on data center project approvals",
-   "at": "2026-08-14T21:54:27+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: Out-of-state court ruling with only tangential relevance to Michigan's data center buildout; thin national context piece."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rNGlhNGF6azB6enRXQ2Nnbkl3cGJnTGc5RV83clYtMnNHYTJRQVJvWFhxY19BS2pnT0xwTGZmQzBmWFNYVzJjbjNiVl9ha091QTdCQVJ5cno?oc=5",
-   "title": "Hyperscale sells $43M in Bitcoin to build Michigan data center",
-   "at": "2026-08-14T21:54:27+00:00",
-   "by": "news_judge",
-   "note": "score 1/10, duplicate: Same Bitcoin liquidation event already live: 'Hyperscale Data sells $43M in Bitcoin to fund Michigan data center push.'"
-  },
-  {
    "url": "https://www.datacenterdynamics.com/en/news/data-center-related-threats-made-against-local-authorities-in-marshall-michigan/",
    "title": "Marshall officials get credible death threats over data center fights",
    "at": "2026-08-14T22:32:46+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-22T16:34:36+00:00",
    "by": "news_judge",
    "note": "score 1/10, duplicate: This is the Mike Rogers pause proposal that has been killed multiple times already; no new development justifies resurrection."
+  },
+  {
+   "url": "https://ballotpedia.org/Data_center-related_ballot_measures,_2026",
+   "title": "Data Center Opposition Fuels Recall Efforts and Local Policy Shifts in Multiple States",
+   "at": "2026-08-22T16:56:05+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: National trend piece aggregating ballot measures across multiple states with Michigan mentioned but not centered; lacks specific Michigan development."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQT1lmR2ZhTFRqUTJrR01mYUdnelhsZG1HNldOLVdHR2JtTGEtbUhfNDVUVExjcEJNXzZ1WUttWEpPWGhUa3FqSTFnc1hCeWRtbzBuaTlfT2xNSUljdGhIaTVXMVlaQ3RPRlNrNVpMNkFZRGRHaEkxd19kN0FJOU0wc2Rray04VHlyZ0sxSjJlMVExaC1YMjRLM2xxWUZLcHBNZUpNX1RUWDF0eVVrOFRnX0QzUVlVU0s3Yll0R1lqRkMzNk9nc2U5ckQ1c0p4WXVPdEpITDhiZjdra21zOEZyRTg4YTZlVEYzSGN1aHpMQlhzYzVoM1Y3Z0tEaw?oc=5",
+   "title": "Congressman joins push to freeze new server farms over electric bill fears",
+   "at": "2026-08-22T16:56:05+00:00",
+   "by": "news_judge",
+   "note": "score 1/10, duplicate: Mike Rogers calling for a pause/freeze on Michigan data centers has been killed multiple times by the News Director; this is the same story repackaged."
   }
  ],
  "auto_published": [
