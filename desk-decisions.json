@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://en.cryptonomist.ch/2026/08/14/hyperscale-data-bitcoin-sale/",
-   "title": "Hyperscale Data sells 685 Bitcoin for $43M to expand Michigan data center",
-   "at": "2026-08-15T03:00:30+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Same Bitcoin sale already killed three times under different headlines (Hyperscale Data cashes 685 BTC, Bitcoin miner funnels $43M, Hyperscale sells $43M in Bit"
-  },
-  {
    "url": "https://montanafreepress.org/2026/08/14/butte-nonprofit-sues-county-over-initiative-reversal/",
    "title": "Butte voters sue to restore say on data center growth",
    "at": "2026-08-15T03:48:41+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-22T22:31:05+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece aggregating opposition across multiple states without reporting a specific Michigan decision, filing, or concrete development."
+  },
+  {
+   "url": "https://apnews.com/article/data-centers-energy-bills-2026",
+   "title": "U.S. Lawmakers Advance Bills Targeting Data Center Energy Use Amid AI Boom",
+   "at": "2026-08-22T22:51:40+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National legislative debate with no Michigan-specific action, decision, or vote; generic trend piece about federal proposals without concrete local impact."
   }
  ],
  "auto_published": [
