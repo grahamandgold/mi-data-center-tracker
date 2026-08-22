@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-22T06:53:53+00:00",
+ "updated_at": "2026-08-22T07:38:46Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Forsyth residents grill officials on data center power and military ties",
+   "dek": "Hundreds packed a Forsyth Township hall to question how proposed data centers would affect local electricity rates and water supplies. Officials also fielded concerns about rumored military involvement near the sites. The session gave Upper Peninsula residents their first direct look at the scale of projects eyed for Marquette County.",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU0RtazhORFdGT25tVTBrbFZZTElHR2RQOFFOWHNxY3ZFUkxVbjJVaG1VZThmT1EzeDl1Vm9SZTd1MHFabFJoVGZ3ZDdiQVlvdjFOWFJaOFVCcTdFamtmMEtpODdaSnVPbHB6SHkzbkdlajlVV2JiVXdGNUt2cHZFYUVmT1RqSG5NcnBIaXh3S1g5MHNqUmswUjJPNEt1UXdUYnNja0FrcjN4bWNIN1hlVXhqSzlka1JDOTQ0WW5BQUIyTnlKeUZwTGtyUlo3elU4?oc=5",
+   "source": "The Mining Journal",
+   "region": "north",
+   "cat": "STATEWIDE",
+   "county": "Marquette",
+   "tag": "Local Government",
+   "iso": "2026-08-22T07:04:26Z",
+   "id": "644eb47c400b",
+   "origin": "google-news",
+   "source_title": "Town Hall held in Forsyth Township addresses data centers, military presence - - The Mining Journal",
+   "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU0RtazhORFdGT25tVTBrbFZZTElHR2RQOFFOWHNxY3ZFUkxVbjJVaG1VZThmT1EzeDl1Vm9SZTd1MHFabFJoVGZ3ZDdiQVlvdjFOWFJaOFVCcTdFamtmMEtpODdaSnVPbHB6SHkzbkdlajlVV2JiVXdGNUt2cHZFYUVmT1RqSG5NcnBIaXh3S1g5MHNqUmswUjJPNEt1UXdUYnNja0FrcjN4bWNIN1hlVXhqSzlka1JDOTQ0WW5BQUIyTnlKeUZwTGtyUlo3elU4?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Developer sues Gibraltar to overturn year-long data center moratorium",
    "dek": "A data center firm claims city officials in Gibraltar illegally blocked its project with a one-year pause. Wayne County residents near the site could see delayed tax revenue and jobs if the suit succeeds. The case tests how far local governments can go to slow large power-hungry facilities.",
@@ -169,23 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOXFJV09kc3ZIdTlwajlxMF9LRlFYMEZMbURET1RjcHRQc1FEb2RrQ25HR29adXBTSU51TzdNRGktZXdYZDBiZkZBcXg2YUtaUlktWEZQR25oVDBta3lXSk9HR2JZb0pfNXlWdThPcXRvSEdiYzRfYjBFTVVUZE5DSWFzdjdnc0E?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
-  },
-  {
-   "title": "Rogers: Halt new data centers to prevent higher power costs in Michigan",
-   "dek": "Former congressman Mike Rogers told Detroit voters he supports a temporary halt on new data centers. The stance comes as power demand from AI projects strains Michigan utilities and local grids. Residents 30 miles away could see higher electric bills if large facilities move forward without limits.",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUHJkUTdfbUlhZktGRjlWN3FZbzZxcEtOZHdVRGVpVmVUY2FycmMwTU9zeEJOSFVVUUlkMXhoRnZlSEdqX2ctbDQyT3lqU3BHb0NPMVZSWWJaRWt4VjNNaVNhZWtWY09HeXgwRzE0bkt0SGNQRUdONzBjb0RVWUtrYVdpQzBnak1CSHFxQV9YOXNwQm5rUVc1ZWpIR3VreWdjRnpnTWp0TUVwOTJuSDZhZGlHUjNteGFPNjJNN0J0ZnU4dmRaenpIVm0xbW42Qkpo?oc=5",
-   "source": "The Detroit News",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Wayne",
-   "tag": "Policy",
-   "iso": "2026-08-20T16:31:00Z",
-   "id": "9a2f4b1e5cdc",
-   "origin": "google-news",
-   "source_title": "Mike Rogers backs data center 'pause' at campaign stop in Detroit - The Detroit News",
-   "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUHJkUTdfbUlhZktGRjlWN3FZbzZxcEtOZHdVRGVpVmVUY2FycmMwTU9zeEJOSFVVUUlkMXhoRnZlSEdqX2ctbDQyT3lqU3BHb0NPMVZSWWJaRWt4VjNNaVNhZWtWY09HeXgwRzE0bkt0SGNQRUdONzBjb0RVWUtrYVdpQzBnak1CSHFxQV9YOXNwQm5rUVc1ZWpIR3VreWdjRnpnTWp0TUVwOTJuSDZhZGlHUjNteGFPNjJNN0J0ZnU4dmRaenpIVm0xbW42Qkpo?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {
