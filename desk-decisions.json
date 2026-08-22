@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.mlive.com/topic/data-centers/",
-   "title": "Michigan utilities in talks with data centers that could sharply raise power demand",
-   "at": "2026-08-14T22:32:46+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Vague statewide utility negotiations without specific projects, filings, or decisions—reads like a trend piece without concrete developments."
-  },
-  {
    "url": "https://civicmedia.us/news/2026/08/14/in-bid-to-stop-saline-data-center-tax-break-an-attorney-argues-the-township-skipped-crucial-steps",
    "title": "Attorney Challenges Saline Township Tax Abatement for Proposed Oracle-OpenAI Data Center",
    "at": "2026-08-15T01:44:02+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-22T19:28:58+00:00",
    "by": "news_judge",
    "note": "score 3/10: Pennsylvania policy development with no Michigan angle; already killed similar PA executive order story, and this is a national trend piece for Michigan readers"
+  },
+  {
+   "url": "https://www.freep.com/",
+   "title": "Lawmakers in More Than a Dozen States Advance Data Center Restrictions Amid Growing Opposition",
+   "at": "2026-08-22T19:49:08+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: National trend piece aggregating state-level activity without reporting a specific Michigan decision, filing, or development; provides context but lacks concret"
   }
  ],
  "auto_published": [
