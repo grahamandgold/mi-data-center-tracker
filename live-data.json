@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-21T23:52:50+00:00",
+ "updated_at": "2026-08-22T01:43:29Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Developer sues Gibraltar to overturn year-long data center moratorium",
+   "dek": "A data center firm claims city officials in Gibraltar illegally blocked its project with a one-year pause. Wayne County residents near the site could see delayed tax revenue and jobs if the suit succeeds. The case tests how far local governments can go to slow large power-hungry facilities.",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaXZzSXJFWVdsbXJWNFRWdm1Vb1h2YUtmVUNxUFBaUkhhR3RDalFCaUxPVU1mRWFoRVpXU2x4eXY4Y3FobjA1d2lJbjhtNXpDY2lMbkc5YlBzc0xGODdqOUdGa01vMTBZOFNPR1N5eFIxRkJibHdEaGk1YkVvWnFJejAxZHBaMWswczNIYzEtUTljTnhGb3pwQ1pR?oc=5",
+   "source": "CBS News",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Wayne",
+   "tag": "Local Government",
+   "iso": "2026-08-22T01:17:00Z",
+   "id": "ab669c2f69e6",
+   "origin": "google-news",
+   "source_title": "Data center developer accuses Gibraltar city officials of unlawfully imposing 1-year moratorium - CBS News",
+   "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaXZzSXJFWVdsbXJWNFRWdm1Vb1h2YUtmVUNxUFBaUkhhR3RDalFCaUxPVU1mRWFoRVpXU2x4eXY4Y3FobjA1d2lJbjhtNXpDY2lMbkc5YlBzc0xGODdqOUdGa01vMTBZOFNPR1N5eFIxRkJibHdEaGk1YkVvWnFJejAxZHBaMWswczNIYzEtUTljTnhGb3pwQ1pR?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "Firm behind Mason data center project finally named",
    "dek": "A development company has been identified for the proposed data center in Mason. Ingham County residents now know who is behind the project that could affect local power use and taxes. The disclosure gives the community a clearer target for questions about water, noise, and grid impact.",
@@ -169,23 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUHJkUTdfbUlhZktGRjlWN3FZbzZxcEtOZHdVRGVpVmVUY2FycmMwTU9zeEJOSFVVUUlkMXhoRnZlSEdqX2ctbDQyT3lqU3BHb0NPMVZSWWJaRWt4VjNNaVNhZWtWY09HeXgwRzE0bkt0SGNQRUdONzBjb0RVWUtrYVdpQzBnak1CSHFxQV9YOXNwQm5rUVc1ZWpIR3VreWdjRnpnTWp0TUVwOTJuSDZhZGlHUjNteGFPNjJNN0J0ZnU4dmRaenpIVm0xbW42Qkpo?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
-  },
-  {
-   "title": "Township blocks power lines to halt U-M backed hyperscale project",
-   "dek": "A Michigan township passed a ban on new electrical infrastructure to stop a 220,000-square-foot data center tied to the University of Michigan and Los Alamos National Laboratory. Residents face the prospect of massive power infrastructure serving a nuclear-weapons-linked facility without local say. The move directly affects nearby homes and farms by cutting off the project's grid connection.",
-   "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxON040S0dsMHF6VkhCMjVGOC1YTHJmLWRrWFVxSDJWcW0telBmTzAwLUc5Y2liRjVRZlJqTkNEOEQyVC1pVEZCOThyUm1hSDZBYkpmemxkVUM4cWJnX0RhaFQtTFctcjd3ZEVTUmNLSVFKb0gxNTljZ3VhZEFzNGZaTnlPY2cwM2lrQXZ3VFJvaGVtUElNTV9sb3A1TnlQMUpONFZ4cXB0bGpTREtRczRpa25uZU4zNW5RVUg0VlNTY0w4cTV6RGhUZ2hpYlU3TXA3Y0xfLXAyRGhEVTZQYXRYQjcxOW9rMnpEQU0yc1hKbW5KeWlVSnh2UWlVTFd5UF9FR2pmNmdrSy1BUWQxRTJ4VXpDc0NHWERHN0ptZ2U4RHR1SlJYT256LVQ0bk82cWVpaHhtWENBdVV3Uk90QWZnOFp0bkw4MzNOWGF5Q1p3aGFNZ1JUT1lTTHRVOEpRckp3WEtDRjdzZHlVSHgwZ3VhV18zdWNMNUt2cU9QM0RWbG5TS2tpTXc?oc=5",
-   "source": "Tom's Hardware",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Local Government",
-   "iso": "2026-08-20T15:37:29Z",
-   "id": "c83adbeab1fd",
-   "origin": "google-news",
-   "source_title": "Michigan township combats nuclear weapons data center by passing ban on new electrical infrastructure — 220,000-square-foot hyperscale project is backed by University of Michigan and the Los Alamos Na",
-   "source_url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxON040S0dsMHF6VkhCMjVGOC1YTHJmLWRrWFVxSDJWcW0telBmTzAwLUc5Y2liRjVRZlJqTkNEOEQyVC1pVEZCOThyUm1hSDZBYkpmemxkVUM4cWJnX0RhaFQtTFctcjd3ZEVTUmNLSVFKb0gxNTljZ3VhZEFzNGZaTnlPY2cwM2lrQXZ3VFJvaGVtUElNTV9sb3A1TnlQMUpONFZ4cXB0bGpTREtRczRpa25uZU4zNW5RVUg0VlNTY0w4cTV6RGhUZ2hpYlU3TXA3Y0xfLXAyRGhEVTZQYXRYQjcxOW9rMnpEQU0yc1hKbW5KeWlVSnh2UWlVTFd5UF9FR2pmNmdrSy1BUWQxRTJ4VXpDc0NHWERHN0ptZ2U4RHR1SlJYT256LVQ0bk82cWVpaHhtWENBdVV3Uk90QWZnOFp0bkw4MzNOWGF5Q1p3aGFNZ1JUT1lTTHRVOEpRckp3WEtDRjdzZHlVSHgwZ3VhV18zdWNMNUt2cU9QM0RWbG5TS2tpTXc?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 9
   }
  ],
  "national": {
