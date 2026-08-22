@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://civicmedia.us/news/2026/08/14/in-bid-to-stop-saline-data-center-tax-break-an-attorney-argues-the-township-skipped-crucial-steps",
-   "title": "Attorney Challenges Saline Township Tax Abatement for Proposed Oracle-OpenAI Data Center",
-   "at": "2026-08-15T01:44:02+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Same legal challenge to Saline Township tax abatement already covered in two live stories; this adds only the attorney detail."
-  },
-  {
    "url": "https://www.wndu.com/video/2026/08/14/elkhart-city-council-consider-data-center-moratorium/",
    "title": "Elkhart City Council to Weigh Temporary Data Center Moratorium",
    "at": "2026-08-15T01:44:02+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-22T19:49:08+00:00",
    "by": "news_judge",
    "note": "score 4/10: National trend piece aggregating state-level activity without reporting a specific Michigan decision, filing, or development; provides context but lacks concret"
+  },
+  {
+   "url": "https://www.nytimes.com/2026/08/21/opinion/data-centers-electricians-union-labor.html",
+   "title": "Electricians Union Backs Data Center Expansion for Job Growth Amid National Backlash",
+   "at": "2026-08-22T20:32:59+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece with union perspective but no Michigan-specific development, decision, or concrete action."
   }
  ],
  "auto_published": [
