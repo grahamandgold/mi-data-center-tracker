@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.wndu.com/video/2026/08/14/elkhart-city-council-consider-data-center-moratorium/",
-   "title": "Elkhart City Council to Weigh Temporary Data Center Moratorium",
-   "at": "2026-08-15T01:44:02+00:00",
-   "by": "news_judge",
-   "note": "score 2/10: Indiana city moratorium has no Michigan angle and offers nothing new to Michigan readers tracking local buildout."
-  },
-  {
    "url": "https://en.cryptonomist.ch/2026/08/14/hyperscale-data-bitcoin-sale/",
    "title": "Hyperscale Data sells 685 Bitcoin for $43M to expand Michigan data center",
    "at": "2026-08-15T03:00:30+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-22T20:32:59+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece with union perspective but no Michigan-specific development, decision, or concrete action."
+  },
+  {
+   "url": "https://wgntv.com/hill-politics/rising-data-center-backlash-shakes-up-midterm-races/",
+   "title": "Data center backlash influences midterm races in swing states",
+   "at": "2026-08-22T22:31:05+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece aggregating opposition across multiple states without reporting a specific Michigan decision, filing, or concrete development."
   }
  ],
  "auto_published": [
