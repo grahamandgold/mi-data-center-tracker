@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcFNzbFFRdHlZUUtPc25uREl6cHZwN0U0dmtfN2tDaDZaZWE5dG9WRXktMmJ1eUNRRjh2NkRXXzBUdFBZRnc4TGZxQXNCWXV2eUlSRmNyU3FDdm9hWFE0OUpsbWV5QVRRSDBxWUJZbE1SWTh2dGRVWUFESTU2OVRrX3BBNGVIdEFUYUlHVUdNaHZhOVNnTThsc1BQemRRN2RHNFlzQVYwS29VdGtyTktTWEdfTnZTV0dBM2VJVldsdEI2dnU1OWlvX3ZLMHVZUQ?oc=5",
-   "title": "Hyperscale Data cashes 685 BTC for $43M to build Michigan data center",
-   "at": "2026-08-14T15:01:21+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Same Hyperscale Data $43M Bitcoin sale already live, just reworded with BTC quantity and slightly different framing."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTktPalA2UmRSMWphZXVzaEg1T1pkSTdyMGlwVjBFTzRzZFZ5NWVaRUJ6eU1wX3JPTEFjVnY0d1MtZ09QVF9wY1NPZzMxejdpSUJFemVOVWdqblJqaGFxSk45Ylh2NTAwV2NzMzZwRC16MEkxU3VXS2I2UGtYeENqVk8wVHYtUWZFNnFvQWExeFI0Vm81MFV5RW4xN2EybTBTd0NKdTdPX0dnTVMwUG5sQWhWNDQ2X3MxTENIWVJPM20?oc=5",
-   "title": "Marshall officials receive threats tied to proposed data center project",
-   "at": "2026-08-14T17:02:01+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicate of already-live 'Marshall council faces credible threats tied to data center fight' — same threat incident, just reworded."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUDJHZGpIdElpRWYzMWRUak5QUHpxWE40a3BtTGZyY3hvS2dzaGpzaDJYTTNERzZxQ25OUVhnaUFuZkpLTTFCeUhBWGZJaUxUN0RaeS1HZHJuZlA5YTNUbl93b3VqR0R0blJDS1ExQ3V4QThscVR3LUt5dVdvb0c1MmpzSWJtRlpEd2dWcQ?oc=5",
    "title": "Bitcoin miner funnels $43M from crypto sales into Michigan data center push",
    "at": "2026-08-14T17:02:01+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-22T04:42:02+00:00",
    "by": "news_judge",
    "note": "score 3/10, duplicate: This is the same lawsuit and moratorium already covered in the live story 'Developer sues Gibraltar to overturn year-long data center moratorium.'"
+  },
+  {
+   "url": "https://gandernewsroom.com/news/politics/how-many-ai-data-centers-are-planned-in-michigan-we-counted/",
+   "title": "Directory Tracks Over 30 Proposed AI Data Centers Across Michigan Amid Widespread Local Opposition",
+   "at": "2026-08-22T05:35:02+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Aggregated directory/count with no specific new project, decision, or filing—useful context but lacks concrete development."
+  },
+  {
+   "url": "https://www.reuters.com/world/us/americans-are-angry-about-data-centers-politicians-are-feeling-pressure-2026-07-16/",
+   "title": "Americans Express Growing Anger Over Data Center Expansion as Politicians Face Pressure",
+   "at": "2026-08-22T05:35:02+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National polling trend piece that mentions Michigan but reports no Michigan-specific decision or action."
   }
  ],
  "auto_published": [
