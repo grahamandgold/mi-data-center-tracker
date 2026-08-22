@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZ0tncDk1dnZOSVNROTlvZ2VTV2tPcFlqcGRHdkRKMWxUWWlraVJ4NER4YzJoSGMtazhKem11M0I4aUhQUGNNYmRhY2hnRkhaWTZubTVKakgwUUFkS00wM0lxalpNdEEySjFabDJleTEzbnFlMlpJbkI3LUZmN2F2Q01tUHFqNGpBWVVoVm1uYzJHNEt0cnhmZkdFZS1XaWQ1cGhvT1ZoQlA1VGxKN1k2dDg2TFV4ZFp5M0RkWFJsWll6alVHNFVyTDN5SjFOM2NPb01VZjNONXoyZ19rUWwzRXVIZHRDRmhkNG1NNUtKa2V0Sjh2MGMyeW5lRTFKc2M?oc=5",
-   "title": "Data centers split Michigan candidates ahead of 2026 midterms",
-   "at": "2026-08-14T19:05:30+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Forward-looking political trend piece about 2026 campaigns without a specific filing, announcement, or concrete development today."
-  },
-  {
    "url": "https://www.reuters.com/business/energy/pjm-proposes-plan-buy-more-power-data-centers-2026-08-13/",
    "title": "PJM Grid Operator Proposes Rules to Curtail Data Center Use During Shortages",
    "at": "2026-08-14T19:53:58+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-22T09:55:28+00:00",
    "by": "news_judge",
    "note": "score 1/10, duplicate: This is the same Mike Rogers pause/halt call that has been killed multiple times in different wordings."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb2Q5ZllkczFyTjBpeVpJMTRoNDBEb2JVS0UtRXFOQ3lvdnhrSVFfT2ZDUmNvZkM2ZjhYWDRiZzBXeHgxZm5VQjUwckNmNnRQXzNhZGE2Zmx6N1JEUjYzMGxXWmZ6Z2o1YzYxYS1RX1V6dUo3bmc4VzBtZ1YzcFJxYmFRZ2NOeHVIZ09zUWR0dEVNRTE2WDFF?oc=5",
+   "title": "Data center fights now shape Michigan GOP Senate race",
+   "at": "2026-08-22T10:32:38+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Campaign positioning and voter messaging rather than a concrete development; too similar in theme to killed political/campaign trend pieces."
   }
  ],
  "auto_published": [
