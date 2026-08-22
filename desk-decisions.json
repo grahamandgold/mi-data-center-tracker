@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://montanafreepress.org/2026/08/13/fort-peck-tribes-ban-discussions-data-center-development/",
-   "title": "Fort Peck Tribes Ban All Data Center Talks Over Water, Land Fears",
-   "at": "2026-08-14T20:38:51+00:00",
-   "by": "news_judge",
-   "note": "score 2/10: National/Montana tribal story with no Michigan connection or relevance to Michigan data center buildout."
-  },
-  {
    "url": "https://bridgemi.com/business-watch/u-m-affirms-ypsilanti-1-2b-computing-center-site-township-officials-vow-fight/",
    "title": "Ypsilanti Twp. officials vow fight after U-M affirms $1.2B Textile Road center",
    "at": "2026-08-14T21:34:22+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-22T11:28:41+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: This is the same Mike Rogers pause/moratorium call that has been killed multiple times in different wordings; no new development or action reported."
+  },
+  {
+   "url": "https://www.wxyz.com/news/data-centers/data-center-developer-sues-gibraltar-claiming-moratorium-unlawfully-halted-project",
+   "title": "Gibraltar Hit With Lawsuit Over Moratorium on 100-Megawatt Data Center",
+   "at": "2026-08-22T14:52:12+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This is the same Gibraltar lawsuit already covered in the LIVE story 'Developer sues Gibraltar to overturn year-long data center moratorium' and also appears in"
   }
  ],
  "auto_published": [
