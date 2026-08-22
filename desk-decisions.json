@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.mlive.com/politics/2026/07/mlive-interactive-dashboard-tracks-the-data-center-battle-raging-across-michigan.html",
-   "title": "Data Center Moratoriums Now Cover More Than 1,500 Square Miles in Michigan",
-   "at": "2026-08-14T17:58:48+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Aggregate analysis piece quantifying moratorium footprint statewide—interesting context but no new decision or action."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVk9XVGVjQkR6aUw5cEg3M25BRVNGWTdNYUtmOS1rd1lHOEp4WFNtZ0poQVlyanBDbjdGTGRXOEk3M2NhcHNPMkxGa2JaUXZteTlMNzBkWkE2VUZneXVVYkd1cDFyS3BSS3B5UnJZU1lkNXJ2OG5XaXVNUFZ3QVJudWpJU0ZlTlQxR1p2V2VQTVEwWmlXcUQxOG5yMF83dXl1bWJLbGlfVllHLWV6MTBtWF9RVHFlaUNpY3ZmTkN6dFl5M2lSWW16SHp1Yi0?oc=5",
    "title": "U-M locks in $1.25B AI supercomputer for Ypsilanti Twp",
    "at": "2026-08-14T17:58:48+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-22T05:58:11+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece aggregating voter sentiment across multiple states without reporting a specific Michigan decision, filing, or concrete development."
+  },
+  {
+   "url": "https://www.facebook.com/VoteJustinJ/videos/news-memphis-data-center-moratorium-passes-committeewe-have-a-lot-more-work-to-d/1752108652648608/",
+   "title": "Memphis Data Center Moratorium Advances Through City Council Committee",
+   "at": "2026-08-22T06:53:57+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Memphis development has no Michigan connection and adds nothing beyond the national trend already covered in killed stories."
   }
  ],
  "auto_published": [
