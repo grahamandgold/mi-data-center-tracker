@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMzlHc1hLNE9NLS15UGZXV1JadWZ2THowcm5lRGFUWmIwUC1DTjJ6UEVmdHR6cnFQMXVnZmw3S29hRnB6VHVFN1hJNG9iTUVxdFpYR1dQNURrMTFxd24wbUhnZ1h5NmM4YUc1OHM5N3dieDI0VWxuN3E3WVRVVE5JZjd6bWxNUWhOZVZnalFSaW1XVlZ6OGc?oc=5",
-   "title": "Lake Township tightens data-center rules with hard caps on water and power",
-   "at": "2026-08-14T15:01:21+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Duplicate of already-live Lake Township water/power cap story; 'draft ordinance' is not a new decision beyond the existing cap."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcFNzbFFRdHlZUUtPc25uREl6cHZwN0U0dmtfN2tDaDZaZWE5dG9WRXktMmJ1eUNRRjh2NkRXXzBUdFBZRnc4TGZxQXNCWXV2eUlSRmNyU3FDdm9hWFE0OUpsbWV5QVRRSDBxWUJZbE1SWTh2dGRVWUFESTU2OVRrX3BBNGVIdEFUYUlHVUdNaHZhOVNnTThsc1BQemRRN2RHNFlzQVYwS29VdGtyTktTWEdfTnZTV0dBM2VJVldsdEI2dnU1OWlvX3ZLMHVZUQ?oc=5",
    "title": "Hyperscale Data cashes 685 BTC for $43M to build Michigan data center",
    "at": "2026-08-14T15:01:21+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-22T03:03:45+00:00",
    "by": "news_judge",
    "note": "score 4/10: Advocacy group position statement on general review process rather than a specific filing, vote, or concrete development; reads like organized PR without a hard"
+  },
+  {
+   "url": "https://www.cbsnews.com/detroit/news/raedan-acquisition-sues-gibraltar-data-center-moratorium/",
+   "title": "Gibraltar Sued Over Data Center Freeze at Former Steel Mill",
+   "at": "2026-08-22T04:42:02+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: This is the same lawsuit and moratorium already covered in the live story 'Developer sues Gibraltar to overturn year-long data center moratorium.'"
   }
  ],
  "auto_published": [
