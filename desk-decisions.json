@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://wwmt.com/news/local/marshall-threat-council-city-data-center-dispute-moratorium-project-proposal-leaders-mayor-police-department-wwmt",
-   "title": "Marshall police warn council of credible threats tied to data center moratorium fight",
-   "at": "2026-08-14T15:01:21+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Same Marshall council threats story already live, just reworded with police attribution instead of council perspective."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMzlHc1hLNE9NLS15UGZXV1JadWZ2THowcm5lRGFUWmIwUC1DTjJ6UEVmdHR6cnFQMXVnZmw3S29hRnB6VHVFN1hJNG9iTUVxdFpYR1dQNURrMTFxd24wbUhnZ1h5NmM4YUc1OHM5N3dieDI0VWxuN3E3WVRVVE5JZjd6bWxNUWhOZVZnalFSaW1XVlZ6OGc?oc=5",
    "title": "Lake Township tightens data-center rules with hard caps on water and power",
    "at": "2026-08-14T15:01:21+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-22T01:43:29+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Same Rogers call for pause already covered multiple times in killed stories."
+  },
+  {
+   "url": "https://grandrapids.org/news/data-centers-are-coming-lets-get-it-right/",
+   "title": "Michigan Coalition Urges Project-by-Project Data Center Reviews",
+   "at": "2026-08-22T03:03:45+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Advocacy group position statement on general review process rather than a specific filing, vote, or concrete development; reads like organized PR without a hard"
   }
  ],
  "auto_published": [
