@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.datacenterdynamics.com/en/news/data-center-related-threats-made-against-local-authorities-in-marshall-michigan/",
-   "title": "Marshall officials get credible death threats over data center fights",
-   "at": "2026-08-14T22:32:46+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Same Marshall threats story already killed twice (Marshall police warn council of credible threats; Marshall officials receive threats tied to proposed data cen"
-  },
-  {
    "url": "https://www.mlive.com/topic/data-centers/",
    "title": "Michigan utilities in talks with data centers that could sharply raise power demand",
    "at": "2026-08-14T22:32:46+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-22T16:56:05+00:00",
    "by": "news_judge",
    "note": "score 1/10, duplicate: Mike Rogers calling for a pause/freeze on Michigan data centers has been killed multiple times by the News Director; this is the same story repackaged."
+  },
+  {
+   "url": "https://www.informationweek.com/ai-innovations/the-week-of-aug-17-21-what-happened-what-matters-what-s-next",
+   "title": "Pennsylvania Governor Issues Executive Order Requiring Local Approvals for Large Data Centers",
+   "at": "2026-08-22T19:28:58+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Pennsylvania policy development with no Michigan angle; already killed similar PA executive order story, and this is a national trend piece for Michigan readers"
   }
  ],
  "auto_published": [
