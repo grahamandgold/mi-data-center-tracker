@@ -1,10 +1,10 @@
 {
- "title": "Mornings with Graham & Emmy",
- "teaser": "Officials in eight communities face recalls tied to data center votes.",
+ "title": "Evenings with Graham & Emmy",
+ "teaser": "28 officials targeted in recalls over data center votes—what it means for your bills and land.",
  "lines": [
   {
    "host": "Graham",
-   "text": "Good morning and welcome to Mornings with Graham & Emmy, the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
+   "text": "Good evening and welcome to Evenings with Graham & Emmy—the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
   },
   {
    "host": "Emmy",
@@ -12,274 +12,210 @@
   },
   {
    "host": "Graham",
-   "text": "It's Saturday morning, August 22, and our big story today is the growing recall pressure facing local officials over their data center decisions."
+   "text": "Tonight we're diving into growing recall pressure on local officials and how these fights are reshaping communities from the U.P. to southwest Michigan."
   },
   {
    "host": "Emmy",
-   "text": "That's right, Graham. A new Bridge Michigan analysis shows at least 28 officials in eight communities have faced recall efforts tied to data center votes, though only one has made it onto the November ballot so far."
+   "text": "That's the big one today."
   },
   {
    "host": "Graham",
-   "text": "Exactly, Emmy. This isn't just one isolated fight. It's part of a broader pattern we've seen building across the state in places like Washtenaw, Lenawee, and Ingham counties."
+   "text": "A new Bridge Michigan analysis shows at least 28 officials in eight communities have faced recall efforts tied directly to their data center votes."
   },
   {
    "host": "Emmy",
-   "text": "Why do you think these recalls are gaining traction now? Is it the scale of the projects or something else?"
+   "text": "Only one of those recalls has even made it onto the November ballot so far."
   },
   {
    "host": "Graham",
-   "text": "It's the combination of real concerns about power demand, water use, and potential tax breaks that hit residents' electric bills. Folks are showing up at township halls and coffee hours asking tough questions."
+   "text": "Exactly. These aren't abstract policy fights anymore—they're hitting ballots and forcing neighbors to choose sides on power plants disguised as server farms."
   },
   {
    "host": "Emmy",
-   "text": "Take the Saline session yesterday or the one in Palmyra. Residents there specifically worried about higher utility costs and constant noise from the facilities."
+   "text": "Why now? What's changed that has residents organizing recalls instead of just showing up at meetings?"
   },
   {
    "host": "Graham",
-   "text": "Right. And in Forsyth Township today, hundreds packed a hall to grill officials on electricity rates, water supplies, and even rumored military ties near the sites in Marquette County."
+   "text": "The scale. Proposals are multiplying fast in western Michigan townships and places like Marquette County, and people are realizing what one big facility can do to their electric rates and water supply."
   },
   {
    "host": "Emmy",
-   "text": "That sounds intense. How does this recall pressure change the dynamic for local leaders who might be weighing moratoriums or zoning changes?"
+   "text": "Walk me through the stakes on power and water. How much are we talking?"
   },
   {
    "host": "Graham",
-   "text": "It puts them in a tough spot. With only one recall on the ballot so far, it shows voters are organized but the bar is high. Still, the threat alone can slow projects or push officials to add more oversight."
+   "text": "A single large data center can pull as much electricity as a small city and use millions of gallons of water for cooling. Locals worry their bills go up to subsidize that demand."
   },
   {
    "host": "Emmy",
-   "text": "What about the bigger picture for towns 30 or 60 miles away? Why should someone in Lansing care about a fight in Mason or Vevay Township?"
+   "text": "And farmland gets paved over or rezoned in the process."
   },
   {
    "host": "Graham",
-   "text": "Because power demand doesn't stay local. A big data center can pull gigawatts that affect grid stability and rates across the region. Plus annexation fights like the one in Vevay could shift tax revenue away from townships."
+   "text": "Right. Rural townships that voted to keep things quiet and agricultural are suddenly staring at traffic, noise, and lost open space."
   },
   {
    "host": "Emmy",
-   "text": "And farmland loss is another angle we've heard. St. Joseph County is debating a two-year freeze partly over worries about lost farmland and higher bills."
+   "text": "So the recalls are a direct reaction to those votes approving or blocking projects."
   },
   {
    "host": "Graham",
-   "text": "Yes. Developers are pushing hard too. We saw a firm sue Gibraltar today to overturn a year-long moratorium, claiming it illegally blocked their project in Wayne County."
+   "text": "Yes. Bridge Michigan tracked efforts in eight communities. Most haven't qualified for the ballot yet, but the pressure is real and it's statewide."
   },
   {
    "host": "Emmy",
-   "text": "That lawsuit could test how much local governments can slow these facilities. If it succeeds, it might encourage more challenges elsewhere."
+   "text": "What happens next if more recalls qualify?"
   },
   {
    "host": "Graham",
-   "text": "Meanwhile, the company behind the Mason project was finally named yesterday, giving Ingham County residents a clearer target for questions about water, noise, and grid impact."
+   "text": "Special elections could flip boards and change the rules mid-game. Developers are already suing places like Gibraltar over moratoriums, so the legal fights will keep going."
   },
   {
    "host": "Emmy",
-   "text": "Transparency helps, but it also ramps up the scrutiny. Do you think this recall trend will spread to more communities?"
+   "text": "Is this the first wave or have we seen recalls over data centers before in Michigan?"
   },
   {
    "host": "Graham",
-   "text": "It's possible. The analysis covers eight communities already, and with projects advancing in Washtenaw under new local rules, more public pushback could lead to additional recall petitions."
+   "text": "This analysis is the clearest statewide picture so far. Earlier fights were more localized—noise complaints in one township, tax breaks in another—but now it's coordinated enough to hit multiple officials at once."
   },
   {
    "host": "Emmy",
-   "text": "What happens next on that November ballot? Is there much chance the one recall effort succeeds?"
+   "text": "And only one made the ballot. That tells me organizers are still learning how to gather signatures fast enough."
   },
   {
    "host": "Graham",
-   "text": "Hard to say without more details, but it forces a direct vote on whether residents want to keep or replace officials tied to these decisions. It could set a precedent."
+   "text": "Or that many of these votes happened recently and the clock is still running on the petition process."
   },
   {
    "host": "Emmy",
-   "text": "And the crypto angle adds another layer. Hyperscale Data sold $43 million in Bitcoin yesterday specifically to fund their Michigan buildout."
+   "text": "For listeners 30 or 50 miles away, why should they care about what happens in these specific eight communities?"
   },
   {
    "host": "Graham",
-   "text": "That shows how volatile markets are now directly tied to local infrastructure plans here. Michigan residents will feel it through added power demand and potential tax deals."
+   "text": "Because the precedent travels. If one township blocks a project on water concerns, the next developer just moves down the road to the next willing board."
   },
   {
    "host": "Emmy",
-   "text": "So the stakes are statewide even if the fights feel hyperlocal. Graham, how are officials responding to all this pressure?"
+   "text": "And the power demand doesn't disappear—it just shifts the burden to the regional grid."
   },
   {
    "host": "Graham",
-   "text": "Some are holding more public sessions, like the one in Saline yesterday. Others are tightening rules on size and location rather than waiting for state action."
+   "text": "Exactly. Higher rates and more strain on infrastructure hit everyone who shares the same utility territory."
   },
   {
    "host": "Emmy",
-   "text": "That local oversight expansion in Washtenaw is interesting. It shows communities aren't waiting around."
+   "text": "So the recall pressure is really about who gets to decide the future of these towns before the next big proposal lands."
   },
   {
    "host": "Graham",
-   "text": "Exactly. And in Palmyra, neighbors voiced fears over power spikes and noise during a zoning session."
+   "text": "That's the heart of it. And with more projects in the pipeline, expect the signature drives to keep coming."
   },
   {
    "host": "Emmy",
-   "text": "Do these recalls risk politicizing what should be planning decisions?"
+   "text": "We'll watch which of those eight communities actually get recalls on the ballot and what the campaigns look like."
   },
   {
    "host": "Graham",
-   "text": "Possibly, but they also reflect genuine resident frustration over impacts that weren't fully explained upfront. The history here is years of incremental approvals now hitting a wall of public awareness."
+   "text": "Now let's hit the other stories making news this weekend."
   },
   {
    "host": "Emmy",
-   "text": "What about the one recall that did reach the ballot? Any sense of how that community got organized?"
+   "text": "Starting with today—Kluver Road township officials rejected a server farm permit after residents raised noise, traffic, and water worries."
   },
   {
    "host": "Graham",
-   "text": "Bridge Michigan's reporting points to sustained turnout at meetings and petition drives. It took real grassroots effort across those eight communities to get even this far."
+   "text": "That keeps the rural area free of large-scale facilities for now."
   },
   {
    "host": "Emmy",
-   "text": "And only one succeeded in qualifying. That tells us something about the difficulty of recalls in Michigan."
+   "text": "Same day in South Haven, neighbors are fighting a rezoning that could open the door to a data center on the Baseline property."
   },
   {
    "host": "Graham",
-   "text": "It does. But the pressure itself is already influencing outcomes, like the moratorium debates in St. Joseph and the annexation push in Vevay."
+   "text": "They're citing the same concerns—noise, traffic, and strain on local services—and the outcome here could influence nearby townships facing similar proposals."
   },
   {
    "host": "Emmy",
-   "text": "Vevay landowners want their land moved into Mason to clear the path for a data center. That shifts control and taxes."
+   "text": "Yesterday in Forsyth Township, hundreds packed the hall to grill officials on power rates, water use, and even rumored military ties to the projects in Marquette County."
   },
   {
    "host": "Graham",
-   "text": "Residents 30 miles away in Lansing or Jackson could see ripple effects on power and water if it goes through."
+   "text": "First real public look at the scale for Upper Peninsula residents."
   },
   {
    "host": "Emmy",
-   "text": "So the recall wave might encourage more townships to hit pause while they study these trade-offs."
+   "text": "Also yesterday, a developer sued Gibraltar to overturn that year-long data center moratorium."
   },
   {
    "host": "Graham",
-   "text": "That's the hope for some residents. For developers, it means navigating more legal and political hurdles."
+   "text": "Wayne County residents could see delayed tax revenue and jobs if the suit succeeds. It tests how far local governments can slow these facilities."
   },
   {
    "host": "Emmy",
-   "text": "The Gibraltar lawsuit today is a perfect example of that pushback from the other side."
+   "text": "In Mason, the firm behind the proposed data center finally got named."
   },
   {
    "host": "Graham",
-   "text": "Yes. The firm claims the moratorium was illegal, and success could speed up projects in Wayne County with delayed tax revenue and jobs on the line if it fails."
+   "text": "Ingham County residents now have a clearer target for questions about water, noise, and grid impact."
   },
   {
    "host": "Emmy",
-   "text": "How do you see this playing out over the next few months?"
+   "text": "St. Joseph County is weighing its own two-year freeze on new projects while leaders study roads, water, and electricity."
   },
   {
    "host": "Graham",
-   "text": "More public hearings, possible additional recall petitions, and local boards adding stricter rules on location and size. The November ballot will be a key test."
+   "text": "Residents there worry about higher utility bills and lost farmland—another potential model for southwest Michigan townships."
   },
   {
    "host": "Emmy",
-   "text": "And with the Mason developer now public, expect more targeted questions there too."
+   "text": "In Saline, dozens showed up at a coffee hour to question leaders about electric bills, water use, and lost tax revenue if projects win breaks."
   },
   {
    "host": "Graham",
-   "text": "Absolutely. The disclosure gives the community a clearer target."
+   "text": "The issue is clearly becoming a flashpoint in Washtenaw County."
   },
   {
    "host": "Emmy",
-   "text": "Shifting to some quick hits, Graham, let's start with today's Forsyth meeting. What stood out?"
+   "text": "Hyperscale Data sold $43 million in Bitcoin—685 BTC—to cut debt and fund its Michigan buildout."
   },
   {
    "host": "Graham",
-   "text": "Hundreds turned out in the Upper Peninsula to question power rates, water supplies, and those military rumors near Marquette County sites. It was their first direct look at the scale."
+   "text": "Crypto volatility now directly feeding local power and water demands."
   },
   {
    "host": "Emmy",
-   "text": "That turnout shows the issue isn't just downstate. And the Gibraltar lawsuit?"
+   "text": "And on Friday, Palmyra Township residents in Lenawee County pushed back on plans over fears of spiking electric bills and constant noise."
   },
   {
    "host": "Graham",
-   "text": "A developer is suing to overturn the one-year moratorium, arguing it illegally blocked their project. Wayne County residents could see delayed jobs and revenue."
+   "text": "Anyone within 50 miles could feel higher utility costs if those projects move without stricter limits."
   },
   {
    "host": "Emmy",
-   "text": "Next, the Mason developer reveal yesterday."
+   "text": "That's a lot of activity in just two days."
   },
   {
    "host": "Graham",
-   "text": "Yes, the firm was finally named, giving Ingham County folks a specific target for concerns about power, water, and taxes."
+   "text": "It shows how quickly the issue is spreading beyond the initial hotspots."
   },
   {
    "host": "Emmy",
-   "text": "And St. Joseph County's two-year freeze debate?"
+   "text": "On deck for listeners who want to get involved—no major public meetings are listed for the weekend itself."
   },
   {
    "host": "Graham",
-   "text": "Leaders are weighing it to study road, water, and electricity impacts. Residents fear higher bills and lost farmland."
+   "text": "But township boards across the state will be back in session next week. Check your local clerk for agendas on rezoning and moratorium votes."
   },
   {
    "host": "Emmy",
-   "text": "Saline residents packed a coffee hour yesterday with the same worries about bills, water, and tax breaks."
-  },
-  {
-   "host": "Graham",
-   "text": "Dozens showed up, making it clear this is a flashpoint in Washtenaw County."
-  },
-  {
-   "host": "Emmy",
-   "text": "The Bitcoin sale by Hyperscale Data ties crypto directly to Michigan plans."
-  },
-  {
-   "host": "Graham",
-   "text": "They offloaded 685 BTC and cut debt, earmarking cash for the buildout. Volatility now funds local infrastructure."
-  },
-  {
-   "host": "Emmy",
-   "text": "Palmyra pushback focused on power spikes and noise in Lenawee County."
-  },
-  {
-   "host": "Graham",
-   "text": "Neighbors raised those issues at a zoning session, with warnings that anyone within 50 miles could face higher costs."
-  },
-  {
-   "host": "Emmy",
-   "text": "Washtenaw projects are advancing under tighter local oversight."
-  },
-  {
-   "host": "Graham",
-   "text": "Boards are setting rules on size and location instead of waiting for state moves."
-  },
-  {
-   "host": "Emmy",
-   "text": "Finally, the Vevay annexation effort to speed up the Mason data center."
-  },
-  {
-   "host": "Graham",
-   "text": "Landowners want the shift for tax and control reasons, which could affect power and water demand farther out."
-  },
-  {
-   "host": "Emmy",
-   "text": "Now for on deck, Graham. Any meetings listeners should watch for?"
-  },
-  {
-   "host": "Graham",
-   "text": "We'll be checking local township and city calendars for any follow-up sessions on these projects next week."
-  },
-  {
-   "host": "Emmy",
-   "text": "Residents in affected areas like Mason, Saline, and Forsyth should keep an eye on their boards' schedules."
-  },
-  {
-   "host": "Graham",
-   "text": "Public input has already shaped some of these debates, so showing up matters."
-  },
-  {
-   "host": "Emmy",
-   "text": "And with recalls in play, more communities may schedule special meetings soon."
-  },
-  {
-   "host": "Graham",
-   "text": "We'll highlight any confirmed dates as they come up."
-  },
-  {
-   "host": "Emmy",
-   "text": "Sounds good. Full sources and the live map at the Michigan Data Center Tracker."
+   "text": "Full sources and the live map at the Michigan Data Center Tracker."
   },
   {
    "host": "Graham",
    "text": "We're back tomorrow."
   }
  ],
- "episode_title": "Recall Pressure Builds on Michigan Data Center Officials",
- "show": "Mornings with Graham & Emmy",
- "daypart": "Mornings"
+ "episode_title": "Recall Push Grows as Data Center Battles Spread Across Michigan Townships",
+ "show": "Evenings with Graham & Emmy",
+ "daypart": "Evenings"
 }
