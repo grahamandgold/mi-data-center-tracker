@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://bridgemi.com/business-watch/u-m-affirms-ypsilanti-1-2b-computing-center-site-township-officials-vow-fight/",
-   "title": "Ypsilanti Twp. officials vow fight after U-M affirms $1.2B Textile Road center",
-   "at": "2026-08-14T21:34:22+00:00",
-   "by": "news_judge",
-   "note": "score 4/10, duplicate: This is the same U-M Ypsilanti Township data center affirmation already killed twice; the township opposition angle was also previously killed."
-  },
-  {
    "url": "https://www.crainscleveland.com/politics-policy/ccl-ohio-supreme-court-data-center-20260814/",
    "title": "Ohio Supreme Court issues key ruling on data center project approvals",
    "at": "2026-08-14T21:54:27+00:00",
@@ -1399,15 +1392,16 @@
    "at": "2026-08-22T14:52:12+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: This is the same Gibraltar lawsuit already covered in the LIVE story 'Developer sues Gibraltar to overturn year-long data center moratorium' and also appears in"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd3Z4b0ViQndhSWdwT0dSRHlnT2tQZnBHMXNJSWFYU0JMVC1HbXlOeW95RGlFY0pUTm5DNFVMZll5d0Y5dTVHbTNMOEpwbUtHVkpjMk52RnZPMGZHZ3BxS2RrQk83M21ScDZ0ZTUxX1A4dHBzRHoycnhNWkZvMXpBX1NZcTBkMEQwNWlUUTVNQmJzZDluUXVhbERUSQ?oc=5",
+   "title": "Rogers pushes pause on Michigan data centers amid power strain fears",
+   "at": "2026-08-22T16:34:36+00:00",
+   "by": "news_judge",
+   "note": "score 1/10, duplicate: This is the Mike Rogers pause proposal that has been killed multiple times already; no new development justifies resurrection."
   }
  ],
  "auto_published": [
-  {
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOcFEyM0VPbUtZVzNUeGc4WnJoSEhEdExzOVY2blJ0Mk5FamJDNU1wUzdrUGJKWFZBc19QTnQwVHQ0RFUtcGVTRXpFNm9PRlpiNkhzdklEaWdKSU9EVmFTNDFiaFBzRWhjVEZlUmlzbllaaThRM0NyNV9DdjNvVFNQLUxhVm84QkhWRUlxSjZRc3Z0U0dZRGRwX3FFZjl6aUFPYjY4c2xpTHB4dy1oUlNIeHZCVU9hVEVGS0Ffc1pjN0M4RF80aG5hdmVBNDFpXzA0VmtydFlFamVvZXptYmFSZG13TFdMTVkydV83alRzSmFJemd2Wjln?oc=5",
-   "title": "Meta's giant Wyoming data center clears early city hurdles",
-   "judge_score": 9,
-   "at": "2026-07-10T19:46:19Z"
-  },
   {
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBidUpqcFNSR09YdXlLT1ltTDZfcU1NT09DcjM3eDVyM2pQUFpneXlPV3NMbjhQRXBpby1qZWVRcGpmTnR2TFp6UUxwUV81T3BaRjJQVS1nYUJoQmpKVFpDZDR6dC1GaTNBTkloMkdQQzlSVVNFWDNYR0I2OEg?oc=5",
    "title": "Dingell probes U-M data center plan with Los Alamos ties",
@@ -3201,6 +3195,12 @@
    "title": "South Haven residents fight rezoning that could open door to data center",
    "judge_score": 7,
    "at": "2026-08-22T12:54:20Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMEcybllVYjNqRjZacURaMklkM1NGNGxSazJNZEt0ZnFfclFDYXdRYWhQSmVpdFJRQkEwVEg5aTRJcWl1U3FmLUNYREY4THZ5ZktXbGN2bnp6VU5nMnFDX0N6b2MxZmdBcG02ak96YW0tRmI2am1kdkxwcVYzeXRpcUEyN1cwbURrdUtIb0cxMEs2aW91aGJOZjFRaWx4dm9SV2d4eTNuT25jZUg4RldsRE1YSjNRM0gxMHNGanRiS1l2S1Eya0xHQldmYndNQnFGbUVLNjBtemhxMzZrR2RFWnp1ZUsyMTBicVpTdW5XdjlZNmRTREZ2MlFGUQ?oc=5",
+   "title": "Township rejects server farm after residents cite noise, traffic, water concerns",
+   "judge_score": 8,
+   "at": "2026-08-22T16:34:37Z"
   }
  ]
 }
