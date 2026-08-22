@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.reuters.com/business/energy/pjm-proposes-plan-buy-more-power-data-centers-2026-08-13/",
-   "title": "PJM Grid Operator Proposes Rules to Curtail Data Center Use During Shortages",
-   "at": "2026-08-14T19:53:58+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: National grid policy proposal with Michigan implications but no Michigan-specific decision, filing, or action yet."
-  },
-  {
    "url": "https://montanafreepress.org/2026/08/13/fort-peck-tribes-ban-discussions-data-center-development/",
    "title": "Fort Peck Tribes Ban All Data Center Talks Over Water, Land Fears",
    "at": "2026-08-14T20:38:51+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-22T10:32:38+00:00",
    "by": "news_judge",
    "note": "score 3/10: Campaign positioning and voter messaging rather than a concrete development; too similar in theme to killed political/campaign trend pieces."
+  },
+  {
+   "url": "https://cbs12.com/news/nation-world/michigan-republican-gop-mike-rogers-backs-temporary-ban-on-data-center-construction-democrat-abdul-el-sayed-us-senate-race-election",
+   "title": "Rogers Backs One-Year Data Center Ban to Protect Michigan Farmland, Power Bills",
+   "at": "2026-08-22T11:28:41+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This is the same Mike Rogers pause/moratorium call that has been killed multiple times in different wordings; no new development or action reported."
   }
  ],
  "auto_published": [
