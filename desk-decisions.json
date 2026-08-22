@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUDJHZGpIdElpRWYzMWRUak5QUHpxWE40a3BtTGZyY3hvS2dzaGpzaDJYTTNERzZxQ25OUVhnaUFuZkpLTTFCeUhBWGZJaUxUN0RaeS1HZHJuZlA5YTNUbl93b3VqR0R0blJDS1ExQ3V4QThscVR3LUt5dVdvb0c1MmpzSWJtRlpEd2dWcQ?oc=5",
-   "title": "Bitcoin miner funnels $43M from crypto sales into Michigan data center push",
-   "at": "2026-08-14T17:02:01+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicate of already-live 'Hyperscale Data sells $43M in Bitcoin to fund Michigan data center push' — identical transaction and company, merely reworded."
-  },
-  {
    "url": "https://www.mlive.com/politics/2026/07/mlive-interactive-dashboard-tracks-the-data-center-battle-raging-across-michigan.html",
    "title": "Data Center Moratoriums Now Cover More Than 1,500 Square Miles in Michigan",
    "at": "2026-08-14T17:58:48+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-22T05:35:02+00:00",
    "by": "news_judge",
    "note": "score 3/10: National polling trend piece that mentions Michigan but reports no Michigan-specific decision or action."
+  },
+  {
+   "url": "https://www.vox.com/today-explained-newsletter/500158/data-centers-2026-election-texas-ohio-michigan",
+   "title": "Data center backlash emerges as key issue in multiple state elections",
+   "at": "2026-08-22T05:58:11+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece aggregating voter sentiment across multiple states without reporting a specific Michigan decision, filing, or concrete development."
   }
  ],
  "auto_published": [
