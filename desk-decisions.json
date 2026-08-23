@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://podcastrex.com/shows/democracy-now-audio/democracy-now-2026-08-14-friday",
-   "title": "Tennessee Primary Highlights Growing Backlash Against Hyperscale Data Centers",
-   "at": "2026-08-15T16:34:32+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece about a Tennessee primary result with no Michigan-specific development or connection to the state's data center buildout."
-  },
-  {
    "url": "https://elkodaily.com/news/nation-world/business/article_4bc5e4f5-2153-5903-9de3-7a6df054280d.html",
    "title": "Michigan protests add risk for data center loans as banks watch nationwide pushback",
    "at": "2026-08-15T17:28:33+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-23T19:28:21+00:00",
    "by": "news_judge",
    "note": "score 4/10, duplicate: This appears to be a rehash of the already-live 'Firm behind Mason data center project finally named' story covering the same Mason County data center discussio"
+  },
+  {
+   "url": "https://www.businessinsider.com/category/data-centers",
+   "title": "Tech Leaders Clash Over Strategies to Address Growing Data Center Backlash",
+   "at": "2026-08-23T21:49:33+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece about tech industry reactions to backlash with no Michigan-specific development, decision, or concrete action."
   }
  ],
  "auto_published": [
