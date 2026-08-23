@@ -1,28 +1,7 @@
 {
- "updated_at": "2026-08-23T08:40:44+00:00",
+ "updated_at": "2026-08-23T09:35:46+00:00",
  "generator": "grok-wire-agent",
  "items": [
-  {
-   "title": "Barrett bill aims to keep federal hands off local data center fights",
-   "dek": "Michigan Rep. Tom Barrett introduced legislation that would block federal agencies from overriding local decisions on data centers. The move responds to growing township-level battles over power, water and tax breaks. It gives communities clearer authority to set their own rules without Washington stepping in.",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVkRZTUFnTGdMTEhNQ0RvejF6TmludDBSYlA3ZG5DZkJzVDZLWG1vSkRZMS1nV3NXUTlxNEYzTTRUZ0o3Y2owSW1hWVVOU0d5YTBBZWxRNWIwLTIyRUxTV2hQeDZvZC1HaDFvazVHck5vVllTd1NHeTlEUHp6WC1JN0RmRU5JYkVr?oc=5",
-   "source": "AOL.com",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Policy",
-   "iso": "2026-08-21T20:48:26Z",
-   "kind": "story",
-   "id": "b40f801ccb73",
-   "filed_at": "2026-08-22T17:49:42Z",
-   "origin": "google-news",
-   "headline_rewritten": true,
-   "source_title": "Barrett bill would bar federal intervention in local data center debates - AOL.com",
-   "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVkRZTUFnTGdMTEhNQ0RvejF6TmludDBSYlA3ZG5DZkJzVDZLWG1vSkRZMS1nV3NXUTlxNEYzTTRUZ0o3Y2owSW1hWVVOU0d5YTBBZWxRNWIwLTIyRUxTV2hQeDZvZC1HaDFvazVHck5vVllTd1NHeTlEUHp6WC1JN0RmRU5JYkVr?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7,
-   "judge_note": "Concrete new development: a specific federal bill introduced by a Michigan congressman directly addressing the local data center battles, representing legislati"
-  },
   {
    "iso": "2026-08-26T12:00:00+00:00",
    "region": "statewide",
@@ -114,5 +93,5 @@
    "judge_note": "Concrete legislative development: Jeremy Moss added as co-sponsor to utility rate bill targeting data centers, a new action on a relevant bill."
   }
  ],
- "accuracy_checked_at": "2026-08-23T08:40:44+00:00"
+ "accuracy_checked_at": "2026-08-23T09:35:46+00:00"
 }
