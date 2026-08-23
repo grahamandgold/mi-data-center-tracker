@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.news8000.com/lifestyle/money/lenders-scrutinize-us-data-center-financing-as-community-opposition-builds/article_8548bd83-4d63-5b65-8746-f01c55e77dee.html",
-   "title": "Lenders Tighten Scrutiny on Data Center Financing as Community Opposition Grows",
-   "at": "2026-08-15T13:37:27+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: National trend piece about lender behavior with only passing mention of Michigan; lacks specific Michigan financing decision or concrete development."
-  },
-  {
    "url": "https://podcastrex.com/shows/democracy-now-audio/democracy-now-2026-08-14-friday",
    "title": "Tennessee Primary Highlights Growing Backlash Against Hyperscale Data Centers",
    "at": "2026-08-15T16:34:32+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-23T17:49:51+00:00",
    "by": "news_judge",
    "note": "score 2/10: National trend piece about 2026 elections with no new Michigan-specific development; Rogers moratorium position already covered in killed stories."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYWpSYzRUZ0VNLWxjUXZTVFd0dG11X09aLUNsY2FUZm5LS0FtR2RobXRkZDNNbWF3d1NGcmVxRnE3b0E4NTR1YzVNSXVtZjZjMm4yclJyY0pOV1djR2M1YXlpQjJSU2FtWmllUWFsd05ySm9YNDVob1FYcGpqN2cwQXhuOV9zYUxHcV9SQjgzb2VCQXdzNlJDaVF6bXR3MS1OU3BQdDR2cVhsMEt0U2R4WDJOUm5xNlFoWm1EMGltX3dHd3FtME9oemc2NVZfc1h2QVBGcmNYOA?oc=5",
+   "title": "Mason County residents grill officials on data center power and water use",
+   "at": "2026-08-23T19:28:21+00:00",
+   "by": "news_judge",
+   "note": "score 4/10, duplicate: This appears to be a rehash of the already-live 'Firm behind Mason data center project finally named' story covering the same Mason County data center discussio"
   }
  ],
  "auto_published": [
