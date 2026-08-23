@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-23T15:50:24+00:00",
+ "updated_at": "2026-08-23T16:35:53Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "GenH pitches Morley Dam as hidden data center power source",
+   "dek": "GenH is floating a plan to use the existing Morley Dam site for a data center that would generate its own electricity. The concept could sidestep some utility fights but still raises questions about water use and local impacts in Mecosta County. Readers nearby should watch how the project is classified under state rules.",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ1lUclZYUWhzVkpKV0dQR1hXMXY2ekIxNzQtOFk5bU9fV1NBMGJ4STd0d1ZyQkNBa2pCRDNuZEJ0cWJqRmJDMFpTamh1Z1lXamZiU1ZDb2tzQTZMMkp4S1lFU21JeXNEd0FQQnNic2lPbV9VNVRHSWJiSG1FU21ySXdCR1BjeDBQUU9LYkgtT3RFOHd1aUFUU0ln?oc=5",
+   "source": "Big Rapids Pioneer",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Mecosta",
+   "tag": "Explainers",
+   "iso": "2026-08-23T14:07:05Z",
+   "id": "0dc315ba27cd",
+   "origin": "google-news",
+   "source_title": "EXPLAINER: Is it a data center? How GenH’s Morley Dam concept would work - Big Rapids Pioneer",
+   "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ1lUclZYUWhzVkpKV0dQR1hXMXY2ekIxNzQtOFk5bU9fV1NBMGJ4STd0d1ZyQkNBa2pCRDNuZEJ0cWJqRmJDMFpTamh1Z1lXamZiU1ZDb2tzQTZMMkp4S1lFU21JeXNEd0FQQnNic2lPbV9VNVRHSWJiSG1FU21ySXdCR1BjeDBQUU9LYkgtT3RFOHd1aUFUU0ln?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Township rejects server farm after residents cite noise, traffic, water concerns",
    "dek": "Township officials rejected the permit for a proposed data center on Kluver Road. Residents nearby worry about noise, traffic, and higher water use if the project had moved forward. The decision keeps the rural area free of large-scale server farms for now.",
@@ -169,23 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQVpFZ1RRb2lBUkVmTkk1UFdaanFJSG5vcHVPWjJtZVU5ZGlyOS1Idm1sY2dlQ1JYeF9nVERYV3RieVQtcnU5TGhXNVFsVGhVVkVoekVqeU80VzhXcnBnb1ZrYkdKZmZRcWF4YTg4TmRpTmFDVVV2N0hmaEtpQkhoYmE5Sktpb3FKWjU5blg2a0swSEhm?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Washtenaw data center projects advance under new local oversight",
-   "dek": "The Sun Times News weekly roundup shows oversight expanding in Washtenaw County as multiple data center proposals move forward. Residents 30 miles away feel the impact through rising power demand and potential tax deals. Local boards are tightening rules on size and location rather than waiting for state action.",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNnZXRFk0YnFURVBxV1IwSkloTnRwLURkckpFTm1SdUNnU3R6STR1VWNmOWE2TGp6bGFLYzhxR1lKam85d21vR08tYjJFWFRmR1EyYlNaXzBUYkp6MTZ6NGZ4Y2pyV2ZlYlVYRU9tVDZfY2EyRDhMUE91alJKaFpUbkY1TS1id0FESy1Da0ZXRVR1MkRsZXg2MUxQak1lVnlUdDg3Qw?oc=5",
-   "source": "The Sun Times News",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Local Government",
-   "iso": "2026-08-21T00:26:24Z",
-   "id": "66ca0f65614d",
-   "origin": "google-news",
-   "source_title": "Weekly Data Center Watch: Local Oversight Expands as Projects Move Forward - The Sun Times News",
-   "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNnZXRFk0YnFURVBxV1IwSkloTnRwLURkckpFTm1SdUNnU3R6STR1VWNmOWE2TGp6bGFLYzhxR1lKam85d21vR08tYjJFWFRmR1EyYlNaXzBUYkp6MTZ6NGZ4Y2pyV2ZlYlVYRU9tVDZfY2EyRDhMUE91alJKaFpUbkY1TS1id0FESy1Da0ZXRVR1MkRsZXg2MUxQak1lVnlUdDg3Qw?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {

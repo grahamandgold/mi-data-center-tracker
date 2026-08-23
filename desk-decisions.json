@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.cnbc.com/2026/08/14/data-centers-in-space-emerge-as-next-frontier-for-insurers.html",
-   "title": "Space-based data centers emerge as new frontier amid terrestrial power strains",
-   "at": "2026-08-15T09:34:11+00:00",
-   "by": "news_judge",
-   "note": "score 2/10: National trend speculation about space-based data centers with no Michigan angle, no concrete project, and no relevance to Michigan's terrestrial buildout track"
-  },
-  {
    "url": "https://www.cleveland.com/news/2026/08/data-center-investors-want-to-buy-ohios-public-utilities.html",
    "title": "Data center investors eye purchase of Ohio public utilities amid surging power demand",
    "at": "2026-08-15T11:49:30+00:00",
@@ -1399,15 +1392,16 @@
    "at": "2026-08-23T15:50:36+00:00",
    "by": "news_judge",
    "note": "score 4/10: National trend piece about aggregate pipeline numbers lacks specific Michigan project decisions, timelines, or local impact details that would make it actionabl"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLU5yY3hLbHBVMzV3ckh1N1J0NHVmay1UMVRteExqVmt0b1NGUG1KUVlXY3ZjQUE1QUtDVXFybVBEcnZabURjcGxCbloyTmtwS2Q0a0paN0E0SGk4SmhQRjJqR3JjcXRRMjNwQUFEX2pUV3hOOUhGLTRmZjltWndSdF9sMFNRWWluZ2NfdnNDMUdfVGJSVzNpc3FKLTgwelRhR2NKU193LVpQamEzUU5CRDF1N2U4ZHVXZXRVYQ?oc=5",
+   "title": "NY senator rallies Genesee County against AI data centers",
+   "at": "2026-08-23T16:35:53+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Out-of-state politician visiting Michigan county is thin; no decision, filing, or local official action reported, just cross-border activism tour."
   }
  ],
  "auto_published": [
-  {
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBidUpqcFNSR09YdXlLT1ltTDZfcU1NT09DcjM3eDVyM2pQUFpneXlPV3NMbjhQRXBpby1qZWVRcGpmTnR2TFp6UUxwUV81T3BaRjJQVS1nYUJoQmpKVFpDZDR6dC1GaTNBTkloMkdQQzlSVVNFWDNYR0I2OEg?oc=5",
-   "title": "Dingell probes U-M data center plan with Los Alamos ties",
-   "judge_score": 8,
-   "at": "2026-07-10T21:15:56Z"
-  },
   {
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeC1paElwOUVfNlFhRlliUkZRWWkwQWtOeG02a3VVN2JvY0c4REM3cDdHTnRnRnVhN2huQTZXMm1aQlktR2dmUU1ZLVY5eHA4QUJCNThsbVVKWkhLUHlnUmlQbEFvNm1rVThmNy1sYjFXTTZZck9wai1oWUpwN2RETm5SdEpNNnRHSlB1dk1OY0hEUjBDcFVySzJ5Z193YUJLdE5qelNtNGlYektkdkJHQ0tHcTBub0hVSVZr?oc=5",
    "title": "GOP governor candidates back tax breaks for data centers in Grand Rapids debate",
@@ -3201,6 +3195,12 @@
    "title": "Township rejects server farm after residents cite noise, traffic, water concerns",
    "judge_score": 8,
    "at": "2026-08-22T16:34:37Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ1lUclZYUWhzVkpKV0dQR1hXMXY2ekIxNzQtOFk5bU9fV1NBMGJ4STd0d1ZyQkNBa2pCRDNuZEJ0cWJqRmJDMFpTamh1Z1lXamZiU1ZDb2tzQTZMMkp4S1lFU21JeXNEd0FQQnNic2lPbV9VNVRHSWJiSG1FU21ySXdCR1BjeDBQUU9LYkgtT3RFOHd1aUFUU0ln?oc=5",
+   "title": "GenH pitches Morley Dam as hidden data center power source",
+   "judge_score": 7,
+   "at": "2026-08-23T16:35:53Z"
   }
  ]
 }
