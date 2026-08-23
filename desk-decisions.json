@@ -1,27 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNTRWRTJyRHJQR0dFamxCSXhGa1BNY0x4LWh2MnZLVnEzbTNBRW1lUnFSWEZ1TUQxMmdyQk1KNFI1ZE01NEQwNUgzcTVNdUNZQkxSejA5clg3U2ZBVktVVm9qMDI4dzdySkhjX1BRNl9ybUZmX0JKa0g1TUpCcXJ6dzRSWnB0aDFTSkRVZlZwY3Q4eVdoa1F2cHNITUZoTndQTFBteUVBZ0twVWRGSHdqb2ZHRnpOOVJPOXBRUlN3VHhza2Q3c0Q0bGMyNVR6WUt6?oc=5",
-   "title": "Washtenaw residents face higher bills as lawyer challenges data center abatement process",
-   "at": "2026-08-15T03:48:41+00:00",
-   "by": "news_judge",
-   "note": "score 4/10, duplicate: Same Saline Township tax abatement legal challenge already live in two variants; this is just a billing-impact reframe of the identical dispute."
-  },
-  {
-   "url": "https://www.manisteenews.com/news/article/data-centers-put-hold-one-year-manistee-township-22388610.php",
-   "title": "Manistee Township Enacts One-Year Pause on Data Center Proposals",
-   "at": "2026-08-15T05:55:53+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicate of already-live 'Manistee Township joins pause on new data centers' — same moratorium vote."
-  },
-  {
-   "url": "https://www.michamber.com/news/experts-tackle-michigans-biggest-data-center-questions/",
-   "title": "Town Hall Pushes Case-by-Case Reviews to Balance Data Center Growth and Michigan Priorities",
-   "at": "2026-08-15T05:55:53+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: Advocacy coalition virtual town hall is soft PR/discussion event, not a concrete development or official action."
-  },
-  {
    "url": "https://whyy.org/articles/data-center-opposition-growing-survey/",
    "title": "Electricity Bill Hikes Drive 12-Point Jump in Data Center Opposition",
    "at": "2026-08-15T05:55:53+00:00",
@@ -1399,6 +1378,27 @@
    "at": "2026-08-23T01:53:41+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: This is the same Gibraltar lawsuit already covered in the LIVE story 'Developer sues Gibraltar to overturn year-long data center moratorium' — same parties, sam"
+  },
+  {
+   "url": "https://wghn.com/2026/08/22/michigan-senate-candidate-calls-for-data-center-construction-pause/",
+   "title": "Mike Rogers Urges One-Year Halt to Michigan Data Center Construction",
+   "at": "2026-08-23T03:12:43+00:00",
+   "by": "news_judge",
+   "note": "score 2/10: Mike Rogers calling for a pause/halt has been killed multiple times; this is the same candidate position rehashed with campaign-trail framing against his oppone"
+  },
+  {
+   "url": "https://www.electricchoice.com/datacenters/",
+   "title": "480 New Data Centers Planned as Demand Doubles and Rate Effects Hit States",
+   "at": "2026-08-23T03:12:43+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece with generic state examples (Virginia, Indiana) and no Michigan-specific development or decision."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRFFicm9YWWdsdlo1ZTdRdTZfbmh1QmFjVVNYWkNVQlJKWkx4OWw1UW9UTmpKRG9EU1dWMHcwZUxzWWJuWWN1R0phQ2tqVE9sWUhuMTZRUVFwcElWVVhaZmdYYy1rOVlZRFBpRDNoNndnUWJuM3J3QlJVdV9obFNKZ0JvMVV5R3BCQXdwVGItbGJsWHhGRnZWNF93SEhFSG95SVZKd0Q0c1hEd1pDS3BILUhZOW5fMHNzZzRhNkQzVFl0eU5DMTFlUU5Wcmpwd092RThz?oc=5",
+   "title": "Mason data center backers push ahead amid local scrutiny",
+   "at": "2026-08-23T03:12:43+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Story appears incomplete (cuts off mid-sentence) and offers only vague 'new details' without specifying what concrete development occurred in Mason beyond what'"
   }
  ],
  "auto_published": [
