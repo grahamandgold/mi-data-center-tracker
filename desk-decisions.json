@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://montanafreepress.org/2026/08/14/butte-nonprofit-sues-county-over-initiative-reversal/",
-   "title": "Butte voters sue to restore say on data center growth",
-   "at": "2026-08-15T03:48:41+00:00",
-   "by": "news_judge",
-   "note": "score 2/10: Montana lawsuit with no Michigan angle; pure out-of-state noise for a Michigan-focused tracker."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNTRWRTJyRHJQR0dFamxCSXhGa1BNY0x4LWh2MnZLVnEzbTNBRW1lUnFSWEZ1TUQxMmdyQk1KNFI1ZE01NEQwNUgzcTVNdUNZQkxSejA5clg3U2ZBVktVVm9qMDI4dzdySkhjX1BRNl9ybUZmX0JKa0g1TUpCcXJ6dzRSWnB0aDFTSkRVZlZwY3Q4eVdoa1F2cHNITUZoTndQTFBteUVBZ0twVWRGSHdqb2ZHRnpOOVJPOXBRUlN3VHhza2Q3c0Q0bGMyNVR6WUt6?oc=5",
    "title": "Washtenaw residents face higher bills as lawyer challenges data center abatement process",
    "at": "2026-08-15T03:48:41+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-22T22:51:40+00:00",
    "by": "news_judge",
    "note": "score 3/10: National legislative debate with no Michigan-specific action, decision, or vote; generic trend piece about federal proposals without concrete local impact."
+  },
+  {
+   "url": "https://www.crainsdetroit.com/technology/cdb-gibraltar-data-center-moratorium-lawsuit-20260821/",
+   "title": "Developer Sues Gibraltar Over Data Center Moratorium at Former Steel Site",
+   "at": "2026-08-23T01:53:41+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This is the same Gibraltar lawsuit already covered in the LIVE story 'Developer sues Gibraltar to overturn year-long data center moratorium' — same parties, sam"
   }
  ],
  "auto_published": [
