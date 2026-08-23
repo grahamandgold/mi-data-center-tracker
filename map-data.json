@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-09T11:24:38+00:00",
+ "updated_at": "2026-08-23T11:17:10+00:00",
  "map_points": [
   {
    "name": "Saline Township campus (Stargate)",
@@ -1360,6 +1360,22 @@
    "verified_date": "2026-07-24",
    "confidence": "Confirmed",
    "note": "Extended existing moratorium through Feb 15, 2027, at July 15 board meeting. Approximate township center."
+  },
+  {
+   "name": "Ypsilanti Township electricity moratorium",
+   "municipality": "Ypsilanti Township",
+   "county": "Washtenaw",
+   "status": "Utility pause",
+   "layer": "moratoria",
+   "developer": "",
+   "power_mw": "",
+   "latitude": 42.24,
+   "longitude": -83.61,
+   "source_url": "https://bridgemi.com/business-watch/ypsilanti-township-eyes-moratorium-on-power-transmission-to-slow-u-m-data-center/",
+   "source_name": "Bridge Michigan",
+   "verified_date": "2026-08-18",
+   "confidence": "Confirmed",
+   "note": "180-day pause on major electric utility facilities (substations, transmission lines) approved Aug 18 to study data center impacts; approximate township centroid."
   }
  ],
  "map_meta": {
