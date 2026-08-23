@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://dailyreporter.com/2026/08/14/data-center-projects-support-firms-commercial-backlog-drop/",
-   "title": "Data center projects help sustain commercial construction backlogs amid broader slowdown",
-   "at": "2026-08-15T08:38:49+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece from a trade association report with no Michigan-specific angle, project, or decision."
-  },
-  {
    "url": "https://www.cnbc.com/2026/08/14/data-centers-in-space-emerge-as-next-frontier-for-insurers.html",
    "title": "Space-based data centers emerge as new frontier amid terrestrial power strains",
    "at": "2026-08-15T09:34:11+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-23T05:39:08+00:00",
    "by": "news_judge",
    "note": "score 3/10: Pennsylvania governor's executive order is a national/out-of-state story with no Michigan-specific angle or impact, similar to the killed Pennsylvania and Memph"
+  },
+  {
+   "url": "https://www.datacenterdynamics.com/en/tags/michigan/",
+   "title": "DTE Michigan pipeline hits over 8GW after Oracle and Google data center deals",
+   "at": "2026-08-23T15:50:36+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: National trend piece about aggregate pipeline numbers lacks specific Michigan project decisions, timelines, or local impact details that would make it actionabl"
   }
  ],
  "auto_published": [
