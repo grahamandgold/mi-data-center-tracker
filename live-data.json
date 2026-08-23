@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-23T04:12:50+00:00",
+ "updated_at": "2026-08-23T05:04:53+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -202,6 +202,20 @@
   "id": "02d7912fe03d",
   "accuracy": "checked"
  },
- "meetings": [],
+ "meetings": [
+  {
+   "iso": "2026-08-24",
+   "body": "Planning Commission",
+   "topic": "Review of new site plan application for Verrus data center project",
+   "region": "West Michigan",
+   "regionKey": "west",
+   "county": "Kent Co.",
+   "time": "TBD",
+   "status": "Planning commission",
+   "urgent": false,
+   "link": "https://gandernewsroom.com/news/politics/how-many-ai-data-centers-are-planned-in-michigan-we-counted/",
+   "linkLabel": "Agenda details via project tracker"
+  }
+ ],
  "accuracy_checked_at": "2026-07-08T08:45:16+00:00"
 }
