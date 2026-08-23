@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://elkodaily.com/news/nation-world/business/article_4bc5e4f5-2153-5903-9de3-7a6df054280d.html",
-   "title": "Michigan protests add risk for data center loans as banks watch nationwide pushback",
-   "at": "2026-08-15T17:28:33+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: National trend piece about lending practices with Michigan mentioned as one example among broader nationwide pushback; lacks specific Michigan decision, filing,"
-  },
-  {
-   "url": "https://tucson.com/news/nation-world/business/article_649747fc-3f55-5409-a968-254e89eb3ab0.html",
-   "title": "Michigan power bills at risk as banks pull back from opposed data centers",
-   "at": "2026-08-15T18:40:39+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece about lending practices with only generic Michigan mention in headline; already killed similar story 'Lenders Tighten Scrutiny on Data Cent"
-  },
-  {
    "url": "https://www.reuters.com/business/energy/us-data-center-power-demand-surges-2026-08-15/",
    "title": "U.S. data center power demand surges as utilities scramble for new capacity",
    "at": "2026-08-15T19:27:48+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-23T21:49:33+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece about tech industry reactions to backlash with no Michigan-specific development, decision, or concrete action."
+  },
+  {
+   "url": "https://www.axios.com/2026/08/23/flock-cameras-data-centers-ai-midterms-2026-tech",
+   "title": "Flock cameras join data centers as flashpoint in Michigan midterm campaigns",
+   "at": "2026-08-23T23:29:19+00:00",
+   "by": "news_judge",
+   "note": "score 2/10: Campaign trail rhetoric linking data centers to surveillance tech without a concrete development, decision, or filing; pure election-season positioning already "
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPRnplanY0V3BUTDloOEV6cENnaEdjdTdsNFRFS3h0RzFwTy1BZko5YnpmZTBuMllsdV9QaUNrR3RXeU5OaG56QzI1Sl9MVDdIUXMyZG96bTRUSGpjTTNNVTYwaFl3ZUltQ1FUbWJMcTludmtSb3dvRUh4LXpGTU11ME1LM2xLYjVKLUNZZWkxQ3lVS2QtUWxxTlVFckZCRFRITFZwNXMxS25HaGJRVzk4M1MxNktmT1dyMzJGZmZtdmRUN01IZGc5aHc2MldVSjE3TG5USEFVUW1PV043d280ckh3UllxdlBmWEN2bDBDaU9PeHVLV2lVc1ZXckxFWFdLbkRla2ZR?oc=5",
+   "title": "Genesee residents rally to block data center projects",
+   "at": "2026-08-23T23:29:19+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Protest/rally coverage without evidence of a specific filing, hearing, vote, or official action; appears to be general opposition activity rather than a concret"
   }
  ],
  "auto_published": [
