@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-23T22:30:55+00:00",
+ "updated_at": "2026-08-23T22:51:32Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Mason County weighs data center impact on local services",
+   "dek": "Commissioners discussed how proposed data centers could affect EMS, roads and county budgets. Residents in rural Mason County would see higher power loads and possible tax revenue trade-offs. The talks come as more townships face similar project inquiries.",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNeXpCVUZsdEJSelZ5ZzVwdmVMUUljQ0tlZmlqUGwtdUprQ3VuY3dPT09wZndwZldDSUVrYkJmUnFxcmpfQVNyU0ppVDhKTmM5TUQxLUpCcllHcjUzM18xTUlObGNCaHZJbWpXYy12alpkQ1pwU2xlZmRjcW84d0VYVkNVMGM3Zk1FQ1ZSblU4SzMwSmd2cnVqdXEzVFlUcEVQcDk2ZTM1NWp5TzlGUXRJSVpzRGM2cXBiRWJveUpaVFVRMllVM3JwY21sT01CY0VvajRtc21LVlZzcmx2dElxWmllZmdmSzhDWHc?oc=5",
+   "source": "WV News",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Mason",
+   "tag": "Local Government",
+   "iso": "2026-08-23T18:30:00Z",
+   "id": "b56f48591296",
+   "origin": "google-news",
+   "source_title": "Mason County Commission discusses community work, EMS and data centers - WV News",
+   "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNeXpCVUZsdEJSelZ5ZzVwdmVMUUljQ0tlZmlqUGwtdUprQ3VuY3dPT09wZndwZldDSUVrYkJmUnFxcmpfQVNyU0ppVDhKTmM5TUQxLUpCcllHcjUzM18xTUlObGNCaHZJbWpXYy12alpkQ1pwU2xlZmRjcW84d0VYVkNVMGM3Zk1FQ1ZSblU4SzMwSmd2cnVqdXEzVFlUcEVQcDk2ZTM1NWp5TzlGUXRJSVpzRGM2cXBiRWJveUpaVFVRMllVM3JwY21sT01CY0VvajRtc21LVlZzcmx2dElxWmllZmdmSzhDWHc?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
   {
    "title": "GenH pitches Morley Dam as hidden data center power source",
    "dek": "GenH is floating a plan to use the existing Morley Dam site for a data center that would generate its own electricity. The concept could sidestep some utility fights but still raises questions about water use and local impacts in Mecosta County. Readers nearby should watch how the project is classified under state rules.",
@@ -169,23 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQQ0ZON3RYVTJDUi1wY1R1ZzBGMFY5cHMzN3c5bU1iTWlqMENSUVAtd25IeGJlVV9SWmNDc0lZT0hvOW11WVRvWTlVVVFMMmgwbnR1Q1F0U296ajRmMnVNcmx0SlJ0NzVHQTBXcDdRYmZsa21EdTM2MjFRM0JYTFFIVEZ4ekFzQVR4ZjRJSHNVT1JLc0hCOXVGMXFfbm43aTJxakhnUjhWbXRLMnZRVFh4OWtrNllNOGViRkdnTTlsMUU3NGNIR1ZDUlN5U3FwcnN2cUdjbGVRWFVoSDRIZDZPRGNZWXIwRzFWTTZZZUt2ZHo1R2JRTjZmdFV3dDJBSXAtd21fNDJzVHNacVdKQXN4cDV6YjdTbXhoVFNCMkZrZDl0MERpbXpfTVU4YVJGMlZGU0xNR0N3V2tpemM?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
-  },
-  {
-   "title": "Palmyra residents push back on data center plans over power and noise fears",
-   "dek": "Neighbors in Lenawee County’s Palmyra Township voiced worries that proposed facilities would spike electric bills and create constant noise. Local officials heard the concerns during a public session focused on zoning changes. Anyone within 50 miles could face higher utility costs if the projects move forward without stricter limits.",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQVpFZ1RRb2lBUkVmTkk1UFdaanFJSG5vcHVPWjJtZVU5ZGlyOS1Idm1sY2dlQ1JYeF9nVERYV3RieVQtcnU5TGhXNVFsVGhVVkVoekVqeU80VzhXcnBnb1ZrYkdKZmZRcWF4YTg4TmRpTmFDVVV2N0hmaEtpQkhoYmE5Sktpb3FKWjU5blg2a0swSEhm?oc=5",
-   "source": "WITN",
-   "region": "mid",
-   "cat": "STATEWIDE",
-   "county": "Lenawee",
-   "tag": "Local Government",
-   "iso": "2026-08-21T03:51:00Z",
-   "id": "a26c3222513c",
-   "origin": "google-news",
-   "source_title": "Palmyra residents weigh in on data centers - WITN",
-   "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQVpFZ1RRb2lBUkVmTkk1UFdaanFJSG5vcHVPWjJtZVU5ZGlyOS1Idm1sY2dlQ1JYeF9nVERYV3RieVQtcnU5TGhXNVFsVGhVVkVoekVqeU80VzhXcnBnb1ZrYkdKZmZRcWF4YTg4TmRpTmFDVVV2N0hmaEtpQkhoYmE5Sktpb3FKWjU5blg2a0swSEhm?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {
