@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbmROVkkxZ2JjZEUzZEFMUkk4TkVLc09wR2R5djRiOWpBdWtUTmZhMjBZV3NXdVpRek5aSUdKdUJlX3QzcWFyYzgza2hfNXktU3BaS0RwSmpXN3ZXZ2x4Q3RsYm1Ic2ptdVNnNXZKNE1XWlZuTXdySTk1aTZzeFAxdlN0NnhfNXpNbGJjYkVDaDN3Wk9pNW10MVlqdnRWdmZvYVVGcGZhUTY2OFFVOXdUYnpoMDlLZUR0QlR2Q1g0ZG9FV0RBbjhKUXRTaGpvT0V2SEtF?oc=5",
-   "title": "Manistee Township pauses all new data center proposals",
-   "at": "2026-08-15T05:55:53+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicate of already-live 'Manistee Township joins pause on new data centers' — same moratorium, just truncated."
-  },
-  {
    "url": "https://dailyreporter.com/2026/08/14/data-center-projects-support-firms-commercial-backlog-drop/",
    "title": "Data center projects help sustain commercial construction backlogs amid broader slowdown",
    "at": "2026-08-15T08:38:49+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-23T04:12:52+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Rehashes Rogers' moratorium call and national trend already covered in multiple killed stories about Rogers, the Senate race, and national backlash."
+  },
+  {
+   "url": "https://fcfreepresspa.com/shapiro-signs-data-center-order-amid-growing-public-opposition/",
+   "title": "Shapiro Sets Data Center Safeguards After Backlash in Pennsylvania Towns",
+   "at": "2026-08-23T05:39:08+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Pennsylvania governor's executive order is a national/out-of-state story with no Michigan-specific angle or impact, similar to the killed Pennsylvania and Memph"
   }
  ],
  "auto_published": [
