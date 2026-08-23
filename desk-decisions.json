@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://whyy.org/articles/data-center-opposition-growing-survey/",
-   "title": "Electricity Bill Hikes Drive 12-Point Jump in Data Center Opposition",
-   "at": "2026-08-15T05:55:53+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: National polling trend piece with no Michigan-specific action or development."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbmROVkkxZ2JjZEUzZEFMUkk4TkVLc09wR2R5djRiOWpBdWtUTmZhMjBZV3NXdVpRek5aSUdKdUJlX3QzcWFyYzgza2hfNXktU3BaS0RwSmpXN3ZXZ2x4Q3RsYm1Ic2ptdVNnNXZKNE1XWlZuTXdySTk1aTZzeFAxdlN0NnhfNXpNbGJjYkVDaDN3Wk9pNW10MVlqdnRWdmZvYVVGcGZhUTY2OFFVOXdUYnpoMDlLZUR0QlR2Q1g0ZG9FV0RBbjhKUXRTaGpvT0V2SEtF?oc=5",
    "title": "Manistee Township pauses all new data center proposals",
    "at": "2026-08-15T05:55:53+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-23T03:12:43+00:00",
    "by": "news_judge",
    "note": "score 4/10: Story appears incomplete (cuts off mid-sentence) and offers only vague 'new details' without specifying what concrete development occurred in Mason beyond what'"
+  },
+  {
+   "url": "https://www.axios.com/2026/08/22/mike-rogers-aipac-michigan-senate",
+   "title": "Data Center Backlash Influences Michigan Senate Race Dynamics",
+   "at": "2026-08-23T04:12:52+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Rehashes Rogers' moratorium call and national trend already covered in multiple killed stories about Rogers, the Senate race, and national backlash."
   }
  ],
  "auto_published": [
