@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.reuters.com/business/energy/us-data-center-power-demand-surges-2026-08-15/",
-   "title": "U.S. data center power demand surges as utilities scramble for new capacity",
-   "at": "2026-08-15T19:27:48+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece with no Michigan-specific development, decision, or data; already-killed stories show similar national utility/power themes have been rejec"
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd3hodVIxbERUQnR0eGFzSmowR0JJNGZ2QlBBWjV2NVcyOGxrT3dzaFBZWTJsdW5BUW1kN2szVFlmNXpmcWJ6RERSNjNwOXJ6S3hvQ2hEdXZfYm1TRFdDYk1WenNJX2xjYnBOeHJlWWhkclRITVZ3R3hCeGl6Ql9uQXR0YWVTSkpxWDVQdmJRdUYzaWp2Wkt5YmJqZ0x1bVIxaDB2cU5iS2RCcV9WV1hBemZ0b0JhZ9IBtgFBVV95cUxPd3hodVIxbERUQnR0eGFzSmowR0JJNGZ2QlBBWjV2NVcyOGxrT3dzaFBZWTJsdW5BUW1kN2szVFlmNXpmcWJ6RERSNjNwOXJ6S3hvQ2hEdXZfYm1TRFdDYk1WenNJX2xjYnBOeHJlWWhkclRITVZ3R3hCeGl6Ql9uQXR0YWVTSkpxWDVQdmJRdUYzaWp2Wkt5YmJqZ0x1bVIxaDB2cU5iS2RCcV9WV1hBemZ0b0JhZw?oc=5",
    "title": "Cass County residents pack town hall to push back on data centers",
    "at": "2026-08-15T20:32:17+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-23T23:29:19+00:00",
    "by": "news_judge",
    "note": "score 4/10: Protest/rally coverage without evidence of a specific filing, hearing, vote, or official action; appears to be general opposition activity rather than a concret"
+  },
+  {
+   "url": "https://www.tomshardware.com/tech-industry/data-centers/death-threats-hit-data-center-opponents-as-towns-cancel-votes-and-close-public-comment",
+   "title": "Death Threats and Gunfire Hit Officials as 500 Towns Block AI Data Centers",
+   "at": "2026-08-23T23:49:40+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece with sensational framing (death threats, gunfire) and vague scale claims (500 towns) lacking Michigan-specific development."
   }
  ],
  "auto_published": [
