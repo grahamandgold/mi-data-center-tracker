@@ -1,25 +1,7 @@
 {
- "updated_at": "2026-08-24T05:21:11+00:00",
+ "updated_at": "2026-08-24T06:06:16+00:00",
  "generator": "grok-wire-agent",
  "items": [
-  {
-   "iso": "2026-08-22T18:00:00+00:00",
-   "region": "west",
-   "cat": "Kent Co.",
-   "tag": "Local Government",
-   "title": "Gaines Township Approves Noise Study for Proposed Microsoft Data Center",
-   "dek": "The board voted to hire an acoustics firm to establish baseline sound levels at the 436-acre site south of 68th Street ahead of any construction.",
-   "source": "The Sun and News",
-   "url": "https://sunandnews.com/articles/news/gaines-township-authorizes-data-center-noise-study/",
-   "breaking": false,
-   "lead": true,
-   "id": "16a8be69bef4",
-   "kind": "story",
-   "filed_at": "2026-08-23T23:49:27+00:00",
-   "accuracy": "checked",
-   "judge_score": 8,
-   "judge_note": "Concrete action: board voted to hire firm for noise study at specific Microsoft site, a measurable step forward in the approval process."
-  },
   {
    "iso": "2026-08-26T12:00:00+00:00",
    "region": "statewide",
@@ -111,5 +93,5 @@
    "judge_note": "Concrete legislative development: Jeremy Moss added as co-sponsor to utility rate bill targeting data centers, a new action on a relevant bill."
   }
  ],
- "accuracy_checked_at": "2026-08-24T05:21:11+00:00"
+ "accuracy_checked_at": "2026-08-24T06:06:13+00:00"
 }

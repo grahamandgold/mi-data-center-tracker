@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://alabamareflector.com/2026/08/15/the-data-center-industrys-pr-blitz-is-backfiring/",
-   "title": "Data Center Industry's PR Efforts Face Growing Public Backlash Nationwide",
-   "at": "2026-08-15T20:52:49+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece with poll data but no Michigan-specific development, decision, or action."
-  },
-  {
    "url": "https://datacenterpost.com/",
    "title": "Delays hit 90% of data center projects nationwide",
    "at": "2026-08-15T21:49:37+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-24T03:13:16+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend/statistics piece without Michigan-specific decision, filing, or development; lacks concrete local angle beyond general utility impact."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BaFJmSTllNUhrWTJpX2IxdEljVjAyWVBDa2w0N0tIQjFzVHcwbmN1ZTBlQThWUUVrUEF0X0ttYTFJV0QyMHBrLXY5MVdSYnJPY3drZnhUSEktajN3R1RRS2lRaHQ1bG8xVGFzTnJrYVhmN2xoTXFZ?oc=5",
+   "title": "Mike Rogers pushes one-year halt on new Michigan data centers",
+   "at": "2026-08-24T06:06:16+00:00",
+   "by": "news_judge",
+   "note": "score 1/10, duplicate: This is the same Rogers one-year halt story already killed three times by the News Director under different headlines."
   }
  ],
  "auto_published": [

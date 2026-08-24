@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-24T05:21:11+00:00",
+ "updated_at": "2026-08-24T06:06:13+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -203,6 +203,20 @@
   "accuracy": "checked"
  },
  "meetings": [
+  {
+   "iso": "2026-08-24",
+   "body": "Lenox Township Planning Commission",
+   "topic": "Data center ordinance review and related zoning amendments",
+   "region": "SE Michigan",
+   "regionKey": "metro",
+   "county": "Macomb",
+   "time": "6:30 PM",
+   "status": "Planning commission",
+   "urgent": true,
+   "link": "https://www.lenox-mi.gov/AgendaCenter/Planning-Commission-4",
+   "linkLabel": "Agenda",
+   "stream": ""
+  },
   {
    "iso": "2026-08-24",
    "body": "Madison Heights City Council",
