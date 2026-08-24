@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.reuters.com/",
-   "title": "No major new national data center developments reported in the last 24 hours",
-   "at": "2026-08-16T22:50:55+00:00",
-   "by": "news_judge",
-   "note": "score 1/10: This is a non-story placeholder stating that nothing happened — pure noise with zero news value for Michigan readers."
-  },
-  {
-   "url": "https://www.cbsnews.com/texas/news/data-centers-texas-politics-midterm-election-greg-abbott/",
-   "title": "Texas Data Center Audits Target Water Use and Power Bill Spikes",
-   "at": "2026-08-16T23:49:03+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece from Texas with no Michigan angle or development; similar regulatory responses have already been covered in killed stories about nationwide"
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZDNjck8zWmNJUXJpVTJ5QjZGbWRicXJTR0hQQmwwa2Q0aDREOHJJc3NfLWtLeVlxbktZOGZpZExlX2xUWTNpRWQxN3RhT19hcFZleDd4enluaU1IcndvUU9lRnRmTG5lUFJZMF9jY2RvaE9Uc1ZDTlVzNkNLLWc3Y1dBZFhNSEdYYnBHT2lUWjl0SjlPS2dXeTNsTnlnX3pN?oc=5",
    "title": "Michigan data center projects keep advancing despite local pushback",
    "at": "2026-08-17T11:00:02+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-24T22:57:51+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: This is the same Wixom moratorium early-lift story already live in the queue."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY3VPY3MtWEc4a1ltdmRSaEZmUlBRNFQ3b2xjRWRxWWNZTUs3b1VmSi13ZEplc21xS3hPWnI2dkJSX09FNFFBeWpUalNlMHVKRmRvbGsya043QkI0UnVzTW1zTEU3R3hqZ2dTeTMwWFBmWWNaTmFfREU1Q25ISWVCSTZfNm9RQVkyNG52MmdNeDQ0a1laVXJja3J5ZmJSTVZoaVoxUEhNZFk2ejlaLThHZkxaY25SMnc?oc=5",
+   "title": "Wixom may lift data center freeze months early",
+   "at": "2026-08-24T23:29:24+00:00",
+   "by": "news_judge",
+   "note": "score 0/10, duplicate: Exact duplicate of already-live story 'Wixom may lift data-center freeze months early.'"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVUR6aXpBbXZuNTdYV3FrV1N5ZVhsb0sxdnhTWnNMN2plRFlRU2c3TXJCTDBiaFJhQnh2Z0VxTlVGZHN1ZHRuLUl1OG5Kb0QzTHp3cW15WUw5eWNSSXl0cHgwRFNrR05OVEQ3aDFBd0JPcjh2WDkxd1BoWlE4YVdZRXJtOEVvQVpxaUdtNmpENG1RODR3WHhVUnBISDhtMDhHV2lKWkFjeEI4VHE5WVNHUUlNa2xjcEV5YWltZFpRbEhoVEhnRW1jRndITmZKVU9QSFJsYjBpMmVWdlBtcVFZ?oc=5",
+   "title": "Data center power fights shape Michigan fall elections",
+   "at": "2026-08-24T23:29:24+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Thin trend piece about electoral politics without a specific vote, filing, or concrete development; similar to killed stories about data centers as campaign iss"
   }
  ],
  "auto_published": [
