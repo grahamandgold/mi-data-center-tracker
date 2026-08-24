@@ -1,8 +1,16 @@
 {
- "generated_at": "2026-08-24T10:22:48+00:00",
+ "generated_at": "2026-08-24T20:54:15+00:00",
  "for_dates": [
   "2026-08-24",
   "2026-08-25"
  ],
- "items": []
+ "items": [
+  {
+   "iso": "2026-08-24",
+   "time": "7:00 PM",
+   "meeting": "Lyon Township Planning Commission",
+   "bullet": "Lyon Twp Planning Commission meets tonight; Project Flex (1.8M sq ft Verrus development on 172 acres) reported conditionally approved Sept 2025 amid noise/water opposition per news",
+   "link": "https://www.lyontwp.org/government/township_boards_and_commissions/planning_commission_.php"
+  }
+ ]
 }
