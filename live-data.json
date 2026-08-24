@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-24T20:40:26+00:00",
+ "updated_at": "2026-08-24T21:38:13Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "New Buffalo blocks storage yard tied to data center project",
+   "dek": "The township board rejected the permit for a storage facility directly supporting a data center. Residents in Berrien County now face fewer construction impacts and truck traffic near their homes. The decision shows local pushback against supporting infrastructure for these facilities.",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUnhrLUVYeGt4OGtzbERVanB0cDdLTkJpSF8yN0Y5cmpLWGxYek9PV3NuLS01X1o2X2VrSWlyQnYyVnBFSGJvWU4tdFh2elQybktOeUdBSlNjbEVHdHNnSHBXSlhUQmlNaDVDT3hnMnNqZjc3aDB2VHA4N2M3T18zTzYxWW5nNlV5akstY0lmNVVyOS1VV01SVXEyYkpWcVR2LVJoeEZZMzA?oc=5",
+   "source": "WNDU",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Berrien",
+   "tag": "Local Government",
+   "iso": "2026-08-24T21:02:00Z",
+   "id": "8050443da859",
+   "origin": "google-news",
+   "source_title": "New Buffalo Township board denies permit for storage yard linked to data center - WNDU",
+   "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUnhrLUVYeGt4OGtzbERVanB0cDdLTkJpSF8yN0Y5cmpLWGxYek9PV3NuLS01X1o2X2VrSWlyQnYyVnBFSGJvWU4tdFh2elQybktOeUdBSlNjbEVHdHNnSHBXSlhUQmlNaDVDT3hnMnNqZjc3aDB2VHA4N2M3T18zTzYxWW5nNlV5akstY0lmNVVyOS1VV01SVXEyYkpWcVR2LVJoeEZZMzA?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Michigan's new tax breaks shield data centers from most local property taxes",
    "dek": "The state quietly broadened data-center tax incentives, letting operators avoid paying property taxes on equipment and buildings for up to 12 years in many communities. Big Rapids and other rural counties could lose millions in revenue while still bearing higher electricity and water costs. The change rewards companies that locate here but gives townships little leverage to negotiate better deals.",
@@ -169,23 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPYlp3TldqVXRmY05SaEVicUlsSEF0SjlpU0UxdEtnS2JxVUp1cU9IYzFBbzVXVXRxTXYxUmxVWHNBalphTXREQWt3NnQ1cUxianRwVlNQd19meWdBQVR4NURpSDAxRWtnWGV3TkNoRERtWnRYd0kwRzJVWlpXYzA1UFFnb2JNa1d0Wks1ZjRLZHg5TDU5bzRtYjZkbFBqMGw4c215cW52N25NR2pIUm1GYm05a1NQRDNvRkdZMVRGTnZLbWxSMVY0bm5qREtjMjU3VnR3Rmx2RHlHZVkxTFByU0c4R09OM1Q5eWVFYkVQUkdtdmN1U3hJ?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Forsyth residents grill officials on data center power and military ties",
-   "dek": "Hundreds packed a Forsyth Township hall to question how proposed data centers would affect local electricity rates and water supplies. Officials also fielded concerns about rumored military involvement near the sites. The session gave Upper Peninsula residents their first direct look at the scale of projects eyed for Marquette County.",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU0RtazhORFdGT25tVTBrbFZZTElHR2RQOFFOWHNxY3ZFUkxVbjJVaG1VZThmT1EzeDl1Vm9SZTd1MHFabFJoVGZ3ZDdiQVlvdjFOWFJaOFVCcTdFamtmMEtpODdaSnVPbHB6SHkzbkdlajlVV2JiVXdGNUt2cHZFYUVmT1RqSG5NcnBIaXh3S1g5MHNqUmswUjJPNEt1UXdUYnNja0FrcjN4bWNIN1hlVXhqSzlka1JDOTQ0WW5BQUIyTnlKeUZwTGtyUlo3elU4?oc=5",
-   "source": "The Mining Journal",
-   "region": "north",
-   "cat": "STATEWIDE",
-   "county": "Marquette",
-   "tag": "Local Government",
-   "iso": "2026-08-22T07:04:26Z",
-   "id": "644eb47c400b",
-   "origin": "google-news",
-   "source_title": "Town Hall held in Forsyth Township addresses data centers, military presence - - The Mining Journal",
-   "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU0RtazhORFdGT25tVTBrbFZZTElHR2RQOFFOWHNxY3ZFUkxVbjJVaG1VZThmT1EzeDl1Vm9SZTd1MHFabFJoVGZ3ZDdiQVlvdjFOWFJaOFVCcTdFamtmMEtpODdaSnVPbHB6SHkzbkdlajlVV2JiVXdGNUt2cHZFYUVmT1RqSG5NcnBIaXh3S1g5MHNqUmswUjJPNEt1UXdUYnNja0FrcjN4bWNIN1hlVXhqSzlka1JDOTQ0WW5BQUIyTnlKeUZwTGtyUlo3elU4?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {
@@ -257,6 +257,48 @@
    "urgent": false,
    "link": "https://gandernewsroom.com/news/politics/how-many-ai-data-centers-are-planned-in-michigan-we-counted/",
    "linkLabel": "Agenda details via project tracker"
+  },
+  {
+   "iso": "2026-08-25",
+   "body": "Waterford Township Planning Commission",
+   "topic": "Six-month extension of data center moratorium",
+   "region": "SE Michigan",
+   "regionKey": "metro",
+   "county": "Oakland",
+   "time": "7:00 PM",
+   "status": "Planning commission",
+   "urgent": true,
+   "link": "https://www.waterfordmi.gov/AgendaCenter",
+   "linkLabel": "Agenda",
+   "stream": ""
+  },
+  {
+   "iso": "2026-08-25",
+   "body": "Springfield Township Board",
+   "topic": "Data center ordinance discussion",
+   "region": "SE Michigan",
+   "regionKey": "metro",
+   "county": "Oakland",
+   "time": "7:00 PM",
+   "status": "Board meeting",
+   "urgent": false,
+   "link": "https://www.springfieldtwp.org/",
+   "linkLabel": "Agenda",
+   "stream": ""
+  },
+  {
+   "iso": "2026-08-25",
+   "body": "Council on Climate Solutions",
+   "topic": "Data centers and environmental review",
+   "region": "Mid-Michigan",
+   "regionKey": "mid",
+   "county": "Ingham",
+   "time": "1:00 PM",
+   "status": "State hearing",
+   "urgent": false,
+   "link": "https://www.michigan.gov/egle/outreach/upcoming-events/2026/08/25/council-on-climate-solutions-august-2026",
+   "linkLabel": "Agenda",
+   "stream": ""
   },
   {
    "iso": "2026-08-25",

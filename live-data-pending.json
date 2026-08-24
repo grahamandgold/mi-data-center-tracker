@@ -1,32 +1,7 @@
 {
- "updated_at": "2026-08-24T20:54:15+00:00",
+ "updated_at": "2026-08-24T21:38:13Z",
  "generator": "grok-wire-agent",
  "items": [
-  {
-   "title": "Verrus data center on 172 acres in Lyon Township faces planning review",
-   "dek": "The Lyon Township Planning Commission meets tonight, though the specific agenda for Project Flex—a six-building Verrus development totaling 1.8 million square feet—cannot be confirmed from available township materials. Opposition has centered on noise, water use and energy demands since reports of conditional approval in September. Residents 30 minutes away have a direct stake in how the township balances large-scale industrial growth against local resources and farmland.",
-   "url": "https://www.lyontwp.org/government/township_boards_and_commissions/planning_commission_.php",
-   "source": "Lyon Township Planning Commission agenda",
-   "region": "Southeast Michigan",
-   "county": "Oakland",
-   "cat": "Meetings",
-   "tag": "Agenda watch",
-   "iso": "2026-08-24T20:54:15+00:00",
-   "kind": "agenda",
-   "id": "d0826521979d",
-   "filed_at": "2026-08-24T20:54:15+00:00",
-   "accuracy": "thin — needs human background",
-   "findings": "Project Flex reported as conditionally approved Sept. 8, 2025 for six buildings on 172 acres per multiple news reports | Opposition over noise, water and energy documented in Planet Detroit, CBS News Detroit, WXYZ and Detroit News coverage | No specific meeting packet or agenda details on tonight's items extractable from township site | Developer listed as Verrus with Walbridge as contractor in news reports; Alphabet-backed Sidewalk Infrastructure ties reported in background records | Comparable projects in the region include 1,400 MW Saline Township campus and 1,000 MW Van Buren Township Google proposal reported in coverage | Township materials describe general review process for site plans and planned developments but contain no project-specific figures",
-   "perspective": "The commission's standard process for development proposals follows the zoning ordinance and comprehensive plan. News coverage noted substantial public input on this project. Any action would advance or adjust the project before potential construction, tying into broader regional patterns of data-center proposals on hundreds of acres and related concerns over power and water.",
-   "documents": [
-    {
-     "label": "Agenda page",
-     "url": "https://www.lyontwp.org/government/township_boards_and_commissions/planning_commission_.php"
-    }
-   ],
-   "depth_score": 5,
-   "extraction_method": "plain"
-  },
   {
    "iso": "2026-08-26T12:00:00+00:00",
    "region": "statewide",
@@ -118,5 +93,5 @@
    "judge_note": "Concrete legislative development: Jeremy Moss added as co-sponsor to utility rate bill targeting data centers, a new action on a relevant bill."
   }
  ],
- "accuracy_checked_at": "2026-08-24T20:40:26+00:00"
+ "accuracy_checked_at": "2026-08-24T21:38:07+00:00"
 }

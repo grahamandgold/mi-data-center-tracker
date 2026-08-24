@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.nytimes.com/2026/08/16/business/ai-data-centers.html",
-   "title": "States Weigh Taxes and Limits as AI Data Center Power Demand Surges Nationwide",
-   "at": "2026-08-16T20:32:33+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece aggregating actions in other states (Virginia tax, NY moratorium already killed) with no Michigan-specific development."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaDhueGpwQXhwM3AyYlNWbmdCOE9rQlYzeUkzSzdIVUVHWkh2b1V4c1p5XzR2TmZRQk1VcGJUbVhLbUlVSERrNUNLWlRkcTdkQV9pX094UDlPLXpReVp0ZGRwWWo3UVhBWXBqLUFlQVRSODFoalhqdlB6RXlvN0tSblFNLUtXYzVXaWZnc1pPRG1FV1RrUG1BcVZ4OExtV0x6Q0dRV3RzUkhDc2pTRG9PUXRtQzM1MUpBVDVjT2Z3UVFCTWpZR1QyN2JKdzBlcTJaUEtvazVhQzA0MnVReVhTZnpR?oc=5",
    "title": "Wixom tightens data center rules over power and water strain",
    "at": "2026-08-16T20:32:33+00:00",
@@ -1399,15 +1392,16 @@
    "at": "2026-08-24T19:37:00+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: This is the same Raeden lawsuit against Gibraltar/Michigan over the moratorium already covered in the LIVE story 'Raeden sues Michigan, says moratorium illegall"
+  },
+  {
+   "url": "https://civicmedia.us/news/2026/08/24/residents-and-officials-feeling-powerless-in-michigan-data-center-fights",
+   "title": "Data center fights spark recalls against 28 Michigan officials, but only one reaches November ballot",
+   "at": "2026-08-24T21:38:13+00:00",
+   "by": "news_judge",
+   "note": "score 4/10, duplicate: Duplicate of already-live 'Data Center Backlash Spurs Recall Bids Against 28 Michigan Officials' — same recall story with only the ballot outcome detail added."
   }
  ],
  "auto_published": [
-  {
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ1NnOWFvSTZtbmxOeHdicS1XcVVuQ1Y0aVVlYndXcHBGZG1jUXlkc29fR3d4YUw3bWRtNTJEQ2dXd2F2UFhxTHlEUkdkeHJSaUtnZjMxdWpxVjB0eWVxT0FvNWxrSGJwYXdESUxnWjUwV1hQcWxlWGxiOVpVaFNYUzRlYm1LVXRMRW1wUHdBOC1rS25zMXRyc3Y1dVRnZmQyZnVQWGlpRklEMjJCelBhNGxBN3Nmc1g10gHMAUFVX3lxTE1qQk14em1fTnlzSjZINWdjdV8zN01ncjhUVXE2RzJIZlhWNXk4bGtuS0w3OFhlWDVhc2ZUV3R3RnpDT1pYVmV1R0FiUmVCdDlJRXNmUlZsRUx2d1ZlbDloaTI1U2FDcDNXT05uOG55UHVaVlZrS0Z2TnQzS2xPNWZIRTZiMlVkOUNIeG5NWjd2dHprTVBqcDlGd21rYjNmM2Y4b3VMbUFkR3RSVVZnUXROOEhkaXBMZG04NXF2ZVZZYWx5eUloUm85U3EwWA?oc=5",
-   "title": "Secret tax breaks for data centers already cost Michigan $13M",
-   "judge_score": 8,
-   "at": "2026-07-12T10:57:40Z"
-  },
   {
    "url": "https://www.wkar.org/election-2026/2026-07-12/what-roths-watching-lansing-weighs-data-center-freeze-small-communitys-library-at-risk-el-sayed-lawrence-get-boost-from-national-progressives",
    "title": "Lansing hearing set on six-month data center pause after $120M project withdrawal",
@@ -3201,6 +3195,12 @@
    "title": "Raeden sues Michigan, says moratorium illegally killed Gibraltar project",
    "judge_score": 8,
    "at": "2026-08-24T16:50:04Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUnhrLUVYeGt4OGtzbERVanB0cDdLTkJpSF8yN0Y5cmpLWGxYek9PV3NuLS01X1o2X2VrSWlyQnYyVnBFSGJvWU4tdFh2elQybktOeUdBSlNjbEVHdHNnSHBXSlhUQmlNaDVDT3hnMnNqZjc3aDB2VHA4N2M3T18zTzYxWW5nNlV5akstY0lmNVVyOS1VV01SVXEyYkpWcVR2LVJoeEZZMzA?oc=5",
+   "title": "New Buffalo blocks storage yard tied to data center project",
+   "judge_score": 7,
+   "at": "2026-08-24T21:38:13Z"
   }
  ]
 }
