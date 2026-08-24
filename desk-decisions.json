@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://michiganadvance.com/2026/08/14/in-bid-to-stop-saline-data-center-tax-break-an-attorney-argues-the-township-skipped-crucial-steps/",
-   "title": "Saline Resident Seeks to Block Tax Break for Oracle Data Center",
-   "at": "2026-08-15T23:28:12+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Same legal challenge to Saline Township tax abatement already killed as 'Attorney Challenges Saline Township Tax Abatement for Proposed Oracle-OpenAI Data Cente"
-  },
-  {
    "url": "https://example.com/national-data-center-power",
    "title": "U.S. Data Center Power Demand Surges Prompt New Utility Planning",
    "at": "2026-08-16T03:09:34+00:00",
@@ -1399,15 +1392,16 @@
    "at": "2026-08-24T08:58:37+00:00",
    "by": "news_judge",
    "note": "score 4/10: Opinion piece offering general lessons from an unnamed village lacks concrete news value; no specific decision, filing, or development reported."
+  },
+  {
+   "url": "https://www.realclearenergy.org/2026/08/24/scandinavia_the_next_epicenter_of_data_centers_1201760.html",
+   "title": "Scandinavia Emerges as Data Center Hub Amid U.S. Regulatory Debates",
+   "at": "2026-08-24T10:45:38+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece about Scandinavia with only tangential Michigan mention; no specific Michigan development or decision."
   }
  ],
  "auto_published": [
-  {
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTmlBc0xBRmFITHYxcm5YZFpNcExRY0RDZkUxUGpCeHd1ajZHUUFRU0swMGxfNHRxb2dRTlpzWTlsYlUzdTdNR2VHcGZkLWdxVEMzMUE3ZW83V3Nic0dGd3pZeVI0bWlFTVM4dUFpcmJTeXJBdkFUMDJEUlFrWFREZWctTi1wSV9jUElhb1FYUGFiQVdqa194eG5LS3FqSFFQTE8yQ2NjcU4yXzBiXzNYdy1DVDVyR1pfODlmczFmLVh3SFNEN2J0QzlfNXNUZHlXVjhrbjdn?oc=5",
-   "title": "Carpenters union throws support behind STREAM data center build",
-   "judge_score": 7,
-   "at": "2026-07-11T11:33:28Z"
-  },
   {
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMWswM2dPU19iV3RNSEhPdm1uMkcxRHl2T3k5R21NRHlhdVlpQjRUYUVUUVgwcHpuS0lfWFJxRmVOaTlMTkF3RXpzNlZiWlF4alhEN0h2Qmk5d0RCdGZZUGg1cS1qc0J6SmdpY2x0dHpqMW5PMkh2ODdnYklBUlBwSDlSMVpvNGVl?oc=5",
    "title": "Solon Township shelves rules meant to curb data centers",
@@ -3201,6 +3195,12 @@
    "title": "Dozens of data center projects line up across Michigan towns",
    "judge_score": 8,
    "at": "2026-08-24T09:56:58Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOVFpN0ZZdHhOT2ltbFJZMk9JWFk3WUtVNHZrV0NVZnpuSGd1eXBGblhIck1VSnN3aU5CeDdYNktsUFVUbFNuclR4UDRIR2ZHS2VBMXExVGJHdlptZHMxcGx6aGtTREE5NmdySjVlaGh3Y1FLdFdoQ2hGRk9kUEN4c1hfR3dLS1IxQkRj?oc=5",
+   "title": "Michigan data center map shows 20+ proposals chasing cheap power",
+   "judge_score": 6,
+   "at": "2026-08-24T10:45:38Z"
   }
  ]
 }

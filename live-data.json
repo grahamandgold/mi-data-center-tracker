@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-24T09:56:58Z",
+ "updated_at": "2026-08-24T10:45:38Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Michigan data center map shows 20+ proposals chasing cheap power",
+   "dek": "A new weekly roundup tracks every active proposal from Monroe to the Upper Peninsula. Residents see the direct link between these projects and higher utility bills plus water strain. The tracker highlights which sites have already secured tax breaks or grid connections.",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOVFpN0ZZdHhOT2ltbFJZMk9JWFk3WUtVNHZrV0NVZnpuSGd1eXBGblhIck1VSnN3aU5CeDdYNktsUFVUbFNuclR4UDRIR2ZHS2VBMXExVGJHdlptZHMxcGx6aGtTREE5NmdySjVlaGh3Y1FLdFdoQ2hGRk9kUEN4c1hfR3dLS1IxQkRj?oc=5",
+   "source": "Michigan Advance",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Explainers",
+   "iso": "2026-08-24T10:04:58Z",
+   "id": "ba0ca1bf11da",
+   "origin": "google-news",
+   "source_title": "Michigan Data Centers: The Weekly Download - Michigan Advance",
+   "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOVFpN0ZZdHhOT2ltbFJZMk9JWFk3WUtVNHZrV0NVZnpuSGd1eXBGblhIck1VSnN3aU5CeDdYNktsUFVUbFNuclR4UDRIR2ZHS2VBMXExVGJHdlptZHMxcGx6aGtTREE5NmdySjVlaGh3Y1FLdFdoQ2hGRk9kUEN4c1hfR3dLS1IxQkRj?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
   {
    "title": "Dozens of data center projects line up across Michigan towns",
    "dek": "Crain's maps every active proposal in the state, showing which sites have power deals, tax incentives, or local pushback. Residents 30 miles from any site will see higher electric rates and new transmission lines if these move forward. The list covers metro Detroit suburbs, west Michigan, and mid-state counties.",
@@ -169,23 +186,6 @@
    "id": "2963dfca5d52",
    "accuracy": "checked",
    "judge_score": 7
-  },
-  {
-   "title": "Saline residents voice fears over data center power and tax costs",
-   "dek": "Dozens packed a Saline coffee hour to question local leaders about proposed data centers. Residents focused on higher electric bills, water use, and lost tax revenue if big projects win breaks. The session showed how quickly the issue is becoming a flashpoint in Washtenaw County townships.",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMEE0QXhNaHE0U2xXMjNzbU1mVzgweFhPVFYxcFVCTWFERDhVU2JKcnlEVnlFWkV3WjVmaU56c3JwR0RrSFltRWlQbTl4RlBERThmMEtlZjFHR0t4ajZpUFhtdi1rSVdEcWJFekxBXzluV2JTWWJQcWNxRTRRLUxvaFVpdw?oc=5",
-   "source": "The Sun Times News",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Local Government",
-   "iso": "2026-08-21T16:29:14Z",
-   "id": "38f98122ffd1",
-   "origin": "google-news",
-   "source_title": "Data Center Concerns Dominate Saline Coffee Hour - The Sun Times News",
-   "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMEE0QXhNaHE0U2xXMjNzbU1mVzgweFhPVFYxcFVCTWFERDhVU2JKcnlEVnlFWkV3WjVmaU56c3JwR0RrSFltRWlQbTl4RlBERThmMEtlZjFHR0t4ajZpUFhtdi1rSVdEcWJFekxBXzluV2JTWWJQcWNxRTRRLUxvaFVpdw?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {
@@ -203,6 +203,20 @@
   "accuracy": "checked"
  },
  "meetings": [
+  {
+   "iso": "2026-08-24",
+   "body": "Lyon Township Planning Commission",
+   "topic": "Project Flex data center final site plan approval amid resident opposition over noise, water and energy impacts",
+   "region": "SE Michigan",
+   "regionKey": "metro",
+   "county": "Oakland",
+   "time": "7:00 PM",
+   "status": "Planning commission",
+   "urgent": true,
+   "link": "https://www.lyontwp.org/government/township_boards_and_commissions/planning_commission_.php",
+   "linkLabel": "Agenda",
+   "stream": "https://www.youtube.com/channel/UC5JDLDMzIKAwR2YfY42miFw"
+  },
   {
    "iso": "2026-08-24",
    "body": "Lenox Township Planning Commission",
@@ -247,15 +261,16 @@
   {
    "iso": "2026-08-25",
    "body": "Ann Arbor City Planning Commission",
-   "topic": "Data center presentation and policy considerations",
+   "topic": "Data center presentation on local impacts, policy context and zoning considerations for Michigan communities",
    "region": "SE Michigan",
    "regionKey": "metro",
    "county": "Washtenaw",
-   "time": "TBD",
+   "time": "7:00 PM",
    "status": "Planning commission",
    "urgent": false,
    "link": "https://a2gov.legistar.com/",
-   "linkLabel": "Agenda"
+   "linkLabel": "Agenda",
+   "stream": "https://a2gov.org/watchCTN"
   }
  ],
  "accuracy_checked_at": "2026-07-08T08:45:16+00:00"
