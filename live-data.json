@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-24T01:50:34+00:00",
+ "updated_at": "2026-08-24T03:12:57+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -205,6 +205,20 @@
  "meetings": [
   {
    "iso": "2026-08-24",
+   "body": "Madison Heights City Council",
+   "topic": "Temporary data center moratorium resolution",
+   "region": "SE Michigan",
+   "regionKey": "metro",
+   "county": "Oakland",
+   "time": "6:30 PM",
+   "status": "Board meeting",
+   "urgent": true,
+   "link": "https://www.madisonheightsmi.gov/Calendar.aspx?EID=3673",
+   "linkLabel": "Agenda",
+   "stream": "https://meetings.municode.com/adaHtmlDocument/index?cc=MDSNHGTSMI&me=cf88de52bea54d5eb8b4b3c693fe84e3&ip=False"
+  },
+  {
+   "iso": "2026-08-24",
    "body": "Planning Commission",
    "topic": "Review of new site plan application for Verrus data center project",
    "region": "West Michigan",
@@ -215,6 +229,19 @@
    "urgent": false,
    "link": "https://gandernewsroom.com/news/politics/how-many-ai-data-centers-are-planned-in-michigan-we-counted/",
    "linkLabel": "Agenda details via project tracker"
+  },
+  {
+   "iso": "2026-08-25",
+   "body": "Ann Arbor City Planning Commission",
+   "topic": "Data center presentation and policy considerations",
+   "region": "SE Michigan",
+   "regionKey": "metro",
+   "county": "Washtenaw",
+   "time": "TBD",
+   "status": "Planning commission",
+   "urgent": false,
+   "link": "https://a2gov.legistar.com/",
+   "linkLabel": "Agenda"
   }
  ],
  "accuracy_checked_at": "2026-07-08T08:45:16+00:00"
