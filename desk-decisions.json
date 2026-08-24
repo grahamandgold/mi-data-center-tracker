@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://example.com/national-data-center-power",
-   "title": "U.S. Data Center Power Demand Surges Prompt New Utility Planning",
-   "at": "2026-08-16T03:09:34+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece on utility planning lacks Michigan-specific developments or decisions."
-  },
-  {
-   "url": "https://www.channelnewsasia.com/business/nvidia-eyes-investing-3-billion-in-sb-energy-under-openai-data-center-deal-information-says-6321736",
-   "title": "Nvidia may put up to $3B into SoftBank unit SB Energy for OpenAI Ohio campus",
-   "at": "2026-08-16T04:11:25+00:00",
-   "by": "news_judge",
-   "note": "score 2/10: National financial deal for an Ohio project with no Michigan angle or relevance to Michigan's data center buildout."
-  },
-  {
    "url": "https://www.facebook.com/Reuters/posts/nearly-half-of-the-us-data-centers-planned-for-2026-are-facing-delays-or-cancell/1525729762751084/",
    "title": "Power bottlenecks delay nearly half of planned U.S. data centers for 2026",
    "at": "2026-08-16T06:53:44+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-24T10:45:38+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece about Scandinavia with only tangential Michigan mention; no specific Michigan development or decision."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPalYzSE9GZ0FSOGNKXzVNMldHc3VCTWxIRDl6Qi1qcWhJUlUyOFQzVGYzWmk1dEtGUUNGYzQ2MW1XRDhkelVuLXJZZjNCbVp0X2dRVDlLME52NlNIMEtDX1pGWThjRldtVmd0X1BhcTVHWk1jSXVCcEpVYUt3MUVrSW9qMHA4UzVScVJwa3BFN05oME01Wm5WeDJuRlZTLXhfX2drV3dFRDNNLXpOaE5aVA?oc=5",
+   "title": "Data-center power hunger could decide November races across Michigan",
+   "at": "2026-08-24T11:37:08+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece about electoral politics without specific Michigan votes, filings, or concrete developments beyond general campaign positioning."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcGMwNkpvTlNFRVAxLWpnRWxlci1jbHlYZkdlVFQwa05zXzI3dDI2TFFBNE5SRUVycHhKRU4wLURSbXBreEZEQ3dudmRzLUhOdlVoRXpvT2d0ZjFCQWVVbHkxVlpqcWlsZDZ5TnhyX3pHUW1Jek1MX082MlpORFNodG1HdFkxMnVkVFJ4NV9TWVZSVTBuT2szWUtFUEhDakRhMWdma3RBSmtfelR3bHN3VFhR?oc=5",
+   "title": "Rogers demands one-year freeze on all Michigan data centers",
+   "at": "2026-08-24T11:37:08+00:00",
+   "by": "news_judge",
+   "note": "score 1/10, duplicate: Mike Rogers' one-year freeze call was already killed twice by the News Director under different headlines."
   }
  ],
  "auto_published": [
