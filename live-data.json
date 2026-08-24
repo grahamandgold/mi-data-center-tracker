@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-24T08:58:25+00:00",
+ "updated_at": "2026-08-24T09:56:58Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Dozens of data center projects line up across Michigan towns",
+   "dek": "Crain's maps every active proposal in the state, showing which sites have power deals, tax incentives, or local pushback. Residents 30 miles from any site will see higher electric rates and new transmission lines if these move forward. The list covers metro Detroit suburbs, west Michigan, and mid-state counties.",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQ1o1V25QT2J2ZUs2MUtrejRmekQzWHlmSllBU2h1VlhrMzZlNk41YmdpYXpNWkZSSlZPQlhRRk1NZVJweEs5bTRGWEw0XzN2TVo5ZEdhS0FseVM2ZmJJYXplUVg4QlJOeDFUMjJ3RUJTUW9NS0tpbGppU1c2d2RnU2F2cw?oc=5",
+   "source": "Crain's Detroit",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Policy",
+   "iso": "2026-08-24T09:45:00Z",
+   "id": "24ac804b3175",
+   "origin": "google-news",
+   "source_title": "Data center proposals have exploded in Michigan. Here’s where all of them stand. - Crain's Detroit",
+   "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQ1o1V25QT2J2ZUs2MUtrejRmekQzWHlmSllBU2h1VlhrMzZlNk41YmdpYXpNWkZSSlZPQlhRRk1NZVJweEs5bTRGWEw0XzN2TVo5ZEdhS0FseVM2ZmJJYXplUVg4QlJOeDFUMjJ3RUJTUW9NS0tpbGppU1c2d2RnU2F2cw?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "Mason County weighs data center impact on local services",
    "dek": "Commissioners discussed how proposed data centers could affect EMS, roads and county budgets. Residents in rural Mason County would see higher power loads and possible tax revenue trade-offs. The talks come as more townships face similar project inquiries.",
@@ -169,23 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMEE0QXhNaHE0U2xXMjNzbU1mVzgweFhPVFYxcFVCTWFERDhVU2JKcnlEVnlFWkV3WjVmaU56c3JwR0RrSFltRWlQbTl4RlBERThmMEtlZjFHR0t4ajZpUFhtdi1rSVdEcWJFekxBXzluV2JTWWJQcWNxRTRRLUxvaFVpdw?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
-  },
-  {
-   "title": "Hyperscale Data sells $43M Bitcoin to bankroll Michigan data center push",
-   "dek": "The firm offloaded 685 BTC and cut debt by $30M, freeing cash specifically earmarked for its Michigan buildout. Michigan residents will feel the impact through added power demand, water use, and potential tax deals tied to the project. The move shows how crypto volatility now directly funds local infrastructure plans.",
-   "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQQ0ZON3RYVTJDUi1wY1R1ZzBGMFY5cHMzN3c5bU1iTWlqMENSUVAtd25IeGJlVV9SWmNDc0lZT0hvOW11WVRvWTlVVVFMMmgwbnR1Q1F0U296ajRmMnVNcmx0SlJ0NzVHQTBXcDdRYmZsa21EdTM2MjFRM0JYTFFIVEZ4ekFzQVR4ZjRJSHNVT1JLc0hCOXVGMXFfbm43aTJxakhnUjhWbXRLMnZRVFh4OWtrNllNOGViRkdnTTlsMUU3NGNIR1ZDUlN5U3FwcnN2cUdjbGVRWFVoSDRIZDZPRGNZWXIwRzFWTTZZZUt2ZHo1R2JRTjZmdFV3dDJBSXAtd21fNDJzVHNacVdKQXN4cDV6YjdTbXhoVFNCMkZrZDl0MERpbXpfTVU4YVJGMlZGU0xNR0N3V2tpemM?oc=5",
-   "source": "Bitcoin World",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Money",
-   "iso": "2026-08-21T11:17:02Z",
-   "id": "8622fcc50ee2",
-   "origin": "google-news",
-   "source_title": "Hyperscale Data Has Sold Approximately 685 Bitcoin for Approximately $43 Million, Reduces Debt by Approximately $30 Million and Strengthens Liquidity to Support Michigan Data Center Buildout - Bitcoin",
-   "source_url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQQ0ZON3RYVTJDUi1wY1R1ZzBGMFY5cHMzN3c5bU1iTWlqMENSUVAtd25IeGJlVV9SWmNDc0lZT0hvOW11WVRvWTlVVVFMMmgwbnR1Q1F0U296ajRmMnVNcmx0SlJ0NzVHQTBXcDdRYmZsa21EdTM2MjFRM0JYTFFIVEZ4ekFzQVR4ZjRJSHNVT1JLc0hCOXVGMXFfbm43aTJxakhnUjhWbXRLMnZRVFh4OWtrNllNOGViRkdnTTlsMUU3NGNIR1ZDUlN5U3FwcnN2cUdjbGVRWFVoSDRIZDZPRGNZWXIwRzFWTTZZZUt2ZHo1R2JRTjZmdFV3dDJBSXAtd21fNDJzVHNacVdKQXN4cDV6YjdTbXhoVFNCMkZrZDl0MERpbXpfTVU4YVJGMlZGU0xNR0N3V2tpemM?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
   }
  ],
  "national": {
