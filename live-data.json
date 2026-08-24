@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-24T11:37:04+00:00",
+ "updated_at": "2026-08-24T13:06:15Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Ypsilanti Township tries to cut power to U-M data center project",
+   "dek": "Officials are weighing a temporary ban on new transmission lines that would feed the university's planned facility. The move aims to buy time for residents worried about rate hikes and farmland loss. If approved, the moratorium would directly affect power delivery in eastern Washtenaw County.",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYW4yX3ZuT01vOU1KZUVPQmM2emhsOFdyRGdSZVliZ1VyN2V6WVF1Wi1ZR0JtalNMNDcxSWhJaURKTFZSWUF5UnZsdXU0Y0ZzRHdzYkJvTjY2Rk9waDJ3VW5ob0J1c1hfSU5ubHBuT0xxSGNFZ3hJdjRnQ0Fkbi1vYWxZSl9BRU92bGFPMU5LSXRCM2tCZHNFeWoza2NoREZyU0NITlU5SnplaEdSZlZtRGExVjF4VUdvX1BLQlZpV3RIUQ?oc=5",
+   "source": "The Manchester Mirror",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Power & Grid",
+   "iso": "2026-08-24T12:51:33Z",
+   "id": "2080ae3e3d55",
+   "origin": "google-news",
+   "source_title": "Ypsilanti Township eyes moratorium on power transmission to slow U-M data center - The Manchester Mirror",
+   "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYW4yX3ZuT01vOU1KZUVPQmM2emhsOFdyRGdSZVliZ1VyN2V6WVF1Wi1ZR0JtalNMNDcxSWhJaURKTFZSWUF5UnZsdXU0Y0ZzRHdzYkJvTjY2Rk9waDJ3VW5ob0J1c1hfSU5ubHBuT0xxSGNFZ3hJdjRnQ0Fkbi1vYWxZSl9BRU92bGFPMU5LSXRCM2tCZHNFeWoza2NoREZyU0NITlU5SnplaEdSZlZtRGExVjF4VUdvX1BLQlZpV3RIUQ?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "Michigan data center map shows 20+ proposals chasing cheap power",
    "dek": "A new weekly roundup tracks every active proposal from Monroe to the Upper Peninsula. Residents see the direct link between these projects and higher utility bills plus water strain. The tracker highlights which sites have already secured tax breaks or grid connections.",
@@ -171,21 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNakM5cnpkbWYtUlJsMV9hMGlSMzJic2tOQmRONmZPSjE2RHJ1V0tGaWQ0dDhJUkhBMTlnMXJxekpCanNzamZGRHVySUE1YklyMlR5VzNoT1o1T0FoaWlnQWZUQkpEdWJrQ2I5a0ZqQmMzc3UtLWN0ODdOZC1UTUV6TDVqeGZLSVozUDJQYXJ0ZUxmWkhScy1FWE90cnctQ05iNzNmd0NXYmg?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
-  },
-  {
-   "iso": "2026-08-21T19:00:00+00:00",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "tag": "Local Government",
-   "title": "Michigan Officials Face Growing Recall Pressure Over Data Center Decisions",
-   "dek": "At least 28 officials in eight communities have faced recall efforts tied to data center votes, with only one recall reaching the November ballot, according to a new Bridge Michigan analysis of local fights statewide.",
-   "source": "Bridge Michigan",
-   "url": "https://bridgemi.com/michigan-environment-watch/residents-and-officials-feeling-powerless-in-michigan-data-center-fights/",
-   "breaking": false,
-   "lead": true,
-   "id": "2963dfca5d52",
-   "accuracy": "checked",
-   "judge_score": 7
   }
  ],
  "national": {
@@ -257,6 +259,20 @@
    "urgent": false,
    "link": "https://gandernewsroom.com/news/politics/how-many-ai-data-centers-are-planned-in-michigan-we-counted/",
    "linkLabel": "Agenda details via project tracker"
+  },
+  {
+   "iso": "2026-08-25",
+   "body": "Springfield Township Planning Commission",
+   "topic": "Data center ordinance review and zoning regulations",
+   "region": "SE Michigan",
+   "regionKey": "metro",
+   "county": "Oakland",
+   "time": "7:00 PM",
+   "status": "Planning commission",
+   "urgent": false,
+   "link": "https://www.springfield-twp.us/departments/clerk/minutes.php",
+   "linkLabel": "Agenda",
+   "stream": null
   },
   {
    "iso": "2026-08-25",

@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.facebook.com/Reuters/posts/nearly-half-of-the-us-data-centers-planned-for-2026-are-facing-delays-or-cancell/1525729762751084/",
-   "title": "Power bottlenecks delay nearly half of planned U.S. data centers for 2026",
-   "at": "2026-08-16T06:53:44+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece about power bottlenecks and delays with no Michigan-specific angle or development."
-  },
-  {
-   "url": "https://wsbt.com/news/local/cass-county-town-hall-draws-packed-crowd-over-data-center-and-fiberglass-factory-plans",
-   "title": "Cass County Crowd Raises Property-Value and Health Worries Over Data Center",
-   "at": "2026-08-16T07:38:59+00:00",
-   "by": "news_judge",
-   "note": "score 4/10, duplicate: Same Cass County town hall event already covered in 'Cass County residents pack hall to block data center projects' and 'Cass County residents pack town hall to"
-  },
-  {
    "url": "https://centralcurrent.org/new-york-paused-ai-data-center-development-for-a-year-in-the-interim-lawmakers-want-to-block-tax-breaks/",
    "title": "New York governor halts hyperscale data center permits for one year",
    "at": "2026-08-16T08:39:23+00:00",
@@ -1399,15 +1385,23 @@
    "at": "2026-08-24T11:37:08+00:00",
    "by": "news_judge",
    "note": "score 1/10, duplicate: Mike Rogers' one-year freeze call was already killed twice by the News Director under different headlines."
+  },
+  {
+   "url": "https://www.nbcnews.com/politics/2026-election/republicans-data-center-backlash-trump-rcna592410",
+   "title": "GOP Candidates in Key Races Voiced Doubt on Data Center Backlash",
+   "at": "2026-08-24T13:06:15+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece about candidate positioning lacks specific Michigan development or concrete action."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeXk3ZlR2cjMyU0ZTa3p5YkJfMm56TnlFeHE5RDFvbWxncEVQY2NxVFVuUnFpaWZxVlF1ZjBpRWNueXpyQ0F1a0VvcEwyNDlBNFlZd1dSWEVpaDN2LWZKTjFfUGlKcG42UzFwZThaSUZmbmc0TEdiS2p4cGJvY1FYOXhKNHF6Z015RFllSk5vUFJvWHNHdC1zUERfMjNUbFE5WlpzUmNmWXY4dVhxRURyd2JVUTFsZHc?oc=5",
+   "title": "Washtenaw residents say they can't stop data center power deals",
+   "at": "2026-08-24T13:06:15+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Thin on specifics, appears to be resident sentiment piece without concrete filing, vote, or official action."
   }
  ],
  "auto_published": [
-  {
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMWswM2dPU19iV3RNSEhPdm1uMkcxRHl2T3k5R21NRHlhdVlpQjRUYUVUUVgwcHpuS0lfWFJxRmVOaTlMTkF3RXpzNlZiWlF4alhEN0h2Qmk5d0RCdGZZUGg1cS1qc0J6SmdpY2x0dHpqMW5PMkh2ODdnYklBUlBwSDlSMVpvNGVl?oc=5",
-   "title": "Solon Township shelves rules meant to curb data centers",
-   "judge_score": 7,
-   "at": "2026-07-11T12:34:37Z"
-  },
   {
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNzIwV3ZDdGc2akh3QU1XQV83ODhsS1BndkU5RHdGTGlTZTh1azI1T1NJZmYxbUhMXzdWMkNjVXIzOWRXRGxIQnJ4QTVYMFFxa2lfamdTOUVzVzlTN2tWWjN2WVNTMGRxNFlXeDN3RkFDLXRXQXdTamZhd0lobHZWdmQtVQ?oc=5",
    "title": "Saline Township data center swells to $16B with financing locked",
@@ -3201,6 +3195,12 @@
    "title": "Michigan data center map shows 20+ proposals chasing cheap power",
    "judge_score": 6,
    "at": "2026-08-24T10:45:38Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYW4yX3ZuT01vOU1KZUVPQmM2emhsOFdyRGdSZVliZ1VyN2V6WVF1Wi1ZR0JtalNMNDcxSWhJaURKTFZSWUF5UnZsdXU0Y0ZzRHdzYkJvTjY2Rk9waDJ3VW5ob0J1c1hfSU5ubHBuT0xxSGNFZ3hJdjRnQ0Fkbi1vYWxZSl9BRU92bGFPMU5LSXRCM2tCZHNFeWoza2NoREZyU0NITlU5SnplaEdSZlZtRGExVjF4VUdvX1BLQlZpV3RIUQ?oc=5",
+   "title": "Ypsilanti Township tries to cut power to U-M data center project",
+   "judge_score": 8,
+   "at": "2026-08-24T13:06:15Z"
   }
  ]
 }
