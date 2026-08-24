@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://datacenterpost.com/",
-   "title": "Delays hit 90% of data center projects nationwide",
-   "at": "2026-08-15T21:49:37+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece with only speculative connection to Michigan power users; lacks concrete local development."
-  },
-  {
-   "url": "https://midmichigannow.com/news/nation-world/data-centers-emerge-as-bipartisan-flashpoint-ahead-of-2026-midterm-elections-political-issues-national-president-donald-trump",
-   "title": "Voters from both parties target data center water and power costs",
-   "at": "2026-08-15T22:31:02+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece with generic polling data and only a brief mention of New York's moratorium; lacks Michigan-specific development or concrete local action."
-  },
-  {
    "url": "https://michiganadvance.com/2026/08/14/in-bid-to-stop-saline-data-center-tax-break-an-attorney-argues-the-township-skipped-crucial-steps/",
    "title": "Saline Resident Seeks to Block Tax Break for Oracle Data Center",
    "at": "2026-08-15T23:28:12+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-24T06:06:16+00:00",
    "by": "news_judge",
    "note": "score 1/10, duplicate: This is the same Rogers one-year halt story already killed three times by the News Director under different headlines."
+  },
+  {
+   "url": "https://www.aol.com/articles/rising-data-center-backlash-shakes-210000000.html",
+   "title": "Rogers Backs One-Year Data Center Pause to Shield Michigan Communities",
+   "at": "2026-08-24T08:58:37+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This is the same Mike Rogers one-year halt proposal already killed multiple times under different headlines."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxON1l1S281VDAtMnd2ZzNFNy16cnNDUzFiQlNDTEM3Q25FbUZNTGMwQXdnSE03bTMyQXQ4QU9fZ1ltTXlSbmRyNU9iYngwRUk5RnpNRHVsUHM3MmljZl93M0VMYXg2VGczckZOY2hDQTFQcGgyNmlEMXpJWGZOLVF5a3VEYUVjSWhYTjUzaDZYNk4xMnphQ0ZZRjF1OVZDcmJzcnE1X2dVeGVfdmpIY0lFWUpnQmJZckZ5c2MxeVNWaVFYNDFvOHo5LWpoazd2Qnpy?oc=5",
+   "title": "Tiny Michigan village shows how to keep data centers from draining local power",
+   "at": "2026-08-24T08:58:37+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Opinion piece offering general lessons from an unnamed village lacks concrete news value; no specific decision, filing, or development reported."
   }
  ],
  "auto_published": [

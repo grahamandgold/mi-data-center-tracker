@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-24T07:40:44+00:00",
+ "updated_at": "2026-08-24T08:58:25+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -206,14 +206,14 @@
   {
    "iso": "2026-08-24",
    "body": "Lenox Township Planning Commission",
-   "topic": "Data center ordinance review and related zoning amendments",
+   "topic": "Data center ordinance review and potential moratorium extension",
    "region": "SE Michigan",
    "regionKey": "metro",
    "county": "Macomb",
    "time": "6:30 PM",
    "status": "Planning commission",
    "urgent": true,
-   "link": "https://www.lenox-mi.gov/AgendaCenter/Planning-Commission-4",
+   "link": "https://www.lenox-mi.gov/AgendaCenter",
    "linkLabel": "Agenda",
    "stream": ""
   },
