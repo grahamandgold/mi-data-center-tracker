@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-24T21:38:13Z",
+ "updated_at": "2026-08-24T22:35:40Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Wixom may lift data-center freeze months early",
+   "dek": "Wixom leaders are weighing whether to end the town's data-center moratorium ahead of schedule. Residents could soon face decisions on large power-hungry projects that affect local electric rates and land use. The move would reopen the door for proposals that have already sparked pushback in Oakland County suburbs.",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS3ByQ1BoLVRHc2o2WjdWSUNsTTBvUC1KM1dLZXBhdUsxYUZ1ai0xb19NTEJCdVRkR1NTRlhuclFUeE1fTDBxMGw1aTFiRU50RXRka1ZNR1hHLXN1SDBidnFELXFHOHQtdmtiYlM0UHpMajVuUHI4b1ZJcHkzVjFVVDJNUzZ6SzF2bUtpTUJPZ2ZRWHNibDlpQnV2Q1ZpSEJBT3lrM2t3cndHeERvdUR1RNIBxAFBVV95cUxPUUdXQ3hMbFZCSXhveEZVM2JHQ2JRWnl1bWxzeV9MX1pRWEtaU1VkNVVESWp0M0JVRmo1bVl6Y1k1NnVrUFFMOHhaSm5EN0JidXktdE9KbGZNeFZyazd1dlNPMkhEbHhDcjB6bFptNTBCcmFpcVhLbk41a1ZYY3UtejBmQnpWREZJME5NREU3eUw2ZkxjUGttRVZheHVyWGh2Y2l5QUF4cXIyR2FBYUswVnQtQndkSGNqVVBfS3N0ZkE3cDRu?oc=5",
+   "source": "MLive.com",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Oakland",
+   "tag": "Local Government",
+   "iso": "2026-08-24T22:02:00Z",
+   "id": "a5110e283459",
+   "origin": "google-news",
+   "source_title": "Wixom council considers early ending for data-center moratorium - MLive.com",
+   "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS3ByQ1BoLVRHc2o2WjdWSUNsTTBvUC1KM1dLZXBhdUsxYUZ1ai0xb19NTEJCdVRkR1NTRlhuclFUeE1fTDBxMGw1aTFiRU50RXRka1ZNR1hHLXN1SDBidnFELXFHOHQtdmtiYlM0UHpMajVuUHI4b1ZJcHkzVjFVVDJNUzZ6SzF2bUtpTUJPZ2ZRWHNibDlpQnV2Q1ZpSEJBT3lrM2t3cndHeERvdUR1RNIBxAFBVV95cUxPUUdXQ3hMbFZCSXhveEZVM2JHQ2JRWnl1bWxzeV9MX1pRWEtaU1VkNVVESWp0M0JVRmo1bVl6Y1k1NnVrUFFMOHhaSm5EN0JidXktdE9KbGZNeFZyazd1dlNPMkhEbHhDcjB6bFptNTBCcmFpcVhLbk41a1ZYY3UtejBmQnpWREZJME5NREU3eUw2ZkxjUGttRVZheHVyWGh2Y2l5QUF4cXIyR2FBYUswVnQtQndkSGNqVVBfS3N0ZkE3cDRu?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "New Buffalo blocks storage yard tied to data center project",
    "dek": "The township board rejected the permit for a storage facility directly supporting a data center. Residents in Berrien County now face fewer construction impacts and truck traffic near their homes. The decision shows local pushback against supporting infrastructure for these facilities.",
@@ -169,23 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMEcybllVYjNqRjZacURaMklkM1NGNGxSazJNZEt0ZnFfclFDYXdRYWhQSmVpdFJRQkEwVEg5aTRJcWl1U3FmLUNYREY4THZ5ZktXbGN2bnp6VU5nMnFDX0N6b2MxZmdBcG02ak96YW0tRmI2am1kdkxwcVYzeXRpcUEyN1cwbURrdUtIb0cxMEs2aW91aGJOZjFRaWx4dm9SV2d4eTNuT25jZUg4RldsRE1YSjNRM0gxMHNGanRiS1l2S1Eya0xHQldmYndNQnFGbUVLNjBtemhxMzZrR2RFWnp1ZUsyMTBicVpTdW5XdjlZNmRTREZ2MlFGUQ?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
-  },
-  {
-   "title": "South Haven residents fight rezoning that could open door to data center",
-   "dek": "Neighbors in South Haven are voicing strong opposition to rezoning the Baseline property, worried about noise, traffic and strain on local services if a data center moves in. The pushback comes as data-center proposals multiply across western Michigan townships. A decision here will set the tone for similar fights in nearby communities.",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPYlp3TldqVXRmY05SaEVicUlsSEF0SjlpU0UxdEtnS2JxVUp1cU9IYzFBbzVXVXRxTXYxUmxVWHNBalphTXREQWt3NnQ1cUxianRwVlNQd19meWdBQVR4NURpSDAxRWtnWGV3TkNoRERtWnRYd0kwRzJVWlpXYzA1UFFnb2JNa1d0Wks1ZjRLZHg5TDU5bzRtYjZkbFBqMGw4c215cW52N25NR2pIUm1GYm05a1NQRDNvRkdZMVRGTnZLbWxSMVY0bm5qREtjMjU3VnR3Rmx2RHlHZVkxTFByU0c4R09OM1Q5eWVFYkVQUkdtdmN1U3hJ?oc=5",
-   "source": "The Herald Palladium",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Van Buren",
-   "tag": "Local Government",
-   "iso": "2026-08-22T09:45:00Z",
-   "id": "75e95ab33358",
-   "origin": "google-news",
-   "source_title": "South Haven residents oppose rezoning of Baseline property - The Herald Palladium",
-   "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPYlp3TldqVXRmY05SaEVicUlsSEF0SjlpU0UxdEtnS2JxVUp1cU9IYzFBbzVXVXRxTXYxUmxVWHNBalphTXREQWt3NnQ1cUxianRwVlNQd19meWdBQVR4NURpSDAxRWtnWGV3TkNoRERtWnRYd0kwRzJVWlpXYzA1UFFnb2JNa1d0Wks1ZjRLZHg5TDU5bzRtYjZkbFBqMGw4c215cW52N25NR2pIUm1GYm05a1NQRDNvRkdZMVRGTnZLbWxSMVY0bm5qREtjMjU3VnR3Rmx2RHlHZVkxTFByU0c4R09OM1Q5eWVFYkVQUkdtdmN1U3hJ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {
