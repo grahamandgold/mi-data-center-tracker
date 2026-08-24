@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://nypost.com/2026/08/15/real-estate/ai-data-center-boom-minting-new-class-of-6-figure-jobs-how-it-affects-housing/",
-   "title": "Data Center Wages Top $200k but Pull Trades from Homebuilding",
-   "at": "2026-08-16T17:27:15+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National labor trend piece citing Nvidia CEO on wage competition with homebuilding—thin on Michigan specifics and speculative on local impact."
-  },
-  {
    "url": "https://www.nytimes.com/2026/08/16/business/ai-data-centers.html",
    "title": "States Weigh Taxes and Limits as AI Data Center Power Demand Surges Nationwide",
    "at": "2026-08-16T20:32:33+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-24T16:50:04+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece about presidential candidates' positioning; only tangentially mentions Michigan and offers no concrete state-specific development."
+  },
+  {
+   "url": "https://www.datacenterdynamics.com/en/news/raeden-claims-michigan-moratorium-unlawfully-stopped-its-gibraltar-data-center-development/",
+   "title": "Developer sues Gibraltar over data center moratorium blocking 100MW project",
+   "at": "2026-08-24T19:37:00+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This is the same Raeden lawsuit against Gibraltar/Michigan over the moratorium already covered in the LIVE story 'Raeden sues Michigan, says moratorium illegall"
   }
  ],
  "auto_published": [
