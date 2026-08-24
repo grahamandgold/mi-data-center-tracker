@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://centralcurrent.org/new-york-paused-ai-data-center-development-for-a-year-in-the-interim-lawmakers-want-to-block-tax-breaks/",
-   "title": "New York governor halts hyperscale data center permits for one year",
-   "at": "2026-08-16T08:39:23+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece from New York with no Michigan-specific angle or impact; similar to killed national stories about Tennessee, Ohio, and general U.S. trends."
-  },
-  {
    "url": "https://www.wsj.com/tech/ai/ai-data-center-rural-america-backlash-c0af4e16",
    "title": "Kentucky Landowners Reject $26 Million Offer for AI Data Center on Family Farm",
    "at": "2026-08-16T14:53:02+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-24T13:06:15+00:00",
    "by": "news_judge",
    "note": "score 4/10: Thin on specifics, appears to be resident sentiment piece without concrete filing, vote, or official action."
+  },
+  {
+   "url": "https://www.politico.com/news/2026/08/24/data-centers-oh-s-t-moment-01046465",
+   "title": "Bipartisan backlash intensifies as politicians nationwide embrace curbs on data center growth",
+   "at": "2026-08-24T15:48:58+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece with vague claims about 'bipartisan backlash' and 'politicians nationwide' without specific Michigan decisions, votes, or filings; speculat"
   }
  ],
  "auto_published": [
