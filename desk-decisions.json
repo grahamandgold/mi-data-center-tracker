@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaDhueGpwQXhwM3AyYlNWbmdCOE9rQlYzeUkzSzdIVUVHWkh2b1V4c1p5XzR2TmZRQk1VcGJUbVhLbUlVSERrNUNLWlRkcTdkQV9pX094UDlPLXpReVp0ZGRwWWo3UVhBWXBqLUFlQVRSODFoalhqdlB6RXlvN0tSblFNLUtXYzVXaWZnc1pPRG1FV1RrUG1BcVZ4OExtV0x6Q0dRV3RzUkhDc2pTRG9PUXRtQzM1MUpBVDVjT2Z3UVFCTWpZR1QyN2JKdzBlcTJaUEtvazVhQzA0MnVReVhTZnpR?oc=5",
-   "title": "Wixom tightens data center rules over power and water strain",
-   "at": "2026-08-16T20:32:33+00:00",
-   "by": "news_judge",
-   "note": "score 1/10, duplicate: Duplicate of already-live 'Wixom tightens data center rules amid power and water concerns' — same zoning/noise action by Wixom officials."
-  },
-  {
    "url": "https://www.reuters.com/",
    "title": "No major new national data center developments reported in the last 24 hours",
    "at": "2026-08-16T22:50:55+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-24T21:38:13+00:00",
    "by": "news_judge",
    "note": "score 4/10, duplicate: Duplicate of already-live 'Data Center Backlash Spurs Recall Bids Against 28 Michigan Officials' — same recall story with only the ballot outcome detail added."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUUdXQ3hMbFZCSXhveEZVM2JHQ2JRWnl1bWxzeV9MX1pRWEtaU1VkNVVESWp0M0JVRmo1bVl6Y1k1NnVrUFFMOHhaSm5EN0JidXktdE9KbGZNeFZyazd1dlNPMkhEbHhDcjB6bFptNTBCcmFpcVhLbk41a1ZYY3UtejBmQnpWREZJME5NREU3eUw2ZkxjUGttRVZheHVyWGh2Y2l5QUF4cXIyR2FBYUswVnQtQndkSGNqVVBfS3N0ZkE3cDRu0gHEAUFVX3lxTE9RR1dDeExsVkJJeG94RlUzYkdDYlFaeXVtbHN5X0xfWlFYS1pTVWQ1VURJanQzQlVGajVtWXpjWTU2dWtQUUw4eFpKbkQ3QmJ1eS10T0psZk14VnJrN3V2U08ySERseENyMHpsWm01MEJyYWlxWEtuTjVrVlhjdS16MGZCelZERkkwTk1ERTd5TDZmTGNQa21FVmF4dXJYaHZjaXlBQXhxcjJHYUFhSzBWdC1Cd2RIY2pVUF9Lc3RmQTdwNG4?oc=5",
+   "title": "Wixom may lift data-center moratorium months early",
+   "at": "2026-08-24T22:57:51+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This is the same Wixom moratorium early-lift story already live in the queue."
   }
  ],
  "auto_published": [
