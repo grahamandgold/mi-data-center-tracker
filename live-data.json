@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-25T04:11:38+00:00",
+ "updated_at": "2026-08-25T05:08:07Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Campbell coal plant stays open to feed data-center power hunger",
+   "dek": "The U.S. Department of Energy ordered the J.H. Campbell plant in Ottawa County to keep running, citing rising electricity demand from data centers. Keeping the aging coal unit online means continued emissions and higher costs for ratepayers in western Michigan. The move underscores how AI growth is reshaping the state's energy grid.",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10ejRuTzM3dnZJak5HbDJOUGpuZHJKbmhBV2ctc1BReVVjNnBnRkl5NXFOWC0tM250aHUxWEY2Y1k0MWE2bXNWdXFHM0JzMFc0N3hVLUFQRUlVNDgxX1FEV0hwUDQ2WWd0QUhNTUxfN1ZRZnU2YkZTV1U2dXB3MU0?oc=5",
+   "source": "AOL.com",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Ottawa",
+   "tag": "Power & Grid",
+   "iso": "2026-08-24T22:58:49Z",
+   "id": "dfb12f97e2d1",
+   "origin": "google-news",
+   "source_title": "DOE issues sixth order keeping J.H. Campbell plant open - AOL.com",
+   "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10ejRuTzM3dnZJak5HbDJOUGpuZHJKbmhBV2ctc1BReVVjNnBnRkl5NXFOWC0tM250aHUxWEY2Y1k0MWE2bXNWdXFHM0JzMFc0N3hVLUFQRUlVNDgxX1FEV0hwUDQ2WWd0QUhNTUxfN1ZRZnU2YkZTV1U2dXB3MU0?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "Wixom may lift data-center freeze months early",
    "dek": "Wixom leaders are weighing whether to end the town's data-center moratorium ahead of schedule. Residents could soon face decisions on large power-hungry projects that affect local electric rates and land use. The move would reopen the door for proposals that have already sparked pushback in Oakland County suburbs.",
@@ -169,23 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ1lUclZYUWhzVkpKV0dQR1hXMXY2ekIxNzQtOFk5bU9fV1NBMGJ4STd0d1ZyQkNBa2pCRDNuZEJ0cWJqRmJDMFpTamh1Z1lXamZiU1ZDb2tzQTZMMkp4S1lFU21JeXNEd0FQQnNic2lPbV9VNVRHSWJiSG1FU21ySXdCR1BjeDBQUU9LYkgtT3RFOHd1aUFUU0ln?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Township rejects server farm after residents cite noise, traffic, water concerns",
-   "dek": "Township officials rejected the permit for a proposed data center on Kluver Road. Residents nearby worry about noise, traffic, and higher water use if the project had moved forward. The decision keeps the rural area free of large-scale server farms for now.",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMEcybllVYjNqRjZacURaMklkM1NGNGxSazJNZEt0ZnFfclFDYXdRYWhQSmVpdFJRQkEwVEg5aTRJcWl1U3FmLUNYREY4THZ5ZktXbGN2bnp6VU5nMnFDX0N6b2MxZmdBcG02ak96YW0tRmI2am1kdkxwcVYzeXRpcUEyN1cwbURrdUtIb0cxMEs2aW91aGJOZjFRaWx4dm9SV2d4eTNuT25jZUg4RldsRE1YSjNRM0gxMHNGanRiS1l2S1Eya0xHQldmYndNQnFGbUVLNjBtemhxMzZrR2RFWnp1ZUsyMTBicVpTdW5XdjlZNmRTREZ2MlFGUQ?oc=5",
-   "source": "The Herald Palladium",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Berrien",
-   "tag": "Local Government",
-   "iso": "2026-08-22T10:00:00Z",
-   "id": "6444ef673cce",
-   "origin": "google-news",
-   "source_title": "New Buffalo Township board denies permit for Kluver Road site - The Herald Palladium",
-   "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMEcybllVYjNqRjZacURaMklkM1NGNGxSazJNZEt0ZnFfclFDYXdRYWhQSmVpdFJRQkEwVEg5aTRJcWl1U3FmLUNYREY4THZ5ZktXbGN2bnp6VU5nMnFDX0N6b2MxZmdBcG02ak96YW0tRmI2am1kdkxwcVYzeXRpcUEyN1cwbURrdUtIb0cxMEs2aW91aGJOZjFRaWx4dm9SV2d4eTNuT25jZUg4RldsRE1YSjNRM0gxMHNGanRiS1l2S1Eya0xHQldmYndNQnFGbUVLNjBtemhxMzZrR2RFWnp1ZUsyMTBicVpTdW5XdjlZNmRTREZ2MlFGUQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
   }
  ],
  "national": {

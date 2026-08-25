@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.mlive.com/news/detroit/2026/08/5-takeaways-on-wixoms-proposed-zoning-changes-for-data-centers.html",
-   "title": "Wixom Council Advances Tighter Zoning Rules for Data Centers After Close Vote",
-   "at": "2026-08-17T15:33:36+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Duplicate of already-live 'Wixom Council Backs Zoning Rules to Limit Data Center Noise and Utility Costs' and 'Wixom tightens data center rules amid power and w"
-  },
-  {
    "url": "https://www.irecruit.co/insights/data-center-construction-cost-per-mw-2026-benchmarks-owners",
    "title": "Data Center Construction Costs Surge to Record Highs in 2026",
    "at": "2026-08-17T15:33:36+00:00",
@@ -1399,15 +1392,16 @@
    "at": "2026-08-25T04:11:54+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Duplicate of killed story 'Rogers Shifts to Back Statewide Data Center Moratorium After AI Disclosures' — same Rogers reversal, same event."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYnB3cEszTXVUQzM1VnQ4clVBam9XdXY2SW9hQnZpMFpqSDFPQWFwaGYyUzFhUWNYQXhPU0tsTmI2b2pnNU13dEZnZ21jR3JTVVpVaWFfRm5OY2dvTWRjb3dRcUVqb3pwN2l5Tzl6X0hjaWFYeFIwLWp5SDFBNmE1a044TlVwZXE1aVFPSzZEYURyZF9Ra2FJSTZrMXNnbUk1WWhj?oc=5",
+   "title": "Michigan locals push back as towns say they can't stop data centers",
+   "at": "2026-08-25T05:08:07+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Generic sentiment piece about residents pushing back lacks a specific event, decision, or filing; reads like a thin rehash of ongoing tensions already covered."
   }
  ],
  "auto_published": [
-  {
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQckQ1V0VQRWR1NXFlc0lqUVVIQ0NLRDFBQlV0VXdwZzZsUEJTVHZxczdjQzNqZi04TVI5aG90eEtVMjlUOVN2Z0xvMEdJYzUxYTlGSFNSdXFCeDBZOWxNeGo2dHVwa3JHNjBVUUZld3VBRW5CdUFIampyNDR6V0h2dGtPa215VEpFVTI4aHFjb1dLa0RiaUJITm1zTTA4LUQwV2tQVlk3QURmSUQweTNYVU1wVFRWRHdpNXVobFJiUkIwSzBXbkJ2bTAxekNuRGxUX3h6bGMwelh1ODdDVkpzaHdFY1VNV3RxVUE?oc=5",
-   "title": "State lawmakers eye new guardrails for Michigan data centers",
-   "judge_score": 7,
-   "at": "2026-07-12T17:35:47Z"
-  },
   {
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUU9Ib1pFUGY0YmhwSEJHb1BDZ1U1dXR0R053QklOZnhjWXhPODViLWJ2MzRsdjktdjdJVWFwaDlNUzJiamJhaXI0MF9VQlBCTDRnUXpqWERSWWQ3WkpXenpXeG1wSGlkSzZpWXQtU1RmZDFjMERieDdLMXRfdTc2X29sV2RjZVhXVkE?oc=5",
    "title": "Consumers warns rates will rise if tax fight with state drags on",
@@ -3201,6 +3195,12 @@
    "title": "Wixom may lift data-center freeze months early",
    "judge_score": 7,
    "at": "2026-08-24T22:35:40Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10ejRuTzM3dnZJak5HbDJOUGpuZHJKbmhBV2ctc1BReVVjNnBnRkl5NXFOWC0tM250aHUxWEY2Y1k0MWE2bXNWdXFHM0JzMFc0N3hVLUFQRUlVNDgxX1FEV0hwUDQ2WWd0QUhNTUxfN1ZRZnU2YkZTV1U2dXB3MU0?oc=5",
+   "title": "Campbell coal plant stays open to feed data-center power hunger",
+   "judge_score": 8,
+   "at": "2026-08-25T05:08:07Z"
   }
  ]
 }
