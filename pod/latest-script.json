@@ -1,10 +1,10 @@
 {
- "title": "Evenings with Graham & Emmy",
- "teaser": "New Buffalo blocks a storage yard for a data center project; locals gain breathing room on traffic and noise.",
+ "title": "Mornings with Graham & Emmy",
+ "teaser": "Lawmakers review bills that could speed or slow projects and affect your electric bill.",
  "lines": [
   {
    "host": "Graham",
-   "text": "Good evening, and welcome to Evenings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
+   "text": "Good morning, and welcome to Mornings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
   },
   {
    "host": "Emmy",
@@ -12,290 +12,218 @@
   },
   {
    "host": "Graham",
-   "text": "Tonight we're starting with a clear win for residents in New Buffalo, where the township board just turned down a permit for a storage yard that would have supported a nearby data center."
+   "text": "This morning we're zeroing in on Lansing as lawmakers weigh new tax breaks and power rules that could reshape how these big facilities come online across the state."
   },
   {
    "host": "Emmy",
-   "text": "That decision feels like it could ripple out. Why does blocking one storage facility matter so much when there are dozens of bigger proposals on the map?"
+   "text": "Right, Graham. The lead story today is those bills in the legislature that would change taxes and electricity access for data centers needing hundreds of megawatts."
   },
   {
    "host": "Graham",
-   "text": "Because these support sites are the hidden backbone. Without the yard, construction trucks and equipment staging get a lot harder, which directly cuts down on the noise and traffic residents were worried about in Berrien County."
+   "text": "Exactly. This isn't just paperwork. It touches electric bills, water use, farmland, and what towns actually keep in revenue."
   },
   {
    "host": "Emmy",
-   "text": "So it's not just the main data center building anymore. It's everything that has to come with it."
+   "text": "So walk me through the history here. How did we get to this point with multiple bills floating around?"
   },
   {
    "host": "Graham",
-   "text": "Exactly. And New Buffalo's board listened to neighbors who said they didn't want their rural roads turned into industrial corridors."
+   "text": "Well, data center interest has been building for a while. Yesterday we saw the state quietly broaden tax incentives that already let operators skip most local property taxes for up to 12 years in many places."
   },
   {
    "host": "Emmy",
-   "text": "How common is this kind of pushback now? We've seen rejections before, but is this becoming a pattern across the state?"
+   "text": "That sounds like it gives companies a big edge but leaves townships with less leverage."
   },
   {
    "host": "Graham",
-   "text": "It's picking up. Townships are realizing they can say no to the supporting pieces even when the big project is already in motion elsewhere."
+   "text": "Precisely. And now today's proposals could either speed projects up with more breaks or add rules on how they secure power from the grid."
   },
   {
    "host": "Emmy",
-   "text": "What does that do to the developers' timelines and costs?"
+   "text": "Who are the main players pushing or resisting these changes?"
   },
   {
    "host": "Graham",
-   "text": "It forces them to find new locations or scale back, which adds months and money. Some projects are already adjusting routes because of these local stands."
+   "text": "You've got lawmakers in Lansing reviewing the packages, utilities dealing with the load, developers wanting fast approvals, and residents plus local officials worried about costs."
   },
   {
    "host": "Emmy",
-   "text": "And for the communities themselves, what changes on the ground? Fewer trucks means less wear on roads and quieter evenings, right?"
+   "text": "And the stakes for regular folks? Higher utility bills if upgrades get passed through to ratepayers?"
   },
   {
    "host": "Graham",
-   "text": "Yes, and it keeps farmland and residential areas from being carved up for temporary industrial use that might stick around longer than planned."
+   "text": "That's the big concern. Residents across the state could see higher electric bills or, in some cases, new local revenue depending on what passes."
   },
   {
    "host": "Emmy",
-   "text": "We've talked before about how these facilities pull huge amounts of power and water. Does rejecting the yard help slow any of that strain locally?"
+   "text": "What about water and farmland? These places use a lot of both, right?"
   },
   {
    "host": "Graham",
-   "text": "It buys time. Without easy staging, the whole supporting network slows down, which gives the grid and water systems a bit more breathing room before new demand hits."
+   "text": "They do. Cooling systems pull serious water, and large sites often sit on or near farmland. Towns have to weigh that against any promised jobs or taxes."
   },
   {
    "host": "Emmy",
-   "text": "What happens next in New Buffalo or similar spots? Will developers try again with a different plan?"
+   "text": "How many communities have already hit pause because of these issues?"
   },
   {
    "host": "Graham",
-   "text": "They might appeal or look for another site, but today's vote shows boards are willing to draw lines on the smaller pieces that make the big ones possible."
+   "text": "Quite a few. We've seen moratoriums in places like Wixom and Ypsilanti Township, plus pushback in St. Joseph County and New Buffalo."
   },
   {
    "host": "Emmy",
-   "text": "It also sends a signal to other townships that they don't have to approve everything that comes with a data center."
+   "text": "And the Campbell coal plant staying open ties right into this power hunger, doesn't it?"
   },
   {
    "host": "Graham",
-   "text": "Right. And that ties into the bigger picture we're seeing statewide with tax breaks and moratorium fights."
+   "text": "It does. The DOE ordered it to keep running specifically because of rising demand from data centers, which means continued emissions and costs for western Michigan ratepayers."
   },
   {
    "host": "Emmy",
-   "text": "Let's stay on New Buffalo for a second. How does this fit with the state quietly expanding those tax incentives that shield data centers from local property taxes?"
+   "text": "So what happens next with these Lansing bills? Any timeline?"
   },
   {
    "host": "Graham",
-   "text": "The incentives make the projects more attractive to companies, but they also mean towns like New Buffalo lose out on revenue while still facing the infrastructure costs."
+   "text": "They're still in review, so expect more debate, possible amendments, and public input before anything final. The outcomes could set the pace for projects statewide."
   },
   {
    "host": "Emmy",
-   "text": "So residents pay higher electric and water rates down the line, but the tax base doesn't grow to help cover it?"
+   "text": "And if they speed things up, how does that affect communities already strained on the grid?"
   },
   {
    "host": "Graham",
-   "text": "That's the tension. The state is trying to lure investment, yet local officials are left with the bill for roads, emergency services, and grid upgrades."
+   "text": "It could accelerate load growth in places like Washtenaw County, where officials are pitching a new center as an economic win but residents are questioning the demands."
   },
   {
    "host": "Emmy",
-   "text": "And now with today's rejection, it looks like some communities are deciding the trade-off isn't worth it."
+   "text": "That tension between jobs and infrastructure costs keeps coming up."
   },
   {
    "host": "Graham",
-   "text": "Exactly. It puts pressure on the state to either tighten the incentives or give towns more say in the deals."
+   "text": "It really does. The bills try to balance attracting investment with protecting ratepayers and local resources."
   },
   {
    "host": "Emmy",
-   "text": "What about the lawsuit from Raeden over the moratorium blocking their Gibraltar project? Does today's New Buffalo vote change anything there?"
+   "text": "Any sense of which direction the legislature leans right now?"
   },
   {
    "host": "Graham",
-   "text": "Not directly, but it shows the same local resistance that the moratorium was meant to address. The lawsuit claims the pause was illegal and could force compensation or reopen sites in Wayne County."
+   "text": "It's still fluid. Some proposals favor incentives to compete with other states, others add guardrails on power and taxes."
   },
   {
    "host": "Emmy",
-   "text": "So if Raeden wins, we might see more pressure on places like New Buffalo to reconsider supporting infrastructure?"
+   "text": "We'll be watching those votes closely."
   },
   {
    "host": "Graham",
-   "text": "Possibly. It could create a legal back-and-forth where developers challenge every rejection."
+   "text": "Absolutely. Let's shift to some quick hits from around the state."
   },
   {
    "host": "Emmy",
-   "text": "Meanwhile, Ypsilanti Township is looking at its own move to block new transmission lines for a University of Michigan project. How does that connect?"
+   "text": "In Washtenaw County, leaders are highlighting jobs and tax revenue from a fresh data center proposal."
   },
   {
    "host": "Graham",
-   "text": "It's the same playbook: using local authority over power delivery to slow things down and protect residents from rate hikes and farmland loss in eastern Washtenaw County."
+   "text": "Right, while residents question the power and water demands on an already strained grid."
   },
   {
    "host": "Emmy",
-   "text": "And the recall efforts against officials who supported projects? Only one made the ballot so far."
+   "text": "Taxpayers nearby would ultimately cover any utility upgrades needed."
   },
   {
    "host": "Graham",
-   "text": "Voters are frustrated, but the petition process is tough. Still, the fact that 28 officials faced bids shows how deep the anger runs in some areas."
+   "text": "Next, St. Joseph County is drafting a noise ordinance for 24/7 data centers."
   },
   {
    "host": "Emmy",
-   "text": "What about the maps out this week showing 20-plus proposals? Does New Buffalo's decision change the picture there?"
+   "text": "Officials are also tracking extra power pulls from the regional grid, with residents within 30 miles worried about the constant hum and higher rates."
   },
   {
    "host": "Graham",
-   "text": "It highlights which sites are vulnerable. The trackers from Michigan Advance and Crain's show everything from Monroe to the U.P., and local rejections like this one can knock supporting pieces off the board."
+   "text": "Over in Wixom, leaders may lift the data center freeze months early."
   },
   {
    "host": "Emmy",
-   "text": "Mason County was also talking yesterday about impacts on EMS and roads. Is that the kind of conversation more places will have after seeing New Buffalo?"
+   "text": "That could reopen the door for proposals that have already sparked pushback in Oakland County suburbs."
   },
   {
    "host": "Graham",
-   "text": "Yes. Rural counties are starting to run the numbers on how these projects affect budgets and services before they get too far along."
+   "text": "In New Buffalo, the township board rejected a permit for a storage yard tied to a data center project."
   },
   {
    "host": "Emmy",
-   "text": "And GenH's idea for using Morley Dam for on-site power? That might sidestep some fights but still hits water use in Mecosta County."
+   "text": "Residents in Berrien County now face fewer construction impacts and truck traffic."
   },
   {
    "host": "Graham",
-   "text": "It shows developers looking for workarounds, but the core issues of local control and resource strain remain."
+   "text": "Yesterday we learned Michigan broadened those tax breaks shielding data centers from most local property taxes for up to 12 years."
   },
   {
    "host": "Emmy",
-   "text": "Saturday's rejection in another township over noise, traffic, and water sounds familiar. Is this wave of no votes the new normal?"
+   "text": "Rural counties like Big Rapids could lose millions while still bearing higher electricity and water costs."
   },
   {
    "host": "Graham",
-   "text": "It feels that way right now. More boards are listening to residents and saying the supporting infrastructure isn't automatic."
+   "text": "Also yesterday, developer Raeden sued the state, claiming the moratorium illegally blocked its $500 million Gibraltar project."
   },
   {
    "host": "Emmy",
-   "text": "So what's the takeaway for listeners 30 or 60 miles away who aren't near any of these sites yet?"
+   "text": "The lawsuit could force compensation or lift restrictions in Wayne County."
   },
   {
    "host": "Graham",
-   "text": "Even if you're not next door, new transmission lines and higher regional power demand can still hit your bills. These local decisions shape how fast that spreads."
+   "text": "Data center backlash has spurred recall bids against 28 Michigan officials, though only one made the November ballot."
   },
   {
    "host": "Emmy",
-   "text": "And the state tax breaks make it harder for towns to negotiate better terms."
+   "text": "Residents are venting frustration over projects they feel powerless to stop."
   },
   {
    "host": "Graham",
-   "text": "Right. The incentives reward quick moves by companies but leave communities with less leverage."
+   "text": "And in Ypsilanti Township, officials are weighing a temporary ban on new transmission lines for the U-M data center project."
   },
   {
    "host": "Emmy",
-   "text": "What should people watch for in the coming weeks?"
+   "text": "It aims to buy time for residents worried about rate hikes and farmland loss in eastern Washtenaw County."
   },
   {
    "host": "Graham",
-   "text": "More townships testing similar rejections, plus the outcome of that Raeden lawsuit and any new moratorium votes."
+   "text": "Now let's look at what's on deck for listeners who want to weigh in."
   },
   {
    "host": "Emmy",
-   "text": "And the meetings tonight and tomorrow give residents a direct shot at weighing in."
+   "text": "Today the Waterford Township Planning Commission meets on a six-month extension of its data center moratorium."
   },
   {
    "host": "Graham",
-   "text": "Let's move to quick hits. First, Michigan quietly broadened those data-center tax breaks, shielding operators from most local property taxes for up to 12 years."
+   "text": "Springfield Township Board has a data center ordinance discussion on the agenda."
   },
   {
    "host": "Emmy",
-   "text": "Big Rapids and other rural spots could lose millions while still dealing with higher utility costs. That seems like a raw deal for the towns."
+   "text": "The Council on Climate Solutions is taking up data centers and environmental review."
   },
   {
    "host": "Graham",
-   "text": "It rewards companies for locating here but gives townships little room to ask for better community benefits."
+   "text": "Springfield Township Planning Commission also reviews the ordinance and zoning regulations."
   },
   {
    "host": "Emmy",
-   "text": "Next, Raeden is suing over the moratorium that blocked its $500 million Gibraltar campus."
+   "text": "And the Ann Arbor City Planning Commission has a presentation on local impacts, policy context, and zoning for Michigan communities."
   },
   {
    "host": "Graham",
-   "text": "The company says the pause was illegal and wants compensation or the restrictions lifted in Wayne County."
+   "text": "Plenty of chances to show up and be heard."
   },
   {
    "host": "Emmy",
-   "text": "That could reopen fights for residents who thought the issue was settled."
+   "text": "Full sources and the live map at the Michigan Data Center Tracker."
   },
   {
    "host": "Graham",
-   "text": "Data center backlash has also sparked recall bids against 28 officials, though only one made the November ballot."
-  },
-  {
-   "host": "Emmy",
-   "text": "It shows the depth of frustration even if the recall bar is high."
-  },
-  {
-   "host": "Graham",
-   "text": "Ypsilanti Township is weighing a temporary ban on new transmission lines for the U-M project to buy time on rate hikes and farmland."
-  },
-  {
-   "host": "Emmy",
-   "text": "Direct action on the power side that could affect eastern Washtenaw County."
-  },
-  {
-   "host": "Graham",
-   "text": "New maps from Michigan Advance and Crain's show 20-plus proposals statewide, linking them to higher bills and water strain."
-  },
-  {
-   "host": "Emmy",
-   "text": "Residents can see exactly which sites already have tax breaks or grid connections."
-  },
-  {
-   "host": "Graham",
-   "text": "Yesterday Mason County discussed impacts on EMS, roads, and budgets from proposed centers."
-  },
-  {
-   "host": "Emmy",
-   "text": "Rural counties are starting to model the full cost before projects advance."
-  },
-  {
-   "host": "Graham",
-   "text": "And GenH floated using Morley Dam for a self-powered data center in Mecosta County."
-  },
-  {
-   "host": "Emmy",
-   "text": "It might avoid some utility battles but still raises water questions."
-  },
-  {
-   "host": "Graham",
-   "text": "Saturday another township rejected a server farm over noise, traffic, and water concerns."
-  },
-  {
-   "host": "Emmy",
-   "text": "Keeping that rural area clear for now."
-  },
-  {
-   "host": "Graham",
-   "text": "Now for on deck. Tonight Lyon Township Planning Commission takes up Project Flex final site plan approval with residents opposing noise, water, and energy impacts."
-  },
-  {
-   "host": "Emmy",
-   "text": "Lenox Township is reviewing its data center ordinance and possibly extending a moratorium."
-  },
-  {
-   "host": "Graham",
-   "text": "Madison Heights City Council considers a temporary data center moratorium resolution."
-  },
-  {
-   "host": "Emmy",
-   "text": "And the Planning Commission reviews a new site plan for the Verrus data center project."
-  },
-  {
-   "host": "Graham",
-   "text": "Tomorrow Waterford Township Planning Commission looks at a six-month extension of its data center moratorium."
-  },
-  {
-   "host": "Emmy",
-   "text": "Plenty of chances for neighbors to show up and speak."
-  },
-  {
-   "host": "Graham",
-   "text": "Full sources and the live map at the Michigan Data Center Tracker. We're back tomorrow."
+   "text": "We're back tomorrow."
   }
  ],
- "episode_title": "New Buffalo Rejects Data Center Storage Yard as Communities Push Back on Infrastructure",
- "show": "Evenings with Graham & Emmy",
- "daypart": "Evenings"
+ "episode_title": "Lansing Weighs Tax Breaks and Power Rules for Data Centers",
+ "show": "Mornings with Graham & Emmy",
+ "daypart": "Mornings"
 }
