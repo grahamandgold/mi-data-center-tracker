@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-25T15:52:35+00:00",
+ "updated_at": "2026-08-25T16:48:21+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -201,6 +201,20 @@
   "accuracy": "checked"
  },
  "meetings": [
+  {
+   "iso": "2026-08-25",
+   "body": "Springfield Charter Township Planning Commission",
+   "topic": "Discussion and possible action on proposed zoning ordinance updates for data centers",
+   "region": "SE Michigan",
+   "regionKey": "metro",
+   "county": "Oakland",
+   "time": "7:00 PM",
+   "status": "Planning commission",
+   "urgent": true,
+   "link": "https://www.springfield-twp.us/departments/clerk/minutes.php",
+   "linkLabel": "Agenda",
+   "stream": "https://springfieldtwp.viebit.com/"
+  },
   {
    "iso": "2026-08-25",
    "body": "Springfield Township Planning Commission",
