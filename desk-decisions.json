@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNclYzY0Y1ZFZHa282aTQ3UnJ3U1FsSmhjUEhyUmVKTmdhTXB5cFhIdlhNNTM3Nk03TlJuXzlQX0dRenNaMWQyUFVQZ1ZZS0lUR0VvM2JiT21JTE81LVpIVV90Smd3eXBNMHkyVldJTlR3V2RoV2hUS3praEpPdkc4MS03M0NRZEt0THZlYjJxM2FiQWRnUy00VWJQRWEtdXMzU1loN1pNT1JDZ1NSRWd2ZW5WZ2tUbUdZSkdSZ2t3c2pIejTSAcMBQVVfeXFMTXJWM2NGNWRWR2tvNmk0N1Jyd1NRbEpoY1BIclJlSk5nYU1weXBYSHZYTTUzNzZNN05Sbl85UF9HUXpzWjFkMlBVUGdWWUtJVEdFbzNiYk9tSUxPNS1aSFVfdEpnd3lwTTB5MlZXSU5Ud1dkaFdoVEt6a2hKT3ZHODEtNzNDUWRLdEx2ZWIycTNhYkFkZ1MtNFViUEVhLXVzM1NZaDdaTU9SQ2dTUkVndmVuVmdrVG1HWUpHUmdrd3NqSHo0?oc=5",
-   "title": "Wixom tightens data center zoning to limit industrial sprawl",
-   "at": "2026-08-17T16:37:22+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicate of already-live 'Wixom Council Backs Zoning Rules' and 'Wixom tightens data center rules' — same Wixom zoning action, just reworded."
-  },
-  {
    "url": "https://wkzo.com/2026/08/17/960694/",
    "title": "Kalamazoo Considers Data Center Moratorium to Update Zoning",
    "at": "2026-08-17T19:35:40+00:00",
@@ -1399,15 +1392,16 @@
    "at": "2026-08-25T06:01:39+00:00",
    "by": "news_judge",
    "note": "score 3/10: Thin national-trend rehash combining elements from killed stories about locals unable to stop projects and recall bids failing to reach ballots."
+  },
+  {
+   "url": "https://www.bloomberg.com/news/features/2026-08-19/tech-tries-charm-offensive-to-save-trillion-dollar-ai-buildout",
+   "title": "Tech companies ramp up community outreach and concessions as data center opposition grows nationwide",
+   "at": "2026-08-25T07:01:46+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece about PR campaigns and general opposition across multiple states; lacks specific Michigan decision or development."
   }
  ],
  "auto_published": [
-  {
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObDduNnFaRk8tMFpBSC0yYS02WkJMV0JrLWhmQXlsYlZfR3JXTW9jZTduTUR1U1N1X3FPVEI4bnBXcFE2V3ItaUg3ZEVacHg4ekJFclQ5SFRzOTh0LTI3cWlRRUJnNUt6Q0hxa1dKemhPN2ZWZHdyTDl2bklWMm5rSTBYQWkyb0E?oc=5",
-   "title": "Rural push kills Consumers 1.4 GW plant before it reaches grid",
-   "judge_score": 9,
-   "at": "2026-07-12T21:03:10Z"
-  },
   {
    "url": "https://www.shorelinemedia.net/ludington_daily_news/news/pm-board-to-consider-data-center-moratorium-1-36m-park-project/article_5d888ea2-ac45-4305-97d9-0f582dcec845.html",
    "title": "Pere Marquette Township Board to Consider One-Year Data Center Pause",
@@ -3201,6 +3195,12 @@
    "title": "St. Joseph County weighs noise rules as data centers eye the grid",
    "judge_score": 7,
    "at": "2026-08-25T06:01:39Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15b0VudURybTBNT3dUQjNDVkpjT2lvQk9GQ08wR3NHVEtyenZlUlpCaVM1aXZMYUh2elBZRDZKWUJzdTFmVU9hYkdxLVVmaTZHNTdXMUVhTzM3cHM?oc=5",
+   "title": "Washtenaw leaders pitch new data center as economic win for county",
+   "judge_score": 7,
+   "at": "2026-08-25T07:01:46Z"
   }
  ]
 }

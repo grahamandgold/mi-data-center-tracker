@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-25T06:01:39Z",
+ "updated_at": "2026-08-25T07:01:46Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Washtenaw leaders pitch new data center as economic win for county",
+   "dek": "Officials in Washtenaw County are highlighting jobs and tax revenue from a fresh data center proposal while residents question the power and water demands. The project would add significant load to the regional grid already strained by AI growth. Taxpayers within driving distance will ultimately pay for any utility upgrades needed to support it.",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15b0VudURybTBNT3dUQjNDVkpjT2lvQk9GQ08wR3NHVEtyenZlUlpCaVM1aXZMYUh2elBZRDZKWUJzdTFmVU9hYkdxLVVmaTZHNTdXMUVhTzM3cHM?oc=5",
+   "source": "Mshale",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Money",
+   "iso": "2026-08-25T01:39:02Z",
+   "id": "82acfa444383",
+   "origin": "google-news",
+   "source_title": "Leaders Tout New Data Center Project In Washtenaw County Iga świątek (UaqolHuAjQ) - Mshale",
+   "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15b0VudURybTBNT3dUQjNDVkpjT2lvQk9GQ08wR3NHVEtyenZlUlpCaVM1aXZMYUh2elBZRDZKWUJzdTFmVU9hYkdxLVVmaTZHNTdXMUVhTzM3cHM?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "St. Joseph County weighs noise rules as data centers eye the grid",
    "dek": "St. Joseph County is drafting a noise ordinance aimed at data centers that could run 24/7. Officials are also tracking how much extra power these facilities would pull from the regional grid. Residents within 30 miles worry about constant hum and higher electric rates if big loads come online.",
@@ -169,23 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQ1o1V25QT2J2ZUs2MUtrejRmekQzWHlmSllBU2h1VlhrMzZlNk41YmdpYXpNWkZSSlZPQlhRRk1NZVJweEs5bTRGWEw0XzN2TVo5ZEdhS0FseVM2ZmJJYXplUVg4QlJOeDFUMjJ3RUJTUW9NS0tpbGppU1c2d2RnU2F2cw?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
-  },
-  {
-   "title": "Mason County weighs data center impact on local services",
-   "dek": "Commissioners discussed how proposed data centers could affect EMS, roads and county budgets. Residents in rural Mason County would see higher power loads and possible tax revenue trade-offs. The talks come as more townships face similar project inquiries.",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNeXpCVUZsdEJSelZ5ZzVwdmVMUUljQ0tlZmlqUGwtdUprQ3VuY3dPT09wZndwZldDSUVrYkJmUnFxcmpfQVNyU0ppVDhKTmM5TUQxLUpCcllHcjUzM18xTUlObGNCaHZJbWpXYy12alpkQ1pwU2xlZmRjcW84d0VYVkNVMGM3Zk1FQ1ZSblU4SzMwSmd2cnVqdXEzVFlUcEVQcDk2ZTM1NWp5TzlGUXRJSVpzRGM2cXBiRWJveUpaVFVRMllVM3JwY21sT01CY0VvajRtc21LVlZzcmx2dElxWmllZmdmSzhDWHc?oc=5",
-   "source": "WV News",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Mason",
-   "tag": "Local Government",
-   "iso": "2026-08-23T18:30:00Z",
-   "id": "b56f48591296",
-   "origin": "google-news",
-   "source_title": "Mason County Commission discusses community work, EMS and data centers - WV News",
-   "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNeXpCVUZsdEJSelZ5ZzVwdmVMUUljQ0tlZmlqUGwtdUprQ3VuY3dPT09wZndwZldDSUVrYkJmUnFxcmpfQVNyU0ppVDhKTmM5TUQxLUpCcllHcjUzM18xTUlObGNCaHZJbWpXYy12alpkQ1pwU2xlZmRjcW84d0VYVkNVMGM3Zk1FQ1ZSblU4SzMwSmd2cnVqdXEzVFlUcEVQcDk2ZTM1NWp5TzlGUXRJSVpzRGM2cXBiRWJveUpaVFVRMllVM3JwY21sT01CY0VvajRtc21LVlZzcmx2dElxWmllZmdmSzhDWHc?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {
