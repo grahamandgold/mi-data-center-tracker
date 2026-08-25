@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.detroitnews.com/story/business/2026/08/17/chip-giant-nvidia-reaches-1-5-billion-deal-for-ai-computing-capacity/91335586007/",
-   "title": "Nvidia commits $1.5 billion to SB Energy for OpenAI AI data center capacity in Ohio",
-   "at": "2026-08-17T19:55:51+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National deal in Ohio with no Michigan angle; similar Nvidia/SoftBank/OpenAI Ohio story was already killed."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYXJHLVJNbVExV2NJdi1xY3N0dXNEQ19aZTIzVl9YaFFiaGIyNmtNQjBWcm42UExXRFdyODVFUTlnX1d5dVhWamtJU2lmVkVSWFBHcndVTEp1akQydnVtWExDN1hCdHRjSkt1NjdRSDl5TmFTRXlVMFZsUmhaR3NMOEVjSUFfZXl0R1k4WjNZdFR2X252dGpST0tLUGMtRXc4YXBCelhFaGgzSGwxdWVKOWxDU0RaXzg?oc=5",
    "title": "Wixom tightens zoning to limit data center noise and footprint",
    "at": "2026-08-17T20:36:01+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-25T07:51:34+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: This is the same Wixom early-lift discussion already covered in the LIVE story 'Wixom may lift data-center freeze months early' and killed multiple times in var"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPRXdhMWMteXJibDR4YWFqX1dtOS1oMFBnNWphWkM3SXpoV3Bqemx0UXgyN0ktRmQtblJYclRtdmgzQ1Zld2ZCeEsyNEp6enFoVEFuV2tZUkh2RGEzM21ZYzBwUXp3ZkcyVVVpTjJ5ZC1oclZuTlJoa21VdjRfUEZZWWV0ZWRHS0U3bVdPWk5fNm9TUVVJRzRlbFJoSTVuQ3pqREN0RjdHX1hyWEJpN0c3TnJ4cmdvNG1odTFGUklURHdnZlVEYnNMMVBWTlJrMXN2bVQzRWFTdXNYYVFCNmVnOW9MWFRCaXNaTFlzZ0dvQUlZQjNYYzd6ejN4WklQUk9pdE9WYkw1ZzR1UjlfWlVhSngyN191YW9hM1dvZnl3SmhRSjVhNEdJ0gGsAkFVX3lxTE9GVHcwaEVhMUpkN2VwNVU1YlFabDFKX3JiLTBuY2NhRXQwRjk3cXBLbFM4MDBXNlpNX1dST3FuLWxWMlVBM082MG4yRGJOT1ZVdFpjb3R0dC1MSFhvS2poSGRKSHdWc3FvX25FeFNQU3hpTEN6WVlJVUFKUzF6enZTNVY4UTczQlVvOWNGOFFUM0dCR0oxSG9vVkJYSGRRZGlMVTJfWXU0T2pxSTh2ZmlkVzc5bVFIOFlxbjJqSmxCWTNfLVNzRTVvMTlCVi1uRWhvM3prM2VjY21fazk3amhFQnljWDNWS2Yxb2o0WFg2NzZra1dOdVJadDcxVzlMZWtFQktQSTdzMkozekUya2tlWFlFZFo4UTRvbXJmNkVMUTlFUldCSEplQnZLeQ?oc=5",
+   "title": "Ypsilanti Twp dodges nuclear data center with new legal move",
+   "at": "2026-08-25T09:44:59+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: Appears to cover the same Ypsilanti Township action against the U-M data center already live as 'Ypsilanti Township tries to cut power to U-M data center projec"
   }
  ],
  "auto_published": [

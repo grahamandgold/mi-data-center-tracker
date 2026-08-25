@@ -1,7 +1,25 @@
 {
- "updated_at": "2026-08-25T08:53:03+00:00",
+ "updated_at": "2026-08-25T09:44:59+00:00",
  "generator": "grok-wire-agent",
  "items": [
+  {
+   "iso": "2026-08-24T16:00:00+00:00",
+   "region": "metro",
+   "cat": "Washtenaw Co.",
+   "tag": "Local Government",
+   "title": "Ypsilanti Township Considers Power Transmission Moratorium to Delay University of Michigan Data Center",
+   "dek": "Officials are exploring a six-month pause on new power infrastructure approvals as a tactic to assess impacts from the proposed $1.2 billion U-M computing facility amid local opposition.",
+   "source": "Bridge Michigan",
+   "url": "https://themanchestermirror.com/2026/08/24/ypsilanti-township-eyes-moratorium-on-power-transmission-to-slow-u-m-data-center/",
+   "breaking": false,
+   "lead": true,
+   "id": "142a4064fa6e",
+   "kind": "story",
+   "filed_at": "2026-08-25T09:44:45+00:00",
+   "accuracy": "checked",
+   "judge_score": 7,
+   "judge_note": "Concrete new development: township exploring specific moratorium mechanism (power transmission pause) as tactical move against the U-M project already covered, "
+  },
   {
    "iso": "2026-08-26T12:00:00+00:00",
    "region": "statewide",
@@ -93,5 +111,5 @@
    "judge_note": "Concrete legislative development: Jeremy Moss added as co-sponsor to utility rate bill targeting data centers, a new action on a relevant bill."
   }
  ],
- "accuracy_checked_at": "2026-08-25T08:53:04+00:00"
+ "accuracy_checked_at": "2026-08-25T09:44:55+00:00"
 }
