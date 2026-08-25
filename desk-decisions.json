@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMFY4U29OSWhYNDVCTTNRUDNXb21pTlRTOEp1ZjlibGVxUkdkZUJrRmx3TEFZWHd5VGVtSWpDN1c2NDA1ZENlMFRBR2ZWWDRGNlRXckJVZ2N3ZXVFSTNraGtuVmE5V2JGT2NGcUVSUGU0RWhrTEFFWVNEWFhxOHUxRU9BT3FWVnREM2VnZHpHT3pLbGNpY0laQVFES2x1NmwtVE9LTUZmcw?oc=5",
-   "title": "West Michigan towns told to demand real concessions before approving data centers",
-   "at": "2026-08-17T22:54:13+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Commentary/opinion piece offering general advice to West Michigan towns rather than reporting a specific decision, filing, or concrete development."
-  },
-  {
    "url": "https://www.reuters.com/business/us-canada-try-bridge-gaps-over-potential-autos-tariff-cuts-sources-say-2026-08-17/",
    "title": "Nvidia Offers Up to $105 Billion Guarantee for OpenAI Ohio Data Center",
    "at": "2026-08-17T23:30:24+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-25T11:36:20+00:00",
    "by": "news_judge",
    "note": "score 3/10: Rehashes the 'locals say they can't stop data centers' theme already covered in killed stories without a new decision or filing."
+  },
+  {
+   "url": "https://www.reddit.com/r/technology/comments/1sc8vxh/nearly_half_of_us_data_centers_planned_for_2026/",
+   "title": "Nearly Half of Planned 2026 U.S. AI Data Centers Face Delays or Cancellation Over Power Shortages",
+   "at": "2026-08-25T14:55:16+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece with analyst speculation about future delays, lacks Michigan-specific angle or concrete local impact."
   }
  ],
  "auto_published": [
