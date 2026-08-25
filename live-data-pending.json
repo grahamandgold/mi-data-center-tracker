@@ -1,32 +1,7 @@
 {
- "updated_at": "2026-08-25T20:52:08+00:00",
+ "updated_at": "2026-08-25T21:37:09+00:00",
  "generator": "grok-wire-agent",
  "items": [
-  {
-   "title": "Springfield Twp. Planning Commission meets on data center zoning rules",
-   "dek": "The Springfield Charter Township Planning Commission meets tonight to review draft rules that would set size, setback and buffer standards for data centers in industrial districts. Residents 30 minutes away stand to feel the effects on local tax base, water demand and farmland conversion if standards advance.",
-   "url": "https://www.springfield-twp.us/departments/clerk/minutes.php",
-   "source": "Springfield Charter Township Planning Commission agenda",
-   "region": "Southeast Michigan",
-   "county": "Oakland",
-   "cat": "Meetings",
-   "tag": "Agenda watch",
-   "iso": "2026-08-25T20:52:08+00:00",
-   "kind": "agenda",
-   "id": "4a1200ea1d43",
-   "filed_at": "2026-08-25T20:52:08+00:00",
-   "accuracy": "thin — needs human background",
-   "findings": "The 08/25/26 Planning Commission agenda packet is listed on the township website | Draft zoning amendments would classify data centers by scale as permitted or special land uses in I-1/I-2 districts with required setbacks and buffers | The commission has held multiple data-center zoning discussions | Tonight's regular meeting includes public comment after any motion; further readings or votes would follow standard procedure",
-   "perspective": "Any standards adopted would shape whether data center projects move forward in the township, directly affecting regional power, water and land-use patterns.",
-   "documents": [
-    {
-     "label": "Agenda page",
-     "url": "https://www.springfield-twp.us/departments/clerk/minutes.php"
-    }
-   ],
-   "depth_score": 2,
-   "extraction_method": "plain"
-  },
   {
    "iso": "2026-08-24T16:00:00+00:00",
    "region": "metro",
@@ -136,5 +111,5 @@
    "judge_note": "Concrete legislative development: Jeremy Moss added as co-sponsor to utility rate bill targeting data centers, a new action on a relevant bill."
   }
  ],
- "accuracy_checked_at": "2026-08-25T20:38:28+00:00"
+ "accuracy_checked_at": "2026-08-25T21:37:07+00:00"
 }

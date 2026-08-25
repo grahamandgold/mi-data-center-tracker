@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.michiganlcv.org/actions/add-your-name-to-this-petition-pause-all-new-data-centers/",
-   "title": "Petition Urges Michigan Pause on New Data Centers Over Energy and Water Use",
-   "at": "2026-08-18T03:04:18+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Petition/advocacy piece without a specific filing, vote, or official action—more of a general call for protections than a concrete development."
-  },
-  {
    "url": "https://www.wfmynews2.com/article/news/local/2-wants-to-know/data-center-noise-water-electricity-bills-explained/83-a40e305f-10cb-46e6-bc8a-dc9ffb2ffce8",
    "title": "Residents Near Michigan Data Centers Join National Pushback Over Noise and Utility Costs",
    "at": "2026-08-18T03:04:18+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-25T20:38:31+00:00",
    "by": "news_judge",
    "note": "score 9/10, duplicate: This is the same water disclosure bill already live as 'Michigan bill would force data centers to disclose water use.'"
+  },
+  {
+   "url": "https://www.axios.com/2026/08/25/data-centers-ai-electricity-water-politics",
+   "title": "Axios Examines How Data Centers Are Reshaping U.S. Energy, Politics and Communities",
+   "at": "2026-08-25T21:37:09+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece aggregating broad statistics and general pushback themes without reporting a specific Michigan decision, filing, or development."
   }
  ],
  "auto_published": [
