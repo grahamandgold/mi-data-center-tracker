@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://wkzo.com/2026/08/17/960694/",
-   "title": "Kalamazoo Considers Data Center Moratorium to Update Zoning",
-   "at": "2026-08-17T19:35:40+00:00",
-   "by": "news_judge",
-   "note": "score 4/10, duplicate: This is the same Kalamazoo moratorium already live: 'Kalamazoo weighs year-long pause on all new data centers' reports the identical proposal."
-  },
-  {
    "url": "https://www.detroitnews.com/story/business/2026/08/17/chip-giant-nvidia-reaches-1-5-billion-deal-for-ai-computing-capacity/91335586007/",
    "title": "Nvidia commits $1.5 billion to SB Energy for OpenAI AI data center capacity in Ohio",
    "at": "2026-08-17T19:55:51+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-25T07:01:46+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece about PR campaigns and general opposition across multiple states; lacks specific Michigan decision or development."
+  },
+  {
+   "url": "https://x.com/MLive/status/2092087672021897556",
+   "title": "Wixom Council Weighs Early End to Data Center Moratorium Amid Ongoing Ordinance Work",
+   "at": "2026-08-25T07:51:34+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This is the same Wixom early-lift discussion already covered in the LIVE story 'Wixom may lift data-center freeze months early' and killed multiple times in var"
   }
  ],
  "auto_published": [
