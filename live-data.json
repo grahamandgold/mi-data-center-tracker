@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-24T23:50:21+00:00",
+ "updated_at": "2026-08-25T01:45:25+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -203,61 +203,6 @@
   "accuracy": "checked"
  },
  "meetings": [
-  {
-   "iso": "2026-08-24",
-   "body": "Lyon Township Planning Commission",
-   "topic": "Project Flex data center final site plan approval amid resident opposition over noise, water and energy impacts",
-   "region": "SE Michigan",
-   "regionKey": "metro",
-   "county": "Oakland",
-   "time": "7:00 PM",
-   "status": "Planning commission",
-   "urgent": true,
-   "link": "https://www.lyontwp.org/government/township_boards_and_commissions/planning_commission_.php",
-   "linkLabel": "Agenda",
-   "stream": "https://www.youtube.com/channel/UC5JDLDMzIKAwR2YfY42miFw"
-  },
-  {
-   "iso": "2026-08-24",
-   "body": "Lenox Township Planning Commission",
-   "topic": "Data center ordinance review and potential moratorium extension",
-   "region": "SE Michigan",
-   "regionKey": "metro",
-   "county": "Macomb",
-   "time": "6:30 PM",
-   "status": "Planning commission",
-   "urgent": true,
-   "link": "https://www.lenox-mi.gov/AgendaCenter",
-   "linkLabel": "Agenda",
-   "stream": ""
-  },
-  {
-   "iso": "2026-08-24",
-   "body": "Madison Heights City Council",
-   "topic": "Temporary data center moratorium resolution",
-   "region": "SE Michigan",
-   "regionKey": "metro",
-   "county": "Oakland",
-   "time": "6:30 PM",
-   "status": "Board meeting",
-   "urgent": true,
-   "link": "https://www.madisonheightsmi.gov/Calendar.aspx?EID=3673",
-   "linkLabel": "Agenda",
-   "stream": "https://meetings.municode.com/adaHtmlDocument/index?cc=MDSNHGTSMI&me=cf88de52bea54d5eb8b4b3c693fe84e3&ip=False"
-  },
-  {
-   "iso": "2026-08-24",
-   "body": "Planning Commission",
-   "topic": "Review of new site plan application for Verrus data center project",
-   "region": "West Michigan",
-   "regionKey": "west",
-   "county": "Kent Co.",
-   "time": "TBD",
-   "status": "Planning commission",
-   "urgent": false,
-   "link": "https://gandernewsroom.com/news/politics/how-many-ai-data-centers-are-planned-in-michigan-we-counted/",
-   "linkLabel": "Agenda details via project tracker"
-  },
   {
    "iso": "2026-08-25",
    "body": "Waterford Township Planning Commission",

@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZDNjck8zWmNJUXJpVTJ5QjZGbWRicXJTR0hQQmwwa2Q0aDREOHJJc3NfLWtLeVlxbktZOGZpZExlX2xUWTNpRWQxN3RhT19hcFZleDd4enluaU1IcndvUU9lRnRmTG5lUFJZMF9jY2RvaE9Uc1ZDTlVzNkNLLWc3Y1dBZFhNSEdYYnBHT2lUWjl0SjlPS2dXeTNsTnlnX3pN?oc=5",
-   "title": "Michigan data center projects keep advancing despite local pushback",
-   "at": "2026-08-17T11:00:02+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: Generic roundup of ongoing activity with no specific decision, filing, or concrete development—reads like a trend summary rather than a discrete newsworthy even"
-  },
-  {
    "url": "https://michiganadvance.com/2026/08/17/michigan-data-centers-the-weekly-download-3-2-2-2-2-2-2-2-2/",
    "title": "Weekly Roundup Highlights Tax Break Challenge for Saline Data Center and Local Moratorium Efforts",
    "at": "2026-08-17T13:00:21+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-24T23:29:24+00:00",
    "by": "news_judge",
    "note": "score 3/10: Thin trend piece about electoral politics without a specific vote, filing, or concrete development; similar to killed stories about data centers as campaign iss"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kbXF1d1hiU1NoUUZpRUl1dWV1Z3BYLWRzUjRENWhKMTA0UTBNdnFEVnAwU010bGF3dHNKTG9ZbVhjSkpGcVlnWFZYQVJiU1FUcWlzMEpMTEFZdW9TNnBrMW5vM2pYdDU3SlZmN0w4Tm5WOHZ1QTc3RFpEMA?oc=5",
+   "title": "Rogers seeks 1-year halt on new Michigan data centers",
+   "at": "2026-08-25T01:45:28+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This is the same Rogers moratorium call already killed multiple times under various wordings (Mike Rogers pushes one-year halt, Rogers demands one-year freeze, "
   }
  ],
  "auto_published": [
