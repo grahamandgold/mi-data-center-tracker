@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.utilitydive.com/news/data-center-power-demand-2026/123456/",
-   "title": "U.S. data center power demand surges as utilities scramble for new capacity",
-   "at": "2026-08-17T20:59:35+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece about grid capacity without Michigan-specific developments or decisions; already-killed stories cover similar national power demand themes."
-  },
-  {
-   "url": "https://wtvbam.com/2026/08/14/970442/",
-   "title": "Coldwater schedules joint meeting on data center zoning rules",
-   "at": "2026-08-17T20:59:35+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicate of already-live 'Coldwater Officials Hold First Joint Meeting on Data Center Zoning and Regulation' — same joint meeting event."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMFY4U29OSWhYNDVCTTNRUDNXb21pTlRTOEp1ZjlibGVxUkdkZUJrRmx3TEFZWHd5VGVtSWpDN1c2NDA1ZENlMFRBR2ZWWDRGNlRXckJVZ2N3ZXVFSTNraGtuVmE5V2JGT2NGcUVSUGU0RWhrTEFFWVNEWFhxOHUxRU9BT3FWVnREM2VnZHpHT3pLbGNpY0laQVFES2x1NmwtVE9LTUZmcw?oc=5",
    "title": "West Michigan towns told to demand real concessions before approving data centers",
    "at": "2026-08-17T22:54:13+00:00",
@@ -1399,15 +1385,23 @@
    "at": "2026-08-25T10:42:10+00:00",
    "by": "news_judge",
    "note": "score 4/10: Thin rehash combining already-live recall story (which noted only one reached ballot) with already-live theme that locals lack power to stop projects; no new de"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVE9RSlhlWEJrNnVjZXZLZXRlM2xfc1p2R3NNbkYtQ3hKbUFycTZmTjU4MGlhVWFsWWxqa2VKZTAyS3VGX3ZyMHh4Q3pDanBBUlBreUVIUVU0RjN6YlJhQmhFSEtpcGJFaVpoMVY3RHhuVkNra0V1YXAyNHl0ODVRYkVDNGk4MUpqbUNoa0Ezc0dQN3dLNHl2LVFOZ3g5cnM0RnQ0QU1hdXh0eWo0eW1qQzQzbGJTalI0SzlfTkdVSHF2OGY3QXdIcnNRQVE0b1JtNWc?oc=5",
+   "title": "State senator hears direct complaints from data center opponents in her district",
+   "at": "2026-08-25T11:36:20+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Thin story built around a single meeting with no decision, vote, or official statement—just a lawmaker listening to constituents."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNREtMQ043dnp1MHhwTFVIWGl1S2tyZW4xZWd4YWUwelRoeVktaXc5MXNoZkIwWFM0SlhDTlJld1JldDZ2akNOUDZObVZUUUk0dnNNMFc1RHljQm1LakM5N243TWtJVEN6SlA2MmlyclZtLTNBc3FnRWhJbTdtcTlseE9WRnhrZURpSW5DV1ZFMFo3MnBDZnFjODdfN1RRaDA5NHdPTlFZai02YmUxdmdZWWxR?oc=5",
+   "title": "Macomb residents say townships can't block data center power and noise hits",
+   "at": "2026-08-25T11:36:20+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Rehashes the 'locals say they can't stop data centers' theme already covered in killed stories without a new decision or filing."
   }
  ],
  "auto_published": [
-  {
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ybUhCQnFTRkVFcEg1dVZFNjQ1dUpMTFM1d3NZc3dQZkE1UTV1UFpUa3VvUy1LdHNYemNOLTFXSUhBdktnZm9hSTVMMzJnOTU3?oc=5",
-   "title": "Green Oak Township creates new zoning rules for power-hungry data centers",
-   "judge_score": 8,
-   "at": "2026-07-13T10:41:32Z"
-  },
   {
    "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNVnhIUDZhdGhqdEdReG9TSzMtZnVrNVVrQVpaVXJQbU5pb2lQdUpCUjFNVzFuRUZQaldWM2huNHI1OUZLd3NETkFkSjVic0k3R25RQ2VlMWJwZk1mWmY0VWFHeDhmMHdPMVRSUjk2Mkx0bTVXcjNzZzBLM0ktU2U5NEdVa01KYl95OXc2QVRveXQxREFwSS1UX3N3SUx2anAwVmkxOWp3c3FqUlpaRUtxX0RRZGY5M1ZTcDhLbGYySjB6ZTRQSWFZTWRBNEVyeDVpYnM2OWdTUEFoNms1bEphR1cxcnloR3hXZFYwUEJEZGd0eWRzYW5QV29lUXRKLWotbzlnb014UjhuaTdaUEx0cU1oNUJiRmtmcDVIemR5bXdqV3Fpcy1HM1ZvVnNqOFJ5cExRSkdhQjZGai1RR1REcg?oc=5",
    "title": "Dowagiac residents get first look at data center plans Monday",
@@ -3201,6 +3195,12 @@
    "title": "Lansing weighs tax breaks and power rules for new data centers",
    "judge_score": 6,
    "at": "2026-08-25T10:42:10Z"
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/technology/tech-news/ypsilanti-township-in-michigan-is-fighting-nuclear-weapons-data-center-not-with-a-ban-but-by-taking-a-study-break-to-/articleshow/133503182.cms",
+   "title": "Ypsilanti Township Pauses Major Electrical Infrastructure Projects Amid Data Center Concerns",
+   "judge_score": 8,
+   "at": "2026-08-25T11:36:20Z"
   }
  ]
 }

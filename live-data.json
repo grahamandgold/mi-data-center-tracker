@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-25T10:42:10Z",
+ "updated_at": "2026-08-25T11:36:20Z",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -18,6 +18,21 @@
    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVnQ0WmQ1Vkd3bHgzSFA5cElydzR1VXZMTFFpaTZPNmlydThqZVpPYmRjMXBWaG5uYnJILWxXLUNkWncwODEzanlmUndjbU93WFFqRzVVcXhaQkUtOGdyalpZWkd1cnpPakZqNDFpZTBqX1BibkZkb1Y3ZlhvWFRMUWRMWWJFS0JTVjlyRGlpN2NTZVNwRnFSdXBQZGxpZFNXN0FDU3lPT3RYbWFVSFdNTkFn?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
+  },
+  {
+   "iso": "2026-08-25T08:00:00Z",
+   "region": "metro",
+   "cat": "Washtenaw Co.",
+   "tag": "Local Government",
+   "title": "Ypsilanti Township Pauses Major Electrical Infrastructure Projects Amid Data Center Concerns",
+   "dek": "The township board approved a 180-day moratorium on new or expanded high-voltage utility facilities to study impacts from a proposed University of Michigan research computing center backed by Los Alamos National Laboratory.",
+   "source": "Times of India",
+   "url": "https://timesofindia.indiatimes.com/technology/tech-news/ypsilanti-township-in-michigan-is-fighting-nuclear-weapons-data-center-not-with-a-ban-but-by-taking-a-study-break-to-/articleshow/133503182.cms",
+   "breaking": false,
+   "lead": true,
+   "id": "15c1f46c5779",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
   },
   {
    "title": "Washtenaw leaders pitch new data center as economic win for county",
@@ -169,23 +184,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYW4yX3ZuT01vOU1KZUVPQmM2emhsOFdyRGdSZVliZ1VyN2V6WVF1Wi1ZR0JtalNMNDcxSWhJaURKTFZSWUF5UnZsdXU0Y0ZzRHdzYkJvTjY2Rk9waDJ3VW5ob0J1c1hfSU5ubHBuT0xxSGNFZ3hJdjRnQ0Fkbi1vYWxZSl9BRU92bGFPMU5LSXRCM2tCZHNFeWoza2NoREZyU0NITlU5SnplaEdSZlZtRGExVjF4VUdvX1BLQlZpV3RIUQ?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
-  },
-  {
-   "title": "Michigan data center map shows 20+ proposals chasing cheap power",
-   "dek": "A new weekly roundup tracks every active proposal from Monroe to the Upper Peninsula. Residents see the direct link between these projects and higher utility bills plus water strain. The tracker highlights which sites have already secured tax breaks or grid connections.",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOVFpN0ZZdHhOT2ltbFJZMk9JWFk3WUtVNHZrV0NVZnpuSGd1eXBGblhIck1VSnN3aU5CeDdYNktsUFVUbFNuclR4UDRIR2ZHS2VBMXExVGJHdlptZHMxcGx6aGtTREE5NmdySjVlaGh3Y1FLdFdoQ2hGRk9kUEN4c1hfR3dLS1IxQkRj?oc=5",
-   "source": "Michigan Advance",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Explainers",
-   "iso": "2026-08-24T10:04:58Z",
-   "id": "ba0ca1bf11da",
-   "origin": "google-news",
-   "source_title": "Michigan Data Centers: The Weekly Download - Michigan Advance",
-   "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOVFpN0ZZdHhOT2ltbFJZMk9JWFk3WUtVNHZrV0NVZnpuSGd1eXBGblhIck1VSnN3aU5CeDdYNktsUFVUbFNuclR4UDRIR2ZHS2VBMXExVGJHdlptZHMxcGx6aGtTREE5NmdySjVlaGh3Y1FLdFdoQ2hGRk9kUEN4c1hfR3dLS1IxQkRj?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {
