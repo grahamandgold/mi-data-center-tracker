@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZmRhSTF6Q0s2WjYxaXRyZmVraTl3dHZ1TnVibFp0d0szR2kwblRZZUFiS0I2b2V4YTEwTkQwVlozekpTRFhuQ01UaXJCOFI4R2xfTnRQQm9iaTJXNzg4eEhnUjdEOXJGdE9VTzRUQllibGlyY1IzZ3VDUWVTemdBNlRCaE9zQ3NRcHpSRG15cFpFX0xadkp1WExrcmdWWUxpMGlpY2lYV1lQTl9UdEt30gHDAUFVX3lxTE1yVjNjRjVkVkdrbzZpNDdScndTUWxKaGNQSHJSZUpOZ2FNcHlwWEh2WE01Mzc2TTdOUm5fOVBfR1F6c1oxZDJQVVBnVllLSVRHRW8zYmJPbUlMTzUtWkhVX3RKZ3d5cE0weTJWV0lOVHdXZGhXaFRLemtoSk92RzgxLTczQ1FkS3RMdmViMnEzYWJBZGdTLTRVYlBFYS11czNTWWg3Wk1PUkNnU1JFZ3ZlblZna1RtR1lKR1Jna3dzakh6NA?oc=5",
-   "title": "Wixom tightens rules on data center sprawl near homes and farms",
-   "at": "2026-08-17T13:00:21+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicate of already-live 'Wixom tightens data center rules amid power and water concerns' — same zoning changes, just reworded."
-  },
-  {
-   "url": "https://themanchestermirror.com/2026/08/17/u-m-affirms-ypsilanti-1-2b-computing-center-site-township-officials-vow-fight/",
-   "title": "U-M Locks In Ypsilanti Township Site for $1.2B Research Computing Center",
-   "at": "2026-08-17T13:46:09+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: This is the same U-M Ypsilanti $1.2B data center site confirmation already live in the first headline."
-  },
-  {
    "url": "https://www.mlive.com/news/detroit/2026/08/5-takeaways-on-wixoms-proposed-zoning-changes-for-data-centers.html",
    "title": "Wixom Council Advances Tighter Zoning Rules for Data Centers After Close Vote",
    "at": "2026-08-17T15:33:36+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-25T03:08:17+00:00",
    "by": "news_judge",
    "note": "score 3/10: National story from Texas with no Michigan angle or impact; relevant only as distant trend context for Michigan readers tracking their own state's data center i"
+  },
+  {
+   "url": "https://www.mlive.com/",
+   "title": "Wixom Council Weighs Early End to Data Center Moratorium Amid Resident Concerns",
+   "at": "2026-08-25T04:11:54+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicate of already-live story 'Wixom may lift data-center freeze months early' — same council discussion, same event."
+  },
+  {
+   "url": "https://michiganadvance.com/category/technology/",
+   "title": "Michigan Advance Weekly Download Notes Rogers Shift to Support Statewide Data Center Pause",
+   "at": "2026-08-25T04:11:54+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicate of killed story 'Rogers Shifts to Back Statewide Data Center Moratorium After AI Disclosures' — same Rogers reversal, same event."
   }
  ],
  "auto_published": [
