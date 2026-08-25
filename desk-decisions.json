@@ -1,27 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.wfmynews2.com/article/news/local/2-wants-to-know/data-center-noise-water-electricity-bills-explained/83-a40e305f-10cb-46e6-bc8a-dc9ffb2ffce8",
-   "title": "Residents Near Michigan Data Centers Join National Pushback Over Noise and Utility Costs",
-   "at": "2026-08-18T03:04:18+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece bundling Michigan complaints with broader pushback; no specific Michigan lawsuit, filing, or decision identified."
-  },
-  {
-   "url": "https://www.shorelinemedia.net/ludington_daily_news/news/why-data-centers-and-why-michigan/article_aca0ee90-6e45-4c29-8c98-4dd54947e8e1.html",
-   "title": "Report Examines Why Data Centers Are Targeting Michigan Communities",
-   "at": "2026-08-18T04:44:36+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: Explanatory series on why Michigan attracts data centers is a trend/background piece without a specific decision or event."
-  },
-  {
-   "url": "https://example.com/none",
-   "title": "No major non-Michigan data center developments reported in the last 24 hours",
-   "at": "2026-08-18T04:44:36+00:00",
-   "by": "news_judge",
-   "note": "score 1/10: Explicit non-news placeholder with no Michigan relevance."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTmpsTUtITGpUcmw0eG44YWx0elpVeWsxeVdpZ19XWUM1eWZCWmtVMUlaUS1Vak8wNmJqNHVfVmdLSndRN0hKSzRTNi0ydzFNbXpDZUhxX3VnelFQdkxNTWFVUWtaQ1JuV0UyN2dzQjZPYi1JSkU2bFlHa0RQNzY4c1lYaElrX2NqcTlMaHBqQkNJV1VVLUtVSUtyTFl4Nl9IRVZCZU5FSkUtWXJXektQdFpxQzBCTTdPRnZNNUx3T3VrbXdOYV9IWFE0eFVRXzI2RXFCM25ROFN0OGtqbXhyRDlFQTBmY2h5Q2pocE5Mbw?oc=5",
    "title": "Kalamazoo halts all new data centers and battery plants for a year",
    "at": "2026-08-18T04:44:36+00:00",
@@ -1399,6 +1378,27 @@
    "at": "2026-08-25T21:37:09+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece aggregating broad statistics and general pushback themes without reporting a specific Michigan decision, filing, or development."
+  },
+  {
+   "url": "https://www.theoaklandpress.com/?p=2967616/",
+   "title": "Michigan Officials Say Local Rules Leave Them Powerless Against Data Centers",
+   "at": "2026-08-25T23:32:54+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Thin rehash of already-live recall story with no new development beyond naming one official; the 28-official recall effort and ballot failure already covered."
+  },
+  {
+   "url": "https://www.datacenterdynamics.com/en/news/nano-nuclear-partners-with-tillman-digital-to-deploy-micro-nuclear-reactors-at-us-ai-data-centers",
+   "title": "Nano Nuclear, Tillman Target Up to 6GW of Small Reactors for US AI Zones by 2040",
+   "at": "2026-08-25T23:32:54+00:00",
+   "by": "news_judge",
+   "note": "score 2/10: National non-binding framework announcement with no Michigan connection or concrete project decision."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5BVTkxTGhfeUtGanN3WHZtZnpkRS0yeHBPQWNqNGxMVWtsZnpCeDlHUWFkdkhSdi05VXU5WVc2MUNHWkdJRFpCWk5ieGtKUHdvbnVicGZ5cXNWMGZ0eGtid0VpejlQYkxFdEozQktTTUZhemZpbExVZHRB?oc=5",
+   "title": "Data center firm sues Gibraltar after city blocks projects",
+   "at": "2026-08-25T23:32:54+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicate of already-live 'Raeden sues Michigan, says moratorium illegally killed Gibraltar project' — same lawsuit, same moratorium, same city."
   }
  ],
  "auto_published": [
