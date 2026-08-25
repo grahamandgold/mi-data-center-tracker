@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.reuters.com/business/us-canada-try-bridge-gaps-over-potential-autos-tariff-cuts-sources-say-2026-08-17/",
-   "title": "Nvidia Offers Up to $105 Billion Guarantee for OpenAI Ohio Data Center",
-   "at": "2026-08-17T23:30:24+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National deal with no Michigan angle; similar Nvidia/OpenAI Ohio stories already killed twice, and this is just a larger dollar figure on the same project."
-  },
-  {
    "url": "https://bridgemi.com/business-watch/ypsilanti-township-eyes-moratorium-on-power-transmission-to-slow-u-m-data-center/",
    "title": "Ypsilanti Seeks Six-Month Power Pause to Block U-M Data Center",
    "at": "2026-08-18T01:44:16+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-25T14:55:16+00:00",
    "by": "news_judge",
    "note": "score 3/10: National trend piece with analyst speculation about future delays, lacks Michigan-specific angle or concrete local impact."
+  },
+  {
+   "url": "https://www.theoaklandpress.com/2026/08/25/residents-and-officials-feeling-powerless-in-michigan-data-center-fights/",
+   "title": "Residents and Officials Express Frustration Over Limited Local Control in Michigan Data Center Battles",
+   "at": "2026-08-25T19:39:25+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: This is a rehash combining the already-live recall story and the killed 'locals say they can't stop' angle without reporting a new specific event or decision."
   }
  ],
  "auto_published": [
