@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://michiganadvance.com/2026/08/17/michigan-data-centers-the-weekly-download-3-2-2-2-2-2-2-2-2/",
-   "title": "Weekly Roundup Highlights Tax Break Challenge for Saline Data Center and Local Moratorium Efforts",
-   "at": "2026-08-17T13:00:21+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Rehashes already-live stories (Saline tax challenge, Wixom moratorium/zoning, Marshall threats) without reporting a new event."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZmRhSTF6Q0s2WjYxaXRyZmVraTl3dHZ1TnVibFp0d0szR2kwblRZZUFiS0I2b2V4YTEwTkQwVlozekpTRFhuQ01UaXJCOFI4R2xfTnRQQm9iaTJXNzg4eEhnUjdEOXJGdE9VTzRUQllibGlyY1IzZ3VDUWVTemdBNlRCaE9zQ3NRcHpSRG15cFpFX0xadkp1WExrcmdWWUxpMGlpY2lYV1lQTl9UdEt30gHDAUFVX3lxTE1yVjNjRjVkVkdrbzZpNDdScndTUWxKaGNQSHJSZUpOZ2FNcHlwWEh2WE01Mzc2TTdOUm5fOVBfR1F6c1oxZDJQVVBnVllLSVRHRW8zYmJPbUlMTzUtWkhVX3RKZ3d5cE0weTJWV0lOVHdXZGhXaFRLemtoSk92RzgxLTczQ1FkS3RMdmViMnEzYWJBZGdTLTRVYlBFYS11czNTWWg3Wk1PUkNnU1JFZ3ZlblZna1RtR1lKR1Jna3dzakh6NA?oc=5",
    "title": "Wixom tightens rules on data center sprawl near homes and farms",
    "at": "2026-08-17T13:00:21+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-25T01:45:28+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: This is the same Rogers moratorium call already killed multiple times under various wordings (Mike Rogers pushes one-year halt, Rogers demands one-year freeze, "
+  },
+  {
+   "url": "https://www.detroitnews.com/story/business/2026/08/24/sp-500-nasdaq-slip-as-iran-tensions-test-markets-in-high-stakes-week/91440717007/",
+   "title": "Texas governor orders pause on new data center grid approvals amid reliability concerns",
+   "at": "2026-08-25T03:08:17+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National story from Texas with no Michigan angle or impact; relevant only as distant trend context for Michigan readers tracking their own state's data center i"
   }
  ],
  "auto_published": [
