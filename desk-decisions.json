@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://bridgemi.com/business-watch/ypsilanti-township-eyes-moratorium-on-power-transmission-to-slow-u-m-data-center/",
-   "title": "Ypsilanti Seeks Six-Month Power Pause to Block U-M Data Center",
-   "at": "2026-08-18T01:44:16+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Appears to be a rehash of already-live stories about Ypsilanti blocking power lines and the U-M data center conflict, with no new decision, filing, or concrete "
-  },
-  {
    "url": "https://www.michiganlcv.org/actions/add-your-name-to-this-petition-pause-all-new-data-centers/",
    "title": "Petition Urges Michigan Pause on New Data Centers Over Energy and Water Use",
    "at": "2026-08-18T03:04:18+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-25T19:39:25+00:00",
    "by": "news_judge",
    "note": "score 3/10, duplicate: This is a rehash combining the already-live recall story and the killed 'locals say they can't stop' angle without reporting a new specific event or decision."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS2JRUFZWWVRXTTkzeEl4UGM5S3ZLcHpnZUl2QTE2WGYyWG5aMVROalVud2xXc0luNjJSVE1iZ3dQZk9FUDhFTm1mUGdXQTlCczNtd2dRcFhlOXZvZmEyQVVtekVTZjFhQmdFc0JlRkMzaFZORE42YmprRmE3TmFpOVRweTREMWJFQVFQMjAyV05NV3JvMW5rMlBKb0FlY1RTLWZQaElIUU8?oc=5",
+   "title": "Michigan data centers would have to reveal water use under new bill",
+   "at": "2026-08-25T20:38:31+00:00",
+   "by": "news_judge",
+   "note": "score 9/10, duplicate: This is the same water disclosure bill already live as 'Michigan bill would force data centers to disclose water use.'"
   }
  ],
  "auto_published": [
