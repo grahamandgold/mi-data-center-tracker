@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-25T17:38:51+00:00",
+ "updated_at": "2026-08-25T18:51:15Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Michigan bill would force data centers to disclose water use",
+   "dek": "A new state proposal requires operators to report how much water their facilities consume. Michigan residents near proposed sites worry about strain on aquifers and municipal supplies already stretched by growth. The measure aims to give communities data before projects get approved.",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ2VCYmJSc1NBazlDa0xqV3ZzU2hyRnhLR0FremxlZUVoLXZRZ2NiWkZ1bEtoa2dfdlhXSWswRjZrZjZmV0ZhTE16UVVlZWplZXo0SWVodHNHMWh3a3BDbHRENzR6Szl3c2JJM1M3MTdBeHpVREk5bENpaVo4ZGwzbFc0WE15ei1OQ0hKY25PcXk3UVQyTjctQldvMS1XUDJMd0xn?oc=5",
+   "source": "Environment+Energy Leader",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Water",
+   "iso": "2026-08-25T18:00:00Z",
+   "id": "aebafd32f235",
+   "origin": "google-news",
+   "source_title": "Michigan Bill Targets Data Center Water Disclosure - Environment+Energy Leader",
+   "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ2VCYmJSc1NBazlDa0xqV3ZzU2hyRnhLR0FremxlZUVoLXZRZ2NiWkZ1bEtoa2dfdlhXSWswRjZrZjZmV0ZhTE16UVVlZWplZXo0SWVodHNHMWh3a3BDbHRENzR6Szl3c2JJM1M3MTdBeHpVREk5bENpaVo4ZGwzbFc0WE15ei1OQ0hKY25PcXk3UVQyTjctQldvMS1XUDJMd0xn?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Lansing weighs tax breaks and power rules for new data centers",
    "dek": "Michigan lawmakers are reviewing multiple bills that would change how data centers pay taxes and secure electricity. The proposals could speed up or slow down projects that need hundreds of megawatts. Residents across the state may see higher utility bills or new local revenue depending on what passes.",
@@ -167,23 +184,6 @@
    "id": "8f35255e6f2a",
    "accuracy": "checked-rewritten",
    "judge_score": 7
-  },
-  {
-   "title": "Ypsilanti Township tries to cut power to U-M data center project",
-   "dek": "Officials are weighing a temporary ban on new transmission lines that would feed the university's planned facility. The move aims to buy time for residents worried about rate hikes and farmland loss. If approved, the moratorium would directly affect power delivery in eastern Washtenaw County.",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYW4yX3ZuT01vOU1KZUVPQmM2emhsOFdyRGdSZVliZ1VyN2V6WVF1Wi1ZR0JtalNMNDcxSWhJaURKTFZSWUF5UnZsdXU0Y0ZzRHdzYkJvTjY2Rk9waDJ3VW5ob0J1c1hfSU5ubHBuT0xxSGNFZ3hJdjRnQ0Fkbi1vYWxZSl9BRU92bGFPMU5LSXRCM2tCZHNFeWoza2NoREZyU0NITlU5SnplaEdSZlZtRGExVjF4VUdvX1BLQlZpV3RIUQ?oc=5",
-   "source": "The Manchester Mirror",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Power & Grid",
-   "iso": "2026-08-24T12:51:33Z",
-   "id": "2080ae3e3d55",
-   "origin": "google-news",
-   "source_title": "Ypsilanti Township eyes moratorium on power transmission to slow U-M data center - The Manchester Mirror",
-   "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYW4yX3ZuT01vOU1KZUVPQmM2emhsOFdyRGdSZVliZ1VyN2V6WVF1Wi1ZR0JtalNMNDcxSWhJaURKTFZSWUF5UnZsdXU0Y0ZzRHdzYkJvTjY2Rk9waDJ3VW5ob0J1c1hfSU5ubHBuT0xxSGNFZ3hJdjRnQ0Fkbi1vYWxZSl9BRU92bGFPMU5LSXRCM2tCZHNFeWoza2NoREZyU0NITlU5SnplaEdSZlZtRGExVjF4VUdvX1BLQlZpV3RIUQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
   }
  ],
  "national": {
