@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.irecruit.co/insights/data-center-construction-cost-per-mw-2026-benchmarks-owners",
-   "title": "Data Center Construction Costs Surge to Record Highs in 2026",
-   "at": "2026-08-17T15:33:36+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece about construction costs with no Michigan-specific development or decision."
-  },
-  {
-   "url": "https://www.crainsdetroit.com/politics-policy/cdb-dte-google-data-center-contracts-20260815/",
-   "title": "No major non-Michigan data center developments reported in last 24 hours",
-   "at": "2026-08-17T16:37:22+00:00",
-   "by": "news_judge",
-   "note": "score 1/10: Meta-commentary about lack of news is noise, not news; already killed a similar non-story."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNclYzY0Y1ZFZHa282aTQ3UnJ3U1FsSmhjUEhyUmVKTmdhTXB5cFhIdlhNNTM3Nk03TlJuXzlQX0dRenNaMWQyUFVQZ1ZZS0lUR0VvM2JiT21JTE81LVpIVV90Smd3eXBNMHkyVldJTlR3V2RoV2hUS3praEpPdkc4MS03M0NRZEt0THZlYjJxM2FiQWRnUy00VWJQRWEtdXMzU1loN1pNT1JDZ1NSRWd2ZW5WZ2tUbUdZSkdSZ2t3c2pIejTSAcMBQVVfeXFMTXJWM2NGNWRWR2tvNmk0N1Jyd1NRbEpoY1BIclJlSk5nYU1weXBYSHZYTTUzNzZNN05Sbl85UF9HUXpzWjFkMlBVUGdWWUtJVEdFbzNiYk9tSUxPNS1aSFVfdEpnd3lwTTB5MlZXSU5Ud1dkaFdoVEt6a2hKT3ZHODEtNzNDUWRLdEx2ZWIycTNhYkFkZ1MtNFViUEVhLXVzM1NZaDdaTU9SQ2dTUkVndmVuVmdrVG1HWUpHUmdrd3NqSHo0?oc=5",
    "title": "Wixom tightens data center zoning to limit industrial sprawl",
    "at": "2026-08-17T16:37:22+00:00",
@@ -1399,15 +1385,23 @@
    "at": "2026-08-25T05:08:07+00:00",
    "by": "news_judge",
    "note": "score 3/10: Generic sentiment piece about residents pushing back lacks a specific event, decision, or filing; reads like a thin rehash of ongoing tensions already covered."
+  },
+  {
+   "url": "https://www.bigrapidsnews.com/news/article/michigan-data-center-tax-breaks-explained-22393678.php",
+   "title": "Michigan Expands Tax Exemptions for Data Centers Through 2050 Under 2024 Laws",
+   "at": "2026-08-25T06:01:39+00:00",
+   "by": "news_judge",
+   "note": "score 4/10, duplicate: Rehashes the already-live story on Michigan's new tax breaks for data centers, just framed as an explainer."
+  },
+  {
+   "url": "https://bridgemi.com/",
+   "title": "Michigan towns say they cannot block data centers; recall bids fail to reach ballots",
+   "at": "2026-08-25T06:01:39+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Thin national-trend rehash combining elements from killed stories about locals unable to stop projects and recall bids failing to reach ballots."
   }
  ],
  "auto_published": [
-  {
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUU9Ib1pFUGY0YmhwSEJHb1BDZ1U1dXR0R053QklOZnhjWXhPODViLWJ2MzRsdjktdjdJVWFwaDlNUzJiamJhaXI0MF9VQlBCTDRnUXpqWERSWWQ3WkpXenpXeG1wSGlkSzZpWXQtU1RmZDFjMERieDdLMXRfdTc2X29sV2RjZVhXVkE?oc=5",
-   "title": "Consumers warns rates will rise if tax fight with state drags on",
-   "judge_score": 7,
-   "at": "2026-07-12T21:03:10Z"
-  },
   {
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObDduNnFaRk8tMFpBSC0yYS02WkJMV0JrLWhmQXlsYlZfR3JXTW9jZTduTUR1U1N1X3FPVEI4bnBXcFE2V3ItaUg3ZEVacHg4ekJFclQ5SFRzOTh0LTI3cWlRRUJnNUt6Q0hxa1dKemhPN2ZWZHdyTDl2bklWMm5rSTBYQWkyb0E?oc=5",
    "title": "Rural push kills Consumers 1.4 GW plant before it reaches grid",
@@ -3201,6 +3195,12 @@
    "title": "Campbell coal plant stays open to feed data-center power hunger",
    "judge_score": 8,
    "at": "2026-08-25T05:08:07Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbDZUU0xoQlFWUnVMRDdZNGo5Q2tFVHBsVGxTcm1TZFV2d2QzWENlbmxELTFIWUlGVUZ0cEctRzM1aXdVcHVzWXY5WV9COEFadlkzRmVxS2xzQmNBV0w5dV9TZFFKQzNOOHYwLTJyd1ZMZG5IV3M3aVJZa2VzYlNWdEp4dEoxRHBMYW9yRE9HNkVkZmwxZS1fLTlPXzdDb0tpU3JPSVFwQVpRQXdkZVFpdnBTaDU1MDRXUVJR?oc=5",
+   "title": "St. Joseph County weighs noise rules as data centers eye the grid",
+   "judge_score": 7,
+   "at": "2026-08-25T06:01:39Z"
   }
  ]
 }

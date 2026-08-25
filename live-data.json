@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-25T05:08:07Z",
+ "updated_at": "2026-08-25T06:01:39Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "St. Joseph County weighs noise rules as data centers eye the grid",
+   "dek": "St. Joseph County is drafting a noise ordinance aimed at data centers that could run 24/7. Officials are also tracking how much extra power these facilities would pull from the regional grid. Residents within 30 miles worry about constant hum and higher electric rates if big loads come online.",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbDZUU0xoQlFWUnVMRDdZNGo5Q2tFVHBsVGxTcm1TZFV2d2QzWENlbmxELTFIWUlGVUZ0cEctRzM1aXdVcHVzWXY5WV9COEFadlkzRmVxS2xzQmNBV0w5dV9TZFFKQzNOOHYwLTJyd1ZMZG5IV3M3aVJZa2VzYlNWdEp4dEoxRHBMYW9yRE9HNkVkZmwxZS1fLTlPXzdDb0tpU3JPSVFwQVpRQXdkZVFpdnBTaDU1MDRXUVJR?oc=5",
+   "source": "WNDU",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "St. Joseph",
+   "tag": "Power & Grid",
+   "iso": "2026-08-25T00:36:00Z",
+   "id": "15ebbee86f0e",
+   "origin": "google-news",
+   "source_title": "The Data Center Debate: St. Joseph County's Noise Ordinance and Possible Energy Grid Impact - WNDU",
+   "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbDZUU0xoQlFWUnVMRDdZNGo5Q2tFVHBsVGxTcm1TZFV2d2QzWENlbmxELTFIWUlGVUZ0cEctRzM1aXdVcHVzWXY5WV9COEFadlkzRmVxS2xzQmNBV0w5dV9TZFFKQzNOOHYwLTJyd1ZMZG5IV3M3aVJZa2VzYlNWdEp4dEoxRHBMYW9yRE9HNkVkZmwxZS1fLTlPXzdDb0tpU3JPSVFwQVpRQXdkZVFpdnBTaDU1MDRXUVJR?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Campbell coal plant stays open to feed data-center power hunger",
    "dek": "The U.S. Department of Energy ordered the J.H. Campbell plant in Ottawa County to keep running, citing rising electricity demand from data centers. Keeping the aging coal unit online means continued emissions and higher costs for ratepayers in western Michigan. The move underscores how AI growth is reshaping the state's energy grid.",
@@ -169,23 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNeXpCVUZsdEJSelZ5ZzVwdmVMUUljQ0tlZmlqUGwtdUprQ3VuY3dPT09wZndwZldDSUVrYkJmUnFxcmpfQVNyU0ppVDhKTmM5TUQxLUpCcllHcjUzM18xTUlObGNCaHZJbWpXYy12alpkQ1pwU2xlZmRjcW84d0VYVkNVMGM3Zk1FQ1ZSblU4SzMwSmd2cnVqdXEzVFlUcEVQcDk2ZTM1NWp5TzlGUXRJSVpzRGM2cXBiRWJveUpaVFVRMllVM3JwY21sT01CY0VvajRtc21LVlZzcmx2dElxWmllZmdmSzhDWHc?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
-  },
-  {
-   "title": "GenH pitches Morley Dam as hidden data center power source",
-   "dek": "GenH is floating a plan to use the existing Morley Dam site for a data center that would generate its own electricity. The concept could sidestep some utility fights but still raises questions about water use and local impacts in Mecosta County. Readers nearby should watch how the project is classified under state rules.",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ1lUclZYUWhzVkpKV0dQR1hXMXY2ekIxNzQtOFk5bU9fV1NBMGJ4STd0d1ZyQkNBa2pCRDNuZEJ0cWJqRmJDMFpTamh1Z1lXamZiU1ZDb2tzQTZMMkp4S1lFU21JeXNEd0FQQnNic2lPbV9VNVRHSWJiSG1FU21ySXdCR1BjeDBQUU9LYkgtT3RFOHd1aUFUU0ln?oc=5",
-   "source": "Big Rapids Pioneer",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Mecosta",
-   "tag": "Explainers",
-   "iso": "2026-08-23T14:07:05Z",
-   "id": "0dc315ba27cd",
-   "origin": "google-news",
-   "source_title": "EXPLAINER: Is it a data center? How GenH’s Morley Dam concept would work - Big Rapids Pioneer",
-   "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ1lUclZYUWhzVkpKV0dQR1hXMXY2ekIxNzQtOFk5bU9fV1NBMGJ4STd0d1ZyQkNBa2pCRDNuZEJ0cWJqRmJDMFpTamh1Z1lXamZiU1ZDb2tzQTZMMkp4S1lFU21JeXNEd0FQQnNic2lPbV9VNVRHSWJiSG1FU21ySXdCR1BjeDBQUU9LYkgtT3RFOHd1aUFUU0ln?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {
