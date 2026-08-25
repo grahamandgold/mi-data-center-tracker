@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYXJHLVJNbVExV2NJdi1xY3N0dXNEQ19aZTIzVl9YaFFiaGIyNmtNQjBWcm42UExXRFdyODVFUTlnX1d5dVhWamtJU2lmVkVSWFBHcndVTEp1akQydnVtWExDN1hCdHRjSkt1NjdRSDl5TmFTRXlVMFZsUmhaR3NMOEVjSUFfZXl0R1k4WjNZdFR2X252dGpST0tLUGMtRXc4YXBCelhFaGgzSGwxdWVKOWxDU0RaXzg?oc=5",
-   "title": "Wixom tightens zoning to limit data center noise and footprint",
-   "at": "2026-08-17T20:36:01+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: This is the same Wixom zoning tightening already covered in multiple live stories (Wixom Council Backs Zoning Rules, Wixom tightens data center rules) and kille"
-  },
-  {
    "url": "https://www.utilitydive.com/news/data-center-power-demand-2026/123456/",
    "title": "U.S. data center power demand surges as utilities scramble for new capacity",
    "at": "2026-08-17T20:59:35+00:00",
@@ -1399,15 +1392,16 @@
    "at": "2026-08-25T09:44:59+00:00",
    "by": "news_judge",
    "note": "score 3/10, duplicate: Appears to cover the same Ypsilanti Township action against the U-M data center already live as 'Ypsilanti Township tries to cut power to U-M data center projec"
+  },
+  {
+   "url": "https://bridgemi.com/michigan-environment-watch/residents-and-officials-feeling-powerless-in-michigan-data-center-fights",
+   "title": "Mason official faces November recall as Michigan leaders say they lack power to stop data centers",
+   "at": "2026-08-25T10:42:10+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Thin rehash combining already-live recall story (which noted only one reached ballot) with already-live theme that locals lack power to stop projects; no new de"
   }
  ],
  "auto_published": [
-  {
-   "url": "https://www.shorelinemedia.net/ludington_daily_news/news/pm-board-to-consider-data-center-moratorium-1-36m-park-project/article_5d888ea2-ac45-4305-97d9-0f582dcec845.html",
-   "title": "Pere Marquette Township Board to Consider One-Year Data Center Pause",
-   "judge_score": 7,
-   "at": "2026-07-13T00:03:40Z"
-  },
   {
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ybUhCQnFTRkVFcEg1dVZFNjQ1dUpMTFM1d3NZc3dQZkE1UTV1UFpUa3VvUy1LdHNYemNOLTFXSUhBdktnZm9hSTVMMzJnOTU3?oc=5",
    "title": "Green Oak Township creates new zoning rules for power-hungry data centers",
@@ -3201,6 +3195,12 @@
    "title": "Washtenaw leaders pitch new data center as economic win for county",
    "judge_score": 7,
    "at": "2026-08-25T07:01:46Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVnQ0WmQ1Vkd3bHgzSFA5cElydzR1VXZMTFFpaTZPNmlydThqZVpPYmRjMXBWaG5uYnJILWxXLUNkWncwODEzanlmUndjbU93WFFqRzVVcXhaQkUtOGdyalpZWkd1cnpPakZqNDFpZTBqX1BibkZkb1Y3ZlhvWFRMUWRMWWJFS0JTVjlyRGlpN2NTZVNwRnFSdXBQZGxpZFNXN0FDU3lPT3RYbWFVSFdNTkFn?oc=5",
+   "title": "Lansing weighs tax breaks and power rules for new data centers",
+   "judge_score": 6,
+   "at": "2026-08-25T10:42:10Z"
   }
  ]
 }

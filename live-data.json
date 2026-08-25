@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-25T09:44:45+00:00",
+ "updated_at": "2026-08-25T10:42:10Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Lansing weighs tax breaks and power rules for new data centers",
+   "dek": "Michigan lawmakers are reviewing multiple bills that would change how data centers pay taxes and secure electricity. The proposals could speed up or slow down projects that need hundreds of megawatts. Residents across the state may see higher utility bills or new local revenue depending on what passes.",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVnQ0WmQ1Vkd3bHgzSFA5cElydzR1VXZMTFFpaTZPNmlydThqZVpPYmRjMXBWaG5uYnJILWxXLUNkWncwODEzanlmUndjbU93WFFqRzVVcXhaQkUtOGdyalpZWkd1cnpPakZqNDFpZTBqX1BibkZkb1Y3ZlhvWFRMUWRMWWJFS0JTVjlyRGlpN2NTZVNwRnFSdXBQZGxpZFNXN0FDU3lPT3RYbWFVSFdNTkFn?oc=5",
+   "source": "Mackinac Center",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Policy",
+   "iso": "2026-08-25T10:02:52Z",
+   "id": "86732308cf89",
+   "origin": "google-news",
+   "source_title": "Michigan legislators consider a variety of proposals, many bad, on data centers - Mackinac Center",
+   "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVnQ0WmQ1Vkd3bHgzSFA5cElydzR1VXZMTFFpaTZPNmlydThqZVpPYmRjMXBWaG5uYnJILWxXLUNkWncwODEzanlmUndjbU93WFFqRzVVcXhaQkUtOGdyalpZWkd1cnpPakZqNDFpZTBqX1BibkZkb1Y3ZlhvWFRMUWRMWWJFS0JTVjlyRGlpN2NTZVNwRnFSdXBQZGxpZFNXN0FDU3lPT3RYbWFVSFdNTkFn?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
   {
    "title": "Washtenaw leaders pitch new data center as economic win for county",
    "dek": "Officials in Washtenaw County are highlighting jobs and tax revenue from a fresh data center proposal while residents question the power and water demands. The project would add significant load to the regional grid already strained by AI growth. Taxpayers within driving distance will ultimately pay for any utility upgrades needed to support it.",
@@ -169,23 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOVFpN0ZZdHhOT2ltbFJZMk9JWFk3WUtVNHZrV0NVZnpuSGd1eXBGblhIck1VSnN3aU5CeDdYNktsUFVUbFNuclR4UDRIR2ZHS2VBMXExVGJHdlptZHMxcGx6aGtTREE5NmdySjVlaGh3Y1FLdFdoQ2hGRk9kUEN4c1hfR3dLS1IxQkRj?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
-  },
-  {
-   "title": "Dozens of data center projects line up across Michigan towns",
-   "dek": "Crain's maps every active proposal in the state, showing which sites have power deals, tax incentives, or local pushback. Residents 30 miles from any site will see higher electric rates and new transmission lines if these move forward. The list covers metro Detroit suburbs, west Michigan, and mid-state counties.",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQ1o1V25QT2J2ZUs2MUtrejRmekQzWHlmSllBU2h1VlhrMzZlNk41YmdpYXpNWkZSSlZPQlhRRk1NZVJweEs5bTRGWEw0XzN2TVo5ZEdhS0FseVM2ZmJJYXplUVg4QlJOeDFUMjJ3RUJTUW9NS0tpbGppU1c2d2RnU2F2cw?oc=5",
-   "source": "Crain's Detroit",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Policy",
-   "iso": "2026-08-24T09:45:00Z",
-   "id": "24ac804b3175",
-   "origin": "google-news",
-   "source_title": "Data center proposals have exploded in Michigan. Here’s where all of them stand. - Crain's Detroit",
-   "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQ1o1V25QT2J2ZUs2MUtrejRmekQzWHlmSllBU2h1VlhrMzZlNk41YmdpYXpNWkZSSlZPQlhRRk1NZVJweEs5bTRGWEw0XzN2TVo5ZEdhS0FseVM2ZmJJYXplUVg4QlJOeDFUMjJ3RUJTUW9NS0tpbGppU1c2d2RnU2F2cw?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
   }
  ],
  "national": {
