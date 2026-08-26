@@ -1,7 +1,32 @@
 {
- "updated_at": "2026-08-26T09:51:38+00:00",
+ "updated_at": "2026-08-26T10:18:53+00:00",
  "generator": "grok-wire-agent",
  "items": [
+  {
+   "title": "Solon Township weighs 800-acre hyperscale data center zoning rules",
+   "dek": "Residents 30 minutes away in Kent County face a proposed 800-plus-acre AI campus that could draw 1 GW of power and strain local water and roads. The Planning Commission meets Wednesday to discuss a data-center zoning ordinance still in draft form after multiple delays. No agenda or specific project application details are public yet.",
+   "url": "https://stopsolontownshipdatacenter.com/",
+   "source": "Solon Township Planning Commission agenda",
+   "region": "West Michigan",
+   "county": "Kent",
+   "cat": "Meetings",
+   "tag": "Agenda watch",
+   "iso": "2026-08-26T10:18:53+00:00",
+   "kind": "agenda",
+   "id": "3f90b67a1034",
+   "filed_at": "2026-08-26T10:18:53+00:00",
+   "accuracy": "thin — needs human background",
+   "findings": "Proposed 800-plus-acre hyperscale AI data center per stopsolontownshipdatacenter.com | Consumers Energy reported in Q2 earnings meeting on July 28, 2026 that a 1 GW data center developer is still working through local zoning processes per opposition site posts | Draft zoning ordinance includes Special Land Use section allowing alternative water sources if \"low impact\" shown, per group calls to close loopholes | No agenda or draft 6 of ordinance released publicly ahead of Aug. 26 meeting per stopsolontownshipdatacenter.com posts | Next Planning Commission meeting is Wednesday, August 26 per opposition site",
+   "perspective": "The commission has repeatedly delayed action on the ordinance amid opposition. Wednesday's meeting allows public comment on strengthening the rules, with the ordinance potentially advancing to the township board for adoption or referendum. The outcome ties directly to power demand, farmland conversion, and tax-base questions in West Michigan.",
+   "documents": [
+    {
+     "label": "Agenda page",
+     "url": "https://stopsolontownshipdatacenter.com/"
+    }
+   ],
+   "depth_score": 4,
+   "extraction_method": "plain"
+  },
   {
    "iso": "2026-08-26T12:00:00+00:00",
    "region": "statewide",
