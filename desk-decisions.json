@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://wwmt.com/news/local/kalamazoo-moratorium-data-centers-prevent-pause-ai-city-commission-adopt-resolution-meeting-development-harbor-farmz-michigan-wwmt",
-   "title": "Kalamazoo Halts All Data Center, Battery Storage and Crypto Projects for One Year",
-   "at": "2026-08-18T07:47:14+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Same Kalamazoo moratorium vote already live under multiple headlines; no new development."
-  },
-  {
    "url": "https://www.wzzm13.com/article/news/local/kalamazoo-implements-yearlong-halt-on-data-centers-amid-community-concerns/69-26dd349c-6e48-4af0-8e13-014b3b88ad62",
    "title": "Kalamazoo Approves Moratorium Targeting Data Centers, Battery Storage and Crypto Mining",
    "at": "2026-08-18T07:47:14+00:00",
@@ -1399,15 +1392,16 @@
    "at": "2026-08-26T01:51:12+00:00",
    "by": "news_judge",
    "note": "score 5/10: Reports resident opposition in Kent County but lacks a concrete action, filing, or official decision to anchor the story."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSVdfbHYxY0VWb2Q5VzBWZFNvU0VidzR1V3NvWUpINVpGbGZETHpzYUZGb2x6OGdWbXlsbUZKSjl0clNOa2RoWG5LVXJrdkdjRjJEX2ZhUUczVnlzMzR2MzJIMXRNYmlLUDRaTXl2OEk4MEg0SFZuUWJmY0dMalA2bGx6TVloTWdxUFJqOU5hbHVlTW5TR2Q0amtBNGlaVkFjUjBEbDhidHpYcTdLbDB3UFZ6S3JTa1NySV94SFZwWHo2cThoQUtxamhIcHJ2TGxPM3RtbDZldmsxNm85S2Uw?oc=5",
+   "title": "Garfield Twp pauses all data center plans for a year",
+   "at": "2026-08-26T04:13:04+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This is the same Garfield Township one-year moratorium already live in the first item on the ALREADY LIVE list."
   }
  ],
  "auto_published": [
-  {
-   "url": "https://michiganadvance.com/?p=108324",
-   "title": "Bills target data center power and water use amid recalls and noise fights",
-   "judge_score": 8,
-   "at": "2026-07-13T18:19:49Z"
-  },
   {
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNzIwV3ZDdGc2akh3QU1XQV83ODhsS1BndkU5RHdGTGlTZTh1azI1T1NJZmYxbUhMXzdWMkNjVXIzOWRXRGxIQnJ4QTVYMFFxa2lfamdTOUVzVzlTN2tWWjN2WVNTMGRxNFlXeDN3RkFDLXRXQXdTamZhd0lobHZWdmQtVQ?oc=5",
    "title": "Saline data-center campus now priced at $16 billion after financing closes",
@@ -3201,6 +3195,12 @@
    "title": "Garfield Twp halts data centers for a year to study rules",
    "judge_score": 9,
    "at": "2026-08-26T01:51:12Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51aHJleFV0WGFKVU1PT2pvMXRCVmhaNUpQY1JXZXphelBvWnN3T2xKS3ZjY3hGYlJMN2ZiMVp1Z0NTQ0JORmU4WFdqYkNZQi15TS05OUp6NTdVLVkzS1JJd0xsc1Ywa1JkVjctMTF0REI5YjZLVG1jZ1I0RXQzZw?oc=5",
+   "title": "Lowell Twp still hammering out rules for big data centers",
+   "judge_score": 6,
+   "at": "2026-08-26T04:13:04Z"
   }
  ]
 }
