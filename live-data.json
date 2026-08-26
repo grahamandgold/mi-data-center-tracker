@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-26T11:37:39+00:00",
+ "updated_at": "2026-08-26T13:08:17Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Michigan supervisors back bills to curb data center power costs",
+   "dek": "Township leaders across northern Michigan endorsed new state rules that would force data centers to pay more toward grid upgrades. Residents could see lower electric bills if the bills pass, but only if local governments keep leverage over big projects. The move signals growing pushback against unlimited data center growth in the state.",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaTNGMXlETWxMa19oTUppb3RsOUw0S0lNcUdpeXR1cFJaUUQzLXlUZURZMW9qcFplbHk0Uld1LWx6YUdfNFMyNm1qdnFBZi16ekRUWnZHeTN3bF9sYXExd1NQeHNqTEtmeklBU2tSV3gxYnRxcmNLeUtITzR5WTY2eWZDaDBxVG1HdG16N1pKZ3B2QWhpSjNFRFJnU1N6WUp0RF9BRnF6d2dUanJDc3FnMVBHcEhoN0hhVHNjWGFnWk05QQ?oc=5",
+   "source": "North County Pipeline",
+   "region": "north",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Policy",
+   "iso": "2026-08-26T13:00:18Z",
+   "id": "ccfd88cf9710",
+   "origin": "google-news",
+   "source_title": "Supervisors back state bills regulating data centers - North County Pipeline",
+   "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaTNGMXlETWxMa19oTUppb3RsOUw0S0lNcUdpeXR1cFJaUUQzLXlUZURZMW9qcFplbHk0Uld1LWx6YUdfNFMyNm1qdnFBZi16ekRUWnZHeTN3bF9sYXExd1NQeHNqTEtmeklBU2tSV3gxYnRxcmNLeUtITzR5WTY2eWZDaDBxVG1HdG16N1pKZ3B2QWhpSjNFRFJnU1N6WUp0RF9BRnF6d2dUanJDc3FnMVBHcEhoN0hhVHNjWGFnWk05QQ?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Garfield Twp halts data centers for a year to study rules",
    "dek": "Garfield Township supervisors voted to pause all new data-center proposals while they research limits on power use, water draw and noise. The move gives residents time to weigh how large server farms would affect local taxes, roads and the power grid in Grand Traverse County. Without the pause, developers could file applications before any new restrictions take effect.",
@@ -169,23 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUnhrLUVYeGt4OGtzbERVanB0cDdLTkJpSF8yN0Y5cmpLWGxYek9PV3NuLS01X1o2X2VrSWlyQnYyVnBFSGJvWU4tdFh2elQybktOeUdBSlNjbEVHdHNnSHBXSlhUQmlNaDVDT3hnMnNqZjc3aDB2VHA4N2M3T18zTzYxWW5nNlV5akstY0lmNVVyOS1VV01SVXEyYkpWcVR2LVJoeEZZMzA?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Michigan's new tax breaks shield data centers from most local property taxes",
-   "dek": "The state quietly broadened data-center tax incentives, letting operators avoid paying property taxes on equipment and buildings for up to 12 years in many communities. Big Rapids and other rural counties could lose millions in revenue while still bearing higher electricity and water costs. The change rewards companies that locate here but gives townships little leverage to negotiate better deals.",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc281N01rVEhIMk1PZkxxVjJaUUJZZlBERUk4X2tEZmRSUWZoWVJUeURDTGlPaUZyR293QjROaThCdE9Ba1pNX0J3OC1Ld2QxR1dESl9icC1NTEg2QTMwUVU4MmtlNW5jd0o3dTJKMnV5SXNWOHljdU9SNWVkS1o4WWlSRFM5SkVUaVZ4OFJYVER3ZzRjVDY3M3ZqWm9OQQ?oc=5",
-   "source": "Big Rapids Pioneer",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Mecosta",
-   "tag": "Money",
-   "iso": "2026-08-24T16:18:45Z",
-   "id": "b9ba53eb30e4",
-   "origin": "google-news",
-   "source_title": "Michigan expanded data center tax breaks. Here’s what they actually cover - Big Rapids Pioneer",
-   "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc281N01rVEhIMk1PZkxxVjJaUUJZZlBERUk4X2tEZmRSUWZoWVJUeURDTGlPaUZyR293QjROaThCdE9Ba1pNX0J3OC1Ld2QxR1dESl9icC1NTEg2QTMwUVU4MmtlNW5jd0o3dTJKMnV5SXNWOHljdU9SNWVkS1o4WWlSRFM5SkVUaVZ4OFJYVER3ZzRjVDY3M3ZqWm9OQQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 9
   }
  ],
  "national": {

@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.politico.com/news/magazine/2026/08/02/the-new-luddites-01017824",
-   "title": "Anger over data centers fuels recall efforts and political shifts nationwide",
-   "at": "2026-08-18T10:38:26+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: National trend piece about recall efforts in multiple states lacks Michigan-specific action or decision."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS0t4bkp2d0wyNXdrS1RsNmdKTW5Da3pEQ2FHcnJ3cVQ4NG10c24tTFRaX29PbWw3emxRcmR3OWxWWTNqMUhhNlFLbEtQZ19iTF9GLW1yMy1QQUZHYUx5dDN3RkpCUTc1N2d1VVZ1NDRvbVpnVUxiRkF6V0ktUGpNR1dETG1ob0QzVDdUeVZzWGE2YnpxOWRfZ9IBngFBVV95cUxPcmNmUjVqenIzZ2JVS1FTcGNDTWhKQzZnYlVFbW1jSDZ3LVZzY1g3WE9QWnFYb1E3akVVX1ZuYXR5U003ZXFYNWdYN1RjakNXUkNfZlVLZDVrZTJ2MmRuTlRzR25IbGNlV0Rta1RvcEhaMXhpWmpER2NfdllsTEk5WGlqa2NnNzMzYXpJSEh1VkZkQmVFTlo5bURjVl9Ydw?oc=5",
    "title": "Kalamazoo halts all new data centers for a year over power and noise fears",
    "at": "2026-08-18T10:38:26+00:00",
@@ -1399,15 +1392,16 @@
    "at": "2026-08-26T10:43:20+00:00",
    "by": "news_judge",
    "note": "score 3/10: Thin rehash of recall efforts already covered in killed stories, with no new decision or concrete development reported."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdDl3WmowZDF4VlBQcW8xNlU4UkVaSm5vZmFMYnlMSFpTcTFoLWY5akx0YUlyUGZHNzJUN3dlQzNZQUpCTGZCc0FjVlZlNHhJRUMwNW1DT0hrUGo2WlZyblZDUnpYN2xsVFFCeUFOckpaM0UxOTByWmZSTU9LOTBrTlBSRmtiUWg5VU5BMUNxY3NKVEoza0t3c3VRa0wtdXFXYi05OHBsOXpCVTUxbEQ3MTRObTgtSGh4eW5MVF9ZRjI?oc=5",
+   "title": "Garfield Township bans new data centers and crypto mines for one year",
+   "at": "2026-08-26T13:08:17+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This is the same Garfield Township one-year moratorium already live in the queue, just reworded."
   }
  ],
  "auto_published": [
-  {
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNzIwV3ZDdGc2akh3QU1XQV83ODhsS1BndkU5RHdGTGlTZTh1azI1T1NJZmYxbUhMXzdWMkNjVXIzOWRXRGxIQnJ4QTVYMFFxa2lfamdTOUVzVzlTN2tWWjN2WVNTMGRxNFlXeDN3RkFDLXRXQXdTamZhd0lobHZWdmQtVQ?oc=5",
-   "title": "Saline data-center campus now priced at $16 billion after financing closes",
-   "judge_score": 9,
-   "at": "2026-07-13T18:19:49Z"
-  },
   {
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWmdLVjRmYXBuYzI1RU1lWjhJVlF4ZlR2RzZMakJWRmtBVF8tVWdZbnpMd0ZOZ0o5SFNYMWhma20yNjZpbFY4VWthR2lCWXVVWDFoTHMwcU9ZbkQ2MGNoVnVobms1WjN3aWJOeXpjMlpBVlIyVl82aWJHR0VJSTUwQnBLeC1LWUg5S012UDZyQ1pTMFozal9rc3hvd2VYTk9zS3I0WDZoajVmb1RhbGdqRk1JQlNVNDZ6QWFzWGpOcVk0X1dPdjhnLUtiZjnSAeABQVVfeXFMUE05aHl6T2ZJRUNUSE5FLS1tMVQ1Rk45RnBDN2hRSmlSdnpLMGJpUkdtTG8wc09xMmlFOUZCd1hOMUpvRlh0dF9RMGVyc3E2NzVJR1ItUml5U2luRUdnakY2N1BuZTd1N1lYaHFCUHZLekdLUzFnaXhTNkppLUpaYWMxVzFqTkU5RnctYTUtWGFiSEVUQ1QtZ2IyQmZGNzBxX2hYeHI5VS1Wa1VnVktmOWNyTW1vSEZOX3lSU3paSHJGS0tVNTJMZkR2c0dOZE0wVHdObHdLcFlsSjJESEllelE?oc=5",
    "title": "Water table bounces back after tech campus dig drained neighborhood pond",
@@ -3201,6 +3195,12 @@
    "title": "Lowell Twp still hammering out rules for big data centers",
    "judge_score": 6,
    "at": "2026-08-26T04:13:04Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaTNGMXlETWxMa19oTUppb3RsOUw0S0lNcUdpeXR1cFJaUUQzLXlUZURZMW9qcFplbHk0Uld1LWx6YUdfNFMyNm1qdnFBZi16ekRUWnZHeTN3bF9sYXExd1NQeHNqTEtmeklBU2tSV3gxYnRxcmNLeUtITzR5WTY2eWZDaDBxVG1HdG16N1pKZ3B2QWhpSjNFRFJnU1N6WUp0RF9BRnF6d2dUanJDc3FnMVBHcEhoN0hhVHNjWGFnWk05QQ?oc=5",
+   "title": "Michigan supervisors back bills to curb data center power costs",
+   "judge_score": 7,
+   "at": "2026-08-26T13:08:17Z"
   }
  ]
 }
