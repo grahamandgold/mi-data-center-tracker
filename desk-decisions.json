@@ -1,27 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.wzzm13.com/article/news/local/kalamazoo-implements-yearlong-halt-on-data-centers-amid-community-concerns/69-26dd349c-6e48-4af0-8e13-014b3b88ad62",
-   "title": "Kalamazoo Approves Moratorium Targeting Data Centers, Battery Storage and Crypto Mining",
-   "at": "2026-08-18T07:47:14+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Identical Kalamazoo commission vote blocking data centers already covered in live stories."
-  },
-  {
-   "url": "https://michiganadvance.com/2026/08/17/michigan-data-centers-the-weekly-download-3-2-2-2-2-2-2-2-2",
-   "title": "Michigan towns clash over data center tax breaks, zoning and threats",
-   "at": "2026-08-18T07:47:14+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Thin multi-town rehash combining already-live developments (UM site, Wixom moratorium) without new decisions."
-  },
-  {
-   "url": "https://www.detroitnews.com/story/business/2026/08/17/chip-giant-nvidia-reaches-1-5-billion-deal-for-ai-computing-capacity/91335586007",
-   "title": "Nvidia Commits $1.5 Billion to Ohio AI Data Center Project with OpenAI Ties",
-   "at": "2026-08-18T07:47:14+00:00",
-   "by": "news_judge",
-   "note": "score 2/10: National Ohio project with no Michigan angle; already killed similar Nvidia/OpenAI Ohio stories."
-  },
-  {
    "url": "https://www.linkedin.com/pulse/weekly-data-center-industry-news-first-weeks-august-2026-kim-snxdc",
    "title": "Texas Vetting Puts 20% of US Data Center Pipeline at Risk of Delay",
    "at": "2026-08-18T08:48:32+00:00",
@@ -1399,6 +1378,27 @@
    "at": "2026-08-26T04:13:04+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: This is the same Garfield Township one-year moratorium already live in the first item on the ALREADY LIVE list."
+  },
+  {
+   "url": "https://timesofindia.indiatimes.com/technology/tech-news/ypsilanti-township-in-michigan-is-fighting-nuclear-weapons-data-center-not-with-a-ban-but-by-taking-a-study-break-to-/articleshow/133503182.cms",
+   "title": "Ypsilanti Township's Electric Infrastructure Moratorium Targets University of Michigan-Los Alamos Computing Facility",
+   "at": "2026-08-26T05:08:22+00:00",
+   "by": "news_judge",
+   "note": "score 4/10, duplicate: Duplicate of already-live Ypsilanti Township pause story; same moratorium and U-M facility, just reworded."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaUgwelhnTHpQYnl5aWg2eG9PVmFRYk9YOHFqRmV5blUzR1IxUGp0VG5WallkMFZpUUVBUngwN3JVTUVxSUdXenNlNHVGWlY0RFljbTYwbUNsZWJOWUQyRklXUnJvM0xTc3Bvbm52T0N4b2dNYUtsT2Q2YTQ2MkhOUWtjSmlWNVBOZ05rUFJrT2FMUQ?oc=5",
+   "title": "Garfield Township halts all data center proposals for research period",
+   "at": "2026-08-26T05:08:22+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicate of already-live Garfield Twp moratorium; same one-year halt and study period already covered."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcmlTcXZTQTloV3RZMmgtWmJTQVFvbjdScDlESmpTalhmRVQwR1pyYkRGVFJ6YnA3LTl1ZGR3YjdVZEotMjhNQ3oxOEc0U256TzJvSEpBajJ0U0g2R0hkUDlnSlBDUGFRWWxiN2ZfcDdjSy1BLUpoaGNjdUZrVUFxb0cwYXJJZk1UTlNaSHMxSy1zQWdGM05pX1FTdnA1THo3emVHWVhmVQ?oc=5",
+   "title": "Lansing-area official pushes moratorium after joining data center protests",
+   "at": "2026-08-26T05:08:22+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Thin story about an official attending protests and calling for a pause—lacks concrete action, filing, or vote."
   }
  ],
  "auto_published": [
