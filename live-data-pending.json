@@ -1,7 +1,32 @@
 {
- "updated_at": "2026-08-26T22:26:59+00:00",
+ "updated_at": "2026-08-26T23:47:37+00:00",
  "generator": "grok-wire-agent",
  "items": [
+  {
+   "title": "Solon Township debates zoning for 800-acre AI data center",
+   "dek": "Solon Township Planning Commission meets Wednesday to discuss rules for a proposed hyperscale AI data center on more than 800 acres. Residents 30 minutes away could see effects on power demand, water use and local tax base if the project advances. The commission has no public packet or named applicant yet, but activists are pushing for stricter limits on water sources and noise.",
+   "url": "https://stopsolontownshipdatacenter.com/",
+   "source": "Solon Township Planning Commission agenda",
+   "region": "West Michigan",
+   "county": "Kent",
+   "cat": "Meetings",
+   "tag": "Agenda watch",
+   "iso": "2026-08-26T23:47:37+00:00",
+   "kind": "agenda",
+   "id": "3f90b67a1034",
+   "filed_at": "2026-08-26T23:47:37+00:00",
+   "accuracy": "thin — needs human background",
+   "findings": "Proposed 800+ acre hyperscale AI data center site, per Stop Solon Township Data Center site | Consumers Energy stated in July 28, 2026 earnings meeting that a 1GW data center developer remains in local zoning processes, per activist posts | Planning Commission meeting scheduled for Wednesday, August 26, with no agenda released publicly as of the posts | No named applicant or formal project application in public records | 82% of local poll respondents said they would support recall of officials over data center handling, per Stop Solon Township Data Center survey",
+   "perspective": "The commission has repeatedly delayed action on data center zoning while activists organize public comment. Wednesday's meeting allows public comment on ordinance changes; further readings or votes could follow at the township board level. The outcome would shape land-use rules for large power users in an area already seeing similar proposals across West Michigan townships.",
+   "documents": [
+    {
+     "label": "Agenda page",
+     "url": "https://stopsolontownshipdatacenter.com/"
+    }
+   ],
+   "depth_score": 4,
+   "extraction_method": "plain"
+  },
   {
    "iso": "2026-08-26T12:00:00+00:00",
    "region": "statewide",
@@ -19,34 +44,6 @@
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6,
    "judge_note": "Document-based earnings/regulatory filing with concrete timeline (2028) and multi-gigawatt pipeline details from major Michigan utility."
-  },
-  {
-   "title": "Solon Township residents demand stricter rules for 800-acre 1GW data center",
-   "dek": "Opponents cite water-source loopholes and poll 82% support for recalling officials if the zoning ordinance fails to protect land and resources. The Planning Commission meets August 26 with no public agenda or project application yet.",
-   "url": "https://stopsolontownshipdatacenter.com/",
-   "source": "Solon Township Planning Commission agenda",
-   "region": "West Michigan",
-   "county": "Kent",
-   "cat": "Meetings",
-   "tag": "Agenda watch",
-   "iso": "2026-08-26T10:18:53+00:00",
-   "kind": "agenda",
-   "id": "3f90b67a1034",
-   "filed_at": "2026-08-26T10:18:53+00:00",
-   "accuracy": "checked-rewritten",
-   "findings": "Proposed 800-plus-acre hyperscale AI data center per stopsolontownshipdatacenter.com | Consumers Energy reported in Q2 earnings meeting on July 28, 2026 that a 1 GW data center developer is still working through local zoning processes per opposition site posts | Draft zoning ordinance includes Special Land Use section allowing alternative water sources if \"low impact\" shown, per group calls to close loopholes | No agenda or draft 6 of ordinance released publicly ahead of Aug. 26 meeting per stopsolontownshipdatacenter.com posts | Next Planning Commission meeting is Wednesday, August 26 per opposition site",
-   "perspective": "The commission has repeatedly delayed action on the ordinance amid opposition. Wednesday's meeting allows public comment on strengthening the rules, with the ordinance potentially advancing to the township board for adoption or referendum. The outcome ties directly to power demand, farmland conversion, and tax-base questions in West Michigan.",
-   "documents": [
-    {
-     "label": "Agenda page",
-     "url": "https://stopsolontownshipdatacenter.com/"
-    }
-   ],
-   "depth_score": 4,
-   "extraction_method": "plain",
-   "headline_rewritten": true,
-   "judge_score": 6,
-   "judge_note": "Document-based agenda preview for a specific August 26 Planning Commission meeting in Solon Township, a new community not previously covered, with concrete deta"
   },
   {
    "iso": "2026-08-26T12:00:00+00:00",
