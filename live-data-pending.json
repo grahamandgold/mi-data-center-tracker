@@ -1,7 +1,26 @@
 {
- "updated_at": "2026-08-26T07:02:55+00:00",
+ "updated_at": "2026-08-26T07:54:27+00:00",
  "generator": "grok-wire-agent",
  "items": [
+  {
+   "iso": "2026-08-24T07:04:00+00:00",
+   "region": "metro",
+   "cat": "Washtenaw Co.",
+   "tag": "Money",
+   "title": "Saline golf course sold as $16B data center rises next door",
+   "dek": "Developer buys Rustic Glen Golf Club in Saline while promising to keep it open, even as residents voice ongoing concerns over the adjacent Oracle-backed project and its tax break.",
+   "source": "Saline Patch",
+   "url": "https://patch.com/michigan/saline/patch-am-what-16b-data-center-means-saline-s-rustic-glen-course-nodx-20260824",
+   "breaking": false,
+   "lead": false,
+   "id": "7d9b19409a83",
+   "kind": "story",
+   "filed_at": "2026-08-26T07:54:17+00:00",
+   "accuracy": "checked-rewritten",
+   "headline_rewritten": true,
+   "judge_score": 7,
+   "judge_note": "Concrete new development: a specific property transaction (golf course sale) tied to the Oracle data center project, with developer commitment on record."
+  },
   {
    "iso": "2026-08-26T12:00:00+00:00",
    "region": "statewide",
@@ -93,5 +112,5 @@
    "judge_note": "Concrete legislative development: Jeremy Moss added as co-sponsor to utility rate bill targeting data centers, a new action on a relevant bill."
   }
  ],
- "accuracy_checked_at": "2026-08-26T07:02:55+00:00"
+ "accuracy_checked_at": "2026-08-26T07:54:22+00:00"
 }

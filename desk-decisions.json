@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.linkedin.com/pulse/weekly-data-center-industry-news-first-weeks-august-2026-kim-snxdc",
-   "title": "Texas Vetting Puts 20% of US Data Center Pipeline at Risk of Delay",
-   "at": "2026-08-18T08:48:32+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece about Texas grid reviews with no Michigan-specific angle, development, or impact."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOGRNQzI5OFFCS1FnRVdxc0M5Y0JpalRidGE4RUNJdml6bE9tRXoyUUxIRkszb0hHeVc3VGJZOXVyQUtKSlYtdkdiVmpDX0Y1clZZN3FBMDhVMmZJbVc3YTIyakItY01TWHowVmtYYnYybUlUdkQ1MFZINkRjdEM4akxibzJvYWhJMkl6TkVvbHRqRkJMbHhxNHVrT1hhc213YmNKbmpDZ1Y3NlJqakJhdzVxTXBhVDNFQjdkaXNmM2FyY2wtTVI0elBvb0xydkVXME53NE9KYw?oc=5",
    "title": "Why Michigan towns are suddenly in the crosshairs for data center developers",
    "at": "2026-08-18T09:42:05+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-26T05:08:22+00:00",
    "by": "news_judge",
    "note": "score 4/10: Thin story about an official attending protests and calling for a pause—lacks concrete action, filing, or vote."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQnFVTDRCNW9RQXRUTmZfZE1IaVkwUjRRbmphU3dBZjB1Uk9aU2FZOVhBd1ZndW52Zkp6TDZrR3pfYWZ2V3FfcG1EMG9icm5ObjctUkNXOG1ELTFualctSVlaTTBsdkc5X3labUExTnV3SXNqcDBjcU5rZ1hMSmJBeWptakdlaXp5UGY4?oc=5",
+   "title": "Barrett flips script on data centers, rivals blast past votes",
+   "at": "2026-08-26T07:54:27+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Political positioning story about Barrett's shift that adds little beyond what's already covered in the killed 'Rogers Shift' and 'State senator hears complaint"
   }
  ],
  "auto_published": [
