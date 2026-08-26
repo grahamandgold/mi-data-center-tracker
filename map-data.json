@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-23T11:17:10+00:00",
+ "updated_at": "2026-08-26T11:24:56+00:00",
  "map_points": [
   {
    "name": "Saline Township campus (Stargate)",
@@ -1376,6 +1376,38 @@
    "verified_date": "2026-08-18",
    "confidence": "Confirmed",
    "note": "180-day pause on major electric utility facilities (substations, transmission lines) approved Aug 18 to study data center impacts; approximate township centroid."
+  },
+  {
+   "name": "City of Kalamazoo moratorium",
+   "municipality": "City of Kalamazoo",
+   "county": "Kalamazoo",
+   "status": "Moratorium",
+   "layer": "moratoria",
+   "developer": "",
+   "power_mw": "",
+   "latitude": 42.2917,
+   "longitude": -85.5872,
+   "source_url": "https://www.themidwesterner.news/2026/08/city-of-kalamazoo-unanimously-passes-yearlong-moratorium-on-data-centers-battery-facilities/",
+   "source_name": "The Midwesterner",
+   "verified_date": "2026-08-18",
+   "confidence": "Confirmed",
+   "note": "One-year moratorium on data centers, battery storage, and crypto mining approved Aug 18 by city commission."
+  },
+  {
+   "name": "Genoa Township moratorium",
+   "municipality": "Genoa Township",
+   "county": "Livingston",
+   "status": "Moratorium",
+   "layer": "moratoria",
+   "developer": "",
+   "power_mw": "",
+   "latitude": 42.55,
+   "longitude": -83.85,
+   "source_url": "https://michiganadvance.com/2026/08/24/michigan-data-centers-the-weekly-download-4/",
+   "source_name": "Michigan Advance",
+   "verified_date": "2026-08-24",
+   "confidence": "Confirmed",
+   "note": "Six-month extension of moratorium on data centers and crypto mining approved Aug 18 to finalize zoning and noise rules."
   }
  ],
  "map_meta": {
