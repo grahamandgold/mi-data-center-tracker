@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTmpsTUtITGpUcmw0eG44YWx0elpVeWsxeVdpZ19XWUM1eWZCWmtVMUlaUS1Vak8wNmJqNHVfVmdLSndRN0hKSzRTNi0ydzFNbXpDZUhxX3VnelFQdkxNTWFVUWtaQ1JuV0UyN2dzQjZPYi1JSkU2bFlHa0RQNzY4c1lYaElrX2NqcTlMaHBqQkNJV1VVLUtVSUtyTFl4Nl9IRVZCZU5FSkUtWXJXektQdFpxQzBCTTdPRnZNNUx3T3VrbXdOYV9IWFE0eFVRXzI2RXFCM25ROFN0OGtqbXhyRDlFQTBmY2h5Q2pocE5Mbw?oc=5",
-   "title": "Kalamazoo halts all new data centers and battery plants for a year",
-   "at": "2026-08-18T04:44:36+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Reports the same Kalamazoo moratorium approval already live in the queue."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbUd3RWt1RElBYXA2QlU0WXNBVTg5Nnc4VnRtaUdDQnMxemM0bWVxNkhHOGNmeXI2N0pjT3RqSFdoN0ZfWHpmSWZVdkY2WS0zejFCTE9FMHlfMVNXamY0NkY4NVpKeDFLZUZBemplamI2a2Zlem1NcHF6QW1TVmY5dDVVeC1qZTY2NTJrWUZfai14dTlLUk9LU1M3MEs5MUItWjJoYktad3Qta3pmUlg2VnJCdUxmZjBSTUdpWW0wNlNMdmN2OVBjTjRaWkszT0I0NmQzWTRfVUpsSExBUWFLYU9MaE1ubUpkZ0lNdUtHdkQySGRaUlJNZGx0T3RTUQ?oc=5",
-   "title": "Kalamazoo blocks new data centers and battery plants for a year",
-   "at": "2026-08-18T06:57:27+00:00",
-   "by": "news_judge",
-   "note": "score 10/10, duplicate: This is the exact same moratorium approval already live in the first ALREADY-LIVE item."
-  },
-  {
    "url": "https://wwmt.com/news/local/kalamazoo-moratorium-data-centers-prevent-pause-ai-city-commission-adopt-resolution-meeting-development-harbor-farmz-michigan-wwmt",
    "title": "Kalamazoo Halts All Data Center, Battery Storage and Crypto Projects for One Year",
    "at": "2026-08-18T07:47:14+00:00",
@@ -1399,15 +1385,23 @@
    "at": "2026-08-25T23:32:54+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Duplicate of already-live 'Raeden sues Michigan, says moratorium illegally killed Gibraltar project' — same lawsuit, same moratorium, same city."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wa1ZUdHdDRlE2TDQ1R3BUQnFxTWpaaVNhVTdndFYwTWJFWUNWTzdlNVpGYVFMeC1hTkhrVThmNjJCT3RNTmpvTWpnYk5Ka0tUNXFaOFhUNjF6cG8?oc=5",
+   "title": "Southeast Michigan sees flood of data-center plans as pushback rises",
+   "at": "2026-08-26T01:51:12+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Regional trend summary without a specific new decision, filing, or vote—too vague on what actually happened when."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVDNoazc5RnljR0w1YnlsdE1ydU1tTVZOeXJuWGd0UDMyRWl2SVFkRklxQXAyM2VUWTgyeXpPckl3SVVNX3ZBUGM4bE9KNGtTLTYtbzY1dmx5NER1M0ZleFBaTVRBMDNHNldOcFVVWXFKSElTNkNkQ0h2c1FSNjcxbDF4anR1NmV0Y1EzUUZTWVpsNnNTN2FDTENQUDAxT2F4YkVValN1ZVUtcFhaYW96ZGxBMVBtOHpG?oc=5",
+   "title": "Kent County residents fight power-hungry server farms over electric bills, water supply",
+   "at": "2026-08-26T01:51:12+00:00",
+   "by": "news_judge",
+   "note": "score 5/10: Reports resident opposition in Kent County but lacks a concrete action, filing, or official decision to anchor the story."
   }
  ],
  "auto_published": [
-  {
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMVEtMEpVbWNLaC1NWXZ2bTh2TnZ5VUx3QmdWM1QwakhMcnFQTkw4TFJfQ3JCd0lBNVZnRk5LZDhocEh3Mm56WWg5ejZ3RzB2eEtjMWd3N3FfajQ0NVdzQWpKM3NWeTI1bXFObGNtV1FDUzI2Q19UMnVjUVZHbEpEcTk0RXBfZlplZmJRS0NDeWJYbThxMzQyc3BNTU5PQ2dTeUhsRVBOUF91WVRvV2hRQXZ2YVEyaVM0ajc1cUFtaDNJSDlSbDVBOUp5dlo0SDhJYVM2TVdGbTZoTTQ?oc=5",
-   "title": "Michigan town drags data center into federal court over nonstop noise",
-   "judge_score": 8,
-   "at": "2026-07-13T13:33:06Z"
-  },
   {
    "url": "https://michiganadvance.com/?p=108324",
    "title": "Bills target data center power and water use amid recalls and noise fights",
@@ -3201,6 +3195,12 @@
    "title": "Michigan bill would force data centers to disclose water use",
    "judge_score": 7,
    "at": "2026-08-25T18:51:15Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT3ZnXzFXRjJpU1dNclNmeDBKQk9YWF9EZ2wyUzYxMDE0NVJIODBLaTE0X3Y5MC1mbFNNRGo3eF91UDJNaGpsR3ZnOEpVUUJpQ3FXOTQ1VUxXbTI2NHVocUpOeUo0bmp3REFPVHZvMm43SjQwQVlyaXJFTFdrTU4zbWhqRWVIRmV3VGZLY0FUenprZGEtTHEwdHZfSnBBOGpVRGVfWnN6OTZqRTQxTlhzQmdYRlB1VWpiX2lGZVhGMGxYRkxaV1E?oc=5",
+   "title": "Garfield Twp halts data centers for a year to study rules",
+   "judge_score": 9,
+   "at": "2026-08-26T01:51:12Z"
   }
  ]
 }
