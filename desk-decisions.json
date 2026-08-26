@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa3JnR2tYVVkzZWUtY3VQUGpZSTIwY0JUWGJxWW50YTJBYTZnS1B5cU81Y3paRnBOVjdybHJnUW9XUjBqNnNjLUJvSm5GeUllZldMZ1lZSlJIc01JX1NXbWZzZlpGU1ByZ2FpZU5lc0RxVnVaQlpicmg4VHd2am01eFJnWW90UDZlR1hBZF82dlRjcXVwcWVCbVFsTkRGQkJVOTdCYnY1cFRiMkRu?oc=5",
-   "title": "Detroit chamber spells out real costs and payoffs of data centers for Michigan towns",
-   "at": "2026-08-18T09:42:05+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Town hall recap providing general information but no concrete action, vote, or official decision reported."
-  },
-  {
    "url": "https://www.politico.com/news/magazine/2026/08/02/the-new-luddites-01017824",
    "title": "Anger over data centers fuels recall efforts and political shifts nationwide",
    "at": "2026-08-18T10:38:26+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-26T09:51:38+00:00",
    "by": "news_judge",
    "note": "score 4/10: Trend/political-angle piece about bipartisan opposition forming rather than a specific decision, filing, or vote; lacks concrete development beyond observing co"
+  },
+  {
+   "url": "https://bridgemi.com/michigan-environment-watch/residents-and-officials-feeling-powerless-in-michigan-data-center-fights/",
+   "title": "Michigan Officials Report Limited Leverage Against Data Center Projects Amid Recall Efforts",
+   "at": "2026-08-26T10:43:20+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Thin rehash of recall efforts already covered in killed stories, with no new decision or concrete development reported."
   }
  ],
  "auto_published": [

@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-08-26T10:18:53+00:00",
+ "updated_at": "2026-08-26T10:43:20+00:00",
  "generator": "grok-wire-agent",
  "items": [
   {
-   "title": "Solon Township weighs 800-acre hyperscale data center zoning rules",
-   "dek": "Residents 30 minutes away in Kent County face a proposed 800-plus-acre AI campus that could draw 1 GW of power and strain local water and roads. The Planning Commission meets Wednesday to discuss a data-center zoning ordinance still in draft form after multiple delays. No agenda or specific project application details are public yet.",
+   "title": "Solon Township residents demand stricter rules for 800-acre 1GW data center",
+   "dek": "Opponents cite water-source loopholes and poll 82% support for recalling officials if the zoning ordinance fails to protect land and resources. The Planning Commission meets August 26 with no public agenda or project application yet.",
    "url": "https://stopsolontownshipdatacenter.com/",
    "source": "Solon Township Planning Commission agenda",
    "region": "West Michigan",
@@ -15,7 +15,7 @@
    "kind": "agenda",
    "id": "3f90b67a1034",
    "filed_at": "2026-08-26T10:18:53+00:00",
-   "accuracy": "thin — needs human background",
+   "accuracy": "checked-rewritten",
    "findings": "Proposed 800-plus-acre hyperscale AI data center per stopsolontownshipdatacenter.com | Consumers Energy reported in Q2 earnings meeting on July 28, 2026 that a 1 GW data center developer is still working through local zoning processes per opposition site posts | Draft zoning ordinance includes Special Land Use section allowing alternative water sources if \"low impact\" shown, per group calls to close loopholes | No agenda or draft 6 of ordinance released publicly ahead of Aug. 26 meeting per stopsolontownshipdatacenter.com posts | Next Planning Commission meeting is Wednesday, August 26 per opposition site",
    "perspective": "The commission has repeatedly delayed action on the ordinance amid opposition. Wednesday's meeting allows public comment on strengthening the rules, with the ordinance potentially advancing to the township board for adoption or referendum. The outcome ties directly to power demand, farmland conversion, and tax-base questions in West Michigan.",
    "documents": [
@@ -25,7 +25,10 @@
     }
    ],
    "depth_score": 4,
-   "extraction_method": "plain"
+   "extraction_method": "plain",
+   "headline_rewritten": true,
+   "judge_score": 6,
+   "judge_note": "Document-based agenda preview for a specific August 26 Planning Commission meeting in Solon Township, a new community not previously covered, with concrete deta"
   },
   {
    "iso": "2026-08-26T12:00:00+00:00",
@@ -118,5 +121,5 @@
    "judge_note": "Concrete legislative development: Jeremy Moss added as co-sponsor to utility rate bill targeting data centers, a new action on a relevant bill."
   }
  ],
- "accuracy_checked_at": "2026-08-26T09:51:35+00:00"
+ "accuracy_checked_at": "2026-08-26T10:43:17+00:00"
 }
