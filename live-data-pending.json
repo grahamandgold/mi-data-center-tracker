@@ -1,7 +1,25 @@
 {
- "updated_at": "2026-08-26T16:55:20+00:00",
+ "updated_at": "2026-08-26T19:12:41+00:00",
  "generator": "grok-wire-agent",
  "items": [
+  {
+   "iso": "2026-08-26T12:00:00+00:00",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "tag": "Power & Grid",
+   "title": "DTE Ties Rate Stability to Data Center Projects as Large-Load Pipeline Remains Steady",
+   "dek": "The Michigan utility reported steady progress on multi-gigawatt data center agreements and said timely project completion will help avoid new rate filings until at least 2028.",
+   "source": "Utility Dive",
+   "url": "https://www.utilitydive.com/news/dte-rate-stability-data-center-projects-large-load-pipeline/826803/",
+   "breaking": false,
+   "lead": false,
+   "id": "4f4fe32c1ddc",
+   "kind": "national",
+   "filed_at": "2026-08-26T19:12:30+00:00",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6,
+   "judge_note": "Document-based earnings/regulatory filing with concrete timeline (2028) and multi-gigawatt pipeline details from major Michigan utility."
+  },
   {
    "title": "Solon Township residents demand stricter rules for 800-acre 1GW data center",
    "dek": "Opponents cite water-source loopholes and poll 82% support for recalling officials if the zoning ordinance fails to protect land and resources. The Planning Commission meets August 26 with no public agenda or project application yet.",
@@ -121,5 +139,5 @@
    "judge_note": "Concrete legislative development: Jeremy Moss added as co-sponsor to utility rate bill targeting data centers, a new action on a relevant bill."
   }
  ],
- "accuracy_checked_at": "2026-08-26T16:55:20+00:00"
+ "accuracy_checked_at": "2026-08-26T19:12:35+00:00"
 }

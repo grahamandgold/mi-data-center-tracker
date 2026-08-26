@@ -1,27 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTVhrUFpqeDJTQ1ZkeGdhRXc1R3lqdllVenNzeDRDUmVFN1dQSVo2RFhmV0ZSX08tVF9mZkNPTnNQS2E5M3pNRzN1eUJrMkRzTGFMV2NScVltUnZsVUdFUm9xcTJrVmNLaEFMYlVtUlJGclFCNHg5d3o2U0pNcFY2LTRGaGt4UzJkRTd3VWV1MjA4T1JHQ2fSAaoBQVVfeXFMTXZIZ05CZFpNMGFDbkQtOWNMbFhlcTVyMjR1SldxUkVTSlZUcGNTeDBoTmxoMGtxM3dxQXdCdi1zOVpfV1JkdE42YUhBRHZ3cFRSTC1qM0lIcUhmYzViQlBla25HTDhFb3BkTm5Ua0ZaUHYzN1hUeHRabHAxcWlnZEczczdlX3FENEpMZmQ0dllwRXI3czZtakV4TGk3cGZZSFBZZTY2Zkh1dXc?oc=5",
-   "title": "Mason council OKs outreach plan before any data center arrives",
-   "at": "2026-08-18T11:33:42+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicates the already-live story 'Mason City Council Approves Outreach Plan for Potential Data Center Projects' — same council action, same outreach plan."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BZ0N5RnhNWU1IcGJCTFlfcExMZ1JYWW8tNmJMdGExWjk1a2dWTjFzU1RQOWFtNVFpZnVMSno5Yk5aQjEyU0RUY2ptNENJcktmRW5J?oc=5",
-   "title": "Kalamazoo enacts yearlong freeze on new data centers and battery plants",
-   "at": "2026-08-18T11:33:42+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicates the already-live story 'Kalamazoo blocks new data centers and battery plants for a full year' — same moratorium approval, just reworded."
-  },
-  {
-   "url": "https://www.levernews.com/the-senate-candidate-with-an-ai-investment-problem/",
-   "title": "Senate Candidate Mike Rogers Holds Investments Tied to Data Center Development",
-   "at": "2026-08-18T11:55:35+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Conflict-of-interest angle on a candidate's investments is tangential to actual data center development decisions in Michigan; more political speculation than c"
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcmNmUjVqenIzZ2JVS1FTcGNDTWhKQzZnYlVFbW1jSDZ3LVZzY1g3WE9QWnFYb1E3akVVX1ZuYXR5U003ZXFYNWdYN1RjakNXUkNfZlVLZDVrZTJ2MmRuTlRzR25IbGNlV0Rta1RvcEhaMXhpWmpER2NfdllsTEk5WGlqa2NnNzMzYXpJSEh1VkZkQmVFTlo5bURjVl9Yd9IBngFBVV95cUxPcmNmUjVqenIzZ2JVS1FTcGNDTWhKQzZnYlVFbW1jSDZ3LVZzY1g3WE9QWnFYb1E3akVVX1ZuYXR5U003ZXFYNWdYN1RjakNXUkNfZlVLZDVrZTJ2MmRuTlRzR25IbGNlV0Rta1RvcEhaMXhpWmpER2NfdllsTEk5WGlqa2NnNzMzYXpJSEh1VkZkQmVFTlo5bURjVl9Ydw?oc=5",
    "title": "Kalamazoo commission locks in one-year data center freeze",
    "at": "2026-08-18T11:55:35+00:00",
@@ -1399,6 +1378,27 @@
    "at": "2026-08-26T16:03:03+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: This is the same Garfield Township one-year moratorium already covered in multiple LIVE and KILLED stories."
+  },
+  {
+   "url": "https://www.metrotimes.com/news/garfield-township-puts-a-1-year-ban-on-data-centers-cryptocurrency-mining/",
+   "title": "Garfield Township Enacts Yearlong Moratorium on Data Centers and Crypto Mining",
+   "at": "2026-08-26T19:12:41+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicate of already-live Garfield Twp moratorium story, same Tuesday vote and one-year halt."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPS0piSzd0cHV2enFKNmV6V1hzNDFfdm11N1ExeTRoYTd2RHc5ajEyY200eDRySzZOOWtLU0Y2a2ZQX1NpUzJJakhIWWdnWEgwdmtMUlQ0Q2s1YklRRTY2bTJfVUNfZWUxMTBaLVBmM1p4clFXQ05KdVJ5UDdVdklLeDZaRzREVFk3ZUt1bXdRTzVINFZHSXd2Q2dzQXR2eUE4NjQxa05HQXRVYlpOb2Y0UVpsWVB3eFpxQlMzU1gwcjFlSm5mT01QeXZTYlV3YjhMa1dB?oc=5",
+   "title": "Michigan board freezes power-hungry server farms for year over grid and water worries",
+   "at": "2026-08-26T19:12:41+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Another version of the Garfield Township moratorium already live; same 12-month freeze and study rationale."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPem9mWFRuZklSRlRsSVMxUUlKQTVhUVFWazhqQTZNQXFING5pY2w5R25hZ0gwbDVqUktpaTNRcHFKUDJRajV5dF9oRHUxczRCS1hqVWZMTERXN3l2cE1XMHAxLVVIdXVYMG02RWJWU1ptb1BiUnJWLUdaTEtuLUJaLTNMS2hTQUdVRzRsR3dwU0p3elVZenlrc2ZTZXhic3dRX2xFSXNrOTNBZXZ5UUc0NUxOYTNQaW9oYWZNY1VULTBQQWZ5REg0TVVEWFBvQ1dKREdNU054VWRabHN60gHwAUFVX3lxTE51cHpGdVU0cG9DbkgxWWEwSjBBRWdEYVFkTzdERzk5V1BoMzFDOVltNmxYWUhXemdEd0d0OHNXX3d5Rk15cVBIb1c4ZEQzMk95aFI3S3c5Rmt0X24tM1c4dDZ2TEFkV0J1ejJaUW04R3B1Vjd0Ynp6bDBrcWtvR2kySnFMSVFuQ1JEd3BEbktjMTB6Tzh1cWgwZl9nMVI1RDJSS3VhbGZQQ3BzckItTUp3Q0hpalpzVE5ZYU4zQjJjSnVROHVlQzR3VVQ1Tl93ZlREb2prdXlXWU1WS2wtUkFpdmF6Vndtc3RlTFRzbFZURg?oc=5",
+   "title": "Ann Arbor-area voters launch recall of 7 officials over data center rezoning",
+   "at": "2026-08-26T19:12:41+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Recall effort is thin without signature counts, filing confirmation, or election date; speculative citizen action rather than official decision."
   }
  ],
  "auto_published": [
