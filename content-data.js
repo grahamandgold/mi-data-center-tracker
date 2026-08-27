@@ -247,8 +247,8 @@ window.MDCT_STATS = {
   "projects": 20,
   "activeProjects": 14,
   "disclosedGW": "3.0",
-  "pauses": 37,
-  "communities": 77,
+  "pauses": 39,
+  "communities": 79,
   "statusBreakdown": [
     {
       "label": "Under construction",
@@ -275,12 +275,12 @@ window.MDCT_STATS = {
     {
       "label": "SE Michigan",
       "projects": 12,
-      "pauses": 23
+      "pauses": 24
     },
     {
       "label": "West Michigan",
       "projects": 5,
-      "pauses": 4
+      "pauses": 5
     },
     {
       "label": "Mid-Michigan",
