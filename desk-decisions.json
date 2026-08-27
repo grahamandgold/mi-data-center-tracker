@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.datacenterdynamics.com/en/news/cherokee-nation-in-the-us-bans-data-center-development/",
-   "title": "Cherokee Nation Bars Hyperscale Data Centers on Reservation Lands",
-   "at": "2026-08-18T14:42:28+00:00",
-   "by": "news_judge",
-   "note": "score 2/10: National story about Oklahoma tribal land with no Michigan angle or relevance to Michigan's data center buildout."
-  },
-  {
    "url": "https://example.com",
    "title": "No major non-Michigan data center developments reported in last 24 hours",
    "at": "2026-08-18T15:40:09+00:00",
@@ -1399,27 +1392,16 @@
    "at": "2026-08-27T14:34:18+00:00",
    "by": "news_judge",
    "note": "score 1/10, duplicate: Garfield Township's yearlong ban is already live in multiple killed stories and the live story about Garfield's one-year halt."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUXVFU192ajRMcU5lZldzQV9kSzdRX0VqN2ZMcEkzMUg4MWtyM1NBdDh1WUZWVmYwZmpmRUZUaWpyUUlQRl8yU0FnTFZ4clppLWN0dkFXRGViMmpXUEpXY1d4ck1uQ0xzQnVOZHNqWUNQaDRCM0l4Y3p5M1ljamVXNEZiYW5lUFBOamQ2N0tuWURJMDViamN4ODVHNGVaVHhib19RcFkxUEhXcE9FT1hBMmNGenNpRU5YZ244cUt5WExhUjlFQ1V2VHlONHlYbkM1WF9QTG5Naw?oc=5",
+   "title": "Garfield Township bans new data centers for a year over water and power",
+   "at": "2026-08-27T23:57:08+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicate of already-live 'Garfield Twp halts data centers for a year to study rules' and multiple killed Garfield moratorium stories."
   }
  ],
  "auto_published": [
-  {
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOY2VjcEQteVJwZWxzRGVVNjRHZXc5NlRnanNjWXBCakd3Q093NDVmbXRyQTcySndZeThJRkcxWEdnb2R6b1d0ZUIwZU1HV2FTTGxZQjFvNHpjQWI4a1JSRWdCTjhrbk5IM1FJNHIxNEJaaTVlaFNMczEyWTczY05NWWJBYnV3aGZjcnlaMDMwTUN6NllPcGc3ZnlWZDg0S05GSzh5dHFyb0lnWF9YR2l1SDh5RjBGTmJiVXlTTTJ4SF9TbkZualZ5QQ?oc=5",
-   "title": "Lowell Township residents face first data-center vote tonight",
-   "judge_score": 8,
-   "at": "2026-07-13T22:32:05Z"
-  },
-  {
-   "url": "https://bridgemi.com/business-watch/as-data-centers-grow-in-michigan-officials-ask-how-many-tax-breaks-are-enough/",
-   "title": "Saline Township to Decide on $147 Million Annual Tax Break for Oracle-OpenAI Data Center",
-   "judge_score": 8,
-   "at": "2026-07-14T00:56:51Z"
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNT0g2eU1EV241b3hkUzlfQ2l3R3czMFJsU1VsbkZzMzFHV0k0NjhfVTNHcThBY21qVDlKbzdIWnZraVBnOHdvOWlJUTBmck4tZjFYTlo0YXh4ZWxvZUJqVkxCMGpsc1M5TkVzLUJFbGRjcUtjaFJ0YUxadWpzVkhQRGFuVE96Z0RaTFNWVExrS1F0QnhWVTVxd3hHNldvX2hVUnZROEdRdU1Ba3lIbEd5Uy1DMGU2cEl6WDZldVF5S1B1NkphQ1FvTXBKUGlxaEFJdXhIQ25FckxjWDJ6R3Jsc0dtNUpjcHZ4?oc=5",
-   "title": "Haring Township crowd backs outright ban on data centers",
-   "judge_score": 7,
-   "at": "2026-07-14T04:11:31Z"
-  },
   {
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS2RBRHM5bVB0b19aN2paWmpiYTgtVXNIdTlDUU1VcXRHOFpHVEhlTlBDckgxV3dFbzZsaVpVWHlKSktabEd3cThQV2NIMnNHTVQ5RDY0QUJPVnRFallFczgyOW1WT2h4TUVQVHNtRy04TU1xM1U4dkhreDBaVEFuTWJLSE1ZSzZvREhj?oc=5",
    "title": "Lansing council votes six-month freeze on data centers",
@@ -3201,6 +3183,24 @@
    "title": "Solon Township extends data center freeze another six months",
    "judge_score": 8,
    "at": "2026-08-27T14:34:18Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYndnNWZtZllHWnBTQVl1emFTcnVEd0ExbDdFcHhPOUlfbjBuQmxZUG1CWHZ4MmFxbmhzMG93eFhLOFU3bUdGWVF1VmJUdEktUzNfZEhFVWxUUFdZcmpmTmMzVHpjUl9GREFJVkpXUmxERDhmU3hGUGJpSEJNV283NDVZWVQzZHlVR3BUMm5hRzZud0N4aThnNENMNFZnMllqd2w2cVpjWmRqbUtBV1FzNUs1dmx2N2l4X3YwZXI3cFpQTEJyc0g2ZnpyWUdzUEhXd0VGNFE4Yw?oc=5",
+   "title": "Wixom sued by data center firm after city blocks project",
+   "judge_score": 8,
+   "at": "2026-08-27T23:57:08Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUGd4b01CbEdDNGo4LWlwN2N4S1lwVTRrcjZ3Qzktc2VCaWVSRFJGZldWZzNocWJFNzZnOGM4bkQ0dGVJYlhZb1VXSHQwWVM5LTJOZUpHejhycUpNNFpLVlcxdmJuV2lrRF9Cb1pYZWtEU2RzbmRyMVp6VWhGUmRzVUZ5WHJ1emlnOGEyRkNsSXkyMDRqM3ZJMk5iNmRGZW11Z2ZOVUEtdnFDREVHeWduS3pJWjN4OFFZMVE?oc=5",
+   "title": "Two more Metro Detroit towns rewrite rules to curb data centers",
+   "judge_score": 6,
+   "at": "2026-08-27T23:57:08Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DcFFqcXU1MG5VSnZFVjdkWTZwQ1M0R042OGlLWWs3czgzRk53ZE5PZ0NjMFUtWERhendzMWEzUEM5NmRZelFHZ19WbWUxaHlPWWluVF9fRF8tMGpkTmVPa3NaU3BHTTQtbm5mbWdRWWs4UVpO?oc=5",
+   "title": "DTE seeks two new gas plants to feed data center power hunger",
+   "judge_score": 9,
+   "at": "2026-08-27T23:57:08Z"
   }
  ]
 }
