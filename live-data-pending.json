@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-08-26T23:47:37+00:00",
+ "updated_at": "2026-08-27T03:31:51Z",
  "generator": "grok-wire-agent",
  "items": [
   {
-   "title": "Solon Township debates zoning for 800-acre AI data center",
-   "dek": "Solon Township Planning Commission meets Wednesday to discuss rules for a proposed hyperscale AI data center on more than 800 acres. Residents 30 minutes away could see effects on power demand, water use and local tax base if the project advances. The commission has no public packet or named applicant yet, but activists are pushing for stricter limits on water sources and noise.",
+   "title": "Solon Township residents push to tighten rules on proposed 800-acre data center",
+   "dek": "Activists urge Solon Township to close loopholes allowing alternative water sources for an 800-acre hyperscale project, citing noise and health risks, as Consumers Energy says a 1GW data center is advancing through zoning.",
    "url": "https://stopsolontownshipdatacenter.com/",
    "source": "Solon Township Planning Commission agenda",
    "region": "West Michigan",
@@ -15,7 +15,7 @@
    "kind": "agenda",
    "id": "3f90b67a1034",
    "filed_at": "2026-08-26T23:47:37+00:00",
-   "accuracy": "thin — needs human background",
+   "accuracy": "checked-rewritten",
    "findings": "Proposed 800+ acre hyperscale AI data center site, per Stop Solon Township Data Center site | Consumers Energy stated in July 28, 2026 earnings meeting that a 1GW data center developer remains in local zoning processes, per activist posts | Planning Commission meeting scheduled for Wednesday, August 26, with no agenda released publicly as of the posts | No named applicant or formal project application in public records | 82% of local poll respondents said they would support recall of officials over data center handling, per Stop Solon Township Data Center survey",
    "perspective": "The commission has repeatedly delayed action on data center zoning while activists organize public comment. Wednesday's meeting allows public comment on ordinance changes; further readings or votes could follow at the township board level. The outcome would shape land-use rules for large power users in an area already seeing similar proposals across West Michigan townships.",
    "documents": [
@@ -25,7 +25,10 @@
     }
    ],
    "depth_score": 4,
-   "extraction_method": "plain"
+   "extraction_method": "plain",
+   "headline_rewritten": true,
+   "judge_score": 6,
+   "judge_note": "Document-based agenda preview of resident pressure on a specific 800-acre project with utility confirmation of scale, incremental but real."
   },
   {
    "iso": "2026-08-26T12:00:00+00:00",
@@ -136,5 +139,5 @@
    "judge_note": "Concrete legislative development: Jeremy Moss added as co-sponsor to utility rate bill targeting data centers, a new action on a relevant bill."
   }
  ],
- "accuracy_checked_at": "2026-08-26T22:26:59+00:00"
+ "accuracy_checked_at": "2026-08-27T03:31:45+00:00"
 }

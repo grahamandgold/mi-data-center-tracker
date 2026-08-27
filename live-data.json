@@ -1,7 +1,41 @@
 {
- "updated_at": "2026-08-26T22:26:59+00:00",
+ "updated_at": "2026-08-27T03:31:51Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "West Michigan town extends data center ban another 6 months",
+   "dek": "A West Michigan community has pushed its moratorium on new data centers out to at least early 2027. Residents gain more time to examine power demand, noise, and water use before any large projects can move forward. The extension keeps local officials from approving facilities that could strain the grid and raise utility bills for nearby homes.",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYzlVRDBES2M1VTVhYTFRbFdrU1JkNko4STBuSGpIejhuS1hpSk1QUG94aldxYlp6eXh6T3JwUmo3dGJYWndBXzJUVmRqZXVCcVJodDZHcThsRDRkUnFxVjYtVHJuQ1FUNWhPVGdMT0ZYZWcwZE1yN2diSnZ0S3MxNExnTU13WVZDWllkRk1QeklwSEpQZDB1QzlmaTQ2ekJQSmRSNXdrYlNlWEdvTlJJTm94cFAyMnM?oc=5",
+   "source": "NewsBreak: Local News & Alerts",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Local Government",
+   "iso": "2026-08-27T02:22:16Z",
+   "id": "36bd5dc20433",
+   "origin": "google-news",
+   "source_title": "West Michigan town adds 6 more months on data center moratorium - NewsBreak: Local News & Alerts",
+   "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYzlVRDBES2M1VTVhYTFRbFdrU1JkNko4STBuSGpIejhuS1hpSk1QUG94aldxYlp6eXh6T3JwUmo3dGJYWndBXzJUVmRqZXVCcVJodDZHcThsRDRkUnFxVjYtVHJuQ1FUNWhPVGdMT0ZYZWcwZE1yN2diSnZ0S3MxNExnTU13WVZDWllkRk1QeklwSEpQZDB1QzlmaTQ2ekJQSmRSNXdrYlNlWEdvTlJJTm94cFAyMnM?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
+  {
+   "title": "Homeowners to get decibel readings that could halt server farm near residences",
+   "dek": "Officials in Gaines Township will measure sound levels at a proposed data center location to see how much residents would hear. The study could block or reshape the project if cooling fans and generators exceed local limits. Homeowners within a few miles now have concrete data to judge whether the facility will disturb daily life.",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRGZMTUZPNF96NzJucEw2akRNRERBalJPT3EtanVuZkxkR2FPZ0cyUjJoLWF5NHNrYmZieVdmUmFFdHZoWE54ZzRINE1Dc3JFWmFWTi1lY0xfc0tqNVJKaGpKbjBVQ0ZxSzFYd25HVU9Fekkwbm4tR3Q2VjRIS1FWcHB2Q1Z2ZnF2ZWFFMm1PVVlwLWV1?oc=5",
+   "source": "Yahoo",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Kent",
+   "tag": "Local Government",
+   "iso": "2026-08-26T21:51:43Z",
+   "id": "6d2283ce385d",
+   "origin": "google-news",
+   "source_title": "Gaines Township to research noise at proposed data center site - Yahoo",
+   "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRGZMTUZPNF96NzJucEw2akRNRERBalJPT3EtanVuZkxkR2FPZ0cyUjJoLWF5NHNrYmZieVdmUmFFdHZoWE54ZzRINE1Dc3JFWmFWTi1lY0xfc0tqNVJKaGpKbjBVQ0ZxSzFYd25HVU9Fekkwbm4tR3Q2VjRIS1FWcHB2Q1Z2ZnF2ZWFFMm1PVVlwLWV1?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Michigan supervisors back bills to curb data center power costs",
    "dek": "Township leaders across northern Michigan endorsed new state rules that would force data centers to pay more toward grid upgrades. Residents could see lower electric bills if the bills pass, but only if local governments keep leverage over big projects. The move signals growing pushback against unlimited data center growth in the state.",
@@ -152,40 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10ejRuTzM3dnZJak5HbDJOUGpuZHJKbmhBV2ctc1BReVVjNnBnRkl5NXFOWC0tM250aHUxWEY2Y1k0MWE2bXNWdXFHM0JzMFc0N3hVLUFQRUlVNDgxX1FEV0hwUDQ2WWd0QUhNTUxfN1ZRZnU2YkZTV1U2dXB3MU0?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
-  },
-  {
-   "title": "Wixom may lift data-center freeze months early",
-   "dek": "Wixom leaders are weighing whether to end the town's data-center moratorium ahead of schedule. Residents could soon face decisions on large power-hungry projects that affect local electric rates and land use. The move would reopen the door for proposals that have already sparked pushback in Oakland County suburbs.",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS3ByQ1BoLVRHc2o2WjdWSUNsTTBvUC1KM1dLZXBhdUsxYUZ1ai0xb19NTEJCdVRkR1NTRlhuclFUeE1fTDBxMGw1aTFiRU50RXRka1ZNR1hHLXN1SDBidnFELXFHOHQtdmtiYlM0UHpMajVuUHI4b1ZJcHkzVjFVVDJNUzZ6SzF2bUtpTUJPZ2ZRWHNibDlpQnV2Q1ZpSEJBT3lrM2t3cndHeERvdUR1RNIBxAFBVV95cUxPUUdXQ3hMbFZCSXhveEZVM2JHQ2JRWnl1bWxzeV9MX1pRWEtaU1VkNVVESWp0M0JVRmo1bVl6Y1k1NnVrUFFMOHhaSm5EN0JidXktdE9KbGZNeFZyazd1dlNPMkhEbHhDcjB6bFptNTBCcmFpcVhLbk41a1ZYY3UtejBmQnpWREZJME5NREU3eUw2ZkxjUGttRVZheHVyWGh2Y2l5QUF4cXIyR2FBYUswVnQtQndkSGNqVVBfS3N0ZkE3cDRu?oc=5",
-   "source": "MLive.com",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Oakland",
-   "tag": "Local Government",
-   "iso": "2026-08-24T22:02:00Z",
-   "id": "a5110e283459",
-   "origin": "google-news",
-   "source_title": "Wixom council considers early ending for data-center moratorium - MLive.com",
-   "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS3ByQ1BoLVRHc2o2WjdWSUNsTTBvUC1KM1dLZXBhdUsxYUZ1ai0xb19NTEJCdVRkR1NTRlhuclFUeE1fTDBxMGw1aTFiRU50RXRka1ZNR1hHLXN1SDBidnFELXFHOHQtdmtiYlM0UHpMajVuUHI4b1ZJcHkzVjFVVDJNUzZ6SzF2bUtpTUJPZ2ZRWHNibDlpQnV2Q1ZpSEJBT3lrM2t3cndHeERvdUR1RNIBxAFBVV95cUxPUUdXQ3hMbFZCSXhveEZVM2JHQ2JRWnl1bWxzeV9MX1pRWEtaU1VkNVVESWp0M0JVRmo1bVl6Y1k1NnVrUFFMOHhaSm5EN0JidXktdE9KbGZNeFZyazd1dlNPMkhEbHhDcjB6bFptNTBCcmFpcVhLbk41a1ZYY3UtejBmQnpWREZJME5NREU3eUw2ZkxjUGttRVZheHVyWGh2Y2l5QUF4cXIyR2FBYUswVnQtQndkSGNqVVBfS3N0ZkE3cDRu?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
-  },
-  {
-   "title": "New Buffalo blocks storage yard tied to data center project",
-   "dek": "The township board rejected the permit for a storage facility directly supporting a data center. Residents in Berrien County now face fewer construction impacts and truck traffic near their homes. The decision shows local pushback against supporting infrastructure for these facilities.",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUnhrLUVYeGt4OGtzbERVanB0cDdLTkJpSF8yN0Y5cmpLWGxYek9PV3NuLS01X1o2X2VrSWlyQnYyVnBFSGJvWU4tdFh2elQybktOeUdBSlNjbEVHdHNnSHBXSlhUQmlNaDVDT3hnMnNqZjc3aDB2VHA4N2M3T18zTzYxWW5nNlV5akstY0lmNVVyOS1VV01SVXEyYkpWcVR2LVJoeEZZMzA?oc=5",
-   "source": "WNDU",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Berrien",
-   "tag": "Local Government",
-   "iso": "2026-08-24T21:02:00Z",
-   "id": "8050443da859",
-   "origin": "google-news",
-   "source_title": "New Buffalo Township board denies permit for storage yard linked to data center - WNDU",
-   "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUnhrLUVYeGt4OGtzbERVanB0cDdLTkJpSF8yN0Y5cmpLWGxYek9PV3NuLS01X1o2X2VrSWlyQnYyVnBFSGJvWU4tdFh2elQybktOeUdBSlNjbEVHdHNnSHBXSlhUQmlNaDVDT3hnMnNqZjc3aDB2VHA4N2M3T18zTzYxWW5nNlV5akstY0lmNVVyOS1VV01SVXEyYkpWcVR2LVJoeEZZMzA?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {
@@ -202,21 +202,6 @@
   "id": "02d7912fe03d",
   "accuracy": "checked"
  },
- "meetings": [
-  {
-   "iso": "2026-08-26",
-   "body": "Solon Township Planning Commission",
-   "topic": "Zoning ordinance revisions for data centers, including special land use provisions",
-   "region": "West Michigan",
-   "regionKey": "west",
-   "county": "Kent",
-   "time": "7:00 PM",
-   "status": "Planning commission",
-   "urgent": false,
-   "link": "https://stopsolontownshipdatacenter.com/",
-   "linkLabel": "Agenda updates",
-   "stream": ""
-  }
- ],
+ "meetings": [],
  "accuracy_checked_at": "2026-07-08T08:45:16+00:00"
 }

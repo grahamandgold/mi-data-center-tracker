@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcmNmUjVqenIzZ2JVS1FTcGNDTWhKQzZnYlVFbW1jSDZ3LVZzY1g3WE9QWnFYb1E3akVVX1ZuYXR5U003ZXFYNWdYN1RjakNXUkNfZlVLZDVrZTJ2MmRuTlRzR25IbGNlV0Rta1RvcEhaMXhpWmpER2NfdllsTEk5WGlqa2NnNzMzYXpJSEh1VkZkQmVFTlo5bURjVl9Yd9IBngFBVV95cUxPcmNmUjVqenIzZ2JVS1FTcGNDTWhKQzZnYlVFbW1jSDZ3LVZzY1g3WE9QWnFYb1E3akVVX1ZuYXR5U003ZXFYNWdYN1RjakNXUkNfZlVLZDVrZTJ2MmRuTlRzR25IbGNlV0Rta1RvcEhaMXhpWmpER2NfdllsTEk5WGlqa2NnNzMzYXpJSEh1VkZkQmVFTlo5bURjVl9Ydw?oc=5",
-   "title": "Kalamazoo commission locks in one-year data center freeze",
-   "at": "2026-08-18T11:55:35+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: This is the same Kalamazoo moratorium vote already covered multiple times in ALREADY-LIVE and KILLED lists, just with slightly different framing about the commi"
-  },
-  {
    "url": "https://www.bisnow.com/news/data-center",
    "title": "Data Center Owners Pledge Climate Cuts as Emissions Climb",
    "at": "2026-08-18T13:01:46+00:00",
@@ -1399,21 +1392,16 @@
    "at": "2026-08-26T19:12:41+00:00",
    "by": "news_judge",
    "note": "score 4/10: Recall effort is thin without signature counts, filing confirmation, or election date; speculative citizen action rather than official decision."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVE9YM2twLW5BVGYyUzBsYzdJNW9BQ1hWa0lJRmluQ25jWldWYXB0UXF4U1IyalJWdFd3WVh3UkFuTnhuZ2I1VGo4R21ETXFad1ppVGM1M1dNejN4Zzg0RlRzbVUwdDVKQ1E5SFNRX0dKUEJtMWYtQm8zcnBHdlhzbHhsYV9Rb0p4WnJFNFF1ZUNGWU5RMnJDclFXYmczTG9FMnc?oc=5",
+   "title": "Ann Arbor rated weak spot for big data center build",
+   "at": "2026-08-27T03:31:51+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Thin analysis piece without a specific decision, filing, or official action—more speculation about suitability than hard news."
   }
  ],
  "auto_published": [
-  {
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWmdLVjRmYXBuYzI1RU1lWjhJVlF4ZlR2RzZMakJWRmtBVF8tVWdZbnpMd0ZOZ0o5SFNYMWhma20yNjZpbFY4VWthR2lCWXVVWDFoTHMwcU9ZbkQ2MGNoVnVobms1WjN3aWJOeXpjMlpBVlIyVl82aWJHR0VJSTUwQnBLeC1LWUg5S012UDZyQ1pTMFozal9rc3hvd2VYTk9zS3I0WDZoajVmb1RhbGdqRk1JQlNVNDZ6QWFzWGpOcVk0X1dPdjhnLUtiZjnSAeABQVVfeXFMUE05aHl6T2ZJRUNUSE5FLS1tMVQ1Rk45RnBDN2hRSmlSdnpLMGJpUkdtTG8wc09xMmlFOUZCd1hOMUpvRlh0dF9RMGVyc3E2NzVJR1ItUml5U2luRUdnakY2N1BuZTd1N1lYaHFCUHZLekdLUzFnaXhTNkppLUpaYWMxVzFqTkU5RnctYTUtWGFiSEVUQ1QtZ2IyQmZGNzBxX2hYeHI5VS1Wa1VnVktmOWNyTW1vSEZOX3lSU3paSHJGS0tVNTJMZkR2c0dOZE0wVHdObHdLcFlsSjJESEllelE?oc=5",
-   "title": "Water table bounces back after tech campus dig drained neighborhood pond",
-   "judge_score": 6,
-   "at": "2026-07-13T18:19:49Z"
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbmtQdFEyTW45Mk1NYTRfRFlhc2VUdV9xU0dxYkNXYTBwYkNxV3FPRmllTGRZRjlBaXlBTTMwMUdEWnFuRjA1VHJGRWNMb1ctQzBrMTRjZ0NocWlkbUc2V3RvSDdyN0h2dmJJblE0Wno0VGZmMXZVU2xYSHNYYVpla3JPTExFV1JMTm8tZUc1MDFIVmJXZW9rdVNyTUtYd3ZaWXBXWnFSMlFJZk1kUENLSXlBby1GdzZHM1c5M3lTdmphbGN2NUtZZGY0WngxeWVnazRIVXdkdzZHV3I4d1c3aXQxQUJZWU0?oc=5",
-   "title": "Warren may pause new data centers as grid strain concerns rise",
-   "judge_score": 7,
-   "at": "2026-07-13T21:07:55Z"
-  },
   {
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc3V4alpTLU5mTDlQdHpHSXBNZHhoSVUwaTVtZ0c5SkpoNjRsU1I2NEhfXzZmVzdLbkhjelpERnNxUGpjazllVUMwQ0c4QnZBM0otWEpyUXpGWjQ0dDY5THZSSmo2cllKNHpJUzdjN3RTVjFCZ1BKVFlKZFpwaERZWFVUdmh3SHlkU21CSWhvWGtTT2pFendMN2pRZDRhRVVK?oc=5",
    "title": "Lyon Township delays data center vote, leaving residents waiting on power and noise impacts",
@@ -3201,6 +3189,18 @@
    "title": "Michigan supervisors back bills to curb data center power costs",
    "judge_score": 7,
    "at": "2026-08-26T13:08:17Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRGZMTUZPNF96NzJucEw2akRNRERBalJPT3EtanVuZkxkR2FPZ0cyUjJoLWF5NHNrYmZieVdmUmFFdHZoWE54ZzRINE1Dc3JFWmFWTi1lY0xfc0tqNVJKaGpKbjBVQ0ZxSzFYd25HVU9Fekkwbm4tR3Q2VjRIS1FWcHB2Q1Z2ZnF2ZWFFMm1PVVlwLWV1?oc=5",
+   "title": "Homeowners to get decibel readings that could halt server farm near residences",
+   "judge_score": 7,
+   "at": "2026-08-27T03:31:51Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYzlVRDBES2M1VTVhYTFRbFdrU1JkNko4STBuSGpIejhuS1hpSk1QUG94aldxYlp6eXh6T3JwUmo3dGJYWndBXzJUVmRqZXVCcVJodDZHcThsRDRkUnFxVjYtVHJuQ1FUNWhPVGdMT0ZYZWcwZE1yN2diSnZ0S3MxNExnTU13WVZDWllkRk1QeklwSEpQZDB1QzlmaTQ2ekJQSmRSNXdrYlNlWEdvTlJJTm94cFAyMnM?oc=5",
+   "title": "West Michigan town extends data center ban another 6 months",
+   "judge_score": 8,
+   "at": "2026-08-27T03:31:51Z"
   }
  ]
 }
