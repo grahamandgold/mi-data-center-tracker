@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-27T03:31:51Z",
+ "updated_at": "2026-08-27T14:34:18Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Solon Township extends data center freeze another six months",
+   "dek": "Solon Township leaders recommended keeping the existing moratorium in place through early next year. The extension blocks new proposals while the township updates zoning rules to address resident concerns about noise, traffic and utility costs. West Michigan communities nearby are watching the decision closely.",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRmluMDJKQ0wyTWNpZjlQcEVieEtQWWpFZmprRHJfYndmUUIxMi1JNUdvdEVvVXZja0QzSU5xRWlNejdtR3p0NURWV3Fta2J3MEJnVmdfLXNkeVU5bEFWUUdvZ1dmN2ZCMzBZRUtIQURmMmlIcC1zNDUtWk81NEFBNG9IbUpkV1JKakFpUGtXM3VGa3dkcHd0a0dnbklzNVFLUFFiSGZJNW9lbTF6dUplU2I3Tl85YnVEVTFMX2dLaG9jNVRVcFZkU0Jnd3pYNU5YMW1nYm5Kek94SG5iMi1qOUk5LVFycWEyQ0ZqSVM0cTZocGFK?oc=5",
+   "source": "WZZM13.com",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Leelanau",
+   "tag": "Local Government",
+   "iso": "2026-08-27T03:31:00Z",
+   "id": "11ba5c758ccd",
+   "origin": "google-news",
+   "source_title": "Solon Twp. board recommends extending data center moratorium for another six months - WZZM13.com",
+   "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRmluMDJKQ0wyTWNpZjlQcEVieEtQWWpFZmprRHJfYndmUUIxMi1JNUdvdEVvVXZja0QzSU5xRWlNejdtR3p0NURWV3Fta2J3MEJnVmdfLXNkeVU5bEFWUUdvZ1dmN2ZCMzBZRUtIQURmMmlIcC1zNDUtWk81NEFBNG9IbUpkV1JKakFpUGtXM3VGa3dkcHd0a0dnbklzNVFLUFFiSGZJNW9lbTF6dUplU2I3Tl85YnVEVTFMX2dLaG9jNVRVcFZkU0Jnd3pYNU5YMW1nYm5Kek94SG5iMi1qOUk5LVFycWEyQ0ZqSVM0cTZocGFK?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "West Michigan town extends data center ban another 6 months",
    "dek": "A West Michigan community has pushed its moratorium on new data centers out to at least early 2027. Residents gain more time to examine power demand, noise, and water use before any large projects can move forward. The extension keeps local officials from approving facilities that could strain the grid and raise utility bills for nearby homes.",
@@ -169,23 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbDZUU0xoQlFWUnVMRDdZNGo5Q2tFVHBsVGxTcm1TZFV2d2QzWENlbmxELTFIWUlGVUZ0cEctRzM1aXdVcHVzWXY5WV9COEFadlkzRmVxS2xzQmNBV0w5dV9TZFFKQzNOOHYwLTJyd1ZMZG5IV3M3aVJZa2VzYlNWdEp4dEoxRHBMYW9yRE9HNkVkZmwxZS1fLTlPXzdDb0tpU3JPSVFwQVpRQXdkZVFpdnBTaDU1MDRXUVJR?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Campbell coal plant stays open to feed data-center power hunger",
-   "dek": "The U.S. Department of Energy ordered the J.H. Campbell plant in Ottawa County to keep running, citing rising electricity demand from data centers. Keeping the aging coal unit online means continued emissions and higher costs for ratepayers in western Michigan. The move underscores how AI growth is reshaping the state's energy grid.",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10ejRuTzM3dnZJak5HbDJOUGpuZHJKbmhBV2ctc1BReVVjNnBnRkl5NXFOWC0tM250aHUxWEY2Y1k0MWE2bXNWdXFHM0JzMFc0N3hVLUFQRUlVNDgxX1FEV0hwUDQ2WWd0QUhNTUxfN1ZRZnU2YkZTV1U2dXB3MU0?oc=5",
-   "source": "AOL.com",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Ottawa",
-   "tag": "Power & Grid",
-   "iso": "2026-08-24T22:58:49Z",
-   "id": "dfb12f97e2d1",
-   "origin": "google-news",
-   "source_title": "DOE issues sixth order keeping J.H. Campbell plant open - AOL.com",
-   "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10ejRuTzM3dnZJak5HbDJOUGpuZHJKbmhBV2ctc1BReVVjNnBnRkl5NXFOWC0tM250aHUxWEY2Y1k0MWE2bXNWdXFHM0JzMFc0N3hVLUFQRUlVNDgxX1FEV0hwUDQ2WWd0QUhNTUxfN1ZRZnU2YkZTV1U2dXB3MU0?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
   }
  ],
  "national": {

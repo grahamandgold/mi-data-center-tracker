@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-27T03:32:45+00:00",
+ "updated_at": "2026-08-27T14:34:18Z",
  "generator": "grok-wire-agent",
  "items": [
   {
@@ -16,7 +16,9 @@
    "accuracy": "checked",
    "id": "bd8fa6f2212d",
    "kind": "capitol",
-   "filed_at": "2026-08-27T03:32:45+00:00"
+   "filed_at": "2026-08-27T03:32:45+00:00",
+   "judge_score": 6,
+   "judge_note": "HB6265 on water/electricity reporting is distinct from the already-live water disclosure bill; incremental legislative action worth tracking."
   },
   {
    "iso": "2026-08-27T12:00:00+00:00",
@@ -32,7 +34,9 @@
    "accuracy": "checked",
    "id": "754fe44f5d00",
    "kind": "capitol",
-   "filed_at": "2026-08-27T03:32:45+00:00"
+   "filed_at": "2026-08-27T03:32:45+00:00",
+   "judge_score": 6,
+   "judge_note": "HB6264 on clean energy requirements is a separate bill from those already covered; real legislative movement."
   },
   {
    "iso": "2026-08-27T12:00:00+00:00",
@@ -48,7 +52,9 @@
    "accuracy": "checked",
    "id": "55d385c3a2c6",
    "kind": "capitol",
-   "filed_at": "2026-08-27T03:32:45+00:00"
+   "filed_at": "2026-08-27T03:32:45+00:00",
+   "judge_score": 6,
+   "judge_note": "HB6252 on thermal impact assessments is another distinct bill in the package; document-based and concrete."
   },
   {
    "iso": "2026-08-27T12:00:00+00:00",
@@ -64,7 +70,9 @@
    "accuracy": "checked",
    "id": "7c5faa7edebf",
    "kind": "capitol",
-   "filed_at": "2026-08-27T03:32:45+00:00"
+   "filed_at": "2026-08-27T03:32:45+00:00",
+   "judge_score": 6,
+   "judge_note": "HB6251 on energy infrastructure evaluation is yet another bill in the legislative package; incremental but real action."
   },
   {
    "title": "Solon Township residents push to tighten rules on proposed 800-acre data center",
@@ -203,5 +211,5 @@
    "judge_note": "Concrete legislative development: Jeremy Moss added as co-sponsor to utility rate bill targeting data centers, a new action on a relevant bill."
   }
  ],
- "accuracy_checked_at": "2026-08-27T03:31:45+00:00"
+ "accuracy_checked_at": "2026-08-27T14:34:10+00:00"
 }

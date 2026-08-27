@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.bisnow.com/news/data-center",
-   "title": "Data Center Owners Pledge Climate Cuts as Emissions Climb",
-   "at": "2026-08-18T13:01:46+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece about climate pledges and emissions without Michigan-specific action or development."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd0hWTU5JMUt6NGthVzVpUW45NlpmYTZNUHgtVHFyVDZadklGNHVuNTlRSWlpdHQ2ZWNxaDluUW5zSHZPOGFjaU1fS3VaTDZwVnd6YllBa0FvUDlwaE1UZlhkWGJKcEZEWmZOZnhyTmRfX1lKSHRCamVoNTlkZW4ySU1DLVlzOHNQbnk4MDhBQlJJa2k0ck1hVF9OcHBCdmZ0X0ZxZ0o2eUJvNTFxWm80WU44c1g2NXdhUFN30gHPAUFVX3lxTFBvZ1ZXdDJnZTdSdGQzbWlWUmc2OXZTRVkydWdEMFJVOHVDM20wX2VQNWFCZHB5LWlWWEFBQW45UXpuT1VfdkZMTFVxUzNlR281WkhpaW4tMnZuNXNjVzg5cVY3a1FnWkotVzQxY1dIQkVKYnNhaUhpZDhDZDRxdmF1a1FLXy1LZ1hMTVR1Rnh1RnpBTEVmMzNJbjFCXzFPZzItY3BIa1I1bmNPZXJlVklLQ3BEdS03TWplMnNiS04yNnVUZEpyc2RraG9DOHRhMA?oc=5",
-   "title": "Kalamazoo halts new data centers and battery plants for a full year",
-   "at": "2026-08-18T13:01:46+00:00",
-   "by": "news_judge",
-   "note": "score 1/10, duplicate: Identical to multiple already-live stories reporting the same Kalamazoo moratorium decision."
-  },
-  {
    "url": "https://www.datacenterdynamics.com/en/news/cherokee-nation-in-the-us-bans-data-center-development/",
    "title": "Cherokee Nation Bars Hyperscale Data Centers on Reservation Lands",
    "at": "2026-08-18T14:42:28+00:00",
@@ -1399,15 +1385,23 @@
    "at": "2026-08-27T03:31:51+00:00",
    "by": "news_judge",
    "note": "score 4/10: Thin analysis piece without a specific decision, filing, or official action—more speculation about suitability than hard news."
+  },
+  {
+   "url": "https://www.datacenterdynamics.com/en/news/openai-gets-green-light-for-3-2gw-power-deal-to-supply-planned-data-center-in-effingham-county-georgia/",
+   "title": "OpenAI Secures Approval for Major Power Deal in Georgia",
+   "at": "2026-08-27T14:34:18+00:00",
+   "by": "news_judge",
+   "note": "score 2/10: Georgia project with no Michigan angle; pure national noise for Michigan readers."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMWpQWDdUV2VDZzVsbVY4Y2tpZmV0dWpnVjdMbEJEbTE5SmVNQTRRNktJM0tNNEEwbG1sZmdXS2pVUHVubXZaREZUVXVvS0RaR3gzWWlZdmJqaUJtQklHNVRiWWFtQnNWM2lXQVo4eGFiNHVMTmVDNE5PQjFqQ2ZjNXhKaV9wSVhBRjV2YXZ5SzJtWUVwbFAyblc0NlBtOElkUVpYaHRaelNoZHhtYXo0cDVUMA?oc=5",
+   "title": "Garfield Township bans new data centers for a year over water and power strain",
+   "at": "2026-08-27T14:34:18+00:00",
+   "by": "news_judge",
+   "note": "score 1/10, duplicate: Garfield Township's yearlong ban is already live in multiple killed stories and the live story about Garfield's one-year halt."
   }
  ],
  "auto_published": [
-  {
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc3V4alpTLU5mTDlQdHpHSXBNZHhoSVUwaTVtZ0c5SkpoNjRsU1I2NEhfXzZmVzdLbkhjelpERnNxUGpjazllVUMwQ0c4QnZBM0otWEpyUXpGWjQ0dDY5THZSSmo2cllKNHpJUzdjN3RTVjFCZ1BKVFlKZFpwaERZWFVUdmh3SHlkU21CSWhvWGtTT2pFendMN2pRZDRhRVVK?oc=5",
-   "title": "Lyon Township delays data center vote, leaving residents waiting on power and noise impacts",
-   "judge_score": 6,
-   "at": "2026-07-13T21:07:55Z"
-  },
   {
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOY2VjcEQteVJwZWxzRGVVNjRHZXc5NlRnanNjWXBCakd3Q093NDVmbXRyQTcySndZeThJRkcxWEdnb2R6b1d0ZUIwZU1HV2FTTGxZQjFvNHpjQWI4a1JSRWdCTjhrbk5IM1FJNHIxNEJaaTVlaFNMczEyWTczY05NWWJBYnV3aGZjcnlaMDMwTUN6NllPcGc3ZnlWZDg0S05GSzh5dHFyb0lnWF9YR2l1SDh5RjBGTmJiVXlTTTJ4SF9TbkZualZ5QQ?oc=5",
    "title": "Lowell Township residents face first data-center vote tonight",
@@ -3201,6 +3195,12 @@
    "title": "West Michigan town extends data center ban another 6 months",
    "judge_score": 8,
    "at": "2026-08-27T03:31:51Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRmluMDJKQ0wyTWNpZjlQcEVieEtQWWpFZmprRHJfYndmUUIxMi1JNUdvdEVvVXZja0QzSU5xRWlNejdtR3p0NURWV3Fta2J3MEJnVmdfLXNkeVU5bEFWUUdvZ1dmN2ZCMzBZRUtIQURmMmlIcC1zNDUtWk81NEFBNG9IbUpkV1JKakFpUGtXM3VGa3dkcHd0a0dnbklzNVFLUFFiSGZJNW9lbTF6dUplU2I3Tl85YnVEVTFMX2dLaG9jNVRVcFZkU0Jnd3pYNU5YMW1nYm5Kek94SG5iMi1qOUk5LVFycWEyQ0ZqSVM0cTZocGFK?oc=5",
+   "title": "Solon Township extends data center freeze another six months",
+   "judge_score": 8,
+   "at": "2026-08-27T14:34:18Z"
   }
  ]
 }
