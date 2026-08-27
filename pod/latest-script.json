@@ -1,10 +1,10 @@
 {
- "title": "Mornings with Graham & Emmy",
- "teaser": "Ypsilanti halts electrical projects as data center concerns grow—what it means for rates and towns.",
+ "title": "Evenings with Graham & Emmy",
+ "teaser": "Ypsilanti hits pause on electrical upgrades tied to a big U-M data center plan.",
  "lines": [
   {
    "host": "Graham",
-   "text": "Good morning and welcome to Mornings with Graham & Emmy, the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
+   "text": "Good evening and welcome to Evenings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
   },
   {
    "host": "Emmy",
@@ -12,458 +12,266 @@
   },
   {
    "host": "Graham",
-   "text": "Today we're diving into why one Washtenaw County township just hit pause on major power projects tied to a big computing center."
+   "text": "Tonight we're digging into Ypsilanti Township's decision this week to pause major electrical projects while they study a proposed University of Michigan research computing center."
   },
   {
    "host": "Emmy",
-   "text": "That sounds like the lead story—let's unpack what it means for residents and the bigger picture across the state."
+   "text": "That moratorium on high-voltage facilities is the big story tonight, Graham. Let's start there."
   },
   {
    "host": "Graham",
-   "text": "Exactly. Yesterday Ypsilanti Township approved a 180-day moratorium on new or expanded high-voltage utility facilities."
+   "text": "Exactly. The township board approved a 180-day pause on new or expanded high-voltage utility facilities. It's aimed at studying impacts from that U-M project backed by Los Alamos National Laboratory."
   },
   {
    "host": "Emmy",
-   "text": "Why now? What's driving this specific pause?"
+   "text": "Why now? What's driving this pause specifically in Washtenaw County?"
   },
   {
    "host": "Graham",
-   "text": "The board is studying impacts from a proposed University of Michigan research computing center backed by Los Alamos National Laboratory."
+   "text": "Residents and officials are worried about the power demands. The project would add significant load to a regional grid already strained by AI growth across the state."
   },
   {
    "host": "Emmy",
-   "text": "So it's not just any data center—it's tied to research and national lab work. How does that change the conversation?"
+   "text": "And how does this fit into the bigger picture we've seen with other townships?"
   },
   {
    "host": "Graham",
-   "text": "Officials are weighing jobs and tax revenue against the power and water demands the project would add to an already strained regional grid."
+   "text": "It's part of a growing wave. Garfield Township just voted yesterday to halt all new data center proposals for a year to study power, water and noise limits."
   },
   {
    "host": "Emmy",
-   "text": "We've seen similar pushes elsewhere. What's the history here in Michigan with these facilities?"
+   "text": "That gives residents breathing room before any rules change, right?"
   },
   {
    "host": "Graham",
-   "text": "Data centers have been expanding fast because of AI growth, pulling hundreds of megawatts each and needing reliable power and cooling water."
+   "text": "Precisely. Without the pause, developers could file applications before new restrictions kick in. Lowell Township is still hammering out its own ordinance after months of debate."
   },
   {
    "host": "Emmy",
-   "text": "And that hits local electric bills how?"
+   "text": "What about the electric bill angle? How do these projects affect ratepayers?"
   },
   {
    "host": "Graham",
-   "text": "Ratepayers often end up covering upgrades to the grid when these big loads come online, which is why communities are paying closer attention."
+   "text": "That's the core concern. Taxpayers within driving distance often end up paying for utility upgrades needed to support these big loads."
   },
   {
    "host": "Emmy",
-   "text": "Water is another big one—how does that factor into the Ypsilanti decision?"
+   "text": "We've also heard about the Campbell coal plant staying open to feed data center demand. How does that connect?"
   },
   {
    "host": "Graham",
-   "text": "Residents near proposed sites worry about strain on aquifers and municipal supplies already stretched by growth."
+   "text": "The U.S. Department of Energy ordered the J.H. Campbell plant in Ottawa County to keep running last Monday, citing rising electricity needs from data centers. It means continued emissions and higher costs for western Michigan ratepayers."
   },
   {
    "host": "Emmy",
-   "text": "Farmland and towns—what's at stake there?"
+   "text": "So the energy picture is shifting fast because of AI growth. What about water use?"
   },
   {
    "host": "Graham",
-   "text": "Large server farms can affect local taxes, roads, noise levels, and land use, which is why townships like Garfield just voted a one-year pause today to study rules on power, water and noise."
+   "text": "A new state proposal would force operators to disclose how much water their facilities consume. Michigan residents near proposed sites are worried about strain on aquifers and municipal supplies."
   },
   {
    "host": "Emmy",
-   "text": "Garfield Township in Grand Traverse County—how does that fit the pattern we're seeing?"
+   "text": "That disclosure bill aims to give communities data before approvals, correct?"
   },
   {
    "host": "Graham",
-   "text": "Supervisors want time for residents to weigh the effects before developers file applications that could lock in old rules."
+   "text": "Yes. It's one of several measures lawmakers are reviewing this week, including changes to taxes and power rules that could speed up or slow projects needing hundreds of megawatts."
   },
   {
    "host": "Emmy",
-   "text": "What happens next in Ypsilanti during this 180-day window?"
+   "text": "Township supervisors across northern Michigan endorsed rules today that would force data centers to pay more toward grid upgrades. How might that help residents?"
   },
   {
    "host": "Graham",
-   "text": "The township will gather more data on grid impacts and community concerns before deciding on the electrical infrastructure projects."
+   "text": "If those bills pass, locals could see lower electric bills, but only if local governments keep leverage over the big projects. It signals real pushback against unlimited growth."
   },
   {
    "host": "Emmy",
-   "text": "Meanwhile, other places are moving on their own ordinances. Lowell Township is still hammering out rules after months of debate."
+   "text": "St. Joseph County is also drafting noise rules for 24/7 facilities. What are residents there most concerned about?"
   },
   {
    "host": "Graham",
-   "text": "Yes, yesterday they continued work on where facilities can locate and what limits apply to power and noise in Kent County."
+   "text": "The constant hum and potential higher electric rates if big loads come online. Officials are tracking extra power pull from the regional grid too."
   },
   {
    "host": "Emmy",
-   "text": "That outcome will shape future development and local tax impacts for residents there."
+   "text": "Wixom may lift its data center freeze months early. What could that mean for Oakland County suburbs?"
   },
   {
    "host": "Graham",
-   "text": "Statewide, a new proposal would force data centers to disclose water use so communities have data before approvals."
+   "text": "It would reopen the door for proposals that have already sparked pushback. Residents could soon face decisions on large power-hungry projects affecting local rates and land use."
   },
   {
    "host": "Emmy",
-   "text": "Why is that disclosure important right now?"
+   "text": "Back to Ypsilanti — what happens during this 180-day study period?"
   },
   {
    "host": "Graham",
-   "text": "Michigan residents near sites worry about aquifers and supplies already stretched, and the measure aims to give towns better information upfront."
+   "text": "The board wants to examine impacts on the grid, water and the community from that specific U-M research center proposal. It buys time to weigh jobs and tax revenue against the demands."
   },
   {
    "host": "Emmy",
-   "text": "Lawmakers in Lansing are also reviewing bills on tax breaks and power rules."
+   "text": "Washtenaw leaders are pitching the project as an economic win. How are they framing the benefits?"
   },
   {
    "host": "Graham",
-   "text": "Those could speed up or slow projects needing hundreds of megawatts, affecting utility bills or new local revenue depending on what passes."
+   "text": "They're highlighting jobs and tax revenue while residents question the power and water demands. The outcome will shape future development in the county."
   },
   {
    "host": "Emmy",
-   "text": "Washtenaw leaders are pitching a new data center as an economic win—what are they highlighting?"
+   "text": "This feels like a pattern across the state. How many places have taken similar pauses?"
   },
   {
    "host": "Graham",
-   "text": "Jobs and tax revenue, while residents question the power and water demands on the regional grid already strained by AI growth."
+   "text": "Several townships are moving in that direction this week alone. Garfield, Lowell and now Ypsilanti are all reviewing limits on power, noise and siting."
   },
   {
    "host": "Emmy",
-   "text": "St. Joseph County is drafting noise rules for 24/7 operations."
+   "text": "What role does the University of Michigan play here with the Los Alamos connection?"
   },
   {
    "host": "Graham",
-   "text": "They're also tracking extra power pull from the grid, with residents within 30 miles worried about constant hum and higher electric rates."
+   "text": "It's a research computing center proposal. The backing from Los Alamos National Laboratory adds a layer of federal interest, but the local grid impacts are what the township is studying first."
   },
   {
    "host": "Emmy",
-   "text": "On the energy side, the Campbell coal plant in Ottawa County is staying open longer."
+   "text": "How might this moratorium affect the timeline for any potential project?"
   },
   {
    "host": "Graham",
-   "text": "The Department of Energy ordered it to keep running Monday to meet rising demand from data centers, meaning continued emissions and costs for western Michigan ratepayers."
+   "text": "It delays new or expanded high-voltage facilities for six months. That gives everyone time to gather data on costs and benefits before decisions are locked in."
   },
   {
    "host": "Emmy",
-   "text": "Wixom may lift its data-center freeze months early."
+   "text": "And for folks 30 or 60 miles away, why should they care about what happens in Ypsilanti?"
   },
   {
    "host": "Graham",
-   "text": "Leaders are weighing whether to end the moratorium ahead of schedule, which could reopen the door for large projects in Oakland County suburbs."
+   "text": "Because grid upgrades and rate impacts often ripple across the region. What one township decides can set precedents for neighboring counties facing similar proposals."
   },
   {
    "host": "Emmy",
-   "text": "And New Buffalo blocked a storage yard tied to a data center project."
+   "text": "We've seen Lansing weighing tax breaks and power rules. Any sense of how these local pauses might influence state action?"
   },
   {
    "host": "Graham",
-   "text": "The township rejected the permit Monday, reducing construction impacts and truck traffic for Berrien County residents."
+   "text": "Local pushback is feeding into the broader legislative debate. Bills on disclosure, cost sharing and siting are all moving this week."
   },
   {
    "host": "Emmy",
-   "text": "That shows real local pushback on supporting infrastructure."
+   "text": "What happens next if the study finds significant risks?"
   },
   {
    "host": "Graham",
-   "text": "It does, and it ties back to the bigger question of how communities balance growth with infrastructure strain."
+   "text": "The township could adopt stricter rules on where facilities locate and what limits apply to power and noise, similar to what's underway in Lowell."
   },
   {
    "host": "Emmy",
-   "text": "For listeners 30 or 60 miles away, why should they care about these township-level pauses?"
+   "text": "And if the data looks manageable?"
   },
   {
    "host": "Graham",
-   "text": "Because grid upgrades and rate impacts often spread regionally, and rules set in one place can influence what happens next door."
+   "text": "Projects could move forward with conditions. Either way, the pause ensures the community has a say before anything is built."
   },
   {
    "host": "Emmy",
-   "text": "What's the next step for Ypsilanti residents who want to weigh in?"
+   "text": "This ties into farmland and town character too. How are those factors playing in?"
   },
   {
    "host": "Graham",
-   "text": "The 180-day study period gives time for public input on the proposed computing center and related power needs."
+   "text": "Large server farms can affect roads, taxes and the overall feel of rural areas. Garfield supervisors specifically called out impacts on local taxes, roads and the power grid in Grand Traverse County."
   },
   {
    "host": "Emmy",
-   "text": "Shifting to on deck, what's happening today that people can actually attend?"
+   "text": "So it's not just electricity — it's the full local footprint."
   },
   {
    "host": "Graham",
-   "text": "Solon Township Planning Commission meets today to discuss zoning ordinance revisions for data centers, including special land use provisions."
+   "text": "Right. Water draw, noise and land use all factor into these debates."
   },
   {
    "host": "Emmy",
-   "text": "That sounds like a good chance for residents to share thoughts on where these facilities fit in their community."
+   "text": "Let's shift to quick hits. Graham, what's the latest on Garfield Township's year-long halt?"
   },
   {
    "host": "Graham",
-   "text": "Exactly—local meetings like this are where the details on power limits, noise and siting get hammered out."
+   "text": "Supervisors voted yesterday to pause all new proposals while they research limits. It prevents developers from filing before rules are set."
   },
   {
    "host": "Emmy",
-   "text": "Any other quick context on why these pauses are spreading now?"
+   "text": "Lowell Township is still working on its ordinance after months of debate. What will those rules cover?"
   },
   {
    "host": "Graham",
-   "text": "Rising electricity demand from AI is reshaping the state's energy grid, prompting towns to study impacts before more projects move forward."
+   "text": "Where facilities can locate and limits on power and noise. Kent County residents are watching closely for tax and development impacts."
   },
   {
    "host": "Emmy",
-   "text": "And the water reporting bill at the state level could help with transparency."
+   "text": "The water disclosure bill is another one from this week. Why is that important for communities?"
   },
   {
    "host": "Graham",
-   "text": "It would require operators to report consumption so communities have facts before approvals."
+   "text": "It requires operators to report consumption. That data helps residents near sites assess strain on aquifers before approvals."
   },
   {
    "host": "Emmy",
-   "text": "What might change if more townships follow Garfield's one-year pause model?"
+   "text": "Lansing is reviewing multiple bills on taxes and electricity. What could change for projects needing hundreds of megawatts?"
   },
   {
    "host": "Graham",
-   "text": "Developers would have clearer rules on power use, water draw and noise, potentially slowing rushed applications."
+   "text": "The proposals could either speed things up or add hurdles, affecting how quickly these big loads come online statewide."
   },
   {
    "host": "Emmy",
-   "text": "Meanwhile, Lansing's tax and power bills could either accelerate or add guardrails."
+   "text": "St. Joseph County is drafting noise rules. Any details on the 24/7 concern?"
   },
   {
    "host": "Graham",
-   "text": "The outcome will determine how fast these facilities come online and who pays for the supporting infrastructure."
+   "text": "Officials are also tracking grid pull. Residents within 30 miles worry about constant hum and higher rates."
   },
   {
    "host": "Emmy",
-   "text": "For the Campbell plant staying open, how does that connect to the data center story?"
+   "text": "Wixom may end its moratorium early. What's the potential impact there?"
   },
   {
    "host": "Graham",
-   "text": "It shows how AI growth is forcing older plants to run longer, with emissions and rate impacts for western Michigan."
+   "text": "It could reopen the door for proposals in Oakland County suburbs that have already drawn pushback over rates and land use."
   },
   {
    "host": "Emmy",
-   "text": "Wixom's possible early lift of the freeze—what could that mean for Oakland County?"
+   "text": "And the Campbell plant decision from Monday — how is that reshaping the energy picture?"
   },
   {
    "host": "Graham",
-   "text": "Residents could soon face decisions on large power-hungry projects affecting local electric rates and land use."
+   "text": "Keeping the aging coal unit online means continued emissions and costs for western Michigan ratepayers amid rising data center demand."
   },
   {
    "host": "Emmy",
-   "text": "New Buffalo's rejection of the storage yard—does that set a precedent?"
+   "text": "Now for on deck. What's coming up that listeners can attend?"
   },
   {
    "host": "Graham",
-   "text": "It demonstrates how townships can push back on supporting infrastructure even when the main facility is elsewhere."
+   "text": "Solon Township Planning Commission met yesterday on zoning ordinance revisions for data centers, including special land use provisions."
   },
   {
    "host": "Emmy",
-   "text": "Lowell Township's ongoing ordinance work—when might we see final rules?"
+   "text": "That one wrapped up, but it shows the ongoing local work on these rules."
   },
   {
    "host": "Graham",
-   "text": "They're still in the debate phase, so Kent County residents should watch for updates on siting and limits."
+   "text": "Exactly. Check the Michigan Data Center Tracker for the latest agendas and any new meetings popping up."
   },
   {
    "host": "Emmy",
-   "text": "The state water disclosure proposal—how soon could that take effect?"
+   "text": "Listeners should stay tuned — these local decisions are shaping the state's data center future."
   },
   {
    "host": "Graham",
-   "text": "It's a new proposal, so it would need to move through the legislature before giving communities that extra data."
-  },
-  {
-   "host": "Emmy",
-   "text": "Washtenaw's pitch for economic benefits—how are officials framing the jobs angle?"
-  },
-  {
-   "host": "Graham",
-   "text": "They're highlighting employment and tax revenue from the fresh proposal while acknowledging resident questions on demands."
-  },
-  {
-   "host": "Emmy",
-   "text": "St. Joseph County's noise ordinance—what's the goal there?"
-  },
-  {
-   "host": "Graham",
-   "text": "To address 24/7 operations and track grid pull, easing worries about constant hum and higher rates."
-  },
-  {
-   "host": "Emmy",
-   "text": "Putting it all together, these local actions seem to be a response to rapid AI-driven growth."
-  },
-  {
-   "host": "Graham",
-   "text": "Yes, and the 180-day Ypsilanti pause gives one township breathing room to study before committing to more power infrastructure."
-  },
-  {
-   "host": "Emmy",
-   "text": "What should listeners keep an eye on in the coming weeks?"
-  },
-  {
-   "host": "Graham",
-   "text": "Progress on the state water reporting bill, updates from Lowell and Garfield, and whether Wixom ends its moratorium early."
-  },
-  {
-   "host": "Emmy",
-   "text": "And of course the Solon Township meeting today on zoning revisions."
-  },
-  {
-   "host": "Graham",
-   "text": "Right—those revisions could include special land use provisions that set the tone for future proposals."
-  },
-  {
-   "host": "Emmy",
-   "text": "How might the Los Alamos-backed project in Ypsilanti differ from commercial data centers?"
-  },
-  {
-   "host": "Graham",
-   "text": "It's framed around research computing needs, but the power and water demands are still significant enough to trigger the moratorium."
-  },
-  {
-   "host": "Emmy",
-   "text": "The grid strain from AI growth—is that a statewide issue or more regional?"
-  },
-  {
-   "host": "Graham",
-   "text": "It's showing up across multiple counties now, from Grand Traverse to Berrien to Washtenaw, because demand is rising fast."
-  },
-  {
-   "host": "Emmy",
-   "text": "Tax revenue versus infrastructure costs—what's the typical trade-off towns are weighing?"
-  },
-  {
-   "host": "Graham",
-   "text": "New revenue can help local budgets, but upgrades to roads, power and water often fall to ratepayers and taxpayers if not covered by the developer."
-  },
-  {
-   "host": "Emmy",
-   "text": "Noise rules in St. Joseph—why are they moving on that specifically?"
-  },
-  {
-   "host": "Graham",
-   "text": "Because facilities can run around the clock, creating ongoing sound concerns for nearby residents."
-  },
-  {
-   "host": "Emmy",
-   "text": "The Campbell plant decision—does keeping it open change emissions timelines?"
-  },
-  {
-   "host": "Graham",
-   "text": "It extends operations at the aging coal unit, with continued emissions and costs for western Michigan ratepayers."
-  },
-  {
-   "host": "Emmy",
-   "text": "For the quick hits, anything else on the water disclosure bill?"
-  },
-  {
-   "host": "Graham",
-   "text": "It aims to give communities data on consumption before projects get approved, addressing aquifer worries."
-  },
-  {
-   "host": "Emmy",
-   "text": "Lansing bills on taxes and power—what's the potential impact on project speed?"
-  },
-  {
-   "host": "Graham",
-   "text": "They could either accelerate development or add guardrails depending on the final language."
-  },
-  {
-   "host": "Emmy",
-   "text": "Garfield's one-year pause—how does that compare to Ypsilanti's 180 days?"
-  },
-  {
-   "host": "Graham",
-   "text": "Garfield is giving more time to research limits on power, water and noise while residents weigh tax, road and grid effects."
-  },
-  {
-   "host": "Emmy",
-   "text": "Lowell Township—what's the focus of their ordinance?"
-  },
-  {
-   "host": "Graham",
-   "text": "Deciding where centers can locate and what limits apply to power and noise after months of debate."
-  },
-  {
-   "host": "Emmy",
-   "text": "New Buffalo's storage yard rejection—any ripple effects?"
-  },
-  {
-   "host": "Graham",
-   "text": "It reduces construction impacts and truck traffic for residents in that Berrien County area."
-  },
-  {
-   "host": "Emmy",
-   "text": "Wixom possibly ending the freeze early—what's the risk for residents?"
-  },
-  {
-   "host": "Graham",
-   "text": "Large projects could return sooner, affecting local electric rates and land use decisions."
-  },
-  {
-   "host": "Emmy",
-   "text": "Washtenaw's economic pitch—how are they addressing resident concerns?"
-  },
-  {
-   "host": "Graham",
-   "text": "By highlighting jobs and revenue while the grid strain from AI growth remains a key question."
-  },
-  {
-   "host": "Emmy",
-   "text": "St. Joseph noise rules—how might they affect 24/7 operations?"
-  },
-  {
-   "host": "Graham",
-   "text": "By setting limits that could influence where or how facilities operate in the county."
-  },
-  {
-   "host": "Emmy",
-   "text": "The bigger picture across these stories seems to be communities gaining time to plan."
-  },
-  {
-   "host": "Graham",
-   "text": "Yes, whether through moratoriums, ordinances or state disclosure rules, towns are trying to get ahead of the infrastructure demands."
-  },
-  {
-   "host": "Emmy",
-   "text": "What happens if the state water bill passes—practical effect for towns?"
-  },
-  {
-   "host": "Graham",
-   "text": "Operators would report usage, giving residents clearer data before any approvals move forward."
-  },
-  {
-   "host": "Emmy",
-   "text": "For the Solon meeting today, what might come out of the zoning revisions?"
-  },
-  {
-   "host": "Graham",
-   "text": "Special land use provisions could define where data centers are allowed and under what conditions."
-  },
-  {
-   "host": "Emmy",
-   "text": "Listeners in driving distance of these areas should watch for updates on rates and local impacts."
-  },
-  {
-   "host": "Graham",
-   "text": "Absolutely—the decisions made now will shape power bills and development for years."
-  },
-  {
-   "host": "Emmy",
-   "text": "Thanks for walking through all that, Graham."
-  },
-  {
-   "host": "Graham",
-   "text": "My pleasure—plenty happening across the state."
-  },
-  {
-   "host": "Emmy",
-   "text": "Full sources and the live map at the Michigan Data Center Tracker."
-  },
-  {
-   "host": "Graham",
-   "text": "We're back tomorrow."
+   "text": "Full sources and the live map at the Michigan Data Center Tracker. We're back tomorrow."
   }
  ],
- "episode_title": "Ypsilanti Pauses Power Upgrades Over Data Center Grid Strain",
- "show": "Mornings with Graham & Emmy",
- "daypart": "Mornings"
+ "episode_title": "Ypsilanti Township Pauses Power Projects Over Data Center Concerns",
+ "show": "Evenings with Graham & Emmy",
+ "daypart": "Evenings"
 }
