@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-26T11:24:56+00:00",
+ "updated_at": "2026-08-28T21:18:54+00:00",
  "map_points": [
   {
    "name": "Saline Township campus (Stargate)",
@@ -1408,6 +1408,22 @@
    "verified_date": "2026-08-24",
    "confidence": "Confirmed",
    "note": "Six-month extension of moratorium on data centers and crypto mining approved Aug 18 to finalize zoning and noise rules."
+  },
+  {
+   "name": "Garfield Township moratorium",
+   "municipality": "Garfield Township",
+   "county": "Grand Traverse",
+   "status": "Moratorium",
+   "layer": "moratoria",
+   "developer": "",
+   "power_mw": "",
+   "latitude": 44.72139,
+   "longitude": -85.64111,
+   "source_url": "https://michiganadvance.com/2026/08/27/garfield-township-puts-a-1-year-ban-on-data-centers-cryptocurrency-mining/",
+   "source_name": "Michigan Advance",
+   "verified_date": "2026-08-27",
+   "confidence": "Confirmed",
+   "note": "1-year moratorium on data centers and cryptocurrency mining approved Aug 25-26; extendable 6 months. Approximate centroid."
   }
  ],
  "map_meta": {
