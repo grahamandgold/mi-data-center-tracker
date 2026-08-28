@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://example.com",
-   "title": "No major non-Michigan data center developments reported in last 24 hours",
-   "at": "2026-08-18T15:40:09+00:00",
-   "by": "news_judge",
-   "note": "score 1/10, duplicate: Exact duplicate of already-killed item reporting no national developments."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQV2c1Z0RpbEo1dEduWElKUjVEMkIzR1o2TlJ5emJ1YzhvSHk5dnh3UnQzMWtkSjBGRTVzM2NhU0xpX0RjeGVTbzhsbVM5d2VMZTFnQzI0WHBvNW9XZW1BanAwNjRMLXU3Sl8wMFdXTDZoU3hjekJHZDRVTjRVelZhby11Z0M4RzY3b1lhVEZRMGJXRXd1SnM2eHU2aUxtTEpaT3ZDT2ttNzczMURCUnlBZm0yUHlkcm9kcDAxSzgtendzX3o2aEpvNU9seDJrbjkySVF3cGxzbl8?oc=5",
-   "title": "Mason residents get first look at data center plans at town hall",
-   "at": "2026-08-18T17:35:37+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Duplicate of already-live 'Mason residents get city updates on nearby data center plans' — same town hall event, just reworded."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDg0c3NjUG1MOWxsb1VPYmpJNkd0V214NTBHbXd5OXR3QUVKcFppUWg1QnhLU3VFZVFWVlk0ZnVkOFI5dWxNUlU1eG5yZm82cUMtX29IWHI2eFQzcUhUSVBFclVRMklmU2FSeHV6YjI1NUxRRklxeEl1UEVmcWVSNk1uTE5NR0R2Tmx1by1uYVhGalBTWDQw?oc=5",
    "title": "Michigan bets big on AI data centers despite national pullback",
    "at": "2026-08-18T17:58:30+00:00",
@@ -1399,21 +1385,23 @@
    "at": "2026-08-27T23:57:08+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Duplicate of already-live 'Garfield Twp halts data centers for a year to study rules' and multiple killed Garfield moratorium stories."
+  },
+  {
+   "url": "https://economictimes.indiatimes.com/tech/technology/americans-are-angry-about-data-centers-politicians-are-feeling-the-pressure/articleshow/132451222.cms",
+   "title": "National Backlash Grows as Communities Push Back on Data Center Expansion",
+   "at": "2026-08-28T11:12:22+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece with generic polling data and only vague reference to Michigan communities already covered."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSW1CMDE1dUMxYlQ0T1ltSzVpQk01N004bU1pNV9BbGNQWnljR0o1cXpuYnYtQ3djS2c0Sk5aay1QT0ZxV0RfazFHNURyUkhCMDZrYkVDMTVSZWR4eDY4cWVqYTBHdGtSbE10dEo5d3BWS2ZUemlXWS02Y2VjdzQzNEtUbFFQYWRSelo4Wk1uQjdNSHprWGxjdVZ5Y3lFZ1Etd0lvUHBzNjcydzBxbU5OQ251UkozeEZxLUZ6TTh4NVhULUxDaHpOTDd3?oc=5",
+   "title": "Lawrence fields voter questions on data centers in Barrett’s district",
+   "at": "2026-08-28T11:12:22+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Campaign event coverage with voter questions but no actual policy development or decision made."
   }
  ],
  "auto_published": [
-  {
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS2RBRHM5bVB0b19aN2paWmpiYTgtVXNIdTlDUU1VcXRHOFpHVEhlTlBDckgxV3dFbzZsaVpVWHlKSktabEd3cThQV2NIMnNHTVQ5RDY0QUJPVnRFallFczgyOW1WT2h4TUVQVHNtRy04TU1xM1U4dkhreDBaVEFuTWJLSE1ZSzZvREhj?oc=5",
-   "title": "Lansing council votes six-month freeze on data centers",
-   "judge_score": 9,
-   "at": "2026-07-14T04:11:31Z"
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4ycEZOOU1oY2ZiUjdZYjJyM0pJWGpPTGo0bTlCeGJzR0dKdGpMYW9saUFJd2xqTDlNRl83TG4xMWYxM3NRSVBrU3BtYmRickpqTXZuRTlfSHJnZzFmVEkycGNnWjk0LVN1UlE?oc=5",
-   "title": "Benson under fire for Big Tech cash while data centers multiply",
-   "judge_score": 6,
-   "at": "2026-07-14T15:01:51Z"
-  },
   {
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82TFRGeFhTM2VsNkRHaERJVEUtSDZhdnVDRzhoN3pSeDVVaUxuNDNIU2p2LV94bVJxV1JQdVBlUi1QMHJQRE1WMDlVdnk0Wm82eDhyYTU4UXpuM01IUmVCTld4ZGZwRHdDdnBv?oc=5",
    "title": "Monroe voters reject data center plan after energy and noise fears",
@@ -3201,6 +3189,18 @@
    "title": "DTE seeks two new gas plants to feed data center power hunger",
    "judge_score": 9,
    "at": "2026-08-27T23:57:08Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPenJfN19ORkVkekQ5UzdVVjh1YURGOFUzTlF3ODN4dGhPMnlGcUtGajFOUk9rZmhrUXBIZmxGQ08waG1oOE01UFlJanFuS2VxckdfUUFLVjJGbWxrQTl0UG14NTdFSlpTMW5IWEpTdjRkZkhyQXBOVEJ4Mmh2emVOSGU4QTlqSWdSR1JmLXlobm9UR090RzhLRGhwSGFNYjNoZjdBSWNCRHR3ZFRjMS1kN0x0QXB1dw?oc=5",
+   "title": "Saline data center project pushes ahead despite new rules and pushback",
+   "judge_score": 7,
+   "at": "2026-08-28T11:12:22Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTUhRbl9wWjcwRG14UFN6QlcxMGlaOGRtRjN4N2tYbVc5SjlIemJWREFiUWZNV2dmaXZ0ZTZvVXJ6N3hDdk0xODNBS1lfR3h5QnVlNms0cXhpVFladEJ2dUdQSWIzdEJPdjFJdG1yam1oN2pjZjJQdG1vVFhCQkNkRWZaZzNRWkZ4SGxpakEzV2lxMFZPR0Z3VGZtdy1hSjk0?oc=5",
+   "title": "Recall effort fails against officials who greenlit massive tech facility",
+   "judge_score": 8,
+   "at": "2026-08-28T11:12:22Z"
   }
  ]
 }
