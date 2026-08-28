@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-28T11:12:22Z",
+ "updated_at": "2026-08-28T21:30:37Z",
  "generator": "grok-wire-agent",
  "items": [
   {
@@ -73,35 +73,7 @@
    "filed_at": "2026-08-27T03:32:45+00:00",
    "judge_score": 6,
    "judge_note": "HB6251 on energy infrastructure evaluation is yet another bill in the legislative package; incremental but real action."
-  },
-  {
-   "title": "Solon Township residents push to tighten rules on proposed 800-acre data center",
-   "dek": "Activists urge Solon Township to close loopholes allowing alternative water sources for an 800-acre hyperscale project, citing noise and health risks, as Consumers Energy says a 1GW data center is advancing through zoning.",
-   "url": "https://stopsolontownshipdatacenter.com/",
-   "source": "Solon Township Planning Commission agenda",
-   "region": "West Michigan",
-   "county": "Kent",
-   "cat": "Meetings",
-   "tag": "Agenda watch",
-   "iso": "2026-08-26T23:47:37+00:00",
-   "kind": "agenda",
-   "id": "3f90b67a1034",
-   "filed_at": "2026-08-26T23:47:37+00:00",
-   "accuracy": "checked-rewritten",
-   "findings": "Proposed 800+ acre hyperscale AI data center site, per Stop Solon Township Data Center site | Consumers Energy stated in July 28, 2026 earnings meeting that a 1GW data center developer remains in local zoning processes, per activist posts | Planning Commission meeting scheduled for Wednesday, August 26, with no agenda released publicly as of the posts | No named applicant or formal project application in public records | 82% of local poll respondents said they would support recall of officials over data center handling, per Stop Solon Township Data Center survey",
-   "perspective": "The commission has repeatedly delayed action on data center zoning while activists organize public comment. Wednesday's meeting allows public comment on ordinance changes; further readings or votes could follow at the township board level. The outcome would shape land-use rules for large power users in an area already seeing similar proposals across West Michigan townships.",
-   "documents": [
-    {
-     "label": "Agenda page",
-     "url": "https://stopsolontownshipdatacenter.com/"
-    }
-   ],
-   "depth_score": 4,
-   "extraction_method": "plain",
-   "headline_rewritten": true,
-   "judge_score": 6,
-   "judge_note": "Document-based agenda preview of resident pressure on a specific 800-acre project with utility confirmation of scale, incremental but real."
   }
  ],
- "accuracy_checked_at": "2026-08-28T11:12:17+00:00"
+ "accuracy_checked_at": "2026-08-28T21:30:30+00:00"
 }

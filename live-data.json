@@ -1,7 +1,41 @@
 {
- "updated_at": "2026-08-28T11:12:22Z",
+ "updated_at": "2026-08-28T21:30:37Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "AG Nessel wants 71% cut to DTE’s $474M rate hike",
+   "dek": "Dana Nessel told regulators the full increase would hit households too hard. Data center power demand is one factor behind DTE’s request. A smaller hike would still leave Michigan users paying more for electricity.",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTlYyS3BtUXprYnA2SHVkREJoSW5EUmV2UjdFLWtfY0lReW9mNnFfdHV6d3dEaENwUEdTZnFTenJWNklfMjdjaTRQRDl0RzB2SFEwMVdzNXhfeERHSDQ1dTJTVzZKdmlvcl80aDlPYTZfbnA1aWlRWnRzaXUwTmk5bUNZT3hYT1ZnaUVNcllVR3pSSllGdldUWnRoT0FWZzc3OHhDMVBVa1JjU28?oc=5",
+   "source": "WILX",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Power & Grid",
+   "iso": "2026-08-28T19:39:00Z",
+   "id": "b93665f6a997",
+   "origin": "google-news",
+   "source_title": "Attorney General Dana Nessel seeks deep cuts to DTE’s $474 million rate request - WILX",
+   "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTlYyS3BtUXprYnA2SHVkREJoSW5EUmV2UjdFLWtfY0lReW9mNnFfdHV6d3dEaENwUEdTZnFTenJWNklfMjdjaTRQRDl0RzB2SFEwMVdzNXhfeERHSDQ1dTJTVzZKdmlvcl80aDlPYTZfbnA1aWlRWnRzaXUwTmk5bUNZT3hYT1ZnaUVNcllVR3pSSllGdldUWnRoT0FWZzc3OHhDMVBVa1JjU28?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
+  {
+   "title": "New Michigan bills target big data center builds with fresh rules",
+   "dek": "Lawmakers introduced measures to regulate large-scale data centers across the state. Residents could see tighter oversight on power use, noise and local tax deals. The bills respond to growing pushback in communities facing rapid development.",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSHBLWGJKdFozV1JUTXotLXAydjhYX2pjdndEVnNWQnltNTNRN04tYWY1Nk5GeHVPT3JtVFV2dl9oenV1M2wwVmhqWDJZUFB2Y09pM1NZME1leTc3REliNENOOXgybU5JdnNTemhXVFEzOUYyTEh0YjFha2RCWEFVeHBpSHh1UDI2aDZWWmtDaFRfT1V3QjZQZUgwaw?oc=5",
+   "source": "Big Rapids Pioneer",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Policy",
+   "iso": "2026-08-28T13:16:46Z",
+   "id": "5e0c0be06a90",
+   "origin": "google-news",
+   "source_title": "Introduced Michigan data center bills would add new regulations - Big Rapids Pioneer",
+   "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSHBLWGJKdFozV1JUTXotLXAydjhYX2pjdndEVnNWQnltNTNRN04tYWY1Nk5GeHVPT3JtVFV2dl9oenV1M2wwVmhqWDJZUFB2Y09pM1NZME1leTc3REliNENOOXgybU5JdnNTemhXVFEzOUYyTEh0YjFha2RCWEFVeHBpSHh1UDI2aDZWWmtDaFRfT1V3QjZQZUgwaw?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Recall effort fails against officials who greenlit massive tech facility",
    "dek": "A Michigan clerk has rejected petitions aimed at recalling local officials who approved rezoning for a massive data center project. Residents opposed to the development now face an uphill battle to force a new vote. The decision keeps the 500-acre project on track in a community already divided over power use and tax breaks.",
@@ -154,40 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaTNGMXlETWxMa19oTUppb3RsOUw0S0lNcUdpeXR1cFJaUUQzLXlUZURZMW9qcFplbHk0Uld1LWx6YUdfNFMyNm1qdnFBZi16ekRUWnZHeTN3bF9sYXExd1NQeHNqTEtmeklBU2tSV3gxYnRxcmNLeUtITzR5WTY2eWZDaDBxVG1HdG16N1pKZ3B2QWhpSjNFRFJnU1N6WUp0RF9BRnF6d2dUanJDc3FnMVBHcEhoN0hhVHNjWGFnWk05QQ?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Garfield Twp halts data centers for a year to study rules",
-   "dek": "Garfield Township supervisors voted to pause all new data-center proposals while they research limits on power use, water draw and noise. The move gives residents time to weigh how large server farms would affect local taxes, roads and the power grid in Grand Traverse County. Without the pause, developers could file applications before any new restrictions take effect.",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT3ZnXzFXRjJpU1dNclNmeDBKQk9YWF9EZ2wyUzYxMDE0NVJIODBLaTE0X3Y5MC1mbFNNRGo3eF91UDJNaGpsR3ZnOEpVUUJpQ3FXOTQ1VUxXbTI2NHVocUpOeUo0bmp3REFPVHZvMm43SjQwQVlyaXJFTFdrTU4zbWhqRWVIRmV3VGZLY0FUenprZGEtTHEwdHZfSnBBOGpVRGVfWnN6OTZqRTQxTlhzQmdYRlB1VWpiX2lGZVhGMGxYRkxaV1E?oc=5",
-   "source": "9and10News.com",
-   "region": "north",
-   "cat": "STATEWIDE",
-   "county": "Grand Traverse",
-   "tag": "Local Government",
-   "iso": "2026-08-26T01:07:06Z",
-   "id": "a35e3c5b0f71",
-   "origin": "google-news",
-   "source_title": "Garfield Township enacts data center moratorium to buy time for research on restrictions - 9and10News.com",
-   "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT3ZnXzFXRjJpU1dNclNmeDBKQk9YWF9EZ2wyUzYxMDE0NVJIODBLaTE0X3Y5MC1mbFNNRGo3eF91UDJNaGpsR3ZnOEpVUUJpQ3FXOTQ1VUxXbTI2NHVocUpOeUo0bmp3REFPVHZvMm43SjQwQVlyaXJFTFdrTU4zbWhqRWVIRmV3VGZLY0FUenprZGEtTHEwdHZfSnBBOGpVRGVfWnN6OTZqRTQxTlhzQmdYRlB1VWpiX2lGZVhGMGxYRkxaV1E?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 9
-  },
-  {
-   "title": "Lowell Twp still hammering out rules for big data centers",
-   "dek": "Lowell Township continues work on an ordinance to govern data center siting after months of debate. The rules will decide where these facilities can locate and what limits apply to power and noise. Kent County residents should pay attention because the outcome will shape future development and local tax impacts.",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51aHJleFV0WGFKVU1PT2pvMXRCVmhaNUpQY1JXZXphelBvWnN3T2xKS3ZjY3hGYlJMN2ZiMVp1Z0NTQ0JORmU4WFdqYkNZQi15TS05OUp6NTdVLVkzS1JJd0xsc1Ywa1JkVjctMTF0REI5YjZLVG1jZ1I0RXQzZw?oc=5",
-   "source": "AOL.ca",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Kent",
-   "tag": "Local Government",
-   "iso": "2026-08-25T20:02:10Z",
-   "id": "e3c55633811c",
-   "origin": "google-news",
-   "source_title": "‘Long way to go’: Work continues on data center ordinance in Lowell Township - AOL.ca",
-   "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51aHJleFV0WGFKVU1PT2pvMXRCVmhaNUpQY1JXZXphelBvWnN3T2xKS3ZjY3hGYlJMN2ZiMVp1Z0NTQ0JORmU4WFdqYkNZQi15TS05OUp6NTdVLVkzS1JJd0xsc1Ywa1JkVjctMTF0REI5YjZLVG1jZ1I0RXQzZw?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {

@@ -1,27 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDg0c3NjUG1MOWxsb1VPYmpJNkd0V214NTBHbXd5OXR3QUVKcFppUWg1QnhLU3VFZVFWVlk0ZnVkOFI5dWxNUlU1eG5yZm82cUMtX29IWHI2eFQzcUhUSVBFclVRMklmU2FSeHV6YjI1NUxRRklxeEl1UEVmcWVSNk1uTE5NR0R2Tmx1by1uYVhGalBTWDQw?oc=5",
-   "title": "Michigan bets big on AI data centers despite national pullback",
-   "at": "2026-08-18T17:58:30+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: National trend piece with Michigan angle but no specific decision, filing, or concrete development reported."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcnBBSWR4Xy1sZ3R2YUxiOFlvNGhBZGYweVdsdlgtRHhSSGFpMG5NUktDVDVnbGpUbjNlSjBSa01XeWdRQm5ubWlacG0ybHJIb21VWGp3UFNCcUdQTk4ydHU0a1FVbkFxc3hCbFotcjdET1hBR0UwRnBrSHczMDhVUDRHTjRQYU81bGlRNk1KbDN2N3gySHNxMXJDalV3RUV3eG5SVHZjRk1NZmlKdkN5WTd2dkxBOE5yY214M180YWJxVE8tcWFfYVlra0FMTHVoY3E5bjlKZXNMR3c?oc=5",
-   "title": "MSU experts: data centers cooling on Michigan sites",
-   "at": "2026-08-18T17:58:30+00:00",
-   "by": "news_judge",
-   "note": "score 5/10: Expert analysis claiming projects are being dropped but lacks specifics on which operators, which sites, or documentary evidence."
-  },
-  {
-   "url": "https://www.wnem.com/video/2026/08/17/franklin-county-data-center-project-dropped/",
-   "title": "Franklin County drops proposed data center project",
-   "at": "2026-08-18T19:53:50+00:00",
-   "by": "news_judge",
-   "note": "score 2/10: National story about Franklin County (not Michigan-specific, unclear which state) with vague details about an abandoned project—lacks concrete Michigan relevanc"
-  },
-  {
    "url": "https://www.wndu.com/2026/08/18/elkhart-council-advances-data-center-battery-storage-moratorium/",
    "title": "Elkhart Advances One-Year Moratorium on Data Centers and Battery Storage",
    "at": "2026-08-18T20:54:54+00:00",
@@ -1399,21 +1378,30 @@
    "at": "2026-08-28T11:12:22+00:00",
    "by": "news_judge",
    "note": "score 4/10: Campaign event coverage with voter questions but no actual policy development or decision made."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQVQ2TFhGRnNXbEpLQVF2V0RtY2g3NDd2cHJ4TFhRQU03X2pzZC1RdnpzNEhYR05zV0NvVXVzTW96bEFpLWVSQjk5bWQ0czVnRmI3WDBpanphdW9vQkpROG1FR0RSUVVwek5TVHJvQVBkaDNzSmFQTHVXSWN4dkdpSjlyTzMtZHF2TFROM0VjZDRWbUN3N21YSFh3VUc3cl9N?oc=5",
+   "title": "DTE seeks two new gas plants to meet 2,100 MW surge",
+   "at": "2026-08-28T21:30:37+00:00",
+   "by": "news_judge",
+   "note": "score 4/10, duplicate: This is the same DTE gas plant filing already covered in the LIVE story 'DTE seeks two new gas plants to feed data center power hunger.'"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb2JySnVQY09xcmtpTWFoZ1NwTHlDRWdlV2ZQd21hb1VvdDVTVWYxM3daWWZZYl93MWtyUVZEbFlUR0hpWWZHSk4yNjNaYUFtSE1wLU52VEVjNGQ2aEl3R2pkQWNDYXhybFp3V2dYbkdtcHVXdmppUFNDUUhGdnJ3a1dZaEdfdnFLa0h5TkVwQjRSTW9HVEt1Z19OREt4bEFNMnVXSnVEQmV3VnY2Tmo5czdydw?oc=5",
+   "title": "UM data center backlash warns other Michigan towns on risks",
+   "at": "2026-08-28T21:30:37+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Editorial/opinion piece offering retrospective analysis rather than reporting a new event or decision."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT1NBd2w1dTA3Q3NfT2dKcUswRl9WTnU2cG0yN3JDeGJFV09QU3FWSTFkUmpEelN5UFFZN3E0SG9BSDZnVEpEQ2h5ZDVvcGJWM0s3Zm5sU243Y0FyelU5d2FqSVE2QzlXR2VRS0tpamdCeUhGd2hDMXVLenNDSFF3YjNxelJHNktKRXc?oc=5",
+   "title": "Mike Rogers shifts on data centers after voter pushback",
+   "at": "2026-08-28T21:30:37+00:00",
+   "by": "news_judge",
+   "note": "score 5/10: Campaign position shift is incremental political news, not a concrete policy action or project development."
   }
  ],
  "auto_published": [
-  {
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82TFRGeFhTM2VsNkRHaERJVEUtSDZhdnVDRzhoN3pSeDVVaUxuNDNIU2p2LV94bVJxV1JQdVBlUi1QMHJQRE1WMDlVdnk0Wm82eDhyYTU4UXpuM01IUmVCTld4ZGZwRHdDdnBv?oc=5",
-   "title": "Monroe voters reject data center plan after energy and noise fears",
-   "judge_score": 7,
-   "at": "2026-07-14T16:23:02Z"
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSkZWLXlPOVN2SDd2V1p3UjN2N2hmUzFVYkM1clZ1dzNOVXRiNF9uWWVLZ0RVWnFyTXNsZTNIRmpOVllKeDdFQ2lPVDktSUVPSGo0YXpuVXI0ZHlyaExoQ0REQWl0Z19IcldWU1pLcWFEMy1oRTh2VV9hekljSVZqTzZKWXMxWDU4ak1qSjFjOEhJemEwNVE5c0pDUHZDRGpwRGxVaENnU3NjRms?oc=5",
-   "title": "Salem Township developer pitches revised data-center plan to ease concerns",
-   "judge_score": 6,
-   "at": "2026-07-14T17:44:28Z"
-  },
   {
    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNRTlhdS1lWG9YOHNWbUhENWdELThrblhtZkxyZXNBclJkVk0wdjEtT25UcFdPVktUSGx1cE5uZ3g4WGtObzhrY2JaTzdQOWtrYXF6M0RXOEp3Uk10WE5hVVUwZXQwa3ktT29Bc1c2Qmw5bHNnWHFncVViZWJUM1o1ZUk4VUpjbEtYWEpKSU5HcExRZWJfYUNPNlhIemR6S2w5MDdLRk8zVTlXWm14SS03eE1VaDNfc1JseWVyY0tGZ0xCT0NKUjJIRG1aSGFEdEVzcEt6NWJVeXE1bTFjZm9vdXFfd3NycEVENE94eUNnd1gzSGNXalJkc1JsMHVMMG9GV0Jpd1EzWXR2WHF0ZEVtVncxS3JTVE0?oc=5",
    "title": "Hyperscale developer faces Benton Harbor residents over noise and traffic",
@@ -3201,6 +3189,18 @@
    "title": "Recall effort fails against officials who greenlit massive tech facility",
    "judge_score": 8,
    "at": "2026-08-28T11:12:22Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTlYyS3BtUXprYnA2SHVkREJoSW5EUmV2UjdFLWtfY0lReW9mNnFfdHV6d3dEaENwUEdTZnFTenJWNklfMjdjaTRQRDl0RzB2SFEwMVdzNXhfeERHSDQ1dTJTVzZKdmlvcl80aDlPYTZfbnA1aWlRWnRzaXUwTmk5bUNZT3hYT1ZnaUVNcllVR3pSSllGdldUWnRoT0FWZzc3OHhDMVBVa1JjU28?oc=5",
+   "title": "AG Nessel wants 71% cut to DTE’s $474M rate hike",
+   "judge_score": 8,
+   "at": "2026-08-28T21:30:37Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSHBLWGJKdFozV1JUTXotLXAydjhYX2pjdndEVnNWQnltNTNRN04tYWY1Nk5GeHVPT3JtVFV2dl9oenV1M2wwVmhqWDJZUFB2Y09pM1NZME1leTc3REliNENOOXgybU5JdnNTemhXVFEzOUYyTEh0YjFha2RCWEFVeHBpSHh1UDI2aDZWWmtDaFRfT1V3QjZQZUgwaw?oc=5",
+   "title": "New Michigan bills target big data center builds with fresh rules",
+   "judge_score": 7,
+   "at": "2026-08-28T21:30:37Z"
   }
  ]
 }
