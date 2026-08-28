@@ -1,10 +1,10 @@
 {
- "title": "Mornings with Graham & Emmy",
- "teaser": "DTE wants two new gas plants for surging data center demand—what it means for bills and the grid.",
+ "title": "Evenings with Graham & Emmy",
+ "teaser": "Recall bid collapses in one township while zoning battles and power demands heat up statewide.",
  "lines": [
   {
    "host": "Graham",
-   "text": "Good morning and welcome to Mornings with Graham & Emmy, the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
+   "text": "Good evening, and welcome to Evenings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
   },
   {
    "host": "Emmy",
@@ -12,198 +12,238 @@
   },
   {
    "host": "Graham",
-   "text": "It's Friday morning, August 28, and today we're digging into DTE's push for two new natural gas plants to meet the electricity hunger from data centers."
+   "text": "Tonight we're diving into a recall effort that just fell apart, keeping a big 500-acre project moving forward even as communities keep pushing back on power, water, and taxes."
   },
   {
    "host": "Emmy",
-   "text": "That lead story feels like the biggest shift we've seen in a while. Graham, walk us through what DTE is actually asking regulators for."
+   "text": "That sounds like the latest chapter in a story we've been tracking for weeks now."
   },
   {
    "host": "Graham",
-   "text": "DTE Energy plans to seek approval for two new gas-fired plants because data centers are driving up demand fast in southeast Michigan."
+   "text": "Exactly. A Michigan clerk rejected the petitions aimed at recalling the local officials who approved the rezoning."
   },
   {
    "host": "Emmy",
-   "text": "Why now? We've heard about coal retirements for years, but how does this connect directly to the data center boom?"
+   "text": "So the project stays on track for now."
   },
   {
    "host": "Graham",
-   "text": "The timing lines up with older coal units coming offline while hyperscale projects keep landing in the region. DTE says the plants are needed to keep the lights on and the grid reliable."
+   "text": "Right, and residents who opposed it are facing a tougher road if they want another vote."
   },
   {
    "host": "Emmy",
-   "text": "And if approved, how much could this actually raise customer bills? The summary mentions it could push rates up."
+   "text": "This is the one in a community already split over how much electricity it will pull and what kind of tax breaks the company is getting."
   },
   {
    "host": "Graham",
-   "text": "Exactly. Residents from Detroit all the way to Ann Arbor would feel it through higher electric rates, plus we'd be locking in more fossil fuel generation for years."
+   "text": "We've seen this pattern before with these big facilities."
   },
   {
    "host": "Emmy",
-   "text": "What about the bigger picture on water use? Gas plants need cooling water too, right? How does that stack up against the data centers themselves?"
+   "text": "Yeah, developers come in promising jobs, but the trade-offs on the grid and local resources keep coming up."
   },
   {
    "host": "Graham",
-   "text": "It's another layer. Data centers already draw huge amounts for cooling, and adding gas plants could compound the strain on local supplies, especially in areas already watching aquifer levels."
+   "text": "The history here goes back months in several townships where rezoning fights turned into recall attempts or moratoriums."
   },
   {
    "host": "Emmy",
-   "text": "Farmland and towns are in the mix as well. Where might these plants go, and what kind of pushback are we seeing from communities?"
+   "text": "How many places have tried something like this recall route?"
   },
   {
    "host": "Graham",
-   "text": "Siting fights are heating up across the same suburbs that are rewriting zoning rules today. Homeowners worry about noise, traffic, and property values even 30 miles out."
+   "text": "A handful, but most of the pushback has been through zoning changes or temporary freezes instead."
   },
   {
    "host": "Emmy",
-   "text": "This feels like part of a longer battle. How many townships have already hit pause on data centers while they figure out the rules?"
+   "text": "That makes sense. Recalls are a heavy lift."
   },
   {
    "host": "Graham",
-   "text": "Several across the state, from Solon Township extending its freeze yesterday to Garfield Township's year-long halt earlier this week. It's a pattern of local governments buying time."
+   "text": "They are. And when they fail like this one did today, it signals the project is likely staying put."
   },
   {
    "host": "Emmy",
-   "text": "What happens next with the DTE request? Is there a clear timeline for public hearings or a decision from regulators?"
+   "text": "What does that mean for the electric bills people are already worried about?"
   },
   {
    "host": "Graham",
-   "text": "The company will file with the Michigan Public Service Commission, and that process usually includes comment periods where residents and local officials can weigh in."
+   "text": "DTE is already asking regulators for two new gas plants because data centers are driving up demand across southeast Michigan."
   },
   {
    "host": "Emmy",
-   "text": "So the stakes are real for everyday ratepayers. If these plants get built, we're looking at higher bills and more emissions for the foreseeable future."
+   "text": "Those plants would add to the load if they get built."
   },
   {
    "host": "Graham",
-   "text": "That's the core tension right now between economic growth from data centers and the costs passed down to households."
+   "text": "And older coal units are retiring at the same time, so the math could mean higher rates for everyone from Detroit out to Ann Arbor."
   },
   {
    "host": "Emmy",
-   "text": "Let's shift to some of the other developments from today. Two more Metro Detroit towns are changing their zoning after resident complaints."
+   "text": "Water use is another big piece, right?"
   },
   {
    "host": "Graham",
-   "text": "Yes, local officials in two additional suburbs are updating codes specifically to address noise, water use, and power strain from potential projects."
+   "text": "Cooling these facilities takes a lot, and that's why several townships are rewriting rules or extending bans to study the impact."
   },
   {
    "host": "Emmy",
-   "text": "How might that ripple out to homeowners farther away?"
+   "text": "Farmland and rural towns are feeling it too."
   },
   {
    "host": "Graham",
-   "text": "It could slow or block large developments that developers had in mind, which in turn might affect property values and utility costs across a wider area."
+   "text": "The 500-acre footprint alone can change the character of a place, and the tax shifts can hit homeowners even if they're not right next door."
   },
   {
    "host": "Emmy",
-   "text": "And in Wixom, a developer is suing the city after its project got blocked."
+   "text": "So who are the main players in this particular fight?"
   },
   {
    "host": "Graham",
-   "text": "That's right. The firm claims the zoning decisions unfairly killed its plans, and the lawsuit could end up costing taxpayers if it moves forward."
+   "text": "Local officials who approved the rezoning are still in place after the recall failed, the developer pushing the project, and the residents who gathered the petitions."
   },
   {
    "host": "Emmy",
-   "text": "What are people in Oakland County watching for in that case?"
+   "text": "And now the clerk's decision keeps everything moving."
   },
   {
    "host": "Graham",
-   "text": "Whether it chills future investment or gives neighborhoods stronger protections against heavy industrial loads."
+   "text": "It does. The next steps could involve more legal challenges or just watching how the construction phase plays out."
   },
   {
    "host": "Emmy",
-   "text": "Yesterday we had two more extensions on moratoriums. Solon Township is keeping its freeze through early next year."
+   "text": "What happens next on the bigger statewide level?"
   },
   {
    "host": "Graham",
-   "text": "Leaders there recommended extending the existing moratorium while they update zoning to tackle noise, traffic, and utility costs."
+   "text": "We have township leaders endorsing bills that would make data centers pay more for grid upgrades, which could ease some of the bill pressure if they pass."
   },
   {
    "host": "Emmy",
-   "text": "And a West Michigan community did the same, pushing its ban out to at least early 2027."
+   "text": "That sounds like a direct response to the power hunger we're seeing."
   },
   {
    "host": "Graham",
-   "text": "Residents there get more time to study power demand, noise, and water use before anything moves ahead."
+   "text": "It is, and it shows the resistance is spreading beyond just one community."
   },
   {
    "host": "Emmy",
-   "text": "Gaines Township is taking a different approach with actual sound measurements."
+   "text": "Any sense of how long these fights usually drag on?"
   },
   {
    "host": "Graham",
-   "text": "Officials will measure decibel levels at a proposed site to see how much neighbors would hear from cooling fans and generators."
+   "text": "Some moratoriums are already extended into early 2027, so we're looking at months more of studies and rule changes."
   },
   {
    "host": "Emmy",
-   "text": "That could be a game-changer if the numbers exceed local limits."
+   "text": "That gives residents time but also keeps uncertainty high for everyone."
   },
   {
    "host": "Graham",
-   "text": "Homeowners within a few miles now have concrete data to judge the impact on daily life."
+   "text": "Exactly. The big story here is that even when a recall fails, the underlying concerns about costs and resources are not going away."
   },
   {
    "host": "Emmy",
-   "text": "From earlier this week, township supervisors across northern Michigan backed state bills to make data centers pay more for grid upgrades."
+   "text": "We'll keep watching how other communities handle similar projects."
   },
   {
    "host": "Graham",
-   "text": "The idea is that forcing operators to cover more of those costs could keep residential bills lower, but only if local governments retain leverage."
+   "text": "Now let's move to the quick hits from the last couple of days."
   },
   {
    "host": "Emmy",
-   "text": "Garfield Township also voted to pause new proposals for a full year."
+   "text": "Yesterday in Saline Township the data center proposal kept advancing even after officials tightened zoning rules under pressure."
   },
   {
    "host": "Graham",
-   "text": "Supervisors want time to research limits on power, water, and noise in Grand Traverse County before any big projects file applications."
+   "text": "It could mean thousands of construction jobs, but the power and water demands are still a concern for people 30 miles away who might see higher utility rates."
   },
   {
    "host": "Emmy",
-   "text": "Lowell Township is still working on its own ordinance after months of debate."
+   "text": "Also yesterday, two more Metro Detroit suburbs changed their zoning codes after residents raised alarms about noise, water, and power strain."
   },
   {
    "host": "Graham",
-   "text": "The rules they're hammering out will decide where facilities can locate and what caps apply to power and noise in Kent County."
+   "text": "Those changes could slow or block projects developers have been eyeing in the region."
   },
   {
    "host": "Emmy",
-   "text": "And there's a new state proposal requiring data centers to disclose their water use."
+   "text": "Wixom is facing a lawsuit from a data center firm after the city blocked the plans."
   },
   {
    "host": "Graham",
-   "text": "That would give communities hard numbers on aquifer and municipal supply strain before projects get approved."
+   "text": "The developer claims the zoning decisions killed the project unfairly, and taxpayers could end up covering legal costs."
   },
   {
    "host": "Emmy",
-   "text": "So across the board, local pushback is growing while the state level sees more disclosure and cost-sharing ideas."
+   "text": "On Thursday Solon Township extended its data center freeze another six months while they update rules on noise, traffic, and utility costs."
   },
   {
    "host": "Graham",
-   "text": "It shows how quickly the conversation has shifted from welcoming investment to managing the downsides."
+   "text": "A West Michigan community did the same, pushing its moratorium out to at least early 2027."
   },
   {
    "host": "Emmy",
-   "text": "On deck for listeners, are there any meetings coming up that people can attend?"
+   "text": "That gives residents more time to look at the grid impacts and potential bill increases."
   },
   {
    "host": "Graham",
-   "text": "No major public hearings are listed for today or tomorrow in the tracker, but several townships like Solon and Garfield are in active zoning rewrite phases."
+   "text": "Wednesday brought news that Gaines Township will do decibel readings at a proposed site to see how much noise residents would hear from cooling fans and generators."
   },
   {
    "host": "Emmy",
-   "text": "Folks should check their local township websites or the Michigan Data Center Tracker map for any last-minute notices."
+   "text": "If it exceeds limits, that could reshape or stop the project."
   },
   {
    "host": "Graham",
-   "text": "That's the practical next step while the bigger regulatory fights play out."
+   "text": "Also on Wednesday, Michigan supervisors backed state bills that would force data centers to pay more toward grid upgrades."
   },
   {
    "host": "Emmy",
-   "text": "Full sources and the live map at the Michigan Data Center Tracker. We're back tomorrow."
+   "text": "Residents might see lower bills if those pass and local governments keep some control."
+  },
+  {
+   "host": "Graham",
+   "text": "And Garfield Township voted to halt new proposals for a year while they study power, water, and noise limits in Grand Traverse County."
+  },
+  {
+   "host": "Emmy",
+   "text": "That pause prevents developers from filing before new restrictions are in place."
+  },
+  {
+   "host": "Graham",
+   "text": "A lot of activity this week across the state."
+  },
+  {
+   "host": "Emmy",
+   "text": "It really shows how widespread these concerns have become."
+  },
+  {
+   "host": "Graham",
+   "text": "Now for on deck."
+  },
+  {
+   "host": "Emmy",
+   "text": "No major public meetings listed for tonight or tomorrow that we've confirmed yet."
+  },
+  {
+   "host": "Graham",
+   "text": "We'll keep an eye on any last-minute agendas that pop up and bring them to you tomorrow."
+  },
+  {
+   "host": "Emmy",
+   "text": "Listeners can always check the tracker for updates."
+  },
+  {
+   "host": "Graham",
+   "text": "Full sources and the live map at the Michigan Data Center Tracker."
+  },
+  {
+   "host": "Emmy",
+   "text": "We're back tomorrow."
   }
  ],
- "episode_title": "DTE Gas Plants and the Data Center Power Crunch",
- "show": "Mornings with Graham & Emmy",
- "daypart": "Mornings"
+ "episode_title": "Recall Fails, But Data Center Fights Rage On Across Michigan",
+ "show": "Evenings with Graham & Emmy",
+ "daypart": "Evenings"
 }
