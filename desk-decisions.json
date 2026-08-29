@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUHhLcDN2ZlQxQ1pRTmc2azNibm9JaXFpRWo3cFpJbm56NERuSUhhSnV6c1dRRzk0U19ESG5NWmVtcXQ1cnFEb096dk11ZjZ3MmdDUXdHTWpUZ3NyMG1aWV83aUFGVXpHanJhdGlRSHpPeURwQUJRbnRxVnl1OGg0aGRjZXFfNXV4NDFXaGdPRG03NDRnbGt0dEYybm5VU1HSAVZBVV95cUxOSWhpeV9DUXp5dGJUMFhhNmJOR2d6M3BVTTF6TFROYlprRFVpdE1BNzBqWGloV0NJbklFTEtSdTRjT01JQXd6ZkdrVVlMQ0wtS1lPQ1NZUQ?oc=5",
-   "title": "Two firms sue Michigan city, call data center moratorium illegal",
-   "at": "2026-08-18T22:55:39+00:00",
-   "by": "news_judge",
-   "note": "score 1/10, duplicate: This is the same lawsuit already covered in live stories 'Developer sues Michigan city over data center ban' and 'Two firms sue Michigan city, say data center m"
-  },
-  {
    "url": "https://www.detroitnews.com/story/news/local/michigan/2026/08/18/johnson-warns-against-data-center-pause-stumping-in-michigan-swing-seat/91358562007/",
    "title": "House Speaker Johnson Campaigns Against Federal Data Center Moratorium in Michigan Swing District",
    "at": "2026-08-18T23:30:01+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-29T15:17:06+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Duplicate of multiple killed Garfield Township moratorium stories — same one-year ban, same board action, just reworded."
+  },
+  {
+   "url": "https://www.yahoo.com/news/politics/articles/michigan-clerk-rejects-recall-petitions-073600812.html",
+   "title": "Augusta Township Recall Bid Fails on Address Errors, Leaving Data Center Opponents Without November Vote",
+   "at": "2026-08-29T18:47:53+00:00",
+   "by": "news_judge",
+   "note": "score 4/10, duplicate: This is the same recall failure already live as 'Recall effort fails against officials who greenlit massive tech facility' — same Augusta Township recall, same "
   }
  ],
  "auto_published": [
