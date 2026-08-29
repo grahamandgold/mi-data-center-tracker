@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZXJmMGRBLTUtTFFRd1JCT1B6alpqUExhVnVWbWFYT1pKeU1iQkY3REtaLUhnMDM5dmZEMkJVRjJfd0VzNmhyRWRjX0ZSZWZ6bVVtRHJ3SDJ2TUdUYUo1QjJ5a3NsOEF3TzBuUEMxX2RlYmVEdlVHRldjMExqOUpmUXJZSTRXY1p5VGs1WDN6dWkzNERuRWFTa1ZIcExMQndGeWN5OXVIYXlXUTVYVFMzQlEtSFluX3BoNXAxVjZDSFJtMkg5eU1uRnV5eGpDLTMybG1ocEpMTUF2RHU0ZE9tM2Rjbw?oc=5",
-   "title": "Johnson tells Michigan voters a data center pause would kill jobs",
-   "at": "2026-08-18T22:32:53+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: National political figure's campaign rhetoric about data centers, not a Michigan-specific decision, filing, or concrete development."
-  },
-  {
-   "url": "https://www.detroitnews.com/videos/business/real-estate/2026/08/18/data-centers-michigan/91357244007/",
-   "title": "Data Center Boom Sparks Backlash in Michigan Campaign Stops",
-   "at": "2026-08-18T22:55:39+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: Campaign trail Q&A about data center policies is thin political coverage without a concrete development, decision, or policy announcement."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUHhLcDN2ZlQxQ1pRTmc2azNibm9JaXFpRWo3cFpJbm56NERuSUhhSnV6c1dRRzk0U19ESG5NWmVtcXQ1cnFEb096dk11ZjZ3MmdDUXdHTWpUZ3NyMG1aWV83aUFGVXpHanJhdGlRSHpPeURwQUJRbnRxVnl1OGg0aGRjZXFfNXV4NDFXaGdPRG03NDRnbGt0dEYybm5VU1HSAVZBVV95cUxOSWhpeV9DUXp5dGJUMFhhNmJOR2d6M3BVTTF6TFROYlprRFVpdE1BNzBqWGloV0NJbklFTEtSdTRjT01JQXd6ZkdrVVlMQ0wtS1lPQ1NZUQ?oc=5",
    "title": "Two firms sue Michigan city, call data center moratorium illegal",
    "at": "2026-08-18T22:55:39+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-29T10:24:18+00:00",
    "by": "news_judge",
    "note": "score 3/10, duplicate: Rehashes the Mike Rogers stance-shift story already killed as 'Mike Rogers shifts on data centers after voter pushback.'"
+  },
+  {
+   "url": "https://www.michigan.gov/ag/news/press-releases/2026/08/28/ag-nessel-seeks-to-slash-dtes-474-million-rate-hike-request-by-71",
+   "title": "Nessel Pushes to Trim DTE Hike to $134M, Shield Residents from Data Center Costs",
+   "at": "2026-08-29T15:17:06+00:00",
+   "by": "news_judge",
+   "note": "score 4/10, duplicate: Duplicate of already-live 'AG Nessel wants 71% cut to DTE's $474M rate hike' — same Nessel action on same DTE rate case."
+  },
+  {
+   "url": "https://www.themidwesterner.news/2026/08/garfield-township-latest-michigan-government-body-to-enact-data-center-moratorium/",
+   "title": "Garfield Township Enacts One-Year Moratorium on Data Centers and Crypto Mining",
+   "at": "2026-08-29T15:17:06+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicate of multiple killed Garfield Township moratorium stories — same one-year ban, same board action, just reworded."
   }
  ],
  "auto_published": [

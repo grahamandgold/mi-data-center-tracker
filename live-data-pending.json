@@ -1,6 +1,25 @@
 {
- "updated_at": "2026-08-29T10:24:18Z",
+ "updated_at": "2026-08-29T15:17:06+00:00",
  "generator": "grok-wire-agent",
- "items": [],
- "accuracy_checked_at": "2026-08-29T10:24:12+00:00"
+ "items": [
+  {
+   "iso": "2026-08-28T13:00:00Z",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "tag": "Policy",
+   "title": "New House Bills Target Data Center Energy Use, Thermal Impacts",
+   "dek": "Rep. Reggie Miller and Democratic sponsors introduced HB 6251 and 6252 on Aug. 26 to require evaluations of electricity demand, water use, cooling systems and heat effects before large data centers can proceed.",
+   "source": "Big Rapids News",
+   "url": "https://www.bigrapidsnews.com/news/article/michigan-data-center-construction-bills-22406752.php",
+   "breaking": false,
+   "lead": false,
+   "id": "75e4edd2eca2",
+   "kind": "story",
+   "filed_at": "2026-08-29T15:16:52+00:00",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8,
+   "judge_note": "New bills (HB 6251 and 6252) with specific sponsors and date are a concrete development distinct from the already-live 'New Michigan bills' story."
+  }
+ ],
+ "accuracy_checked_at": "2026-08-29T15:17:01+00:00"
 }
