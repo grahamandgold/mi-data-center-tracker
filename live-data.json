@@ -1,7 +1,41 @@
 {
- "updated_at": "2026-08-29T03:18:45+00:00",
+ "updated_at": "2026-08-29T10:24:18Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Ellington Township halts new data centers with moratorium",
+   "dek": "Ellington Township residents secured a pause on data center proposals after the board approved the moratorium. The move gives locals time to examine power demands, water use, and tax effects before any large projects advance. Tuscola County communities nearby will watch how the decision shapes future development.",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMlNrcVEweFl4NlFfQ3ViMldINE9LakF2Zm5QR25ISkRhaXFWZWdlZ1RMVkc1Nzh6a3l2Z3hHeHFDM2lwc3Zad091Wk5tclJTZWJmQkJUNkNpVThETzdwb0t1Q19nY21RcHJFRlBlTEdaSG1QMnFocmY1TnQtRHVDeG5ZVTdfd0ItTlZWbHFkdXlMV0NWTDdtWHJfZjJaQUZJNW5ZYklTbmxlVDVQdmRSbUlhUHU3WW1KcWp2Tzg5NHhoUGJWQnZpSm1adV82V2c?oc=5",
+   "source": "tuscolatoday.com",
+   "region": "mid",
+   "cat": "STATEWIDE",
+   "county": "Tuscola",
+   "tag": "Local Government",
+   "iso": "2026-08-29T09:00:00Z",
+   "id": "bc62bfea60b1",
+   "origin": "google-news",
+   "source_title": "Ellington Township Approves Data Center Moratorium - tuscolatoday.com",
+   "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMlNrcVEweFl4NlFfQ3ViMldINE9LakF2Zm5QR25ISkRhaXFWZWdlZ1RMVkc1Nzh6a3l2Z3hHeHFDM2lwc3Zad091Wk5tclJTZWJmQkJUNkNpVThETzdwb0t1Q19nY21RcHJFRlBlTEdaSG1QMnFocmY1TnQtRHVDeG5ZVTdfd0ItTlZWbHFkdXlMV0NWTDdtWHJfZjJaQUZJNW5ZYklTbmxlVDVQdmRSbUlhUHU3WW1KcWp2Tzg5NHhoUGJWQnZpSm1adV82V2c?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
+  {
+   "title": "Genesee panel delivers data center impact study to leaders",
+   "dek": "A local committee completed and submitted its study on data center effects in the area. Officials now have details on potential strain to power, water, and roads that could hit Genesee County taxpayers. Residents 30 miles away may see similar proposals and want the same scrutiny applied.",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbUdkMHhHQ3NiMEZEcU1sYTU5Wm9Wd2J4VksyR0JzN0JzcDlLVnB2UV9LOGl6SGZ4MFJ4bWZCTlZRbmw0OUF4NGxtbFdZYlc0cEN6MDJVM1F5dWV6M1dpTFlGcmFNQTM5S0pVdDhWNXhqbmkzWHVQYm45cm9zWDRMQnloMHRRNkRoNFpONWJ2ZUY3MHlMcUQzeQ?oc=5",
+   "source": "thecitizenonline.com",
+   "region": "mid",
+   "cat": "STATEWIDE",
+   "county": "Genesee",
+   "tag": "Policy",
+   "iso": "2026-08-29T04:03:39Z",
+   "id": "67e4ad66b77c",
+   "origin": "google-news",
+   "source_title": "Local committee delivers Data Center impact study - thecitizenonline.com",
+   "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbUdkMHhHQ3NiMEZEcU1sYTU5Wm9Wd2J4VksyR0JzN0JzcDlLVnB2UV9LOGl6SGZ4MFJ4bWZCTlZRbmw0OUF4NGxtbFdZYlc0cEN6MDJVM1F5dWV6M1dpTFlGcmFNQTM5S0pVdDhWNXhqbmkzWHVQYm45cm9zWDRMQnloMHRRNkRoNFpONWJ2ZUY3MHlMcUQzeQ?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "AG Nessel wants 71% cut to DTE’s $474M rate hike",
    "dek": "Dana Nessel told regulators the full increase would hit households too hard. Data center power demand is one factor behind DTE’s request. A smaller hike would still leave Michigan users paying more for electricity.",
@@ -154,40 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYzlVRDBES2M1VTVhYTFRbFdrU1JkNko4STBuSGpIejhuS1hpSk1QUG94aldxYlp6eXh6T3JwUmo3dGJYWndBXzJUVmRqZXVCcVJodDZHcThsRDRkUnFxVjYtVHJuQ1FUNWhPVGdMT0ZYZWcwZE1yN2diSnZ0S3MxNExnTU13WVZDWllkRk1QeklwSEpQZDB1QzlmaTQ2ekJQSmRSNXdrYlNlWEdvTlJJTm94cFAyMnM?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
-  },
-  {
-   "title": "Homeowners to get decibel readings that could halt server farm near residences",
-   "dek": "Officials in Gaines Township will measure sound levels at a proposed data center location to see how much residents would hear. The study could block or reshape the project if cooling fans and generators exceed local limits. Homeowners within a few miles now have concrete data to judge whether the facility will disturb daily life.",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRGZMTUZPNF96NzJucEw2akRNRERBalJPT3EtanVuZkxkR2FPZ0cyUjJoLWF5NHNrYmZieVdmUmFFdHZoWE54ZzRINE1Dc3JFWmFWTi1lY0xfc0tqNVJKaGpKbjBVQ0ZxSzFYd25HVU9Fekkwbm4tR3Q2VjRIS1FWcHB2Q1Z2ZnF2ZWFFMm1PVVlwLWV1?oc=5",
-   "source": "Yahoo",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Kent",
-   "tag": "Local Government",
-   "iso": "2026-08-26T21:51:43Z",
-   "id": "6d2283ce385d",
-   "origin": "google-news",
-   "source_title": "Gaines Township to research noise at proposed data center site - Yahoo",
-   "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRGZMTUZPNF96NzJucEw2akRNRERBalJPT3EtanVuZkxkR2FPZ0cyUjJoLWF5NHNrYmZieVdmUmFFdHZoWE54ZzRINE1Dc3JFWmFWTi1lY0xfc0tqNVJKaGpKbjBVQ0ZxSzFYd25HVU9Fekkwbm4tR3Q2VjRIS1FWcHB2Q1Z2ZnF2ZWFFMm1PVVlwLWV1?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
-  },
-  {
-   "title": "Michigan supervisors back bills to curb data center power costs",
-   "dek": "Township leaders across northern Michigan endorsed new state rules that would force data centers to pay more toward grid upgrades. Residents could see lower electric bills if the bills pass, but only if local governments keep leverage over big projects. The move signals growing pushback against unlimited data center growth in the state.",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaTNGMXlETWxMa19oTUppb3RsOUw0S0lNcUdpeXR1cFJaUUQzLXlUZURZMW9qcFplbHk0Uld1LWx6YUdfNFMyNm1qdnFBZi16ekRUWnZHeTN3bF9sYXExd1NQeHNqTEtmeklBU2tSV3gxYnRxcmNLeUtITzR5WTY2eWZDaDBxVG1HdG16N1pKZ3B2QWhpSjNFRFJnU1N6WUp0RF9BRnF6d2dUanJDc3FnMVBHcEhoN0hhVHNjWGFnWk05QQ?oc=5",
-   "source": "North County Pipeline",
-   "region": "north",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Policy",
-   "iso": "2026-08-26T13:00:18Z",
-   "id": "ccfd88cf9710",
-   "origin": "google-news",
-   "source_title": "Supervisors back state bills regulating data centers - North County Pipeline",
-   "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaTNGMXlETWxMa19oTUppb3RsOUw0S0lNcUdpeXR1cFJaUUQzLXlUZURZMW9qcFplbHk0Uld1LWx6YUdfNFMyNm1qdnFBZi16ekRUWnZHeTN3bF9sYXExd1NQeHNqTEtmeklBU2tSV3gxYnRxcmNLeUtITzR5WTY2eWZDaDBxVG1HdG16N1pKZ3B2QWhpSjNFRFJnU1N6WUp0RF9BRnF6d2dUanJDc3FnMVBHcEhoN0hhVHNjWGFnWk05QQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {

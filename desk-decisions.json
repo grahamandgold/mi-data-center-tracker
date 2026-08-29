@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQlhLdlA5R3lkc3VXaV9ZOThnUFVtOXRCNUREZEdoQWpHenczaUowTG8tQms0N3U5S1ZtcTZ6cVFkX0tzUnRiTmRORlg5UENNanR2X0ZiZ1RlbWtSdko1NUZJZTh4NjRTaTJzUkU4MFdDYmZIcGxYUGR5SHFRanE3TE1uX2RGX0pyOW1faHE5eUFNR0JlRUN0UkdIb0tmZnBhR2Y0?oc=5",
-   "title": "Michigan data center rush triggers local pushback on power and taxes",
-   "at": "2026-08-18T22:32:53+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: Generic trend piece rehashing already-covered local pushback themes without identifying a specific new event, vote, or filing."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZzJkR2N2LWtJN2dlMVNUOXVGV25wVEZ2S09LZnI5REo2UlltMUVNR213V1ZMWnB4Snl4eWFyc0ZqaGpUZnpweUVhWUVuTnlzcXZuZTh4TF9VSzQwYnNaWm0yUGVaR29xOWs4OFhlQlJNZmN2WnIxQmVEa3RzQnJzbldMdVIxV0ZFcGdqaWNyUWFHVUhmOTAyU0NBN0E3N3p2anVERmtLRmRGeVRLTTRvWdIBVkFVX3lxTE5JaGl5X0NRenl0YlQwWGE2Yk5HZ3ozcFVNMXpMVE5iWmtEVWl0TUE3MGpYaWhXQ0luSUVMS1J1NGNPTUlBd3pmR2tVWUxDTC1LWU9DU1lR?oc=5",
-   "title": "Two firms sue Michigan city, say data center moratorium breaks state law",
-   "at": "2026-08-18T22:32:53+00:00",
-   "by": "news_judge",
-   "note": "score 8/10, duplicate: This is the same lawsuit already live as 'Developer sues Michigan city over data center ban' and 'Developer Sues Gibraltar Over Yearlong Data Center Moratorium."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZXJmMGRBLTUtTFFRd1JCT1B6alpqUExhVnVWbWFYT1pKeU1iQkY3REtaLUhnMDM5dmZEMkJVRjJfd0VzNmhyRWRjX0ZSZWZ6bVVtRHJ3SDJ2TUdUYUo1QjJ5a3NsOEF3TzBuUEMxX2RlYmVEdlVHRldjMExqOUpmUXJZSTRXY1p5VGs1WDN6dWkzNERuRWFTa1ZIcExMQndGeWN5OXVIYXlXUTVYVFMzQlEtSFluX3BoNXAxVjZDSFJtMkg5eU1uRnV5eGpDLTMybG1ocEpMTUF2RHU0ZE9tM2Rjbw?oc=5",
    "title": "Johnson tells Michigan voters a data center pause would kill jobs",
    "at": "2026-08-18T22:32:53+00:00",
@@ -1399,21 +1385,23 @@
    "at": "2026-08-29T03:18:48+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: This is the same AG Nessel / DTE $474M rate hike story already live in the first bullet point, just reworded."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSkJvRGRFa2FvMkNsdUtyMmxwSGpuSGpHZzNsbWF1endVNHY1OTJLZGVQeHMtZU9GT0lVTk5WX1IzWkJjV2FMS29vNmJaMzVFdXlibGJiTDduRXBOZV9ISXA3b3VmdGpRVUNmOUlSdm42Y3RUZjBHalZ4RVdFVVoyazc0OVdJSkdKMnVOaHpWRGZibl9HUElR?oc=5",
+   "title": "MSU session breaks down data center effects on Michigan land values",
+   "at": "2026-08-29T10:24:18+00:00",
+   "by": "news_judge",
+   "note": "score 5/10: Incremental educational event announcement with potential relevance to property owners, but no decision or concrete development yet."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNFNEWDVxa3J1Wnp0b2tSdEFNN2M4YmNZNl8wd3ZIOUN1WFJWNkZoTGVETHFCSWNGNDROdlFzbUl5bWxvZ2hGUmVuTTAtbzZaVUVhU2VMdlZqSWVrRUl6RDd0akxzdVBXdWw5NkNnOVZ2MHNLdlZwanlCS0NRYWFKamM5WVh4aEN4NkEzNWdZVHRVaXVjX010X1pCYmNFXzlsNlE1dVA2eDRoZw?oc=5",
+   "title": "Report shows Mike Rogers changed data center stance after backlash",
+   "at": "2026-08-29T10:24:18+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: Rehashes the Mike Rogers stance-shift story already killed as 'Mike Rogers shifts on data centers after voter pushback.'"
   }
  ],
  "auto_published": [
-  {
-   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNRTlhdS1lWG9YOHNWbUhENWdELThrblhtZkxyZXNBclJkVk0wdjEtT25UcFdPVktUSGx1cE5uZ3g4WGtObzhrY2JaTzdQOWtrYXF6M0RXOEp3Uk10WE5hVVUwZXQwa3ktT29Bc1c2Qmw5bHNnWHFncVViZWJUM1o1ZUk4VUpjbEtYWEpKSU5HcExRZWJfYUNPNlhIemR6S2w5MDdLRk8zVTlXWm14SS03eE1VaDNfc1JseWVyY0tGZ0xCT0NKUjJIRG1aSGFEdEVzcEt6NWJVeXE1bTFjZm9vdXFfd3NycEVENE94eUNnd1gzSGNXalJkc1JsMHVMMG9GV0Jpd1EzWXR2WHF0ZEVtVncxS3JTVE0?oc=5",
-   "title": "Hyperscale developer faces Benton Harbor residents over noise and traffic",
-   "judge_score": 6,
-   "at": "2026-07-14T17:44:28Z"
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbWEzNVBrYVpyaDFHQVBKbXFhZW9xUlZjeUN6RFA2SzhQemdwRWR0QjdWUktfd1Yyb1Z0UVRZU0RiVmR3VHU1aGNBUUJtREFEZ1FheE9sdFktVGZjMjYzVnFpb1FHdTNZVkpybnkwdmlYYUwzNEZXbVhMbWdlNGdId2hB?oc=5",
-   "title": "Jackson halts all new data centers after council vote",
-   "judge_score": 9,
-   "at": "2026-07-14T17:44:28Z"
-  },
   {
    "url": "https://planetdetroit.org/2026/07/warren-data-center-moratorium-power-outages/",
    "title": "Storms Topple Dozens of Warren Power Lines, Fueling Data Center Pause Push",
@@ -3201,6 +3189,18 @@
    "title": "New Michigan bills target big data center builds with fresh rules",
    "judge_score": 7,
    "at": "2026-08-28T21:30:37Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbUdkMHhHQ3NiMEZEcU1sYTU5Wm9Wd2J4VksyR0JzN0JzcDlLVnB2UV9LOGl6SGZ4MFJ4bWZCTlZRbmw0OUF4NGxtbFdZYlc0cEN6MDJVM1F5dWV6M1dpTFlGcmFNQTM5S0pVdDhWNXhqbmkzWHVQYm45cm9zWDRMQnloMHRRNkRoNFpONWJ2ZUY3MHlMcUQzeQ?oc=5",
+   "title": "Genesee panel delivers data center impact study to leaders",
+   "judge_score": 7,
+   "at": "2026-08-29T10:24:18Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMlNrcVEweFl4NlFfQ3ViMldINE9LakF2Zm5QR25ISkRhaXFWZWdlZ1RMVkc1Nzh6a3l2Z3hHeHFDM2lwc3Zad091Wk5tclJTZWJmQkJUNkNpVThETzdwb0t1Q19nY21RcHJFRlBlTEdaSG1QMnFocmY1TnQtRHVDeG5ZVTdfd0ItTlZWbHFkdXlMV0NWTDdtWHJfZjJaQUZJNW5ZYklTbmxlVDVQdmRSbUlhUHU3WW1KcWp2Tzg5NHhoUGJWQnZpSm1adV82V2c?oc=5",
+   "title": "Ellington Township halts new data centers with moratorium",
+   "judge_score": 8,
+   "at": "2026-08-29T10:24:18Z"
   }
  ]
 }
