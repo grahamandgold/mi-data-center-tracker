@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.detroitnews.com/story/news/local/michigan/2026/08/18/johnson-warns-against-data-center-pause-stumping-in-michigan-swing-seat/91358562007/",
-   "title": "House Speaker Johnson Campaigns Against Federal Data Center Moratorium in Michigan Swing District",
-   "at": "2026-08-18T23:30:01+00:00",
-   "by": "news_judge",
-   "note": "score 2/10: National campaign trail speculation about a 'proposed national pause' with no concrete legislative action or Michigan-specific development."
-  },
-  {
    "url": "https://future-bridge.us/time-to-power-data-centers-summit-2026/",
    "title": "Dallas 2026 Summit Targets Faster Grid Power for AI Data Centers",
    "at": "2026-08-18T23:51:10+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-29T18:47:53+00:00",
    "by": "news_judge",
    "note": "score 4/10, duplicate: This is the same recall failure already live as 'Recall effort fails against officials who greenlit massive tech facility' — same Augusta Township recall, same "
+  },
+  {
+   "url": "https://michiganadvance.com/2026/08/27/garfield-township-puts-a-1-year-ban-on-data-centers-cryptocurrency-mining/",
+   "title": "Garfield Township Board Unanimously Approves One-Year Data Center and Crypto Mining Moratorium",
+   "at": "2026-08-29T21:40:00+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This is the Garfield Township moratorium that has been killed four times already in different wordings."
   }
  ],
  "auto_published": [
