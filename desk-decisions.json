@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.wndu.com/2026/08/18/elkhart-council-advances-data-center-battery-storage-moratorium/",
-   "title": "Elkhart Advances One-Year Moratorium on Data Centers and Battery Storage",
-   "at": "2026-08-18T20:54:54+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: Indiana city action, not Michigan; lacks direct relevance to Michigan data center tracker despite regional proximity."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQlhLdlA5R3lkc3VXaV9ZOThnUFVtOXRCNUREZEdoQWpHenczaUowTG8tQms0N3U5S1ZtcTZ6cVFkX0tzUnRiTmRORlg5UENNanR2X0ZiZ1RlbWtSdko1NUZJZTh4NjRTaTJzUkU4MFdDYmZIcGxYUGR5SHFRanE3TE1uX2RGX0pyOW1faHE5eUFNR0JlRUN0UkdIb0tmZnBhR2Y0?oc=5",
    "title": "Michigan data center rush triggers local pushback on power and taxes",
    "at": "2026-08-18T22:32:53+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-28T21:30:37+00:00",
    "by": "news_judge",
    "note": "score 5/10: Campaign position shift is incremental political news, not a concrete policy action or project development."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWEFBaENJYUNjV2E2LWRySGc4dFFrNk1rVjVCMXhFUk1rb2VWeUF5MjRGOGswQm0xem9qQVhmZGlaVzF4Z1lfT3hSeVN6VW1xc0ktRi1CdHlvQnEwRF9jY3UwNklrTmhUODY4Q2oxLVg4ZGR3R21ZZk5JVkNRb1VBZURvSm5QOHJNUGczY216RDRyaUlLSDh0T1lB?oc=5",
+   "title": "Nessel wants DTE to slash $474M rate hike by 71 percent",
+   "at": "2026-08-29T03:18:48+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This is the same AG Nessel / DTE $474M rate hike story already live in the first bullet point, just reworded."
   }
  ],
  "auto_published": [
