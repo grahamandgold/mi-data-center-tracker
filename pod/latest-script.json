@@ -1,10 +1,10 @@
 {
- "title": "Evenings with Graham & Emmy",
- "teaser": "AG Nessel seeks 71% cut to DTE hike; data centers fuel the fight",
+ "title": "Mornings with Graham & Emmy",
+ "teaser": "Ellington Township enacts a moratorium on new data centers while Genesee County gets its impact study.",
  "lines": [
   {
    "host": "Graham",
-   "text": "Good evening, and welcome to Evenings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
+   "text": "Good morning and welcome to Mornings with Graham & Emmy, the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
   },
   {
    "host": "Emmy",
@@ -12,202 +12,218 @@
   },
   {
    "host": "Graham",
-   "text": "Tonight we're looking at Attorney General Dana Nessel's call for a big reduction in DTE's rate hike request, with data center power demand right in the middle of it."
+   "text": "Today we're digging into Ellington Township's new moratorium on data centers and what it signals for communities across the state."
   },
   {
    "host": "Emmy",
-   "text": "Graham, walk me through what Nessel actually asked for today."
+   "text": "That's the big one this morning. Graham, walk us through what happened in Ellington."
   },
   {
    "host": "Graham",
-   "text": "She told regulators the full $474 million increase would hit households too hard and wants it cut by 71 percent."
+   "text": "Residents there pushed the board to approve a pause on any new data center proposals. It gives everyone time to look hard at power demands, water use, and how these projects might affect local taxes."
   },
   {
    "host": "Emmy",
-   "text": "That's a huge swing. Why is she drawing such a hard line?"
+   "text": "Why now? What sparked the push for the moratorium?"
   },
   {
    "host": "Graham",
-   "text": "Nessel argues the full hike would burden families already dealing with rising costs, and she singled out data center demand as one key driver behind DTE's request."
+   "text": "Folks in Ellington saw proposals coming in and wanted breathing room. The board listened and hit the brakes so they can study the real impacts before anything moves forward."
   },
   {
    "host": "Emmy",
-   "text": "How exactly are data centers pushing this? We've been tracking the buildout for months."
+   "text": "And Tuscola County neighbors are watching closely, right?"
   },
   {
    "host": "Graham",
-   "text": "These facilities need enormous amounts of reliable power, often around the clock, and southeast Michigan is seeing multiple large proposals at once."
+   "text": "Exactly. Other townships in the area are paying attention to see how this plays out and whether similar pauses make sense for them."
   },
   {
    "host": "Emmy",
-   "text": "So if the hike gets approved even at a smaller level, what does that mean for monthly bills?"
+   "text": "Let's zoom out. Why are data centers such a flashpoint right now? What's the history here?"
   },
   {
    "host": "Graham",
-   "text": "A smaller hike would still mean higher rates for everyone, from Detroit to Ann Arbor and beyond, because the grid has to expand to meet the new load."
+   "text": "Michigan has seen a wave of interest in these facilities because of available land, fiber, and power infrastructure. But as proposals multiply, towns are realizing the scale of what they bring."
   },
   {
    "host": "Emmy",
-   "text": "What's the history here? Has DTE been signaling this for a while?"
+   "text": "Scale meaning what exactly for everyday residents?"
   },
   {
    "host": "Graham",
-   "text": "Yes, the utility has pointed to retiring coal units and surging demand from data centers and other large users as reasons it needs new capacity."
+   "text": "We're talking huge electricity loads that can strain the grid, big water needs for cooling, and questions about whether prime farmland gets converted. Local tax deals also come into play."
   },
   {
    "host": "Emmy",
-   "text": "And yesterday we heard about DTE planning two new gas plants for exactly this reason."
+   "text": "And how does that connect to electric bills? We've heard about DTE's rate request."
   },
   {
    "host": "Graham",
-   "text": "Right, those plants would add fossil fuel generation and likely push customer bills higher if regulators approve them."
+   "text": "Data center demand is one reason DTE is asking for a big hike. Attorney General Nessel is pushing back hard on that, saying the full amount would hurt households too much."
   },
   {
    "host": "Emmy",
-   "text": "What about water and land impacts? Data centers aren't just about electricity."
+   "text": "So even if a town says no to a project, the power demand elsewhere can still show up on everyone's bill?"
   },
   {
    "host": "Graham",
-   "text": "Cooling systems pull significant water, and large sites often convert farmland or open land, which is why towns like Saline and others are rewriting rules."
+   "text": "That's the ripple effect people are worried about. One big facility can influence rates across the region."
   },
   {
    "host": "Emmy",
-   "text": "How many communities are feeling this pressure right now?"
+   "text": "What about water? Is that as big an issue as power?"
   },
   {
    "host": "Graham",
-   "text": "At least a handful in Metro Detroit and West Michigan have updated zoning or extended moratoriums this week alone."
+   "text": "Cooling systems need a lot of it, especially in warmer months. Towns are asking how that affects aquifers and local supplies when multiple projects stack up."
   },
   {
    "host": "Emmy",
-   "text": "Let's shift to those quick hits. First, the new state bills on data centers."
+   "text": "And farmland? Are these going on ag land mostly?"
   },
   {
    "host": "Graham",
-   "text": "Lawmakers introduced measures yesterday to add oversight on power use, noise, and local tax deals for big projects."
+   "text": "Many proposals target open or agricultural areas because they're cheaper and have fewer neighbors. That raises questions about long-term land use and food production."
   },
   {
    "host": "Emmy",
-   "text": "Who benefits most if those pass?"
+   "text": "Who are the main players pushing back versus pushing forward?"
   },
   {
    "host": "Graham",
-   "text": "Residents in communities facing rapid development could get tighter local control, but developers say it could slow investment."
+   "text": "Residents and some local officials want more study and rules. Developers and some economic development folks see jobs and tax revenue. It's a classic tension between growth and local control."
   },
   {
    "host": "Emmy",
-   "text": "Next, the recall effort that failed."
+   "text": "We've seen other townships pause too. How common is this becoming?"
   },
   {
    "host": "Graham",
-   "text": "A clerk rejected petitions yesterday against officials who approved rezoning for a 500-acre project, so that development stays on track."
+   "text": "Solon Township just extended its freeze another six months. A couple of Metro Detroit suburbs rewrote zoning rules this week. It's spreading as more communities get proposals."
   },
   {
    "host": "Emmy",
-   "text": "Tough break for opponents. What happens next there?"
+   "text": "What happens next in Ellington specifically?"
   },
   {
    "host": "Graham",
-   "text": "Residents opposed to the power use and tax breaks now face a steeper climb to force another vote."
+   "text": "The moratorium buys time for the board to update rules and gather more data on impacts. Nearby towns will likely follow the outcome closely."
   },
   {
    "host": "Emmy",
-   "text": "Saline Township is still moving forward too."
+   "text": "And statewide, new bills just dropped to regulate these projects. How do those fit in?"
   },
   {
    "host": "Graham",
-   "text": "Yes, the project advances even as officials tighten zoning under resident pressure, bringing construction jobs but also heavy utility demands."
+   "text": "Lawmakers introduced measures aimed at power use, noise, and tax deals. They respond directly to the community pushback we've been seeing."
   },
   {
    "host": "Emmy",
-   "text": "And folks 30 miles away will feel it through rates?"
+   "text": "Will those bills slow things down or just add oversight?"
   },
   {
    "host": "Graham",
-   "text": "Exactly, because the power and tax shifts ripple across the region."
+   "text": "Hard to say yet. They could give towns more tools without stopping projects outright."
   },
   {
    "host": "Emmy",
-   "text": "Two more suburbs rewrote rules yesterday."
+   "text": "Meanwhile Genesee County just got its own impact study delivered. What's in that?"
   },
   {
    "host": "Graham",
-   "text": "Metro Detroit towns updated zoning codes after noise, water, and power concerns, which could slow or block projects developers had eyed."
+   "text": "A local panel finished its report on power, water, and road strain. Officials now have numbers to weigh against any future proposals."
   },
   {
    "host": "Emmy",
-   "text": "Wixom got sued over blocking one."
+   "text": "Residents thirty miles away might want the same thing, right?"
   },
   {
    "host": "Graham",
-   "text": "A developer is taking the city to court, claiming the zoning decision unfairly killed its plans, which could mean taxpayer costs if it drags on."
+   "text": "Absolutely. The study could become a model for other counties facing similar decisions."
   },
   {
    "host": "Emmy",
-   "text": "Solon Township extended its freeze."
+   "text": "Shifting to Saline, that project is still moving despite new rules. What's the latest there?"
   },
   {
    "host": "Graham",
-   "text": "Leaders recommended keeping the moratorium through early next year while they update rules on noise, traffic, and utility costs."
+   "text": "The proposal is advancing even as township officials tighten zoning under pressure. It could mean construction jobs but also heavy utility demands."
   },
   {
    "host": "Emmy",
-   "text": "And the West Michigan town did the same."
+   "text": "And those demands could affect rates for people farther away?"
   },
   {
    "host": "Graham",
-   "text": "That community pushed its ban out to at least early 2027 so residents can study the impacts before anything moves forward."
+   "text": "That's the concern. Power and water needs don't stop at township lines."
   },
   {
    "host": "Emmy",
-   "text": "Finally, the decibel study in Gaines Township."
+   "text": "DTE is also talking about two new gas plants to meet this demand. What's the timeline on that?"
   },
   {
    "host": "Graham",
-   "text": "Officials will measure sound levels at the proposed site to see if cooling fans and generators would disturb nearby homes."
+   "text": "They plan to ask regulators soon. Older coal plants are retiring, so these would help fill the gap but could mean more fossil fuel generation and higher bills if approved."
   },
   {
    "host": "Emmy",
-   "text": "That data could actually halt or reshape the project."
+   "text": "How are residents reacting to the idea of new gas plants?"
   },
   {
    "host": "Graham",
-   "text": "Homeowners within a few miles now have a concrete way to judge the noise impact."
+   "text": "Some see it as necessary for reliability. Others worry about the cost and emissions, especially with data centers driving the need."
   },
   {
    "host": "Emmy",
-   "text": "On deck this weekend, are there any public meetings listeners can attend?"
+   "text": "Wixom got sued by a developer after blocking a project. What's at stake in that case?"
   },
   {
    "host": "Graham",
-   "text": "No major hearings listed for tonight or tomorrow, but several townships are still updating zoning codes behind the scenes."
+   "text": "The developer claims the zoning changes unfairly killed their plans. Taxpayers could end up covering legal costs, and the outcome might influence how other cities handle similar fights."
   },
   {
    "host": "Emmy",
-   "text": "Where should people check for the latest agendas?"
+   "text": "A recall effort failed against officials who approved a big project. What does that mean for opponents?"
   },
   {
    "host": "Graham",
-   "text": "The Michigan Data Center Tracker has the live map and meeting notices as they come in."
+   "text": "The clerk rejected the petitions, so the 500-acre facility stays on track. Opponents now have fewer options to revisit the rezoning vote."
   },
   {
    "host": "Emmy",
-   "text": "Anything else on the calendar for early next week?"
+   "text": "Two more Metro Detroit towns changed their rules this week too. Any common thread?"
   },
   {
    "host": "Graham",
-   "text": "We'll keep an eye on any follow-up regulatory filings from DTE and the new state bills as they move through committees."
+   "text": "Noise, water, and power concerns are driving the zoning updates. It's the same pattern repeating across the region."
   },
   {
    "host": "Emmy",
-   "text": "Full sources and the live map at the Michigan Data Center Tracker."
+   "text": "For listeners, what should they watch this weekend?"
   },
   {
    "host": "Graham",
-   "text": "We're back tomorrow."
+   "text": "No big public meetings on the calendar, but keep an eye on Tuscola County boards and any follow-up from the Genesee study. Things are moving fast at the local level."
+  },
+  {
+   "host": "Emmy",
+   "text": "And the bigger picture?"
+  },
+  {
+   "host": "Graham",
+   "text": "Communities are learning they have tools to slow down or shape these projects. The question is how those tools get used as demand keeps growing."
+  },
+  {
+   "host": "Emmy",
+   "text": "We'll be tracking it all. Full sources and the live map at the Michigan Data Center Tracker."
+  },
+  {
+   "host": "Graham",
+   "text": "We're back tomorrow. Thanks for listening."
   }
  ],
- "episode_title": "Nessel Pushes Major Cut to DTE Rate Hike as Data Centers Drive Demand",
- "show": "Evenings with Graham & Emmy",
- "daypart": "Evenings"
+ "episode_title": "Ellington Township Pauses Data Centers as Power and Water Scrutiny Grows",
+ "show": "Mornings with Graham & Emmy",
+ "daypart": "Mornings"
 }
