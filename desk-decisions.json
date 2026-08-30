@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.washingtonpost.com/nation/2026/08/18/pennsylvania-gov-josh-shapiro-set-order-new-limits-data-center-development/",
-   "title": "Pennsylvania Gov. Shapiro Issues Executive Order Sharply Limiting New Data Center Development",
-   "at": "2026-08-19T01:46:15+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: National trend piece from Pennsylvania with no Michigan angle or impact."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOTNDUDJRQXVKYjVkc3h5UEJ2eFhfSU1RMmJuTGFYdDRXNmlhZm5aSHFyRXd5MUxyWGRvS19KVjI3eGdYTlJrQ2U5MEp1SFBEXzBkbVA1cTFzdUZUU0pfbDJyUG1OMTZSYXNXX2tDR29RZS1yd1MtcEdWUERXMldpVTZSSWVfaUY1Y21OVDNzb1Q4eWNLYUJpZloyZ25jWnJfb25xeFZfM2xkU3JodlJrcFJKOGhGckxldDZYN2JTbWg?oc=5",
    "title": "Kalamazoo freezes new data centers amid power concerns",
    "at": "2026-08-19T01:46:15+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-30T00:06:31+00:00",
    "by": "news_judge",
    "note": "score 4/10: Appears to be a broad trend/impact piece about utility strain and rate implications rather than a specific filing, vote, or concrete development; overlaps thema"
+  },
+  {
+   "url": "https://news.constructconnect.com/september-2026-data-center-report-year-to-date-spending-nearly-three-times-a-year-ago",
+   "title": "Michigan Joins Midwest Data Center Surge Reaching $84 Billion YTD",
+   "at": "2026-08-30T16:35:37+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: National trend piece with Michigan mentioned as one of several states; lacks specific Michigan project details, decisions, or local developments that would make"
   }
  ],
  "auto_published": [
