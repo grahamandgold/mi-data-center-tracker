@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-30T16:35:25+00:00",
+ "updated_at": "2026-08-30T19:25:39Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Madison Heights gets first data center site plan filing",
+   "dek": "A formal site plan for a data center has been submitted in Madison Heights. Residents 30 miles away will feel the effects through added strain on local power lines and water systems if the project advances. The filing marks the first concrete step toward construction in this Oakland County suburb.",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUEE1OGRvSjA4T19FMmFyTGZlUkhyWWQ3VVdhcVhJOVFkeWFZWlliSFhCMzRMWHlGVHI5MGdCRFVTUnRuSVBQM2M1V2Z6T0VqV29iY2Nhd3VEOUpQeGVJN1lYdi0wd191MFJBcXpIZ2o5VjIxcF9KakNHZkg1SWdHdnVSMU1kMm5IajZCMmtqMUpmYV8tdHJqTVFrYnNYR0E?oc=5",
+   "source": "Roanoke Times",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Oakland",
+   "tag": "Local Government",
+   "iso": "2026-08-30T11:45:00Z",
+   "id": "6f9ac51abbf6",
+   "origin": "google-news",
+   "source_title": "Site plan filed for proposed data center in Madison Heights - Roanoke Times",
+   "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUEE1OGRvSjA4T19FMmFyTGZlUkhyWWQ3VVdhcVhJOVFkeWFZWlliSFhCMzRMWHlGVHI5MGdCRFVTUnRuSVBQM2M1V2Z6T0VqV29iY2Nhd3VEOUpQeGVJN1lYdi0wd191MFJBcXpIZ2o5VjIxcF9KakNHZkg1SWdHdnVSMU1kMm5IajZCMmtqMUpmYV8tdHJqTVFrYnNYR0E?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "Wixom tightens data center rules while lawsuit threat grows",
    "dek": "Wixom officials advanced new restrictions on data centers despite a looming lawsuit from developers. The moves could limit large projects that would draw heavy power and water in Oakland County. Residents nearby may see changes in local taxes, traffic, and utility rates tied to any future campus.",
@@ -169,23 +186,6 @@
    "origin": "google-news",
    "source_title": "Data center developer sues Wixom, impacts city decisions - The Detroit News",
    "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYndnNWZtZllHWnBTQVl1emFTcnVEd0ExbDdFcHhPOUlfbjBuQmxZUG1CWHZ4MmFxbmhzMG93eFhLOFU3bUdGWVF1VmJUdEktUzNfZEhFVWxUUFdZcmpmTmMzVHpjUl9GREFJVkpXUmxERDhmU3hGUGJpSEJNV283NDVZWVQzZHlVR3BUMm5hRzZud0N4aThnNENMNFZnMllqd2w2cVpjWmRqbUtBV1FzNUs1dmx2N2l4X3YwZXI3cFpQTEJyc0g2ZnpyWUdzUEhXd0VGNFE4Yw?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
-  },
-  {
-   "title": "Solon Township extends data center freeze another six months",
-   "dek": "Solon Township leaders recommended keeping the existing moratorium in place through early next year. The extension blocks new proposals while the township updates zoning rules to address resident concerns about noise, traffic and utility costs. West Michigan communities nearby are watching the decision closely.",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRmluMDJKQ0wyTWNpZjlQcEVieEtQWWpFZmprRHJfYndmUUIxMi1JNUdvdEVvVXZja0QzSU5xRWlNejdtR3p0NURWV3Fta2J3MEJnVmdfLXNkeVU5bEFWUUdvZ1dmN2ZCMzBZRUtIQURmMmlIcC1zNDUtWk81NEFBNG9IbUpkV1JKakFpUGtXM3VGa3dkcHd0a0dnbklzNVFLUFFiSGZJNW9lbTF6dUplU2I3Tl85YnVEVTFMX2dLaG9jNVRVcFZkU0Jnd3pYNU5YMW1nYm5Kek94SG5iMi1qOUk5LVFycWEyQ0ZqSVM0cTZocGFK?oc=5",
-   "source": "WZZM13.com",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Leelanau",
-   "tag": "Local Government",
-   "iso": "2026-08-27T03:31:00Z",
-   "id": "11ba5c758ccd",
-   "origin": "google-news",
-   "source_title": "Solon Twp. board recommends extending data center moratorium for another six months - WZZM13.com",
-   "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRmluMDJKQ0wyTWNpZjlQcEVieEtQWWpFZmprRHJfYndmUUIxMi1JNUdvdEVvVXZja0QzSU5xRWlNejdtR3p0NURWV3Fta2J3MEJnVmdfLXNkeVU5bEFWUUdvZ1dmN2ZCMzBZRUtIQURmMmlIcC1zNDUtWk81NEFBNG9IbUpkV1JKakFpUGtXM3VGa3dkcHd0a0dnbklzNVFLUFFiSGZJNW9lbTF6dUplU2I3Tl85YnVEVTFMX2dLaG9jNVRVcFZkU0Jnd3pYNU5YMW1nYm5Kek94SG5iMi1qOUk5LVFycWEyQ0ZqSVM0cTZocGFK?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
   }
