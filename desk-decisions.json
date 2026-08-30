@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://future-bridge.us/time-to-power-data-centers-summit-2026/",
-   "title": "Dallas 2026 Summit Targets Faster Grid Power for AI Data Centers",
-   "at": "2026-08-18T23:51:10+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece about a Dallas summit discussing grid interconnection delays—no Michigan angle, no specific decision or development for Michigan readers tr"
-  },
-  {
    "url": "https://www.washingtonpost.com/nation/2026/08/18/pennsylvania-gov-josh-shapiro-set-order-new-limits-data-center-development/",
    "title": "Pennsylvania Gov. Shapiro Issues Executive Order Sharply Limiting New Data Center Development",
    "at": "2026-08-19T01:46:15+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-29T21:40:00+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: This is the Garfield Township moratorium that has been killed four times already in different wordings."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kUnpfd3pvTUY4QnRoZEdJUHZDU0JLYjV1RUh4ZkQ2dlh4Z25YRlFKcDh4S0VYc3ZCUUJ1S0MtSzk1bjVBS096OS0wNWtoN1MzazZ6aldqak9QdEU?oc=5",
+   "title": "Michigan utilities brace for data center power surge",
+   "at": "2026-08-30T00:06:31+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Appears to be a broad trend/impact piece about utility strain and rate implications rather than a specific filing, vote, or concrete development; overlaps thema"
   }
  ],
  "auto_published": [
