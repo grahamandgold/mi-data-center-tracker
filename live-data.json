@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-08-30T00:06:25+00:00",
+ "updated_at": "2026-08-30T05:43:50Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Wixom tightens data center rules while lawsuit threat grows",
+   "dek": "Wixom officials advanced new restrictions on data centers despite a looming lawsuit from developers. The moves could limit large projects that would draw heavy power and water in Oakland County. Residents nearby may see changes in local taxes, traffic, and utility rates tied to any future campus.",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOEJtYXRQUDNaRmFOZHE4UDgxSG5obWNWbWRtZFJrb0tGZTNZdlRqVTIyU3VvcUNBNzVqRXFvMUNyUjVSZEU0Sjhwa0lkVGNraDNkV1BMR2N5enhhUThXeEMtWlR5VW1tZU9PUnF4SXBOZ1hMeWFjOXpiZ1FsUHppc2VPRTFLd1kxSlVvb2duM2RsYzRRc3FtTDVPRXdnalBBNDhNUUJzdHNDUi10dVBkb0YwMHZMV0RSSlh6TTRNUTB1bldsVUZuTU94ckFLdGM3bXVWYkRQcVJQbFJZa3JOdzF2V0I?oc=5",
+   "source": "The Detroit News",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Oakland",
+   "tag": "Local Government",
+   "iso": "2026-08-30T04:01:00Z",
+   "id": "00e90c5a4f11",
+   "origin": "google-news",
+   "source_title": "Wixom moves forward with data center restrictions as lawsuit looms - The Detroit News",
+   "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOEJtYXRQUDNaRmFOZHE4UDgxSG5obWNWbWRtZFJrb0tGZTNZdlRqVTIyU3VvcUNBNzVqRXFvMUNyUjVSZEU0Sjhwa0lkVGNraDNkV1BMR2N5enhhUThXeEMtWlR5VW1tZU9PUnF4SXBOZ1hMeWFjOXpiZ1FsUHppc2VPRTFLd1kxSlVvb2duM2RsYzRRc3FtTDVPRXdnalBBNDhNUUJzdHNDUi10dVBkb0YwMHZMV0RSSlh6TTRNUTB1bldsVUZuTU94ckFLdGM3bXVWYkRQcVJQbFJZa3JOdzF2V0I?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
   {
    "title": "Ellington Township halts new data centers with moratorium",
    "dek": "Ellington Township residents secured a pause on data center proposals after the board approved the moratorium. The move gives locals time to examine power demands, water use, and tax effects before any large projects advance. Tuscola County communities nearby will watch how the decision shapes future development.",
@@ -169,23 +186,6 @@
    "origin": "google-news",
    "source_title": "Solon Twp. board recommends extending data center moratorium for another six months - WZZM13.com",
    "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRmluMDJKQ0wyTWNpZjlQcEVieEtQWWpFZmprRHJfYndmUUIxMi1JNUdvdEVvVXZja0QzSU5xRWlNejdtR3p0NURWV3Fta2J3MEJnVmdfLXNkeVU5bEFWUUdvZ1dmN2ZCMzBZRUtIQURmMmlIcC1zNDUtWk81NEFBNG9IbUpkV1JKakFpUGtXM3VGa3dkcHd0a0dnbklzNVFLUFFiSGZJNW9lbTF6dUplU2I3Tl85YnVEVTFMX2dLaG9jNVRVcFZkU0Jnd3pYNU5YMW1nYm5Kek94SG5iMi1qOUk5LVFycWEyQ0ZqSVM0cTZocGFK?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
-  },
-  {
-   "title": "West Michigan town extends data center ban another 6 months",
-   "dek": "A West Michigan community has pushed its moratorium on new data centers out to at least early 2027. Residents gain more time to examine power demand, noise, and water use before any large projects can move forward. The extension keeps local officials from approving facilities that could strain the grid and raise utility bills for nearby homes.",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYzlVRDBES2M1VTVhYTFRbFdrU1JkNko4STBuSGpIejhuS1hpSk1QUG94aldxYlp6eXh6T3JwUmo3dGJYWndBXzJUVmRqZXVCcVJodDZHcThsRDRkUnFxVjYtVHJuQ1FUNWhPVGdMT0ZYZWcwZE1yN2diSnZ0S3MxNExnTU13WVZDWllkRk1QeklwSEpQZDB1QzlmaTQ2ekJQSmRSNXdrYlNlWEdvTlJJTm94cFAyMnM?oc=5",
-   "source": "NewsBreak: Local News & Alerts",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Local Government",
-   "iso": "2026-08-27T02:22:16Z",
-   "id": "36bd5dc20433",
-   "origin": "google-news",
-   "source_title": "West Michigan town adds 6 more months on data center moratorium - NewsBreak: Local News & Alerts",
-   "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYzlVRDBES2M1VTVhYTFRbFdrU1JkNko4STBuSGpIejhuS1hpSk1QUG94aldxYlp6eXh6T3JwUmo3dGJYWndBXzJUVmRqZXVCcVJodDZHcThsRDRkUnFxVjYtVHJuQ1FUNWhPVGdMT0ZYZWcwZE1yN2diSnZ0S3MxNExnTU13WVZDWllkRk1QeklwSEpQZDB1QzlmaTQ2ekJQSmRSNXdrYlNlWEdvTlJJTm94cFAyMnM?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
   }
