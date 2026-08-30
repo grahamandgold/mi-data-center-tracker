@@ -1,28 +1,6 @@
 {
- "updated_at": "2026-08-30T05:43:50Z",
+ "updated_at": "2026-08-30T11:47:29+00:00",
  "generator": "grok-wire-agent",
- "items": [
-  {
-   "title": "St. Joseph County Republicans seek total ban on new data centers",
-   "dek": "Republicans in St. Joseph County plan a resolution to block all future data center projects. The move follows complaints about noise, water use, and strain on the local grid. Residents could see lasting limits on industrial growth if the measure passes.",
-   "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPMWtlM09wcFVYcjNuSE5PLWtyVGpHREo4Z3pON3EzNElNdGU3RDJqSno2bXBZRklyLW8zdFhXR1UwNWZxYTcxM1NBLXpIYjJSRzl0Q29VTGkwSXN5WGI3dEdZZVJMMmxvVmJhT19pQmJPRTFGd3JqWUpDNXpWd1drLVN0c2NVYTZXWS1tVWxOYXJMTXJjZGtXNDUzV2hXX0NVTmRmX3BJeDNidE54end3YXQ3aEtkX2NLNjIydnZ0Sld4OFB3TTJkdl9UMGFFYU9HSHdGem5SbFJFdDJsUnJaYmZIOHpTNXg0akd1NmhqN2FoR0ktaTh5eG13YUVfSERvMUVGVlduV3h1QmZqbVppTjY1VW82ckpPNW5ENDdKODM?oc=5",
-   "source": "WSBT",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "St. Joseph",
-   "tag": "Local Government",
-   "iso": "2026-08-28T21:31:25Z",
-   "kind": "story",
-   "id": "594c59467d63",
-   "filed_at": "2026-08-30T05:43:10Z",
-   "origin": "google-news",
-   "headline_rewritten": true,
-   "source_title": "Republicans to introduce resolution, 'No more new data centers in St. Joseph County' - WSBT",
-   "source_url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPMWtlM09wcFVYcjNuSE5PLWtyVGpHREo4Z3pON3EzNElNdGU3RDJqSno2bXBZRklyLW8zdFhXR1UwNWZxYTcxM1NBLXpIYjJSRzl0Q29VTGkwSXN5WGI3dEdZZVJMMmxvVmJhT19pQmJPRTFGd3JqWUpDNXpWd1drLVN0c2NVYTZXWS1tVWxOYXJMTXJjZGtXNDUzV2hXX0NVTmRmX3BJeDNidE54end3YXQ3aEtkX2NLNjIydnZ0Sld4OFB3TTJkdl9UMGFFYU9HSHdGem5SbFJFdDJsUnJaYmZIOHpTNXg0akd1NmhqN2FoR0ktaTh5eG13YUVfSERvMUVGVlduV3h1QmZqbVppTjY1VW82ckpPNW5ENDdKODM?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7,
-   "judge_note": "A county Republican party resolution seeking a total ban is a concrete new development with official action, distinct from the existing township-level moratoriu"
-  }
- ],
- "accuracy_checked_at": "2026-08-30T05:43:44+00:00"
+ "items": [],
+ "accuracy_checked_at": "2026-08-30T11:47:29+00:00"
 }
