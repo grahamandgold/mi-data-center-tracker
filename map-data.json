@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-28T21:18:54+00:00",
+ "updated_at": "2026-08-31T17:49:27+00:00",
  "map_points": [
   {
    "name": "Saline Township campus (Stargate)",
@@ -1424,6 +1424,22 @@
    "verified_date": "2026-08-27",
    "confidence": "Confirmed",
    "note": "1-year moratorium on data centers and cryptocurrency mining approved Aug 25-26; extendable 6 months. Approximate centroid."
+  },
+  {
+   "name": "Solon Township moratorium",
+   "municipality": "Solon Township",
+   "county": "Kent",
+   "status": "Moratorium",
+   "layer": "moratoria",
+   "developer": "",
+   "power_mw": "",
+   "latitude": 43.25,
+   "longitude": -85.65,
+   "source_url": "https://michiganadvance.com/2026/08/31/michigan-data-centers-the-weekly-download-4-2/",
+   "source_name": "Michigan Advance",
+   "verified_date": "2026-08-31",
+   "confidence": "Confirmed",
+   "note": "Planning commission voted to extend six-month moratorium (initially Feb 2026) by another six months. Approximate centroid."
   }
  ],
  "map_meta": {
