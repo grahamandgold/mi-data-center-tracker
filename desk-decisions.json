@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.facebook.com/pittsburghpostgazette/posts/pennsylvania-gov-josh-shapiro-on-tuesday-said-his-administration-would-no-longer/1466270368881153/",
-   "title": "Pennsylvania governor imposes new guardrails on data center permits and tax breaks",
-   "at": "2026-08-19T05:41:27+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece about Pennsylvania policy with no Michigan angle or impact."
-  },
-  {
-   "url": "https://legiscan.com/MI/bill/SB1049/2025",
-   "title": "Capitol watch: SB1049 — Senate Co-sponsor(s) Named: Jeremy Moss",
-   "at": "2026-08-19T05:41:27+00:00",
-   "by": "news_judge",
-   "note": "score 2/10: Routine legislative procedural update (co-sponsor added) on a bill unrelated to data centers."
-  },
-  {
    "url": "https://watershedvoice.com/2026/08/18/kalamazoo-city-commission-passes-one-year-data-center-moratorium/",
    "title": "Kalamazoo City Commission approves one-year moratorium on data centers and related facilities",
    "at": "2026-08-19T06:57:58+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-08-31T19:36:23+00:00",
    "by": "news_judge",
    "note": "score 4/10: National political angle (Trump/Vance) tied loosely to Michigan's existing data center debates but no specific Michigan decision or development reported."
+  },
+  {
+   "url": "https://michiganadvance.com/2026/08/31/michigan-data-centers-the-weekly-download-4-2/",
+   "title": "Garfield Township Halts Data Centers and Crypto Mining for One Year",
+   "at": "2026-08-31T23:44:24+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This is the Garfield Township moratorium already killed multiple times under various headlines."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOEJPTFVPS19xZURlV1JRWmVqS0pLOVRxVGVBN3A0NmlQUS03ZU40azRtZ3MyZjF2UlNjcXFJemxFWnlLUnB3aWVTRFVUT1FXMzdXcm1IVlktR0VHUEJ3NzdKUklqc0UxRkgyUXVUeU1JMjI1MTJzVHZ5WkRtcFRjZk1XR1Z6SW9PMHhOS0g2VU03STNVelRGd214ZXNadE1WOUZINmZicFNFdw?oc=5",
+   "title": "Michigan lawmaker demands national debate on data center power and water risks",
+   "at": "2026-08-31T23:44:24+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: A lawmaker calling for national debate is commentary/advocacy, not a concrete development like a filing, vote, or official action."
   }
  ],
  "auto_published": [
