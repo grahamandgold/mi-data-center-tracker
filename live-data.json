@@ -1,7 +1,41 @@
 {
- "updated_at": "2026-08-31T00:24:22+00:00",
+ "updated_at": "2026-08-31T06:00:46Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Saline Township's 'The Barn' data center rises fast on farmland",
+   "dek": "Construction of the large project nicknamed The Barn is advancing rapidly in Saline Township. Nearby residents will see new power lines, traffic and potential tax shifts as the facility comes online. Washtenaw County communities are watching how quickly the buildout changes local land use and utility demands.",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNejhEaEdDQURhUFdGaXB4cWtZQzdGTmRlWmFqMl9GRkdEb1hISG5LSVpWcjZhMXpfeFVhaVZiVlRqUjlCS1VkS1ZqdEx5ZWU4enVQU0lRdmxhNVU2OWxYN2VMdjhESlBBcmp3WmMzU1NKZzRpRHREeUY2czl6WklFb2dWV3hKQ0NsYzctQ1F1Q3oyQm1SZ2luLXNXU2JkSThuT1BUeURMMzVETjBxX2ZtaTYydFRwclp3NjFCdVpZUDh1ZUZZSjNOd2VhU1gyX2JWc1hpSE1pMEhKT2U5eXc?oc=5",
+   "source": "The Detroit News",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Local Government",
+   "iso": "2026-08-31T04:02:00Z",
+   "id": "a2548f78e382",
+   "origin": "google-news",
+   "source_title": "Saline Twp. Data Center Project, aka 'The Barn' going up quickly - The Detroit News",
+   "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNejhEaEdDQURhUFdGaXB4cWtZQzdGTmRlWmFqMl9GRkdEb1hISG5LSVpWcjZhMXpfeFVhaVZiVlRqUjlCS1VkS1ZqdEx5ZWU4enVQU0lRdmxhNVU2OWxYN2VMdjhESlBBcmp3WmMzU1NKZzRpRHREeUY2czl6WklFb2dWV3hKQ0NsYzctQ1F1Q3oyQm1SZ2luLXNXU2JkSThuT1BUeURMMzVETjBxX2ZtaTYydFRwclp3NjFCdVpZUDh1ZUZZSjNOd2VhU1gyX2JWc1hpSE1pMEhKT2U5eXc?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
+  {
+   "title": "Michigan lets data center firms hide tax breaks from public view",
+   "dek": "State law allows tech companies to keep details of data center tax incentives secret from residents and local officials. This reduces transparency on how much revenue cities and townships lose when large projects win abatements. Michigan readers 30 miles away feel the impact through higher local taxes or strained services when big facilities arrive.",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaC1kME00RDNQTlFEZWc1ZG5ubVZpYzBrRFJpeU9NWTBKVXZEYlVxSnhNSXljSGt2SE95cUszamtiQ01qVzhzVUJfeUZJOXd4NDFBSEJqc05CZjZUN19pV1FrRDBpMmFzRUE2cTYyMkg0VzVGMG12TlNNSXVXSTBpNkRNMnV3dDhwVHVIUkJSQ2lJYloxQUlpT2tJV0RlNVhxSnlTbTNZV1FqTUE1Z01MZjJGTXM?oc=5",
+   "source": "The Detroit News",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Policy",
+   "iso": "2026-08-31T04:02:00Z",
+   "id": "192b4a488f70",
+   "origin": "google-news",
+   "source_title": "Tech giants can shroud Michigan data center tax incentives in secrecy - The Detroit News",
+   "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaC1kME00RDNQTlFEZWc1ZG5ubVZpYzBrRFJpeU9NWTBKVXZEYlVxSnhNSXljSGt2SE95cUszamtiQ01qVzhzVUJfeUZJOXd4NDFBSEJqc05CZjZUN19pV1FrRDBpMmFzRUE2cTYyMkg0VzVGMG12TlNNSXVXSTBpNkRNMnV3dDhwVHVIUkJSQ2lJYloxQUlpT2tJV0RlNVhxSnlTbTNZV1FqTUE1Z01MZjJGTXM?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Madison Heights gets first data center site plan filing",
    "dek": "A formal site plan for a data center has been submitted in Madison Heights. Residents 30 miles away will feel the effects through added strain on local power lines and water systems if the project advances. The filing marks the first concrete step toward construction in this Oakland County suburb.",
@@ -154,40 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DcFFqcXU1MG5VSnZFVjdkWTZwQ1M0R042OGlLWWs3czgzRk53ZE5PZ0NjMFUtWERhendzMWEzUEM5NmRZelFHZ19WbWUxaHlPWWluVF9fRF8tMGpkTmVPa3NaU3BHTTQtbm5mbWdRWWs4UVpO?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 9
-  },
-  {
-   "title": "Two more Metro Detroit towns rewrite rules to curb data centers",
-   "dek": "Local officials in two additional suburbs are changing zoning codes after residents raised alarms over noise, water use and power strain. The changes could block or slow large projects that developers have eyed in the region. Homeowners 30 miles away may see ripple effects on property values and utility costs.",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUGd4b01CbEdDNGo4LWlwN2N4S1lwVTRrcjZ3Qzktc2VCaWVSRFJGZldWZzNocWJFNzZnOGM4bkQ0dGVJYlhZb1VXSHQwWVM5LTJOZUpHejhycUpNNFpLVlcxdmJuV2lrRF9Cb1pYZWtEU2RzbmRyMVp6VWhGUmRzVUZ5WHJ1emlnOGEyRkNsSXkyMDRqM3ZJMk5iNmRGZW11Z2ZOVUEtdnFDREVHeWduS3pJWjN4OFFZMVE?oc=5",
-   "source": "The Detroit News",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Local Government",
-   "iso": "2026-08-27T18:44:00Z",
-   "id": "1f8a9e204dcc",
-   "origin": "google-news",
-   "source_title": "Two more Metro Detroit communities move to amend data center zoning - The Detroit News",
-   "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUGd4b01CbEdDNGo4LWlwN2N4S1lwVTRrcjZ3Qzktc2VCaWVSRFJGZldWZzNocWJFNzZnOGM4bkQ0dGVJYlhZb1VXSHQwWVM5LTJOZUpHejhycUpNNFpLVlcxdmJuV2lrRF9Cb1pYZWtEU2RzbmRyMVp6VWhGUmRzVUZ5WHJ1emlnOGEyRkNsSXkyMDRqM3ZJMk5iNmRGZW11Z2ZOVUEtdnFDREVHeWduS3pJWjN4OFFZMVE?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
-  },
-  {
-   "title": "Wixom sued by data center firm after city blocks project",
-   "dek": "A developer is taking Wixom to court, claiming the city’s zoning decisions unfairly killed its data center plans. The lawsuit could force taxpayers to cover legal costs and delay other local projects. Oakland County residents will watch to see if the fight chills future investment or protects neighborhoods from heavy industrial loads.",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYndnNWZtZllHWnBTQVl1emFTcnVEd0ExbDdFcHhPOUlfbjBuQmxZUG1CWHZ4MmFxbmhzMG93eFhLOFU3bUdGWVF1VmJUdEktUzNfZEhFVWxUUFdZcmpmTmMzVHpjUl9GREFJVkpXUmxERDhmU3hGUGJpSEJNV283NDVZWVQzZHlVR3BUMm5hRzZud0N4aThnNENMNFZnMllqd2w2cVpjWmRqbUtBV1FzNUs1dmx2N2l4X3YwZXI3cFpQTEJyc0g2ZnpyWUdzUEhXd0VGNFE4Yw?oc=5",
-   "source": "The Detroit News",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Oakland",
-   "tag": "Local Government",
-   "iso": "2026-08-27T17:01:08Z",
-   "id": "635ef4aca0eb",
-   "origin": "google-news",
-   "source_title": "Data center developer sues Wixom, impacts city decisions - The Detroit News",
-   "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYndnNWZtZllHWnBTQVl1emFTcnVEd0ExbDdFcHhPOUlfbjBuQmxZUG1CWHZ4MmFxbmhzMG93eFhLOFU3bUdGWVF1VmJUdEktUzNfZEhFVWxUUFdZcmpmTmMzVHpjUl9GREFJVkpXUmxERDhmU3hGUGJpSEJNV283NDVZWVQzZHlVR3BUMm5hRzZud0N4aThnNENMNFZnMllqd2w2cVpjWmRqbUtBV1FzNUs1dmx2N2l4X3YwZXI3cFpQTEJyc0g2ZnpyWUdzUEhXd0VGNFE4Yw?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
   }
  ],
  "national": {
