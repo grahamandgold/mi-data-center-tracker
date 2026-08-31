@@ -1,7 +1,41 @@
 {
- "updated_at": "2026-08-31T13:30:26+00:00",
+ "updated_at": "2026-08-31T19:36:23Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Data center faces new township hearing amid resident worries over grid, roads",
+   "dek": "The data-center developer is scheduled to appear again before Lyon Township planners next month. Residents in this Oakland County community have already raised concerns over power demand and local impact. The project could bring major construction but also strain on the grid and roads.",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQalBMXzZzYUVHeFhtMmxBaktjS1Zwb1Zxc1hFWG02Zjg3WGdrNW5BQW41MzlIcUhwT21ZUGQ3QlZkYjQ0R1ZJcmswQ2JJZG16YTcxOWt1Wll0TElnMDYtQ0IxMmwzUElpcGs5aW9SRU1VQXQ0MXAzdE9GMmw1Y0FvOXUwVWtrN2FteUw3eHRabzRvLUNPTGo0RHBoZEhHVnd3V0dieHBmWVN6bGVKak1z?oc=5",
+   "source": "WHMI",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Oakland",
+   "tag": "Local Government",
+   "iso": "2026-08-31T19:04:31Z",
+   "id": "53737ca5cdbc",
+   "origin": "google-news",
+   "source_title": "Project Flex Developer to Go Back Before Lyon Township Planners in September - WHMI",
+   "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQalBMXzZzYUVHeFhtMmxBaktjS1Zwb1Zxc1hFWG02Zjg3WGdrNW5BQW41MzlIcUhwT21ZUGQ3QlZkYjQ0R1ZJcmswQ2JJZG16YTcxOWt1Wll0TElnMDYtQ0IxMmwzUElpcGs5aW9SRU1VQXQ0MXAzdE9GMmw1Y0FvOXUwVWtrN2FteUw3eHRabzRvLUNPTGo0RHBoZEhHVnd3V0dieHBmWVN6bGVKak1z?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
+  {
+   "title": "Construction milestone raises local fears over power bills, water at AI facility",
+   "dek": "The massive project near Ann Arbor has now reached a million construction hours. Washtenaw County residents are watching how the facility will affect electricity rates and water use once it ramps up. Local jobs are growing, but so are questions about long-term costs to taxpayers.",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb0tORXVraG45bDBZNkN4Y05PbElaMVUwejRCbTV4TVVPblNDWWM2YS1Kc0RuRnBNM25rUy1ZWEdJdHZNdEU1dzN6OVFOTkpYN1VvZjdBWnE2TWhSeW93cXNLM2pyaVJ5NVAtVlFQbE1LTUNwOWF4SVRzY3pUZTBDdjlZYTFnVFpENFZWa25TRVl5LWE0amt6a0ZmRUJKa2l0UHAybFotMmVOX3dZaE44bmRCcngxOEpsWV94UTFR0gHSAUFVX3lxTE1zN2N6Y09YbW5HOFU5Z2VaX1MwNUVOVmQ5WF9FbXBKTUhINUg0a1VtOXNTelQ0d211SjBDZXZFMUJESGRnbmdpTzhESWNVSVpqd0ZOU3o5eHJWd0EydUZKbWllNzVuNFpPOGc2UXFJUVhmcWF5RFo0NWZ0MFJOaVY2c3RkSURDWlg5cWdBdWJkMjUtblZmRHhidENFYjBaWlJwNnBUVVVTWVlpeFRLLUhGMUJSbmhiZFg3SnNYUTlJUWlFb3VkcFRXOWFTeWxPRGNPdw?oc=5",
+   "source": "MLive.com",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Power & Grid",
+   "iso": "2026-08-31T15:57:00Z",
+   "id": "8ed3f96ce5c6",
+   "origin": "google-news",
+   "source_title": "OpenAI data center project south of Ann Arbor hits 1 million work hours - MLive.com",
+   "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb0tORXVraG45bDBZNkN4Y05PbElaMVUwejRCbTV4TVVPblNDWWM2YS1Kc0RuRnBNM25rUy1ZWEdJdHZNdEU1dzN6OVFOTkpYN1VvZjdBWnE2TWhSeW93cXNLM2pyaVJ5NVAtVlFQbE1LTUNwOWF4SVRzY3pUZTBDdjlZYTFnVFpENFZWa25TRVl5LWE0amt6a0ZmRUJKa2l0UHAybFotMmVOX3dZaE44bmRCcngxOEpsWV94UTFR0gHSAUFVX3lxTE1zN2N6Y09YbW5HOFU5Z2VaX1MwNUVOVmQ5WF9FbXBKTUhINUg0a1VtOXNTelQ0d211SjBDZXZFMUJESGRnbmdpTzhESWNVSVpqd0ZOU3o5eHJWd0EydUZKbWllNzVuNFpPOGc2UXFJUVhmcWF5RFo0NWZ0MFJOaVY2c3RkSURDWlg5cWdBdWJkMjUtblZmRHhidENFYjBaWlJwNnBUVVVTWVlpeFRLLUhGMUJSbmhiZFg3SnNYUTlJUWlFb3VkcFRXOWFTeWxPRGNPdw?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
   {
    "title": "Saline Township's 'The Barn' data center rises fast on farmland",
    "dek": "Construction of the large project nicknamed The Barn is advancing rapidly in Saline Township. Nearby residents will see new power lines, traffic and potential tax shifts as the facility comes online. Washtenaw County communities are watching how quickly the buildout changes local land use and utility demands.",
@@ -154,40 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTUhRbl9wWjcwRG14UFN6QlcxMGlaOGRtRjN4N2tYbVc5SjlIemJWREFiUWZNV2dmaXZ0ZTZvVXJ6N3hDdk0xODNBS1lfR3h5QnVlNms0cXhpVFladEJ2dUdQSWIzdEJPdjFJdG1yam1oN2pjZjJQdG1vVFhCQkNkRWZaZzNRWkZ4SGxpakEzV2lxMFZPR0Z3VGZtdy1hSjk0?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
-  },
-  {
-   "title": "Saline data center project pushes ahead despite new rules and pushback",
-   "dek": "The Saline Township data center proposal is advancing even as local officials tighten zoning rules under political pressure. The project could bring thousands of construction jobs but also heavy power and water demands. Residents 30 miles away will feel the impact through higher utility rates and tax shifts.",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPenJfN19ORkVkekQ5UzdVVjh1YURGOFUzTlF3ODN4dGhPMnlGcUtGajFOUk9rZmhrUXBIZmxGQ08waG1oOE01UFlJanFuS2VxckdfUUFLVjJGbWxrQTl0UG14NTdFSlpTMW5IWEpTdjRkZkhyQXBOVEJ4Mmh2emVOSGU4QTlqSWdSR1JmLXlobm9UR090RzhLRGhwSGFNYjNoZjdBSWNCRHR3ZFRjMS1kN0x0QXB1dw?oc=5",
-   "source": "The Sun Times News",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Money",
-   "iso": "2026-08-28T01:32:59Z",
-   "id": "bbbdb5765bfe",
-   "origin": "google-news",
-   "source_title": "Weekly Data Center Watch: Saline Project Advances Amid New Rules and Political Pressure - The Sun Times News",
-   "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPenJfN19ORkVkekQ5UzdVVjh1YURGOFUzTlF3ODN4dGhPMnlGcUtGajFOUk9rZmhrUXBIZmxGQ08waG1oOE01UFlJanFuS2VxckdfUUFLVjJGbWxrQTl0UG14NTdFSlpTMW5IWEpTdjRkZkhyQXBOVEJ4Mmh2emVOSGU4QTlqSWdSR1JmLXlobm9UR090RzhLRGhwSGFNYjNoZjdBSWNCRHR3ZFRjMS1kN0x0QXB1dw?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
-  },
-  {
-   "title": "DTE seeks two new gas plants to feed data center power hunger",
-   "dek": "DTE Energy plans to ask state regulators for permission to build two natural gas plants as data centers drive up electricity demand across southeast Michigan. The move comes as older coal units retire and could push up customer bills if the plants are approved. Residents from Detroit to Ann Arbor will feel the impact through higher rates and more fossil fuel generation.",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DcFFqcXU1MG5VSnZFVjdkWTZwQ1M0R042OGlLWWs3czgzRk53ZE5PZ0NjMFUtWERhendzMWEzUEM5NmRZelFHZ19WbWUxaHlPWWluVF9fRF8tMGpkTmVPa3NaU3BHTTQtbm5mbWdRWWs4UVpO?oc=5",
-   "source": "Planet Detroit",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Power & Grid",
-   "iso": "2026-08-27T19:27:32Z",
-   "id": "c8edc680c94e",
-   "origin": "google-news",
-   "source_title": "DTE will seek approval for 2 natural gas plants as coal phases out, data centers go online - Planet Detroit",
-   "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DcFFqcXU1MG5VSnZFVjdkWTZwQ1M0R042OGlLWWs3czgzRk53ZE5PZ0NjMFUtWERhendzMWEzUEM5NmRZelFHZ19WbWUxaHlPWWluVF9fRF8tMGpkTmVPa3NaU3BHTTQtbm5mbWdRWWs4UVpO?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 9
   }
  ],
  "national": {

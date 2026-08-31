@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.charlottenc.gov/City-News/Data-Centers-City-Establishes-Task-Force",
-   "title": "Charlotte Launches Task Force to Shape Data Center Policies Amid Growth Concerns",
-   "at": "2026-08-19T05:05:38+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: Out-of-state task force formation is a thin national development with no Michigan impact."
-  },
-  {
    "url": "https://www.facebook.com/pittsburghpostgazette/posts/pennsylvania-gov-josh-shapiro-on-tuesday-said-his-administration-would-no-longer/1466270368881153/",
    "title": "Pennsylvania governor imposes new guardrails on data center permits and tax breaks",
    "at": "2026-08-19T05:41:27+00:00",
@@ -1399,21 +1392,16 @@
    "at": "2026-08-31T13:30:29+00:00",
    "by": "news_judge",
    "note": "score 4/10: An editorial opinion piece from a northern Michigan outlet expressing concerns about data centers, but no specific project, decision, filing, or development rep"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTDJ6Z2dUeGNEMklheTNpS0lqOWpHcllGM1BZMmFzanhwZGxJVzdHdG9td2pqVWRrYnZHT292RV9KV2MzU2NfdGY2ejg3SVdlNUhSc2lWM3R4MFdtSW1JbHJ6QnVSeGdrelFxcEkyUXViLUxaeGhFREZqLWF3NU1NcHFoT0pELVNFWm83Q3dWaUJ3bkRFS1I5ak9Faw?oc=5",
+   "title": "Trump pushes data centers ahead of Vance Michigan visit",
+   "at": "2026-08-31T19:36:23+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: National political angle (Trump/Vance) tied loosely to Michigan's existing data center debates but no specific Michigan decision or development reported."
   }
  ],
  "auto_published": [
-  {
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORVc3VGlDeEJsbWVZQjNQWTh2Y20wV0w1RDdIQnZiTkp2WVFnZ3BHWDFjbklKRmJVNTVIZWJrVWxSOVFxM2VISWkyTE01VENZUEFObXJQOGNGUzFWZ3hCblZEczl5d3VzMm1LZGRodGpLVFd4enNtcmwtd0NPNHR5LTluaGdzRXZpQ09yZkk5Mm1fVTRMUEgxamZJNmhJNmdrVU1UXzlzQ292RldzWFdTZndUX3Z0NnNYNVQ3VjdB?oc=5",
-   "title": "Marysville eyes one-year freeze on new data centers",
-   "judge_score": 8,
-   "at": "2026-07-15T06:38:46Z"
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNbFhwU2lsdWhjY3JndG5ZbW9fQ2I5X2k3dGlPdXdUZ0FMRDQyV19EQ2hsdjRDbU5kMko3MFFVT0I5SEN0M2hfWnF0VXBXeXhKSEY0UGVVTG55U1g0ZXJBeUM5U0hLeF84bm0zakhoM0lzZktJTnJfWkV5R3p4U20tS1VyaVlZWXNoOGU3Q181dDk0VUFMekRPVy1YLXpjblhzOWlFRU9zaE5NZFVDVXNXS25GbmltX2xlTTN5eExId3BBNTdQX3gxOE00dFFjZHFLeTZNaG9IN3l0TkhBVXp6aXZsekJhendfTWNQb0xhY3lZWWQ4MVo1bG9TcERYUjhXTkd6anp4bW1WREZi?oc=5",
-   "title": "Mason County data center site floods again, alarming nearby residents",
-   "judge_score": 7,
-   "at": "2026-07-15T11:13:16Z"
-  },
   {
    "url": "https://www.wlrn.org/government-politics/2026-07-15/project-tango-michael-carbonara-data-center-michigan",
    "title": "Michigan School Sues Over Noise From Candidate's Bitcoin Data Center",
@@ -3201,6 +3189,18 @@
    "title": "Michigan lets data center firms hide tax breaks from public view",
    "judge_score": 7,
    "at": "2026-08-31T06:00:46Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb0tORXVraG45bDBZNkN4Y05PbElaMVUwejRCbTV4TVVPblNDWWM2YS1Kc0RuRnBNM25rUy1ZWEdJdHZNdEU1dzN6OVFOTkpYN1VvZjdBWnE2TWhSeW93cXNLM2pyaVJ5NVAtVlFQbE1LTUNwOWF4SVRzY3pUZTBDdjlZYTFnVFpENFZWa25TRVl5LWE0amt6a0ZmRUJKa2l0UHAybFotMmVOX3dZaE44bmRCcngxOEpsWV94UTFR0gHSAUFVX3lxTE1zN2N6Y09YbW5HOFU5Z2VaX1MwNUVOVmQ5WF9FbXBKTUhINUg0a1VtOXNTelQ0d211SjBDZXZFMUJESGRnbmdpTzhESWNVSVpqd0ZOU3o5eHJWd0EydUZKbWllNzVuNFpPOGc2UXFJUVhmcWF5RFo0NWZ0MFJOaVY2c3RkSURDWlg5cWdBdWJkMjUtblZmRHhidENFYjBaWlJwNnBUVVVTWVlpeFRLLUhGMUJSbmhiZFg3SnNYUTlJUWlFb3VkcFRXOWFTeWxPRGNPdw?oc=5",
+   "title": "Construction milestone raises local fears over power bills, water at AI facility",
+   "judge_score": 6,
+   "at": "2026-08-31T19:36:23Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQalBMXzZzYUVHeFhtMmxBaktjS1Zwb1Zxc1hFWG02Zjg3WGdrNW5BQW41MzlIcUhwT21ZUGQ3QlZkYjQ0R1ZJcmswQ2JJZG16YTcxOWt1Wll0TElnMDYtQ0IxMmwzUElpcGs5aW9SRU1VQXQ0MXAzdE9GMmw1Y0FvOXUwVWtrN2FteUw3eHRabzRvLUNPTGo0RHBoZEhHVnd3V0dieHBmWVN6bGVKak1z?oc=5",
+   "title": "Data center faces new township hearing amid resident worries over grid, roads",
+   "judge_score": 7,
+   "at": "2026-08-31T19:36:23Z"
   }
  ]
 }

@@ -1,28 +1,6 @@
 {
- "updated_at": "2026-08-31T13:30:29+00:00",
+ "updated_at": "2026-08-31T19:36:23Z",
  "generator": "grok-wire-agent",
- "items": [
-  {
-   "title": "Sault Ste. Marie council reopens data center rules Monday",
-   "dek": "Sault council members will again debate limits on data centers after earlier pushback. The decision affects how much electricity and water a large facility could pull from the area grid and river. Chippewa County residents face higher utility costs if bigger projects win approval.",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONGJ6bTdqekJveEV3VHlFOUd6X1RqLXl1SVp1Z0pKRlFXNmh0azd6X3dHX3RVSGV6Y1FZWF82aFdfWDc2MTFpbUJ4MFRPS1BhS0paMkxIeWlqRkNoUzdBTXJHS3c3WUlBaV9JUk5xSV8tY0hjLTd5UUhBbXRPcDB1Q3dBc0pzMzZId0VncTN2TkJvR0tkWldBRHd5ZUE2UQ?oc=5",
-   "source": "SooToday.com",
-   "region": "north",
-   "cat": "STATEWIDE",
-   "county": "Chippewa",
-   "tag": "Local Government",
-   "iso": "2026-08-30T01:38:14Z",
-   "kind": "story",
-   "id": "a9a42f56433a",
-   "filed_at": "2026-08-30T19:24:51Z",
-   "origin": "google-news",
-   "headline_rewritten": true,
-   "source_title": "Sault council to revisit data centre issue on Monday - SooToday.com",
-   "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONGJ6bTdqekJveEV3VHlFOUd6X1RqLXl1SVp1Z0pKRlFXNmh0azd6X3dHX3RVSGV6Y1FZWF82aFdfWDc2MTFpbUJ4MFRPS1BhS0paMkxIeWlqRkNoUzdBTXJHS3c3WUlBaV9JUk5xSV8tY0hjLTd5UUhBbXRPcDB1Q3dBc0pzMzZId0VncTN2TkJvR0tkWldBRHd5ZUE2UQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7,
-   "judge_note": "Concrete new development: a scheduled council meeting to debate specific data center limits on electricity and water usage."
-  }
- ],
- "accuracy_checked_at": "2026-08-31T13:30:26+00:00"
+ "items": [],
+ "accuracy_checked_at": "2026-08-31T19:36:18+00:00"
 }
