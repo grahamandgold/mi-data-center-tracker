@@ -1,237 +1,261 @@
 {
- "title": "Mornings with Graham & Emmy",
- "teaser": "Wixom tightens rules on data centers despite lawsuit threat from developers.",
+ "title": "Evenings with Graham & Emmy",
+ "teaser": "Madison Heights files the first site plan while communities push back on power and water demands.",
  "lines": [
   {
    "host": "Graham",
-   "text": "Good morning, and welcome to Mornings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
+   "text": "Good evening, and welcome to Evenings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
   },
   {
    "host": "Emmy",
-   "text": "And I'm Emmy. It's Sunday, August 30, and we're starting the day with a close look at one suburb's push to get ahead of these massive projects."
+   "text": "And I'm Emmy."
   },
   {
    "host": "Graham",
-   "text": "That's right, Emmy. Today the big story is out of Wixom, where city officials just advanced new restrictions on data centers even as a developer lawsuit hangs over them."
+   "text": "Tonight we start with the first formal site plan filing in Madison Heights, the latest sign that these projects are moving from talk to paper across the state."
   },
   {
    "host": "Emmy",
-   "text": "What exactly did they do this week?"
+   "text": "That filing in Oakland County really puts a face on what residents 30 miles away might start feeling soon."
   },
   {
    "host": "Graham",
-   "text": "On August 26 the council passed zoning changes that set a 1,500-foot setback from homes, parks, and schools, plus requirements for noise studies, water usage limits, and other standards."
+   "text": "Exactly. Let's unpack what this means for power lines, water systems, and the bigger pattern of pushback we've seen all week."
   },
   {
    "host": "Emmy",
-   "text": "They also ended their six-month moratorium early, right?"
+   "text": "Graham, walk me through the Madison Heights filing itself. What do we know happened today?"
   },
   {
    "host": "Graham",
-   "text": "Yes, the new rules kick in no later than September 6, wrapping up the pause that started back in March."
+   "text": "Officials received a formal site plan for a data center in that Oakland County suburb. It's the first concrete step toward construction there."
   },
   {
    "host": "Emmy",
-   "text": "Why move so fast on the rules while the moratorium was still in place?"
+   "text": "And the ripple effects? The summary mentioned strain on local power lines and water even for people farther out."
   },
   {
    "host": "Graham",
-   "text": "Officials wanted to lock in protections before the pause expired and give themselves a stronger position."
+   "text": "Right. If it advances, added demand could hit transmission and treatment capacity that serves a wider area, not just the immediate neighbors."
   },
   {
    "host": "Emmy",
-   "text": "This isn't happening in a vacuum. How long has Wixom been wrestling with this?"
+   "text": "How does this fit into the history of these fights? It feels like every township is reacting differently now."
   },
   {
    "host": "Graham",
-   "text": "The planning commission started reviewing data center rules last November after the council directed them to look at the zoning ordinance."
+   "text": "We've seen a wave of responses this past week alone. Wixom advanced new restrictions yesterday despite a lawsuit threat from developers."
   },
   {
    "host": "Emmy",
-   "text": "And the moratorium came in March when they realized they needed more time."
+   "text": "And on Saturday Ellington Township approved a moratorium to give locals time to study power, water, and tax impacts."
   },
   {
    "host": "Graham",
-   "text": "Exactly. Wixom isn't alone — more than twenty Michigan communities have used similar pauses this year to study power, water, and noise impacts."
+   "text": "Genesee County got its own impact study delivered the same day. Officials there now have specifics on strain to roads, utilities, and taxpayers."
   },
   {
    "host": "Emmy",
-   "text": "Who is the developer behind the lawsuit?"
+   "text": "So Madison Heights is sort of the flip side — a project stepping forward while others are hitting the brakes. Who are the main players here?"
   },
   {
    "host": "Graham",
-   "text": "Wixom Industrial One, tied to Missouri-based Sansone Group. They want to build a roughly 519,000-square-foot facility on 54 acres along South Wixom Road."
+   "text": "Developers pushing the plans, local planning commissions reviewing site plans, and residents organized around utility rates and land use. State regulators are in the mix too on the power side."
   },
   {
    "host": "Emmy",
-   "text": "What are they arguing in court?"
+   "text": "What about the electric bills angle? We keep hearing data centers as a driver for rate requests."
   },
   {
    "host": "Graham",
-   "text": "The suit claims the moratorium is illegal and was designed to kill their project after the city had been working with them on plans."
+   "text": "DTE asked for a big hike on Friday, and the attorney general wants it cut by 71 percent because it would hit households too hard. Data center demand is cited as one reason behind the ask."
   },
   {
    "host": "Emmy",
-   "text": "How does this fit into the bigger picture across the state?"
+   "text": "That ties directly to the two new gas plants DTE is seeking to build, also from Thursday. Those would feed the growing load but could mean more fossil generation and higher costs."
   },
   {
    "host": "Graham",
-   "text": "Data centers are drawing huge interest because of tax incentives passed in 2024, but they're also massive users of electricity and water for cooling."
+   "text": "Residents from Detroit out to Ann Arbor would feel that through rates. The plants come as older coal units retire, so the timing is tight."
   },
   {
    "host": "Emmy",
-   "text": "What kind of numbers are we talking about?"
+   "text": "Water use is another piece that keeps coming up. How big a deal is that for places like Madison Heights?"
   },
   {
    "host": "Graham",
-   "text": "A single large facility can pull hundreds of megawatts to over a gigawatt and millions of gallons of water a day, which is why utilities like DTE are planning new gas plants and seeing an 8-gigawatt pipeline."
+   "text": "Cooling systems at scale pull serious volumes. Townships are already rewriting zoning to address it, like the two more Metro Detroit suburbs that changed codes on Thursday after noise and water concerns."
   },
   {
    "host": "Emmy",
-   "text": "That demand is already showing up in rate cases, isn't it?"
+   "text": "And farmland or open space? These projects often go on large parcels."
   },
   {
    "host": "Graham",
-   "text": "Yes, and it ties directly into why residents in places like Wixom are pushing back on local taxes, traffic, and utility bills."
+   "text": "The Saline Township proposal is still advancing despite new rules and pushback. It could bring construction jobs but also heavy demands on power and water that affect property values and taxes nearby."
   },
   {
    "host": "Emmy",
-   "text": "What happens next in Wixom with the lawsuit pending?"
+   "text": "New state bills were introduced on Friday to regulate large builds with rules on power, noise, and tax deals. How might those change the game?"
   },
   {
    "host": "Graham",
-   "text": "The city will defend the new ordinance in federal court, and the developer is asking a judge to let their site plan move forward anyway."
+   "text": "They respond to the growing local pushback and could add oversight that slows or shapes future campuses. Lawmakers are clearly watching the same trend we are."
   },
   {
    "host": "Emmy",
-   "text": "Could this chill other projects or encourage more towns to write their own rules?"
+   "text": "What happens next in Madison Heights specifically? Is this filing the start of a long review process?"
   },
   {
    "host": "Graham",
-   "text": "That's the open question — whether the legal fight deters investment or simply forces clearer standards everywhere."
+   "text": "Yes. Site plan review usually means public hearings, traffic studies, utility capacity checks, and possible conditions before any shovels move. Residents will have chances to weigh in."
   },
   {
    "host": "Emmy",
-   "text": "Residents seem pretty vocal from what I've seen."
+   "text": "And if it clears locally, state utility regulators still have a say on interconnection and rates."
   },
   {
    "host": "Graham",
-   "text": "They've been showing up at meetings thanking the council for holding the line and calling the lawsuit corporate pressure."
+   "text": "Exactly. The bigger pattern is communities buying time with moratoriums and studies while projects like this one test the current rules."
   },
   {
    "host": "Emmy",
-   "text": "So the stakes are really about local control versus rapid development."
+   "text": "We also saw a recall effort fail on Friday against officials who approved a big rezoning. That keeps a 500-acre project on track in a divided community."
   },
   {
    "host": "Graham",
-   "text": "And about who pays the infrastructure costs if these facilities come online."
+   "text": "Right. Opponents now face a steeper climb to force another vote. It shows how these decisions can stick even when sentiment is split."
   },
   {
    "host": "Emmy",
-   "text": "Any sense of how many other Oakland County towns are watching this?"
+   "text": "So for listeners 30 miles away, the takeaway is that one filing can influence regional infrastructure planning even if the site isn't in their backyard."
   },
   {
    "host": "Graham",
-   "text": "At least a couple nearby suburbs have already tightened their own zoning this summer after similar resident concerns."
+   "text": "That's the thread running through all of this. Power and water systems don't stop at township lines."
   },
   {
    "host": "Emmy",
-   "text": "It feels like a pattern that's spreading fast."
+   "text": "Graham, any sense of how many places have paused or tightened rules so far this summer?"
   },
   {
    "host": "Graham",
-   "text": "And that's why today's Wixom vote matters beyond just one city."
+   "text": "From what we've tracked, at least a handful in Oakland, Tuscola, and Genesee counties have acted in recent days, with more zoning changes in the works."
   },
   {
    "host": "Emmy",
-   "text": "We'll keep tracking the court case and how other communities respond."
+   "text": "And the Genesee study gives leaders concrete numbers on potential taxpayer hits. Other counties might follow that model."
   },
   {
    "host": "Graham",
-   "text": "Now let's run through the rest of the week's developments in quick hits."
+   "text": "It does. The study details strain on power, water, and roads, giving residents elsewhere a template for what to ask."
   },
   {
    "host": "Emmy",
-   "text": "Yesterday Ellington Township in Tuscola County approved a moratorium on new data centers to study power and water demands."
+   "text": "What should people watch for in the coming weeks on the Madison Heights project?"
   },
   {
    "host": "Graham",
-   "text": "That gives residents time before any large projects move ahead."
+   "text": "Next steps would be any planning commission meetings or public comment periods once the filing is reviewed. Those are where details on size and utility needs usually surface."
   },
   {
    "host": "Emmy",
-   "text": "Also yesterday a Genesee County committee delivered its impact study on data centers to local leaders."
+   "text": "And on the state level, how the new bills move could set the tone for all these local fights."
   },
   {
    "host": "Graham",
-   "text": "Officials now have details on potential strain to power, water, and roads that could affect taxpayers."
+   "text": "We'll keep tracking both. Now let's hit the other stories from the past few days in quick hits."
   },
   {
    "host": "Emmy",
-   "text": "On Friday Attorney General Dana Nessel told regulators she wants a 71 percent cut to DTE's requested $474 million rate hike."
+   "text": "Yesterday in Wixom, officials moved new restrictions forward even with a lawsuit threat from developers. That could cap big power and water draws in Oakland County."
   },
   {
    "host": "Graham",
-   "text": "Data center power demand is one reason DTE cited for the increase."
+   "text": "Residents there might see shifts in taxes, traffic, and utility rates depending on what gets built."
   },
   {
    "host": "Emmy",
-   "text": "Lawmakers also introduced new state bills Friday aimed at regulating large data center builds."
+   "text": "Saturday brought the Ellington Township moratorium in Tuscola County. Locals now have breathing room to examine demands before anything advances."
   },
   {
    "host": "Graham",
-   "text": "The measures would add oversight on power use, noise, and local tax agreements."
+   "text": "Nearby communities will watch how that plays out for their own planning."
   },
   {
    "host": "Emmy",
-   "text": "A recall effort against officials who approved a big tech facility failed on Friday after the clerk rejected the petitions."
+   "text": "Also Saturday, the Genesee panel handed over its impact study. Officials have the details on power, water, and road strain for taxpayers."
   },
   {
    "host": "Graham",
-   "text": "That keeps the 500-acre project on track in a divided community."
+   "text": "That gives residents in surrounding areas a model for scrutiny on similar proposals."
   },
   {
    "host": "Emmy",
-   "text": "The Saline Township project is still advancing despite new local rules and pushback."
+   "text": "On Friday, Attorney General Nessel pushed for a big cut to DTE's rate hike request, citing household impacts and data center demand as a factor."
   },
   {
    "host": "Graham",
-   "text": "It could bring construction jobs but also heavy utility demands."
+   "text": "A smaller increase would still mean higher bills, but it shows the pushback at the regulatory level."
   },
   {
    "host": "Emmy",
-   "text": "Thursday DTE said it will seek approval for two new natural gas plants to meet data center demand."
+   "text": "New bills targeting data center rules also dropped Friday, focusing on power use, noise, and tax deals."
   },
   {
    "host": "Graham",
-   "text": "That comes as older coal units retire and could affect customer bills."
+   "text": "That legislative response lines up with the local actions we've seen."
   },
   {
    "host": "Emmy",
-   "text": "Two more Metro Detroit towns also updated zoning Thursday to curb data centers after resident concerns over noise and resources."
+   "text": "The recall effort against officials who approved a major rezoning failed on Friday, keeping that 500-acre project moving."
   },
   {
    "host": "Graham",
-   "text": "And earlier in the week a developer sued Wixom after the city blocked its project."
+   "text": "Opponents are now in a tougher spot to change course."
   },
   {
    "host": "Emmy",
-   "text": "That case is now part of the ongoing legal back-and-forth we talked about in the main story."
+   "text": "Saline Township's project is still pushing ahead despite tightened zoning and pushback. Jobs versus utility demands is the tension there."
   },
   {
    "host": "Graham",
-   "text": "For on deck, no public meetings are currently listed for the next couple of days on the tracker."
+   "text": "Ripple effects on rates and taxes could reach well beyond the township."
   },
   {
    "host": "Emmy",
-   "text": "Listeners can always check the Michigan Data Center Tracker for the latest agendas and updates."
+   "text": "Thursday DTE signaled plans for two new gas plants to meet data center demand, which could raise bills and shift generation."
+  },
+  {
+   "host": "Graham",
+   "text": "From Detroit to Ann Arbor, that's the kind of infrastructure decision that lands on customer statements."
+  },
+  {
+   "host": "Emmy",
+   "text": "And two more Metro Detroit towns changed zoning on Thursday to curb projects over noise, water, and power concerns."
+  },
+  {
+   "host": "Graham",
+   "text": "Those changes could slow or block what developers had eyed in the region."
+  },
+  {
+   "host": "Emmy",
+   "text": "Graham, anything on deck for meetings listeners can attend?"
+  },
+  {
+   "host": "Graham",
+   "text": "No specific public meetings listed for tonight on the tracker, but local planning commissions often post agendas weekly. Check your township site for upcoming reviews."
+  },
+  {
+   "host": "Emmy",
+   "text": "Always good to stay ahead of those comment periods."
   },
   {
    "host": "Graham",
    "text": "Full sources and the live map at the Michigan Data Center Tracker. We're back tomorrow."
   }
  ],
- "episode_title": "Wixom Advances Data Center Limits as Developer Lawsuit Looms",
- "show": "Mornings with Graham & Emmy",
- "daypart": "Mornings"
+ "episode_title": "Madison Heights Submits First Data Center Site Plan as Rules Tighten Statewide",
+ "show": "Evenings with Graham & Emmy",
+ "daypart": "Evenings"
 }
