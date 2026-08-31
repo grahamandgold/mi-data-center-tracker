@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOTNDUDJRQXVKYjVkc3h5UEJ2eFhfSU1RMmJuTGFYdDRXNmlhZm5aSHFyRXd5MUxyWGRvS19KVjI3eGdYTlJrQ2U5MEp1SFBEXzBkbVA1cTFzdUZUU0pfbDJyUG1OMTZSYXNXX2tDR29RZS1yd1MtcEdWUERXMldpVTZSSWVfaUY1Y21OVDNzb1Q4eWNLYUJpZloyZ25jWnJfb25xeFZfM2xkU3JodlJrcFJKOGhGckxldDZYN2JTbWg?oc=5",
-   "title": "Kalamazoo freezes new data centers amid power concerns",
-   "at": "2026-08-19T01:46:15+00:00",
-   "by": "news_judge",
-   "note": "score 1/10, duplicate: Duplicate of already-killed Kalamazoo freeze stories; same moratorium decision already covered multiple times."
-  },
-  {
    "url": "https://www.charlottenc.gov/City-News/Data-Centers-City-Establishes-Task-Force",
    "title": "Charlotte Launches Task Force to Shape Data Center Policies Amid Growth Concerns",
    "at": "2026-08-19T05:05:38+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-30T16:35:37+00:00",
    "by": "news_judge",
    "note": "score 4/10: National trend piece with Michigan mentioned as one of several states; lacks specific Michigan project details, decisions, or local developments that would make"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNb1NJUnBXdnVmTUYwd3FSWlVvYkVaZFNIQVdrdkVmZzFrM19fQ2FEclVsRlIxeUtycU5GM0s4YTdSYjdOb1NQSkVwSU80MFNqTEVUV1EwNTk5SDgyQVlNV1V5QTFnSHFqWi1KSjdlSE9RbmlxRkpKd2N2WUFIXzU3QUZxVXdpYmZ2SnBJMm1kTGhIOExGYk5RQ0l5R0RlUWNqd0pybnppVE91M3I0Qkp5Rm4xTnMtbFJWVG95eFJyNXBwWmRjX1k5SXdOMlZYUkF3aWpodUlR?oc=5",
+   "title": "Alpena warns data centers could cost more than they deliver",
+   "at": "2026-08-31T13:30:29+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: An editorial opinion piece from a northern Michigan outlet expressing concerns about data centers, but no specific project, decision, filing, or development rep"
   }
  ],
  "auto_published": [
