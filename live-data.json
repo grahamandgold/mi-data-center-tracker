@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-09-01T04:54:12+00:00",
+ "updated_at": "2026-09-01T09:56:41Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Closed-door data center pitch raises electric bill, water fears for nearby residents",
+   "dek": "Officials from across the region sat through pitches on new data center projects while demonstrators rallied outside. Residents 30 miles away could soon face higher electric bills and water strain if the proposals advance. The closed-door format left many locals wondering whose voices are shaping the deals.",
+   "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOU1liSGItekR2M0RIcjlOU29xSkgwZUxJUFB4ekdnTG5weDZMRXMwUFR1WW1XU2p3OEdudWVROGw5MHVTRF9iYmt0SnVUMTBhaS0tckRGZW5Sb2NiU3F1NElBRTdnYWY5N1dieHRId0RPOVk5OEdWa2xzLS16UUhzQkhVZ1piWElpSUZJVm1PRDQzQi1WaDhjeVFfRlp6cG5tWjE3SjRMaEZrZS1LeDFJQlE1S3JhYl9zREZKelZkc1BfdnNMSEQ3Ym13NFhGTWpNcnJEeEZMZzVSdHpRaUtsNVlVQ1JaeFZONkU0Wmc0WVJmZE8xTFlkX183b2R6QVB5S0s0YXFOTjBNSlRIalRWS0dMNkVmZ19kczE0?oc=5",
+   "source": "WWMT",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Local Government",
+   "iso": "2026-09-01T07:33:58Z",
+   "id": "559e14df2395",
+   "origin": "google-news",
+   "source_title": "Private data center seminar attended by 100+ West Michigan officials, protesters outside - WWMT",
+   "source_url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOU1liSGItekR2M0RIcjlOU29xSkgwZUxJUFB4ekdnTG5weDZMRXMwUFR1WW1XU2p3OEdudWVROGw5MHVTRF9iYmt0SnVUMTBhaS0tckRGZW5Sb2NiU3F1NElBRTdnYWY5N1dieHRId0RPOVk5OEdWa2xzLS16UUhzQkhVZ1piWElpSUZJVm1PRDQzQi1WaDhjeVFfRlp6cG5tWjE3SjRMaEZrZS1LeDFJQlE1S3JhYl9zREZKelZkc1BfdnNMSEQ3Ym13NFhGTWpNcnJEeEZMZzVSdHpRaUtsNVlVQ1JaeFZONkU0Wmc0WVJmZE8xTFlkX183b2R6QVB5S0s0YXFOTjBNSlRIalRWS0dMNkVmZ19kczE0?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Data center faces new township hearing amid resident worries over grid, roads",
    "dek": "The data-center developer is scheduled to appear again before Lyon Township planners next month. Residents in this Oakland County community have already raised concerns over power demand and local impact. The project could bring major construction but also strain on the grid and roads.",
@@ -171,23 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSHBLWGJKdFozV1JUTXotLXAydjhYX2pjdndEVnNWQnltNTNRN04tYWY1Nk5GeHVPT3JtVFV2dl9oenV1M2wwVmhqWDJZUFB2Y09pM1NZME1leTc3REliNENOOXgybU5JdnNTemhXVFEzOUYyTEh0YjFha2RCWEFVeHBpSHh1UDI2aDZWWmtDaFRfT1V3QjZQZUgwaw?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Recall effort fails against officials who greenlit massive tech facility",
-   "dek": "A Michigan clerk has rejected petitions aimed at recalling local officials who approved rezoning for a massive data center project. Residents opposed to the development now face an uphill battle to force a new vote. The decision keeps the 500-acre project on track in a community already divided over power use and tax breaks.",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTUhRbl9wWjcwRG14UFN6QlcxMGlaOGRtRjN4N2tYbVc5SjlIemJWREFiUWZNV2dmaXZ0ZTZvVXJ6N3hDdk0xODNBS1lfR3h5QnVlNms0cXhpVFladEJ2dUdQSWIzdEJPdjFJdG1yam1oN2pjZjJQdG1vVFhCQkNkRWZaZzNRWkZ4SGxpakEzV2lxMFZPR0Z3VGZtdy1hSjk0?oc=5",
-   "source": "Yahoo",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Local Government",
-   "iso": "2026-08-28T07:36:00Z",
-   "id": "aaa8f93696f9",
-   "origin": "google-news",
-   "source_title": "Michigan clerk rejects recall petitions in fight over 500-acre data center rezoning - Yahoo",
-   "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTUhRbl9wWjcwRG14UFN6QlcxMGlaOGRtRjN4N2tYbVc5SjlIemJWREFiUWZNV2dmaXZ0ZTZvVXJ6N3hDdk0xODNBS1lfR3h5QnVlNms0cXhpVFladEJ2dUdQSWIzdEJPdjFJdG1yam1oN2pjZjJQdG1vVFhCQkNkRWZaZzNRWkZ4SGxpakEzV2lxMFZPR0Z3VGZtdy1hSjk0?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
   }
  ],
  "national": {

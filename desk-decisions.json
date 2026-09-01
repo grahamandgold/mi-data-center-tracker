@@ -1403,12 +1403,6 @@
  ],
  "auto_published": [
   {
-   "url": "https://www.wlrn.org/government-politics/2026-07-15/project-tango-michael-carbonara-data-center-michigan",
-   "title": "Michigan School Sues Over Noise From Candidate's Bitcoin Data Center",
-   "judge_score": 8,
-   "at": "2026-07-15T15:00:01Z"
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRkVsNzZ6SkJna2YxQld6NzhhUE9BV2hPNWtOUU9aZFhrWkN4Qm1abmxrTUV0ZGVWVzhXNzY1SzdhYkxKcEhfTm92RVR2RVd5XzlBcVVIQlhqdkwzekNHZW1LbXBSY2djX0FVR3pLMU1BODRod0lxam5nRnVZV2dfamhJZGkwVG51Nk9kcnB5SFF0eUpnWEVLbjIzdGQ?oc=5",
    "title": "Saline Township rejects 50% tax cut for Oracle campus",
    "judge_score": 9,
@@ -3201,6 +3195,12 @@
    "title": "Data center faces new township hearing amid resident worries over grid, roads",
    "judge_score": 7,
    "at": "2026-08-31T19:36:23Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOU1liSGItekR2M0RIcjlOU29xSkgwZUxJUFB4ekdnTG5weDZMRXMwUFR1WW1XU2p3OEdudWVROGw5MHVTRF9iYmt0SnVUMTBhaS0tckRGZW5Sb2NiU3F1NElBRTdnYWY5N1dieHRId0RPOVk5OEdWa2xzLS16UUhzQkhVZ1piWElpSUZJVm1PRDQzQi1WaDhjeVFfRlp6cG5tWjE3SjRMaEZrZS1LeDFJQlE1S3JhYl9zREZKelZkc1BfdnNMSEQ3Ym13NFhGTWpNcnJEeEZMZzVSdHpRaUtsNVlVQ1JaeFZONkU0Wmc0WVJmZE8xTFlkX183b2R6QVB5S0s0YXFOTjBNSlRIalRWS0dMNkVmZ19kczE0?oc=5",
+   "title": "Closed-door data center pitch raises electric bill, water fears for nearby residents",
+   "judge_score": 7,
+   "at": "2026-09-01T09:56:41Z"
   }
  ]
 }
