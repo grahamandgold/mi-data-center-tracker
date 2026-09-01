@@ -1,10 +1,10 @@
 {
- "title": "Mornings with Graham & Emmy",
- "teaser": "Ypsilanti weighs a year-long data center halt as protests hit a closed West Michigan seminar.",
+ "title": "Evenings with Graham & Emmy",
+ "teaser": "Officials gather privately on data centers while residents protest outside in Dorr Twp.",
  "lines": [
   {
    "host": "Graham",
-   "text": "Good morning and welcome to Mornings with Graham & Emmy, the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
+   "text": "Good evening, and welcome to Evenings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
   },
   {
    "host": "Emmy",
@@ -12,206 +12,218 @@
   },
   {
    "host": "Graham",
-   "text": "Today we're digging into closed-door meetings, resident protests, and new local pushback on data centers from Allegan County to Ypsilanti."
+   "text": "Yesterday's closed-door seminar in Dorr Township drew over a hundred local leaders but also dozens of protesters, and that's our big story tonight."
   },
   {
    "host": "Emmy",
-   "text": "Graham, the lead story today is that invite-only seminar in Dorr Township where more than 100 officials from Allegan, Barry and Kent counties gathered while dozens protested outside."
+   "text": "Graham, this feels like a flashpoint. What exactly happened in Dorr Township yesterday?"
   },
   {
    "host": "Graham",
-   "text": "Exactly. The session focused on zoning and inspections and was hosted by a private firm. Residents raised concerns about water use and a Microsoft proposal that remains under moratorium until 2027."
+   "text": "More than a hundred municipal officials from Allegan, Barry, and Kent counties met for an invite-only session on zoning and inspections hosted by a private firm."
   },
   {
    "host": "Emmy",
-   "text": "Why does a closed meeting like this matter so much to people living 30 miles away?"
+   "text": "And outside?"
   },
   {
    "host": "Graham",
-   "text": "Because any new facilities could affect electric bills and water supplies across a wide region. Demonstrators outside highlighted how these projects strain resources that everyone shares."
+   "text": "Dozens of residents protested over water use concerns tied to a Microsoft proposal that's under moratorium until 2027."
   },
   {
    "host": "Emmy",
-   "text": "What's the history here? Has Michigan seen this kind of pushback before?"
+   "text": "Why does a closed session like that raise so many alarms for people living nearby?"
   },
   {
    "host": "Graham",
-   "text": "Yes, several communities have already paused or tightened rules on standalone data centers. Ypsilanti is debating a year-long halt tonight, and places like Wixom have advanced new restrictions despite lawsuit threats from developers."
+   "text": "Residents thirty miles away are already worried their electric bills and water supplies could take a hit if these projects move forward without more public input."
   },
   {
    "host": "Emmy",
-   "text": "Who are the main players in these deals?"
+   "text": "How does this fit into the bigger pattern we've seen across the state lately?"
   },
   {
    "host": "Graham",
-   "text": "You have the data center developers pitching projects, municipal leaders handling zoning, and residents worried about farmland loss, higher utility rates, and traffic. State law also lets firms keep tax break details private."
+   "text": "Small towns are becoming test cases. Places like Decatur, Ypsilanti, and Lyon Township are all wrestling with the same questions about power grid strain and who pays for upgrades."
   },
   {
    "host": "Emmy",
-   "text": "How does this connect to electric bills specifically?"
+   "text": "Walk me through the history here. Has Michigan seen this kind of pushback before?"
   },
   {
    "host": "Graham",
-   "text": "New facilities draw massive power. Vice-presidential candidate Vance highlighted this at his Sterling Heights stop yesterday, linking data center growth to potential rate hikes and tying it to University of Michigan research."
+   "text": "Data center proposals have been accelerating, and communities are looking back at earlier builds that brought jobs but also new power lines and traffic."
   },
   {
    "host": "Emmy",
-   "text": "What about water? That seems to come up everywhere."
+   "text": "What are the main players in these deals?"
   },
   {
    "host": "Graham",
-   "text": "Cooling these centers requires huge amounts of water. In Dorr, protesters flagged that risk alongside the Microsoft proposal. Similar worries appear in Saline Township with The Barn project and near Ann Arbor at the million-hour construction milestone."
+   "text": "Big tech companies like Microsoft, local developers, and township boards are at the table, while residents and environmental groups are pushing for more transparency."
   },
   {
    "host": "Emmy",
-   "text": "Farmland is another big piece, right?"
+   "text": "Let's talk stakes. How could one of these campuses affect electric bills for regular households?"
   },
   {
    "host": "Graham",
-   "text": "Absolutely. The Barn is rising fast on farmland in Saline Township, and residents there are already seeing new power lines and traffic changes. Washtenaw County communities are tracking how quickly land use shifts."
+   "text": "New facilities can add thousands of megawatts of demand. Utilities have said upgrades might be needed, and the question is whether ratepayers foot part of that bill."
   },
   {
    "host": "Emmy",
-   "text": "What happens next after a meeting like the one in Dorr?"
+   "text": "Water is another big one, right?"
   },
   {
    "host": "Graham",
-   "text": "Local officials will likely refine zoning rules. Ypsilanti's council meets tonight to consider that temporary ban, which would buy time for permanent regulations before any large projects arrive."
+   "text": "Cooling systems at large sites can pull significant amounts, and in areas already watching drought patterns that raises red flags for nearby farms and homes."
   },
   {
    "host": "Emmy",
-   "text": "Is there precedent for these moratoriums working?"
+   "text": "Farmland conversion is happening too. What does that mean for towns long-term?"
   },
   {
    "host": "Graham",
-   "text": "Several townships have used them to study impacts. Wixom tightened rules recently even with legal threats looming, and Madison Heights just received its first site plan filing on Sunday."
+   "text": "Projects like the one nicknamed The Barn in Saline Township are turning agricultural land into industrial sites, shifting tax bases and changing the character of rural communities."
   },
   {
    "host": "Emmy",
-   "text": "How transparent are these processes for regular residents?"
+   "text": "Supporters always mention jobs. How do those promises stack up against the concerns?"
   },
   {
    "host": "Graham",
-   "text": "That's a sticking point. The closed-door format in Dorr left many wondering whose voices shape the deals. State law allowing hidden tax incentives adds to the opacity, potentially shifting costs to local taxpayers."
+   "text": "Proponents point to construction and operations roles, but critics worry the economic benefits may not offset higher utility costs for everyone else in the area."
   },
   {
    "host": "Emmy",
-   "text": "What about the grid and roads in places like Lyon Township?"
+   "text": "What happens next after yesterday's seminar and protests?"
   },
   {
    "host": "Graham",
-   "text": "A developer there faces another hearing next month. Residents have already flagged power demand and local impacts from the project."
+   "text": "More townships are scheduling hearings, and calls for statewide pauses are growing louder from figures like Mike Rogers."
   },
   {
    "host": "Emmy",
-   "text": "Any sense of how many communities are watching this right now?"
+   "text": "How might this closed-door approach change how future meetings are handled?"
   },
   {
    "host": "Graham",
-   "text": "Quite a few. From Oakland County suburbs to West Michigan, officials and residents are tracking proposals that could affect bills and services even 30 miles away."
+   "text": "Residents are demanding open sessions, and some councils are already considering moratoriums to buy time for better rules."
   },
   {
    "host": "Emmy",
-   "text": "So the bigger picture is communities trying to get ahead of rapid buildout?"
+   "text": "Is there a sense that this could spread to more counties?"
   },
   {
    "host": "Graham",
-   "text": "That's the core tension. Economic opportunities versus long-term costs to utilities, water, and land use."
+   "text": "Absolutely. The Dorr example is being watched closely by places like Detroit and Ypsilanti that are weighing their own freezes."
   },
   {
    "host": "Emmy",
-   "text": "Graham, let's move to quick hits. Ypsilanti is debating that year-long halt tonight—what exactly is on the table?"
+   "text": "Any sense of what a typical resident should watch for in their own backyard?"
   },
   {
    "host": "Graham",
-   "text": "City leaders will discuss a temporary ban on new standalone data center proposals. Residents fear spikes in electricity rates and water strain, and the moratorium would allow time for permanent zoning rules."
+   "text": "Look for notices about zoning changes or utility filings, because those often signal when a project is moving from proposal to construction."
   },
   {
    "host": "Emmy",
-   "text": "Vance spoke in Sterling Heights yesterday about this. What did he say?"
+   "text": "Thanks for laying that out. Let's move to quick hits."
   },
   {
    "host": "Graham",
-   "text": "He framed data center growth as both an economic opportunity and a risk to utility costs, linking it to University of Michigan research and trucking impacts for Michigan voters."
+   "text": "In Decatur today, neighbors clashed over a proposed campus, worrying about taxes, noise, and power grid impacts while supporters highlighted jobs."
   },
   {
    "host": "Emmy",
-   "text": "Another closed-door pitch drew protests yesterday too."
+   "text": "That sounds like the same tension we just discussed. How is Decatur handling it differently?"
   },
   {
    "host": "Graham",
-   "text": "Officials from across the region heard pitches while demonstrators rallied outside. Residents 30 miles away could face higher bills and water strain if those projects advance."
+   "text": "It's shaping up as an early test case for other small towns, with residents pushing for more details on utility bill effects."
   },
   {
    "host": "Emmy",
-   "text": "On the construction side, that Ann Arbor-area facility hit a million hours yesterday."
+   "text": "Over in Detroit, environmental groups are calling for a freeze on new projects while the city writes power and water rules."
   },
   {
    "host": "Graham",
-   "text": "Washtenaw County residents are watching power rates and water use as it ramps up. Local jobs are growing, but questions about long-term taxpayer costs remain."
+   "text": "Right, they say hyperscale builds could strain the grid and raise household costs, and a moratorium would let officials assess the real impacts."
   },
   {
    "host": "Emmy",
-   "text": "Saline Township's The Barn project is moving fast."
+   "text": "Mike Rogers is pushing a statewide pause until utilities prove they can handle the load without rate hikes."
   },
   {
    "host": "Graham",
-   "text": "Construction is advancing rapidly on farmland there. Nearby residents will see new power lines, traffic, and potential tax shifts once it's online."
+   "text": "He targeted projects that could add thousands of megawatts, noting voters from both parties are concerned about who pays."
   },
   {
    "host": "Emmy",
-   "text": "Michigan law lets data centers hide tax breaks."
+   "text": "Ypsilanti is debating a year-long halt at tonight's council meeting."
   },
   {
    "host": "Graham",
-   "text": "That's right. It reduces transparency on revenue losses for cities and townships, which can mean higher local taxes or strained services elsewhere."
+   "text": "Residents there fear spikes in electricity rates and water strain, and the pause would give time to craft permanent zoning rules."
   },
   {
    "host": "Emmy",
-   "text": "Madison Heights got its first site plan filing on Sunday."
+   "text": "Vice-presidential candidate Vance stopped in Sterling Heights and tied data centers to both jobs and power bill risks."
   },
   {
    "host": "Graham",
-   "text": "It's the first concrete step in that Oakland County suburb. Effects could ripple to residents 30 miles away through power and water strain."
+   "text": "He referenced University of Michigan research and noted how new facilities could affect household costs across the state."
   },
   {
    "host": "Emmy",
-   "text": "Wixom tightened rules despite lawsuit threats."
+   "text": "Yesterday also saw a closed-door pitch that raised electric bill and water fears for residents thirty miles away."
   },
   {
    "host": "Graham",
-   "text": "Officials advanced new restrictions on large projects that would draw heavy power and water. Changes could affect local taxes, traffic, and rates."
+   "text": "Demonstrators rallied outside while officials heard the presentations, leaving many locals questioning whose voices are shaping the deals."
   },
   {
    "host": "Emmy",
-   "text": "Lyon Township has that hearing coming up next month."
+   "text": "In Lyon Township, the developer faces another hearing next month amid worries about grid and roads."
   },
   {
    "host": "Graham",
-   "text": "Residents there continue raising concerns over grid and road impacts from the proposed project."
+   "text": "Residents there have already flagged power demand and construction impacts on local infrastructure."
   },
   {
    "host": "Emmy",
-   "text": "Now for on deck. What's happening tonight that listeners can attend?"
+   "text": "Near Ann Arbor, a big AI facility hit a million construction hours, and Washtenaw County residents are watching rate and water effects."
   },
   {
    "host": "Graham",
-   "text": "Ypsilanti city council meets tonight to debate that year-long data center moratorium. It's open to the public and directly addresses the rate and water concerns we've been discussing."
+   "text": "Jobs are growing, but so are questions about long-term taxpayer costs once it ramps up."
   },
   {
    "host": "Emmy",
-   "text": "Any other meetings worth noting?"
+   "text": "And in Saline Township, The Barn project is rising fast on farmland."
   },
   {
    "host": "Graham",
-   "text": "Lyon Township planners will hear from the data center developer again next month. Check local agendas for exact dates and times."
+   "text": "Nearby residents will see new power lines and traffic, plus potential tax shifts as the facility comes online."
   },
   {
    "host": "Emmy",
-   "text": "Full sources and the live map at the Michigan Data Center Tracker. We're back tomorrow."
+   "text": "On deck for listeners, Ypsilanti council meets tonight on that proposed moratorium."
+  },
+  {
+   "host": "Graham",
+   "text": "No other major public meetings are listed for tomorrow, but township agendas can change quickly."
+  },
+  {
+   "host": "Emmy",
+   "text": "Full sources and the live map at the Michigan Data Center Tracker."
+  },
+  {
+   "host": "Graham",
+   "text": "We're back tomorrow."
   }
  ],
- "episode_title": "Closed Doors in Dorr Spark Fears Over Power, Water and Farmland",
- "show": "Mornings with Graham & Emmy",
- "daypart": "Mornings"
+ "episode_title": "Closed-Door Data Center Talks Spark Protests in West Michigan",
+ "show": "Evenings with Graham & Emmy",
+ "daypart": "Evenings"
 }
