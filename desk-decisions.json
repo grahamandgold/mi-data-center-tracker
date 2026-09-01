@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.wilx.com/2026/08/18/mason-city-council-approves-data-center-communication-plan/",
-   "title": "Mason City Council adopts outreach plan for potential data center project, schedules September town hall",
-   "at": "2026-08-19T06:57:58+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: This Mason outreach plan and town hall scheduling is the same event already KILLED as 'Mason council OKs outreach plan before any data center arrives.'"
-  },
-  {
    "url": "https://www.fox17online.com/news/local-news/kzoo-bc/kalamazoo/kalamazoo-city-commission-votes-in-favor-of-data-center-pause",
    "title": "Kalamazoo Commission Approves One-Year Data Center Moratorium",
    "at": "2026-08-19T08:49:36+00:00",
@@ -1399,27 +1392,16 @@
    "at": "2026-09-01T04:54:17+00:00",
    "by": "news_judge",
    "note": "score 3/10: Thin reaction piece to Trump's national comments rather than a Michigan-specific decision or development; resembles killed national trend/political stories."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVm1aVkd5bnlXWUJxZGxMenloTkZwaHJGaHZsTzdKWGZrUDROR3JQM1FjaHA0V0NxaXdmU2x5UEZsYmxESjZETW11N2VfUXJBS1RoVFc1czQyR3VQMlJHS1dXWi1uSFo3ekhNQjM3LWY5UVBqei1hZmItQWxJVVVHVm04NHVLZ3lqVzhBUy10MlBoQU1QY0VicGdpTmwtZVJ5Wk5MUDk1a2hqOGppS3BtVXNQSF9rS1BIb19VcU9lQjFnTkpxOTJqd1d6MmtiS1dnMlE0RFlmUnF3UXVtWGlfSUM4LXZuQ3BPRjI5WWdmMFpnYjV5YjdKOGh0TjVNUQ?oc=5",
+   "title": "West Michigan officials hear data center sales pitch behind closed doors",
+   "at": "2026-09-01T14:44:22+00:00",
+   "by": "news_judge",
+   "note": "score 7/10, duplicate: Same seminar event as candidate [0], just reworded with slightly different framing."
   }
  ],
  "auto_published": [
-  {
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRkVsNzZ6SkJna2YxQld6NzhhUE9BV2hPNWtOUU9aZFhrWkN4Qm1abmxrTUV0ZGVWVzhXNzY1SzdhYkxKcEhfTm92RVR2RVd5XzlBcVVIQlhqdkwzekNHZW1LbXBSY2djX0FVR3pLMU1BODRod0lxam5nRnVZV2dfamhJZGkwVG51Nk9kcnB5SFF0eUpnWEVLbjIzdGQ?oc=5",
-   "title": "Saline Township rejects 50% tax cut for Oracle campus",
-   "judge_score": 9,
-   "at": "2026-07-15T15:00:01Z"
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWTA3RDF1LWIxR1BzVXphakJoZVA0OFpiVjlzYXkySlpyZlVRcjJoaE53Y3V1NXA5NHVyc04wckszVXNlbUFfNlZ4R0FaYV9fU1VnbnNXaW0yUndKeXlXUm5WY1V0N3VlQzJWeHFYLUp1cEtoN2ZmaVRtWTUyOWhkRGJ0Yw?oc=5",
-   "title": "Mason mayor survives recall attempt as county clerk tosses signatures",
-   "judge_score": 8,
-   "at": "2026-07-15T15:00:01Z"
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbXlhZEJ6TXVianNHRml4WHFOZXJjRnB0d1p4NFJPNXoxXzlXcFF5UUl3WjZMb2g3bGpVa1lEeDQtQnFhNGZkQnlYLU9ickxiSGdhR200RGdac05vSlhPTDlmTktNNjByLXM5Q01fQXU1ODFVMmRmR2ZfTGVvQm1MRC02LXR1d1RiWFpJa0V1SHllQnBuZzZpMXlnUWl3cWQxUTdNN3FZMTVWeTktUzZlcjBaMkZtVlBKSklYNVlHalh3UdIB1gFBVV95cUxPTDJ5ODhZazJjNENWY01QOTVPQWNtbkF5bWpiVW9VVTlPMUczYmRjVWFFWWNVM0k4SWJvTi1xRWFrYTY0aUR5TGhkazFFS0QxVFZ3TlJ2a0NnY3ltbHVzVjZhSTA1dGJPTFV3YTZOTUxVaHU1dGVmNVhadFl0YkdORWVOeGRqQklyTEM0eEZmTlhKS1dnX2FRVG10b2ktdk5wVm9MbTZzUDdVME5heFBJUnBxMXhKT2puY3lJdlg4SndDaHAxa2VGU202OEhqTEZMUE9hb1Fn?oc=5",
-   "title": "Lenox Township rumors trigger recall push against board",
-   "judge_score": 6,
-   "at": "2026-07-15T15:00:01Z"
-  },
   {
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObExXcDBqazZTNU1aU1BlVlVDbnZEcXFWZHBmcDc3dS1kNXczTFlKenpIb3BSMFNKZXc2endpRktUSnh6T1RDQzk1RzdkMWhycUNNd2ZLQUVLTVc4YlRtVV9QSjRUX1lBRElNbFJGcjRWVUJQcVJsR3UyZFN6NlpINVFtd3huTFIyS0UzbkFnVnFrYzF4QXIwOWJvRmZlZXVUclBJQVRsYkI3VTYtQU5xTzhTb04yX0FVRUo00gHPAUFVX3lxTE5qUDdCYXdxNGJkUVljN0tZc2oyRTY1MHZfVUkwbnB0dGUtcW5pcF9KVDBzcmV2RHNGTkItS0NCQmhUems2X01hbWJZWHJOcm8zcUlYQjNTYTlnOVNTd3l5Ym5mYzlqWFdTUUtwRlpKZjlibkMwWFpOeHlpOTRUazhOQ1ctaFVtdjhJUFdiUmpzbjJNc2JZakdXdTN6QzZxZlF6Q0dZY0VKT2FFTmNlOUhTU3pFY1RLXzk2aVlDazJVOGhLa25wSlBRUHZzcG1Ccw?oc=5",
    "title": "Wixom keeps data center moratorium after rejecting waiver request",
@@ -3201,6 +3183,24 @@
    "title": "Closed-door data center pitch raises electric bill, water fears for nearby residents",
    "judge_score": 7,
    "at": "2026-09-01T09:56:41Z"
+  },
+  {
+   "url": "https://wwmt.com/news/local/data-center-dorr-township-allegan-county-leighton-gaines-solon-lowell-kalamazoo-west-michigan-seminar-private-code-inspection-zoning-law-wwmt",
+   "title": "West Michigan Officials Attend Closed Data Center Seminar Amid Protests in Dorr Township",
+   "judge_score": 7,
+   "at": "2026-09-01T14:44:22Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQelJTdUhZNW9WNzhFRGc3aWk2eWotczcxaVo4OW80WDFXdUJKZXlSaWEyTjVFY0dscVk1VmxqX1ZiSi1keHJEVVVvZjRZQlZuY0NCY1B4eXVwOVRJd2xNZ3h3emdueG82STB3Z2htMTkyNmtCbGwzLVhoR3N5YXJlTi1HWnM3LXhPNUk4MEhDaFpJajN0VTNuZ21HUGFGRWx3emhYX2EydGpvMWRfWThua3NQRlZtUXk4OHRZ?oc=5",
+   "title": "Vance links data centers to Michigan power bills and jobs",
+   "judge_score": 6,
+   "at": "2026-09-01T14:44:22Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUEZLNVlkYTA1VThnRnJUVUxOcWpNc1RBNG10RjZuQzVUMFI1VXNyWXpVZmtWVndoZDhRWFZnN0V2eTg4ZkFxd044R3lDcmdzelNYbG0xMUFlZWxmVGdjdGY5bk5QWGRfUXhuWVA2Q1VIbWl4MkxabWVmQnNpTkpIUkg2Q2h2Yl9wWTV2V3ZUNHhQb0pSQlVlN1FGdDFKdVdzd2xpUW1Sb1Y4X0p5c1JLUlJFLU5Pam8?oc=5",
+   "title": "Ypsilanti weighs year-long halt on new data centers",
+   "judge_score": 8,
+   "at": "2026-09-01T14:44:22Z"
   }
  ]
 }

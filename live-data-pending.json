@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-01T09:56:41Z",
+ "updated_at": "2026-09-01T14:44:22Z",
  "generator": "grok-wire-agent",
  "items": [
   {
@@ -21,5 +21,5 @@
    "judge_note": "Concrete new development: DTE publicly ties rate freeze proposal to Oracle data center approval in official earnings call, a specific policy linkage not previou"
   }
  ],
- "accuracy_checked_at": "2026-09-01T09:56:38+00:00"
+ "accuracy_checked_at": "2026-09-01T14:44:14+00:00"
 }
