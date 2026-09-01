@@ -1,10 +1,10 @@
 {
- "title": "Mornings with Graham & Emmy",
- "teaser": "Saline Township's The Barn data center advances fast—what it means for bills, water and farmland.",
+ "title": "Evenings with Graham & Emmy",
+ "teaser": "Tonight: Lyon Twp residents voice grid and road fears ahead of next month's hearing.",
  "lines": [
   {
    "host": "Graham",
-   "text": "Good morning, and welcome to Mornings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
+   "text": "Good evening and welcome to Evenings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
   },
   {
    "host": "Emmy",
@@ -12,226 +12,234 @@
   },
   {
    "host": "Graham",
-   "text": "It's Monday morning, August 31, and today we're zeroing in on Saline Township where a big project nicknamed The Barn is moving fast on farmland."
+   "text": "Tonight we're zeroing in on Lyon Township in Oakland County, where a data center developer is heading back before planners next month amid fresh resident pushback over power and roads."
   },
   {
    "host": "Emmy",
-   "text": "Graham, what's the latest on The Barn itself?"
+   "text": "That sounds like the tip of a much bigger iceberg, Graham. What's the latest on this Lyon project specifically?"
   },
   {
    "host": "Graham",
-   "text": "Construction is advancing rapidly right now in Saline Township, according to The Detroit News. Nearby residents are already seeing new power lines going up and more traffic as the facility comes online."
+   "text": "The developer is scheduled for another appearance before Lyon Township planners next month. Locals have already flagged worries about how much power the facility would pull from the grid and the extra traffic it could dump on local roads."
   },
   {
    "host": "Emmy",
-   "text": "Why is this one moving so quickly compared to others we've heard about?"
+   "text": "How does this fit into the wider pattern we've seen popping up all over the state this week?"
   },
   {
    "host": "Graham",
-   "text": "It looks like the project is pushing ahead even as some local officials tighten zoning rules under pressure. The Detroit News reported it could bring construction jobs but also heavy demands on power and water."
+   "text": "It's the same story repeating itself. Communities from Washtenaw to Tuscola to Genesee are suddenly dealing with proposals that could reshape their power bills, water supplies, and even local farmland."
   },
   {
    "host": "Emmy",
-   "text": "How big are we talking here, and what does that mean for the land?"
+   "text": "Walk me through why power demand is such a flashpoint here."
   },
   {
    "host": "Graham",
-   "text": "It's described as a large project on what used to be farmland, so locals are watching land use change fast. Washtenaw County communities are paying close attention to how quickly these builds reshape the area."
+   "text": "These facilities are huge electricity users. One of the stories we saw this week ties directly into DTE's big rate-hike request, and Attorney General Nessel is pushing to slash that increase by 71 percent because households would feel it hard."
   },
   {
    "host": "Emmy",
-   "text": "And the power side—how does something like this affect electric bills for people living 30 or 60 miles away?"
+   "text": "So even if the data center brings jobs, the cost could land on regular ratepayers?"
   },
   {
    "host": "Graham",
-   "text": "Data centers pull a lot of electricity for cooling and servers. That's one reason DTE asked for a big rate hike earlier this month, and the attorney general pushed back on it. A facility this size adds to that overall demand."
+   "text": "Exactly. The AG called out data center demand as one factor behind the $474 million ask. A smaller hike still means higher bills, but the full amount would hit especially tough."
   },
   {
    "host": "Emmy",
-   "text": "What about water? I keep hearing these places need massive amounts for cooling."
+   "text": "What about water use? We've heard that concern in a couple places already."
   },
   {
    "host": "Graham",
-   "text": "Exactly. Cooling systems can use millions of gallons, and that strains local supplies. Towns are starting to ask hard questions about whether the infrastructure can handle it without raising rates or cutting service elsewhere."
+   "text": "The million-construction-hour milestone at the big Ann Arbor-area project has Washtenaw residents asking the same questions. Once these places ramp up, how much water will they need for cooling?"
   },
   {
    "host": "Emmy",
-   "text": "Taxes are another piece, right? How do abatements play into this?"
+   "text": "And farmland is getting converted fast too, right?"
   },
   {
    "host": "Graham",
-   "text": "State law lets companies keep the details of those tax breaks secret from residents and local officials. That means towns lose revenue they were counting on, and the rest of us can end up paying more through higher local taxes or strained services."
+   "text": "Look at Saline Township. The project nicknamed The Barn is rising quickly on what used to be farmland. Neighbors are already seeing new power lines going in and wondering about traffic and tax shifts."
   },
   {
    "host": "Emmy",
-   "text": "So even folks far from Saline could feel it in their property taxes or school funding?"
+   "text": "Taxes seem like another hidden piece. How transparent are these deals?"
   },
   {
    "host": "Graham",
-   "text": "That's the concern. When a big project gets big abatements, the township or city has less money coming in, so the burden can shift to everyone else. It's why several communities are pushing for more transparency."
+   "text": "Michigan law lets companies keep the details of their tax breaks secret from the public and even local officials. That means towns and cities can lose revenue without residents knowing the full picture."
   },
   {
    "host": "Emmy",
-   "text": "What's the history here—have we seen this pattern before in Michigan?"
+   "text": "So if one township gives a big abatement, does that mean higher taxes or fewer services for everybody else?"
   },
   {
    "host": "Graham",
-   "text": "This is part of a bigger wave. Over the past year or so, places like Ellington Township put a moratorium in place on Saturday to study power and water demands first. Wixom tightened rules on Saturday despite a possible lawsuit."
+   "text": "That's the worry. When big facilities arrive with abatements, the revenue gap can show up as higher local taxes or strained services for people living 30 miles away."
   },
   {
    "host": "Emmy",
-   "text": "And Genesee County just got that impact study on Friday. What did it cover?"
+   "text": "What's the next concrete step in Lyon?"
   },
   {
    "host": "Graham",
-   "text": "The panel delivered details on strain to power, water, and roads that could hit taxpayers. Officials there now have concrete numbers to work with before any projects move forward."
+   "text": "The hearing next month. Residents will get another chance to speak directly to planners about the grid strain and road impacts before any big decisions."
   },
   {
    "host": "Emmy",
-   "text": "How do residents usually find out about these deals if the tax numbers stay hidden?"
+   "text": "Are other townships taking similar pauses or tightening rules?"
   },
   {
    "host": "Graham",
-   "text": "That's the transparency fight. The Detroit News story today points out that secrecy makes it harder for neighbors to understand exactly how much revenue a township is giving up."
+   "text": "Yes. Ellington Township just approved a moratorium to give locals time to study power, water, and tax effects. Wixom is moving new restrictions even as a lawsuit threat grows from developers."
   },
   {
    "host": "Emmy",
-   "text": "What happens next in Saline specifically?"
+   "text": "And Madison Heights just got its first formal site plan filing."
   },
   {
    "host": "Graham",
-   "text": "Construction keeps rolling, new power lines are already visible, and locals will start feeling the traffic and utility changes as it comes online. Other townships are watching to see if they need similar pauses or rules."
+   "text": "That's right. First concrete step in that Oakland County suburb, and people nearby are already thinking about what it could mean for their power lines and water systems."
   },
   {
    "host": "Emmy",
-   "text": "Any sense of how many other projects are in the pipeline right now?"
+   "text": "Genesee County also got an impact study delivered this week."
   },
   {
    "host": "Graham",
-   "text": "Quite a few. Madison Heights filed its first site plan yesterday, and lawmakers in Lansing introduced new state rules on Friday to add oversight on power use, noise, and tax deals."
+   "text": "A local committee finished its report on power, water, and road strain and handed it to leaders. Officials now have numbers to work with before any projects advance."
   },
   {
    "host": "Emmy",
-   "text": "Those new bills—do they address the secrecy issue we were just talking about?"
+   "text": "Lawmakers are also stepping in at the state level."
   },
   {
    "host": "Graham",
-   "text": "They aim at tighter oversight overall, including local tax agreements. It's a direct response to the pushback we're seeing in places like Wixom and Ellington."
+   "text": "New bills introduced this week would add rules on power use, noise, and tax deals for large data centers. It's a direct response to the community pushback we've been tracking."
   },
   {
    "host": "Emmy",
-   "text": "And the recall effort that failed on Friday—how does that fit the bigger picture?"
+   "text": "So the Lyon hearing next month could be a test case for how these new rules might play out locally?"
   },
   {
    "host": "Graham",
-   "text": "Voters tried to recall officials who approved rezoning for a big project, but the clerk rejected the petitions. That keeps the 500-acre development moving forward even though the community remains divided."
+   "text": "It could. Planners there will have to weigh the same issues that are driving the state legislation and the moratoriums elsewhere."
   },
   {
    "host": "Emmy",
-   "text": "So the pattern is: proposals advance, communities push back with moratoriums or new rules, and sometimes the projects still move."
+   "text": "What happens if residents keep showing up and raising these points?"
   },
   {
    "host": "Graham",
-   "text": "That's right. The Saline Barn is the latest example of how quickly things can change once ground is broken."
+   "text": "It can slow things down or force changes. We've seen that pattern in Wixom and Ellington already this week."
   },
   {
    "host": "Emmy",
-   "text": "Graham, let's shift to quick hits. Yesterday Madison Heights got its first data center site plan filing—what does that mean locally?"
+   "text": "Any sense of how many communities are now actively looking at this?"
   },
   {
    "host": "Graham",
-   "text": "It's the first concrete step in that Oakland County suburb. If it advances, residents could see added strain on power lines and water systems."
+   "text": "At least a half-dozen townships and cities have taken some action or held hearings in the past week alone. The map is lighting up fast."
   },
   {
    "host": "Emmy",
-   "text": "On Saturday, Wixom moved to tighten rules while facing a lawsuit threat. How might that play out?"
+   "text": "Back to Lyon for a second — any details on the size or timeline of that specific project?"
   },
   {
    "host": "Graham",
-   "text": "Officials advanced new restrictions on large projects that draw heavy power and water. Any future campus there could still change taxes, traffic, and utility rates for nearby residents."
+   "text": "Not much beyond the fact that it's big enough to trigger these grid and road concerns. The next hearing should bring more specifics out into the open."
   },
   {
    "host": "Emmy",
-   "text": "Ellington Township also approved a moratorium on Saturday. What's the goal there?"
+   "text": "All right, let's shift to quick hits. First up, that construction milestone near Ann Arbor."
   },
   {
    "host": "Graham",
-   "text": "Residents pushed for the pause so the board can study power demands, water use, and tax effects before any big proposals advance. Tuscola County neighbors are watching closely."
+   "text": "The project hit one million construction hours. Washtenaw residents are now watching closely for long-term effects on electricity rates and water once operations start."
   },
   {
    "host": "Emmy",
-   "text": "Genesee County's impact study landed on Saturday too. What comes next?"
+   "text": "And in Saline Township?"
   },
   {
    "host": "Graham",
-   "text": "Leaders now have the details on potential strain to power, water, and roads. Taxpayers there will want the same level of scrutiny if similar projects pop up nearby."
+   "text": "The Barn is moving quickly on farmland. Neighbors expect new power lines, more traffic, and possible tax changes as it comes online."
   },
   {
    "host": "Emmy",
-   "text": "Friday brought a lot. Attorney General Nessel wants a big cut to DTE's rate hike request."
+   "text": "Madison Heights filed its first site plan on Sunday."
   },
   {
    "host": "Graham",
-   "text": "She told regulators the full $474 million increase would hit households too hard. Data center power demand is one factor behind the ask, so a smaller hike would still mean higher bills for everyone."
+   "text": "Yes, the first formal step in that Oakland County suburb. Effects could ripple to power and water systems for residents nearby."
   },
   {
    "host": "Emmy",
-   "text": "New state bills also dropped on Friday targeting big builds."
+   "text": "Wixom is tightening rules while facing a lawsuit threat."
   },
   {
    "host": "Graham",
-   "text": "Lawmakers want fresh rules on power use, noise, and local tax deals. It's a reaction to the growing pushback in communities seeing rapid development."
+   "text": "Officials advanced new restrictions on data centers despite the looming legal pushback from developers."
   },
   {
    "host": "Emmy",
-   "text": "And the recall effort against officials who approved a massive facility failed on Friday."
+   "text": "Ellington Township approved a moratorium on Saturday."
   },
   {
    "host": "Graham",
-   "text": "Petitions were rejected, so the 500-acre project stays on track even as residents remain split over power use and tax breaks."
+   "text": "Residents there secured a pause so the board can study power demands, water use, and tax effects before any projects move forward."
   },
   {
    "host": "Emmy",
-   "text": "Finally today, Michigan is letting data center firms keep tax break details secret."
+   "text": "Genesee panel delivered its impact study."
   },
   {
    "host": "Graham",
-   "text": "The Detroit News reported that state law hides those incentives from the public. That reduces transparency on lost revenue for cities and townships, which can mean higher taxes or strained services elsewhere."
+   "text": "The committee submitted details on potential strain to power, water, and roads for local leaders to review."
   },
   {
    "host": "Emmy",
-   "text": "Graham, on deck—what meetings can listeners actually attend this week?"
+   "text": "And the AG's push on DTE's rate hike."
   },
   {
    "host": "Graham",
-   "text": "No major public hearings are listed for today, but township boards in places like Saline and Wixom are likely to discuss these projects soon."
+   "text": "Dana Nessel wants regulators to cut the $474 million request by 71 percent, citing data center demand as one driver."
   },
   {
    "host": "Emmy",
-   "text": "Should folks check their local clerk's office or township websites for updates?"
+   "text": "Finally, the new state bills targeting big builds."
   },
   {
    "host": "Graham",
-   "text": "That's the best move. Agendas often post a few days ahead, especially as more communities weigh moratoriums or new zoning rules."
+   "text": "Lawmakers introduced measures for tighter oversight on power, noise, and tax incentives across Michigan."
   },
   {
    "host": "Emmy",
-   "text": "Anything specific coming up in Genesee or Ellington?"
+   "text": "Now, on deck — what meetings can listeners actually attend soon?"
   },
   {
    "host": "Graham",
-   "text": "Those boards will probably review the new study and moratorium effects in the next week or two. Worth watching the calendars."
+   "text": "Mark your calendars for the Lyon Township planners meeting next month. That's where the data center developer returns and residents can speak directly on grid and road concerns."
   },
   {
    "host": "Emmy",
-   "text": "All right, we'll keep tracking that. Full sources and the live map at the Michigan Data Center Tracker."
+   "text": "Any other upcoming sessions we should flag?"
   },
   {
    "host": "Graham",
-   "text": "We're back tomorrow. Thanks for listening."
+   "text": "Wixom continues its work on new restrictions, and several other townships are still reviewing their own moratorium or study options. Check your local clerk for exact dates."
+  },
+  {
+   "host": "Emmy",
+   "text": "Full sources and the live map at the Michigan Data Center Tracker."
+  },
+  {
+   "host": "Graham",
+   "text": "We're back tomorrow."
   }
  ],
- "episode_title": "The Barn Rises in Saline: Power, Water and Tax Shifts Hit Michigan Towns",
- "show": "Mornings with Graham & Emmy",
- "daypart": "Mornings"
+ "episode_title": "Lyon Township Hearing Looms as Data Center Worries Spread Across Michigan",
+ "show": "Evenings with Graham & Emmy",
+ "daypart": "Evenings"
 }
