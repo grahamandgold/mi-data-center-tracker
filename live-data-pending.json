@@ -1,6 +1,25 @@
 {
- "updated_at": "2026-08-31T23:44:24+00:00",
+ "updated_at": "2026-09-01T04:54:17+00:00",
  "generator": "grok-wire-agent",
- "items": [],
- "accuracy_checked_at": "2026-08-31T23:44:21+00:00"
+ "items": [
+  {
+   "iso": "2026-08-31T10:00:00Z",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "tag": "Power & Grid",
+   "title": "DTE Energy Links Proposed Rate Freeze to Data Center Projects in Earnings Call",
+   "dek": "The utility tied a potential two-year electric rate freeze to the start of a major Oracle facility and other large-load approvals, with its data center pipeline holding steady at multiple gigawatts.",
+   "source": "Utility Dive",
+   "url": "https://www.utilitydive.com/news/dte-rate-stability-data-center-projects-large-load-pipeline/826803/",
+   "breaking": false,
+   "lead": false,
+   "id": "4f4fe32c1ddc",
+   "kind": "national",
+   "filed_at": "2026-09-01T04:54:12+00:00",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7,
+   "judge_note": "Concrete new development: DTE publicly ties rate freeze proposal to Oracle data center approval in official earnings call, a specific policy linkage not previou"
+  }
+ ],
+ "accuracy_checked_at": "2026-09-01T04:54:13+00:00"
 }

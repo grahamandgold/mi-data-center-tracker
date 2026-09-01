@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://watershedvoice.com/2026/08/18/kalamazoo-city-commission-passes-one-year-data-center-moratorium/",
-   "title": "Kalamazoo City Commission approves one-year moratorium on data centers and related facilities",
-   "at": "2026-08-19T06:57:58+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: This is the same Kalamazoo one-year moratorium already covered in multiple LIVE and KILLED stories, just with slightly different wording about the vote."
-  },
-  {
    "url": "https://www.wilx.com/2026/08/18/mason-city-council-approves-data-center-communication-plan/",
    "title": "Mason City Council adopts outreach plan for potential data center project, schedules September town hall",
    "at": "2026-08-19T06:57:58+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-08-31T23:44:24+00:00",
    "by": "news_judge",
    "note": "score 4/10: A lawmaker calling for national debate is commentary/advocacy, not a concrete development like a filing, vote, or official action."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbWFBUURQSERmS01zQ2JqdmJBV1pSY293TlV4VHVPVENOWTBMUk5Ic2ZaOVg5VUo5X1I3d0tiQUstV0JpaUh2SnhvbE5LbGtxSlQ2dHp4a3VSM1JMazExckgxRWZHYnZFa2pXc2VLQnBxLWFOcVVFWWV4OEpTajI5UE9ieUFDeVJJelRhYVg4YnM2N0wx?oc=5",
+   "title": "Michigan residents push back on Trump's data center cheerleading",
+   "at": "2026-09-01T04:54:17+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Thin reaction piece to Trump's national comments rather than a Michigan-specific decision or development; resembles killed national trend/political stories."
   }
  ],
  "auto_published": [
