@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-09-01T21:16:39+00:00",
+ "updated_at": "2026-09-01T23:32:13Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Decatur residents clash over proposed data-center campus",
+   "dek": "A heated debate in Decatur centers on how a large data-center project would affect property taxes, noise, and the local power grid. Neighbors worry about higher utility bills and water use while supporters point to promised jobs. The fight is shaping up as a test case for other small Michigan towns facing similar proposals.",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbXhQTHd3Q1VrSVlJeG12Q3BGRVR3NUJUZFVCaDMxSXVxckl5TC1BdndwcnEyMUFPZUtTV1VTSVhyYVd1Y1lOdGI4RmZJb0sxNVgwWW9pdWV6R0dfNmJneXBhUVYzMjZyZTJHd0dVaTFZc0M3eE4zQW4zaU9abUJESUM5TGx4cU13SE5Ea1BXR1cwR1900gGaAUFVX3lxTE9yU2NPZXlJNTZIdlF0YkpnOEtWTDFEdngxcFF2WUIxZ1pOX1FzUm1fVG9GTDB2c0szcTRjZVJvdTVmNTI1MmZoUndrdUxJR0U5Y0hBOFpLbkJqYVU4S1l3azBabFF2a2ZIUE9Hb2pNa0M4REFhb0xqakd1TmhMRHE5NEwwZXVCRHJSREdWanduRHl3Rk44b1FxSmc?oc=5",
+   "source": "The Center Square",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Van Buren",
+   "tag": "Local Government",
+   "iso": "2026-09-01T18:20:00Z",
+   "id": "75a1770b2e89",
+   "origin": "google-news",
+   "source_title": "Data center debate rocks Decatur - The Center Square",
+   "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbXhQTHd3Q1VrSVlJeG12Q3BGRVR3NUJUZFVCaDMxSXVxckl5TC1BdndwcnEyMUFPZUtTV1VTSVhyYVd1Y1lOdGI4RmZJb0sxNVgwWW9pdWV6R0dfNmJneXBhUVYzMjZyZTJHd0dVaTFZc0M3eE4zQW4zaU9abUJESUM5TGx4cU13SE5Ea1BXR1cwR1900gGaAUFVX3lxTE9yU2NPZXlJNTZIdlF0YkpnOEtWTDFEdngxcFF2WUIxZ1pOX1FzUm1fVG9GTDB2c0szcTRjZVJvdTVmNTI1MmZoUndrdUxJR0U5Y0hBOFpLbkJqYVU4S1l3azBabFF2a2ZIUE9Hb2pNa0M4REFhb0xqakd1TmhMRHE5NEwwZXVCRHJSREdWanduRHl3Rk44b1FxSmc?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Detroit residents face blackout risk as groups demand data center freeze",
    "dek": "Environmental advocates are urging Detroit to halt new data center projects while the city writes rules on power and water use. The push comes as hyperscale builds threaten to strain the grid and raise costs for households. A moratorium would give time to assess impacts on ratepayers and neighborhoods.",
@@ -169,23 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaC1kME00RDNQTlFEZWc1ZG5ubVZpYzBrRFJpeU9NWTBKVXZEYlVxSnhNSXljSGt2SE95cUszamtiQ01qVzhzVUJfeUZJOXd4NDFBSEJqc05CZjZUN19pV1FrRDBpMmFzRUE2cTYyMkg0VzVGMG12TlNNSXVXSTBpNkRNMnV3dDhwVHVIUkJSQ2lJYloxQUlpT2tJV0RlNVhxSnlTbTNZV1FqTUE1Z01MZjJGTXM?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Madison Heights gets first data center site plan filing",
-   "dek": "A formal site plan for a data center has been submitted in Madison Heights. Residents 30 miles away will feel the effects through added strain on local power lines and water systems if the project advances. The filing marks the first concrete step toward construction in this Oakland County suburb.",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUEE1OGRvSjA4T19FMmFyTGZlUkhyWWQ3VVdhcVhJOVFkeWFZWlliSFhCMzRMWHlGVHI5MGdCRFVTUnRuSVBQM2M1V2Z6T0VqV29iY2Nhd3VEOUpQeGVJN1lYdi0wd191MFJBcXpIZ2o5VjIxcF9KakNHZkg1SWdHdnVSMU1kMm5IajZCMmtqMUpmYV8tdHJqTVFrYnNYR0E?oc=5",
-   "source": "Roanoke Times",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Oakland",
-   "tag": "Local Government",
-   "iso": "2026-08-30T11:45:00Z",
-   "id": "6f9ac51abbf6",
-   "origin": "google-news",
-   "source_title": "Site plan filed for proposed data center in Madison Heights - Roanoke Times",
-   "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUEE1OGRvSjA4T19FMmFyTGZlUkhyWWQ3VVdhcVhJOVFkeWFZWlliSFhCMzRMWHlGVHI5MGdCRFVTUnRuSVBQM2M1V2Z6T0VqV29iY2Nhd3VEOUpQeGVJN1lYdi0wd191MFJBcXpIZ2o5VjIxcF9KakNHZkg1SWdHdnVSMU1kMm5IajZCMmtqMUpmYV8tdHJqTVFrYnNYR0E?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
   }
  ],
  "national": {
