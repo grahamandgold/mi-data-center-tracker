@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.fox17online.com/news/local-news/kzoo-bc/kalamazoo/kalamazoo-city-commission-votes-in-favor-of-data-center-pause",
-   "title": "Kalamazoo Commission Approves One-Year Data Center Moratorium",
-   "at": "2026-08-19T08:49:36+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: Duplicate of already-live 'Kalamazoo blocks new data centers and battery plants for a full year' and killed stories about the same Kalamazoo moratorium vote."
-  },
-  {
    "url": "https://x.com/detroitnews/status/2089910343401119780",
    "title": "Speaker Mike Johnson Highlights Data Centers as Key to AI Competition During Michigan Visit",
    "at": "2026-08-19T08:49:36+00:00",
@@ -1399,21 +1392,16 @@
    "at": "2026-09-01T14:44:22+00:00",
    "by": "news_judge",
    "note": "score 7/10, duplicate: Same seminar event as candidate [0], just reworded with slightly different framing."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWWl3Mjk1NG0yWXozcVJmMU5aVno1bWwwcExVcE15R1JCeUpMRVIwY1I2WXB1NEVtYTJROWFsVFpRd3U5dmU2bFl0UXFoc0NSeHc2Wl9LYm1YTXdvUWM4MEZqNnh6S2hKZVhldHg3NC04QlpQbmp2bWp3ZGJ3UHZ2UlJKd09BVG90RVVJbHZR?oc=5",
+   "title": "JD Vance visit spotlights data center fights near U-M and truck routes",
+   "at": "2026-09-01T18:22:25+00:00",
+   "by": "news_judge",
+   "note": "score 4/10, duplicate: Duplicates the already-live Vance story linking data centers to Michigan power bills and jobs, just adding truck route color."
   }
  ],
  "auto_published": [
-  {
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObExXcDBqazZTNU1aU1BlVlVDbnZEcXFWZHBmcDc3dS1kNXczTFlKenpIb3BSMFNKZXc2endpRktUSnh6T1RDQzk1RzdkMWhycUNNd2ZLQUVLTVc4YlRtVV9QSjRUX1lBRElNbFJGcjRWVUJQcVJsR3UyZFN6NlpINVFtd3huTFIyS0UzbkFnVnFrYzF4QXIwOWJvRmZlZXVUclBJQVRsYkI3VTYtQU5xTzhTb04yX0FVRUo00gHPAUFVX3lxTE5qUDdCYXdxNGJkUVljN0tZc2oyRTY1MHZfVUkwbnB0dGUtcW5pcF9KVDBzcmV2RHNGTkItS0NCQmhUems2X01hbWJZWHJOcm8zcUlYQjNTYTlnOVNTd3l5Ym5mYzlqWFdTUUtwRlpKZjlibkMwWFpOeHlpOTRUazhOQ1ctaFVtdjhJUFdiUmpzbjJNc2JZakdXdTN6QzZxZlF6Q0dZY0VKT2FFTmNlOUhTU3pFY1RLXzk2aVlDazJVOGhLa25wSlBRUHZzcG1Ccw?oc=5",
-   "title": "Wixom keeps data center moratorium after rejecting waiver request",
-   "judge_score": 8,
-   "at": "2026-07-15T16:40:27Z"
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeHlDa1VNNkxBeU5oR20xUWlaRTZYeVFQYlc0S1BxOEtlZGlqZnZCSEpuYVI2Ql9aNFI2M2hmZVdYMnVaMVpIRWZZYmc4U01nRTMxN1UzQ3Q1RWxUMmtSal82bjk5UGxOeU42b0Nmdl9ldFBjRTI2a3VLUlhNM3JPQ0ZGMk00aXBQX24ycHBfU1VqVHVFakJVNGtJVWpZRm9kMzR2dl9Hb2luT1d3VWRvOUZtNk1fNldXd3c?oc=5",
-   "title": "Whitmer urges data centers to sign pledge shielding ratepayers",
-   "judge_score": 8,
-   "at": "2026-07-15T18:15:12Z"
-  },
   {
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMWswM2dPU19iV3RNSEhPdm1uMkcxRHl2T3k5R21NRHlhdVlpQjRUYUVUUVgwcHpuS0lfWFJxRmVOaTlMTkF3RXpzNlZiWlF4alhEN0h2Qmk5d0RCdGZZUGg1cS1qc0J6SmdpY2x0dHpqMW5PMkh2ODdnYklBUlBwSDlSMVpvNGVl?oc=5",
    "title": "Solon Township shelves rules aimed at limiting data centers",
@@ -3201,6 +3189,18 @@
    "title": "Ypsilanti weighs year-long halt on new data centers",
    "judge_score": 8,
    "at": "2026-09-01T14:44:22Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PbnlsTHdyOU0tS0drRnNQcVhWX2VfTTA1S195OTFRLUNkN1JuRVdtS0JfYjlreUhVem9DNk1fLUJBQWxuZ0pVX20wd2RHS1NRbVpLOFJ3?oc=5",
+   "title": "Mike Rogers pushes statewide pause on new data center construction",
+   "judge_score": 8,
+   "at": "2026-09-01T18:22:25Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uOGZtbkJGWTV4MFp1dU5XV192cjRwTGZ0Zno5WVpFeDhmTDZJTk12U3dPMWltWW9uRlFSNThncGU5YUFQRDluMGZZTzgwZUM5MFJOZl94WWVoUDNvVkFxMS15ZU9RUDFla0VxQnRMNFQ3MWZQZ3dfREhR?oc=5",
+   "title": "Detroit residents face blackout risk as groups demand data center freeze",
+   "judge_score": 7,
+   "at": "2026-09-01T18:22:25Z"
   }
  ]
 }
