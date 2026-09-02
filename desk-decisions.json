@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaVNlYlkwS0xjNUdMSlM3cHN3R0lXanZYMTdFVTBwM0Z4bUlOUEV6WWV1Nmlvd0p0LXE2QmNGZ0VFNkZDT1JnNUtiZEVMXzVJdjN3azdkYTVaRl9LYXc5R1pIazNDTnhsc1RxNElLTDJnM201OEJhTURfYkhfRzl5NVQyQ09wMkg1NGVVUUk1N1k?oc=5",
-   "title": "Kalamazoo area residents get update on local data center plans",
-   "at": "2026-08-19T10:38:31+00:00",
-   "by": "news_judge",
-   "note": "score 2/10: Roundup/aggregation piece with no new concrete development, just 'update' on existing activity."
-  },
-  {
-   "url": "https://cityofypsilanti.com/CivicAlerts.aspx?AID=2736",
-   "title": "Ypsilanti proposes new zoning division for data centers",
-   "at": "2026-08-19T10:38:31+00:00",
-   "by": "news_judge",
-   "note": "score 7/10, duplicate: Same August 19 Ypsilanti hearing and zoning amendment as candidate 4, just reworded."
-  },
-  {
    "url": "https://www.mlive.com/news/kalamazoo/2026/08/kalamazoo-approves-moratorium-on-data-center-battery-storage-projects.html",
    "title": "Kalamazoo Enacts One-Year Moratorium on New Data Centers and Battery Storage",
    "at": "2026-08-19T13:02:54+00:00",
@@ -1399,21 +1385,23 @@
    "at": "2026-09-02T01:18:59+00:00",
    "by": "news_judge",
    "note": "score 4/10: Opinion piece offering general warnings about grid strain and blackouts without reporting a specific decision, filing, or concrete development; overlaps themati"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYjZFa0tfa0ptUFI4dzJEbHVsY2JQY1U1YVF3Ykt0NGZqQUl5RkRBOVZBQ19CRnAyZmhQZVE2cEhabGxmNzJXeEpZS0ZhWXMycUpodnZ2NDBVcFRScGFaWWZ4REd0OHNwZkZVc1Rwdy1pSjZlNU5LTW5DRDZTRkd6d2hhcjVKa3A0S01yWGU4WHNYWW05VXhZWEhNXzJlZUJDOFdEcGRESDBhb2xlWTJOalZiNmRMejhPd3BQXzZZNA?oc=5",
+   "title": "Michigan crypto facility pivots to artificial intelligence in 1.2-billion-dollar switch",
+   "at": "2026-09-02T11:40:34+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Same crypto-to-AI pivot and $1.2B figure as candidate [0], just reworded with less specificity."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ1BpRUVOV0c3RzN6ejFlcllzc2JVdWN6QTVuZVVWMXlka0JNUXBMZjRhWlp1U2JUWmNDbkhOZnB0MDFPS0NaWGFkZTVpbzJsTG91aFNUckYwNUpQY05RSDB6X1hEeXdUSVV0ZTdieDA0T3pjU1RfTEZNSGk0dWhYQ0tyMUM0SGRCeFRlQQ?oc=5",
+   "title": "Poll shows Michigan residents oppose more data centers",
+   "at": "2026-09-02T11:40:34+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Poll results are thin without methodology, sample size, or sponsor details; speculative impact on 'upcoming decisions' without naming them."
   }
  ],
  "auto_published": [
-  {
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMTdNZjB0YUlIRzdjY3RTV1BsQnQ4N0dGV28tZVhxdmhhRmt2dVl2alVZanFHRENLYWZsWEFOaURMN0RaUU1ybE5FUVRVeGpBcXYtVUpYSnZpNXZLdUZIMTJmcWlSZTluN3NORF90NHUtNGpkMm9EbThvbmNPQ0JvVGRTUWs2Vi1Kb2pUYWc2XzVZZXcwdGVn?oc=5",
-   "title": "Warren council pushes one-year halt on new data centers",
-   "judge_score": 9,
-   "at": "2026-07-15T22:33:47Z"
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUnZwckhhMGkycXVCMGZxQW1mUFl5dkxFTXBnNGl6Um5oYkJHeW5iQmRrLXpQaGprUmhpVHZ3T05SbUxuNzl3cVJKemNMbFdybVNnUW1CZmlJd05kc3BaWWQ5eE1YblVZMUs5dWJONWtVay1SRFE4aUlFTXE2NjRKMjNYbWtSYk03NXFWblU5T2Nzd0otbnY5SVhzNmRnbkR4SHFDUFRXN3hINnZmdy1xQlZmSnE5VHVoTk1MVm9nWmxqbTNoaUpTWmJrS1MwYzJOUkgyMmJ2UUl4cUhzamdUUjZXTQ?oc=5",
-   "title": "OpenAI lands smaller tax break from Saline on data center campus",
-   "judge_score": 9,
-   "at": "2026-07-15T23:35:03Z"
-  },
   {
    "url": "https://www.wxyz.com/news/data-centers/residents-and-officials-push-back-on-1-25b-university-of-michigan-data-center-plan",
    "title": "Residents and Officials Push Back on Proposed $1.25 Billion University of Michigan Data Center",
@@ -3201,6 +3189,18 @@
    "title": "Consumers Energy starts Cherry Street work to bolster grid for rising loads",
    "judge_score": 7,
    "at": "2026-09-02T06:21:38Z"
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/hyperscale-data-has-ceased-bitcoin-mining-operations-in-michigan-as-it-fulfills-the-requirements-of-the-ai-data-center-master-services-agreement-expected-to-be-worth-approximately-1-2-billion-302867149.html",
+   "title": "Hyperscale Data Halts Bitcoin Mining at Michigan Site to Launch AI Data Center Operations",
+   "judge_score": 8,
+   "at": "2026-09-02T11:40:34Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZUh2NktKRG9CNU5lNjYxZnZHbFlxMzNLSkJyQ2d6QTJWcVY5Sk5od0RkVEU4THYyTGxfUURYMHdidU5YcGFnXzh2c0hWN1NKT21OVkx2YkFlRC1QVE5WU1ozN2RwNFRiTFZpbGRoc1JIc0RSekNJVGZIVmJ1Y2JIcFVxZFF6dVlKb2NDN1A1V0ZqNmRRSnlCRXU5WTExVjJWNG52cHJNV2t6Z3g5WDNHNk1FYVRaaGluaEhFT1Z2TzZGQmZLWWdfQndtX1BORGdqOWc?oc=5",
+   "title": "Rep. James pushes local control over Michigan data center rules",
+   "judge_score": 6,
+   "at": "2026-09-02T11:40:34Z"
   }
  ]
 }

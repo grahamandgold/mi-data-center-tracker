@@ -1,7 +1,39 @@
 {
- "updated_at": "2026-09-02T06:21:38Z",
+ "updated_at": "2026-09-02T11:40:34Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "iso": "2026-09-02T10:30:00Z",
+   "region": "west",
+   "cat": "Cass Co.",
+   "tag": "Power & Grid",
+   "title": "Hyperscale Data Halts Bitcoin Mining at Michigan Site to Launch AI Data Center Operations",
+   "dek": "Company shuts down all miners effective Sept. 1 under a master services agreement projected to generate $1.2 billion, with expansion options potentially reaching $3 billion using up to 20% of the facility's 340 MW capacity.",
+   "source": "PR Newswire",
+   "url": "https://www.prnewswire.com/news-releases/hyperscale-data-has-ceased-bitcoin-mining-operations-in-michigan-as-it-fulfills-the-requirements-of-the-ai-data-center-master-services-agreement-expected-to-be-worth-approximately-1-2-billion-302867149.html",
+   "breaking": true,
+   "lead": true,
+   "id": "133a08c78cbe",
+   "accuracy": "checked",
+   "judge_score": 8
+  },
+  {
+   "title": "Rep. James pushes local control over Michigan data center rules",
+   "dek": "The congressman argues cities and townships should decide data center rules themselves. Past federal votes by James sought to limit exactly that local authority. The shift could reshape how projects win approvals across the state.",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZUh2NktKRG9CNU5lNjYxZnZHbFlxMzNLSkJyQ2d6QTJWcVY5Sk5od0RkVEU4THYyTGxfUURYMHdidU5YcGFnXzh2c0hWN1NKT21OVkx2YkFlRC1QVE5WU1ozN2RwNFRiTFZpbGRoc1JIc0RSekNJVGZIVmJ1Y2JIcFVxZFF6dVlKb2NDN1A1V0ZqNmRRSnlCRXU5WTExVjJWNG52cHJNV2t6Z3g5WDNHNk1FYVRaaGluaEhFT1Z2TzZGQmZLWWdfQndtX1BORGdqOWc?oc=5",
+   "source": "Michigan Advance",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Policy",
+   "iso": "2026-09-02T09:03:55Z",
+   "id": "cc691fcd30af",
+   "origin": "google-news",
+   "source_title": "As James pushes local control on data centers, past congressional votes sought to limit just that - Michigan Advance",
+   "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZUh2NktKRG9CNU5lNjYxZnZHbFlxMzNLSkJyQ2d6QTJWcVY5Sk5od0RkVEU4THYyTGxfUURYMHdidU5YcGFnXzh2c0hWN1NKT21OVkx2YkFlRC1QVE5WU1ozN2RwNFRiTFZpbGRoc1JIc0RSekNJVGZIVmJ1Y2JIcFVxZFF6dVlKb2NDN1A1V0ZqNmRRSnlCRXU5WTExVjJWNG52cHJNV2t6Z3g5WDNHNk1FYVRaaGluaEhFT1Z2TzZGQmZLWWdfQndtX1BORGdqOWc?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
   {
    "title": "Consumers Energy starts Cherry Street work to bolster grid for rising loads",
    "dek": "The utility is upgrading electric infrastructure in a project tied to surging demand. Data centers and other large users are pushing the system harder. West Michigan customers may see more construction and eventual rate impacts.",
@@ -152,40 +184,6 @@
    "id": "bc3ebbe4ef59",
    "accuracy": "checked",
    "judge_score": 7
-  },
-  {
-   "title": "Data center faces new township hearing amid resident worries over grid, roads",
-   "dek": "The data-center developer is scheduled to appear again before Lyon Township planners next month. Residents in this Oakland County community have already raised concerns over power demand and local impact. The project could bring major construction but also strain on the grid and roads.",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQalBMXzZzYUVHeFhtMmxBaktjS1Zwb1Zxc1hFWG02Zjg3WGdrNW5BQW41MzlIcUhwT21ZUGQ3QlZkYjQ0R1ZJcmswQ2JJZG16YTcxOWt1Wll0TElnMDYtQ0IxMmwzUElpcGs5aW9SRU1VQXQ0MXAzdE9GMmw1Y0FvOXUwVWtrN2FteUw3eHRabzRvLUNPTGo0RHBoZEhHVnd3V0dieHBmWVN6bGVKak1z?oc=5",
-   "source": "WHMI",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Oakland",
-   "tag": "Local Government",
-   "iso": "2026-08-31T19:04:31Z",
-   "id": "53737ca5cdbc",
-   "origin": "google-news",
-   "source_title": "Project Flex Developer to Go Back Before Lyon Township Planners in September - WHMI",
-   "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQalBMXzZzYUVHeFhtMmxBaktjS1Zwb1Zxc1hFWG02Zjg3WGdrNW5BQW41MzlIcUhwT21ZUGQ3QlZkYjQ0R1ZJcmswQ2JJZG16YTcxOWt1Wll0TElnMDYtQ0IxMmwzUElpcGs5aW9SRU1VQXQ0MXAzdE9GMmw1Y0FvOXUwVWtrN2FteUw3eHRabzRvLUNPTGo0RHBoZEhHVnd3V0dieHBmWVN6bGVKak1z?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
-  },
-  {
-   "title": "Construction milestone raises local fears over power bills, water at AI facility",
-   "dek": "The massive project near Ann Arbor has now reached a million construction hours. Washtenaw County residents are watching how the facility will affect electricity rates and water use once it ramps up. Local jobs are growing, but so are questions about long-term costs to taxpayers.",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb0tORXVraG45bDBZNkN4Y05PbElaMVUwejRCbTV4TVVPblNDWWM2YS1Kc0RuRnBNM25rUy1ZWEdJdHZNdEU1dzN6OVFOTkpYN1VvZjdBWnE2TWhSeW93cXNLM2pyaVJ5NVAtVlFQbE1LTUNwOWF4SVRzY3pUZTBDdjlZYTFnVFpENFZWa25TRVl5LWE0amt6a0ZmRUJKa2l0UHAybFotMmVOX3dZaE44bmRCcngxOEpsWV94UTFR0gHSAUFVX3lxTE1zN2N6Y09YbW5HOFU5Z2VaX1MwNUVOVmQ5WF9FbXBKTUhINUg0a1VtOXNTelQ0d211SjBDZXZFMUJESGRnbmdpTzhESWNVSVpqd0ZOU3o5eHJWd0EydUZKbWllNzVuNFpPOGc2UXFJUVhmcWF5RFo0NWZ0MFJOaVY2c3RkSURDWlg5cWdBdWJkMjUtblZmRHhidENFYjBaWlJwNnBUVVVTWVlpeFRLLUhGMUJSbmhiZFg3SnNYUTlJUWlFb3VkcFRXOWFTeWxPRGNPdw?oc=5",
-   "source": "MLive.com",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Power & Grid",
-   "iso": "2026-08-31T15:57:00Z",
-   "id": "8ed3f96ce5c6",
-   "origin": "google-news",
-   "source_title": "OpenAI data center project south of Ann Arbor hits 1 million work hours - MLive.com",
-   "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb0tORXVraG45bDBZNkN4Y05PbElaMVUwejRCbTV4TVVPblNDWWM2YS1Kc0RuRnBNM25rUy1ZWEdJdHZNdEU1dzN6OVFOTkpYN1VvZjdBWnE2TWhSeW93cXNLM2pyaVJ5NVAtVlFQbE1LTUNwOWF4SVRzY3pUZTBDdjlZYTFnVFpENFZWa25TRVl5LWE0amt6a0ZmRUJKa2l0UHAybFotMmVOX3dZaE44bmRCcngxOEpsWV94UTFR0gHSAUFVX3lxTE1zN2N6Y09YbW5HOFU5Z2VaX1MwNUVOVmQ5WF9FbXBKTUhINUg0a1VtOXNTelQ0d211SjBDZXZFMUJESGRnbmdpTzhESWNVSVpqd0ZOU3o5eHJWd0EydUZKbWllNzVuNFpPOGc2UXFJUVhmcWF5RFo0NWZ0MFJOaVY2c3RkSURDWlg5cWdBdWJkMjUtblZmRHhidENFYjBaWlJwNnBUVVVTWVlpeFRLLUhGMUJSbmhiZFg3SnNYUTlJUWlFb3VkcFRXOWFTeWxPRGNPdw?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {
