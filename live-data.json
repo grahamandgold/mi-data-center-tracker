@@ -1,7 +1,41 @@
 {
- "updated_at": "2026-09-02T01:18:56+00:00",
+ "updated_at": "2026-09-02T06:21:38Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Consumers Energy starts Cherry Street work to bolster grid for rising loads",
+   "dek": "The utility is upgrading electric infrastructure in a project tied to surging demand. Data centers and other large users are pushing the system harder. West Michigan customers may see more construction and eventual rate impacts.",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMFY0WGtidml5N2lXM0RLOE1yLTdBb0l1eUJuejhnZzlpNkdDTmIwbTZmUThIYnFha1EzTWNtb3l2ZXMzUFJhQ0x0djNwOXA3TjFUZGV2cG1ITUNtTndoZ0RjMXotZERkaGJYOV9sYVRZV2dKODN5Rk05NktpbnIzZjlPWEpraGtIUTV5UEdvd3NHUG1SZkNfaVBDS3pIa1Roa01rMGtxM1FRWkc3Y3FXdS1QRnBGVTBS?oc=5",
+   "source": "wzzm13.com",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Power & Grid",
+   "iso": "2026-09-01T22:17:00Z",
+   "id": "d0fb01a1eb5a",
+   "origin": "google-news",
+   "source_title": "Consumers Energy: Construction to commence on Cherry Street for upgrades to electric infrastructure - wzzm13.com",
+   "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMFY0WGtidml5N2lXM0RLOE1yLTdBb0l1eUJuejhnZzlpNkdDTmIwbTZmUThIYnFha1EzTWNtb3l2ZXMzUFJhQ0x0djNwOXA3TjFUZGV2cG1ITUNtTndoZ0RjMXotZERkaGJYOV9sYVRZV2dKODN5Rk05NktpbnIzZjlPWEpraGtIUTV5UEdvd3NHUG1SZkNfaVBDS3pIa1Roa01rMGtxM1FRWkc3Y3FXdS1QRnBGVTBS?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
+  {
+   "title": "Runestad pushes to end sales-tax breaks for new data centers",
+   "dek": "The Michigan senator wants to repeal exemptions that shield hyperscale projects from state taxes. The move could shift more costs onto residents and local governments. Lawmakers will weigh revenue gains against job and investment arguments.",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc1FhdFpzaHEyalVvUXZQOFJ1ZjZVZTRoNDl0RUo2d0RGZTRseVREUjA1b1Q0UFptbzIxalNTOGtING9zdFViSUJmUHNHZlFrTmVYREFzNnR0RmJldE1ac3dVSG9tTDVSTTNxczNlQVNaWWpGWkFwOUJxWmd3T2FXRG02a183V1RZUlBaNGE1RW5qc1pzbTNvSGln?oc=5",
+   "source": "Michigan Senate Republicans",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Policy",
+   "iso": "2026-09-01T21:11:30Z",
+   "id": "3c02fd668de8",
+   "origin": "google-news",
+   "source_title": "Runestad seeks to repeal data center sales and use tax exemptions - Michigan Senate Republicans",
+   "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc1FhdFpzaHEyalVvUXZQOFJ1ZjZVZTRoNDl0RUo2d0RGZTRseVREUjA1b1Q0UFptbzIxalNTOGtING9zdFViSUJmUHNHZlFrTmVYREFzNnR0RmJldE1ac3dVSG9tTDVSTTNxczNlQVNaWWpGWkFwOUJxWmd3T2FXRG02a183V1RZUlBaNGE1RW5qc1pzbTNvSGln?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "Decatur residents clash over proposed data-center campus",
    "dek": "A heated debate in Decatur centers on how a large data-center project would affect property taxes, noise, and the local power grid. Neighbors worry about higher utility bills and water use while supporters point to promised jobs. The fight is shaping up as a test case for other small Michigan towns facing similar proposals.",
@@ -152,40 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb0tORXVraG45bDBZNkN4Y05PbElaMVUwejRCbTV4TVVPblNDWWM2YS1Kc0RuRnBNM25rUy1ZWEdJdHZNdEU1dzN6OVFOTkpYN1VvZjdBWnE2TWhSeW93cXNLM2pyaVJ5NVAtVlFQbE1LTUNwOWF4SVRzY3pUZTBDdjlZYTFnVFpENFZWa25TRVl5LWE0amt6a0ZmRUJKa2l0UHAybFotMmVOX3dZaE44bmRCcngxOEpsWV94UTFR0gHSAUFVX3lxTE1zN2N6Y09YbW5HOFU5Z2VaX1MwNUVOVmQ5WF9FbXBKTUhINUg0a1VtOXNTelQ0d211SjBDZXZFMUJESGRnbmdpTzhESWNVSVpqd0ZOU3o5eHJWd0EydUZKbWllNzVuNFpPOGc2UXFJUVhmcWF5RFo0NWZ0MFJOaVY2c3RkSURDWlg5cWdBdWJkMjUtblZmRHhidENFYjBaWlJwNnBUVVVTWVlpeFRLLUhGMUJSbmhiZFg3SnNYUTlJUWlFb3VkcFRXOWFTeWxPRGNPdw?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
-  },
-  {
-   "title": "Saline Township's 'The Barn' data center rises fast on farmland",
-   "dek": "Construction of the large project nicknamed The Barn is advancing rapidly in Saline Township. Nearby residents will see new power lines, traffic and potential tax shifts as the facility comes online. Washtenaw County communities are watching how quickly the buildout changes local land use and utility demands.",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNejhEaEdDQURhUFdGaXB4cWtZQzdGTmRlWmFqMl9GRkdEb1hISG5LSVpWcjZhMXpfeFVhaVZiVlRqUjlCS1VkS1ZqdEx5ZWU4enVQU0lRdmxhNVU2OWxYN2VMdjhESlBBcmp3WmMzU1NKZzRpRHREeUY2czl6WklFb2dWV3hKQ0NsYzctQ1F1Q3oyQm1SZ2luLXNXU2JkSThuT1BUeURMMzVETjBxX2ZtaTYydFRwclp3NjFCdVpZUDh1ZUZZSjNOd2VhU1gyX2JWc1hpSE1pMEhKT2U5eXc?oc=5",
-   "source": "The Detroit News",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Local Government",
-   "iso": "2026-08-31T04:02:00Z",
-   "id": "a2548f78e382",
-   "origin": "google-news",
-   "source_title": "Saline Twp. Data Center Project, aka 'The Barn' going up quickly - The Detroit News",
-   "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNejhEaEdDQURhUFdGaXB4cWtZQzdGTmRlWmFqMl9GRkdEb1hISG5LSVpWcjZhMXpfeFVhaVZiVlRqUjlCS1VkS1ZqdEx5ZWU4enVQU0lRdmxhNVU2OWxYN2VMdjhESlBBcmp3WmMzU1NKZzRpRHREeUY2czl6WklFb2dWV3hKQ0NsYzctQ1F1Q3oyQm1SZ2luLXNXU2JkSThuT1BUeURMMzVETjBxX2ZtaTYydFRwclp3NjFCdVpZUDh1ZUZZSjNOd2VhU1gyX2JWc1hpSE1pMEhKT2U5eXc?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
-  },
-  {
-   "title": "Michigan lets data center firms hide tax breaks from public view",
-   "dek": "State law allows tech companies to keep details of data center tax incentives secret from residents and local officials. This reduces transparency on how much revenue cities and townships lose when large projects win abatements. Michigan readers 30 miles away feel the impact through higher local taxes or strained services when big facilities arrive.",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaC1kME00RDNQTlFEZWc1ZG5ubVZpYzBrRFJpeU9NWTBKVXZEYlVxSnhNSXljSGt2SE95cUszamtiQ01qVzhzVUJfeUZJOXd4NDFBSEJqc05CZjZUN19pV1FrRDBpMmFzRUE2cTYyMkg0VzVGMG12TlNNSXVXSTBpNkRNMnV3dDhwVHVIUkJSQ2lJYloxQUlpT2tJV0RlNVhxSnlTbTNZV1FqTUE1Z01MZjJGTXM?oc=5",
-   "source": "The Detroit News",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Policy",
-   "iso": "2026-08-31T04:02:00Z",
-   "id": "192b4a488f70",
-   "origin": "google-news",
-   "source_title": "Tech giants can shroud Michigan data center tax incentives in secrecy - The Detroit News",
-   "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaC1kME00RDNQTlFEZWc1ZG5ubVZpYzBrRFJpeU9NWTBKVXZEYlVxSnhNSXljSGt2SE95cUszamtiQ01qVzhzVUJfeUZJOXd4NDFBSEJqc05CZjZUN19pV1FrRDBpMmFzRUE2cTYyMkg0VzVGMG12TlNNSXVXSTBpNkRNMnV3dDhwVHVIUkJSQ2lJYloxQUlpT2tJV0RlNVhxSnlTbTNZV1FqTUE1Z01MZjJGTXM?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {
