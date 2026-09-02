@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.facebook.com/NBCNews/posts/residents-across-the-us-fed-up-with-the-incessant-hum-of-data-centers-in-their-c/1445894797402381/",
-   "title": "Residents Nationwide Push Back Against Data Center Noise and Infrastructure Strain",
-   "at": "2026-08-19T18:47:10+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece with no Michigan-specific development, decision, or concrete action; generic complaints about noise already covered in Michigan-specific st"
-  },
-  {
-   "url": "https://www.stocktitan.net/sec-filings/GPUS/10-q-hyperscale-data-inc-quarterly-earnings-report-f51398058d61.html",
-   "title": "Hyperscale Data Reports Strong Revenue but Flags Going-Concern Doubt Over Michigan Project",
-   "at": "2026-08-19T19:54:48+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: National earnings report with generic Michigan mention lacks concrete local development, project location, or actionable news for Michigan readers tracking spec"
-  },
-  {
    "url": "https://www.aol.com/articles/details-emerge-data-center-planned-190841000.html",
    "title": "Mason officials schedule town hall as hyperscale data center proposal advances to state review",
    "at": "2026-08-19T20:37:51+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-09-02T19:28:55+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Duplicate of killed stories 'Poll shows Michigan residents oppose more data centers' and 'Michigan poll shows broad pushback against new data center projects.'"
+  },
+  {
+   "url": "https://www.theblock.co/news/markets/2026-09-02-hyperscale-data-shares-all-time-low-company-flips-michigan-site-bitcoin-mining-into-ai-413357",
+   "title": "Hyperscale Data shifts Michigan facility from bitcoin mining to AI infrastructure under $1.2B deal",
+   "at": "2026-09-02T21:57:21+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Same Hyperscale Data bitcoin-to-AI pivot already live under 'Hyperscale Data Halts Bitcoin Mining at Michigan Site to Launch AI Data Center Operations.'"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNDdrTUpRZjlBcTZ3NHNhZDZHQjlQX3U3TFZiT0w3cjM4S2lwNVIyd0lSUkphdnQ5bVBhb1piaXdlSHB1T3U3eVdCR0RnR195WS1vOTF4aGpVTGdKY21LaFpNY0t4dXV2RW5hQkxzd1EyVExkQ0NqcS1UcC1HOEpiaE9BYVVDNmozVjVxM0NmQXVKMDNaelQycS1laHl4OTJUSERzZGhqVQ?oc=5",
+   "title": "Michigan Bitcoin mine halts ops to chase $1.2B AI data center contract",
+   "at": "2026-09-02T21:57:21+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Identical Hyperscale Data facility conversion already live and killed multiple times in various phrasings."
   }
  ],
  "auto_published": [
