@@ -1,27 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.mlive.com/news/kalamazoo/2026/08/kalamazoo-approves-moratorium-on-data-center-battery-storage-projects.html",
-   "title": "Kalamazoo Enacts One-Year Moratorium on New Data Centers and Battery Storage",
-   "at": "2026-08-19T13:02:54+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Duplicate of already-killed 'Kalamazoo City Commission approves one-year moratorium on data centers and related facilities' — same Monday vote, same moratorium."
-  },
-  {
-   "url": "https://www.facebook.com/K8NewsJonesboro/posts/independence-county-issued-5-year-data-center-ban-/1576569104514674/",
-   "title": "Independence County Enacts Five-Year Data Center Ban",
-   "at": "2026-08-19T13:51:56+00:00",
-   "by": "news_judge",
-   "note": "score 2/10: Arkansas county action has no Michigan relevance and adds nothing to Michigan data center tracking."
-  },
-  {
-   "url": "https://example.com/national-data-center-power-2026",
-   "title": "U.S. Data Center Power Demand Continues Surge as Utilities Report Record Requests",
-   "at": "2026-08-19T14:42:44+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece about power demand surge lacks Michigan-specific developments, decisions, or concrete local impact."
-  },
-  {
    "url": "https://www.wsj.com/articles/openai-locks-in-lease-for-huge-data-center-in-ohio-with-backing-from-nvidia-7474bb9c",
    "title": "OpenAI Secures Lease for Major Data Center Project in Ohio",
    "at": "2026-08-19T16:39:55+00:00",
@@ -1399,15 +1378,30 @@
    "at": "2026-09-02T11:40:34+00:00",
    "by": "news_judge",
    "note": "score 4/10: Poll results are thin without methodology, sample size, or sponsor details; speculative impact on 'upcoming decisions' without naming them."
+  },
+  {
+   "url": "https://www.reuters.com/technology/data-centers/",
+   "title": "Texas pauses new data center power connections amid concerns over speculative demand",
+   "at": "2026-09-02T16:29:09+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece from Texas with no Michigan-specific action or impact."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWEZYZGNvVUo1ZFlaZXVnT0R2LWo4QjllWGJGbHBZeTlUREVjX1dqdTVnUncyOFVvM3JGbUlEeDNVTmVxS091UUtBeTJHLVhVTGtnQmJvLWdESTExR2QzVzhNNFprc0pUSjVJOTRrc0Y2U0t5X1ZTbjJxaUZDWTdDLWxNbTZNbklQeGc?oc=5",
+   "title": "Michigan poll shows broad pushback against new data center projects",
+   "at": "2026-09-02T16:29:09+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Duplicate of killed story 'Poll shows Michigan residents oppose more data centers' — same poll results repackaged."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZmJLcVVNYkdLYnJSOUtoNW1fUFVhby1TbDdUOUN0dklSV0Rtd3hTZ2t1SmNhZ0RndXZzOUQzRXVTdUxHcXd6QnNyNTRXdkstWjZiMXl5R0lfdEp2b0x5Uzl5RHV5LXI0c2JiS2hGeFFQLUN2X1VnSzRqWUpQQXNydkk4VC1YZlZBWEgwV3BSZGZRNGdma3o5UTNmMlZvME51NFFWY0xyX3pMVkg1a0dQczBxeDJHRVdMaXBpcVJCbV9IVHY2aEJEMnk2WHpjb3R6VGpydFYtakQ?oc=5",
+   "title": "Hyperscale Data drops bitcoin mining at Michigan site to chase $1.2B AI contract",
+   "at": "2026-09-02T16:29:09+00:00",
+   "by": "news_judge",
+   "note": "score 1/10, duplicate: Duplicate of already-live story 'Hyperscale Data Halts Bitcoin Mining at Michigan Site to Launch AI Data Center Operations' — same facility conversion."
   }
  ],
  "auto_published": [
-  {
-   "url": "https://www.wxyz.com/news/data-centers/residents-and-officials-push-back-on-1-25b-university-of-michigan-data-center-plan",
-   "title": "Residents and Officials Push Back on Proposed $1.25 Billion University of Michigan Data Center",
-   "judge_score": 8,
-   "at": "2026-07-16T04:19:43Z"
-  },
   {
    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNzRmb0JCQWRjSmhSczJIeXg1WExwcnc4aVhUaDZ3YzJvbmVLSWdlek5LOW5vTk5zdHFyZXBSRTE0VG91bkpuZGwwNkdBSGpxRzdjM0IxWG1Ud3Q0bkIxQmNGZGpFRDk5YzcyandXSzlYM01uaDAtRWxTMXlIeXNROFhZU1R4TlFsR1VXSnZoV0RaVmNvbXpmSnBsUy0tQm5mWDRXN3J1SFVRZ0tXbDdaX0pBckw5OFlHcTdteUh4YmJBVFpSZDI0eDNTaUw3NGFrQzJEWjMwZjlhd1dRRlkxXy04YnZUOVE?oc=5",
    "title": "Whitmer's data-center pledge plan splits local leaders",
@@ -3201,6 +3195,12 @@
    "title": "Rep. James pushes local control over Michigan data center rules",
    "judge_score": 6,
    "at": "2026-09-02T11:40:34Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWXN1QWVXb1hhSDY0V1FnWjFfM2F5d2FkNnRRVmRCeTZjQzE0QzBRcktzRTg2SFlURjdMZ1ZMSjM0ck5QWEk1TFg1NzRFWFc0QzZ6STdLSkJBQ3RNNjc1czd2M3E5RXM3NExVWU82WW45bEtWdENfN1o3blpId0MzMmRjdGRfOGplY0FId05Wa3dtLXRyMDMtN1NVWVNBeDg0Sm9qQlg1X0VENDhhd1hRQkNZYTdwSWJ2NlJ1ajd0dHV2Q2V6dHkxU21LdVhvd2NvekhkTzE2bVlINWdiWlhmeHI5SHZ1YU0?oc=5",
+   "title": "St. Clair County residents to hear data center health risks at upcoming workshop",
+   "judge_score": 7,
+   "at": "2026-09-02T16:29:09Z"
   }
  ]
 }

@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-09-02T11:40:34Z",
+ "updated_at": "2026-09-02T16:29:09Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "St. Clair County residents to hear data center health risks at upcoming workshop",
+   "dek": "A public session will focus on potential noise, air, and water impacts from proposed data centers in the area. Locals worry about strain on power grids and drinking supplies if projects advance. The discussion could shape future zoning fights in this southeast Michigan county.",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWXN1QWVXb1hhSDY0V1FnWjFfM2F5d2FkNnRRVmRCeTZjQzE0QzBRcktzRTg2SFlURjdMZ1ZMSjM0ck5QWEk1TFg1NzRFWFc0QzZ6STdLSkJBQ3RNNjc1czd2M3E5RXM3NExVWU82WW45bEtWdENfN1o3blpId0MzMmRjdGRfOGplY0FId05Wa3dtLXRyMDMtN1NVWVNBeDg0Sm9qQlg1X0VENDhhd1hRQkNZYTdwSWJ2NlJ1ajd0dHV2Q2V6dHkxU21LdVhvd2NvekhkTzE2bVlINWdiWlhmeHI5SHZ1YU0?oc=5",
+   "source": "Times Herald",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "St. Clair",
+   "tag": "Power & Grid",
+   "iso": "2026-09-02T13:39:00Z",
+   "id": "746cbe803659",
+   "origin": "google-news",
+   "source_title": "Data center workshop to examine potential health concerns in St. Clair County - Times Herald",
+   "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWXN1QWVXb1hhSDY0V1FnWjFfM2F5d2FkNnRRVmRCeTZjQzE0QzBRcktzRTg2SFlURjdMZ1ZMSjM0ck5QWEk1TFg1NzRFWFc0QzZ6STdLSkJBQ3RNNjc1czd2M3E5RXM3NExVWU82WW45bEtWdENfN1o3blpId0MzMmRjdGRfOGplY0FId05Wa3dtLXRyMDMtN1NVWVNBeDg0Sm9qQlg1X0VENDhhd1hRQkNZYTdwSWJ2NlJ1ajd0dHV2Q2V6dHkxU21LdVhvd2NvekhkTzE2bVlINWdiWlhmeHI5SHZ1YU0?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "iso": "2026-09-02T10:30:00Z",
    "region": "west",
@@ -168,21 +185,6 @@
    "source_title": "Private data center seminar attended by 100+ West Michigan officials, protesters outside - WWMT",
    "source_url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOU1liSGItekR2M0RIcjlOU29xSkgwZUxJUFB4ekdnTG5weDZMRXMwUFR1WW1XU2p3OEdudWVROGw5MHVTRF9iYmt0SnVUMTBhaS0tckRGZW5Sb2NiU3F1NElBRTdnYWY5N1dieHRId0RPOVk5OEdWa2xzLS16UUhzQkhVZ1piWElpSUZJVm1PRDQzQi1WaDhjeVFfRlp6cG5tWjE3SjRMaEZrZS1LeDFJQlE1S3JhYl9zREZKelZkc1BfdnNMSEQ3Ym13NFhGTWpNcnJEeEZMZzVSdHpRaUtsNVlVQ1JaeFZONkU0Wmc0WVJmZE8xTFlkX183b2R6QVB5S0s0YXFOTjBNSlRIalRWS0dMNkVmZ19kczE0?oc=5",
    "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
-  },
-  {
-   "iso": "2026-09-01T07:00:00+00:00",
-   "region": "west",
-   "cat": "Allegan Co.",
-   "tag": "Local Government",
-   "title": "West Michigan Officials Attend Closed Data Center Seminar Amid Protests in Dorr Township",
-   "dek": "More than 100 municipal leaders from Allegan, Barry and Kent counties gathered for an invite-only session on zoning and inspections hosted by a private firm, while dozens of residents protested outside over concerns about water use and a Microsoft proposal under moratorium until 2027.",
-   "source": "WWMT",
-   "url": "https://wwmt.com/news/local/data-center-dorr-township-allegan-county-leighton-gaines-solon-lowell-kalamazoo-west-michigan-seminar-private-code-inspection-zoning-law-wwmt",
-   "breaking": false,
-   "lead": true,
-   "id": "bc3ebbe4ef59",
-   "accuracy": "checked",
    "judge_score": 7
   }
  ],
