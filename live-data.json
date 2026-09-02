@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-09-02T16:29:09Z",
+ "updated_at": "2026-09-02T19:28:55Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Ionia residents get first look at data center power and water risks",
+   "dek": "Ionia is holding a proactive public meeting to discuss potential data center projects before any proposals arrive. Residents 30 miles away care because new facilities could strain local electricity rates and groundwater supplies. The session gives the community a chance to shape rules early rather than react after plans are filed.",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOFU2Uy13RkJUdlFLUTNrQUs3bktWLVFySmNaZDJmVHJYcTk5WDlISmoxNThmMVhuQnpCR2Q3dlhtUTdmeS1lanRoWTZWa29hWk9VRE5ON3JwNFRudEhNVHJJb1NSd0RlbkZISDNHMi1FQnZ3aVRkdndmQmszaFJNZXBCQmUtZS1Sbk1EYg?oc=5",
+   "source": "Yahoo",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Ionia",
+   "tag": "Local Government",
+   "iso": "2026-09-02T18:11:30Z",
+   "id": "2b26ac7e7cb8",
+   "origin": "google-news",
+   "source_title": "Ionia to host ‘proactive’ meeting on data centers - Yahoo",
+   "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOFU2Uy13RkJUdlFLUTNrQUs3bktWLVFySmNaZDJmVHJYcTk5WDlISmoxNThmMVhuQnpCR2Q3dlhtUTdmeS1lanRoWTZWa29hWk9VRE5ON3JwNFRudEhNVHJJb1NSd0RlbkZISDNHMi1FQnZ3aVRkdndmQmszaFJNZXBCQmUtZS1Sbk1EYg?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
   {
    "title": "St. Clair County residents to hear data center health risks at upcoming workshop",
    "dek": "A public session will focus on potential noise, air, and water impacts from proposed data centers in the area. Locals worry about strain on power grids and drinking supplies if projects advance. The discussion could shape future zoning fights in this southeast Michigan county.",
@@ -169,23 +186,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQelJTdUhZNW9WNzhFRGc3aWk2eWotczcxaVo4OW80WDFXdUJKZXlSaWEyTjVFY0dscVk1VmxqX1ZiSi1keHJEVVVvZjRZQlZuY0NCY1B4eXVwOVRJd2xNZ3h3emdueG82STB3Z2htMTkyNmtCbGwzLVhoR3N5YXJlTi1HWnM3LXhPNUk4MEhDaFpJajN0VTNuZ21HUGFGRWx3emhYX2EydGpvMWRfWThua3NQRlZtUXk4OHRZ?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
-  },
-  {
-   "title": "Closed-door data center pitch raises electric bill, water fears for nearby residents",
-   "dek": "Officials from across the region sat through pitches on new data center projects while demonstrators rallied outside. Residents 30 miles away could soon face higher electric bills and water strain if the proposals advance. The closed-door format left many locals wondering whose voices are shaping the deals.",
-   "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOU1liSGItekR2M0RIcjlOU29xSkgwZUxJUFB4ekdnTG5weDZMRXMwUFR1WW1XU2p3OEdudWVROGw5MHVTRF9iYmt0SnVUMTBhaS0tckRGZW5Sb2NiU3F1NElBRTdnYWY5N1dieHRId0RPOVk5OEdWa2xzLS16UUhzQkhVZ1piWElpSUZJVm1PRDQzQi1WaDhjeVFfRlp6cG5tWjE3SjRMaEZrZS1LeDFJQlE1S3JhYl9zREZKelZkc1BfdnNMSEQ3Ym13NFhGTWpNcnJEeEZMZzVSdHpRaUtsNVlVQ1JaeFZONkU0Wmc0WVJmZE8xTFlkX183b2R6QVB5S0s0YXFOTjBNSlRIalRWS0dMNkVmZ19kczE0?oc=5",
-   "source": "WWMT",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Local Government",
-   "iso": "2026-09-01T07:33:58Z",
-   "id": "559e14df2395",
-   "origin": "google-news",
-   "source_title": "Private data center seminar attended by 100+ West Michigan officials, protesters outside - WWMT",
-   "source_url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOU1liSGItekR2M0RIcjlOU29xSkgwZUxJUFB4ekdnTG5weDZMRXMwUFR1WW1XU2p3OEdudWVROGw5MHVTRF9iYmt0SnVUMTBhaS0tckRGZW5Sb2NiU3F1NElBRTdnYWY5N1dieHRId0RPOVk5OEdWa2xzLS16UUhzQkhVZ1piWElpSUZJVm1PRDQzQi1WaDhjeVFfRlp6cG5tWjE3SjRMaEZrZS1LeDFJQlE1S3JhYl9zREZKelZkc1BfdnNMSEQ3Ym13NFhGTWpNcnJEeEZMZzVSdHpRaUtsNVlVQ1JaeFZONkU0Wmc0WVJmZE8xTFlkX183b2R6QVB5S0s0YXFOTjBNSlRIalRWS0dMNkVmZ19kczE0?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {
