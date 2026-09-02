@@ -1,10 +1,10 @@
 {
- "title": "Evenings with Graham & Emmy",
- "teaser": "Officials gather privately on data centers while residents protest outside in Dorr Twp.",
+ "title": "Mornings with Graham & Emmy",
+ "teaser": "Hyperscale Data ditches Bitcoin mining for AI in Cass County—what it means for power and towns.",
  "lines": [
   {
    "host": "Graham",
-   "text": "Good evening, and welcome to Evenings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
+   "text": "Good morning, and welcome to Mornings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
   },
   {
    "host": "Emmy",
@@ -12,207 +12,263 @@
   },
   {
    "host": "Graham",
-   "text": "Yesterday's closed-door seminar in Dorr Township drew over a hundred local leaders but also dozens of protesters, and that's our big story tonight."
+   "text": "Today we're talking about a big shift at a Cass County site where Bitcoin mining is shutting down to make room for AI operations."
   },
   {
    "host": "Emmy",
-   "text": "Graham, this feels like a flashpoint. What exactly happened in Dorr Township yesterday?"
+   "text": "That sounds like a sign of where things are heading with these facilities."
   },
   {
    "host": "Graham",
-   "text": "More than a hundred municipal officials from Allegan, Barry, and Kent counties met for an invite-only session on zoning and inspections hosted by a private firm."
+   "text": "Exactly. Hyperscale Data is halting all its miners effective September 1 at the Michigan site."
   },
   {
    "host": "Emmy",
-   "text": "And outside?"
+   "text": "Why make the change now?"
   },
   {
    "host": "Graham",
-   "text": "Dozens of residents protested over water use concerns tied to a Microsoft proposal that's under moratorium until 2027."
+   "text": "They're moving under a master services agreement projected to generate $1.2 billion, with expansion options that could reach $3 billion."
   },
   {
    "host": "Emmy",
-   "text": "Why does a closed session like that raise so many alarms for people living nearby?"
+   "text": "That's serious money. How much of the facility are we talking about?"
   },
   {
    "host": "Graham",
-   "text": "Residents thirty miles away are already worried their electric bills and water supplies could take a hit if these projects move forward without more public input."
+   "text": "Up to 20 percent of the site's 340 megawatt capacity."
   },
   {
    "host": "Emmy",
-   "text": "How does this fit into the bigger pattern we've seen across the state lately?"
+   "text": "So they're not using the whole thing for AI right away?"
   },
   {
    "host": "Graham",
-   "text": "Small towns are becoming test cases. Places like Decatur, Ypsilanti, and Lyon Township are all wrestling with the same questions about power grid strain and who pays for upgrades."
+   "text": "Not yet, but the deal leaves room to grow."
   },
   {
    "host": "Emmy",
-   "text": "Walk me through the history here. Has Michigan seen this kind of pushback before?"
+   "text": "What does this tell us about the broader trend in Michigan?"
   },
   {
    "host": "Graham",
-   "text": "Data center proposals have been accelerating, and communities are looking back at earlier builds that brought jobs but also new power lines and traffic."
+   "text": "It shows how some operators are repurposing existing infrastructure as demand for AI computing rises."
   },
   {
    "host": "Emmy",
-   "text": "What are the main players in these deals?"
+   "text": "Crypto mining used a lot of power too, right?"
   },
   {
    "host": "Graham",
-   "text": "Big tech companies like Microsoft, local developers, and township boards are at the table, while residents and environmental groups are pushing for more transparency."
+   "text": "Yes, but AI workloads can be even more intensive depending on the setup."
   },
   {
    "host": "Emmy",
-   "text": "Let's talk stakes. How could one of these campuses affect electric bills for regular households?"
+   "text": "How might this affect local electric bills in Cass County?"
   },
   {
    "host": "Graham",
-   "text": "New facilities can add thousands of megawatts of demand. Utilities have said upgrades might be needed, and the question is whether ratepayers foot part of that bill."
+   "text": "The facility already draws significant load, so any expansion could factor into future rate cases for the utility serving the area."
   },
   {
    "host": "Emmy",
-   "text": "Water is another big one, right?"
+   "text": "What about water use for cooling?"
   },
   {
    "host": "Graham",
-   "text": "Cooling systems at large sites can pull significant amounts, and in areas already watching drought patterns that raises red flags for nearby farms and homes."
+   "text": "Data centers in general need substantial water, and rural spots like Cass County often rely on local sources."
   },
   {
    "host": "Emmy",
-   "text": "Farmland conversion is happening too. What does that mean for towns long-term?"
+   "text": "Is farmland involved here?"
   },
   {
    "host": "Graham",
-   "text": "Projects like the one nicknamed The Barn in Saline Township are turning agricultural land into industrial sites, shifting tax bases and changing the character of rural communities."
+   "text": "Many of these sites go up on former agricultural land, which raises questions about long-term land use."
   },
   {
    "host": "Emmy",
-   "text": "Supporters always mention jobs. How do those promises stack up against the concerns?"
+   "text": "Who are the main players in this deal?"
   },
   {
    "host": "Graham",
-   "text": "Proponents point to construction and operations roles, but critics worry the economic benefits may not offset higher utility costs for everyone else in the area."
+   "text": "Hyperscale Data is the operator, and they're signing with a customer under that master services agreement."
   },
   {
    "host": "Emmy",
-   "text": "What happens next after yesterday's seminar and protests?"
+   "text": "What happens next at the site?"
   },
   {
    "host": "Graham",
-   "text": "More townships are scheduling hearings, and calls for statewide pauses are growing louder from figures like Mike Rogers."
+   "text": "They'll start ramping up AI operations while keeping options open for more capacity."
   },
   {
    "host": "Emmy",
-   "text": "How might this closed-door approach change how future meetings are handled?"
+   "text": "Could this model spread to other Michigan locations?"
   },
   {
    "host": "Graham",
-   "text": "Residents are demanding open sessions, and some councils are already considering moratoriums to buy time for better rules."
+   "text": "It's possible if more crypto sites find AI customers willing to pay premium rates."
   },
   {
    "host": "Emmy",
-   "text": "Is there a sense that this could spread to more counties?"
+   "text": "How does this fit with all the local pushback we're seeing elsewhere?"
   },
   {
    "host": "Graham",
-   "text": "Absolutely. The Dorr example is being watched closely by places like Detroit and Ypsilanti that are weighing their own freezes."
+   "text": "It highlights the tension between economic deals and community concerns over infrastructure strain."
   },
   {
    "host": "Emmy",
-   "text": "Any sense of what a typical resident should watch for in their own backyard?"
+   "text": "Residents in places like Decatur are already clashing over similar proposals."
   },
   {
    "host": "Graham",
-   "text": "Look for notices about zoning changes or utility filings, because those often signal when a project is moving from proposal to construction."
+   "text": "Yes, yesterday they debated property taxes, noise, and grid impacts."
   },
   {
    "host": "Emmy",
-   "text": "Thanks for laying that out. Let's move to quick hits."
+   "text": "Supporters mention jobs, but opponents worry about higher bills."
   },
   {
    "host": "Graham",
-   "text": "In Decatur today, neighbors clashed over a proposed campus, worrying about taxes, noise, and power grid impacts while supporters highlighted jobs."
+   "text": "That's the core tradeoff playing out in small towns across the state."
   },
   {
    "host": "Emmy",
-   "text": "That sounds like the same tension we just discussed. How is Decatur handling it differently?"
+   "text": "Meanwhile, Rep. James is arguing for more local control over rules."
   },
   {
    "host": "Graham",
-   "text": "It's shaping up as an early test case for other small towns, with residents pushing for more details on utility bill effects."
+   "text": "He says cities and townships should decide for themselves, even though his past votes leaned the other way."
   },
   {
    "host": "Emmy",
-   "text": "Over in Detroit, environmental groups are calling for a freeze on new projects while the city writes power and water rules."
+   "text": "That shift could change how projects get approved."
   },
   {
    "host": "Graham",
-   "text": "Right, they say hyperscale builds could strain the grid and raise household costs, and a moratorium would let officials assess the real impacts."
+   "text": "It would give communities more say on zoning and incentives."
   },
   {
    "host": "Emmy",
-   "text": "Mike Rogers is pushing a statewide pause until utilities prove they can handle the load without rate hikes."
+   "text": "Senator Runestad wants to end sales-tax breaks for new centers."
   },
   {
    "host": "Graham",
-   "text": "He targeted projects that could add thousands of megawatts, noting voters from both parties are concerned about who pays."
+   "text": "Yesterday he pushed to repeal those exemptions so projects pay more into state coffers."
   },
   {
    "host": "Emmy",
-   "text": "Ypsilanti is debating a year-long halt at tonight's council meeting."
+   "text": "That could mean more revenue but also higher costs passed along."
   },
   {
    "host": "Graham",
-   "text": "Residents there fear spikes in electricity rates and water strain, and the pause would give time to craft permanent zoning rules."
+   "text": "Lawmakers will have to weigh that against job and investment arguments."
   },
   {
    "host": "Emmy",
-   "text": "Vice-presidential candidate Vance stopped in Sterling Heights and tied data centers to both jobs and power bill risks."
+   "text": "Consumers Energy is already doing grid work in West Michigan."
   },
   {
    "host": "Graham",
-   "text": "He referenced University of Michigan research and noted how new facilities could affect household costs across the state."
+   "text": "Yes, yesterday they started Cherry Street upgrades tied to rising demand from data centers and other big users."
   },
   {
    "host": "Emmy",
-   "text": "Yesterday also saw a closed-door pitch that raised electric bill and water fears for residents thirty miles away."
+   "text": "Will customers see rate impacts from that?"
   },
   {
    "host": "Graham",
-   "text": "Demonstrators rallied outside while officials heard the presentations, leaving many locals questioning whose voices are shaping the deals."
+   "text": "Eventually yes, as the utility recovers those costs."
   },
   {
    "host": "Emmy",
-   "text": "In Lyon Township, the developer faces another hearing next month amid worries about grid and roads."
+   "text": "Detroit residents are facing blackout risks too."
   },
   {
    "host": "Graham",
-   "text": "Residents there have already flagged power demand and construction impacts on local infrastructure."
+   "text": "Yesterday groups called for a freeze on new projects while the city writes power and water rules."
   },
   {
    "host": "Emmy",
-   "text": "Near Ann Arbor, a big AI facility hit a million construction hours, and Washtenaw County residents are watching rate and water effects."
+   "text": "A moratorium would buy time to assess the strain."
   },
   {
    "host": "Graham",
-   "text": "Jobs are growing, but so are questions about long-term taxpayer costs once it ramps up."
+   "text": "Mike Rogers is calling for a statewide pause until utilities prove they can handle the load."
   },
   {
    "host": "Emmy",
-   "text": "And in Saline Township, The Barn project is rising fast on farmland."
+   "text": "He wants no new approvals if bills would go up for residents."
   },
   {
    "host": "Graham",
-   "text": "Nearby residents will see new power lines and traffic, plus potential tax shifts as the facility comes online."
+   "text": "Voters from both parties have raised the same concern."
   },
   {
    "host": "Emmy",
-   "text": "On deck for listeners, Ypsilanti council meets tonight on that proposed moratorium."
+   "text": "Ypsilanti is debating its own year-long halt tonight."
   },
   {
    "host": "Graham",
-   "text": "No other major public meetings are listed for tomorrow, but township agendas can change quickly."
+   "text": "City leaders will consider a temporary ban on standalone proposals."
+  },
+  {
+   "host": "Emmy",
+   "text": "Residents there fear spikes in rates and water use."
+  },
+  {
+   "host": "Graham",
+   "text": "A moratorium would let them craft permanent zoning first."
+  },
+  {
+   "host": "Emmy",
+   "text": "Vance tied data centers to power bills and jobs during his Sterling Heights stop yesterday."
+  },
+  {
+   "host": "Graham",
+   "text": "He framed the growth as both opportunity and risk for household costs."
+  },
+  {
+   "host": "Emmy",
+   "text": "Closed-door pitches are also raising eyebrows."
+  },
+  {
+   "host": "Graham",
+   "text": "Yesterday officials heard presentations while demonstrators rallied outside."
+  },
+  {
+   "host": "Emmy",
+   "text": "Residents miles away could still feel the effects on bills and water."
+  },
+  {
+   "host": "Graham",
+   "text": "The format left some wondering whose voices count most in these deals."
+  },
+  {
+   "host": "Emmy",
+   "text": "So what's on deck for listeners who want to weigh in?"
+  },
+  {
+   "host": "Graham",
+   "text": "Ypsilanti's city council meets tonight to debate that year-long pause on new data centers."
+  },
+  {
+   "host": "Emmy",
+   "text": "That sounds like a key one for residents worried about rates and water."
+  },
+  {
+   "host": "Graham",
+   "text": "Decatur's ongoing clash over the proposed campus is another one to watch."
+  },
+  {
+   "host": "Emmy",
+   "text": "Those debates are shaping up as test cases for other small towns."
+  },
+  {
+   "host": "Graham",
+   "text": "We'll keep tracking how these local fights connect to the bigger grid picture."
   },
   {
    "host": "Emmy",
@@ -223,7 +279,7 @@
    "text": "We're back tomorrow."
   }
  ],
- "episode_title": "Closed-Door Data Center Talks Spark Protests in West Michigan",
- "show": "Evenings with Graham & Emmy",
- "daypart": "Evenings"
+ "episode_title": "Michigan Data Wire: Cass County AI Pivot and Statewide Data Center Tensions",
+ "show": "Mornings with Graham & Emmy",
+ "daypart": "Mornings"
 }
