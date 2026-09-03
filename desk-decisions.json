@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd0ItVFB6YjJUSzJzT3ZHMTJpUHhuNi1JQ0ZQSnVDSGgtRFBBZ2FVbzdmbnFkNHlZd3lTaVBVUkYzVGh0MjFlZmplSm1CWFQxcWFycEdmZjNtNUpRUXBpNXJSMjdRSEM3M1pYREVFYXNVY1Z6VlUzNFA4SkhZTno3dS1SM0ZVZm91cG0xaWNNMzJaaHo0U25Ta1liVTFrcmd6NnFLTUZhYXhnVFlLVDBfaExJdUxoRlNZaXJiQlhXaHpfam9r?oc=5",
-   "title": "Detroit News: 'The Barn' shows how Michigan can host data centers",
-   "at": "2026-08-20T03:55:43+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: Speculative piece on potential data center benefits without concrete developments."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTG1LYW94bXlWNDJrV3g5RWxfV0J2bjdfUm5xdUoxU19McWR5NDJDZzFzcHJHdVNhakFxYUJIQUhYWmVZYW5rbE45dTNXZ3NHdGF5SHBoU3V3bE9sQzJJdmdpVFYzX2NiSEtUNWp0NDRHa3ZXcVgyeDhhdm4yLVREbUNHUmt0VkFJa0xQRDdZQ0M3SDM3ZnBMbmUzUGFkVlZtYk1wR25sMl9YMW1wWVVVTVJESzlhc3d1eTdaZi04Rm9vQ3hFUWpCdVozZFJSa1B1aTNmalcyaGxmUnJMeFplVEZQSEJDZ0RxUmfSAeoBQVVfeXFMTUxtS2FveG15VjQya1d4OUVsX1dCdm43X1JucXVKMVNfTHFkeTQyQ2cxc3ByR3VTYWpBcWFCSEFIWFplWWFua2xOOXUzV2dzR3RheUhwaFN1d2xPbEMySXZnaVRWM19jYkhLVDVqdDQ0R2t2V3FYMng4YXZuMi1URG1DR1JrdFZBSWtMUEQ3WUNDN0gzN2ZwTG5lM1BhZFZWbWJNcEdubDJfWDFtcFlVVU1SREs5YXN3dXk3WmYtOEZvb0N4RVFqQnVaM2RSUmtQdWkzZmpXMmhsZlJyTHhaZVRGUEhCQ2dEcVJn?oc=5",
-   "title": "Bay City residents push back on data-center power and noise",
-   "at": "2026-08-20T03:55:43+00:00",
-   "by": "news_judge",
-   "note": "score 9/10, duplicate: Duplicate of already live story about Bay City residents pushing back on data center plans."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOHpfQmRMc1lnRmtSWXNqdjlEeUFaV0RIeEVldTI2V2Q1d3pqZkExNlVnTFVWWjFyN2l5b2p5NnZmVE5LSHRnT2I0S3kwOS1jTURZeGw3QnhxNUdZMGQyZ3FQM3ZfdGxUa01SQkZqeS1xLVMydkxfVGRrN3ktdmdHTjZfQWhpRlpPa2dyYlBpbDVxZkktVzFtZ9IBngFBVV95cUxQdFZNajdUNW9taDdyNTNwSEN6RXpuU1NISXgzeW9FWHVYUGk1bHp0RXZSdUlMeGVXaExnLXplOWFETG9GQ0ljSklLa0JWUnIwcUdqQXBwbll2aVlEWGgyZUpIaG1DNUt0ZHVBQW5YYk81N2sxQnRVV3B6T1JYZ1hWVktueWYyeDB6VlJNdVpUZDBCUDVSREc2QnZFU2Jvdw?oc=5",
    "title": "Lansing-area expert says some data-center fears are real",
    "at": "2026-08-20T03:55:43+00:00",
@@ -1399,21 +1385,23 @@
    "at": "2026-09-03T17:47:50+00:00",
    "by": "news_judge",
    "note": "score 3/10, duplicate: Duplicate of already-live 'Ionia residents get first look at data center power and water risks' — same Sept. 9 meeting preview."
+  },
+  {
+   "url": "https://northdakotamonitor.com/trend/data-centers/",
+   "title": "North Dakota Panel Clears Way for Data Center NDAs",
+   "at": "2026-09-03T23:13:14+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: North Dakota legislative committee action has no direct Michigan relevance; national trend piece."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdXF0ZE9hX2xSWFBiU2psUFlWXzRrbG1wNkFoVjl0Mlh4LXZQLUoyRjJoTXMxbmFCZVJCNFEtNzUzZTlmNlBHSDFOOXVHZzVwVHhSa212TnZ0UTROLV8tZjFqMlZmR09aeGFGMkNDeU5tWEt4YVE3T3BjNV80c1JCTlptVHlrN1BsRHFHZXlkN3hJQ29HMG9YbFU5S1FBZTZHNS1DNGlndEx0c0ZmSFNRd0xn?oc=5",
+   "title": "Hyperscale Data shutters crypto mining at its Michigan facility",
+   "at": "2026-09-03T23:13:14+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Hyperscale Data ending crypto mining at Michigan facility is already killed multiple times in different wordings."
   }
  ],
  "auto_published": [
-  {
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMUEpZLU4tRHNDUEFrb1JGTE9uRU4ySVhQWHp1RFVpQjFiOGVLNWdjNlF4R3dUVmJZMDE3cnVxQVVaaEowRC1OajdHcjNIeldfU1YyWTNTQzkyNEZDcXRTcGF2TzQ3b0lYM2YwUTBMVGRGd1MxUWFZcjZMVmI?oc=5",
-   "title": "Monroe County halts new data centers for now",
-   "judge_score": 9,
-   "at": "2026-07-17T19:23:32Z"
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNUNOajR0NnpJcVA5bTFiSWZwR3hYd3NLVFdiRVktcTlGQktTT09Kdmh1THRaclhaVl9IU1BOeTE3aXNnWFJFMXd4V09lQW42X3d5SF9UdU0yRUNJWWE3S2h2d19sR2NFVE9oa3l3UGFnVXB3QWo3eW9QYjFiX0ZEWmFTc29kV05FZnROZEtOQnY5SkFmLUZ3SE0wSUFzVVpwWWlzOVZGNjRXMmpXdFE?oc=5",
-   "title": "State senator pushes data-center guardrails after earlier defeats",
-   "judge_score": 7,
-   "at": "2026-07-17T23:29:21Z"
-  },
   {
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYXZ4NmxtQXp5bzdScmhUWkNiX0tUZFVLTE9MeUdULThlQW5nYjNOdE1KUjEyOHBrV0lRX0FYVTI3dmxSOTBzY3ctcXVRMjFfSzZ4V3VCcTlFUDE1dXhUeWlwV053OFIydWc1eWc2c1lqNzhwbm40bFhybVoybHBZY3FBWDhFZ0FHNUVB?oc=5",
    "title": "Warren eyes 6-month data center ban to study grid strain",
@@ -3201,6 +3189,18 @@
    "title": "Ionia weighs letting data centers tap city power and land",
    "judge_score": 6,
    "at": "2026-09-03T20:55:24Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMldaaEE2ZEhXTXhFZm9tRGJObUliU1habFVSV21ZQnEyZ2xvQmZ4bklza0tqMk83b1phM2lzb0hfRC1Gb2ZtVnNiaGRiNWNmd3FBdVM3b284OHA3VGo3Ri1CT1hoQldtdHRWWHpPSXhUYm1DckNfUkJNLW9BXzhFTGZLRzg3MGJibkh6MG84dWh6NnhzODZ0dnNWYWp2ZVh3enJRUzZEdm9rbEswU0NhWVN6VXJHSDRkTS1rRTZfMXZiZUxQYUdTU0NrdTBqYVczM1R3LVkwWW83REJ0d1NB0gHfAUFVX3lxTFAyV1poQTZkSFdNeEVmb21EYk5tSWJTWFpsVVJXbVlCcTJnbG9CZnhuSXNrS2oyTzdvWmEzaXNvSF9ELUZvZm1Wc2JoZGI1Y2Z3cUF1Uzdvbzg4cDdUajdGLUJPWGhCV210dFZYek9JeFRibUNyQ19SQk0tb0FfOEVMZktHODcwYmJuSHowbzh1aHo2eHM4NnR2c1ZhanZlWHd6clFTNkR2b2tsSzBTQ2FZU3pVckdINGRNLWtFNl8xdmJlTFBhR1NTQ2t1MGphVzMzVHctWTBZbzdEQnR3U0E?oc=5",
+   "title": "Second recall bid fails for official tied to data center rezoning",
+   "judge_score": 7,
+   "at": "2026-09-03T23:13:15Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQlBBSjRTbFJKNmxSdzBWbXhCYWF5RXBsLWJRbW5QOHJ6V1lWTndGalRvaUluSWlReEtIMkVWa2d0NUQxcjUxby1HMHNFWmpOdzlRaXV5M1N6SUczQm4wdDBqcF9BS2pURjRiMHpLN1JjZDN1TVNiZFJQaEhRaW1hV3hpY3ZsUlcydTRKNUxOaWpRY1J4RFJTYWptSHlLb2h1anNJWHJSVVFPZTR2a0ZRa2VmX21CZDhkaTFDMmRhdnlDTEhsQWxCekhNOGpmMnRkbWc?oc=5",
+   "title": "Lenox Twp residents demand answers on hidden data center plans",
+   "judge_score": 6,
+   "at": "2026-09-03T23:13:15Z"
   }
  ]
 }

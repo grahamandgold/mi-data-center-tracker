@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-03T20:55:24Z",
+ "updated_at": "2026-09-03T23:13:15Z",
  "generator": "grok-wire-agent",
  "items": [
   {
@@ -45,5 +45,5 @@
    "judge_note": "Concrete new development: mayoral candidates taking public positions on a specific tax deal for the Oracle project represents a real campaign issue and policy d"
   }
  ],
- "accuracy_checked_at": "2026-09-03T20:55:17+00:00"
+ "accuracy_checked_at": "2026-09-03T23:13:10+00:00"
 }
