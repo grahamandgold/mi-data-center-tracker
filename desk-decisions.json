@@ -1,41 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.aol.com/articles/details-emerge-data-center-planned-190841000.html",
-   "title": "Mason officials schedule town hall as hyperscale data center proposal advances to state review",
-   "at": "2026-08-19T20:37:51+00:00",
-   "by": "news_judge",
-   "note": "score 4/10, duplicate: This is the same Mason town hall event already covered in the killed story 'Mason City Council adopts outreach plan for potential data center project, schedules"
-  },
-  {
-   "url": "https://www.nbc4i.com/news/local-news/central-ohio-news/datacenters/openai-joins-worlds-largest-data-center-project-brings-35000-construction-jobs-to-ohio/",
-   "title": "OpenAI Joins Massive Ohio Data Center Project Expected to Create 35,000 Construction Jobs",
-   "at": "2026-08-19T21:55:55+00:00",
-   "by": "news_judge",
-   "note": "score 2/10: Ohio project with no Michigan angle; national noise that doesn't advance Michigan data center tracking."
-  },
-  {
-   "url": "https://www.spokesman.com/stories/2026/aug/19/tech-deploys-charm-offensive-to-combat-ai-data-cen/",
-   "title": "Michigan towns halt data centers as Oracle pushes New Mexico project",
-   "at": "2026-08-19T22:59:15+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: National trend piece bundling already-covered Michigan moratoriums with an out-of-state Oracle project; no new Michigan decision or development."
-  },
-  {
-   "url": "https://www.clickondetroit.com/video/news/2026/08/19/data-center-developer-sues-gibraltar-claims-city-illegally-blocked-project/",
-   "title": "Gibraltar Hit With Lawsuit After Halting Data Center Project",
-   "at": "2026-08-19T23:34:42+00:00",
-   "by": "news_judge",
-   "note": "score 2/10, duplicate: This is the same lawsuit already covered in the LIVE story 'Gibraltar sued after rejecting data center project' — just a different headline for the identical le"
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ3V2ZEtKWnNuQ2N2c0c2akYzOWdRVEdtcnEydklvZ2lmRWZjQlZkSF9zZ2g0XzlvZno2Q1BLdEtkcnlkdlBuNG01ODFhM3IyUGtDUExOS0RTc3pCWDlYNjFocW5PNGxlRTYtaXIzM29OU0NTUWQ0d1ZzTTlRZ0trWjRIOUJLZ2Z3c2VyaTJhaXpNX0g3MTJtNGhWZ3Z3OFJpLVFJa2N2bXhsbWxYSWM0ZmlSejhqRk5ORGpoQWo5RXlQS2RKVENaYi1sVG9kR0N4TTBiNGV3RTVoR29ibHNJ?oc=5",
-   "title": "Gibraltar developer sues city after data center block",
-   "at": "2026-08-19T23:51:02+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: This is the same lawsuit already covered in the ALREADY-LIVE story 'Gibraltar sued after rejecting data center project' — just a different headline phrasing for"
-  },
-  {
    "url": "https://www.reuters.com/technology/demand-us-data-center-boom-radiates-out-through-factory-supply-chains-2026-08-19/",
    "title": "Data center boom lifts unexpected suppliers like generator makers",
    "at": "2026-08-20T01:49:25+00:00",
@@ -1399,15 +1364,44 @@
    "at": "2026-09-02T21:57:21+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Identical Hyperscale Data facility conversion already live and killed multiple times in various phrasings."
+  },
+  {
+   "url": "https://www.wilx.com/2026/09/02/data-center-tax-breaks-could-falter-if-state-legislation-is-passed/",
+   "title": "Runestad to Seek Repeal of Data Center Sales Tax Breaks",
+   "at": "2026-09-03T00:02:29+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: Same Runestad sales-tax repeal effort already live in 'Runestad pushes to end sales-tax breaks for new data centers.'"
+  },
+  {
+   "url": "https://www.yahoo.com/news/politics/articles/michigan-ag-seeks-cut-dtes-100000749.html",
+   "title": "Attorney General Nessel Urges Sharp Cut to DTE Rate Hike Tied to Data Center Growth",
+   "at": "2026-09-03T00:02:29+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: Same Nessel DTE rate intervention already killed as 'Nessel Pushes to Trim DTE Hike to $134M, Shield Residents from Data Center Costs.'"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSVczdHp6Tnc4dGk2UHllWHdHa0dEQ0xaSTlJZ0hlUi1tUlk4cFVoM1F3YnZScHFWeTI0Y2FyZFZKbllvN1JseHVzUWx0TW1rMHp6c2xYUl9KMXpEbTJ0bEhQdzJCYnhvX0Z5RjJjZUM1QzJDT09XS1dXM0p1dHdlOTNkUFpwZGctUGc?oc=5",
+   "title": "Dorr Township residents rally against data center seminar",
+   "at": "2026-09-03T00:02:29+00:00",
+   "by": "news_judge",
+   "note": "score 4/10, duplicate: Same Dorr Township protest event as candidate [3], just less detailed coverage of the identical rally."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWUJmV1VJSHFieGF6TG5WVl9WR2NmZDNNQ253YTYyMnZnUDM1N0c2bnhlUDBGM3RIcmR6Z1RqTnhXMVZ5TkpxUEdseG83UW56RFNiYW1LN21hN183NnQ4RlUyMEZ1cVdaanpmVFVZdThjc3hKdGVLQmtHeWQtUUZTT1cwYW9ORkJOT1o3YVVOQzhZRDTSAZgBQVVfeXFMT0oyRlU4aUlvUHp6RnBDS2p0X3hiaU9mYTNlb1FLNUlQN1VnU1RVSzBwLXB3UXgydm52ZWZmLTVNbEo0MHQ2d19ad2pTTl9WTXU3YmwwbTJwVlJidkpGU1U5U0lvR05UelhnZE9ZM09sVGNPbmtvZjVqeUZDeHhVcFY2WFVweDNwbzNlWmxPRFhtLXgxSU84VVg?oc=5",
+   "title": "Ionia calls proactive meeting to hear data center concerns early",
+   "at": "2026-09-03T00:02:29+00:00",
+   "by": "news_judge",
+   "note": "score 4/10, duplicate: Same Ionia proactive meeting already live as 'Ionia residents get first look at data center power and water risks.'"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX1E3TW9mUmhNMDdMVmtpRHdlNXFuQUg1U2toUWszc0dRenVlOHNJOUhKOGlFcDRCc1Z6NDV4ZEt2elBKZS1TcEtGTjBHeXdld2E4OUM1VWoxLVNtbWNtT1lYTnhsbl9vOEhRSklUcHdrb1JEV2FZaF9ZM2VZWWVldkhzQUJIbXVPWWRRVEdJLTVUTXRuZFN2YW1mTjBkQUR3NG1kSnZjXzhleTMwd205enM4dzBKLXc5NTU2N2xEVDBYYUt1VEE?oc=5",
+   "title": "Ypsilanti pushes emergency moratorium to halt new data centers",
+   "at": "2026-09-03T00:02:29+00:00",
+   "by": "news_judge",
+   "note": "score 4/10, duplicate: Same Ypsilanti moratorium already live as 'Ypsilanti weighs year-long halt on new data centers.'"
   }
  ],
  "auto_published": [
-  {
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOdTdQdGY4ZDkxM1NhcEJwcWU4Zm1oY3VzRDFzMEVEeTdsNjU0d3M2WE1kQ1J1QVBUVktCRjdya1loLUctUndsaFM1bmtBQW1hdU4tZzFIWGlWaVFvVndxMmZManpBQmlfWjdSZWlidDR2SFFaWi1EYkIzeTM4Zm9vdHJiNGxQYzVIbzBsQmViOXBtS2o5bnlLdlA2a1JtWjV4dklHalg0RzR2STlpSzNHTWhRdmkwZlVnY3FZVVFCeEcwcU5KYk5odmVIQk43SC1mdDZXWk5Zd2hMQ2Zlc1owYm9WTXZGWnBDalQwbnFFaFV2SHJBLUROdHZVSQ?oc=5",
-   "title": "Pere Marquette Township moves to block new data centers",
-   "judge_score": 8,
-   "at": "2026-07-16T04:19:43Z"
-  },
   {
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZGVxNnhqTHR2Q1ZPRW1aRlhTbzl1dE5SdW02cUt1bk5sZHBPbFRxa1puazZGM2lpb2hSMC01WXJQYW1icTJxZXJibzRaLWh6bEpSWHM0OXNnT2lFSkwwUU8yTGxiaHVEQ0ExQ3ZlakdLQjN1UlBEYjdXWGV3c2VNakN6T3dJNlJLWEpIMXhRaw?oc=5",
    "title": "Taylor neighbors fight rezoning that would open door to data centers",
@@ -3201,6 +3195,12 @@
    "title": "Ionia residents get first look at data center power and water risks",
    "judge_score": 6,
    "at": "2026-09-02T19:28:55Z"
+  },
+  {
+   "url": "https://www.michigandaily.com/opinion/columns/umichs-playbook-in-ypsilanti-township-isnt-that-different-than-openais-in-saline/",
+   "title": "UM Ypsilanti Data Center Overrides Local Opposition Like OpenAI in Saline",
+   "judge_score": 6,
+   "at": "2026-09-03T00:02:29Z"
   }
  ]
 }

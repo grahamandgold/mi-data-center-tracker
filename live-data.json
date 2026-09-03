@@ -1,7 +1,22 @@
 {
- "updated_at": "2026-09-02T21:57:10+00:00",
+ "updated_at": "2026-09-03T00:02:29Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "iso": "2026-09-02T21:00:00+00:00",
+   "region": "metro",
+   "cat": "Washtenaw Co.",
+   "tag": "Local Government",
+   "title": "UM Ypsilanti Data Center Overrides Local Opposition Like OpenAI in Saline",
+   "dek": "Residents say the University is spending a billion in public funds on a nuclear-research facility the community rejected, following the same pattern of power overriding protests seen with OpenAI’s Saline project.",
+   "source": "Michigan Daily",
+   "url": "https://www.michigandaily.com/opinion/columns/umichs-playbook-in-ypsilanti-township-isnt-that-different-than-openais-in-saline/",
+   "breaking": false,
+   "lead": false,
+   "id": "9a1dd7468172",
+   "accuracy": "checked-rewritten",
+   "judge_score": 6
+  },
   {
    "title": "Ionia residents get first look at data center power and water risks",
    "dek": "Ionia is holding a proactive public meeting to discuss potential data center projects before any proposals arrive. Residents 30 miles away care because new facilities could strain local electricity rates and groundwater supplies. The session gives the community a chance to shape rules early rather than react after plans are filed.",
@@ -169,23 +184,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUEZLNVlkYTA1VThnRnJUVUxOcWpNc1RBNG10RjZuQzVUMFI1VXNyWXpVZmtWVndoZDhRWFZnN0V2eTg4ZkFxd044R3lDcmdzelNYbG0xMUFlZWxmVGdjdGY5bk5QWGRfUXhuWVA2Q1VIbWl4MkxabWVmQnNpTkpIUkg2Q2h2Yl9wWTV2V3ZUNHhQb0pSQlVlN1FGdDFKdVdzd2xpUW1Sb1Y4X0p5c1JLUlJFLU5Pam8?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 8
-  },
-  {
-   "title": "Vance links data centers to Michigan power bills and jobs",
-   "dek": "The vice-presidential candidate used his Sterling Heights stop to frame data center growth as both an economic opportunity and a risk to utility costs. He tied the issue to University of Michigan research and trucking impacts. Michigan voters heard how new facilities could affect household bills across the state.",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQelJTdUhZNW9WNzhFRGc3aWk2eWotczcxaVo4OW80WDFXdUJKZXlSaWEyTjVFY0dscVk1VmxqX1ZiSi1keHJEVVVvZjRZQlZuY0NCY1B4eXVwOVRJd2xNZ3h3emdueG82STB3Z2htMTkyNmtCbGwzLVhoR3N5YXJlTi1HWnM3LXhPNUk4MEhDaFpJajN0VTNuZ21HUGFGRWx3emhYX2EydGpvMWRfWThua3NQRlZtUXk4OHRZ?oc=5",
-   "source": "MLive.com",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Macomb",
-   "tag": "Policy",
-   "iso": "2026-09-01T11:00:00Z",
-   "id": "cacde7fce813",
-   "origin": "google-news",
-   "source_title": "U-M, truckers and data centers: 3 takeaways from JD Vance’s Michigan visit - MLive.com",
-   "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQelJTdUhZNW9WNzhFRGc3aWk2eWotczcxaVo4OW80WDFXdUJKZXlSaWEyTjVFY0dscVk1VmxqX1ZiSi1keHJEVVVvZjRZQlZuY0NCY1B4eXVwOVRJd2xNZ3h3emdueG82STB3Z2htMTkyNmtCbGwzLVhoR3N5YXJlTi1HWnM3LXhPNUk4MEhDaFpJajN0VTNuZ21HUGFGRWx3emhYX2EydGpvMWRfWThua3NQRlZtUXk4OHRZ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {

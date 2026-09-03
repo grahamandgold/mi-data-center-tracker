@@ -1,25 +1,25 @@
 {
- "updated_at": "2026-09-02T21:57:21+00:00",
+ "updated_at": "2026-09-03T00:02:29Z",
  "generator": "grok-wire-agent",
  "items": [
   {
-   "iso": "2026-09-01T07:25:00+00:00",
+   "iso": "2026-09-01T12:00:00+00:00",
    "region": "west",
    "cat": "Allegan Co.",
    "tag": "Local Government",
-   "title": "West Michigan officials attend closed data center seminar amid protests in Dorr Township",
-   "dek": "More than 100 municipal leaders from Allegan, Barry and Kent counties gathered for a private educational session on data center planning while dozens of residents protested outside with 'No Data Center' signs; Microsoft has eyed land in the township, which remains under moratorium until spring 2027.",
+   "title": "West Michigan Officials Attend Closed Data Center Seminar Amid Protests in Dorr Township",
+   "dek": "More than 100 municipal leaders from Allegan, Barry and Kent counties gathered for a private session on data center planning and zoning while dozens of residents protested outside over Microsoft’s proposed project.",
    "source": "WWMT",
    "url": "https://wwmt.com/news/local/data-center-dorr-township-allegan-county-leighton-gaines-solon-lowell-kalamazoo-west-michigan-seminar-private-code-inspection-zoning-law-wwmt",
    "breaking": false,
-   "lead": true,
+   "lead": false,
    "id": "bc3ebbe4ef59",
    "kind": "story",
-   "filed_at": "2026-09-02T21:57:10+00:00",
+   "filed_at": "2026-09-03T00:01:57+00:00",
    "accuracy": "checked",
-   "judge_score": 6,
-   "judge_note": "Incremental follow-up on the West Michigan closed-door session already live, adding protest detail and attendance numbers but no new decision or filing."
+   "judge_score": 7,
+   "judge_note": "Concrete new event: closed seminar with 100+ officials in West Michigan counties with protest, distinct from earlier generic 'behind closed doors' story."
   }
  ],
- "accuracy_checked_at": "2026-09-02T21:57:16+00:00"
+ "accuracy_checked_at": "2026-09-03T00:02:21+00:00"
 }
