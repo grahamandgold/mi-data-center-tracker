@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbHAzVjFnREpGTTFoLVF0YzRtbzJVQ09sd3o1YzlUZ1B6ZDZSX0FVaUdkQnpSZmR3WFNteXN0VXI1U19ZZWhqT2kzNlhadzVfQ0pEZTlwdU5oaE81NFlOZDc5LUZDeFpGXzN0VUFtcWN2TE9uT3NuV2IwMUpiY0VLMldLYUdRRTF6TlZtc2dSSzZzaXBhd09TekVVR055RmcxOXU4YXE1eG9VRlRLbkp4cVdsZGNQS2s0M2RnR0FrZzV4Y2JrUkJqQzB4NW1oYjJPU2RDOFE4TDkyRGUtNWpBQzhWUUxwa3ctV2g1Yk5QZXg?oc=5",
-   "title": "State dangles tax breaks and power deals to lure data centers",
-   "at": "2026-08-20T03:07:00+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: National trend piece on state incentives with speculative impact."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd0ItVFB6YjJUSzJzT3ZHMTJpUHhuNi1JQ0ZQSnVDSGgtRFBBZ2FVbzdmbnFkNHlZd3lTaVBVUkYzVGh0MjFlZmplSm1CWFQxcWFycEdmZjNtNUpRUXBpNXJSMjdRSEM3M1pYREVFYXNVY1Z6VlUzNFA4SkhZTno3dS1SM0ZVZm91cG0xaWNNMzJaaHo0U25Ta1liVTFrcmd6NnFLTUZhYXhnVFlLVDBfaExJdUxoRlNZaXJiQlhXaHpfam9r?oc=5",
    "title": "Detroit News: 'The Barn' shows how Michigan can host data centers",
    "at": "2026-08-20T03:55:43+00:00",
@@ -1399,15 +1392,16 @@
    "at": "2026-09-03T13:49:56+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Same Hyperscale Data bitcoin-to-AI pivot already covered multiple times in killed stories with identical $1.2B contract detail."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZFBVV1B4UDBlWjdPUWRJb0FHcElIc0p4OERfTzVGUjMtMmNNXy1feVltUks1WXctNzhlUHBJTWtWeVZsLWtaNG9zR1h5THFsc21QdWRUeUl3UmlDeEhOc28zWndldWFQSFRqdFJ1NmhEX1pEQTd1UEI5YU1ucXpEOUZ1UHJGY19IYlhTaHVUSGtZeURvWjhNaG0tcFBnWi02TmJZR1ZocVpHRnRaWm84NWtuRWJNTlVJeXV4ZkVGWUVzMmdVV0xzdXhkS0xqNDFCX2U4?oc=5",
+   "title": "Ionia residents get first look at planned data center before Sept. 9 meeting",
+   "at": "2026-09-03T17:47:50+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: Duplicate of already-live 'Ionia residents get first look at data center power and water risks' — same Sept. 9 meeting preview."
   }
  ],
  "auto_published": [
-  {
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNjNPejlXeHJiUGFZQjlWN1Uwc2ZudUtreXdEd1lfYzgtMDVZVlhuaEd2V0dXZjJnRXV1T1J5LXhjUFpXS2loZ2RSdEJ2bi10d0IwaTNmTWVBV1ZhdzNOYkxVN01pTU5jTXoyRFFFSk1vNUdaeDRSQkx1QjVyYkFFbEdZenZNVC14enJRSmk5Q01HZnVhTWRxbTh6aVk3WE5TNU5uc1dqcHhZXy1VejRaSDFKcE0tTEVtbTNZN2hmSXZXTk9DY2s2QlY2ZUNGWFJYTVc2QzJyTkI2dw?oc=5",
-   "title": "Lyon Township neighbors blast Project Flex noise and traffic ahead of final vote",
-   "judge_score": 7,
-   "at": "2026-07-16T21:12:50Z"
-  },
   {
    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQcmk5dF9jMFNhNG1RSVVjU3JXcUlNUW00LVliRzQ1em82ZmROcHBJN0RiQkhaeTc2NkIybWdOZHFkMjktMERQeFNwcFB5dkY3V0o4S1lDQnMzOF9oRWY0bmZucVlYY3hYRk1fZHBkVmd6T3YxN3B6ZTgwVHNDNC0yN2hhWjNkcWV5dmJ5eG90YUFVNllCWmxlVDZma3ozLUZwRkV3NUgxNlZlUXByYmRwUWVHYjVrRXIwVGMyMlRfWDR3eUlBdF9maEJlVXMwbHdFQjQtQWU4OVdhTXFiSmp0Y3NEMDJoY2FITTZCU016RERKcXhxTk50MVdSeVJrcDhDVU1Fc29DaXlIQXc?oc=5",
    "title": "Six data center firms pledge to cover their own power costs under Whitmer plan",
@@ -3201,6 +3195,12 @@
    "title": "State bill could end tax breaks for new Michigan data centers",
    "judge_score": 7,
    "at": "2026-09-03T04:11:41Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcjNId3QwSjcwTzhFMVR2VEpIdVBfUEo5bHFxUGxka2R1M00tSG5ySjhHMlBzWk4wOHFLdndJMUdhQ2RqRFoxMWxxQ2o3YzhPZ0Z6TTIzczRSZzNLcHJiNVBsaTdEVUUyc0Q4bDlsWkJNTWJPenRsNmZod2VkTVpfRXNsbWhFb0x2bVdqWnZUVEVFR3pIb1dmUmQ1VjY?oc=5",
+   "title": "Township deploys 6-month power freeze to block U-M and Los Alamos data center",
+   "judge_score": 8,
+   "at": "2026-09-03T17:47:50Z"
   }
  ]
 }

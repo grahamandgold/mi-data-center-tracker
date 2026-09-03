@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-09-03T13:49:50+00:00",
+ "updated_at": "2026-09-03T17:47:50Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Township deploys 6-month power freeze to block U-M and Los Alamos data center",
+   "dek": "A Michigan township is using a temporary moratorium on new power connections to stall a proposed data center tied to the University of Michigan and Los Alamos. Residents face the prospect of large-scale electricity and water demands if the project advances. The standoff shows how local governments can slow hyperscale builds even after state-level interest emerges.",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcjNId3QwSjcwTzhFMVR2VEpIdVBfUEo5bHFxUGxka2R1M00tSG5ySjhHMlBzWk4wOHFLdndJMUdhQ2RqRFoxMWxxQ2o3YzhPZ0Z6TTIzczRSZzNLcHJiNVBsaTdEVUUyc0Q4bDlsWkJNTWJPenRsNmZod2VkTVpfRXNsbWhFb0x2bVdqWnZUVEVFR3pIb1dmUmQ1VjY?oc=5",
+   "source": "The Cool Down",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Local Government",
+   "iso": "2026-09-03T09:00:00Z",
+   "id": "fd0eef9ec931",
+   "origin": "google-news",
+   "source_title": "'We will fight to our very last breath': Michigan township uses 6-month power moratorium to stall U-M, Los Alamos data center - The Cool Down",
+   "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcjNId3QwSjcwTzhFMVR2VEpIdVBfUEo5bHFxUGxka2R1M00tSG5ySjhHMlBzWk4wOHFLdndJMUdhQ2RqRFoxMWxxQ2o3YzhPZ0Z6TTIzczRSZzNLcHJiNVBsaTdEVUUyc0Q4bDlsWkJNTWJPenRsNmZod2VkTVpfRXNsbWhFb0x2bVdqWnZUVEVFR3pIb1dmUmQ1VjY?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "State bill could end tax breaks for new Michigan data centers",
    "dek": "A proposed state law would limit local tax abatements that data-center developers have used to cut costs. Michigan towns have relied on those breaks to lure projects promising jobs and investment. Residents could see higher local taxes or fewer incentives if the legislation passes.",
@@ -167,23 +184,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMFY0WGtidml5N2lXM0RLOE1yLTdBb0l1eUJuejhnZzlpNkdDTmIwbTZmUThIYnFha1EzTWNtb3l2ZXMzUFJhQ0x0djNwOXA3TjFUZGV2cG1ITUNtTndoZ0RjMXotZERkaGJYOV9sYVRZV2dKODN5Rk05NktpbnIzZjlPWEpraGtIUTV5UEdvd3NHUG1SZkNfaVBDS3pIa1Roa01rMGtxM1FRWkc3Y3FXdS1QRnBGVTBS?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Runestad pushes to end sales-tax breaks for new data centers",
-   "dek": "The Michigan senator wants to repeal exemptions that shield hyperscale projects from state taxes. The move could shift more costs onto residents and local governments. Lawmakers will weigh revenue gains against job and investment arguments.",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc1FhdFpzaHEyalVvUXZQOFJ1ZjZVZTRoNDl0RUo2d0RGZTRseVREUjA1b1Q0UFptbzIxalNTOGtING9zdFViSUJmUHNHZlFrTmVYREFzNnR0RmJldE1ac3dVSG9tTDVSTTNxczNlQVNaWWpGWkFwOUJxWmd3T2FXRG02a183V1RZUlBaNGE1RW5qc1pzbTNvSGln?oc=5",
-   "source": "Michigan Senate Republicans",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Policy",
-   "iso": "2026-09-01T21:11:30Z",
-   "id": "3c02fd668de8",
-   "origin": "google-news",
-   "source_title": "Runestad seeks to repeal data center sales and use tax exemptions - Michigan Senate Republicans",
-   "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc1FhdFpzaHEyalVvUXZQOFJ1ZjZVZTRoNDl0RUo2d0RGZTRseVREUjA1b1Q0UFptbzIxalNTOGtING9zdFViSUJmUHNHZlFrTmVYREFzNnR0RmJldE1ac3dVSG9tTDVSTTNxczNlQVNaWWpGWkFwOUJxWmd3T2FXRG02a183V1RZUlBaNGE1RW5qc1pzbTNvSGln?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8
   }
  ],
  "national": {
