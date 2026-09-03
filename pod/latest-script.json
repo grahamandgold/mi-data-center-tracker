@@ -1,10 +1,10 @@
 {
- "title": "Evenings with Graham & Emmy",
- "teaser": "Hyperscale Data switches to AI in Cass Co as communities weigh power, water and tax impacts.",
+ "title": "Mornings with Graham & Emmy",
+ "teaser": "Hyperscale shuts down Bitcoin ops for a $1.2B AI deal in Dowagiac—plus the bigger fight over local control and costs.",
  "lines": [
   {
    "host": "Graham",
-   "text": "Good evening, and welcome to Evenings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
+   "text": "Good morning, and welcome to Mornings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
   },
   {
    "host": "Emmy",
@@ -12,206 +12,202 @@
   },
   {
    "host": "Graham",
-   "text": "Tonight we're zeroing in on Hyperscale Data's shift in Cass County from Bitcoin mining to AI operations, and how it fits into the bigger statewide tug-of-war over who pays for the power and water these facilities demand."
+   "text": "It's Thursday, September 3, and yesterday a big shift happened out in Cass County that ties right into the fights we've been tracking all summer."
   },
   {
    "host": "Emmy",
-   "text": "So Graham, walk me through what happened today with this announcement."
+   "text": "Yeah, Hyperscale Data just flipped the switch on its Dowagiac site from Bitcoin mining to AI compute."
   },
   {
    "host": "Graham",
-   "text": "Hyperscale Data is shutting down all its Bitcoin miners at the Michigan site effective September 1. They're moving under a master services agreement that could bring in 1.2 billion dollars, with options that might push the total to 3 billion. The AI work would use up to 20 percent of the facility's 340 megawatt capacity."
+   "text": "Exactly. They shut down all the miners effective September 1 under a master services agreement that could bring in 1.2 billion dollars, with options pushing toward 3 billion."
   },
   {
    "host": "Emmy",
-   "text": "Why does switching from mining to AI matter for the rest of us? Aren't both power hogs?"
+   "text": "And they're only using about 20 percent of the site's eventual 340 megawatt capacity. So this feels like the start of something bigger."
   },
   {
    "host": "Graham",
-   "text": "They are, but AI workloads tend to run more consistently and at higher intensity than crypto mining, which can ramp up and down. That steady draw puts real pressure on the grid, especially when you add cooling needs that pull water from local supplies."
+   "text": "It does. The company is reallocating power that was going to crypto hashing over to AI workloads for a California neocloud customer. First 20 megawatts online later this year, with room to scale."
   },
   {
    "host": "Emmy",
-   "text": "And Cass County is in southwest Michigan, right? How does this connect to the fights we're seeing in Ionia, Decatur, or even Detroit?"
+   "text": "Graham, walk me through why this pivot matters beyond just one company. We've seen Michigan towns wrestling with these projects for months now."
   },
   {
    "host": "Graham",
-   "text": "Exactly. The same concerns about electricity rates, groundwater, and land use are popping up everywhere a project gets proposed. Residents 30 miles away from Ionia are already asking questions because new facilities could push up bills and strain aquifers."
+   "text": "Well, this site in Dowagiac has been a Bitcoin operation for a while, and the shift shows how the economics are changing fast. AI contracts look steadier and higher margin than mining, especially with long-term deals like this one."
   },
   {
    "host": "Emmy",
-   "text": "What's the history here? Have these projects been moving fast, or has there been pushback building for a while?"
+   "text": "But the power demands are still massive. A gigawatt-scale campus uses as much electricity as a small city. How does that hit regular ratepayers?"
   },
   {
    "host": "Graham",
-   "text": "It's been building. Places like Ypsilanti debated a year-long pause just yesterday, Decatur residents clashed over taxes, noise, and grid impacts, and Detroit groups are calling for a freeze while rules get written. The pattern is communities trying to get ahead of proposals instead of reacting after plans are filed."
+   "text": "That's the core concern. Utilities like Consumers Energy are already upgrading infrastructure in places like West Michigan to handle surging loads from data centers and other big users."
   },
   {
    "host": "Emmy",
-   "text": "Who are the main players in Cass County and beyond?"
+   "text": "And we know from other stories that new rules could limit the tax abatements towns have used to attract these projects. If those breaks shrink, do residents end up paying more locally?"
   },
   {
    "host": "Graham",
-   "text": "On one side you have the company, Hyperscale Data, promising big revenue and possible expansion. On the other, local residents, township boards, and utilities like Consumers Energy that have to upgrade infrastructure. Then there are lawmakers weighing in on taxes and local control."
+   "text": "That's what the proposed state bill aims to address. It would cap local tax incentives that developers have relied on, which could mean higher property taxes or fewer sweeteners for communities."
   },
   {
    "host": "Emmy",
-   "text": "How do these projects typically affect electric bills for regular folks?"
+   "text": "At the same time, Congressman John James has been vocal lately pushing for local control, even though his past votes went the other way on letting cities decide."
   },
   {
    "host": "Graham",
-   "text": "The upgrades needed to serve a 340 megawatt user don't come cheap. Utilities spread those costs across all ratepayers, so even if the data center pays its share, households often see increases. That's why Mike Rogers called yesterday for a statewide pause until utilities prove they can handle the load without hikes."
+   "text": "Right, a new report shows he voted four times against measures that would have given more say to townships. Now he's arguing communities should set their own rules."
   },
   {
    "host": "Emmy",
-   "text": "And water? I keep hearing about cooling systems."
+   "text": "That tension is playing out everywhere. Look at Washtenaw County, where the University of Michigan is moving ahead with a billion-dollar nuclear research facility in Ypsilanti despite local pushback, much like the OpenAI-related project in Saline."
   },
   {
    "host": "Graham",
-   "text": "Data centers use millions of gallons for evaporative cooling. In areas already watching groundwater levels, that adds up fast. St. Clair County is holding a workshop soon specifically on noise, air, and water risks for that reason."
+   "text": "And in Ionia, residents got their first public look yesterday at the power and water risks before any formal proposals even land. They're trying to get ahead of it."
   },
   {
    "host": "Emmy",
-   "text": "What about farmland and small towns? Does the land use change the character of these places?"
+   "text": "St. Clair County has a workshop coming up on health impacts like noise, air, and water strain. These meetings are happening because people 30 or 60 miles away are starting to connect the dots on grid pressure and groundwater."
   },
   {
    "host": "Graham",
-   "text": "It can. A large campus takes acres that might have been farming or open space. Supporters point to jobs and tax revenue, but opponents worry about higher property taxes for neighbors and the loss of rural feel. Decatur's debate yesterday showed both sides clearly."
+   "text": "Exactly. A township in Oakland County is also heading to court to defend its rejection of a power-hungry campus, and another city says new zoning rules have already killed a developer's lawsuit."
   },
   {
    "host": "Emmy",
-   "text": "So what happens next with this Cass County site?"
+   "text": "So the Hyperscale move in Cass County is part of this larger wave. The site was already there for mining, but converting it to AI keeps the power demand and adds the cooling needs that come with high-performance compute."
   },
   {
    "host": "Graham",
-   "text": "The company has room to expand within that 20 percent capacity slice. If AI demand keeps growing, we could see more phases. Meanwhile, other townships are watching to see if they need stricter zoning before similar proposals land."
+   "text": "And with Michigan having more local moratoriums than any other state right now, developers are looking for sites that are already permitted or easier to adapt."
   },
   {
    "host": "Emmy",
-   "text": "And how does this fit with the tax break debate?"
+   "text": "What happens next for Dowagiac specifically? The company has said it might keep some mining in Montana, but Michigan is clearly the focus for the AI transition."
   },
   {
    "host": "Graham",
-   "text": "Senator Runestad pushed yesterday to end sales-tax exemptions for new data centers. That could mean more revenue for the state but also higher costs passed along if projects slow down or get more expensive to build."
+   "text": "They plan to retrofit sections of the 617,000-square-foot campus and have already bought adjacent land. The initial deal taps 20 megawatts now, with options for more, all while the full site could eventually hit 340 megawatts."
   },
   {
    "host": "Emmy",
-   "text": "Rep. James is arguing for local control instead. What's the tension there?"
+   "text": "That scale is what worries folks in places like Ionia or St. Clair. Even 20 percent of capacity is a lot of load on the grid."
   },
   {
    "host": "Graham",
-   "text": "He wants cities and townships to set their own rules. Some see that as protecting community voices; others note his past federal votes leaned toward limiting local authority. The shift could change how approvals happen across Michigan."
+   "text": "And it ties directly into those tax break debates. If the new bill passes, future projects might not get the same abatements that helped lure this one."
   },
   {
    "host": "Emmy",
-   "text": "Bottom line for listeners 30 or 60 miles away from Cass County?"
+   "text": "Residents could see higher local taxes or just fewer incentives overall. Meanwhile, the power and water questions remain front and center."
   },
   {
    "host": "Graham",
-   "text": "The same dynamics are playing out statewide. Power demand is rising, water is finite, and towns are scrambling to write rules before the next proposal arrives."
+   "text": "We've heard from multiple communities that data centers can strain drinking supplies and push up rates if the utility has to build new generation or lines."
   },
   {
    "host": "Emmy",
-   "text": "Thanks for laying that out. Let's move to some quick hits from around the state."
+   "text": "So is this pivot a sign that AI is the future here, or just one company's move while others keep pushing crypto or mixed uses?"
   },
   {
    "host": "Graham",
-   "text": "Starting with Ionia. Residents there got their first look today at potential data center power and water risks during a proactive public meeting, even though no formal proposals have arrived yet."
+   "text": "It looks like a broader trend. The revenue numbers on these AI contracts are drawing companies away from volatile mining toward steady colocation deals."
   },
   {
    "host": "Emmy",
-   "text": "And 30 miles away people are paying attention because rates and groundwater could be affected. Smart move to get ahead of it."
+   "text": "And with 19 or more townships already paused, the next wave of projects will face even tighter scrutiny on zoning and resources."
   },
   {
    "host": "Graham",
-   "text": "Next, St. Clair County. Locals will hear about health risks like noise, air, and water impacts at an upcoming workshop. The discussion could shape zoning fights in southeast Michigan."
+   "text": "That's why the Ionia meeting and the St. Clair workshop matter. They're giving residents a chance to shape rules early."
   },
   {
    "host": "Emmy",
-   "text": "Power grid strain and drinking water supplies are the big worries if projects advance there."
+   "text": "Graham, how many of these sites are we talking about statewide right now?"
   },
   {
    "host": "Graham",
-   "text": "Rep. James is out today pushing local control over data center rules. He says cities and townships should decide for themselves."
+   "text": "At least a dozen proposals in various stages, from West Michigan to southeast counties, with big names like Google and others evaluating spots."
   },
   {
    "host": "Emmy",
-   "text": "That could reshape approvals statewide depending on how it lands with other lawmakers."
+   "text": "And the Consumers Energy work on Cherry Street is one example of the grid upgrades already underway to keep up."
   },
   {
    "host": "Graham",
-   "text": "Yesterday Consumers Energy started work on Cherry Street to bolster the grid for rising loads from data centers and other big users. West Michigan customers may see more construction and rate impacts down the road."
+   "text": "West Michigan customers might see more construction and, down the line, rate impacts tied to that demand growth."
   },
   {
    "host": "Emmy",
-   "text": "Tied directly to the surging demand we're talking about."
+   "text": "Putting it together, the Hyperscale shift shows the industry adapting, but the local fights over control, costs, and resources are only heating up."
   },
   {
    "host": "Graham",
-   "text": "Senator Runestad also moved yesterday to repeal sales-tax breaks for new data centers. The idea is to shift more costs onto residents and local governments instead of giving exemptions."
+   "text": "We'll keep watching how the state bill on tax breaks moves and what the court cases in Oakland and elsewhere decide."
   },
   {
    "host": "Emmy",
-   "text": "Lawmakers will have to balance that revenue against the job and investment arguments."
+   "text": "Now let's hit the other stories from yesterday quickly."
   },
   {
    "host": "Graham",
-   "text": "In Decatur yesterday, residents clashed over a proposed campus, focusing on property taxes, noise, and the power grid. Supporters highlight jobs; neighbors fear higher utility bills and water use."
+   "text": "First up, that state bill limiting tax abatements for new data centers. Towns have used those breaks to compete for jobs and investment, but if it passes, locals could face higher taxes or fewer incentives."
   },
   {
    "host": "Emmy",
-   "text": "Sounds like a test case for other small towns facing similar proposals."
+   "text": "And the report on Congressman James voting against local control measures four times before. Voters in competitive districts might weigh that in the midterms."
   },
   {
    "host": "Graham",
-   "text": "Detroit residents are facing blackout risk concerns as groups demand a freeze on new data centers while the city writes rules on power and water use."
+   "text": "In Washtenaw, the University of Michigan is pressing ahead with its Ypsilanti project over community objections, echoing the Saline pattern."
   },
   {
    "host": "Emmy",
-   "text": "A moratorium would give time to assess impacts on ratepayers and neighborhoods."
+   "text": "A city is arguing its updated zoning makes a developer's lawsuit over a blocked project moot. The outcome could decide if the company restarts or drops it."
   },
   {
    "host": "Graham",
-   "text": "Mike Rogers called yesterday for a statewide pause on new construction until utilities can prove they can handle the added thousands of megawatts without hiking bills."
+   "text": "Ionia residents got an early briefing on power and water risks yesterday, even before proposals arrive. Smart move for a community 30 miles from potential sites."
   },
   {
    "host": "Emmy",
-   "text": "Voters across parties have voiced concern over who ultimately pays for the upgrades."
+   "text": "An Oakland County township is asking a judge to toss a developer's suit after rejecting a big campus. The ruling could set precedent for other communities."
   },
   {
    "host": "Graham",
-   "text": "And in Ypsilanti yesterday, city leaders weighed a year-long halt on standalone data center proposals. Residents worry about electricity rates and water supply."
+   "text": "St. Clair County has a public session coming on noise, air, and water health risks from proposed centers."
   },
   {
    "host": "Emmy",
-   "text": "That would buy time to craft permanent zoning rules."
+   "text": "And Rep. James is now pushing local control, which contrasts with his earlier federal votes."
   },
   {
    "host": "Graham",
-   "text": "Let's look ahead to what's coming up for listeners who want to get involved."
+   "text": "Finally, Consumers Energy started Cherry Street upgrades tied to rising loads from data centers and others."
   },
   {
    "host": "Emmy",
-   "text": "St. Clair County has that public workshop on health and environmental risks scheduled soon. It's a chance for locals to weigh in before any projects move forward."
+   "text": "Those are the quick hits. Now, on deck for listeners who want to weigh in."
   },
   {
    "host": "Graham",
-   "text": "Ionia's meeting today gave residents an early seat at the table. Other townships are likely watching how that went."
+   "text": "Ionia's proactive meeting already happened, but St. Clair County's workshop on health impacts is coming up soon."
   },
   {
    "host": "Emmy",
-   "text": "And keep an eye on council sessions in places like Ypsilanti if they follow up on the pause discussion."
+   "text": "And keep an eye on any follow-up sessions in Oakland or Washtenaw as those court and university projects develop."
   },
   {
    "host": "Graham",
    "text": "Full sources and the live map at the Michigan Data Center Tracker. We're back tomorrow."
-  },
-  {
-   "host": "Emmy",
-   "text": "Good night, everyone."
   }
  ],
- "episode_title": "Cass County Pivot: Hyperscale Data Trades Bitcoin for AI Amid Growing Local Pushback",
- "show": "Evenings with Graham & Emmy",
- "daypart": "Evenings"
+ "episode_title": "From Bitcoin Mines to AI Hubs: Hyperscale's Cass County Pivot and What It Means for Michig",
+ "show": "Mornings with Graham & Emmy",
+ "daypart": "Mornings"
 }
