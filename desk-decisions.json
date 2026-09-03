@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRHRnMHNuWG40dGdUUUZsYWlSc0I2S3hTQ3hFRlBwdzNpNU5QX2F6UjlWZmt6ZkNxWUpuOC1IZVF3Ti1DMVJQZEc1SzhUZTJQbmsxWTIwT1AxQy1RUFJWM1NjNXlvdWVpZndQV1hGWmNjZGk3OTllVlJoR010a1RJdXFZY3VVQlN0cFdqWWI5c25FV0tMd3BHWXRtVE1feWg0dmZQY0tmYy1yakwxTFB0VVdVQngtR253M2lYZ09YVDlDZzFyTHVzWQ?oc=5",
-   "title": "Forsyth Township residents slam data center plans at Sawyer town hall",
-   "at": "2026-08-20T03:07:00+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: Rehash of Forsyth Township residents' concerns already covered."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbHAzVjFnREpGTTFoLVF0YzRtbzJVQ09sd3o1YzlUZ1B6ZDZSX0FVaUdkQnpSZmR3WFNteXN0VXI1U19ZZWhqT2kzNlhadzVfQ0pEZTlwdU5oaE81NFlOZDc5LUZDeFpGXzN0VUFtcWN2TE9uT3NuV2IwMUpiY0VLMldLYUdRRTF6TlZtc2dSSzZzaXBhd09TekVVR055RmcxOXU4YXE1eG9VRlRLbkp4cVdsZGNQS2s0M2RnR0FrZzV4Y2JrUkJqQzB4NW1oYjJPU2RDOFE4TDkyRGUtNWpBQzhWUUxwa3ctV2g1Yk5QZXg?oc=5",
    "title": "State dangles tax breaks and power deals to lure data centers",
    "at": "2026-08-20T03:07:00+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-09-03T04:11:41+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Duplicate of already-live 'UM Ypsilanti Data Center Overrides Local Opposition Like OpenAI in Saline' — same UMich facility and energy concerns."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRmxYcWNjXzlsTkpsTlpJV290Y3NiUGJtQ2UwWmFsYUZNSEFnNEo5bmY4UE1Xa3MyYnJVZ1FYTDdhcW05NkFqTFkzQnlPbTB3WURBMzMwY2RKSU53UFFNbEQyNlAtSUlETF9PR0tmWS1ONGJSeXdLTU1KeENwSkhmWHRQUmxLb2VZbFgyM1FobzE2Q1JhQ2V6WENiNUdzcVNzVXhCRnN1Z1pBNHRqWm1J?oc=5",
+   "title": "Hyperscale ends Michigan bitcoin mining to chase $1.2B AI contract",
+   "at": "2026-09-03T13:49:56+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Same Hyperscale Data bitcoin-to-AI pivot already covered multiple times in killed stories with identical $1.2B contract detail."
   }
  ],
  "auto_published": [

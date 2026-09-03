@@ -1,7 +1,28 @@
 {
- "updated_at": "2026-09-03T09:08:23+00:00",
+ "updated_at": "2026-09-03T13:49:56+00:00",
  "generator": "grok-wire-agent",
  "items": [
+  {
+   "title": "Alpena planners float one-year pause on new data centers",
+   "dek": "The commission is drafting rules that would block proposals while the city studies power and water limits. A moratorium would give residents time to review how large facilities affect their electric bills and lake levels. The move follows similar steps in other northern Michigan communities facing the same pressure.",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVlhUZnh6cDhUeU9jM0RIdnlKeE8zdWc4Z01YbWx2ZFJhRXFoXzdaRjMxT29TbDVON3NGa0dBS3lYcmtpLTdXa01sVktubEU3OWtScVk4SUhUNDRNWDlGUFZKbGRWN09xdk5IZWtKb2w4cDlzenRxNHZMR1FCd1lYSlYzb3BmN1Uwdmh3WkZQZWlGV05sZTdXUEV4LWxINi12d09qbjg5dDBHYzA?oc=5",
+   "source": "The Alpena News",
+   "region": "north",
+   "cat": "STATEWIDE",
+   "county": "Alpena",
+   "tag": "Local Government",
+   "iso": "2026-09-02T05:32:46Z",
+   "kind": "story",
+   "id": "edb568bf9e1b",
+   "filed_at": "2026-09-03T13:49:02Z",
+   "origin": "google-news",
+   "headline_rewritten": true,
+   "source_title": "Planning commission discusses data center moratorium - - The Alpena News",
+   "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVlhUZnh6cDhUeU9jM0RIdnlKeE8zdWc4Z01YbWx2ZFJhRXFoXzdaRjMxT29TbDVON3NGa0dBS3lYcmtpLTdXa01sVktubEU3OWtScVk4SUhUNDRNWDlGUFZKbGRWN09xdk5IZWtKb2w4cDlzenRxNHZMR1FCd1lYSlYzb3BmN1Uwdmh3WkZQZWlGV05sZTdXUEV4LWxINi12d09qbjg5dDBHYzA?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7,
+   "judge_note": "Concrete new development: Alpena commission is actively drafting a moratorium with specific rules, distinct from the killed generic warning story about costs."
+  },
   {
    "title": "Saline mayor hopefuls split on Oracle tax deal and campus size",
    "dek": "Candidates differ sharply on whether to grant Oracle a 12-year tax break for its proposed $43 billion data center complex. One side argues the project will overwhelm roads and wells; the other says the jobs and revenue are too big to lose. Saline voters will decide which vision prevails in November.",
@@ -24,5 +45,5 @@
    "judge_note": "Concrete new development: mayoral candidates taking public positions on a specific tax deal for the Oracle project represents a real campaign issue and policy d"
   }
  ],
- "accuracy_checked_at": "2026-09-03T09:08:23+00:00"
+ "accuracy_checked_at": "2026-09-03T13:49:52+00:00"
 }
