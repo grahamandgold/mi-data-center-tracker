@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMVBVRXNTOEU1SUU0R1k5MHhPREdBSEZKT1JVTTcxTkdBMmp1VXVzQk9rMDRDYmZzTmxQWjljaHNWckJCakp3bktMa3lyV2lGOXl2bm9Jd2hNcDdyenk3bTNRMWVtXzRQVmtvVG9CQlBGQ2tTR1FYdjF3ZU9ZdlFYX0FGSHZzak96QmlKdlR2ZFhNMWFjazRvRFppRmFhMkFScTJhbjVDQlJwSzItbmlEZldEOHExUXM4Y1dzOXFPclA1Zlh0WDZHWjJ1VENsNkJx?oc=5",
-   "title": "Forsyth Twp residents blast data center plans at packed town hall",
-   "at": "2026-08-20T11:58:21+00:00",
-   "by": "news_judge",
-   "note": "score 3/10, duplicate: Duplicate of killed story about Forsyth Township residents opposing data centers."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaUdxdC1zb2ZnRlBPNmQzV0xSX19wS3lJbWppVnFwZFVoUGtmbUdXako4Qk5iT2hDUzlzREtGRlRUX3Q0T1lvRWQ3SEpvbHFmYmFZbXJ6cUg1bV9Jc3FuWXFlU294OUk0bnU1LUt2ZXRQVDQ1cnpEc2xzamFQUTlSTXFpUmNwTjNoTnQxQ2NBcmRVYkxxNWNWeGdYUjFFUQ?oc=5",
    "title": "Gibraltar developers sue to overturn data center building freeze",
    "at": "2026-08-20T13:55:22+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-09-04T16:15:38+00:00",
    "by": "news_judge",
    "note": "score 5/10: Campaign rhetoric about data center costs in Mason race, but no new policy action beyond the already-live recall drive."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdFpJTXdKYi0zM3RaamdIU1ZjZHViaUUzVmY3S2FyTml1bmR6aEZmVzZZMC1OdC1zcS1rdzdpQWliUV9kanllRm95VTJJSlBfRUl1Zmc3WGN5eGZTNHhEd0hmZE5EdlVPbmRnVFhwU295YmZQZ1dvcF9hYzZPZWNwaUl6M3NYRlpGWlVvVmpiTmdTZ0o3NzEydmFFMi1CQzh4ZHBLWVZtT19MYllv0gGsAUFVX3lxTE90WklNd0piLTMzdFpqZ0hTVmNkdWJpRTNWZjdLYXJOaXVuZHpoRmZXNlkwLU50LXNxLWt3N2lBaWJRX2RqeWVGb3lVMklKUF9FSXVmZzdYY3l4ZlM0eER3SGZkTkR2VU9uZGdUWHBTb3liZlBnV29wX2FjNk9lY3BpSXozc1hGWkZaVW9WamJOZ1NnSjc3MTJ2YUUyLUJDOHhkcEtZVm1PX0xiWW8?oc=5",
+   "title": "Mason candidates clash over data center jobs versus power costs",
+   "at": "2026-09-04T19:06:07+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: This is the same Mason mayoral race/data center debate already killed as 'Mason candidates clash over who pays for data center power spikes'—just reworded with "
   }
  ],
  "auto_published": [
