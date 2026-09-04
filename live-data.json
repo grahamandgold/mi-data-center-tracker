@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-09-04T21:24:46+00:00",
+ "updated_at": "2026-09-04T23:14:10Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Garfield Twp to spend a year crafting data center rules",
+   "dek": "Garfield Township supervisors will take 12 months to draft zoning and permitting standards for data centers. Residents in Grand Traverse County could see limits on power demand, noise, and water use before any project advances. The delay gives locals time to weigh impacts on taxes, traffic, and the local grid.",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORl93dUhjTEVKdzUyQlVudWtQczFobjhwME00TGNoem5faTlZaDVFT29sQ1Z6WDFKQ2VvZncxNC1OcHd6VTBIQ0NaUjB2SjdfLV9jQjYzNGQybXpwS21vVjNBdUlRR1F2ejBXV2QwaEdWVDBBRHI3MkxJeU1oRF9OWlU5blpQVUVEeUdwUXl3clFad0dYdlFrakVHNVhBRXgydkRFTUlGQkg1N0lJUFBHNFNRN3VNbGlOUUpr?oc=5",
+   "source": "9and10News.com",
+   "region": "north",
+   "cat": "STATEWIDE",
+   "county": "Grand Traverse",
+   "tag": "Local Government",
+   "iso": "2026-09-04T22:19:04Z",
+   "id": "7c6272d24fbc",
+   "origin": "google-news",
+   "source_title": "Garfield Township plans on spending a year deciding how to regulate data centers - 9and10News.com",
+   "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORl93dUhjTEVKdzUyQlVudWtQczFobjhwME00TGNoem5faTlZaDVFT29sQ1Z6WDFKQ2VvZncxNC1OcHd6VTBIQ0NaUjB2SjdfLV9jQjYzNGQybXpwS21vVjNBdUlRR1F2ejBXV2QwaEdWVDBBRHI3MkxJeU1oRF9OWlU5blpQVUVEeUdwUXl3clFad0dYdlFrakVHNVhBRXgydkRFTUlGQkg1N0lJUFBHNFNRN3VNbGlOUUpr?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Mid-Michigan residents get first look at data center power and water demands",
    "dek": "A university-hosted town hall will lay out how proposed data centers could affect local electricity rates and aquifer levels. Residents within 30 miles will hear concrete numbers on megawatts and daily water use. The session gives nearby communities a chance to question developers before projects advance.",
@@ -169,23 +186,6 @@
    "origin": "google-news",
    "source_title": "New recall effort launched against Mason Mayor Russell Whipple - lansingstatejournal.com",
    "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMnNIOU1MMDhEQ29aa3NHTlpYSVZMWldCN0FvUlZUcm9TYllEVXJtWjRPbXVsbDI4eXN4Y08wUlFKeW92dk44RXRIeXJaWXFld1NLNkVYTXF4WXpvbktSbXdTT3hiLXhBaVl0alE2dTAzWGlHRF9VZ2tQdUFOMU1pdGdUQWJ1UGVMQm5yX20tM2wzSGdlVlBqWkZUdUlsM08zYUJZeFRVNzh5a25wN1R0RmNXYkdwODFNQ2JlOFZ2aFNuT3g0R1Y1T1IzT09pQkkwZU9uQ1VITXY4a3FiLXhKWHdsVExlRG5kZGlz?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 9
-  },
-  {
-   "title": "Zeeland Township blocks new data centers and power projects for a year",
-   "dek": "The board approved a moratorium on both data centers and related energy facilities after hearing concerns about noise, water use and tax breaks. Ottawa County residents could face rushed decisions on big projects if the pause is lifted early. The move gives planners time to write permanent rules.",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdUcweTdEeUxRdjVhbHRqZU5mM3RvbWtMaGY1OHNoNnE5R090ZzFUZjNrZ2RRbEhLS0h6VEtSN2NNTFBVN1BJbTF5cnUyTTVObm9uSEdqcUJ0aE5GU2REejltaGtrUnVBdHdGZWcwdThIdGluYzRWMHRfU2M5RVJta1kyQzZPTTNyVEZRQ21sRWNNUzk1c05TMW13YlVSQVR6bWtNVHRfM0tXbzc1bTBpb1Q3SDJJR0lrQ1IzSk9RZnNWeHM5RVFVRnV0X3dGcm9mV1Fka3dMTXBBWkJ6YWJEcElKNGc1TC1KVkt1RlpB?oc=5",
-   "source": "The Holland Sentinel",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Ottawa",
-   "tag": "Local Government",
-   "iso": "2026-09-03T15:02:00Z",
-   "id": "299ba696ebc7",
-   "origin": "google-news",
-   "source_title": "Zeeland Township approves data center, energy facilities moratorium - The Holland Sentinel",
-   "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdUcweTdEeUxRdjVhbHRqZU5mM3RvbWtMaGY1OHNoNnE5R090ZzFUZjNrZ2RRbEhLS0h6VEtSN2NNTFBVN1BJbTF5cnUyTTVObm9uSEdqcUJ0aE5GU2REejltaGtrUnVBdHdGZWcwdThIdGluYzRWMHRfU2M5RVJta1kyQzZPTTNyVEZRQ21sRWNNUzk1c05TMW13YlVSQVR6bWtNVHRfM0tXbzc1bTBpb1Q3SDJJR0lrQ1IzSk9RZnNWeHM5RVFVRnV0X3dGcm9mV1Fka3dMTXBBWkJ6YWJEcElKNGc1TC1KVkt1RlpB?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 9
   }

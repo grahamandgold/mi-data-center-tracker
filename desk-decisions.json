@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaUdxdC1zb2ZnRlBPNmQzV0xSX19wS3lJbWppVnFwZFVoUGtmbUdXako4Qk5iT2hDUzlzREtGRlRUX3Q0T1lvRWQ3SEpvbHFmYmFZbXJ6cUg1bV9Jc3FuWXFlU294OUk0bnU1LUt2ZXRQVDQ1cnpEc2xzamFQUTlSTXFpUmNwTjNoTnQxQ2NBcmRVYkxxNWNWeGdYUjFFUQ?oc=5",
-   "title": "Gibraltar developers sue to overturn data center building freeze",
-   "at": "2026-08-20T13:55:22+00:00",
-   "by": "news_judge",
-   "note": "score 1/10, duplicate: Duplicate of already killed stories about Gibraltar developers suing over data center moratorium."
-  },
-  {
-   "url": "https://www.axios.com/2026/08/19/ai-power-data-center-electricity-construction",
-   "title": "Data center backlash intensifies nationwide as AI power demand surges",
-   "at": "2026-08-20T14:45:19+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece with limited new information specific to Michigan."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVVpXS3JGY2ljRWl1SGNlQ2pDdDFuVU1XZkREcTE2YzM4SE0xZGlvckxDZEJPV0tVTWJoanh4dW9qTlRkYWZ4eUhFMHFMSUZWZTJhM3RNWEdxSkp2UUZRX2FsYXBVWURDQXNRem5lM2tmNjRCaFpVcklPVlhNQ3Z6b1B0M2Z3dEQ4bnI2U19leG83QnNnT1pMRk10M2tMZG55VEVHSUNFN09FWVA3RHBVRVNUVGd1U1l6U0lsWVdIRElCQTQ3R2fSAdoBQVVfeXFMUFg5WFZzUFlTQkJyUkZMZGFLcmlpUVRFZjgyNDJ2RTVJdEhHSkthRE13VkhRQlhVYnpVSFpJS05UVDV4cThzRTNxeE5GeXQ1dE5OY2Y3Y1hValJrSTZhOWZ3a1B2UTVaLUxoSFNPX1BNRGpBUnhkb3NMSlhIeEZQN2xrVVJOeTVJVzM3dWh1VzM4a0JpZ1cxOTY1VVJkSkNNM0lMQWQ1QS1ENVJ3QVBfWlFqcmRoaTFHX3hmZ19fd1N1ZXM4R21oQjRyTU5rWjFzUmNYeTlhQmFRWWc?oc=5",
    "title": "Developer sues Gibraltar to overturn year-long data center ban",
    "at": "2026-08-20T14:45:19+00:00",
@@ -1399,15 +1385,23 @@
    "at": "2026-09-04T19:06:07+00:00",
    "by": "news_judge",
    "note": "score 3/10, duplicate: This is the same Mason mayoral race/data center debate already killed as 'Mason candidates clash over who pays for data center power spikes'—just reworded with "
+  },
+  {
+   "url": "https://wowo.com/michigan-data-center-tax-breaks-could-be-repealed-under-new-state-legislation/",
+   "title": "Runestad Targets Data Center Tax Breaks Over Secrecy",
+   "at": "2026-09-04T23:14:10+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: Same Runestad tax-break repeal effort already killed multiple times in the director's queue."
+  },
+  {
+   "url": "https://www.utilitydive.com/news/dte-data-center-deal-transformational-growth-earnings/804231/",
+   "title": "DTE Energy Finalizes First Major Data Center Power Contract as Utilities Nationwide Brace for AI Load Growth",
+   "at": "2026-09-04T23:14:10+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: National trend piece with thin Michigan angle (DTE contract mention) and broad industry statistics rather than concrete Michigan development."
   }
  ],
  "auto_published": [
-  {
-   "url": "https://www.calcalistech.com/ctechnews/article/r1yve0pvfl",
-   "title": "Saline Township Locals Resist $16B Stargate Data Center Over Water and Farmland",
-   "judge_score": 6,
-   "at": "2026-07-18T10:03:25Z"
-  },
   {
    "url": "https://www.thecooldown.com/green-tech/warren-city-council-data-center-pause/",
    "title": "Warren Freezes New Data Centers After Storms Down 60+ Power Lines",
@@ -3201,6 +3195,12 @@
    "title": "Mid-Michigan residents get first look at data center power and water demands",
    "judge_score": 6,
    "at": "2026-09-04T16:15:38Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORl93dUhjTEVKdzUyQlVudWtQczFobjhwME00TGNoem5faTlZaDVFT29sQ1Z6WDFKQ2VvZncxNC1OcHd6VTBIQ0NaUjB2SjdfLV9jQjYzNGQybXpwS21vVjNBdUlRR1F2ejBXV2QwaEdWVDBBRHI3MkxJeU1oRF9OWlU5blpQVUVEeUdwUXl3clFad0dYdlFrakVHNVhBRXgydkRFTUlGQkg1N0lJUFBHNFNRN3VNbGlOUUpr?oc=5",
+   "title": "Garfield Twp to spend a year crafting data center rules",
+   "judge_score": 7,
+   "at": "2026-09-04T23:14:10Z"
   }
  ]
 }
