@@ -1,10 +1,10 @@
 {
- "title": "Evenings with Graham & Emmy",
- "teaser": "Lenox Twp pushes back on secret data center deals over power, noise and farmland.",
+ "title": "Mornings with Graham & Emmy",
+ "teaser": "Rural landowner wants city annexation for a data center—what it means for taxes, farmland, and local power.",
  "lines": [
   {
    "host": "Graham",
-   "text": "Good evening, and welcome to Evenings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
+   "text": "Good morning and welcome to Mornings with Graham & Emmy—the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
   },
   {
    "host": "Emmy",
@@ -12,270 +12,210 @@
   },
   {
    "host": "Graham",
-   "text": "Tonight we're diving into Lenox Township, where residents just learned through back channels about proposed data centers and they're demanding real answers."
+   "text": "It's Friday morning, September 4, and our big story today is a rural farm pushing to join a nearby city just so a data center can go up on that land."
   },
   {
    "host": "Emmy",
-   "text": "That's right, Graham. This feels like the latest flashpoint in a statewide pushback over how these projects get approved."
+   "text": "That annexation move would pull tax revenue and decision-making away from the township and straight into city hands."
   },
   {
    "host": "Graham",
-   "text": "Exactly. Let's start with what's happening right now in Lenox, out in Macomb County."
+   "text": "Exactly, and residents even 30 miles away could feel the ripple effects on land use and services if it goes through."
   },
   {
    "host": "Emmy",
-   "text": "Residents there are upset they only found out about the plans through unofficial channels, not through official township notices."
+   "text": "Graham, walk us through what we know so far about this specific request."
   },
   {
    "host": "Graham",
-   "text": "They're worried about noise from the servers, the strain on the local power grid, and losing prime farmland to these massive facilities."
+   "text": "A property owner in a rural area is petitioning a nearby city to annex the land specifically to enable a data center development."
   },
   {
    "host": "Emmy",
-   "text": "It sounds like a trust issue has built up fast. What do we know about how long this has been in the works?"
+   "text": "Why go through annexation instead of just working with the township?"
   },
   {
    "host": "Graham",
-   "text": "The story broke today, but these kinds of proposals often simmer for months before they surface publicly."
+   "text": "The township likely has stricter zoning or outright resistance to large-scale industrial projects like this, while the city may offer more favorable rules or incentives."
   },
   {
    "host": "Emmy",
-   "text": "And transparency failures like this are feeding distrust in local leadership across several counties."
+   "text": "That tracks with the pattern we've seen across the state lately."
   },
   {
    "host": "Graham",
-   "text": "Right. We've seen similar fights in places like Mason and even recalls tied directly to rezoning votes."
+   "text": "It does. We've had multiple townships hit the brakes on data centers in the past week alone."
   },
   {
    "host": "Emmy",
-   "text": "So how does this one in Lenox fit into the bigger pattern of communities trying to slow things down?"
+   "text": "So who are the main players here—the landowner, the city, the township board?"
   },
   {
    "host": "Graham",
-   "text": "It's part of a wave where townships are using moratoriums and public pressure to buy time for better rules."
+   "text": "The landowner is driving it for the development opportunity, the city stands to gain tax base and jobs, and the township loses both revenue and say over what happens on that ground."
   },
   {
    "host": "Emmy",
-   "text": "What kind of power demand are we talking about here? These facilities can be huge."
+   "text": "How big a deal is the tax shift in practical terms for these small communities?"
   },
   {
    "host": "Graham",
-   "text": "Hundreds of megawatts in some cases, which is why utilities are already planning major upgrades that ratepayers would ultimately fund."
+   "text": "Data centers can bring significant property tax revenue, so moving that from township to city budgets changes who funds roads, fire protection, and schools in the area."
   },
   {
    "host": "Emmy",
-   "text": "And that ties straight into the new filing we saw today about doubling capacity statewide."
+   "text": "And what about the farmland angle—how much productive ag land are we talking about losing?"
   },
   {
    "host": "Graham",
-   "text": "Yes, and folks 30 or 60 miles away could see higher bills even if the data center isn't in their backyard."
+   "text": "It's prime rural acreage that would switch from crops to server farms, and once it's developed that way it rarely goes back."
   },
   {
    "host": "Emmy",
-   "text": "Water use is another big one, right? Cooling these places takes a lot."
+   "text": "Water use is always the next question with these facilities."
   },
   {
    "host": "Graham",
-   "text": "It does, and that's why Zeeland Township just put a year-long pause on both data centers and related power projects."
+   "text": "Cooling systems can pull millions of gallons daily, and annexation might change which local rules apply to that draw."
   },
   {
    "host": "Emmy",
-   "text": "They heard the same concerns about noise, water, and tax breaks that Lenox residents are raising now."
+   "text": "Power demand is the other big one—what does this mean for electric bills down the road?"
   },
   {
    "host": "Graham",
-   "text": "Ypsilanti extended its own moratorium for the same reasons — studying impacts on rates and supply."
+   "text": "Any new large load like this factors into utility planning, and ratepayers across the region end up covering upgrades if capacity has to expand."
   },
   {
    "host": "Emmy",
-   "text": "And one township is even using a six-month power connection freeze to block a project linked to U-M and Los Alamos."
+   "text": "We've seen that exact issue in the utility's latest filing just yesterday."
   },
   {
    "host": "Graham",
-   "text": "That shows local governments still have real tools to slow hyperscale builds even after bigger interests get involved."
+   "text": "Right—more than doubling capacity over 20 years partly to serve data center growth, with costs passed to customers."
   },
   {
    "host": "Emmy",
-   "text": "What happens next in Lenox specifically? Are residents organizing petitions or recalls like elsewhere?"
+   "text": "So if this annexation succeeds, is it a green light for similar moves elsewhere?"
   },
   {
    "host": "Graham",
-   "text": "They're pushing for full disclosure first, but the recall attempts in Mason and the failed one tied to rezoning show how these fights can escalate quickly."
+   "text": "It could set a precedent that encourages other landowners to shop around for friendlier jurisdictions."
   },
   {
    "host": "Emmy",
-   "text": "A second recall bid failed today in another community over data center rezoning, so the bar is high."
+   "text": "What happens next—public hearings, votes, legal challenges?"
   },
   {
    "host": "Graham",
-   "text": "Voters 30 miles away are watching these disputes because the outcomes shape what developers can do in neighboring areas."
+   "text": "The city will likely hold annexation proceedings, the township can weigh in or fight it, and residents will have a window to comment."
   },
   {
    "host": "Emmy",
-   "text": "Ionia is also weighing whether to let data centers tap city power and land, with no vote yet but the door clearly open."
+   "text": "How far along is the actual data center proposal beyond the land request?"
   },
   {
    "host": "Graham",
-   "text": "That conversation signals more communities are at least entertaining the idea despite the risks to local bills."
+   "text": "Details are still emerging, but the annexation is the key first step to unlock the build."
   },
   {
    "host": "Emmy",
-   "text": "Meanwhile a state bill from yesterday could limit those tax abatements developers rely on."
+   "text": "This feels like another chapter in the bigger statewide pushback we've been tracking."
   },
   {
    "host": "Graham",
-   "text": "Towns have used those breaks to attract projects, but if they go away, residents might face higher local taxes or fewer incentives."
+   "text": "It is—yesterday alone we saw recalls, moratoriums, and transparency fights in multiple counties."
   },
   {
    "host": "Emmy",
-   "text": "And there's the report on Congressman John James voting against letting localities keep more control."
+   "text": "Let's move to those quick hits, starting with the University of Michigan computing center."
   },
   {
    "host": "Graham",
-   "text": "Those votes matter because so many communities are now facing proposals with big power and water demands."
+   "text": "Ann Arbor residents and activists are questioning whether the new facility could tie into nuclear weapons research."
   },
   {
    "host": "Emmy",
-   "text": "So the tension between state-level interest and local pushback is only growing."
+   "text": "What answers are they seeking on military connections and local oversight?"
   },
   {
    "host": "Graham",
-   "text": "It is. And the ratepayer impact filing from the utility makes clear that upgrades will be needed wherever growth happens."
+   "text": "They want clearer disclosure on how the project might support defense programs and how the university expansion gets reviewed."
   },
   {
    "host": "Emmy",
-   "text": "Graham, how many townships have similar pauses or reviews in place right now?"
+   "text": "Next up, Lenox Township residents learned about data center plans through back channels."
   },
   {
    "host": "Graham",
-   "text": "At least a handful we know of — Zeeland, Ypsilanti, and that one using the power freeze — and more are watching."
+   "text": "They're demanding full transparency after worrying about noise, power strain, and lost farmland in Macomb County."
   },
   {
    "host": "Emmy",
-   "text": "It feels like a patchwork approach while bigger policy questions linger."
+   "text": "That distrust in township leadership is understandable when info comes late."
   },
   {
    "host": "Graham",
-   "text": "Exactly. And farmland loss is a real concern in places like Lenox where ag land is still productive."
+   "text": "Over in Ionia, the council discussed letting data centers tap city power and land—no vote yet, but they're open to proposals."
   },
   {
    "host": "Emmy",
-   "text": "Noise complaints from existing facilities elsewhere have residents nervous about what 24/7 operations would sound like."
+   "text": "Residents 30 miles out could see higher utility bills if new infrastructure is needed."
   },
   {
    "host": "Graham",
-   "text": "All of which feeds back into why transparency matters so much — people want a say before decisions are locked in."
+   "text": "In Zeeland Township, the board just approved a one-year moratorium on new data centers and related power projects."
   },
   {
    "host": "Emmy",
-   "text": "What do you think the township board's next move will be?"
+   "text": "Concerns over noise, water, and tax breaks drove that pause to give time for permanent rules."
   },
   {
    "host": "Graham",
-   "text": "They'll likely face more pressure for public meetings and full disclosure on any proposals."
+   "text": "Ypsilanti extended its own moratorium to study impacts on power rates and water supply."
   },
   {
    "host": "Emmy",
-   "text": "And if that doesn't happen, we could see organized opposition grow like in Mason."
+   "text": "Washtenaw County taxpayers might end up subsidizing transmission lines later."
   },
   {
    "host": "Graham",
-   "text": "The second recall attempt there failed, but the effort shows residents aren't giving up."
+   "text": "A township is also using a six-month power connection freeze to stall a proposed U-M and Los Alamos-linked data center."
   },
   {
    "host": "Emmy",
-   "text": "So the big story here is really about trust and process as much as the projects themselves."
+   "text": "Local governments showing they can slow hyperscale projects even after state interest appears."
   },
   {
    "host": "Graham",
-   "text": "It is. And that sets the stage for everything else happening across the state today."
+   "text": "Two recall efforts made news yesterday—one failed against an official tied to data center rezoning."
   },
   {
    "host": "Emmy",
-   "text": "Let's move to quick hits. Graham, what's the latest on Ionia?"
+   "text": "The other is a new drive in Mason against the mayor over similar rezoning without enough public input."
   },
   {
    "host": "Graham",
-   "text": "Council members there discussed inviting large facilities that could pull hundreds of megawatts, with no vote taken yet."
+   "text": "Both center on land-use changes that could open the door to large server farms in Ingham County."
   },
   {
    "host": "Emmy",
-   "text": "Residents 30 miles away could see higher bills if new plants or lines are needed."
+   "text": "On deck, are there any public meetings listeners can attend this weekend or early next week?"
   },
   {
    "host": "Graham",
-   "text": "Now over to Mason, where a recall drive launched today against the mayor over rezoning."
+   "text": "Nothing major on the immediate calendar from the tracker, but several townships are still working on permanent rules after recent moratoriums."
   },
   {
    "host": "Emmy",
-   "text": "Petitioners say the changes went through without enough input, and it's the second attempt in recent months."
+   "text": "Worth keeping an eye on those agendas as they get posted."
   },
   {
    "host": "Graham",
-   "text": "Zeeland Township approved a full-year moratorium on data centers and energy projects."
-  },
-  {
-   "host": "Emmy",
-   "text": "After hearing concerns on noise, water, and tax breaks — giving planners time for permanent rules."
-  },
-  {
-   "host": "Graham",
-   "text": "Ypsilanti extended its moratorium while studying power rates and water supply impacts."
-  },
-  {
-   "host": "Emmy",
-   "text": "That keeps the status quo as surrounding townships consider their own limits."
-  },
-  {
-   "host": "Graham",
-   "text": "One township deployed a six-month power freeze specifically to stall a U-M and Los Alamos linked project."
-  },
-  {
-   "host": "Emmy",
-   "text": "Showing how locals can slow things even after state-level interest surfaces."
-  },
-  {
-   "host": "Graham",
-   "text": "A state bill from yesterday could end tax breaks for new data centers."
-  },
-  {
-   "host": "Emmy",
-   "text": "That would change how towns lure projects and could affect local taxes or incentives."
-  },
-  {
-   "host": "Graham",
-   "text": "And a report shows Congressman John James voted four times against local control measures."
-  },
-  {
-   "host": "Emmy",
-   "text": "Those votes could matter in competitive districts come midterms."
-  },
-  {
-   "host": "Graham",
-   "text": "Now for on deck — any major meetings listeners should know about?"
-  },
-  {
-   "host": "Emmy",
-   "text": "Nothing formally scheduled in the next day or two from what we're tracking, but keep watching township boards."
-  },
-  {
-   "host": "Graham",
-   "text": "Several places are still in the middle of moratorium reviews and public comment periods."
-  },
-  {
-   "host": "Emmy",
-   "text": "So residents should check their local agendas for any last-minute additions."
-  },
-  {
-   "host": "Graham",
-   "text": "Full sources and the live map at the Michigan Data Center Tracker."
-  },
-  {
-   "host": "Emmy",
-   "text": "We're back tomorrow."
+   "text": "Full sources and the live map at the Michigan Data Center Tracker. We're back tomorrow."
   }
  ],
- "episode_title": "Lenox Twp Residents Demand Full Disclosure on Hidden Data Center Plans",
- "show": "Evenings with Graham & Emmy",
- "daypart": "Evenings"
+ "episode_title": "Farm Annexation Push for Data Center Sparks Tax and Control Fight",
+ "show": "Mornings with Graham & Emmy",
+ "daypart": "Mornings"
 }
