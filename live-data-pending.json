@@ -1,44 +1,6 @@
 {
- "updated_at": "2026-09-04T19:06:07+00:00",
+ "updated_at": "2026-09-04T21:24:46+00:00",
  "generator": "grok-wire-agent",
- "items": [
-  {
-   "iso": "2026-09-03T09:00:00+00:00",
-   "region": "metro",
-   "cat": "Washtenaw Co.",
-   "tag": "Local Government",
-   "title": "Ypsilanti Township Officials Blast U-M Plan for $1.2B Data Center",
-   "dek": "Township leaders in the lower-income community say they learned of the Textile Road site by text and plan to fight the project over location, transparency and job promises.",
-   "source": "Bridge Michigan",
-   "url": "https://bridgemi.com/business-watch/u-m-affirms-ypsilanti-1-2b-computing-center-site-township-officials-vow-fight/",
-   "breaking": false,
-   "lead": false,
-   "id": "35761cb18d09",
-   "kind": "story",
-   "filed_at": "2026-09-04T19:05:50+00:00",
-   "accuracy": "checked-rewritten",
-   "headline_rewritten": true,
-   "judge_score": 8,
-   "judge_note": "New official response from Ypsilanti Township leaders on the U-M data center with specific grievances about process and location—distinct from the earlier resid"
-  },
-  {
-   "iso": "2026-09-02T14:06:00+00:00",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "tag": "Local Government",
-   "title": "Michigan City Council Advances Ordinance for Indefinite Moratorium on New Hyperscale Data Centers",
-   "dek": "Council members introduced the measure to allow time for updated regulations on environmental impacts, noise and development standards before any additional projects beyond the existing Google facility.",
-   "source": "Chicago Tribune",
-   "url": "https://www.chicagotribune.com/2026/09/02/michigan-city-council-mulls-moratorium-on-future-data-centers/",
-   "breaking": false,
-   "lead": false,
-   "id": "b92b63713844",
-   "kind": "national",
-   "filed_at": "2026-09-04T19:05:50+00:00",
-   "accuracy": "checked",
-   "judge_score": 7,
-   "judge_note": "Council introduction of an indefinite moratorium ordinance is a concrete legislative step, different from Zeeland's already-approved one-year moratorium."
-  }
- ],
- "accuracy_checked_at": "2026-09-04T19:06:02+00:00"
+ "items": [],
+ "accuracy_checked_at": "2026-09-04T21:24:51+00:00"
 }
