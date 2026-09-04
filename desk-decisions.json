@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOHpfQmRMc1lnRmtSWXNqdjlEeUFaV0RIeEVldTI2V2Q1d3pqZkExNlVnTFVWWjFyN2l5b2p5NnZmVE5LSHRnT2I0S3kwOS1jTURZeGw3QnhxNUdZMGQyZ3FQM3ZfdGxUa01SQkZqeS1xLVMydkxfVGRrN3ktdmdHTjZfQWhpRlpPa2dyYlBpbDVxZkktVzFtZ9IBngFBVV95cUxQdFZNajdUNW9taDdyNTNwSEN6RXpuU1NISXgzeW9FWHVYUGk1bHp0RXZSdUlMeGVXaExnLXplOWFETG9GQ0ljSklLa0JWUnIwcUdqQXBwbll2aVlEWGgyZUpIaG1DNUt0ZHVBQW5YYk81N2sxQnRVV3B6T1JYZ1hWVktueWYyeDB6VlJNdVpUZDBCUDVSREc2QnZFU2Jvdw?oc=5",
-   "title": "Lansing-area expert says some data-center fears are real",
-   "at": "2026-08-20T03:55:43+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: General commentary on data center concerns without new developments."
-  },
-  {
    "url": "https://www.wlns.com/news/local-news/expert-some-data-center-concerns-valid-others-overblown/amp/",
    "title": "Michigan Data Centers Promise Jobs but Risk Tax Breaks and Nearby Home Value Drops",
    "at": "2026-08-20T04:46:24+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-09-03T23:13:14+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Hyperscale Data ending crypto mining at Michigan facility is already killed multiple times in different wordings."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMG5VVi1YLVpQNmxvX3FxQXI1VHFhbFlnbEllUWJhSVZoUDFMSUdHYUdHSkkxemRTaF9TNUw1MjAwQ2x4Qzhqa3lOd0tEU09iakNYVVk0dnBDV1V4YW9Id3JkUG9pbk1tZFZyOFFIV0lWT0RhZ0pEVU44bjMxMXpUQjY5eTlzRlRieGUzdzZWdXJxWVU4emIwOUFfejdqUjBDZWlvemtOeFM0bXBLQTBIN1MtMFYxdDhROHYwXzFyMlpvYjRtdWRJT2hsMTJkS1Q3UGtLcG9KNVBjQmc2c1lkUWhnRQ?oc=5",
+   "title": "Lenox Twp residents demand answers on data center secrecy",
+   "at": "2026-09-04T01:15:55+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: This is the same Lenox Township data center secrecy story already live in the first ALREADY-LIVE item."
   }
  ],
  "auto_published": [
