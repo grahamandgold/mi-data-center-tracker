@@ -1,28 +1,6 @@
 {
- "updated_at": "2026-09-04T11:40:21Z",
+ "updated_at": "2026-09-04T16:15:38Z",
  "generator": "grok-wire-agent",
- "items": [
-  {
-   "title": "Flint forum puts AI data center growth under local microscope",
-   "dek": "Residents in Flint heard directly from organizers about the power, noise and tax impacts of new AI data centers. The session comes as Michigan utilities prepare for sharp demand growth from similar projects. Attendees left with clearer stakes on whether such facilities fit Genesee County’s future.",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMFVnMDlxbDNSeURtSGVlR2syLWs2YVdEWEQ4cm5INkVfcUVfZVJHWTJzV1Rac0h5dWNMVE1vakFnX1pDMjRCUDV0Z2tpaHFoVHBuaW5UVWszakpGYVBuV09Yd1ZFZ1ZQUVFXWUc4bHhLZmpqTHV1UFNuYWtEcGYxTHQwRTVQS2NVRFVRSDZUTjFTeU5RdWlhZ2Z4bXZsTW9UekJWTWdfNGNaMkVuQXl6TUFhVXF5Z0ZUdFE1YUFPVnkwdHVhNjVTVA?oc=5",
-   "source": "theflintcouriernews.com",
-   "region": "mid",
-   "cat": "STATEWIDE",
-   "county": "Genesee",
-   "tag": "Explainers",
-   "iso": "2026-09-03T00:58:42Z",
-   "kind": "story",
-   "id": "e715c84a8783",
-   "filed_at": "2026-09-03T17:46:53Z",
-   "origin": "google-news",
-   "headline_rewritten": true,
-   "source_title": "AI Data Center Education ™ holds Flint community forum on artificial intelligence and data centers - theflintcouriernews.com",
-   "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMFVnMDlxbDNSeURtSGVlR2syLWs2YVdEWEQ4cm5INkVfcUVfZVJHWTJzV1Rac0h5dWNMVE1vakFnX1pDMjRCUDV0Z2tpaHFoVHBuaW5UVWszakpGYVBuV09Yd1ZFZ1ZQUVFXWUc4bHhLZmpqTHV1UFNuYWtEcGYxTHQwRTVQS2NVRFVRSDZUTjFTeU5RdWlhZ2Z4bXZsTW9UekJWTWdfNGNaMkVuQXl6TUFhVXF5Z0ZUdFE1YUFPVnkwdHVhNjVTVA?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7,
-   "judge_note": "New community forum in Flint with concrete event details; different city and meeting from existing Ionia coverage."
-  }
- ],
- "accuracy_checked_at": "2026-09-04T11:40:14+00:00"
+ "items": [],
+ "accuracy_checked_at": "2026-09-04T16:15:31+00:00"
 }

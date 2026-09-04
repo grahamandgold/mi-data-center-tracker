@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.eastvillagemagazine.org/2026/08/20/data-centers-ai-and-the-growth-of-tech-industry-demand-in-flint-and-beyond/",
-   "title": "Flint-Area Report Examines AI-Driven Data Center Boom and Local Impacts",
-   "at": "2026-08-20T11:58:21+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: National trend piece with local angle, lacks concrete developments."
-  },
-  {
-   "url": "https://www.wxyz.com/news/region/washtenaw-county/ypsilanti-township-approves-moratorium-on-large-utility-structures-amid-u-of-m-supercomputing-plans",
-   "title": "Ypsilanti Township Board Approves Six-Month Moratorium on Large Utility Structures",
-   "at": "2026-08-20T11:58:21+00:00",
-   "by": "news_judge",
-   "note": "score 9/10, duplicate: Duplicate of already live story about Ypsilanti Township Board's moratorium approval."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMVBVRXNTOEU1SUU0R1k5MHhPREdBSEZKT1JVTTcxTkdBMmp1VXVzQk9rMDRDYmZzTmxQWjljaHNWckJCakp3bktMa3lyV2lGOXl2bm9Jd2hNcDdyenk3bTNRMWVtXzRQVmtvVG9CQlBGQ2tTR1FYdjF3ZU9ZdlFYX0FGSHZzak96QmlKdlR2ZFhNMWFjazRvRFppRmFhMkFScTJhbjVDQlJwSzItbmlEZldEOHExUXM4Y1dzOXFPclA1Zlh0WDZHWjJ1VENsNkJx?oc=5",
    "title": "Forsyth Twp residents blast data center plans at packed town hall",
    "at": "2026-08-20T11:58:21+00:00",
@@ -1399,27 +1385,23 @@
    "at": "2026-09-04T11:40:21+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: Same Consumers Energy capacity doubling and ratepayer bill story already live."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sWGppYTNyVWxEZHdIRFRYcVREMWRSZFJwNFZKV3V2RFVPUHh4S2dINTdmN2R5ZGR0b0N2c0FtSm84dUJDZTNGYnN4RzdSU3NtTFZPc0wyRkVLOHZsbkFmdFh2Z9IBY0FVX3lxTE5sWGppYTNyVWxEZHdIRFRYcVREMWRSZFJwNFZKV3V2RFVPUHh4S2dINTdmN2R5ZGR0b0N2c0FtSm84dUJDZTNGYnN4RzdSU3NtTFZPc0wyRkVLOHZsbkFmdFh2Zw?oc=5",
+   "title": "Hyperscale Data adds Michigan capacity for 20-megawatt AI contract",
+   "at": "2026-09-04T16:15:38+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Thin expansion announcement without specifics on location, timeline, or regulatory steps; raises rate questions already covered in live stories."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdWhuc0ZIY1pGbVJILWlyM21fY3VlZklRLW5CYjBEcFRObVVhQTJ2RFJGbkVhU3c4dGpJMjgtNGE1MTBfZ1N6enM2Nnpqb3E1Ymp6X0RsbW1rVDJhUFh4TGlTM1ZzeTdIdDR0MVZHSnMwT3lxQUlfVmpoMmMzc05XLTViMlFaY21IOWNOZHBBZHhOVmxKQVk2UWhuam0?oc=5",
+   "title": "Mason candidates clash over who pays for data center power spikes",
+   "at": "2026-09-04T16:15:38+00:00",
+   "by": "news_judge",
+   "note": "score 5/10: Campaign rhetoric about data center costs in Mason race, but no new policy action beyond the already-live recall drive."
   }
  ],
  "auto_published": [
-  {
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTnpZSVlZREx3aHZxZEp5dDU2VzBXRlFJdkZRWW9EMnNMT3BvWkl3Y3lVMi11MkQzUlRtc1pRaUotWFk4ckRBeF9lMWFkekttMERQWnJzSTVTTkVxamhPN1VlQXNXYnZKeFVfRkpLT2RZZ21UT1loaEQ2aEFqMUotOElqRWNTQQ?oc=5",
-   "title": "NY moratorium threatens Genesee County's STAMP data-center plans",
-   "judge_score": 6,
-   "at": "2026-07-18T04:08:01Z"
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZF9IdmVfNzZRWEgyV0VKU3JUb0VYbS1kUmxlUlFnSmFHOVE5N0FSY19YWFZPd0EtaWNRd19WZndFNjBON1lZR21iN1NvRUFaYjdvbDNmX2JQY1V2SGVVSDBlZE5ISnBMZDVibkNiRm9oX3MzOVVGVEUwOHNmdWVIa2pvVk1CcWVPWHBYRkM2TlFYUGdTZ2c?oc=5",
-   "title": "Township removes cap on Oracle property tax exemption, risking school and road funding",
-   "judge_score": 9,
-   "at": "2026-07-18T04:08:01Z"
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcUdQVEhwWHIyVkF2MzJKNmlMSGY4N25nekxNNFBSQ3BCSG5GM1BfZWJZRnM0Yi1zRmpzVjMwQ19fTnBSN1o3Ylp5VG9PemhKTGhwa19mMUFJZERuclhydWx0YXBFbGxKT2NsYkN6bldfUFNsVkpIWU4wUGZMVnF0cTFabUVZQ09hOWxkNEZsVG9GRGpEYlZ6RGlCYzB3YUxERDY4WjFxTWRuTXVLSjBZV2NjOUZNcmcxMldMVTZFdzVOaE9ZakNSUFJDUDRDUDBrejJCWXoxU3ZEUUlpa2I3WtIB9AFBVV95cUxNYm4xazBYWnFUbERMMnVQM2pGMllhS2RXU3VZRXU3OGMyOGZxSUlybGF2TWZCOVN2aHBBN1F6a2xUUkNHa1l5TGNXZ1A0UzNCV2ZOeGpfcWFIbEFCM0JvdXRiVzNMbU52QnZlMjU4dUNhYWJyaW5QeU92X0Y3VVhNVkpsMFZrVVdudGpkY3lQZ3NSSUhKTTRJQWxCUXJMQUtEWFZWN0F0bk1ubjRPak1XYXBqTlNhc0ZzS2hhVlFqMzBpVGxOaEJzcTZqdUZnTGh0MXhUelYzRmYySVhiRWU3SzZnZDBCOFZaZEVxZEpEcEtFQlF1?oc=5",
-   "title": "Oracle wins unlimited tax break on $43B Ann Arbor-area campus",
-   "judge_score": 9,
-   "at": "2026-07-18T06:31:35Z"
-  },
   {
    "url": "https://www.calcalistech.com/ctechnews/article/r1yve0pvfl",
    "title": "Saline Township Locals Resist $16B Stargate Data Center Over Water and Farmland",
@@ -3201,6 +3183,24 @@
    "title": "Farm seeks city annexation to build Michigan data center",
    "judge_score": 7,
    "at": "2026-09-04T11:40:21Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQnBWN3NxRnVQV05PSlN5Rmp1T21VcXR6U2E2bjk0bHpTemlfN3JPUUJxb1UtelNwUUctb1F4MS1QcXprcHdTR3h0ZGV2RENrWWRYWmVXVjBmWHJWOEFtMU9aUF9sYXloVzdBLURyYmdyMVprcHZJeVA3TVAxU0R2blB6QnBFWEl6NGxzV3ZadTZBVUZaNXhRTzJVTDNTR0MtWUhsSjNWb2lSTm5CVURCOWpUNUpDVlRaMmtKazlGLXFkVVdRbFFIMXZmU2d2aWhaalViNlN5SUJTME3SAdsBQVVfeXFMUEJwVjdzcUZ1UFdOT0pTeUZqdU9tVXF0elNhNm45NGx6U3ppXzdyT1FCcW9VLXpTcFFHLW9ReDEtUHF6a3B3U0d4dGRldkRDa1lkWFplV1YwZlhyVjhBbTFPWlBfbGF5aFc3QS1EcmJncjFaa3B2SXlQN01QMVNEdm5QekJwRVhJejRsc1d2WnU2QVVGWjV4UU8yVUwzU0dDLVlIbEozVm9pUk5uQlVEQjlqVDVKQ1ZUWjJrSms5Ri1xZFVXUWxRSDF2ZlNndmloWmpVYjZTeUlCUzBN?oc=5",
+   "title": "Ypsilanti-area residents plan protest over data center water use",
+   "judge_score": 6,
+   "at": "2026-09-04T16:15:38Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWlJGaGY3S0Z2TGpSeGFnbnlMRWcxajBqYWRIWG5XMDFnQkJhNzAzYUFDN3RObkdON2VGOHRsWEhDeDdoODU5QmdIYkEyWVE2V3NleGVpRnJMTFFfaVZyOTRqVnN2aDJpcXVRdTJFRUpCb3VRaVdoU2lZdjAzVVpLUk1oM0tzZXVKOERwVXdFRXZSN2dzNlFiLTJtT3VvVUczQ205QV85c3BtbkRJSDhmckoxZzVLM05Z0gG4AUFVX3lxTE9aUkZoZjdLRnZMalJ4YWdueUxFZzFqMGphZEhYblcwMWdCQmE3MDNhQUM3dE5uR043ZUY4dGxYSEN4N2g4NTlCZ0hiQTJZUTZXc2V4ZWlGckxMUV9pVnI5NGpWc3ZoMmlxdVF1MkVFSkJvdVFpV2hTaVl2MDNVWktSTWgzS3NldUo4RHBVd0VFdlI3Z3M2UWItMm1PdW9VRzNDbTlBXzlzcG1uRElIOGZySjFnNUszTlk?oc=5",
+   "title": "Lakeshore township blocks data centers using existing zoning rules",
+   "judge_score": 7,
+   "at": "2026-09-04T16:15:38Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOTNULXlPVnpSc0xrYVJUbldhMENhY05COTcycTdpeHVGUkJDYlR1d0lpN3FOWWZMZ3dNN1BRaDJFQjJwdlpUYmhJUDJxSUhzaGFrOEhxSm1yck13X2J1N0FzdkhHeVVTZy1Fa19BNXVWTkNoTDdxUlhIZTJic245WGFvenJnRk5uNVE5SmgxLTF5eVBBb3p5MUt0T25haTEyX0hCV3haQTRIY2hTdGl1YkNPQzVXQdIBygFBVV95cUxPVVZkbDAyX1QySlpGeG9MaVF2WlNpa3JvLTRVWmg4MVFva1N3eWVHcG9LTTd0MFg2UUtIU25iVlBKb2J4LUo0M1BodTUyNDhqQVZhRS1DQ193TXhUandKYzItTnM2WE9kS001eDU2OVlrV25nSGlhcVZyMVVPM3ZCeHdsRjY3b0p5MnFlUU9EZDMwM2ZEN3ZzSFBYeEg4aXEyc3I4SFU5Y3lhWW9rbTRxU3ZBcE93M1NLdjBHOGNMODZQY2NjNnZOM3BR?oc=5",
+   "title": "Mid-Michigan residents get first look at data center power and water demands",
+   "judge_score": 6,
+   "at": "2026-09-04T16:15:38Z"
   }
  ]
 }
