@@ -1,7 +1,41 @@
 {
- "updated_at": "2026-09-04T06:30:09+00:00",
+ "updated_at": "2026-09-04T11:40:21Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Farm seeks city annexation to build Michigan data center",
+   "dek": "A rural property owner is pushing to join a nearby city so a data center can be built on farmland. The move would shift tax revenue and local control away from the township. Residents 30 miles away will feel the change in land use and services if the annexation succeeds.",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ2hoZUJkdWVCemhOVHFudXM3T0VVLTFGdU9hcFdXQzQtRnVFazhMekdsNXB3RjJDQXdRbm5pQ3lsUVVsNzNSVTg5MVFkU3BKZ3llVV9Za1FjMm90ZXBsSmpkcDVZekxOU2pDajhDQWktVWlJR2hBSi1ieDR0MDhESGtpakVlM0xxN2hpZWZzakQ?oc=5",
+   "source": "Crain's Detroit",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "Ottawa",
+   "tag": "Local Government",
+   "iso": "2026-09-04T09:45:00Z",
+   "id": "1902283372d5",
+   "origin": "google-news",
+   "source_title": "A farm wants a data center in rural Michigan — and it has to join a city to do it - Crain's Detroit",
+   "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ2hoZUJkdWVCemhOVHFudXM3T0VVLTFGdU9hcFdXQzQtRnVFazhMekdsNXB3RjJDQXdRbm5pQ3lsUVVsNzNSVTg5MVFkU3BKZ3llVV9Za1FjMm90ZXBsSmpkcDVZekxOU2pDajhDQWktVWlJR2hBSi1ieDR0MDhESGtpakVlM0xxN2hpZWZzakQ?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
+  {
+   "title": "U-M computing center raises nuclear weapons worries",
+   "dek": "University of Michigan plans for a new computing facility are drawing fire over possible ties to nuclear weapons work. Ann Arbor residents and activists want clearer answers on how the project could support military programs. The debate affects state research funding and local oversight of university expansion.",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOS1WZkJDODRndTh1bWJXWjVuTy1Ba3QxZVQ0WTZ1OGIzTUZCMXFDUmVtMkFPdjR1aG5ISlg4RFFkd3c0Y09iZGpTdzRGYUZweXpqZm92VTM5ZGFXTmpDZ2J1dzFDa2dFQmVVb3NpZWYtbzVaS2JkdzBfeDVFRWNtVVlRLWRvVERqQ0NvaVZwSExWZTdEU0hqQUt2SEJETGpzNkVhSEM2NlhteXdEWkIxa1ZtSFJ1aWpKVzEwcHB3dzFLV3JNZFBR?oc=5",
+   "source": "Michigan Advance",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Policy",
+   "iso": "2026-09-04T08:05:25Z",
+   "id": "f7df19e5a2a2",
+   "origin": "google-news",
+   "source_title": "U-M’s proposed computing center draws concerns over role in nuclear weapons modernization - Michigan Advance",
+   "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOS1WZkJDODRndTh1bWJXWjVuTy1Ba3QxZVQ0WTZ1OGIzTUZCMXFDUmVtMkFPdjR1aG5ISlg4RFFkd3c0Y09iZGpTdzRGYUZweXpqZm92VTM5ZGFXTmpDZ2J1dzFDa2dFQmVVb3NpZWYtbzVaS2JkdzBfeDVFRWNtVVlRLWRvVERqQ0NvaVZwSExWZTdEU0hqQUt2SEJETGpzNkVhSEM2NlhteXdEWkIxa1ZtSFJ1aWpKVzEwcHB3dzFLV3JNZFBR?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
   {
    "title": "Lenox Twp residents demand answers on hidden data center plans",
    "dek": "Residents in Lenox Township are pushing for full disclosure on proposed data centers after learning details only through back channels. The push comes as locals worry about noise, power strain and lost farmland in Macomb County. Transparency failures are fueling distrust in township leadership.",
@@ -154,38 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSWMyQmc0MURGWnJGWE5SUGtqT21XaWpKbUVBWFgtNk14ZnJabktKNGJ1ZVVFUlV4NkRweTAtS2tDUjBzSXZXMzZwcE44QUJrbEM1WG11M3VIOXhIWGdFVjdsTWhsbEVhNVBXLW5iWndxSzhmLVFFSDJ3c2JHdE1tam5xczREX3JnMzI4ZmFUa2RONW5kQ0VBM1N2b3IzdnJ50gG0AUFVX3lxTE1vZ19tNkVYeUdCT3JjMVcwWGxEU09wREo1QnJMU3V3czBOMm9xY2NTZ2lQdUJPM1dNQ0haZHI1Tjd3QTFvV3B4T01sQkZmdFd3NF8wTERneU1GNlZUOUltbF9KZEdCLWRlTl9OVDR2Y3h0ak1MbGxfdkVfVklnYkZGMU1rdHN4eDVjTWNuRFZXNVluWHE1aXhhRl91bmR6amZNdXo0VFYwR2wtRUpmbUJLaTUwZQ?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "John James backed bills stripping local say on data centers",
-   "dek": "A new report shows the Michigan congressman voted four times against letting cities and townships control data-center projects. The votes matter because many communities now face large proposals with big power and water demands. Voters in competitive districts may weigh the issue in the midterms.",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVVVNSnRHNE1ldUtFWUpuZk9CNll6VkxDMTlJQlItZDZ3YmxaT2RXNnhOWERnWjNhc2xTa1ZrR3l3TGhsX3lUY01KZ0MzM25ndzBFd2t4eDFJTXVRUnVSaWF0bTVFNENVZUNtTE9JVEV4bHVnTFNPcHJLOWdUelRSZlcwVE1PdHVtdGlsQXB3QXdZcUlHM0haV2tyUjBwNmM?oc=5",
-   "source": "Michigan Democratic Party",
-   "region": "statewide",
-   "cat": "STATEWIDE",
-   "county": "",
-   "tag": "Policy",
-   "iso": "2026-09-02T21:33:43Z",
-   "id": "d1b9a5eb0bce",
-   "origin": "google-news",
-   "source_title": "New Report: John James Voted 4 Times To Ban Local Control on Data Centers - Michigan Democratic Party",
-   "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVVVNSnRHNE1ldUtFWUpuZk9CNll6VkxDMTlJQlItZDZ3YmxaT2RXNnhOWERnWjNhc2xTa1ZrR3l3TGhsX3lUY01KZ0MzM25ndzBFd2t4eDFJTXVRUnVSaWF0bTVFNENVZUNtTE9JVEV4bHVnTFNPcHJLOWdUelRSZlcwVE1PdHVtdGlsQXB3QXdZcUlHM0haV2tyUjBwNmM?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
-  },
-  {
-   "iso": "2026-09-02T21:00:00+00:00",
-   "region": "metro",
-   "cat": "Washtenaw Co.",
-   "tag": "Local Government",
-   "title": "UM Ypsilanti Data Center Overrides Local Opposition Like OpenAI in Saline",
-   "dek": "Residents say the University is spending a billion in public funds on a nuclear-research facility the community rejected, following the same pattern of power overriding protests seen with OpenAI’s Saline project.",
-   "source": "Michigan Daily",
-   "url": "https://www.michigandaily.com/opinion/columns/umichs-playbook-in-ypsilanti-township-isnt-that-different-than-openais-in-saline/",
-   "breaking": false,
-   "lead": false,
-   "id": "9a1dd7468172",
-   "accuracy": "checked-rewritten",
-   "judge_score": 6
   }
  ],
  "national": {

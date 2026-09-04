@@ -1,41 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.datacenterdynamics.com/en/news/pennsylvania-governor-signs-executive-order-imposing-strict-requirements-on-data-center-developments/",
-   "title": "Pennsylvania Governor Signs Executive Order Imposing Strict Requirements on Data Center Developments",
-   "at": "2026-08-20T09:43:27+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece with limited direct impact on Michigan."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM19kVENMZjV5eUdwZ2xrZmhPc011TlNkYXRwY2N1aXdBT0dDRWZ2bDBVRGhfWUpIY3pNbEd4UjlGblNMLWp1NlVBS3BCSndlaGY3QjZpVXFpa2g0UlZiUXVVQklFa0Y3NUVBbG5PQV93RFJFbVF3c1FmV213SEpOZUhYQzk3ay1YLUVnaGhRSXZISmc?oc=5",
-   "title": "Tom Barrett scrambles to hide past data-center support in MI-07 race",
-   "at": "2026-08-20T09:43:27+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Speculative political piece with indirect relevance to data center developments."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMVctWWJnM0V4amZNY1RxbzlVb2dKZnk5RzUtVU84RWlrcWhYYmlDMHNHSWdrbFF4QkNDRXE1Nld6bWswUU10RU5zZUVzT1d0T0JsREliaTVjd1lEZURSN1hpWUJHNW5fR0hxMldGMTJsSXJOQm5WeXhOWVAzZS1tdTlLRGJGeHlDb3VrbkRhbVRveHR4YnY2OFotU0otWFVNUFNSVGxqRnlyS2JaWXFiVnlUTFdCem92RDlERll5RkY1ZDVTOUZWTm1WMFoxeWo1ZzdxdFhsZ256OEp3Q0xyYUxxM0FaYmxKWUhRcg?oc=5",
-   "title": "Dowagiac neighbors throw block party to protest nearby data center",
-   "at": "2026-08-20T10:40:00+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Local protest event with no new developments or decisions."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUnplckdXbGJPWW9fMjMxNkQzbG9LRzVUMFpSSEJCcjd3LTZOb2dxa3JDbkxaU2dqUFZQV1NKS0VLdUVmallWRzFYS3BpOE1TaUNwQnhjUjBHMzJhcHVRSHY4WmxUMGxnajdZOF9CdTVwb0NVWlVVdExVU2NlLTZtVVZGcEw5NDBDM3RwN0pIUlo0NThMRWFCVlVvT2Q3V3EtZDJiYmlPdFZkbVlzckw1dDZTZw?oc=5",
-   "title": "Gibraltar developers sue to overturn data center moratorium",
-   "at": "2026-08-20T10:40:00+00:00",
-   "by": "news_judge",
-   "note": "score 1/10, duplicate: Duplicate of already killed story about Gibraltar lawsuit."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb3YtVF9HazNDclBYQmlGNkM2RFUxNlg0REVVNFZpQXlRLUp0em5xQ240TlBoSkhXYzhTRG54U2VxdGo4YUpJY0p1VWJQVjI3Sk14d2Q4ZC1RWkpFN09YcUxRaHM2N0hKNW8xZGVMem00ZkR0Rm5ETndweTBMLXBfOG5OUnZ3TnNCbFQtbUpRWUUtOERKODdoZVNZbnNGZGtha0p1LURYWmluSVlMSms4RXdPUXUwUGhORGo1MVNGNA?oc=5",
-   "title": "Flint data centers could pull massive power as AI demand spikes",
-   "at": "2026-08-20T10:40:00+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: Speculative piece on potential power demand without concrete developments."
-  },
-  {
    "url": "https://www.eastvillagemagazine.org/2026/08/20/data-centers-ai-and-the-growth-of-tech-industry-demand-in-flint-and-beyond/",
    "title": "Flint-Area Report Examines AI-Driven Data Center Boom and Local Impacts",
    "at": "2026-08-20T11:58:21+00:00",
@@ -1399,21 +1364,44 @@
    "at": "2026-09-04T06:30:15+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: State tax break repeal bill already covered in live story and killed Runestad variant."
+  },
+  {
+   "url": "https://www.datacenterdynamics.com/en/news/hyperscale-data-ends-cryptomining-operations-at-michigan-data-center/",
+   "title": "Hyperscale Data Ends Bitcoin Mining at Dowagiac Facility to Prepare for AI Customer",
+   "at": "2026-09-04T11:40:21+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Same Hyperscale Data bitcoin-to-AI pivot already killed multiple times with various wordings."
+  },
+  {
+   "url": "https://www.clickondetroit.com/news/investigations/2026/09/03/data-center-concerns-have-lenox-township-residents-demanding-transparency/",
+   "title": "Lenox Township Residents Demand Transparency Amid Data Center Rumors",
+   "at": "2026-09-04T11:40:21+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Same Lenox Township secrecy/demand story already live and also killed in alternate form."
+  },
+  {
+   "url": "https://www.yahoo.com/news/us/articles/fight-very-last-breath-michigan-090000323.html",
+   "title": "Ypsilanti Township Imposes Six-Month Power Moratorium to Delay U-M Data Center",
+   "at": "2026-09-04T11:40:21+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Same six-month power freeze blocking U-M data center already live with identical action and date."
+  },
+  {
+   "url": "https://www.bisnow.com/news/national/data-center-development/brokerage-data-shows-record-data-center-demand-fueling-new-ai-boomtowns",
+   "title": "North American Data Center Absorption Hits Record 25 Gigawatts",
+   "at": "2026-09-04T11:40:21+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: National trend piece with no Michigan-specific development or decision."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeGJPWVQ3R21KMWpRY0l0OU9pUzk2eEYxb0hCdDQ5aVFPek5zQmdkTGdhNnFzcnM1ZTJxMzNIS2R4UVA3akpsb04wdkF5TTlCZVFSMXhTUnZrRDdrY1gwdWE3bmVMWTB2Q2FkelVacU80NlJNZjRqRko4Z3NQNk13SHJxT3FuTjlvQy12TFpzbmxFcGJPOV9FZzhkclFlOHI4X1RWd0toeTFVbUlsbjJvVFhsS0ZJNXJkQm43WHZRd3RhYTE1c1hFTjFWc09nWWFGZzJnVE5aaGNDaXhoOWxsbVZXMnl0Mmc?oc=5",
+   "title": "Consumers Energy plans to double power output in 20 years",
+   "at": "2026-09-04T11:40:21+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: Same Consumers Energy capacity doubling and ratepayer bill story already live."
   }
  ],
  "auto_published": [
-  {
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYXZ4NmxtQXp5bzdScmhUWkNiX0tUZFVLTE9MeUdULThlQW5nYjNOdE1KUjEyOHBrV0lRX0FYVTI3dmxSOTBzY3ctcXVRMjFfSzZ4V3VCcTlFUDE1dXhUeWlwV053OFIydWc1eWc2c1lqNzhwbm40bFhybVoybHBZY3FBWDhFZ0FHNUVB?oc=5",
-   "title": "Warren eyes 6-month data center ban to study grid strain",
-   "judge_score": 7,
-   "at": "2026-07-18T01:00:51Z"
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTWZYYUlFWUdNT2NxZi1FZmNNbC10YVBaS09uU3pSZDVhc2dOQU5xeGxVbFdRVkdJcG1Tc2N6UDBjZkZVcW4zRGdtakNXS3d4SW5KbU5UVzJ4bC1sZXh6QThLNUV0Y2N5MWJJcjN6Wl9Pd0NVcVVjU0hodnl1d1g0Wm5EeVpCdw?oc=5",
-   "title": "Hagar Township bans new data centers for at least a year",
-   "judge_score": 9,
-   "at": "2026-07-18T04:08:01Z"
-  },
   {
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTnpZSVlZREx3aHZxZEp5dDU2VzBXRlFJdkZRWW9EMnNMT3BvWkl3Y3lVMi11MkQzUlRtc1pRaUotWFk4ckRBeF9lMWFkekttMERQWnJzSTVTTkVxamhPN1VlQXNXYnZKeFVfRkpLT2RZZ21UT1loaEQ2aEFqMUotOElqRWNTQQ?oc=5",
    "title": "NY moratorium threatens Genesee County's STAMP data-center plans",
@@ -3201,6 +3189,18 @@
    "title": "Lenox Twp residents demand answers on hidden data center plans",
    "judge_score": 6,
    "at": "2026-09-03T23:13:15Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOS1WZkJDODRndTh1bWJXWjVuTy1Ba3QxZVQ0WTZ1OGIzTUZCMXFDUmVtMkFPdjR1aG5ISlg4RFFkd3c0Y09iZGpTdzRGYUZweXpqZm92VTM5ZGFXTmpDZ2J1dzFDa2dFQmVVb3NpZWYtbzVaS2JkdzBfeDVFRWNtVVlRLWRvVERqQ0NvaVZwSExWZTdEU0hqQUt2SEJETGpzNkVhSEM2NlhteXdEWkIxa1ZtSFJ1aWpKVzEwcHB3dzFLV3JNZFBR?oc=5",
+   "title": "U-M computing center raises nuclear weapons worries",
+   "judge_score": 6,
+   "at": "2026-09-04T11:40:21Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ2hoZUJkdWVCemhOVHFudXM3T0VVLTFGdU9hcFdXQzQtRnVFazhMekdsNXB3RjJDQXdRbm5pQ3lsUVVsNzNSVTg5MVFkU3BKZ3llVV9Za1FjMm90ZXBsSmpkcDVZekxOU2pDajhDQWktVWlJR2hBSi1ieDR0MDhESGtpakVlM0xxN2hpZWZzakQ?oc=5",
+   "title": "Farm seeks city annexation to build Michigan data center",
+   "judge_score": 7,
+   "at": "2026-09-04T11:40:21Z"
   }
  ]
 }

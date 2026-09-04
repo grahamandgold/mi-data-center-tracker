@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-04T06:30:15+00:00",
+ "updated_at": "2026-09-04T11:40:21Z",
  "generator": "grok-wire-agent",
  "items": [
   {
@@ -22,28 +22,7 @@
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7,
    "judge_note": "New community forum in Flint with concrete event details; different city and meeting from existing Ionia coverage."
-  },
-  {
-   "title": "Saline mayor hopefuls split on Oracle tax deal and campus size",
-   "dek": "Candidates differ sharply on whether to grant Oracle a 12-year tax break for its proposed $43 billion data center complex. One side argues the project will overwhelm roads and wells; the other says the jobs and revenue are too big to lose. Saline voters will decide which vision prevails in November.",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY2p5RmVyTEc2U0VuenpHSWtIVDQ0ZmswcHZfQTdfdk84MjBvVnllcm9OZV9ydmJzcUxnR2M0MnBUbGlNZzFyQlJvOXJuZURkOHZIcVhyMW5DdVBtRnk4UC13M0lFa2c5aDlyWl8xZ2psNjdDZnBzUEt0SFBhTVgtZ3pDclQ?oc=5",
-   "source": "The Sun Times News",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Money",
-   "iso": "2026-09-02T20:43:51Z",
-   "kind": "story",
-   "id": "cdac41ecf5b3",
-   "filed_at": "2026-09-03T09:07:41Z",
-   "origin": "google-news",
-   "headline_rewritten": true,
-   "source_title": "Saline Mayoral Candidates Offer Competing Visions - The Sun Times News",
-   "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY2p5RmVyTEc2U0VuenpHSWtIVDQ0ZmswcHZfQTdfdk84MjBvVnllcm9OZV9ydmJzcUxnR2M0MnBUbGlNZzFyQlJvOXJuZURkOHZIcVhyMW5DdVBtRnk4UC13M0lFa2c5aDlyWl8xZ2psNjdDZnBzUEt0SFBhTVgtZ3pDclQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 8,
-   "judge_note": "Concrete new development: mayoral candidates taking public positions on a specific tax deal for the Oracle project represents a real campaign issue and policy d"
   }
  ],
- "accuracy_checked_at": "2026-09-04T06:30:11+00:00"
+ "accuracy_checked_at": "2026-09-04T11:40:14+00:00"
 }
