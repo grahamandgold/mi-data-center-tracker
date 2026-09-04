@@ -1,10 +1,10 @@
 {
- "title": "Mornings with Graham & Emmy",
- "teaser": "Rural landowner wants city annexation for a data center—what it means for taxes, farmland, and local power.",
+ "title": "Evenings with Graham & Emmy",
+ "teaser": "Garfield Twp takes 12 months to write data center rules—what it means for bills, water and farmland across Michigan.",
  "lines": [
   {
    "host": "Graham",
-   "text": "Good morning and welcome to Mornings with Graham & Emmy—the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
+   "text": "Good evening and welcome to Evenings with Graham & Emmy—the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
   },
   {
    "host": "Emmy",
@@ -12,210 +12,178 @@
   },
   {
    "host": "Graham",
-   "text": "It's Friday morning, September 4, and our big story today is a rural farm pushing to join a nearby city just so a data center can go up on that land."
+   "text": "Tonight we're leading with Garfield Township's decision to spend a full year drafting zoning and permitting standards for data centers."
   },
   {
    "host": "Emmy",
-   "text": "That annexation move would pull tax revenue and decision-making away from the township and straight into city hands."
+   "text": "That's a big pause in Grand Traverse County, right? What exactly are they trying to get right before anything moves forward?"
   },
   {
    "host": "Graham",
-   "text": "Exactly, and residents even 30 miles away could feel the ripple effects on land use and services if it goes through."
+   "text": "Supervisors want clear limits on power demand, noise levels and water use. Residents get time to weigh effects on taxes, traffic and the local grid before any project advances."
   },
   {
    "host": "Emmy",
-   "text": "Graham, walk us through what we know so far about this specific request."
+   "text": "Why a full twelve months? Is this the first township to hit the brakes this hard, or have we seen similar moves elsewhere?"
   },
   {
    "host": "Graham",
-   "text": "A property owner in a rural area is petitioning a nearby city to annex the land specifically to enable a data center development."
+   "text": "It's the latest in a string of local pushbacks. Lakeshore Township just used existing zoning to block large-scale server farms near homes and wells, keeping water and noise concerns off the table for now."
   },
   {
    "host": "Emmy",
-   "text": "Why go through annexation instead of just working with the township?"
+   "text": "And west Michigan towns are watching that language. How does the Garfield approach compare in terms of giving residents real input?"
   },
   {
    "host": "Graham",
-   "text": "The township likely has stricter zoning or outright resistance to large-scale industrial projects like this, while the city may offer more favorable rules or incentives."
+   "text": "Garfield's timeline is more deliberate. It lets the township study concrete numbers on megawatts and daily water use, similar to what Mid-Michigan residents will hear at a university-hosted town hall coming up."
   },
   {
    "host": "Emmy",
-   "text": "That tracks with the pattern we've seen across the state lately."
+   "text": "That town hall sounds useful. Who exactly gets to ask questions there, and what kind of data will they see?"
   },
   {
    "host": "Graham",
-   "text": "It does. We've had multiple townships hit the brakes on data centers in the past week alone."
+   "text": "Anyone within about thirty miles. They'll get specifics on how proposed centers could affect electricity rates and aquifer levels—real numbers, not just estimates."
   },
   {
    "host": "Emmy",
-   "text": "So who are the main players here—the landowner, the city, the township board?"
+   "text": "Higher electric bills are the big fear for ratepayers. We heard yesterday that one utility's twenty-year plan calls for more than doubling capacity partly to serve data centers. How does that tie into these local delays?"
   },
   {
    "host": "Graham",
-   "text": "The landowner is driving it for the development opportunity, the city stands to gain tax base and jobs, and the township loses both revenue and say over what happens on that ground."
+   "text": "Exactly. If projects get slowed or shaped by rules like Garfield's, it could change where and how fast that new capacity is needed. Ratepayers across the state would still foot the bill for upgrades if they move ahead."
   },
   {
    "host": "Emmy",
-   "text": "How big a deal is the tax shift in practical terms for these small communities?"
+   "text": "Water is another flashpoint. Ypsilanti-area residents are planning a protest Saturday over two proposed campuses that could pull millions of gallons daily. How widespread is that concern?"
   },
   {
    "host": "Graham",
-   "text": "Data centers can bring significant property tax revenue, so moving that from township to city budgets changes who funds roads, fire protection, and schools in the area."
+   "text": "Very. Lenox Township residents are also demanding full disclosure after learning about plans through back channels, worried about noise, power strain and lost farmland in Macomb County."
   },
   {
    "host": "Emmy",
-   "text": "And what about the farmland angle—how much productive ag land are we talking about losing?"
+   "text": "Transparency keeps coming up. Is that why a second recall bid failed yesterday for an official tied to a data center rezoning?"
   },
   {
    "host": "Graham",
-   "text": "It's prime rural acreage that would switch from crops to server farms, and once it's developed that way it rarely goes back."
+   "text": "Election officials rejected it, but the underlying fight over land-use changes that could open the door to server farms is still very much alive. Voters thirty miles away are watching how these disputes play out."
   },
   {
    "host": "Emmy",
-   "text": "Water use is always the next question with these facilities."
+   "text": "Farmland is another piece. A rural property owner wants to annex into a nearby city so a data center can go on that land. What does that shift mean for the township left behind?"
   },
   {
    "host": "Graham",
-   "text": "Cooling systems can pull millions of gallons daily, and annexation might change which local rules apply to that draw."
+   "text": "Tax revenue and local control move with the annexation. Residents even thirty miles away could feel changes in land use and services if it succeeds."
   },
   {
    "host": "Emmy",
-   "text": "Power demand is the other big one—what does this mean for electric bills down the road?"
+   "text": "Ionia is also weighing whether to let data centers tap city power and land—hundreds of megawatts. Any vote yet?"
   },
   {
    "host": "Graham",
-   "text": "Any new large load like this factors into utility planning, and ratepayers across the region end up covering upgrades if capacity has to expand."
+   "text": "No vote, but the conversation signals the city is open. Residents thirty miles away would see higher utility bills if new plants or lines are needed."
   },
   {
    "host": "Emmy",
-   "text": "We've seen that exact issue in the utility's latest filing just yesterday."
+   "text": "And yesterday University of Michigan's new computing center raised nuclear weapons worries. How does that fit into the bigger picture of data centers and local oversight?"
   },
   {
    "host": "Graham",
-   "text": "Right—more than doubling capacity over 20 years partly to serve data center growth, with costs passed to customers."
+   "text": "Ann Arbor residents and activists want clearer answers on possible military ties. It affects state research funding and how the university expands in the area."
   },
   {
    "host": "Emmy",
-   "text": "So if this annexation succeeds, is it a green light for similar moves elsewhere?"
+   "text": "So across the state we're seeing everything from outright blocks to year-long studies to protests. What's the common thread for someone listening in, say, Oakland or Kent County?"
   },
   {
    "host": "Graham",
-   "text": "It could set a precedent that encourages other landowners to shop around for friendlier jurisdictions."
+   "text": "Power and water demands hit ratepayers and aquifers no matter where the centers land. Local rules like Garfield's could set precedents that travel."
   },
   {
    "host": "Emmy",
-   "text": "What happens next—public hearings, votes, legal challenges?"
+   "text": "What happens next in Garfield specifically? Do they have a timeline for public input during those twelve months?"
   },
   {
    "host": "Graham",
-   "text": "The city will likely hold annexation proceedings, the township can weigh in or fight it, and residents will have a window to comment."
+   "text": "The supervisors said the delay itself gives locals time to weigh impacts. We'll watch for meeting notices on how residents can weigh in."
   },
   {
    "host": "Emmy",
-   "text": "How far along is the actual data center proposal beyond the land request?"
+   "text": "Sounds like a model other townships might copy if the data from that Mid-Michigan town hall shows big numbers."
   },
   {
    "host": "Graham",
-   "text": "Details are still emerging, but the annexation is the key first step to unlock the build."
+   "text": "Exactly. The conversation is just getting started."
   },
   {
    "host": "Emmy",
-   "text": "This feels like another chapter in the bigger statewide pushback we've been tracking."
+   "text": "Let's move to a few other stories that broke today and yesterday."
   },
   {
    "host": "Graham",
-   "text": "It is—yesterday alone we saw recalls, moratoriums, and transparency fights in multiple counties."
+   "text": "Mid-Michigan residents get their first detailed look at data center power and water demands at that university town hall. Concrete megawatt and daily water figures on the table."
   },
   {
    "host": "Emmy",
-   "text": "Let's move to those quick hits, starting with the University of Michigan computing center."
+   "text": "And Lakeshore Township used existing zoning to block data centers near homes and wells—no new rules needed, just enforcement."
   },
   {
    "host": "Graham",
-   "text": "Ann Arbor residents and activists are questioning whether the new facility could tie into nuclear weapons research."
+   "text": "Ypsilanti-area activists plan a Saturday protest at the Van Buren Township line against two proposed campuses drawing millions of gallons daily."
   },
   {
    "host": "Emmy",
-   "text": "What answers are they seeking on military connections and local oversight?"
+   "text": "A farm owner is pushing annexation into a nearby city to build on rural land, shifting taxes and control away from the township."
   },
   {
    "host": "Graham",
-   "text": "They want clearer disclosure on how the project might support defense programs and how the university expansion gets reviewed."
+   "text": "Yesterday, U-M's computing center plans drew fire over possible nuclear weapons work ties. Activists want clearer answers."
   },
   {
    "host": "Emmy",
-   "text": "Next up, Lenox Township residents learned about data center plans through back channels."
+   "text": "Lenox Township residents are demanding full disclosure after learning of proposals only through back channels—noise, power and farmland worries in Macomb County."
   },
   {
    "host": "Graham",
-   "text": "They're demanding full transparency after worrying about noise, power strain, and lost farmland in Macomb County."
+   "text": "A second recall attempt failed for an official tied to data center rezoning. The land-use fight continues."
   },
   {
    "host": "Emmy",
-   "text": "That distrust in township leadership is understandable when info comes late."
+   "text": "And Ionia council members discussed inviting large-scale facilities that could pull hundreds of megawatts from the local grid—no vote yet."
   },
   {
    "host": "Graham",
-   "text": "Over in Ionia, the council discussed letting data centers tap city power and land—no vote yet, but they're open to proposals."
+   "text": "Finally, Michigan ratepayers face higher bills as a utility seeks to more than double capacity over twenty years, partly for data center growth."
   },
   {
    "host": "Emmy",
-   "text": "Residents 30 miles out could see higher utility bills if new infrastructure is needed."
+   "text": "Now, on deck for listeners who want to show up. The Mid-Michigan town hall is coming soon—check local university listings for exact time and place."
   },
   {
    "host": "Graham",
-   "text": "In Zeeland Township, the board just approved a one-year moratorium on new data centers and related power projects."
+   "text": "The Ypsilanti-area protest is Saturday at the Van Buren Township line. Anyone within driving distance of Washtenaw or Wayne counties has a stake."
   },
   {
    "host": "Emmy",
-   "text": "Concerns over noise, water, and tax breaks drove that pause to give time for permanent rules."
+   "text": "Garfield Township meetings over the next year will be where the new zoning rules get shaped—watch township notices for dates."
   },
   {
    "host": "Graham",
-   "text": "Ypsilanti extended its own moratorium to study impacts on power rates and water supply."
+   "text": "Ionia council will likely revisit the power and land discussion at future sessions."
   },
   {
    "host": "Emmy",
-   "text": "Washtenaw County taxpayers might end up subsidizing transmission lines later."
-  },
-  {
-   "host": "Graham",
-   "text": "A township is also using a six-month power connection freeze to stall a proposed U-M and Los Alamos-linked data center."
-  },
-  {
-   "host": "Emmy",
-   "text": "Local governments showing they can slow hyperscale projects even after state interest appears."
-  },
-  {
-   "host": "Graham",
-   "text": "Two recall efforts made news yesterday—one failed against an official tied to data center rezoning."
-  },
-  {
-   "host": "Emmy",
-   "text": "The other is a new drive in Mason against the mayor over similar rezoning without enough public input."
-  },
-  {
-   "host": "Graham",
-   "text": "Both center on land-use changes that could open the door to large server farms in Ingham County."
-  },
-  {
-   "host": "Emmy",
-   "text": "On deck, are there any public meetings listeners can attend this weekend or early next week?"
-  },
-  {
-   "host": "Graham",
-   "text": "Nothing major on the immediate calendar from the tracker, but several townships are still working on permanent rules after recent moratoriums."
-  },
-  {
-   "host": "Emmy",
-   "text": "Worth keeping an eye on those agendas as they get posted."
+   "text": "And keep an eye on annexation hearings if that rural farm proposal advances."
   },
   {
    "host": "Graham",
    "text": "Full sources and the live map at the Michigan Data Center Tracker. We're back tomorrow."
   }
  ],
- "episode_title": "Farm Annexation Push for Data Center Sparks Tax and Control Fight",
- "show": "Mornings with Graham & Emmy",
- "daypart": "Mornings"
+ "episode_title": "Garfield Township's Year-Long Rule-Making on Data Centers: Impacts on Power, Water and Loc",
+ "show": "Evenings with Graham & Emmy",
+ "daypart": "Evenings"
 }
