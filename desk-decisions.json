@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://mitechnews.com/clean-green-hybrid/michigan-built-for-the-ev-boom-now-ai-data-centers-could-become-the-bigger-prize/",
-   "title": "Michigan EV investments eyed as power source for AI data centers",
-   "at": "2026-08-20T16:44:18+00:00",
-   "by": "news_judge",
-   "note": "score 5/10: Incremental development on potential power sources for data centers."
-  },
-  {
    "url": "https://finance-commerce.com/2026/08/ai-data-centers-manufacturing-growth/",
    "title": "AI data center construction drives U.S. factory investments in generators and electrical equipment",
    "at": "2026-08-20T16:44:18+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-09-05T16:44:38+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: This is the same Lenox Township transparency/secrecy story already killed multiple times by the News Director under various headlines."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMnN3TWc3ZDhSNXBJMXd3UGVVMl9TMV9FcG9vUGM3c3hfeldOMG1Xd0t6VEx6NERnampiRS1VazE2dWl5NkM0Q2M3WGl0V1BUWnljUjVUWWZYQ2ppMHlDRklhc01KVjU2R084QTVSODU3R25FMk1hbDVwaXNKUHJ3S0tkcEozS3lKYzZEZGI3ZlluOU5zVDBBY0ppVnI?oc=5",
+   "title": "Dowagiac bitcoin mine ends crypto ops to switch to AI data center",
+   "at": "2026-09-05T23:12:18+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This is the Hyperscale Data/Dowagiac Bitcoin-to-AI story that has been killed multiple times in various wordings."
   }
  ],
  "auto_published": [
