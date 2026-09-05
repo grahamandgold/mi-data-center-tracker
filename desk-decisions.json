@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVVpXS3JGY2ljRWl1SGNlQ2pDdDFuVU1XZkREcTE2YzM4SE0xZGlvckxDZEJPV0tVTWJoanh4dW9qTlRkYWZ4eUhFMHFMSUZWZTJhM3RNWEdxSkp2UUZRX2FsYXBVWURDQXNRem5lM2tmNjRCaFpVcklPVlhNQ3Z6b1B0M2Z3dEQ4bnI2U19leG83QnNnT1pMRk10M2tMZG55VEVHSUNFN09FWVA3RHBVRVNUVGd1U1l6U0lsWVdIRElCQTQ3R2fSAdoBQVVfeXFMUFg5WFZzUFlTQkJyUkZMZGFLcmlpUVRFZjgyNDJ2RTVJdEhHSkthRE13VkhRQlhVYnpVSFpJS05UVDV4cThzRTNxeE5GeXQ1dE5OY2Y3Y1hValJrSTZhOWZ3a1B2UTVaLUxoSFNPX1BNRGpBUnhkb3NMSlhIeEZQN2xrVVJOeTVJVzM3dWh1VzM4a0JpZ1cxOTY1VVJkSkNNM0lMQWQ1QS1ENVJ3QVBfWlFqcmRoaTFHX3hmZ19fd1N1ZXM4R21oQjRyTU5rWjFzUmNYeTlhQmFRWWc?oc=5",
-   "title": "Developer sues Gibraltar to overturn year-long data center ban",
-   "at": "2026-08-20T14:45:19+00:00",
-   "by": "news_judge",
-   "note": "score 1/10, duplicate: Duplicate of previously killed stories about Gibraltar lawsuit."
-  },
-  {
    "url": "https://www.shorelinemedia.net/ludington_daily_news/news/michigan-wants-data-centers-what-did-the-state-offer/article_2cc97e84-e86f-48f7-98b6-84ceefc79b5a.html",
    "title": "State Incentives for Data Centers Examined in New Report on Michigan's Strategy",
    "at": "2026-08-20T15:42:07+00:00",
@@ -1399,15 +1392,16 @@
    "at": "2026-09-04T23:14:10+00:00",
    "by": "news_judge",
    "note": "score 4/10: National trend piece with thin Michigan angle (DTE contract mention) and broad industry statistics rather than concrete Michigan development."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR18yT0Zma1ZGSnBrMnZBVzYwSzd2TGFUVlB4b0hWcTFJRTZkdFhLczhWaXlfTWw1eVBjdF9LS3RRWFotTDllbmd6clB0RGhfY3hLNVByeXJRQS1lRE41ZG5RcDk3ZXAzTjVpTE5TZ1o1aTI5UWRrcmFWVGVXbFdrem9BYnI3V185SjFzOTBEdjR0UjFVMGxaQ21HcVpzWUpvRHNHYmREaW9mM0VfVVZuSg?oc=5",
+   "title": "Michigan data center faces growing pushback over nuclear weapons link",
+   "at": "2026-09-05T01:20:11+00:00",
+   "by": "news_judge",
+   "note": "score 3/10, duplicate: This is a thin rehash of the already-live U-M computing center nuclear weapons story, not a new development or decision."
   }
  ],
  "auto_published": [
-  {
-   "url": "https://www.thecooldown.com/green-tech/warren-city-council-data-center-pause/",
-   "title": "Warren Freezes New Data Centers After Storms Down 60+ Power Lines",
-   "judge_score": 6,
-   "at": "2026-07-18T15:04:27Z"
-  },
   {
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkcjN3Q0lSMEFWQ19zWlVQUHJsbzNUQmF4T2w1R0pXY1B3LXp3Zk90WEF1SnMweXB1NkZlRFZESkRQUWpmMmdaLVRYT3BKZXNITndtMFdaM2Q0d2dFRXFGaDV6S1hhcTRSa3NyQzcyZFR1bE9jQlE0?oc=5",
    "title": "Augusta Twp voters face data center referendum after heated campaign",
@@ -3201,6 +3195,12 @@
    "title": "Garfield Twp to spend a year crafting data center rules",
    "judge_score": 7,
    "at": "2026-09-04T23:14:10Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQeEIyTmFJLXV5blREZkc3LWg1ZjVrRUp6R050NjllbHNrbExtOUhGNTV5UGo1LXhrdDdreVVURVFIWExTcEhPbE9OYnpzaFgwMktDQXVTTTFXWm8zc09oNHYyb0tHQkwxTWs3UDhJcWdUUXNhX0xCcTY5VHA1anNVQ0FJbl83MXpqTm9QWmI1WS10b1o3ZnV0U29nbm5aUGU5UDNNWVBuV2hLTHhxNzh2SUd4X1JDZnRIcE1peThSXzZQVFdMeUgwVjMtUEJQbGJSSDFiRXpkdk4wRDg5WXZyaFAtUzNCRjNDd2dLNDRR?oc=5",
+   "title": "Kalamazoo adds moratorium to zoning code to slow data center rush",
+   "judge_score": 8,
+   "at": "2026-09-05T01:20:11Z"
   }
  ]
 }
