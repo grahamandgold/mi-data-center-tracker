@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.shorelinemedia.net/ludington_daily_news/news/michigan-wants-data-centers-what-did-the-state-offer/article_2cc97e84-e86f-48f7-98b6-84ceefc79b5a.html",
-   "title": "State Incentives for Data Centers Examined in New Report on Michigan's Strategy",
-   "at": "2026-08-20T15:42:07+00:00",
-   "by": "news_judge",
-   "note": "score 5/10: Incremental development in a series on state incentives, but lacks a concrete new decision or event."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbEJUbU5rZWlMZHhobkNrLXNIUkVMZ2dZUjBCMWs0VV9UZmNtUWdRVVdKcklRQkFvNmIyWVhHY050RTRwdkF3VlQ1TE0wMDR0TERHTTZMa0N3S3J6alA1dC1LRllWdW8wRUtQY0NYRUgyUUNhVjVQRm1OdElWTG5wVHU3Wi1PWXdEQTZjSEREbUhnUkFDb2pnZ1Qzd1lxdw?oc=5",
    "title": "Gibraltar faces lawsuit over data center moratorium",
    "at": "2026-08-20T15:42:07+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-09-05T01:20:11+00:00",
    "by": "news_judge",
    "note": "score 3/10, duplicate: This is a thin rehash of the already-live U-M computing center nuclear weapons story, not a new development or decision."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOHhETVFpaHdXdHdoNVFiMDBHekpLTnRvN3B5eGV1SEtmRmUyb0p6Z1YweGYzdlZjMTMtcDMzcjFnbi1EWmJYSE5XXzJCM0w4bVAzcmdHVFlWeE9ieFQydm9GbnkxRk1tTmVqMzQ4dlpmZTdWSmdabzhidGJKUEdTSnBVSWxWUWR1eVR6TmZSRlBEdzU1elYtb2RYQ1lEc3MxNTVQYnZvUdIBuwFBVV95cUxOck1wVHZ0MFlpWFJqRWg5anJhdGppbHRMaTZ0T09Ub0dvYmMzdjA5Y1RISTI4cTJjNGJFSEJZRmhKVGlkZ3c2LUdkbU9WRFN2YkZtUEhlY09iLWxub3hXdERpekJVSVF1cC1xNVZYNkF2aHZ1YldqUmxUcXlQUDlmVW80SHBaVVdIZkJMZHJXWGtRbTFQMWFwaDhHSDc5UGdtazZTdVB2dTV5NDRtaHR2OVNkRlZ6V2gtb000?oc=5",
+   "title": "Dowagiac site drops Bitcoin mining to become AI data center",
+   "at": "2026-09-05T06:16:12+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This is the Hyperscale Data/Dowagiac Bitcoin-to-AI conversion story that has been killed multiple times in different wordings."
   }
  ],
  "auto_published": [
