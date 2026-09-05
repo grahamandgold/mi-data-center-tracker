@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbEJUbU5rZWlMZHhobkNrLXNIUkVMZ2dZUjBCMWs0VV9UZmNtUWdRVVdKcklRQkFvNmIyWVhHY050RTRwdkF3VlQ1TE0wMDR0TERHTTZMa0N3S3J6alA1dC1LRllWdW8wRUtQY0NYRUgyUUNhVjVQRm1OdElWTG5wVHU3Wi1PWXdEQTZjSEREbUhnUkFDb2pnZ1Qzd1lxdw?oc=5",
-   "title": "Gibraltar faces lawsuit over data center moratorium",
-   "at": "2026-08-20T15:42:07+00:00",
-   "by": "news_judge",
-   "note": "score 1/10, duplicate: Duplicate of already killed stories about Gibraltar lawsuit over data center moratorium."
-  },
-  {
    "url": "https://mitechnews.com/clean-green-hybrid/michigan-built-for-the-ev-boom-now-ai-data-centers-could-become-the-bigger-prize/",
    "title": "Michigan EV investments eyed as power source for AI data centers",
    "at": "2026-08-20T16:44:18+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-09-05T06:16:12+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: This is the Hyperscale Data/Dowagiac Bitcoin-to-AI conversion story that has been killed multiple times in different wordings."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVmNuR2dVQVhLNE1WWjEzakV1Z0NVdmN6OG9zcEhORGlaYlNlVDlSR251N0JmbnRTZldyNjJlSGFBcG14aG15aFVRek5pbzdQRGxFOW9xeEpPdUhLTkowcVVvTEZBeTVjU2IwNWJBbnQxUkh2djltRFZsajVMRS04VlFKaU1pb080RloyYlQyN2U4UGlTMFdlSWxGdkNaSnEzTU8tSUdPMFQ1V3ppUjRqWUt0MzY0QXlpZ2dkS0FRN2t3MjJCX1E?oc=5",
+   "title": "Lenox Township residents demand answers on planned data centers",
+   "at": "2026-09-05T16:44:38+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This is the same Lenox Township transparency/secrecy story already killed multiple times by the News Director under various headlines."
   }
  ],
  "auto_published": [
