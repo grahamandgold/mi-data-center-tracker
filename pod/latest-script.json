@@ -1,10 +1,10 @@
 {
- "title": "Evenings with Graham & Emmy",
- "teaser": "Mason County starts construction today while Kalamazoo, Garfield Twp and others hit pause.",
+ "title": "Mornings with Graham & Emmy",
+ "teaser": "Old plant site bid revives as towns add pauses and protests grow.",
  "lines": [
   {
    "host": "Graham",
-   "text": "Good evening, and welcome to Evenings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
+   "text": "Good morning and welcome to Mornings with Graham & Emmy, the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
   },
   {
    "host": "Emmy",
@@ -12,275 +12,187 @@
   },
   {
    "host": "Graham",
-   "text": "It's Saturday night, and our big story tonight is the groundbreaking in Mason County on two new large-scale data centers."
+   "text": "Today we're diving into a developer restarting plans for a big power-hungry facility on an old Emerson Electric campus site."
   },
   {
    "host": "Emmy",
-   "text": "Right, and that comes just as several other townships are hitting the brakes. Let's start there."
+   "text": "That one sounds familiar from past talks. What's the latest move?"
   },
   {
    "host": "Graham",
-   "text": "Western Mason County approved construction today. The projects will pull a lot of power from the regional grid and bring construction and operations jobs."
+   "text": "FOX 2 reports the developer is back at it today, pushing to convert the former plant into a data center."
   },
   {
    "host": "Emmy",
-   "text": "But locals are already talking about what it means for power reliability and tax revenue. How did we get here so fast?"
+   "text": "Why restart now? Is it tied to the AI boom we've seen all summer?"
   },
   {
    "host": "Graham",
-   "text": "This fits a pattern we've seen building all year. AI demand is driving proposals across the state, and utilities are looking at big load growth."
+   "text": "Exactly. The project would add serious new demand on the local grid while raising questions about tax revenue for the community."
   },
   {
    "host": "Emmy",
-   "text": "Right, and that raises the usual questions about who pays for upgrades and whether bills go up for everyone else."
+   "text": "Residents nearby would notice changes in electricity rates and how land gets used, right?"
   },
   {
    "host": "Graham",
-   "text": "Exactly. Data centers can use as much power as a small city, so when they come online the grid has to handle it."
+   "text": "That's the core concern. Data centers pull huge amounts of power, and utilities have to plan around that."
   },
   {
    "host": "Emmy",
-   "text": "And water use is another big one, especially in places already watching aquifer levels."
+   "text": "How does this fit the bigger pattern we've tracked? We've had pauses in Kalamazoo and Garfield Township just this week."
   },
   {
    "host": "Graham",
-   "text": "Mason County residents will feel the tax side too. New facilities often mean new revenue, but it depends on how the deals are structured."
+   "text": "It does. Those moves came after proposals multiplied fast, and locals wanted time to study grid strain and water use."
   },
   {
    "host": "Emmy",
-   "text": "So is this the first major project to actually break ground this month, or have others moved forward quietly?"
+   "text": "So is this Emerson restart likely to face the same pushback?"
   },
   {
    "host": "Graham",
-   "text": "It's one of the first visible groundbreakings we've tracked in western Michigan. Most of the action lately has been in zoning fights and moratoriums."
+   "text": "Probably. The story notes residents will feel impacts on rates and land use, similar to other sites."
   },
   {
    "host": "Emmy",
-   "text": "That tracks with what we saw yesterday in Kalamazoo, where they added a moratorium to slow things down."
+   "text": "What's the history here? Has this site been eyed before?"
   },
   {
    "host": "Graham",
-   "text": "Yes, and Garfield Township in Grand Traverse County is taking a full year to write rules on power demand, noise, and water."
+   "text": "The summary doesn't give prior details, but restarts like this often follow earlier interest that stalled over permitting."
   },
   {
    "host": "Emmy",
-   "text": "That delay gives residents time to weigh the trade-offs before anything advances. Smart move or just kicking the can?"
+   "text": "Who are the main players? The developer, the township, and the utility company?"
   },
   {
    "host": "Graham",
-   "text": "It buys breathing room. A lot of these townships are small and don't have dedicated staff for complex utility issues."
+   "text": "Yes, and local residents who live close enough to worry about noise or higher bills."
   },
   {
    "host": "Emmy",
-   "text": "Meanwhile, a university town hall yesterday gave Mid-Michigan residents their first concrete numbers on megawatts and daily water use."
+   "text": "What happens next? Any hearings scheduled soon?"
   },
   {
    "host": "Graham",
-   "text": "That's the kind of detail people need when projects are proposed within 30 miles."
+   "text": "The report doesn't specify dates, but these bids usually go through zoning reviews and public comment periods."
   },
   {
    "host": "Emmy",
-   "text": "And over on the Lakeshore, one township is already using existing zoning to block data centers near homes and wells."
+   "text": "And on the power side, how much demand are we talking? Enough to affect reliability?"
   },
   {
    "host": "Graham",
-   "text": "Nearby towns are watching to see if the same language works for them."
+   "text": "Data centers of this scale can add hundreds of megawatts, which is why towns are studying it carefully."
   },
   {
    "host": "Emmy",
-   "text": "Then there's the planned protest today in the Ypsilanti area over water use at two proposed campuses."
+   "text": "Water use is another big one. Do we know if this site would need cooling water?"
   },
   {
    "host": "Graham",
-   "text": "Activists say those could draw millions of gallons daily. Homeowners in Washtenaw and Wayne counties have a stake."
+   "text": "The FOX 2 piece flags land use and rates, but water is a common issue statewide right now."
   },
   {
    "host": "Emmy",
-   "text": "A farm owner on Friday pushed for city annexation to build on rural land, shifting taxes and control."
+   "text": "Tax revenue questions too. Would the township gain or lose if it goes through?"
   },
   {
    "host": "Graham",
-   "text": "That move would change land use and services for residents 30 miles away if it succeeds."
+   "text": "That's the trade-off communities weigh. Jobs and taxes versus higher utility costs for everyone."
   },
   {
    "host": "Emmy",
-   "text": "And the University of Michigan computing center plans drew questions on Friday about possible nuclear weapons ties."
+   "text": "Sounds like a classic case of balancing growth with local impacts."
   },
   {
    "host": "Graham",
-   "text": "Ann Arbor residents want clearer answers on how the project could support military programs."
+   "text": "It is. We'll keep watching how this one develops alongside the other proposals."
   },
   {
    "host": "Emmy",
-   "text": "In Lenox Township on Thursday, residents demanded full disclosure after learning about proposals through back channels."
+   "text": "Shifting to quick hits now. Mason County broke ground on two major centers yesterday."
   },
   {
    "host": "Graham",
-   "text": "The worry there is noise, power strain, and lost farmland in Macomb County."
+   "text": "Right. Western Mason County approved construction that will pull significant electricity and create construction jobs."
   },
   {
    "host": "Emmy",
-   "text": "Also Thursday, a second recall bid failed for an official tied to a data center rezoning."
+   "text": "Locals there will see effects on power reliability and tax revenue, per DC News Now."
   },
   {
    "host": "Graham",
-   "text": "Voters are watching how these fights shape future development across the region."
+   "text": "Next, Kalamazoo added a moratorium to its zoning code on Saturday to slow the rush."
   },
   {
    "host": "Emmy",
-   "text": "Back to Mason County though. What happens next now that shovels are in the ground?"
+   "text": "FOX 17 says it's a temporary ban while the township studies impacts amid statewide grid and water concerns."
   },
   {
    "host": "Graham",
-   "text": "Construction jobs start immediately, but the real test will be when the facilities come online and start drawing power."
+   "text": "Garfield Township in Grand Traverse County is spending a full year drafting rules, starting Friday."
   },
   {
    "host": "Emmy",
-   "text": "And whether the promised tax revenue actually offsets any rate impacts for everyone else."
+   "text": "9and10News reports residents could see limits on power demand, noise, and water before anything advances."
   },
   {
    "host": "Graham",
-   "text": "Utilities will be watching closely. These projects often require grid upgrades that get socialized."
+   "text": "Mid-Michigan got its first look at concrete numbers on power and water demands at a university town hall Friday."
   },
   {
    "host": "Emmy",
-   "text": "Right, and farmland conversion is permanent once the concrete is poured."
+   "text": "MLive covered that session, where residents within 30 miles heard megawatt and daily water figures."
   },
   {
    "host": "Graham",
-   "text": "That's why so many townships are writing new rules before more proposals land."
+   "text": "Lakeshore township used existing zoning Friday to block data centers near homes and wells."
   },
   {
    "host": "Emmy",
-   "text": "How many have paused or are studying impacts now?"
+   "text": "MLive notes nearby west Michigan towns are watching to see if the same rules work for them."
   },
   {
    "host": "Graham",
-   "text": "At least a handful across the state, from Kalamazoo to Grand Traverse and west Michigan."
+   "text": "Ypsilanti-area residents plan a protest Saturday over water use at two proposed campuses."
   },
   {
    "host": "Emmy",
-   "text": "It feels like a statewide recalibration after the initial rush."
+   "text": "MLive says activists target projects that could draw millions of gallons daily from local wells."
   },
   {
    "host": "Graham",
-   "text": "Residents are asking the same questions everywhere: power bills, water, noise, and who benefits."
+   "text": "A farm owner is seeking city annexation on Friday to build on rural land, per Crain's Detroit."
   },
   {
    "host": "Emmy",
-   "text": "And whether local boards have enough information before approving anything."
+   "text": "That would shift tax revenue and control away from the township if it succeeds."
   },
   {
    "host": "Graham",
-   "text": "The Mason projects will be a live test case for the rest of the state."
+   "text": "University of Michigan's new computing center plans drew nuclear weapons concerns on Friday."
   },
   {
    "host": "Emmy",
-   "text": "We'll be tracking how the grid handles the new load and what the first bills look like."
+   "text": "Michigan Advance reports Ann Arbor activists want clearer answers on possible military ties."
   },
   {
    "host": "Graham",
-   "text": "Exactly. Moving to quick hits now."
+   "text": "And Lenox Township residents demanded answers Thursday on hidden plans after learning details through back channels."
   },
   {
    "host": "Emmy",
-   "text": "Kalamazoo added a moratorium yesterday to slow the rush while they study impacts."
+   "text": "ClickOnDetroit covered worries about noise, power strain, and lost farmland in Macomb County."
   },
   {
    "host": "Graham",
-   "text": "Residents there could see fewer projects competing for power and land in the short term."
+   "text": "On deck for meetings, nothing major is listed for today specifically."
   },
   {
    "host": "Emmy",
-   "text": "Garfield Township is spending a full year drafting rules on zoning and permitting."
-  },
-  {
-   "host": "Graham",
-   "text": "That gives locals time to weigh taxes, traffic, and grid effects before anything advances."
-  },
-  {
-   "host": "Emmy",
-   "text": "A university town hall yesterday laid out power and water demands for Mid-Michigan residents."
-  },
-  {
-   "host": "Graham",
-   "text": "People within 30 miles got concrete numbers on megawatts and daily use."
-  },
-  {
-   "host": "Emmy",
-   "text": "Lakeshore township blocked data centers using existing zoning rules near homes and wells."
-  },
-  {
-   "host": "Graham",
-   "text": "Nearby west Michigan towns are watching to see if the same approach works."
-  },
-  {
-   "host": "Emmy",
-   "text": "Ypsilanti-area residents plan a protest today over water use at two proposed campuses."
-  },
-  {
-   "host": "Graham",
-   "text": "The Saturday event targets projects that could draw millions of gallons daily."
-  },
-  {
-   "host": "Emmy",
-   "text": "A farm is seeking city annexation to build a data center on Friday's news."
-  },
-  {
-   "host": "Graham",
-   "text": "That would shift tax revenue and local control away from the township."
-  },
-  {
-   "host": "Emmy",
-   "text": "University of Michigan plans for a new computing center raised nuclear weapons worries on Friday."
-  },
-  {
-   "host": "Graham",
-   "text": "Ann Arbor residents and activists want clearer answers on military program ties."
-  },
-  {
-   "host": "Emmy",
-   "text": "Lenox Township residents demanded answers on hidden data center plans on Thursday."
-  },
-  {
-   "host": "Graham",
-   "text": "The push comes amid worries about noise, power strain, and lost farmland in Macomb County."
-  },
-  {
-   "host": "Emmy",
-   "text": "A second recall bid failed Thursday for an official tied to data center rezoning."
-  },
-  {
-   "host": "Graham",
-   "text": "The fight centers on land-use changes that could open the door to more server farms."
-  },
-  {
-   "host": "Emmy",
-   "text": "On deck for listeners who want to attend something in person."
-  },
-  {
-   "host": "Graham",
-   "text": "The Ypsilanti-area protest is happening today at the Van Buren Township line."
-  },
-  {
-   "host": "Emmy",
-   "text": "It's a direct action on water use concerns for those two proposed campuses."
-  },
-  {
-   "host": "Graham",
-   "text": "Next week several townships are expected to continue work on their new zoning rules."
-  },
-  {
-   "host": "Emmy",
-   "text": "Garfield Township's year-long process is just getting started, so check local notices."
-  },
-  {
-   "host": "Graham",
-   "text": "And the Mid-Michigan university town hall series may have follow-ups."
-  },
-  {
-   "host": "Emmy",
-   "text": "Always verify dates and times on your township website."
+   "text": "Listeners should check their local township boards for any zoning or hearing updates this week."
   },
   {
    "host": "Graham",
@@ -291,7 +203,7 @@
    "text": "We're back tomorrow."
   }
  ],
- "episode_title": "Mason County Breaks Ground on Data Centers as Townships Push Back Statewide",
- "show": "Evenings with Graham & Emmy",
- "daypart": "Evenings"
+ "episode_title": "Emerson Restart Sparks Fresh Power and Land Worries",
+ "show": "Mornings with Graham & Emmy",
+ "daypart": "Mornings"
 }
