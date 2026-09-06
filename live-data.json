@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-06T21:37:49+00:00",
+ "updated_at": "2026-09-06T23:45:00Z",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -35,6 +35,23 @@
    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNFdDbWZfZUxhdXg1TDljcGdncVNjSDFsemRKTnFyYVFnbnUyaExRcENlc01nSTVYUGJ5c3BSbUNDdUR6N3kzb1ZwRVVEdFRLNzByaWFOd1BZVXRMeU5lYnplR1EzSDBXQ0J5OURwYWx0MW9tVUp4TDlBZ1NCVFJSVlZhbjVqYWJLRzVVRUdIYTBxLWdrYU1zY3hCVFpOMHJxd2ZmNXUtMTh3Y2VOeU9B?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
+  },
+  {
+   "title": "Saline Township delays vote on 12-year tax break for Oracle campus",
+   "dek": "Supervisors postponed action on an abatement request that would forgive taxes on a multibillion-dollar Oracle data-center project. The delay leaves open whether the township will forgo revenue that funds roads and schools. Residents have questioned the scale of the giveaway versus promised job numbers.",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWEhYcWZoZ0NZSWxKemhnbllJcHhnbTF5RU1YalhobHQtLTg0QjNwc2JXdGphNm01SnV4UWcxdjMwRGNTUVcySzFzUGM0LVVWR2xkZS03bUhHaEVzRzNTZlRpSWJFd1Nibl9sWXotRE01OTJyMEw5dzBVamtpamFadEc4ZzJKVHJSRjZJRUdtMlhwV05rZGVrVURHNGc4QXQ2cmQ3a2hDbjBtMkdPNU0tb3p2Yw?oc=5",
+   "source": "The Saline Post",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Money",
+   "iso": "2026-09-06T11:53:17Z",
+   "id": "684c5ce4b440",
+   "origin": "google-news",
+   "source_title": "Saline Township Holds Off on Vote on Support of Oracle Tax Abatement Resolution - The Saline Post",
+   "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWEhYcWZoZ0NZSWxKemhnbllJcHhnbTF5RU1YalhobHQtLTg0QjNwc2JXdGphNm01SnV4UWcxdjMwRGNTUVcySzFzUGM0LVVWR2xkZS03bUhHaEVzRzNTZlRpSWJFd1Nibl9sWXotRE01OTJyMEw5dzBVamtpamFadEc4ZzJKVHJSRjZJRUdtMlhwV05rZGVrVURHNGc4QXQ2cmQ3a2hDbjBtMkdPNU0tb3p2Yw?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
   },
   {
    "title": "Developer restarts bid to turn old electric plant site into power-hungry facility",
@@ -171,23 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ2hoZUJkdWVCemhOVHFudXM3T0VVLTFGdU9hcFdXQzQtRnVFazhMekdsNXB3RjJDQXdRbm5pQ3lsUVVsNzNSVTg5MVFkU3BKZ3llVV9Za1FjMm90ZXBsSmpkcDVZekxOU2pDajhDQWktVWlJR2hBSi1ieDR0MDhESGtpakVlM0xxN2hpZWZzakQ?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "U-M computing center raises nuclear weapons worries",
-   "dek": "University of Michigan plans for a new computing facility are drawing fire over possible ties to nuclear weapons work. Ann Arbor residents and activists want clearer answers on how the project could support military programs. The debate affects state research funding and local oversight of university expansion.",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOS1WZkJDODRndTh1bWJXWjVuTy1Ba3QxZVQ0WTZ1OGIzTUZCMXFDUmVtMkFPdjR1aG5ISlg4RFFkd3c0Y09iZGpTdzRGYUZweXpqZm92VTM5ZGFXTmpDZ2J1dzFDa2dFQmVVb3NpZWYtbzVaS2JkdzBfeDVFRWNtVVlRLWRvVERqQ0NvaVZwSExWZTdEU0hqQUt2SEJETGpzNkVhSEM2NlhteXdEWkIxa1ZtSFJ1aWpKVzEwcHB3dzFLV3JNZFBR?oc=5",
-   "source": "Michigan Advance",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Policy",
-   "iso": "2026-09-04T08:05:25Z",
-   "id": "f7df19e5a2a2",
-   "origin": "google-news",
-   "source_title": "U-M’s proposed computing center draws concerns over role in nuclear weapons modernization - Michigan Advance",
-   "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOS1WZkJDODRndTh1bWJXWjVuTy1Ba3QxZVQ0WTZ1OGIzTUZCMXFDUmVtMkFPdjR1aG5ISlg4RFFkd3c0Y09iZGpTdzRGYUZweXpqZm92VTM5ZGFXTmpDZ2J1dzFDa2dFQmVVb3NpZWYtbzVaS2JkdzBfeDVFRWNtVVlRLWRvVERqQ0NvaVZwSExWZTdEU0hqQUt2SEJETGpzNkVhSEM2NlhteXdEWkIxa1ZtSFJ1aWpKVzEwcHB3dzFLV3JNZFBR?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {
