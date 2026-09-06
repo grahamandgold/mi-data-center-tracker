@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-09-06T17:19:09+00:00",
+ "updated_at": "2026-09-06T19:27:54Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Recall push targets Springfield Twp supervisor over data center fights",
+   "dek": "Residents are gathering signatures to oust the supervisor they blame for fast-tracking data center projects that could strain local roads, power and water. The effort shows how data center fights are now shaping township politics in southeast Michigan. A successful recall would shift control of future approvals.",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZDhmSGgzVkp4NVVwYkZnYkNFd1B2MHRtX3JCS0dMakEzWEI2N2Q5dnlreFlXbFlFdnBKdko0TzFPZDVvTmFIdzF3MnVHOTdWYmxUOE50QUlSNFV2RF9aQ2ttaDJGR1R6TEgyVDJqV05vcjY0emRDZUFnYlFORldqbDNDQS1nQmpnVkZKS3FWQnpoc1k2c0FyZXplVVBPRFJ4QlU5QjFYV0hlQUFnU29SSGIyQ1R1aHPSAbcBQVVfeXFMT2Q4ZkhoM1ZKeDVVcGJGZ2JDRXdQdjB0bV9yQktHTGpBM1hCNjdkOXZ5a3hZV2xZRXZwSnZKNE8xT2Q1b05hSHcxdzJ1Rzk3VmJsVDhOdEFJUjRVdkRfWkNrbWgyRkdUekxIMlQyaldOb3I2NHpkQ2VBZ2JRTkZXamwzQ0EtZ0JqZ1ZGSktxVkJ6aHNZNnNBcmV6ZVVQT0RSeEJVOUIxWFdIZUFBZ1NvUkhiMkNUdWhz?oc=5",
+   "source": "MLive.com",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Oakland",
+   "tag": "Local Government",
+   "iso": "2026-09-06T15:16:00Z",
+   "id": "210765141285",
+   "origin": "google-news",
+   "source_title": "Springfield Township Supervisor Ric Davis targeted for recall - MLive.com",
+   "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZDhmSGgzVkp4NVVwYkZnYkNFd1B2MHRtX3JCS0dMakEzWEI2N2Q5dnlreFlXbFlFdnBKdko0TzFPZDVvTmFIdzF3MnVHOTdWYmxUOE50QUlSNFV2RF9aQ2ttaDJGR1R6TEgyVDJqV05vcjY0emRDZUFnYlFORldqbDNDQS1nQmpnVkZKS3FWQnpoc1k2c0FyZXplVVBPRFJ4QlU5QjFYV0hlQUFnU29SSGIyQ1R1aHPSAbcBQVVfeXFMT2Q4ZkhoM1ZKeDVVcGJGZ2JDRXdQdjB0bV9yQktHTGpBM1hCNjdkOXZ5a3hZV2xZRXZwSnZKNE8xT2Q1b05hSHcxdzJ1Rzk3VmJsVDhOdEFJUjRVdkRfWkNrbWgyRkdUekxIMlQyaldOb3I2NHpkQ2VBZ2JRTkZXamwzQ0EtZ0JqZ1ZGSktxVkJ6aHNZNnNBcmV6ZVVQT0RSeEJVOUIxWFdIZUFBZ1NvUkhiMkNUdWhz?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "Ypsilanti keeps data center freeze in place as residents demand more time",
    "dek": "City council is extending the moratorium on new data centers while it studies power and water impacts. The pause blocks any large projects from moving forward in the near term. Residents 30 miles away in Ann Arbor and beyond could see ripple effects on regional electricity rates if big facilities get approved later.",
@@ -169,23 +186,6 @@
    "origin": "google-news",
    "source_title": "U-M’s proposed computing center draws concerns over role in nuclear weapons modernization - Michigan Advance",
    "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOS1WZkJDODRndTh1bWJXWjVuTy1Ba3QxZVQ0WTZ1OGIzTUZCMXFDUmVtMkFPdjR1aG5ISlg4RFFkd3c0Y09iZGpTdzRGYUZweXpqZm92VTM5ZGFXTmpDZ2J1dzFDa2dFQmVVb3NpZWYtbzVaS2JkdzBfeDVFRWNtVVlRLWRvVERqQ0NvaVZwSExWZTdEU0hqQUt2SEJETGpzNkVhSEM2NlhteXdEWkIxa1ZtSFJ1aWpKVzEwcHB3dzFLV3JNZFBR?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
-  },
-  {
-   "title": "Lenox Twp residents demand answers on hidden data center plans",
-   "dek": "Residents in Lenox Township are pushing for full disclosure on proposed data centers after learning details only through back channels. The push comes as locals worry about noise, power strain and lost farmland in Macomb County. Transparency failures are fueling distrust in township leadership.",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQlBBSjRTbFJKNmxSdzBWbXhCYWF5RXBsLWJRbW5QOHJ6V1lWTndGalRvaUluSWlReEtIMkVWa2d0NUQxcjUxby1HMHNFWmpOdzlRaXV5M1N6SUczQm4wdDBqcF9BS2pURjRiMHpLN1JjZDN1TVNiZFJQaEhRaW1hV3hpY3ZsUlcydTRKNUxOaWpRY1J4RFJTYWptSHlLb2h1anNJWHJSVVFPZTR2a0ZRa2VmX21CZDhkaTFDMmRhdnlDTEhsQWxCekhNOGpmMnRkbWc?oc=5",
-   "source": "ClickOnDetroit | WDIV Local 4",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Macomb",
-   "tag": "Local Government",
-   "iso": "2026-09-03T21:56:01Z",
-   "id": "67f468ac99d3",
-   "origin": "google-news",
-   "source_title": "Data center concerns have Lenox Township residents demanding transparency - ClickOnDetroit | WDIV Local 4",
-   "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQlBBSjRTbFJKNmxSdzBWbXhCYWF5RXBsLWJRbW5QOHJ6V1lWTndGalRvaUluSWlReEtIMkVWa2d0NUQxcjUxby1HMHNFWmpOdzlRaXV5M1N6SUczQm4wdDBqcF9BS2pURjRiMHpLN1JjZDN1TVNiZFJQaEhRaW1hV3hpY3ZsUlcydTRKNUxOaWpRY1J4RFJTYWptSHlLb2h1anNJWHJSVVFPZTR2a0ZRa2VmX21CZDhkaTFDMmRhdnlDTEhsQWxCekhNOGpmMnRkbWc?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
   }
