@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-09-06T11:17:27+00:00",
+ "updated_at": "2026-09-06T14:22:07Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Ypsilanti keeps data center freeze in place as residents demand more time",
+   "dek": "City council is extending the moratorium on new data centers while it studies power and water impacts. The pause blocks any large projects from moving forward in the near term. Residents 30 miles away in Ann Arbor and beyond could see ripple effects on regional electricity rates if big facilities get approved later.",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNFdDbWZfZUxhdXg1TDljcGdncVNjSDFsemRKTnFyYVFnbnUyaExRcENlc01nSTVYUGJ5c3BSbUNDdUR6N3kzb1ZwRVVEdFRLNzByaWFOd1BZVXRMeU5lYnplR1EzSDBXQ0J5OURwYWx0MW9tVUp4TDlBZ1NCVFJSVlZhbjVqYWJLRzVVRUdIYTBxLWdrYU1zY3hCVFpOMHJxd2ZmNXUtMTh3Y2VOeU9B?oc=5",
+   "source": "The Eastern Echo",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Washtenaw",
+   "tag": "Local Government",
+   "iso": "2026-09-06T12:04:50Z",
+   "id": "a729c9b78007",
+   "origin": "google-news",
+   "source_title": "Ypsilanti City Council continues data center moratorium discussion - The Eastern Echo",
+   "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNFdDbWZfZUxhdXg1TDljcGdncVNjSDFsemRKTnFyYVFnbnUyaExRcENlc01nSTVYUGJ5c3BSbUNDdUR6N3kzb1ZwRVVEdFRLNzByaWFOd1BZVXRMeU5lYnplR1EzSDBXQ0J5OURwYWx0MW9tVUp4TDlBZ1NCVFJSVlZhbjVqYWJLRzVVRUdIYTBxLWdrYU1zY3hCVFpOMHJxd2ZmNXUtMTh3Y2VOeU9B?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Developer restarts bid to turn old electric plant site into power-hungry facility",
    "dek": "A developer is restarting efforts to build a data center at the old Emerson Electric campus. The project would bring new power demand and tax revenue questions to the local community. Residents nearby will feel the impact on electricity rates and land use.",
@@ -171,23 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQlBBSjRTbFJKNmxSdzBWbXhCYWF5RXBsLWJRbW5QOHJ6V1lWTndGalRvaUluSWlReEtIMkVWa2d0NUQxcjUxby1HMHNFWmpOdzlRaXV5M1N6SUczQm4wdDBqcF9BS2pURjRiMHpLN1JjZDN1TVNiZFJQaEhRaW1hV3hpY3ZsUlcydTRKNUxOaWpRY1J4RFJTYWptSHlLb2h1anNJWHJSVVFPZTR2a0ZRa2VmX21CZDhkaTFDMmRhdnlDTEhsQWxCekhNOGpmMnRkbWc?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
-  },
-  {
-   "title": "Second recall bid fails for official tied to data center rezoning",
-   "dek": "A resident's latest attempt to recall a local official over a data center-linked rezoning was rejected by election officials. The fight centers on land-use changes that could open the door to large-scale server farms. Voters 30 miles away are watching how the dispute shapes future development fights.",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMldaaEE2ZEhXTXhFZm9tRGJObUliU1habFVSV21ZQnEyZ2xvQmZ4bklza0tqMk83b1phM2lzb0hfRC1Gb2ZtVnNiaGRiNWNmd3FBdVM3b284OHA3VGo3Ri1CT1hoQldtdHRWWHpPSXhUYm1DckNfUkJNLW9BXzhFTGZLRzg3MGJibkh6MG84dWh6NnhzODZ0dnNWYWp2ZVh3enJRUzZEdm9rbEswU0NhWVN6VXJHSDRkTS1rRTZfMXZiZUxQYUdTU0NrdTBqYVczM1R3LVkwWW83REJ0d1NB0gHfAUFVX3lxTFAyV1poQTZkSFdNeEVmb21EYk5tSWJTWFpsVVJXbVlCcTJnbG9CZnhuSXNrS2oyTzdvWmEzaXNvSF9ELUZvZm1Wc2JoZGI1Y2Z3cUF1Uzdvbzg4cDdUajdGLUJPWGhCV210dFZYek9JeFRibUNyQ19SQk0tb0FfOEVMZktHODcwYmJuSHowbzh1aHo2eHM4NnR2c1ZhanZlWHd6clFTNkR2b2tsSzBTQ2FZU3pVckdINGRNLWtFNl8xdmJlTFBhR1NTQ2t1MGphVzMzVHctWTBZbzdEQnR3U0E?oc=5",
-   "source": "MLive.com",
-   "region": "mid",
-   "cat": "STATEWIDE",
-   "county": "Ingham",
-   "tag": "Local Government",
-   "iso": "2026-09-03T19:41:00Z",
-   "id": "55bc5ca27077",
-   "origin": "google-news",
-   "source_title": "Woman’s 2nd try at recall petition over rezoning linked to data center is rejected - MLive.com",
-   "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMldaaEE2ZEhXTXhFZm9tRGJObUliU1habFVSV21ZQnEyZ2xvQmZ4bklza0tqMk83b1phM2lzb0hfRC1Gb2ZtVnNiaGRiNWNmd3FBdVM3b284OHA3VGo3Ri1CT1hoQldtdHRWWHpPSXhUYm1DckNfUkJNLW9BXzhFTGZLRzg3MGJibkh6MG84dWh6NnhzODZ0dnNWYWp2ZVh3enJRUzZEdm9rbEswU0NhWVN6VXJHSDRkTS1rRTZfMXZiZUxQYUdTU0NrdTBqYVczM1R3LVkwWW83REJ0d1NB0gHfAUFVX3lxTFAyV1poQTZkSFdNeEVmb21EYk5tSWJTWFpsVVJXbVlCcTJnbG9CZnhuSXNrS2oyTzdvWmEzaXNvSF9ELUZvZm1Wc2JoZGI1Y2Z3cUF1Uzdvbzg4cDdUajdGLUJPWGhCV210dFZYek9JeFRibUNyQ19SQk0tb0FfOEVMZktHODcwYmJuSHowbzh1aHo2eHM4NnR2c1ZhanZlWHd6clFTNkR2b2tsSzBTQ2FZU3pVckdINGRNLWtFNl8xdmJlTFBhR1NTQ2t1MGphVzMzVHctWTBZbzdEQnR3U0E?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {
