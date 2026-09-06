@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-09-05T23:12:15+00:00",
+ "updated_at": "2026-09-06T01:17:46Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Developer restarts bid to turn old electric plant site into power-hungry facility",
+   "dek": "A developer is restarting efforts to build a data center at the old Emerson Electric campus. The project would bring new power demand and tax revenue questions to the local community. Residents nearby will feel the impact on electricity rates and land use.",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdU5uUk5OZDRwTmdRMVV4cTdoTDRQVEozWldtVHNpaGVSUVQ3ODVRY1h1R1p4MndNa3FEY2ZZcWZlQ0UyMjU5bnd0Y1BUS3RUS3hfdHk3RlNFc1poQVJMYkljMmYxaXBac0lpRjJPTXdlc3JLMy1EdE5HYWR5Q0lDLXM2S0ZaVFNvdzZNNFloS3dkNlhyODljMXdiMk50UdIBowFBVV95cUxQLXBwd3BPbFprWG5zZWNrUDluOWFXSTVfRzM5bVVmWW1oQkt0VXRtZkVDUmNBQWVwWnFIUGdfUnQ4RXdCWDk2SW83bXc4OGU1RFlzNEx1Y2ZkU3AzbWlTdVVhbFZZYXZyc3NYSFBoTk1LOTJGaEoxaVFxZEVhU1NVbDl5ZFNEM1VUYzFvR2M2Z0pvbUo4Q0pPelBSYlBIdVdWc2pV?oc=5",
+   "source": "FOX 2",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Macomb",
+   "tag": "Local Government",
+   "iso": "2026-09-05T23:03:34Z",
+   "id": "a70729e79b1b",
+   "origin": "google-news",
+   "source_title": "Ferguson revives push for data center at former Emerson campus - FOX 2",
+   "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdU5uUk5OZDRwTmdRMVV4cTdoTDRQVEozWldtVHNpaGVSUVQ3ODVRY1h1R1p4MndNa3FEY2ZZcWZlQ0UyMjU5bnd0Y1BUS3RUS3hfdHk3RlNFc1poQVJMYkljMmYxaXBac0lpRjJPTXdlc3JLMy1EdE5HYWR5Q0lDLXM2S0ZaVFNvdzZNNFloS3dkNlhyODljMXdiMk50UdIBowFBVV95cUxQLXBwd3BPbFprWG5zZWNrUDluOWFXSTVfRzM5bVVmWW1oQkt0VXRtZkVDUmNBQWVwWnFIUGdfUnQ4RXdCWDk2SW83bXc4OGU1RFlzNEx1Y2ZkU3AzbWlTdVVhbFZZYXZyc3NYSFBoTk1LOTJGaEoxaVFxZEVhU1NVbDl5ZFNEM1VUYzFvR2M2Z0pvbUo4Q0pPelBSYlBIdVdWc2pV?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 6
+  },
   {
    "title": "Mason County breaks ground on two major data centers",
    "dek": "Western Mason County has approved construction of two large-scale data centers. The projects will draw significant electricity from the regional grid and create construction and operations jobs. Local residents will see impacts on power reliability and tax revenue.",
@@ -171,23 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMldaaEE2ZEhXTXhFZm9tRGJObUliU1habFVSV21ZQnEyZ2xvQmZ4bklza0tqMk83b1phM2lzb0hfRC1Gb2ZtVnNiaGRiNWNmd3FBdVM3b284OHA3VGo3Ri1CT1hoQldtdHRWWHpPSXhUYm1DckNfUkJNLW9BXzhFTGZLRzg3MGJibkh6MG84dWh6NnhzODZ0dnNWYWp2ZVh3enJRUzZEdm9rbEswU0NhWVN6VXJHSDRkTS1rRTZfMXZiZUxQYUdTU0NrdTBqYVczM1R3LVkwWW83REJ0d1NB0gHfAUFVX3lxTFAyV1poQTZkSFdNeEVmb21EYk5tSWJTWFpsVVJXbVlCcTJnbG9CZnhuSXNrS2oyTzdvWmEzaXNvSF9ELUZvZm1Wc2JoZGI1Y2Z3cUF1Uzdvbzg4cDdUajdGLUJPWGhCV210dFZYek9JeFRibUNyQ19SQk0tb0FfOEVMZktHODcwYmJuSHowbzh1aHo2eHM4NnR2c1ZhanZlWHd6clFTNkR2b2tsSzBTQ2FZU3pVckdINGRNLWtFNl8xdmJlTFBhR1NTQ2t1MGphVzMzVHctWTBZbzdEQnR3U0E?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Ionia weighs letting data centers tap city power and land",
-   "dek": "Council members discussed inviting large-scale facilities that could pull hundreds of megawatts from the local grid. Residents 30 miles away would see higher utility bills if new plants or lines are needed to serve them. No vote was taken, but the conversation signals the city is open to proposals.",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPX0M3Ny1EemtWRmE5MGdtVFh0MlVMMHZhdzVpbHhUbHJ5dGJMZGF0MFBNSTNfSzFZRkpmQlJXeGpPc0F6RjVQa0NlY2Q2bUxJakkyYVE3RzFQUDZkSHdYaU5YZTh5S2RPTWw5YjZBTzlOdTU3MnhCdlJMVHpKNWctaVdpYUY4WmtkaFlEVGhJb09kcHpNbEc5WWdmejhjdHJLNzA4VDcwOHMxUnJHZEtodTltTTRuUzM4SWdtd0F4MTg4c1diY3VtQWFhb1JPQko1X2lzd2hrVllLSkU?oc=5",
-   "source": "WZZM13.com",
-   "region": "mid",
-   "cat": "STATEWIDE",
-   "county": "Ionia",
-   "tag": "Local Government",
-   "iso": "2026-09-03T18:50:00Z",
-   "id": "304b61f6fd84",
-   "origin": "google-news",
-   "source_title": "Ionia City Council explores data centers at September meeting - WZZM13.com",
-   "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPX0M3Ny1EemtWRmE5MGdtVFh0MlVMMHZhdzVpbHhUbHJ5dGJMZGF0MFBNSTNfSzFZRkpmQlJXeGpPc0F6RjVQa0NlY2Q2bUxJakkyYVE3RzFQUDZkSHdYaU5YZTh5S2RPTWw5YjZBTzlOdTU3MnhCdlJMVHpKNWctaVdpYUY4WmtkaFlEVGhJb09kcHpNbEc5WWdmejhjdHJLNzA4VDcwOHMxUnJHZEtodTltTTRuUzM4SWdtd0F4MTg4c1diY3VtQWFhb1JPQko1X2lzd2hrVllLSkU?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {

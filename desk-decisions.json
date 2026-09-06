@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://finance-commerce.com/2026/08/ai-data-centers-manufacturing-growth/",
-   "title": "AI data center construction drives U.S. factory investments in generators and electrical equipment",
-   "at": "2026-08-20T16:44:18+00:00",
-   "by": "news_judge",
-   "note": "score 3/10: National trend piece with limited Michigan-specific relevance."
-  },
-  {
    "url": "https://www.404media.co/township-fights-nuclear-weapons-data-center-by-passing-a-moratorium-on-electrical-infrastructure/",
    "title": "Ypsilanti Township Approves Six-Month Moratorium on Major Electric Infrastructure",
    "at": "2026-08-20T17:37:49+00:00",
@@ -1399,15 +1392,16 @@
    "at": "2026-09-05T23:12:18+00:00",
    "by": "news_judge",
    "note": "score 2/10, duplicate: This is the Hyperscale Data/Dowagiac Bitcoin-to-AI story that has been killed multiple times in various wordings."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMnN3TWc3ZDhSNXBJMXd3UGVVMl9TMV9FcG9vUGM3c3hfeldOMG1Xd0t6VEx6NERnampiRS1VazE2dWl5NkM0Q2M3WGl0V1BUWnljUjVUWWZYQ2ppMHlDRklhc01KVjU2R084QTVSODU3R25FMk1hbDVwaXNKUHJ3S0tkcEozS3lKYzZEZGI3ZlluOU5zVDBBY0ppVnLSAbABQVVfeXFMTXFRcXRQMC02YkxqaTNPdXlVU3piU1c2Ny01WEZMeEl0VmpKclo1VWdyQmxTUDZOMG9XWk1FWE1KRk14TmQwbWJ5MU9NYV9DbVZxRnY5a3RDYURRczQzTTB4M2JQLTNLeVZKRTF2WWZ1emRwemRFTHZ5eWxwNVdCaE9ZeWpOeGNVWko2R3ZxS1M2OWJWUzM0My1qeVloQVgyQ1hod0ozWlZRblZxRHFmVUw?oc=5",
+   "title": "Cass County crypto facility switches to artificial intelligence, changing power draw",
+   "at": "2026-09-06T01:17:46+00:00",
+   "by": "news_judge",
+   "note": "score 2/10, duplicate: This is the Dowagiac/Hyperscale Data bitcoin-to-AI switch that has been killed multiple times already."
   }
  ],
  "auto_published": [
-  {
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTHJ1bHJFTE5fbTdwRDM0VVdrNG5ESjdHOU9oWVBtQVJXX21UMkN2OGtmTHlENGhDQ1liQUttekwweE1ERW9SMEliNG9YdkgtTWxKUi1HYTYtcjhnYV9tdldmVzZTWVFjbnRJT2pSVE9takpraUdRM0JuVXhyLTVGXzk1ZGM4aHQxcFpleEgzbm5RRHdSOFhLY2FLOHN5QU5CS2tld0U2dmZ5UQ?oc=5",
-   "title": "House Speaker stalls Andrews data-center guardrail bill",
-   "judge_score": 7,
-   "at": "2026-07-18T19:46:18Z"
-  },
   {
    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQcWo4Rm41SjMybm15V01wamJVLW5nMUJNS2ZSSXBjVGhZWWZycEFkQVpzSllLemVWTlUtTnJ2dFNzdkw5cUFTaEo5bGpzSFZ1S3ZhdTFsTFJzRmFvbHBuZ01yTy05R0xUUDJLeFlsWnhhZ0drZldyYjlDanVyVTJDTTU1QkxISk5ZbVg3SG5xRXpacDBMWGEtUVFya2lJM3YxWUlEcU4tbkdrYjJHeS1tZFpvOENpNUZZQnVna09hZ2daQy00VnJJY0I5R3RQcHFTM3VLSzNMMWppSXFHOGFSWFpHcFNVVkZkSzZrcGE5ekRjdkpvUC02VE0xczQyVG5BWFlfeg?oc=5",
    "title": "Utility faces questions on power, water for west Michigan's first major AI campus",
@@ -3201,6 +3195,12 @@
    "title": "Mason County breaks ground on two major data centers",
    "judge_score": 9,
    "at": "2026-09-05T21:06:15Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdU5uUk5OZDRwTmdRMVV4cTdoTDRQVEozWldtVHNpaGVSUVQ3ODVRY1h1R1p4MndNa3FEY2ZZcWZlQ0UyMjU5bnd0Y1BUS3RUS3hfdHk3RlNFc1poQVJMYkljMmYxaXBac0lpRjJPTXdlc3JLMy1EdE5HYWR5Q0lDLXM2S0ZaVFNvdzZNNFloS3dkNlhyODljMXdiMk50UdIBowFBVV95cUxQLXBwd3BPbFprWG5zZWNrUDluOWFXSTVfRzM5bVVmWW1oQkt0VXRtZkVDUmNBQWVwWnFIUGdfUnQ4RXdCWDk2SW83bXc4OGU1RFlzNEx1Y2ZkU3AzbWlTdVVhbFZZYXZyc3NYSFBoTk1LOTJGaEoxaVFxZEVhU1NVbDl5ZFNEM1VUYzFvR2M2Z0pvbUo4Q0pPelBSYlBIdVdWc2pV?oc=5",
+   "title": "Developer restarts bid to turn old electric plant site into power-hungry facility",
+   "judge_score": 6,
+   "at": "2026-09-06T01:17:46Z"
   }
  ]
 }
