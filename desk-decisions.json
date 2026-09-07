@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQS1NwOUh2b1hIa3c3RlcwWnpsbFJUaV9fNURDb1RNWTFJdmlfeEtWWk95aXlKRnlRRkQ4alVjWFlfVFctRWwyQVVPaUxodEhQWUlFMUpKaGRHeGV5ZnpQY29CYk1hTEFzVzZORHUxdUlzc3NLR3dqNFFOaDhraE1mM2p1Vk1FMGxJVHJFLVBXNW5UX0doMWJ3azA2eC0xWEwwd0RPUGZvRmlOWF9QdXhveERUX0dzSUoyQU00QS04QmZOdEZEUk1r?oc=5",
-   "title": "Barrett bill shields local data center fights from federal meddling",
-   "at": "2026-08-20T17:37:49+00:00",
-   "by": "news_judge",
-   "note": "score 5/10: Incremental development on state-level legislative proposal."
-  },
-  {
    "url": "https://news.bloomberglaw.com/litigation/michigan-city-sued-by-developer-over-yearlong-data-center-ban",
    "title": "Developer Sues Gibraltar Over Yearlong Data Center Moratorium",
    "at": "2026-08-20T18:52:48+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-09-07T09:38:46+00:00",
    "by": "news_judge",
    "note": "score 3/10: Opinion column describing general political positioning without reporting a specific decision, vote, or filing."
+  },
+  {
+   "url": "https://michiganadvance.com/2026/09/07/michigan-data-centers-the-weekly-download-4-2-2/",
+   "title": "Michigan Advance Weekly Roundup Highlights Ionia Data Center Info Session and Ypsilanti Moratorium Progress",
+   "at": "2026-09-07T15:45:07+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Thin weekly roundup combining an info session with no active proposal and a moratorium advancement already covered in live story about Ypsilanti keeping freeze "
   }
  ],
  "auto_published": [

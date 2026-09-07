@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-07T09:38:41+00:00",
+ "updated_at": "2026-09-07T15:45:00+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -204,6 +204,49 @@
   "id": "02d7912fe03d",
   "accuracy": "checked"
  },
- "meetings": [],
+ "meetings": [
+  {
+   "iso": "2026-09-09",
+   "body": "City of Ionia",
+   "topic": "Informational meeting on data center industry, impacts and local considerations",
+   "region": "West Michigan",
+   "regionKey": "west",
+   "county": "Ionia",
+   "time": "5:30 PM",
+   "status": "Public meeting",
+   "urgent": false,
+   "link": "https://www.ci.ionia.mi.us/AgendaCenter",
+   "linkLabel": "Agenda Center",
+   "stream": ""
+  },
+  {
+   "iso": "2026-09-09",
+   "body": "University of Michigan",
+   "topic": "Town hall on proposed high-performance computing facility in Ypsilanti Township",
+   "region": "SE Michigan",
+   "regionKey": "metro",
+   "county": "Washtenaw",
+   "time": "TBD",
+   "status": "Public hearing",
+   "urgent": false,
+   "link": "https://bridgemi.com/business-watch/u-m-affirms-ypsilanti-1-2b-computing-center-site-township-officials-vow-fight/",
+   "linkLabel": "Event Details",
+   "stream": ""
+  },
+  {
+   "iso": "2026-09-15",
+   "body": "City of Ypsilanti City Council",
+   "topic": "Public hearing on zoning ordinance text amendment for data centers and 60-day emergency moratorium",
+   "region": "SE Michigan",
+   "regionKey": "metro",
+   "county": "Washtenaw",
+   "time": "7:00 PM",
+   "status": "Public hearing",
+   "urgent": false,
+   "link": "https://www.cityofypsilanti.com/AgendaCenter",
+   "linkLabel": "Agenda Center",
+   "stream": ""
+  }
+ ],
  "accuracy_checked_at": "2026-07-08T08:45:16+00:00"
 }
