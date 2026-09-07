@@ -1,20 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZjJGMkp3NGNMQTJaUVVfbHVvdjNCeTBCVGhOWXliM1dZY2ZMN2FCc2h5MVA4X29nbkFHcmNaSl9yQXE1dnRhQU9HX1BzalJURG9QcTdDX2d2LU9NWkFxRVBPUE9BUENMQlBReGVhdldKUi1WN0VaMk5MaGlrUWlXb1hkSzZpNE5hUW9PRTF1OVpwQkN1ejNrNlo1ckRKZTZqLVdqZE95R1Bzck1Qck9qXzIyUFpaa3ZxR1ExcU9jcXY?oc=5",
-   "title": "Michigan's EV plants now compete with AI data centers for power",
-   "at": "2026-08-20T17:37:49+00:00",
-   "by": "news_judge",
-   "note": "score 4/10: Speculative piece on competition for power, lacks concrete developments."
-  },
-  {
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNEFKNlJYVWIxVmNfYTdvOGFYS3EwYjdwcmNNU3BoRzg3ZU1WYmw3c2p5aG41VjNabDZCRW9NcjlPRnRMY2ZwdXl6UVY0bGZvcDdjTVBBTjdZZWctMFUtNWRVSWZib05BQUVSdGd2N0tBc0U5UlhJaHJOcXlMaThUSDJRU1ZyMFFxUERVSXU2NG1fdWdDbEFKdnplUlBVRXVfYW0yY09uTTUwSHJT?oc=5",
-   "title": "Mike Rogers backs pause on new Michigan data centers",
-   "at": "2026-08-20T17:37:49+00:00",
-   "by": "news_judge",
-   "note": "score 1/10, duplicate: Duplicate of already live story on Rogers' stance on data centers."
-  },
-  {
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQS1NwOUh2b1hIa3c3RlcwWnpsbFJUaV9fNURDb1RNWTFJdmlfeEtWWk95aXlKRnlRRkQ4alVjWFlfVFctRWwyQVVPaUxodEhQWUlFMUpKaGRHeGV5ZnpQY29CYk1hTEFzVzZORHUxdUlzc3NLR3dqNFFOaDhraE1mM2p1Vk1FMGxJVHJFLVBXNW5UX0doMWJ3azA2eC0xWEwwd0RPUGZvRmlOWF9QdXhveERUX0dzSUoyQU00QS04QmZOdEZEUk1r?oc=5",
    "title": "Barrett bill shields local data center fights from federal meddling",
    "at": "2026-08-20T17:37:49+00:00",
@@ -1399,6 +1385,20 @@
    "at": "2026-09-06T23:45:00+00:00",
    "by": "news_judge",
    "note": "score 4/10, duplicate: This is the same protest event already covered in the LIVE story 'Ypsilanti-area residents plan protest over data center water use' — same location, same concer"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcEpVcXpjSFFEYndieW5xMkJ4ZGtYd0hiVTdjdUw3aXFaQm1nYTAzdnU2Z2JCUWhhOV9MSUZPeHVEMnZ2T3hLaENoMGVxSWtINWVVTXRDOERwRFhEeUJkRVMwcXlmWjktNlliRDBuMVpGcjk3VVBCRFh1MnYyVFA4SEtxQkVUdVZXTmdscHNqQ0dHdmljRWRCSWV6SmlmVmQwWHhwTndWZzM5RmowRkZQYVY2R3ctTG1w?oc=5",
+   "title": "Benson fields questions on data-center water and power use",
+   "at": "2026-09-07T09:38:46+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Campaign trail commentary on data centers lacks concrete policy action or new development; speculative relevance to 2026 race."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVDlUV2FrQlIyMllIN1JlQXpGMmd5c1hzWUROVjUta3p4S2swRjNBYmZOQXRDaWhrV2YzS0tHVHpmSUFSaGVQTVZvV2k5WDhlMEthbHRUb0ItR2kwTlRLLV9ScTlWeXdlZ2J3SU5QekhhSHRNME9PdkhYZnA4dFpkNVh1TDdocXlpeko0NXlkVHJpTTVoVFlfVzFvRnVRUjIwdU5ubll5c0h5cWFGUEhvaDFfNkpiWEtfU05rR1pJRE1iV3Q3alYzaWlueVNuVmd2bzk4SGJrWTVmLThkcWxvLXlaYzQ3Zm1YVlpMSEVB?oc=5",
+   "title": "Some Michigan Democrats back data centers despite resident pushback",
+   "at": "2026-09-07T09:38:46+00:00",
+   "by": "news_judge",
+   "note": "score 3/10: Opinion column describing general political positioning without reporting a specific decision, vote, or filing."
   }
  ],
  "auto_published": [
