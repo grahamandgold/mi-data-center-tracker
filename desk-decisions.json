@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://www.mlive.com/news/detroit/2026/08/data-center-developer-sues-michigan-city-challenging-one-year-pause-on-projects.html",
-   "title": "Developer sues Gibraltar over one-year data center moratorium, seeks court order to approve steel mill site project",
-   "at": "2026-08-20T20:38:53+00:00",
-   "by": "news_judge",
-   "note": "score 1/10, duplicate: Duplicate of already killed story about Gibraltar developers suing over data center moratorium."
-  },
-  {
    "url": "https://www.datacenterdynamics.com/en/news/plans-for-five-data-centers-in-king-of-prussia-pennsylvania-blocked/",
    "title": "Upper Merion rejects MLP's 4.6M sq ft King of Prussia data centers",
    "at": "2026-08-20T20:38:53+00:00",
@@ -1399,6 +1392,13 @@
    "at": "2026-09-07T19:51:29+00:00",
    "by": "news_judge",
    "note": "score 4/10: Rehashes existing U-M data center opposition with no new decision or development, just officials restating concerns already covered in live stories."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRlEzUW10M3ltZnB5MDVyRG9WMW9HNlFwcFhad1JoTXJuVlJfTThraHZXeTd3TXZ2SXVZMWtlMEowRHNrR3haRHBXem5mc0NiWTdNNmZkU0kyZlRIbVRLN2hzS1FCUmJNS2tvajRoUG9OQ0xUS0o0dnJLdlZuYzBNbTR0WDFjc1FFazRnQ3lGbnk?oc=5",
+   "title": "Michigan data-center projects chase billions in power upgrades",
+   "at": "2026-09-07T22:46:13+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Weekly roundup/aggregation piece tracking statewide trends rather than reporting a specific new decision, filing, or development; lacks the concrete event that "
   }
  ],
  "auto_published": [

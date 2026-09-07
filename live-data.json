@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-07T19:51:29Z",
+ "updated_at": "2026-09-07T22:46:10+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -205,6 +205,20 @@
   "accuracy": "checked"
  },
  "meetings": [
+  {
+   "iso": "2026-09-08",
+   "body": "Ypsilanti City Council",
+   "topic": "Second reading and potential adoption of 60-day emergency moratorium on data center zoning permits",
+   "region": "SE Michigan",
+   "regionKey": "metro",
+   "county": "Washtenaw",
+   "time": "7:00 PM",
+   "status": "City Council meeting",
+   "urgent": true,
+   "link": "https://www.cityofypsilanti.com/",
+   "linkLabel": "City Council Agendas",
+   "stream": ""
+  },
   {
    "iso": "2026-09-09",
    "body": "City of Ionia",
