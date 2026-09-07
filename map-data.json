@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-31T17:49:27+00:00",
+ "updated_at": "2026-09-07T16:15:42+00:00",
  "map_points": [
   {
    "name": "Saline Township campus (Stargate)",
@@ -1440,6 +1440,38 @@
    "verified_date": "2026-08-31",
    "confidence": "Confirmed",
    "note": "Planning commission voted to extend six-month moratorium (initially Feb 2026) by another six months. Approximate centroid."
+  },
+  {
+   "name": "City of Ionia data center informational meeting",
+   "municipality": "City of Ionia",
+   "county": "Ionia",
+   "status": "Public meeting",
+   "layer": "meetings",
+   "developer": "",
+   "power_mw": "",
+   "latitude": 42.9823,
+   "longitude": -85.0664,
+   "source_url": "https://michiganadvance.com/2026/09/07/michigan-data-centers-the-weekly-download-4-2-2/",
+   "source_name": "Michigan Advance",
+   "verified_date": "2026-09-07",
+   "confidence": "Confirmed",
+   "note": "Informational meeting 5:30 p.m. Sept. 9 at Ionia City Hall; no proposals received (approximate centroid)."
+  },
+  {
+   "name": "City of Ypsilanti 60-day emergency data center moratorium",
+   "municipality": "City of Ypsilanti",
+   "county": "Washtenaw",
+   "status": "Moratorium",
+   "layer": "moratoria",
+   "developer": "",
+   "power_mw": "",
+   "latitude": 42.2411,
+   "longitude": -83.6129,
+   "source_url": "https://michiganadvance.com/2026/09/07/michigan-data-centers-the-weekly-download-4-2-2/",
+   "source_name": "Michigan Advance",
+   "verified_date": "2026-09-07",
+   "confidence": "Reported",
+   "note": "City Council approved first reading of 60-day emergency moratorium (approximate centroid)."
   }
  ],
  "map_meta": {
