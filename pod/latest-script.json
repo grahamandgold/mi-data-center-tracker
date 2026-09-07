@@ -1,153 +1,161 @@
 {
- "title": "Evenings with Graham & Emmy",
- "teaser": "Residents push to recall a supervisor amid fights over power, water and local control.",
+ "title": "Mornings with Graham & Emmy",
+ "teaser": "Residents gather signatures to recall Springfield Twp supervisor over data center approvals.",
  "lines": [
   {
    "host": "Graham",
-   "text": "Good evening, and welcome to Evenings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
+   "text": "Good morning and welcome to Mornings with Graham & Emmy — the Michigan Data Wire, your podcast on Michigan's data center buildout. I'm Graham."
   },
   {
    "host": "Emmy",
-   "text": "And I'm Emmy. Tonight we're diving into how one township's recall effort is shining a light on the bigger battles over these massive projects."
+   "text": "And I'm Emmy."
   },
   {
    "host": "Graham",
-   "text": "That's right, Emmy. The big story today comes out of Springfield Township in Oakland County, where residents are gathering signatures to recall the supervisor they say fast-tracked data center approvals that could overload roads, power and water."
+   "text": "It's Monday, September 7, and residents in one Oakland County township are already moving to change who decides these projects."
   },
   {
    "host": "Emmy",
-   "text": "Graham, why is this recall effort landing now? What's the history here with data centers in these southeast Michigan townships?"
+   "text": "That's right — the big story today is the recall push against Springfield Township supervisor Ric Davis."
   },
   {
    "host": "Graham",
-   "text": "Well, these fights have been building for months. Springfield itself put a temporary moratorium in place earlier this year after officials realized the township wasn't prepared for the impacts. Similar stories have played out in places like Saline and Lyon, where residents pushed back hard against hyperscale projects."
+   "text": "Yesterday, residents started gathering signatures to oust him, blaming the supervisor for fast-tracking data center projects that could strain local roads, power, and water."
   },
   {
    "host": "Emmy",
-   "text": "And now it's turning into recall campaigns. How many of these efforts are we seeing statewide?"
+   "text": "Why target him specifically, Graham? What's the history here?"
   },
   {
    "host": "Graham",
-   "text": "Reports show dozens of recall pushes tied directly to data center disputes this year. It's reshaping local politics because voters are holding officials accountable for decisions that could change their communities for good."
+   "text": "Davis has been the supervisor pushing for a careful approach. Back in December 2025 the township board passed a 180-day moratorium on data center applications to study impacts and write new zoning rules."
   },
   {
    "host": "Emmy",
-   "text": "What exactly are residents worried about with these facilities? The power side seems huge."
+   "text": "So he's trying to slow things down, yet residents see it as fast-tracking? That tension feels familiar across the state."
   },
   {
    "host": "Graham",
-   "text": "It is. A single large data center can demand hundreds of megawatts or more — think the output of a nuclear plant in some cases. Utilities like DTE and Consumers Energy have announced deals for gigawatts of new load, which could mean higher rates for everyone if infrastructure costs get passed along."
+   "text": "Exactly. A developer had already expressed interest in an 84-acre site near Andersonville Road for two or three large buildings. Davis met with them but stressed the township has no municipal water or sewer and would halt anything risking natural resources."
   },
   {
    "host": "Emmy",
-   "text": "And water use? I've heard these places need millions of gallons a day for cooling."
+   "text": "How does this fit into the bigger pattern of recalls we've seen?"
   },
   {
    "host": "Graham",
-   "text": "Exactly. We're talking one to five million gallons daily per big facility in some estimates. That draws from aquifers or municipal systems and raises concerns about wells running low, especially in rural spots without big treatment plants."
+   "text": "Bridge Michigan tracked at least 28 officials in eight communities facing recalls tied to data center decisions. In Saline Township, officials dealt with recalls over an OpenAI-Oracle project after settling a lawsuit. Augusta Township had a full board targeted after rezoning farmland."
   },
   {
    "host": "Emmy",
-   "text": "Farmland is another piece, right? These projects often go on open land."
+   "text": "So this isn't isolated. What does a successful recall actually change for future projects?"
   },
   {
    "host": "Graham",
-   "text": "Yes, and that shifts tax bases and land use. A successful recall in Springfield could flip control of future approvals, giving residents more say in zoning and whether projects move forward at all."
+   "text": "It would shift control of the board and any future approvals. Voters could elect someone with a different stance on tax breaks, environmental reviews, or outright bans."
   },
   {
    "host": "Emmy",
-   "text": "So what happens next with the signature drive? How long could this drag on?"
+   "text": "And the stakes for residents go way beyond one township. We're talking electric bills, right?"
   },
   {
    "host": "Graham",
-   "text": "Petitions are circulating now. If they gather enough valid signatures, it heads to a vote that could remove the supervisor and change the board's direction on these deals."
+   "text": "Yes. Data centers can pull hundreds of megawatts — enough to power tens of thousands of homes. That demand can push up regional rates, especially when utilities like DTE and Consumers Energy are already negotiating gigawatts of new commitments."
   },
   {
    "host": "Emmy",
-   "text": "This feels like it's spreading. How does it connect to all the moratoriums popping up?"
+   "text": "Water use is another big one. These facilities often need millions of gallons a day for cooling."
   },
   {
    "host": "Graham",
-   "text": "Over 50 communities have paused new applications to study the rules. It's a way to buy time without an outright ban, which state law makes tricky."
+   "text": "Right, and many rural townships like Springfield don't have the infrastructure. That forces tough choices about wells, aquifers, and whether to extend service from neighboring systems."
   },
   {
    "host": "Emmy",
-   "text": "Got it. So the recall is really a symptom of this statewide tension over who decides where these power-hungry projects land."
+   "text": "Farmland is getting converted too. How many acres are we talking about statewide?"
   },
   {
    "host": "Graham",
-   "text": "Precisely. And listeners 30 or 60 miles away could feel it in their electric bills or local grid reliability if big approvals keep coming."
+   "text": "Proposals have targeted hundreds of acres in places like Augusta and Saline. Once rezoned industrial, that land is hard to bring back for agriculture."
   },
   {
    "host": "Emmy",
-   "text": "Thanks for grounding that, Graham. Let's move to some quick hits from the past couple days."
+   "text": "What happens next with the signatures in Springfield?"
   },
   {
    "host": "Graham",
-   "text": "Starting with Ypsilanti. The city council extended its data center moratorium today while it studies power and water impacts. That pause blocks large projects for now."
+   "text": "Organizers need enough valid signatures from township voters to trigger a recall election. If they succeed, it goes to the ballot and could reshape the board before more projects advance."
   },
   {
    "host": "Emmy",
-   "text": "And ripple effects could reach Ann Arbor and beyond on electricity rates if things move later. Smart move to get more data first."
+   "text": "Meanwhile other communities are hitting pause too. Let's move to quick hits."
   },
   {
    "host": "Graham",
-   "text": "Yesterday a developer restarted plans to turn an old electric plant site into a data center. Tax revenue questions are front and center there."
+   "text": "Ypsilanti is keeping its data center freeze in place while studying power and water impacts. The moratorium blocks large projects for now."
   },
   {
    "host": "Emmy",
-   "text": "Residents nearby will watch how that affects land use and rates. Meanwhile, Mason County broke ground on two major facilities yesterday — construction jobs but big draws on the regional grid."
+   "text": "That could ripple out to Ann Arbor and beyond on electricity rates if approvals come later."
   },
   {
    "host": "Graham",
-   "text": "Kalamazoo added a moratorium to its zoning code on Saturday to slow the rush as AI proposals multiply. Gives time to study noise, power and water."
+   "text": "In Saline Township, supervisors delayed a vote on a 12-year tax break for the big Oracle campus. Residents are questioning the revenue loss versus promised jobs."
   },
   {
    "host": "Emmy",
-   "text": "Garfield Township in Grand Traverse County is taking a full year to draft its own rules, announced Friday. That delay lets locals weigh traffic, taxes and grid impacts."
+   "text": "A developer is restarting plans to turn the old Emerson Electric site into a data center, bringing new power demand questions."
   },
   {
    "host": "Graham",
-   "text": "Also Friday, a university town hall gave Mid-Michigan residents their first concrete look at megawatt and water demands from proposed centers."
+   "text": "Over in western Mason County, two major data centers broke ground on Saturday — big electricity draw and construction jobs on the way."
   },
   {
    "host": "Emmy",
-   "text": "Lakeshore Township blocked projects using existing zoning on Friday, keeping water and noise concerns off the table for now. Nearby towns are taking notes."
+   "text": "Kalamazoo added a moratorium to its zoning code to slow the rush while it studies impacts."
   },
   {
    "host": "Graham",
-   "text": "And Ypsilanti-area residents planned a protest Friday over water use at two proposed campuses that could pull millions of gallons daily."
+   "text": "Garfield Township in Grand Traverse County is taking a full year to craft rules on noise, water, and power."
   },
   {
    "host": "Emmy",
-   "text": "Finally, a farm is seeking city annexation to build on rural land, which would shift taxes and control away from the township."
+   "text": "A university town hall in mid-Michigan gave residents their first concrete look at megawatt and water-use numbers for proposed projects."
   },
   {
    "host": "Graham",
-   "text": "Now for on deck — what listeners can actually attend or follow."
+   "text": "Lakeshore Township is blocking data centers with existing zoning that keeps them away from homes and wells."
   },
   {
    "host": "Emmy",
-   "text": "Garfield Township supervisors will spend the next 12 months crafting standards, so keep an eye on their public meetings for input on noise, power and water limits."
+   "text": "And Ypsilanti-area activists are planning a protest Saturday over water use at two proposed campuses."
   },
   {
    "host": "Graham",
-   "text": "The Mid-Michigan town hall series is ongoing, with more sessions planned where residents within 30 miles can question developers on rates and aquifers."
+   "text": "Now let's look at what's on deck for listeners who want to weigh in."
   },
   {
    "host": "Emmy",
-   "text": "Springfield's recall process itself will have public steps — signature verification and potential hearings worth watching if you're in Oakland County."
+   "text": "Tomorrow, September 9, the City of Ionia has an informational meeting on the data center industry and local considerations."
   },
   {
    "host": "Graham",
-   "text": "And Kalamazoo's new zoning work will likely include hearings soon as they formalize the moratorium."
+   "text": "Also on the 9th, University of Michigan is hosting a town hall on the proposed high-performance computing facility in Ypsilanti Township."
   },
   {
    "host": "Emmy",
-   "text": "Plenty happening locally. Full sources and the live map at the Michigan Data Center Tracker. We're back tomorrow."
+   "text": "And on September 15, Ypsilanti City Council holds a public hearing on zoning changes and the 60-day emergency moratorium."
+  },
+  {
+   "host": "Graham",
+   "text": "Full sources and the live map at the Michigan Data Center Tracker. We're back tomorrow."
+  },
+  {
+   "host": "Emmy",
+   "text": "Thanks for listening."
   }
  ],
- "episode_title": "Springfield Recall Sparks Fresh Look at Data Center Strain Across Michigan",
- "show": "Evenings with Graham & Emmy",
- "daypart": "Evenings"
+ "episode_title": "Recall Effort Targets Springfield Supervisor Amid Data Center Pushback",
+ "show": "Mornings with Graham & Emmy",
+ "daypart": "Mornings"
 }
