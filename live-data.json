@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-09-07T15:45:00+00:00",
+ "updated_at": "2026-09-07T19:51:29Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "Warren enacts year-long halt on new data centers",
+   "dek": "Warren City Council approved a 12-month moratorium on data center proposals. Residents in Macomb County have raised alarms over the projects' heavy draw on local power and water supplies. The move gives officials time to study zoning rules before any large facilities advance.",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLUdnWmIwaWdzZEtfSXJSalFRVnJPa0t2dkNsejl3cmxOelhoZDdqMTJ6M3FfbTd6X29iZEpMelpnYmhGSkdiZTN2Ny1ydlFZOElNYTBPUmJ0a1ZEVTJuV2F0ZFpyTnRrRHQydjhOSDhWV053SmNla0lSSVRuVFdnOTZnb2J3X2hXWGdwb2I3SVMzSlJyR3dXSUpyVjlIS0psX0tsUHRyMU9MSHpaa2lCN2FIU2M1WE1qRTF2QQ?oc=5",
+   "source": "C & G Newspapers",
+   "region": "metro",
+   "cat": "STATEWIDE",
+   "county": "Macomb",
+   "tag": "Local Government",
+   "iso": "2026-09-07T18:56:17Z",
+   "id": "fdc471436010",
+   "origin": "google-news",
+   "source_title": "Warren City Council votes to approve 12-month data center moratorium - C & G Newspapers",
+   "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLUdnWmIwaWdzZEtfSXJSalFRVnJPa0t2dkNsejl3cmxOelhoZDdqMTJ6M3FfbTd6X29iZEpMelpnYmhGSkdiZTN2Ny1ydlFZOElNYTBPUmJ0a1ZEVTJuV2F0ZFpyTnRrRHQydjhOSDhWV053SmNla0lSSVRuVFdnOTZnb2J3X2hXWGdwb2I3SVMzSlJyR3dXSUpyVjlIS0psX0tsUHRyMU9MSHpaa2lCN2FIU2M1WE1qRTF2QQ?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 9
+  },
   {
    "title": "Recall push targets Springfield Twp supervisor over data center fights",
    "dek": "Residents are gathering signatures to oust the supervisor they blame for fast-tracking data center projects that could strain local roads, power and water. The effort shows how data center fights are now shaping township politics in southeast Michigan. A successful recall would shift control of future approvals.",
@@ -171,23 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQnBWN3NxRnVQV05PSlN5Rmp1T21VcXR6U2E2bjk0bHpTemlfN3JPUUJxb1UtelNwUUctb1F4MS1QcXprcHdTR3h0ZGV2RENrWWRYWmVXVjBmWHJWOEFtMU9aUF9sYXloVzdBLURyYmdyMVprcHZJeVA3TVAxU0R2blB6QnBFWEl6NGxzV3ZadTZBVUZaNXhRTzJVTDNTR0MtWUhsSjNWb2lSTm5CVURCOWpUNUpDVlRaMmtKazlGLXFkVVdRbFFIMXZmU2d2aWhaalViNlN5SUJTME3SAdsBQVVfeXFMUEJwVjdzcUZ1UFdOT0pTeUZqdU9tVXF0elNhNm45NGx6U3ppXzdyT1FCcW9VLXpTcFFHLW9ReDEtUHF6a3B3U0d4dGRldkRDa1lkWFplV1YwZlhyVjhBbTFPWlBfbGF5aFc3QS1EcmJncjFaa3B2SXlQN01QMVNEdm5QekJwRVhJejRsc1d2WnU2QVVGWjV4UU8yVUwzU0dDLVlIbEozVm9pUk5uQlVEQjlqVDVKQ1ZUWjJrSms5Ri1xZFVXUWxRSDF2ZlNndmloWmpVYjZTeUlCUzBN?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
-  },
-  {
-   "title": "Farm seeks city annexation to build Michigan data center",
-   "dek": "A rural property owner is pushing to join a nearby city so a data center can be built on farmland. The move would shift tax revenue and local control away from the township. Residents 30 miles away will feel the change in land use and services if the annexation succeeds.",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ2hoZUJkdWVCemhOVHFudXM3T0VVLTFGdU9hcFdXQzQtRnVFazhMekdsNXB3RjJDQXdRbm5pQ3lsUVVsNzNSVTg5MVFkU3BKZ3llVV9Za1FjMm90ZXBsSmpkcDVZekxOU2pDajhDQWktVWlJR2hBSi1ieDR0MDhESGtpakVlM0xxN2hpZWZzakQ?oc=5",
-   "source": "Crain's Detroit",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Ottawa",
-   "tag": "Local Government",
-   "iso": "2026-09-04T09:45:00Z",
-   "id": "1902283372d5",
-   "origin": "google-news",
-   "source_title": "A farm wants a data center in rural Michigan — and it has to join a city to do it - Crain's Detroit",
-   "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ2hoZUJkdWVCemhOVHFudXM3T0VVLTFGdU9hcFdXQzQtRnVFazhMekdsNXB3RjJDQXdRbm5pQ3lsUVVsNzNSVTg5MVFkU3BKZ3llVV9Za1FjMm90ZXBsSmpkcDVZekxOU2pDajhDQWktVWlJR2hBSi1ieDR0MDhESGtpakVlM0xxN2hpZWZzakQ?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {
@@ -208,21 +208,21 @@
   {
    "iso": "2026-09-09",
    "body": "City of Ionia",
-   "topic": "Informational meeting on data center industry, impacts and local considerations",
+   "topic": "Informational meeting on data center industry, impacts, and local considerations",
    "region": "West Michigan",
    "regionKey": "west",
    "county": "Ionia",
    "time": "5:30 PM",
    "status": "Public meeting",
    "urgent": false,
-   "link": "https://www.ci.ionia.mi.us/AgendaCenter",
-   "linkLabel": "Agenda Center",
+   "link": "https://cityofionia.org/",
+   "linkLabel": "City Website / Meeting Schedule",
    "stream": ""
   },
   {
    "iso": "2026-09-09",
    "body": "University of Michigan",
-   "topic": "Town hall on proposed high-performance computing facility in Ypsilanti Township",
+   "topic": "Community town hall on proposed high-performance computing facility in Ypsilanti Township",
    "region": "SE Michigan",
    "regionKey": "metro",
    "county": "Washtenaw",
@@ -230,7 +230,7 @@
    "status": "Public hearing",
    "urgent": false,
    "link": "https://bridgemi.com/business-watch/u-m-affirms-ypsilanti-1-2b-computing-center-site-township-officials-vow-fight/",
-   "linkLabel": "Event Details",
+   "linkLabel": "Event Details via Bridge Michigan / U-M Announcements",
    "stream": ""
   },
   {

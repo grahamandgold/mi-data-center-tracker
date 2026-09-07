@@ -1,13 +1,6 @@
 {
  "killed": [
   {
-   "url": "https://news.bloomberglaw.com/litigation/michigan-city-sued-by-developer-over-yearlong-data-center-ban",
-   "title": "Developer Sues Gibraltar Over Yearlong Data Center Moratorium",
-   "at": "2026-08-20T18:52:48+00:00",
-   "by": "news_judge",
-   "note": "score 1/10, duplicate: This story is a duplicate of multiple already-killed stories about Gibraltar developers suing over the data center moratorium."
-  },
-  {
    "url": "https://www.mlive.com/news/detroit/2026/08/data-center-developer-sues-michigan-city-challenging-one-year-pause-on-projects.html",
    "title": "Developer sues Gibraltar over one-year data center moratorium, seeks court order to approve steel mill site project",
    "at": "2026-08-20T20:38:53+00:00",
@@ -1399,15 +1392,16 @@
    "at": "2026-09-07T15:45:07+00:00",
    "by": "news_judge",
    "note": "score 4/10: Thin weekly roundup combining an info session with no active proposal and a moratorium advancement already covered in live story about Ypsilanti keeping freeze "
+  },
+  {
+   "url": "https://bridgemi.com/business-watch/u-m-affirms-ypsilanti-1-2b-computing-center-site-township-officials-vow-fight/",
+   "title": "Ypsilanti Township Officials Vow Fight Over U-M's $1.2B Data Center",
+   "at": "2026-09-07T19:51:29+00:00",
+   "by": "news_judge",
+   "note": "score 4/10: Rehashes existing U-M data center opposition with no new decision or development, just officials restating concerns already covered in live stories."
   }
  ],
  "auto_published": [
-  {
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13a1VwSlhxRGFOb09odk0xSUZoOFpBbkdGcGg4QzJ0bnFjemhKUUxYSFlwX3hBVFpUQmFkam5sVXF5UnF0LWRRcmtpMGRmSklyOGUwcTlyeXFhYlVQX3YwRw?oc=5",
-   "title": "Whitmer tells data centers they must follow new state growth rules",
-   "judge_score": 9,
-   "at": "2026-07-19T21:02:13Z"
-  },
   {
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWHNNVFRCYkdxUnhlWm1uSWJIY0R4VXBtdm5xTUN6ejUtOWw4amdaSUhpbHhZYzNPQnVjRTBQdjFkZDlvbUNTUkdRZDJlbjZqSmdNTkYyZTN0RUNvalllZmRXT01QeWtCNDdqTlVlLTVLdk5xb2UtX2NLWmdhbjA1WkZzTlNMajZlQ2dSZUp3aktKZkszdFF0NTZuYnE1cjFoYXBSVnVPSVhLR2fSAasBQVVfeXFMTVhzTVRUQmJHcVJ4ZVptbkliSGNEeFVwbXZucU1Deno1LTlsOGpnWklIaWx4WWMzT0J1Y0UwUHYxZGQ5b21DU1JHUWQyZW42akpnTU5GMmUzdEVDb2pZZWZkV09NUHlrQjQ3ak5VZS01S3ZOcW9lLV9jS1pnYW4wNVpGc05TTGo2ZUNnUmVKd2pLSmZLM3RRdDU2bmJxNXIxaGFwUlZ1T0lYS0dn?oc=5",
    "title": "Mason residents raise cash to fight proposed data center",
@@ -3201,6 +3195,12 @@
    "title": "Saline Township delays vote on 12-year tax break for Oracle campus",
    "judge_score": 8,
    "at": "2026-09-06T23:45:00Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLUdnWmIwaWdzZEtfSXJSalFRVnJPa0t2dkNsejl3cmxOelhoZDdqMTJ6M3FfbTd6X29iZEpMelpnYmhGSkdiZTN2Ny1ydlFZOElNYTBPUmJ0a1ZEVTJuV2F0ZFpyTnRrRHQydjhOSDhWV053SmNla0lSSVRuVFdnOTZnb2J3X2hXWGdwb2I3SVMzSlJyR3dXSUpyVjlIS0psX0tsUHRyMU9MSHpaa2lCN2FIU2M1WE1qRTF2QQ?oc=5",
+   "title": "Warren enacts year-long halt on new data centers",
+   "judge_score": 9,
+   "at": "2026-09-07T19:51:29Z"
   }
  ]
 }
