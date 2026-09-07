@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T17:30:09+00:00",
+ "generated_at": "2026-09-07T15:41:59+00:00",
  "totals": {
   "published": 12,
   "killed_by_andy": 0,
@@ -19,21 +19,28 @@
   "2026-W34": {
    "published": 0,
    "killed_human": 0,
-   "killed_judge": 130,
+   "killed_judge": 78,
    "sent_back": 0,
    "corrections": 0
   },
   "2026-W35": {
-   "published": 9,
+   "published": 0,
    "killed_human": 0,
    "killed_judge": 69,
    "sent_back": 0,
    "corrections": 0
   },
   "2026-W36": {
-   "published": 2,
+   "published": 11,
    "killed_human": 0,
-   "killed_judge": 1,
+   "killed_judge": 51,
+   "sent_back": 0,
+   "corrections": 0
+  },
+  "2026-W37": {
+   "published": 0,
+   "killed_human": 0,
+   "killed_judge": 2,
    "sent_back": 0,
    "corrections": 0
   }
