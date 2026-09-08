@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-09-08T11:40:14+00:00",
+ "updated_at": "2026-09-08T16:33:39Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "West Michigan town joins pause on new data centers",
+   "dek": "A small West Michigan city has enacted a temporary halt on data center proposals, following similar moves by neighboring communities. The action stems from worries over heavy demands on local electricity and water supplies that could raise costs for residents. Michigan readers 30-60 miles away should watch how this affects regional utility planning and tax bases as more towns consider limits.",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORkpESVBFRGlsRWpnQktiRFVKMEVwYUlwaGZCRlFQeXRlVm1nRDd3OUdmbzRiRXFJT1hEYjRIWi12NFA1eFNhQV9MLVFNRTNZUFB5em4yNVVYQTdIYzR1Q0I3RDJNZE5oYXhvcl9JOFlORWdWOEhfNDJ5djhSaW51RF8yOEFtMzFnOTluRHdNZ2RGNGdROWhYZVh0dUVEcHV2cm1CbUdncHp6OVlMX0JpZU5oMTBjdFJ4MmllUUl30gHSAUFVX3lxTE56Y2lTOUNoRy1yZDdZOFQ3TkxvSFA5ZWh6U3RPOVVGWW1adFo3V29PSTFjZ3g3TXJVV2FDZDJOVGU4ZE03dG80TXJ2U3pmdVA1M09xWTBOR1ZUM1RrQkVSZWVGVlphQ3A3aXFheHFsU1JMVW5XUGZ3aGd5SHVYMk1qdWtKNmtUaTdJbmpyM29OTGtiZnR4bEZxQm9ESjhUSnFtWW1BTWZEWlY3Q1dxejh2dXRnbloxdktOMzVZTjBTbGVKbXpyR09Vdm9odlBEVGFrQQ?oc=5",
+   "source": "MLive.com",
+   "region": "west",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Local Government",
+   "iso": "2026-09-08T15:12:00Z",
+   "id": "00e85b24b9ea",
+   "origin": "google-news",
+   "source_title": "Small West Michigan city joins communities putting pause on data centers - MLive.com",
+   "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORkpESVBFRGlsRWpnQktiRFVKMEVwYUlwaGZCRlFQeXRlVm1nRDd3OUdmbzRiRXFJT1hEYjRIWi12NFA1eFNhQV9MLVFNRTNZUFB5em4yNVVYQTdIYzR1Q0I3RDJNZE5oYXhvcl9JOFlORWdWOEhfNDJ5djhSaW51RF8yOEFtMzFnOTluRHdNZ2RGNGdROWhYZVh0dUVEcHV2cm1CbUdncHp6OVlMX0JpZU5oMTBjdFJ4MmllUUl30gHSAUFVX3lxTE56Y2lTOUNoRy1yZDdZOFQ3TkxvSFA5ZWh6U3RPOVVGWW1adFo3V29PSTFjZ3g3TXJVV2FDZDJOVGU4ZE03dG80TXJ2U3pmdVA1M09xWTBOR1ZUM1RrQkVSZWVGVlphQ3A3aXFheHFsU1JMVW5XUGZ3aGd5SHVYMk1qdWtKNmtUaTdJbmpyM29OTGtiZnR4bEZxQm9ESjhUSnFtWW1BTWZEWlY3Q1dxejh2dXRnbloxdktOMzVZTjBTbGVKbXpyR09Vdm9odlBEVGFrQQ?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 7
+  },
   {
    "title": "Warren enacts year-long halt on new data centers",
    "dek": "Warren City Council approved a 12-month moratorium on data center proposals. Residents in Macomb County have raised alarms over the projects' heavy draw on local power and water supplies. The move gives officials time to study zoning rules before any large facilities advance.",
@@ -171,23 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWlJGaGY3S0Z2TGpSeGFnbnlMRWcxajBqYWRIWG5XMDFnQkJhNzAzYUFDN3RObkdON2VGOHRsWEhDeDdoODU5QmdIYkEyWVE2V3NleGVpRnJMTFFfaVZyOTRqVnN2aDJpcXVRdTJFRUpCb3VRaVdoU2lZdjAzVVpLUk1oM0tzZXVKOERwVXdFRXZSN2dzNlFiLTJtT3VvVUczQ205QV85c3BtbkRJSDhmckoxZzVLM05Z0gG4AUFVX3lxTE9aUkZoZjdLRnZMalJ4YWdueUxFZzFqMGphZEhYblcwMWdCQmE3MDNhQUM3dE5uR043ZUY4dGxYSEN4N2g4NTlCZ0hiQTJZUTZXc2V4ZWlGckxMUV9pVnI5NGpWc3ZoMmlxdVF1MkVFSkJvdVFpV2hTaVl2MDNVWktSTWgzS3NldUo4RHBVd0VFdlI3Z3M2UWItMm1PdW9VRzNDbTlBXzlzcG1uRElIOGZySjFnNUszTlk?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 7
-  },
-  {
-   "title": "Ypsilanti-area residents plan protest over data center water use",
-   "dek": "Activists will gather at the Van Buren Township line to oppose projects they say threaten local wells and raise power costs. The Saturday event targets two proposed campuses that could draw millions of gallons daily. Washtenaw and Wayne county homeowners within driving distance have a direct stake.",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQnBWN3NxRnVQV05PSlN5Rmp1T21VcXR6U2E2bjk0bHpTemlfN3JPUUJxb1UtelNwUUctb1F4MS1QcXprcHdTR3h0ZGV2RENrWWRYWmVXVjBmWHJWOEFtMU9aUF9sYXloVzdBLURyYmdyMVprcHZJeVA3TVAxU0R2blB6QnBFWEl6NGxzV3ZadTZBVUZaNXhRTzJVTDNTR0MtWUhsSjNWb2lSTm5CVURCOWpUNUpDVlRaMmtKazlGLXFkVVdRbFFIMXZmU2d2aWhaalViNlN5SUJTME3SAdsBQVVfeXFMUEJwVjdzcUZ1UFdOT0pTeUZqdU9tVXF0elNhNm45NGx6U3ppXzdyT1FCcW9VLXpTcFFHLW9ReDEtUHF6a3B3U0d4dGRldkRDa1lkWFplV1YwZlhyVjhBbTFPWlBfbGF5aFc3QS1EcmJncjFaa3B2SXlQN01QMVNEdm5QekJwRVhJejRsc1d2WnU2QVVGWjV4UU8yVUwzU0dDLVlIbEozVm9pUk5uQlVEQjlqVDVKQ1ZUWjJrSms5Ri1xZFVXUWxRSDF2ZlNndmloWmpVYjZTeUlCUzBN?oc=5",
-   "source": "MLive.com",
-   "region": "metro",
-   "cat": "STATEWIDE",
-   "county": "Washtenaw",
-   "tag": "Water",
-   "iso": "2026-09-04T12:56:00Z",
-   "id": "c0cd6abf5aa4",
-   "origin": "google-news",
-   "source_title": "Data center protesters to gather Saturday at Ypsilanti, Van Buren Township line - MLive.com",
-   "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQnBWN3NxRnVQV05PSlN5Rmp1T21VcXR6U2E2bjk0bHpTemlfN3JPUUJxb1UtelNwUUctb1F4MS1QcXprcHdTR3h0ZGV2RENrWWRYWmVXVjBmWHJWOEFtMU9aUF9sYXloVzdBLURyYmdyMVprcHZJeVA3TVAxU0R2blB6QnBFWEl6NGxzV3ZadTZBVUZaNXhRTzJVTDNTR0MtWUhsSjNWb2lSTm5CVURCOWpUNUpDVlRaMmtKazlGLXFkVVdRbFFIMXZmU2d2aWhaalViNlN5SUJTME3SAdsBQVVfeXFMUEJwVjdzcUZ1UFdOT0pTeUZqdU9tVXF0elNhNm45NGx6U3ppXzdyT1FCcW9VLXpTcFFHLW9ReDEtUHF6a3B3U0d4dGRldkRDa1lkWFplV1YwZlhyVjhBbTFPWlBfbGF5aFc3QS1EcmJncjFaa3B2SXlQN01QMVNEdm5QekJwRVhJejRsc1d2WnU2QVVGWjV4UU8yVUwzU0dDLVlIbEozVm9pUk5uQlVEQjlqVDVKQ1ZUWjJrSms5Ri1xZFVXUWxRSDF2ZlNndmloWmpVYjZTeUlCUzBN?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 6
   }
  ],
  "national": {
@@ -222,16 +222,16 @@
   {
    "iso": "2026-09-09",
    "body": "City of Ionia",
-   "topic": "Informational meeting on data center industry, impacts, and considerations for potential future proposals",
+   "topic": "Informational meeting on data center industry, impacts, and local considerations",
    "region": "West Michigan",
    "regionKey": "west",
    "county": "Ionia",
    "time": "5:30 PM",
    "status": "Public meeting",
    "urgent": false,
-   "link": "https://cityofionia.org/",
-   "linkLabel": "Agenda / Meeting Info",
-   "stream": null
+   "link": "https://www.cityofionia.org/",
+   "linkLabel": "City Website / Agenda Center",
+   "stream": ""
   },
   {
    "iso": "2026-09-09",
@@ -241,11 +241,11 @@
    "regionKey": "metro",
    "county": "Washtenaw",
    "time": "TBD (evening)",
-   "status": "Public town hall",
-   "urgent": false,
+   "status": "Public hearing",
+   "urgent": true,
    "link": "https://bridgemi.com/business-watch/u-m-affirms-ypsilanti-1-2b-computing-center-site-township-officials-vow-fight/",
-   "linkLabel": "Details",
-   "stream": null
+   "linkLabel": "U-M Project Page / Registration",
+   "stream": ""
   },
   {
    "iso": "2026-09-15",
