@@ -1,6 +1,36 @@
 {
- "updated_at": "2026-09-08T11:40:14+00:00",
+ "updated_at": "2026-09-08T13:54:04+00:00",
  "generator": "grok-wire-agent",
- "items": [],
+ "items": [
+  {
+   "title": "Ypsilanti fights U-M $1.2B computing center on 144 Huron River acres",
+   "dek": "University of Michigan plans a $1.2 billion high-performance computing facility on 144 acres it purchased last year next to the Huron River in eastern Washtenaw County, backed by a $100 million state grant and tied to Los Alamos National Laboratory national security research. Township leaders call the site selection offensive to their community of 54,000 with lower per-capita income and vow continued opposition over transparency and potential security risks.",
+   "url": "https://bridgemi.com/business-watch/u-m-affirms-ypsilanti-1-2b-computing-center-site-township-officials-vow-fight/",
+   "source": "University of Michigan agenda",
+   "region": "Southeast Michigan",
+   "county": "Washtenaw",
+   "cat": "Meetings",
+   "tag": "Agenda watch",
+   "iso": "2026-09-08T13:54:04+00:00",
+   "kind": "agenda",
+   "id": "66f11953005a",
+   "filed_at": "2026-09-08T13:54:04+00:00",
+   "accuracy": "document-based",
+   "findings": "U-M affirmed Tuesday it will build $1.2B facility on 144 acres on Textile Road purchased last year for research computing serving U-M and Los Alamos | State approved $100M Strategic Site Readiness Program grant in December 2024 for the project | Township of 54,000 has $36,000 per-capita income versus $53,000 countywide; officials say location burdens poorer area | U-M says project could create 200 jobs that pay an average of $200,000 per year but township leaders call details unverified | Project labeled computing center to distinguish from hyperscale facilities; nearby Saline Township hosts $43B Oracle/OpenAI project | Township passed resolutions against it and encouraged year-long pause on data center approvals through Ypsilanti Community Utilities Authority",
+   "perspective": "Township officials have mobilized against the project for the last year with resolutions and opposition; U-M schedules community town hall for Sept. 9 in the township. U-M spokesperson said center would not involve storage or handling of nuclear materials. U.S. Rep. Debbie Dingell criticized U-M for rebuffing community concerns and ignoring residents who do not want the project.",
+   "documents": [
+    {
+     "label": "Agenda page",
+     "url": "https://bridgemi.com/business-watch/u-m-affirms-ypsilanti-1-2b-computing-center-site-township-officials-vow-fight/"
+    },
+    {
+     "label": "unveiled in December 2024",
+     "url": "https://www.michiganbusiness.org/globalassets/documents/msf-board/msf-board-packets/december-2024-msf-board-packet_final_web-upload.pdf"
+    }
+   ],
+   "depth_score": 8,
+   "extraction_method": "plain"
+  }
+ ],
  "accuracy_checked_at": "2026-09-08T11:40:14+00:00"
 }
