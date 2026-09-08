@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-08T16:33:39Z",
+ "updated_at": "2026-09-08T19:33:43+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -222,15 +222,15 @@
   {
    "iso": "2026-09-09",
    "body": "City of Ionia",
-   "topic": "Informational meeting on data center industry, impacts, and local considerations",
+   "topic": "Informational meeting on data center industry, potential impacts, and local considerations if proposals arise",
    "region": "West Michigan",
    "regionKey": "west",
    "county": "Ionia",
    "time": "5:30 PM",
    "status": "Public meeting",
    "urgent": false,
-   "link": "https://www.cityofionia.org/",
-   "linkLabel": "City Website / Agenda Center",
+   "link": "https://www.ci.ionia.mi.us/AgendaCenter",
+   "linkLabel": "Agenda Center",
    "stream": ""
   },
   {
@@ -250,14 +250,14 @@
   {
    "iso": "2026-09-15",
    "body": "City of Ypsilanti City Council",
-   "topic": "Public hearing on zoning ordinance text amendment for data centers and 60-day emergency moratorium",
+   "topic": "Public hearing on zoning ordinance text amendment for data centers, including definitions, permissible uses, and performance standards; emergency moratorium proposal",
    "region": "SE Michigan",
    "regionKey": "metro",
    "county": "Washtenaw",
    "time": "7:00 PM",
    "status": "Public hearing",
-   "urgent": false,
-   "link": "https://www.cityofypsilanti.com/AgendaCenter",
+   "urgent": true,
+   "link": "https://www.cityofypsilanti.com/agendacenter",
    "linkLabel": "Agenda Center",
    "stream": ""
   }
