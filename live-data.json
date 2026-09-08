@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-07T22:46:10+00:00",
+ "updated_at": "2026-09-08T01:07:08+00:00",
  "generator": "grok-wire-agent",
  "stories": [
   {
@@ -222,7 +222,7 @@
   {
    "iso": "2026-09-09",
    "body": "City of Ionia",
-   "topic": "Informational meeting on data center industry, impacts, and local considerations",
+   "topic": "Informational meeting on data center industry, impacts, and considerations for potential future proposals",
    "region": "West Michigan",
    "regionKey": "west",
    "county": "Ionia",
@@ -230,22 +230,22 @@
    "status": "Public meeting",
    "urgent": false,
    "link": "https://cityofionia.org/",
-   "linkLabel": "City Website / Meeting Schedule",
-   "stream": ""
+   "linkLabel": "Agenda / Meeting Info",
+   "stream": null
   },
   {
    "iso": "2026-09-09",
    "body": "University of Michigan",
-   "topic": "Community town hall on proposed high-performance computing facility in Ypsilanti Township",
+   "topic": "Community town hall on proposed $1.2 billion high-performance computing facility in Ypsilanti Township",
    "region": "SE Michigan",
    "regionKey": "metro",
    "county": "Washtenaw",
-   "time": "TBD",
-   "status": "Public hearing",
+   "time": "TBD (evening)",
+   "status": "Public town hall",
    "urgent": false,
    "link": "https://bridgemi.com/business-watch/u-m-affirms-ypsilanti-1-2b-computing-center-site-township-officials-vow-fight/",
-   "linkLabel": "Event Details via Bridge Michigan / U-M Announcements",
-   "stream": ""
+   "linkLabel": "Details",
+   "stream": null
   },
   {
    "iso": "2026-09-15",
