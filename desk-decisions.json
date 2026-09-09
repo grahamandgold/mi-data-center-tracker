@@ -1403,12 +1403,6 @@
  ],
  "auto_published": [
   {
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNnVpNkpEUGpwZXNQUWh6UjNOUjBINWk3UnlQTXdvMS03aFRTZWVSVGVXVjZiMnl6QVJGcm1laWlORnd2Q1d4UXcxdFBXUWtsV3pENUtHZG9wZzROX2g4amFvN2U0aU9ObnEwRmVIRFJCY0xHdzlMZUVwdFJ4dGdPVTN4VXlZUG1MR000d2FMX2lCZTRrdUdpVHpEYVFUbXpsLV9OejVvUGg5UW16X0RwTDhXbW5kV3hoM2Nr?oc=5",
-   "title": "Manchester grants data center tax break after slashing request by 89%",
-   "judge_score": 8,
-   "at": "2026-07-20T14:53:23Z"
-  },
-  {
    "url": "https://michiganadvance.com/2026/07/20/michigan-data-centers-the-weekly-download-3-2-2-2-2/",
    "title": "Lansing City Council Enacts 182-Day Moratorium on New Data Center Proposals",
    "judge_score": 8,
@@ -3201,6 +3195,12 @@
    "title": "West Michigan town joins pause on new data centers",
    "judge_score": 7,
    "at": "2026-09-08T16:33:39Z"
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT2xmYWVCVGJzVU9jRkN4cDNjRVE1QUVXTHNGX1dkQmtkZUxfUU9LQmEtbHdqU084VDJVX2IyTDFjM2tBWEI5eDhrX2NOTDRFUF9nbWZkQ1VMSEJGNzUzSDZzR0RMNjhuZ3FmaVRsVF9IWEVBOTU5azVGQmMyVU55SFpIYzhlV0MxQ2w0anE3OEFmVmdJLUhfSl82dzRjQTViX25zSUloVWJPc3lxcEFFQkVyZw?oc=5",
+   "title": "John James rejects local vetoes on data centers in four votes",
+   "judge_score": 8,
+   "at": "2026-09-09T00:02:11Z"
   }
  ]
 }

@@ -1,36 +1,6 @@
 {
- "updated_at": "2026-09-08T22:46:34+00:00",
+ "updated_at": "2026-09-09T00:02:11Z",
  "generator": "grok-wire-agent",
- "items": [
-  {
-   "title": "Ypsilanti Township fights U-M $1.2B computing center on 144 acres by Huron River",
-   "dek": "University of Michigan plans a Sept. 9 town hall on its $1.2 billion computing facility backed by a $100 million state grant and Los Alamos National Laboratory partnership. The 144-acre Textile Road site in eastern Washtenaw County sits in a township of 54,000 with $36,000 per-capita income, drawing vows of continued opposition over water use, transparency and national security research.",
-   "url": "https://bridgemi.com/business-watch/u-m-affirms-ypsilanti-1-2b-computing-center-site-township-officials-vow-fight/",
-   "source": "University of Michigan agenda",
-   "region": "Southeast Michigan",
-   "county": "Washtenaw",
-   "cat": "Meetings",
-   "tag": "Agenda watch",
-   "iso": "2026-09-08T22:46:34+00:00",
-   "kind": "agenda",
-   "id": "66f11953005a",
-   "filed_at": "2026-09-08T22:46:34+00:00",
-   "accuracy": "document-based",
-   "findings": "U-M purchased the 144-acre Textile Road parcel last year and affirmed the site Tuesday for a $1.2B facility to support university and Los Alamos national security research near power and water, per the university statement | The project received a $100M state grant approved in December 2024 and could create 200 jobs averaging $200,000 annually while positioning Michigan in AI and biomedical innovation, according to U-M and federal officials | Ypsilanti Township officials passed resolutions against the project, encouraged a year-long pause on data center project approvals through the Ypsilanti Community Utilities Authority and called the announcement a call to action, per township supervisor Brenda Stumbo and attorney Doug Winters | Township leaders learned of the final site decision by tex",
-   "perspective": "Ypsilanti Township has opposed the project since last summer through resolutions and moratorium advocacy, while U-M considered but rejected alternative sites including state land near the American Center for Mobility. The Sept. 9 town hall in the township opens public comment on the Textile Road plan; township leaders say they will continue fighting.",
-   "documents": [
-    {
-     "label": "Agenda page",
-     "url": "https://bridgemi.com/business-watch/u-m-affirms-ypsilanti-1-2b-computing-center-site-township-officials-vow-fight/"
-    },
-    {
-     "label": "unveiled in December 2024",
-     "url": "https://www.michiganbusiness.org/globalassets/documents/msf-board/msf-board-packets/december-2024-msf-board-packet_final_web-upload.pdf"
-    }
-   ],
-   "depth_score": 8,
-   "extraction_method": "plain"
-  }
- ],
- "accuracy_checked_at": "2026-09-08T22:00:37+00:00"
+ "items": [],
+ "accuracy_checked_at": "2026-09-09T00:02:09+00:00"
 }

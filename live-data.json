@@ -1,7 +1,24 @@
 {
- "updated_at": "2026-09-08T22:00:37+00:00",
+ "updated_at": "2026-09-09T00:02:11Z",
  "generator": "grok-wire-agent",
  "stories": [
+  {
+   "title": "John James rejects local vetoes on data centers in four votes",
+   "dek": "The Michigan Democrat ad highlights John James's record of opposing bills that would let townships and counties decide on data-center projects. Those votes matter because data centers can lock up hundreds of megawatts and shift tax burdens onto residents. Voters in districts with proposed campuses now have a clear contrast on who controls local land use and power costs.",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT2xmYWVCVGJzVU9jRkN4cDNjRVE1QUVXTHNGX1dkQmtkZUxfUU9LQmEtbHdqU084VDJVX2IyTDFjM2tBWEI5eDhrX2NOTDRFUF9nbWZkQ1VMSEJGNzUzSDZzR0RMNjhuZ3FmaVRsVF9IWEVBOTU5azVGQmMyVU55SFpIYzhlV0MxQ2w0anE3OEFmVmdJLUhfSl82dzRjQTViX25zSUloVWJPc3lxcEFFQkVyZw?oc=5",
+   "source": "Michigan Democratic Party",
+   "region": "statewide",
+   "cat": "STATEWIDE",
+   "county": "",
+   "tag": "Policy",
+   "iso": "2026-09-08T21:14:08Z",
+   "id": "7ba3779016da",
+   "origin": "google-news",
+   "source_title": "4 Questions for John James After He Voted 4 Times Against Local Control of Data Centers - Michigan Democratic Party",
+   "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT2xmYWVCVGJzVU9jRkN4cDNjRVE1QUVXTHNGX1dkQmtkZUxfUU9LQmEtbHdqU084VDJVX2IyTDFjM2tBWEI5eDhrX2NOTDRFUF9nbWZkQ1VMSEJGNzUzSDZzR0RMNjhuZ3FmaVRsVF9IWEVBOTU5azVGQmMyVU55SFpIYzhlV0MxQ2w0anE3OEFmVmdJLUhfSl82dzRjQTViX25zSUloVWJPc3lxcEFFQkVyZw?oc=5",
+   "accuracy": "unverified-source-unfetchable",
+   "judge_score": 8
+  },
   {
    "title": "West Michigan town joins pause on new data centers",
    "dek": "A small West Michigan city has enacted a temporary halt on data center proposals, following similar moves by neighboring communities. The action stems from worries over heavy demands on local electricity and water supplies that could raise costs for residents. Michigan readers 30-60 miles away should watch how this affects regional utility planning and tax bases as more towns consider limits.",
@@ -171,23 +188,6 @@
    "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOTNULXlPVnpSc0xrYVJUbldhMENhY05COTcycTdpeHVGUkJDYlR1d0lpN3FOWWZMZ3dNN1BRaDJFQjJwdlpUYmhJUDJxSUhzaGFrOEhxSm1yck13X2J1N0FzdkhHeVVTZy1Fa19BNXVWTkNoTDdxUlhIZTJic245WGFvenJnRk5uNVE5SmgxLTF5eVBBb3p5MUt0T25haTEyX0hCV3haQTRIY2hTdGl1YkNPQzVXQdIBygFBVV95cUxPVVZkbDAyX1QySlpGeG9MaVF2WlNpa3JvLTRVWmg4MVFva1N3eWVHcG9LTTd0MFg2UUtIU25iVlBKb2J4LUo0M1BodTUyNDhqQVZhRS1DQ193TXhUandKYzItTnM2WE9kS001eDU2OVlrV25nSGlhcVZyMVVPM3ZCeHdsRjY3b0p5MnFlUU9EZDMwM2ZEN3ZzSFBYeEg4aXEyc3I4SFU5Y3lhWW9rbTRxU3ZBcE93M1NLdjBHOGNMODZQY2NjNnZOM3BR?oc=5",
    "accuracy": "unverified-source-unfetchable",
    "judge_score": 6
-  },
-  {
-   "title": "Lakeshore township blocks data centers using existing zoning rules",
-   "dek": "Officials say current ordinances already prevent large-scale server farms from locating near homes and wells. The decision keeps water and noise impacts off the table for now. Nearby west Michigan towns are watching to see if the same language works for them.",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWlJGaGY3S0Z2TGpSeGFnbnlMRWcxajBqYWRIWG5XMDFnQkJhNzAzYUFDN3RObkdON2VGOHRsWEhDeDdoODU5QmdIYkEyWVE2V3NleGVpRnJMTFFfaVZyOTRqVnN2aDJpcXVRdTJFRUpCb3VRaVdoU2lZdjAzVVpLUk1oM0tzZXVKOERwVXdFRXZSN2dzNlFiLTJtT3VvVUczQ205QV85c3BtbkRJSDhmckoxZzVLM05Z0gG4AUFVX3lxTE9aUkZoZjdLRnZMalJ4YWdueUxFZzFqMGphZEhYblcwMWdCQmE3MDNhQUM3dE5uR043ZUY4dGxYSEN4N2g4NTlCZ0hiQTJZUTZXc2V4ZWlGckxMUV9pVnI5NGpWc3ZoMmlxdVF1MkVFSkJvdVFpV2hTaVl2MDNVWktSTWgzS3NldUo4RHBVd0VFdlI3Z3M2UWItMm1PdW9VRzNDbTlBXzlzcG1uRElIOGZySjFnNUszTlk?oc=5",
-   "source": "MLive.com",
-   "region": "west",
-   "cat": "STATEWIDE",
-   "county": "Ottawa",
-   "tag": "Local Government",
-   "iso": "2026-09-04T14:48:00Z",
-   "id": "c824fd289b00",
-   "origin": "google-news",
-   "source_title": "Lakeshore town leans on current rules to keep out data centers - MLive.com",
-   "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWlJGaGY3S0Z2TGpSeGFnbnlMRWcxajBqYWRIWG5XMDFnQkJhNzAzYUFDN3RObkdON2VGOHRsWEhDeDdoODU5QmdIYkEyWVE2V3NleGVpRnJMTFFfaVZyOTRqVnN2aDJpcXVRdTJFRUpCb3VRaVdoU2lZdjAzVVpLUk1oM0tzZXVKOERwVXdFRXZSN2dzNlFiLTJtT3VvVUczQ205QV85c3BtbkRJSDhmckoxZzVLM05Z0gG4AUFVX3lxTE9aUkZoZjdLRnZMalJ4YWdueUxFZzFqMGphZEhYblcwMWdCQmE3MDNhQUM3dE5uR043ZUY4dGxYSEN4N2g4NTlCZ0hiQTJZUTZXc2V4ZWlGckxMUV9pVnI5NGpWc3ZoMmlxdVF1MkVFSkJvdVFpV2hTaVl2MDNVWktSTWgzS3NldUo4RHBVd0VFdlI3Z3M2UWItMm1PdW9VRzNDbTlBXzlzcG1uRElIOGZySjFnNUszTlk?oc=5",
-   "accuracy": "unverified-source-unfetchable",
-   "judge_score": 7
   }
  ],
  "national": {
@@ -206,23 +206,9 @@
  },
  "meetings": [
   {
-   "iso": "2026-09-08",
-   "body": "Ypsilanti City Council",
-   "topic": "Second reading and potential adoption of 60-day emergency moratorium on data center zoning permits",
-   "region": "SE Michigan",
-   "regionKey": "metro",
-   "county": "Washtenaw",
-   "time": "7:00 PM",
-   "status": "City Council meeting",
-   "urgent": true,
-   "link": "https://www.cityofypsilanti.com/",
-   "linkLabel": "City Council Agendas",
-   "stream": ""
-  },
-  {
    "iso": "2026-09-09",
    "body": "City of Ionia",
-   "topic": "Informational meeting on data center industry, potential impacts, and local considerations if proposals arise",
+   "topic": "Informational meeting on data center industry, potential impacts on power, water and local planning if proposals arise",
    "region": "West Michigan",
    "regionKey": "west",
    "county": "Ionia",
