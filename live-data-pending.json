@@ -1,6 +1,23 @@
 {
- "updated_at": "2026-09-09T00:02:11Z",
+ "updated_at": "2026-09-10T19:14:45+00:00",
  "generator": "grok-wire-agent",
- "items": [],
+ "items": [
+  {
+   "iso": "2026-09-10T12:00:00+00:00",
+   "region": "statewide",
+   "cat": "CAPITOL",
+   "tag": "Policy",
+   "title": "Capitol watch: SB1179 — Referred To Committee On Energy And Environment",
+   "dek": "Energy: other; reporting requirements for data centers; provide for. Recorded action in the Michigan Legislature; see the full bill history at the source link.",
+   "source": "Michigan Legislature",
+   "url": "https://legiscan.com/MI/bill/SB1179/2025",
+   "breaking": false,
+   "lead": false,
+   "accuracy": "checked",
+   "id": "810d2ba34e6a",
+   "kind": "capitol",
+   "filed_at": "2026-09-10T19:14:45+00:00"
+  }
+ ],
  "accuracy_checked_at": "2026-09-09T00:02:09+00:00"
 }
