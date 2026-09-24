@@ -1,7 +1,39 @@
 {
- "updated_at": "2026-09-12T08:48:31+00:00",
+ "updated_at": "2026-09-24T20:06:47+00:00",
  "generator": "grok-wire-agent",
  "items": [
+  {
+   "iso": "2026-09-29T12:00:00+00:00",
+   "region": "statewide",
+   "cat": "CAPITOL",
+   "tag": "Policy",
+   "title": "Capitol watch: HB6391 — Bill Electronically Reproduced 09/24/2026",
+   "dek": "Businesses: other; siting requirements for certain data centers; provide for. TIE BAR WITH: HB 6388'26. Recorded action in the Michigan Legislature; see the full bill history at the source link.",
+   "source": "Michigan Legislature",
+   "url": "https://legiscan.com/MI/bill/HB6391/2025",
+   "breaking": false,
+   "lead": false,
+   "accuracy": "checked",
+   "id": "4b0cf4063bd2",
+   "kind": "capitol",
+   "filed_at": "2026-09-24T20:06:47+00:00"
+  },
+  {
+   "iso": "2026-09-29T12:00:00+00:00",
+   "region": "statewide",
+   "cat": "CAPITOL",
+   "tag": "Policy",
+   "title": "Capitol watch: HB6388 — Bill Electronically Reproduced 09/24/2026",
+   "dek": "Businesses: other; Michigan zoning enabling act; make subject to the data center siting and community protection act. TIE BAR WITH: HB 6391'26. Recorded action in the Michigan Legislature; see the full bill history at the source link.",
+   "source": "Michigan Legislature",
+   "url": "https://legiscan.com/MI/bill/HB6388/2025",
+   "breaking": false,
+   "lead": false,
+   "accuracy": "checked",
+   "id": "99bcf7903e40",
+   "kind": "capitol",
+   "filed_at": "2026-09-24T20:06:47+00:00"
+  },
   {
    "iso": "2026-09-10T12:00:00+00:00",
    "region": "statewide",
