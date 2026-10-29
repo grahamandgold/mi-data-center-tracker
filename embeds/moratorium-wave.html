@@ -85,11 +85,11 @@ const EMBED_URL = location.origin + location.pathname;
 const monthKey = d => d.slice(0, 7);
 const monthLabel = k => new Date(k + "-15").toLocaleDateString("en-US", { month: "short", year: "2-digit" });
 
-// Real dark basemap — same CARTO tiles as the site's Live Map.
+// OpenStreetMap basemap — same tiles as the site's Live Map.
 const map = L.map("map", { zoomControl: false, scrollWheelZoom: false, attributionControl: true })
   .setView([44.3, -84.9], 7);
-L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
-  attribution: '© OpenStreetMap © CARTO', subdomains: "abcd", maxZoom: 19,
+L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+  attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors', maxZoom: 19,
 }).addTo(map);
 // Fit to the Lower + Upper Peninsula
 map.fitBounds([[41.6, -87.0], [45.9, -82.3]], { padding: [6, 6] });

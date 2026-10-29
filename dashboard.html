@@ -554,9 +554,9 @@ class Component extends DCLogic {
     if (!window.L) { if (t < 40) return void setTimeout(() => this._boot(t + 1), 100); return; }
     const L = window.L;
     // WAVE
-    const wmap = L.map("wave-map", { center:[44.4, -84.6], zoom:6, zoomControl:true, scrollWheelZoom:false, attributionControl:false });
+    const wmap = L.map("wave-map", { center:[44.4, -84.6], zoom:6, zoomControl:true, scrollWheelZoom:false, attributionControl:true });
     this.wmap = wmap;
-    L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", { subdomains:"abcd" }).addTo(wmap);
+    L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", { maxZoom:19, attribution:"&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors" }).addTo(wmap);
     const pts = this._wave(), months = this._months();
     this.wLayer = L.layerGroup().addTo(wmap);
     const draw = (cur) => {
@@ -579,9 +579,9 @@ class Component extends DCLogic {
     setTimeout(() => wmap.invalidateSize(), 200);
 
     // PRESSURE
-    const pmap = L.map("press-map", { center:[43.6, -84.2], zoom:6, zoomControl:true, scrollWheelZoom:false, attributionControl:false });
+    const pmap = L.map("press-map", { center:[43.6, -84.2], zoom:6, zoomControl:true, scrollWheelZoom:false, attributionControl:true });
     this.pmap = pmap;
-    L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", { subdomains:"abcd" }).addTo(pmap);
+    L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", { maxZoom:19, attribution:"&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors" }).addTo(pmap);
     const press = this._press();
     press.forEach(c => {
       L.circleMarker([c.lat, c.lng], { radius:8 + c.score * 3.4, weight:2, color:"#fff", fillColor:this._pcolor(c.score), fillOpacity:0.72 })

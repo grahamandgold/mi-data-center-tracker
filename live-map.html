@@ -41,6 +41,7 @@
   [style*="padding:46px 40px"],[style*="padding:40px 40px 46px"]{padding-left:18px !important;padding-right:18px !important;}
   img,svg,canvas{max-width:100% !important;height:auto !important;}
 }
+  .mdct-dark-tiles { filter: invert(1) hue-rotate(180deg) brightness(0.85) contrast(0.85); }
 </style>
 </head>
 <body>
@@ -335,8 +336,8 @@ class Component extends DCLogic {
     this._home = { c:[43.9,-84.55], z:7 };
 
     const bases = {
-      light: L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", { maxZoom:19, subdomains:"abcd", attribution:"&copy; OpenStreetMap &copy; CARTO" }),
-      dark: L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png", { maxZoom:19, subdomains:"abcd", attribution:"&copy; OpenStreetMap &copy; CARTO" }),
+      light: L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", { maxZoom:19, attribution:"&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors" }),
+      dark: L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", { maxZoom:19, className:"mdct-dark-tiles", attribution:"&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors" }),
       sat: L.tileLayer("https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}", { maxZoom:19, attribution:"&copy; Esri" })
     };
     this.bases = bases;

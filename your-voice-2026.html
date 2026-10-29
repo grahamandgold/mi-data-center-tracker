@@ -858,7 +858,7 @@ class Component extends DCLogic {
     const L = window.L;
     const map = L.map("dmap", { center:[44.4, -85.6], zoom:6, zoomControl:true, scrollWheelZoom:false });
     this.map = map;
-    L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", { subdomains:"abcd", attribution:"&copy; OSM &copy; CARTO" }).addTo(map);
+    L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", { attribution:"&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors" }).addTo(map);
     this._layers = {}; this._poly = {};
     const leg = this.data.find(r => r.id === "legislature");
     this._td = (leg.districts || []).map((d, i) => ({ idx:i, chamber: /House/.test(d.name) ? "house" : "senate", num: String(parseInt((d.name.match(/\d+/) || ["0"])[0], 10)) }));
